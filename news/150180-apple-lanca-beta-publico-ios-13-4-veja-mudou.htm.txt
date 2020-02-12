@@ -1,0 +1,9 @@
+A Apple lançou nesta segunda-feira (11) o primeiro teste beta público do iOS 13.4 e da variação da plataforma para tablets, o iPadOS 13.4. O sistema operacional móvel recebeu algumas novidades bastante pedidas por fãs, além de correções e alterações no visual de alguns serviços.
+Entre as adições, agora é possível fazer o compartilhamento de pastas do iCloud Drive com outros usuários, tornando os diretórios acessíveis para pessoas autorizadas. Além disso, agora há um novo atalho chamado "Shazam It", que faz a identificação de músicas que estejam tocando a partir do popular serviço adquirido pela empresa.
+Outro recurso celebrado é a nova "venda casada": desenvolvedores agora podem vender aplicativos de iPad, iPhone e Mac juntos, por meio de uma compra unificada em apps novos ou antigos. Esse é um passo valioso para uma futura unificação das lojas do ecossistema da Maçã.
+Ao todo, nove novos Memoji foram adicionados com diferentes poses para as ilustrações com a sua aparência. Na Siri, agora é possível pedir para a assistente levá-lo à tela inicial. Por fim, o aplicativo de Email foi remodelado, com a barra de ferramentas da versão anterior ganhando novas funções, incluindo "Enviar para a Lixeira", "Mover Mensagem" e "Responder", este também virando um menu com opções.
+Essa nova versão ainda traz a API CarKey, que pode transformar o dispositivo em uma chave de carro em breve.
+Quem pode participar?
+Para participar dos testes beta do iOS 13.4, primeiro acesse a página do programa de atualizações da empresa usando o dispositivo que você deseja atualizar.
+Os aparelhos compatíveis são os seguintes:
+Estão liberados também os testes beta públicos para o tvOS 13.4 (Apple TV de quarta e quinta gerações), que inclui uma integração via Family Sharing com o aplicativo do aparelho. Outros sistemas operacionais da família de dispositivos da empresa terão as versões liberadas em breve, incluindo o macOS Catalina 10.15.4.

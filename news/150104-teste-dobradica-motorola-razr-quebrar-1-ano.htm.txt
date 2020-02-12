@@ -1,0 +1,15 @@
+De acordo com um teste de durabilidade realizado pelo CNET, o Motorola Razr 2019 pode apresentar defeito em sua dobradiça em menos de um ano de uso. O site encomendou uma máquina para fazer o smartphone abrir e fechar, simulando o uso na prática. A dobradiça perdeu a capacidade de dobrar completamente após 27 mil movimentos.
+A Motorola não divulgou quantas dobras o Razr 2019 é capaz de suportar, mas disse que ele deve funcionar bem por pelo menos dois anos. De acordo com o The Verge, supondo que o usuário abra e feche o celular de 80 a 150 vezes por dia, os 27 mil movimentos seriam alcançados entre um período de seis meses a um ano, a metade do tempo sugerido pela fabricante.
+O teste foi finalizado quando a equipe forçou o celular a fechar até o fim e percebeu que a dobradiça ficou desalinhada. Apesar disso, a tela do aparelho continuou 100% funcional.
+
+Teste não é conclusivo
+Devemos assumir que o teste do CNET não é conclusivo. Afinal, eles testaram apenas um aparelho. Além disso, antes de chegar aos 27 mil movimentos, a máquina parou de dobrar o celular até o final. Isso tanto pode ser um indício de que o aparelho começou a apresentar problemas antes do final do teste como pode ter sido falta de calibragem da máquina utilizada. A empresa que a desenvolveu não tinha um Razr para testar a eficiência do produto.
+O que diz a Motorola
+A Motorola questionou os resultados obtidos pelos testes do Cnet alegando que eles não representam nem de perto a forma como o aparelho seria utilizado em uma situação real. A empresa emitiu um comunicado oficial sobre o tema:
+O razr é um smartphone exclusivo, com um sistema dobrável diferente de qualquer dispositivo no mercado. O FoldBot da SquareTrade não foi projetado para testar nosso dispositivo. Portanto, qualquer operação realizada utilizando esta máquina colocará uma tensão indevida na dobradiça e não permitirá que o telefone abra e feche conforme o esperado, tornando o teste impreciso. O importante é lembrar que o razr passou por extensos testes de resistência do ciclo durante o desenvolvimento do produto, e o teste da CNET não simula nem reflete o uso real que os usuários terão com o Motorola Razr. Temos toda a confiança na durabilidade do razr. Para ver como testamos o sistema de dobragem do razr, confira nosso twitter.
+
+De qualquer forma, esse tipo de teste ainda põe em dúvida a durabilidade desses aparelhos dobráveis. Um vídeo da BBC News compartilhado no Twitter mostra que, na parte onde fica localizada a dobradiça, a tela pode “descolar” do chassi.
+
+Além disso, youtubers já postaram que o celular pode começar a ranger com o movimento de abrir e fechar.
+Se vale a pena pagar tão caro em um smartphone dobrável com essa incerteza sobre sua durabilidade? Isso, só o tempo dirá.
+Obs: esta notícia foi atualizada em 10/02/20 às 11h41 para incluir o comunicado oficial da Motorola.

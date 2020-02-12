@@ -1,0 +1,7 @@
+Pesquisadores da ERNW descobriram uma vulnerabilidade de segurança no Android, que pode ser explorada por meio da conexão Bluetooth e permite que um hacker envie malwares para um dispositivo, caso ele descubra o endereço MAC do componente de rede.
+A falha, denominada BlueFrag, pode permitir que os dados de um smartphone ou tablet sejam roubados durante o ataque, sendo que o usuário nem se daria conta de que foi invadido. Esse tipo de ataque é mais comum em ambientes onde muitas pessoas compartilham a mesma rede sem fio.
+Android 10 está imune
+Apesar da vulnerabilidade não afetar o Android 10, ela impacta os Android 9 Pie e o 8 Oreo, que são duas das versões mais utilizadas atualmente. Os pesquisadores também informaram que versões anteriores do sistema podem conter a brecha, mas eles ainda não tiveram tempo de comprovar.
+Como se proteger
+A primeira coisa que o dono de um dispositivo com Android 9 e 8 deve fazer é procurar por atualizações do sistema. Caso a fabricante do celular tenha liberado o patch de segurança de fevereiro, isso deve resolver o problema.
+O problema maior será os aparelhos em que as fabricantes vão demorar para liberar o patch, ou, nos piores casos, se o celular já tiver mais de dois anos de lançado e não estiver mais recebendo atualizações: nessas situações, é recomendável que o usuário só utilize o Bluetooth se for realmente necessário e, principalmente, evite acessar redes públicas com esse recurso habilitado.

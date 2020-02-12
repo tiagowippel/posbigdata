@@ -41,12 +41,12 @@ Promise.each(arr, (item, index) => {
 
                                     if (link.includes(".txt")) {
                                         return rp(
-                                            `https://www.gutenberg.org${link}`,
-                                            {
-                                                headers: {
-                                                    "User-Agent": random_useragent.getRandom()
-                                                }
-                                            }
+                                            `https://www.gutenberg.org${link}`
+                                            // {
+                                            //     headers: {
+                                            //         "User-Agent": random_useragent.getRandom()
+                                            //     }
+                                            // }
                                         ).then(body => {
                                             console.log(link);
 

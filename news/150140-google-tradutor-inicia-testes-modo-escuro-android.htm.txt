@@ -1,0 +1,8 @@
+Depois de levar o modo escuro para o Android 10 e alguns apps do sistema, a gigante das buscas está testando a tecnologia no Google Tradutor, disponibilizando um recurso bastante solicitado pelos usuários de smartphones.
+Segundo o XDA, o tema escuro foi encontrado na versão 6.5 do aplicativo de tradução, que ainda não está disponível para o público em geral, mas deve chegar em breve à Play Store, trazendo esta e outras novidades para quem utiliza o app com frequência.
+Ao ativar o modo escuro no Google Tradutor 6.5, os elementos em branco são alterados para uma tonalidade cinza escuro, enquanto os que normalmente aparecem na cor azul são mantidos, como é possível ver na imagem abaixo.
+Esta mesma cor cinza também aparece em outras partes do tradutor, como no menu de seleção de idiomas, nos resultados dos textos traduzidos e na página inicial do programa. Já nas configurações, o fundo está totalmente escuro, de modo semelhante ao visto em outros apps que receberam a tecnologia.
+Transcrição aprimorada
+Junto com o dark mode, a companhia de Mountain View também está trabalhando no recurso de transcrição do tradutor, conforme o XDA, que surgiu pela primeira vez em dezembro passado. Agora, ele aparece no ícone Transcrever, localizado ao lado das opções Câmera e Conversa.
+Esta ferramenta possibilita a tradução em tempo real (ou contínua), funcionando como se fosse um intérprete, facilitando as conversas com pessoas que falam um idioma diferente do seu.
+A expectativa é de que estas tecnologias possam ser oferecidas em breve, na próxima atualização estável do Google Tradutor.

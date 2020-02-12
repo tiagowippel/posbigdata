@@ -1,0 +1,14 @@
+No filme A.I.: Inteligência Artificial, uma mãe adota um androide para substituir o filho, vítima de uma doença incurável. A realidade se aproximou um pouco mais dessa ficção no encontro entre uma mulher e sua filha Nayeon, uma menina de sete anos morta pela leucemia em fins de 2017.
+
+A iniciativa partiu da Munhwa Broadcasting Corporation (uma das principais redes de rádio e TV da Coreia do Sul), com o projeto I Met You, cujo objetivo era recriar Nayeon usando realidade virtual para que sua mãe, Jang Ji-sung, pudesse reencontrá-la.
+O passo primeiro foi reunir fotos e gravações de áudio e vídeo da menina. Além disso, a produção contratou atores para capturar seus movimentos e, assim, recriar Nayeon em VR mais realisticamente.
+
+Havia apenas um minuto gravado com a voz da filha de Jang Ji-sung. Por isso, atrizes mirins cederam suas vozes e expressões faciais para a menina que estava sendo recriada.
+
+Oito meses depois, a mãe reencontrou sua filha morta, em um parque virtual semelhante ao que ambas frequentavam.
+
+Apenas lembranças
+Existem no mercado outras iniciativas cujo objetivo é imortalizar um ente querido depois que ele morre, usando entrevistas, sua pegada digital e quaisquer outras informações para criar um bot e um avatar.
+Uma das mais conhecidas é o Dadbot, um bot criado pelo pesquisador James Vlahos para preservar a memória do pai (morto por câncer de pulmão) e que deu origem è empresa HereAfter, que usa inteligência artificial para eternizar uma pessoa.
+Outra plataforma é a Etermine, que coleta informações da vida digital da pessoa (como textos, fotos, vídeos) através de sua presença online e em mídias sociais. Um avatar é criado a partir desse banco de dados.
+“Como se sabe que a pessoa se foi, seu equivalente virtual acaba sendo aceito como o que realmente é: uma lembrança reconfortante. Não há nada de errado ou antiético nisso", disse o neurocientista de Princeton Michael Graziano ao site Dell Technologies.

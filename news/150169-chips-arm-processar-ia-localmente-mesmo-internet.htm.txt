@@ -1,0 +1,10 @@
+A ARM anunciou dois chips baseados na tecnologia “Edge AI” (inteligência artificial a bordo, em português). Essa tecnologia permite que dispositivos processem tarefas de inteligência artificial localmente, sem a necessidade de acessar os recursos localizados na nuvem. Sendo assim, esses aparelhos se beneficiariam de um processamento muito mais ágil, seguro e privado.
+A IA a bordo é uma tecnologia que interessa às maiores empresas do ramo. Recentemente, a Apple comprou uma empresa especializada em IA a bordo. A Google, por sua vez, lançou a iniciativa Coral, que vai promover pesquisas nesta área.
+Cortex-M55 e Ethos-U55
+Há anos, a ARM vinha desenvolvendo sua própria abordagem de IA a bordo. Agora, ela acabou de anunciar os novos chips Cortex-M55 e Ethos-U55, que é uma unidade de processamento neural (NPU, na sigla em inglês) que vai trabalhar em conjunto com o M55 em tarefas mais pesadas.
+De acordo com a companhia, o Cortex-M55 é até 15 vezes mais rápido em tarefas de aprendizado de máquina e cinco vezes mais rápido no processamento de sinal digital, em relação ao chip da linha Cortex-M da geração anterior.
+Quando as tarefas de inteligência artificial exigirem processamento superior, os chips da linha M podem ser usados juntamente com a NPU Ethos-U55. Combinados, eles podem ser até 32 vezes mais rápidos no processamento de aprendizagem de máquina que um Cortex-M55 trabalhando sozinho, ou 480 vezes melhores que um Cortex-M da geração anterior.
+Novos dispositivos IoT
+Segundo a ARM, ao invés de serem usados apenas em smartphones e tablets, esses chips podem permitir a criação de novos dispositivos baseados em internet das coisas, com funções totalmente inéditas, como uma câmera 360º em uma bengala que poderia identificar obstáculos, ou um trem com sensores que o permitiria analisar o tráfego e evitar atrasos.
+Chips com essa tecnologia não seriam, necessariamente, fabricados pela ARM. A empresa compartilha o modelo tecnológico com companhias parceiras, que poderiam fazer adaptações no produto final.
+A ARM prevê que chips como esses só devem começar a ser fabricados a partir de 2021.

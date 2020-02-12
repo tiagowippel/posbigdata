@@ -1,0 +1,9 @@
+A Apple pode estar testando o uso de processadores AMD em novos Macs. É o que sugere um usuário do Reddit e do Twitter que detectou trechos de códigos referentes a vários processadores da marca na versão beta mais recente do sistema operacional da Maçã.
+Segundo o usuário intitulado @_rogame, responsável pela identificação, o MacOS Catalina 10.15.4 beta 1 traz pelo menos sete códigos referentes aos chips da marca, como por exemplo o codinome Renoir, relacionado aos novos processadores Ryzen 4000 da fabricante.
+Apesar da descoberta destes códigos, que levaram a uma série de especulações a respeito da possibilidade de uma parceria entre as duas marcas, não existem maiores evidências de que a companhia de Cupertino esteja pensando em trocar de fornecedor de chipset, substituindo a tradicional parceira, Intel.
+
+O que pode estar acontecendo é apenas um teste interno, sem nenhum compromisso de troca, embalado pelo sucesso dos novos processadores Ryzen, que têm superado alguns dos melhores chips da Intel, atraindo muitos fabricantes de computadores em busca das melhores opções de processamento.
+Mac para jogos a caminho?
+Uma das possibilidades levantadas pelo Ubergizmo para esses testes feitos com os chipsets da AMD é que eles teriam relação com um suposto Mac para games.
+Segundo a publicação, vários boatos surgidos em 2019 apontavam que a empresa estaria pensando em entrar no mercado dos games, dominado pelos PCs, lançando uma máquina poderosa.
+Vale lembrar que a Maçã utiliza GPUs da AMD em alguns dos seus lançamentos mais recentes, como na última geração do Mac Pro e no MacBook Pro de 16 polegadas.

@@ -1,0 +1,9 @@
+Muito dos conceitos usados em robótica são cópias do que acontece na natureza – e a chamada robótica macia baseia-se justamente no modo como organismos vivos se movem e se adaptam ao ambiente. Porém, por conta dos materiais usados, a refrigeração sempre foi um dos maiores obstáculos.
+Uma equipe da Universidade de Cornell, nos EUA, chegou a uma solução simples: como nos seres vivos que precisam regular sua temperatura, esse robô transpira.
+Em um artigo publicado no último dia 29 na revista Science Robotics, o grupo de cientistas mostra como criou um músculo robótico que regula sua temperatura através da transpiração. O trabalho servirá de base para que robôs de alta potência trabalhem por longos períodos de tempo sem superaquecer.
+"A capacidade de transpirar é uma das características mais notáveis dos seres humanos, porque aproveita o suor evaporado para dissipar rapidamente o calor, esfriando o mecanismo abaixo da temperatura ambiente”, explicou o pesquisador do Facebook Reality Labs e co-autor principal, TJ Wallin.
+Como a pele humana
+O hidrogel usado para fabricar o mecanismo responde à temperatura e retém água, funcionando como uma esponja inteligente. A camada-base encolhe quando o mecanismo atinge temperaturas acima de 30° C. Isso empurra a água para a camada superior, repleta de poros microscópicos, também sensíveis à mesma temperatura.
+O resultado: quando a mão robótica aquece, os poros se dilatam e a água, concentrada na camada-base, é empurrada para fora, resfriando o mecanismo. Assim que a temperatura cai abaixo dos 30°C, os poros se fecham – exatamente como acontece na pele humana, mas três vezes mais eficiente.
+
+Alguns problemas ainda precisam ser solucionados, como o reabastecimento da água usada no sistema. O engenheiro mecânico aeroespacial e líder do projeto, Rob Shepherd, acredita que, futuramente, robôs macios não apenas vão transpirar como mamíferos como beber como eles.

@@ -1,0 +1,7 @@
+O WhatsApp recebeu uma nova atualização em sua versão beta que, além de outros detalhes, inclui cores sólidas inéditas para combinar com o modo escuro.
+No primeiro momento, apenas usuários de Android que possuem a versão beta do aplicativo puderam testar essa nova função. Logo em seguida, a novidade também alcançou usuários de iPhone através do Apple Testflight, como detalhamos nesta matéria aqui.
+A versão beta 2.20.32 do WhatsApp vai permitir que usuários tenham uma experiência mais personalizada, uma vez que a atualização inclui seis novas opções de wallpapers: preto total, marrom escuro, azul escuro, oliva escuro, roxo escuro e veludo.
+A nova versão também permite que o WhatsApp se adapte à escolha do usuário. Se você optou por uma das cores acima como wallpaper no modo escuro, mas decide desligá-lo, o aplicativo vai automaticamente adaptar sua escolha para uma versão mais clara.
+Apesar dos pontos positivos, essa atualização somente irá rodar em smartphones com Android 10 — antes da atualização 2.20.28, era possível utilizá-la no Android Pie.
+Vale lembrar que, uma vez que se trata de uma versão beta, as novidades podem sofrer mais alterações. Ainda não há uma data oficial para o lançamento da novidade, mas segundo o site WABetaInfo, não deve demorar muito.
+O modo escuro do mensageiro irá oferecer mais conforto para os usuários, sobretudo no período da noite. Além disso, em dispositivos com telas AMOLED, essa funcionalidade pode ajudar a economizar a bateria.

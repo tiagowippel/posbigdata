@@ -1,0 +1,10 @@
+Para quem mora em áreas suscetíveis a alagamentos, ter um app que mostre a mobilidade pela cidade na hora do temporal é uma mão na roda. Selecionamos os três com mais recursos, inclusive para quem anda a pé – todos para Android, iOS e PCs.
+Três apps salvadores
+Além de detectar vias interditadas e receber alertas sobre o funcionamento de linhas de ônibus, trens e metrô em relação à lentidão do serviço ou mesmo interrupção, o sistema é alimentado com dados oficiais de agências públicas e ainda via contribuição de usuários.
+Para reportar algum problema encontrado, basta abrir o Google Maps, acessar Menu > Enviar feedback > Informações incorretas.  Selecione a via afetada; depois, na lista exibida na parte inferior, toque no lugar ou na via sobre a qual você quer reportar um problema.  Toque em “Interditada” ou “Bloqueada”. Preencha o formulário e envie; os outros usuários da região agradecem.
+
+O Waze (comprado pelo Google em 2019) é um dos melhores companheiros pra quem bate perna o dia todo. Através dele é possível escolher as melhores rotas e calcular o tempo gasto no trajeto. O usuário ainda recebe alertas sobre bloqueios no trânsito, congestionamentos, vias interditadas, alagamentos e a presença de radares.
+Aqui também é possível compartilhar anonimamente dados sobre o trânsito com a comunidade de usuários, que forma, desse modo, uma rede de informações sobre as condições das ruas da cidade.
+
+Pra é usuário de transporte público o Moovit é uma mão na roda. O aplicativo dá ao usuário informações como a a localização dos ônibus e como estão os sistemas de metrô e trem, o que pode ajudar o usuário a ter uma ideia do tamanho do nó formado por causa da chuva. Assim, é possível saber se é melhor retornar para onde se estava e esperar a chuva passar e a água baixar.
+
