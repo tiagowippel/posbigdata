@@ -1,0 +1,6869 @@
+The Project Gutenberg EBook of Coriolanus, by William Shakespeare
+(#36 in our series by William Shakespeare)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Coriolanus
+
+Author: William Shakespeare
+
+Release Date: November, 2004  [EBook #6990]
+[This file was first posted on February 20, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ISO Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK, CORIOLANUS ***
+
+
+
+
+Thanks are given to Delphine Lettau for finding a huge collection of ancient
+German books in London.
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verf�gung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+Coriolanus
+
+William Shakespeare
+
+�bersetzt von Dorothea Tieck
+unter der Redaktion von Ludwig Tieck
+
+
+Personen:
+
+Cajus Marcius Coriolanus, ein edler R�mer
+
+Titus Lartius und Cominius, Anf�hrer gegen die Volsker
+
+Menenius Agrippa, Coriolans Freund
+
+Sicinius Velutus und Junius Brutus, Volkstribunen
+
+Marcius, Coriolans kleiner Sohn
+
+Ein r�mischer Herold
+
+Tullus Aufidius, Anf�hrer der Volsker
+
+Ein Unterfeldherr des Aufidius
+
+Verschworene
+
+Ein B�rger von Antium
+
+Zwei volskische Wachen
+
+Volumnia, Coriolans Mutter
+
+Virgilia, Coriolans Gemahlin
+
+Valeria, Virgilias Freundin
+
+Dienerinnen der Virgilia
+
+R�mer und Volsker.  Senatoren, Patrizier, �dilen, Liktoren, Krieger, B�rger, Boten
+
+
+
+
+Erster Aufzug
+
+
+
+Erste Szene
+
+Rom, eine Stra�e
+Es tritt auf ein Haufe aufr�hrerischer B�rger mit St�ben,
+Kn�tteln und anderen Waffen
+
+
+Erster B�rger.
+Ehe wir irgend weitergehn, h�rt mich sprechen.
+
+Zweiter B�rger.
+Sprich! sprich!--
+
+Erster B�rger.
+Ihr alle seid entschlossen, lieber zu sterben als zu verhungern?
+
+Alle B�rger.
+Entschlossen! entschlossen!--
+
+Erster B�rger.
+Erstlich wi�t ihr: Cajus Marcius ist der Hauptfeind des Volkes.
+
+Alle B�rger.
+Wir wissen's! Wir wissen's!--
+
+Erster B�rger.
+La�t uns ihn umbringen, so k�nnen wir die Kornpreise selbst machen.
+Ist das ein Wahrspruch?
+
+Alle B�rger.
+Kein Geschw�tz mehr dar�ber.  Wir wollen's tun.  Fort! fort!
+
+Zweiter B�rger.
+Noch ein Wort, meine guten B�rger!
+
+Erster B�rger.
+Wir werden f�r die armen B�rger gehalten, die Patrizier f�r die guten.
+Das, wovon der Adel schwelgt, w�rde uns n�hren.  G�ben sie uns nur das
+�berfl�ssige, ehe es verdirbt, so k�nnten wir glauben, sie n�hrten uns
+auf menschliche Weise; aber sie denken, soviel sind wir nicht wert.
+Der Hunger, der uns ausgemergelt, der Anblick unsers Elends ist gleichsam
+ein Verzeichnis, in welchem postenweise ihr �berflu� aufgef�hrt wird.
+Unser Leiden ist ihnen ein Gewinn.  Dies wollen wir mit unsern Spie�en
+r�chen, ehe wir selbst Spie�gerten werden.  Denn das wissen die G�tter!
+Ich rede so aus Hunger nach Brot, und nicht aus Durst nach Rache.
+
+Zweiter B�rger.
+Wollt ihr besonders auf den Cajus Marcius losgehen?
+
+Alle.
+Auf ihn zuerst, er ist ein wahrer Hund gegen das Volk.
+
+Zweiter B�rger.
+Bedenkt ihr auch, welche Dienste er dem Vaterlande getan hat?
+
+Erster B�rger.
+Sehr wohl! und man k�nnte ihn auch recht gern daf�r loben; aber er
+belohnt sich selbst dadurch, da� er so stolz ist.
+
+Zweiter B�rger.
+Nein, rede nicht so boshaft.
+
+Erster B�rger.
+Ich sage euch, was er r�hmlich getan hat, tat er nur deshalb.  Wenn auch
+zu gewissenhafte Menschen so billig sind, zu sagen, es war f�r sein
+Vaterland, so tat er's doch nur, seiner Mutter Freude zu machen und zum
+Teil, um stolz zu sein; denn sein Stolz ist ebenso gro� als sein Verdienst.
+
+Zweiter B�rger.
+Was er an seiner Natur nicht �ndern kann, das rechnet Ihr ihm f�r ein Laster.
+Das d�rft Ihr wenigstens nicht sagen, da� er habs�chtig ist.
+
+Erster B�rger.
+Wenn ich das auch nicht darf, werden mir doch die Anklagen nicht ausgehen.
+Er hat Fehler so �berlei, da� die Aufz�hlung erm�det.
+
+(Geschrei hinter der Szene.)
+
+Welch Geschrei ist das?  Die andre Seite der Stadt ist in Aufruhr.  Was stehn
+wir hier und schwatzen?  Aufs Kapitol!
+
+Alle.
+Kommt!  Kommt!--
+
+Erster B�rger.
+Still!  Wer kommt hier?
+
+(Menenius Agrippa tritt auf)
+
+Zweiter B�rger.
+Der w�rdige Menenius Agrippa, einer, der das Volk immer geliebt hat.
+
+Erster B�rger.
+Der ist noch ehrlich genug.  W�ren nur die �brigen alle so!
+
+Menenius.
+Was habt ihr vor, Landsleute?  wohin geht ihr
+Mit Stangen, Kn�tteln?  Sprecht, was gibt's?  Ich bitt euch!
+
+Erster B�rger.
+Unsre Sache ist dem Senat nicht unbekannt; sie haben davon munkeln h�ren
+seit vierzehn Tagen, was wir vorhaben und das wollen wir ihnen nun durch
+Taten zeigen.  Sie sagen, arme Klienten haben schlimmen Atem: sie sollen
+erfahren, da� wir auch schlimme Arme haben.
+
+Menenius.
+Ei, Leute! gute Freund' und liebe Nachbarn,
+Wollt ihr euch selbst zugrunde richten?
+
+Erster B�rger.
+Nicht m�glich, wir sind schon zugrund gerichtet.
+
+Menenius.
+Ich sag euch, Freund', es sorgt mit wahrer Liebe
+F�r euch der Adel.  Eure Not betreffend,
+Die jetzge Teurung, k�nntet ihr so gut
+Dem Himmel dr�un mit Kn�tteln, als sie schwingen
+Gegen den Staat von Rom, des Lauf sich bricht
+So grade Bahn, da� es zehntausend Z�gel
+Von h�rtrem Erz zerrei�t, als jemals ihm
+Nur eure Hemmung bietet.  Diese Teurung,
+Die G�tter machen sie, nicht die Patrizier;
+Gebeugte Knie, nicht Arme m�ssen helfen.
+Ach! durch das Elend werdet ihr verlockt
+Dahin, wo gr��res euch umf�ngt.  Ihr l�stert
+Roms Lenker, die wie V�ter f�r euch sorgen,
+Wenn ihr wie Feinde sie verflucht.
+
+Erster B�rger.
+F�r uns sorgen!--nun, wahrhaftig!--Sie sorgten noch nie f�r uns.  Uns
+verhungern lassen, und ihre Vorratsh�user sind vollgestopft mit Korn.
+Verordnungen machen gegen den Wucher, um die Wucherer zu unterst�tzen.
+T�glich irgendein heilsames Gesetz gegen die Reichen widerrufen und
+t�glich sch�rfere Verordnungen ersinnen, die Armen zu fesseln und
+einzuzw�ngen.  Wenn der Krieg uns nicht auffri�t, tun sie's: das ist
+ihre ganze Liebe f�r uns.
+
+Menenius.
+Entweder m��t ihr selbst
+Als ungew�hnlich t�ckisch euch bekennen,
+Sonst schelt ich euch als t�richt.  Ich erz�hl euch
+Ein h�bsches M�rchen; m�glich, da� ihr's kennt;
+Doch, da's hier eben herpa�t, will ich wagen,
+Es nochmals aufzuw�rmen.
+
+Erster B�rger.
+Gut, wir wollen's anh�ren, Herr.  Ihr m��t aber nicht glauben, unser
+Ungl�ck mit einem M�rchen wegfoppen zu k�nnen; doch, wenn Ihr wollt,
+her damit.
+
+Menenius.
+Einstmals geschah's, da� alle Leibesglieder,
+Dem Bauch rebellisch, also ihn verklagten:
+Da� er allein nur wie ein Schlund verharre
+In Leibes Mitte, arbeitslos und m��ig,
+Die Speisen stets verschlingend, niemals t�tig,
+So wie die andern all, wo jene Kr�fte
+S�hn, h�rten, spr�chen, d�chten, gingen, f�hlten
+Und, wechselseitig unterst�tzt, dem Willen
+Und allgemeinen Wohl und Nutzen dienten
+Des ganzen Leibs.  Der Bauch erwiderte--
+
+Erster B�rger.
+Gut, Herr, was hat der Bauch denn nun erwidert?
+
+Menenius.
+Ich sag es gleich.--Mit einer Art von L�cheln,
+Das nicht von Herzen ging, nur gleichsam so--
+(Denn seht, ich kann den Bauch ja l�cheln lassen
+So gut als sprechen) gab er h�hnisch Antwort
+Den mi�vergn�gten Gliedern, die rebellisch
+Die Eink�nft ihm nicht g�nnten; ganz so passend
+Wie ihr auf unsre Senatoren scheltet,
+Weil sie nicht sind wie ihr.
+
+Erster B�rger.
+Des Bauches Antwort.  Wie!
+Das f�rstlich hohe Haupt; das wache Auge;
+Das Herz: der kluge Rat; der Arm: der Krieger;
+Das Bein: das Ro�; die Zunge: der Trompeter;
+Nebst andern �mtern noch und kleinern Hilfen
+In diesem unserm Bau, wenn sie--
+
+Menenius.
+Was denn,
+Mein Treu! der Mensch da schwatzt!  Was denn?  Was denn?
+
+Erster B�rger.
+So w�rden eingezw�ngt vom Fresser Bauch,
+Der nur des Leibes Abflu�--
+
+Menenius.
+Gut, was denn?
+
+Erster B�rger.
+Die andern Kr�fte, wenn sie nun so klagten,
+Der Bauch, was k�nnt er sagen?
+
+Menenius.
+Ihr sollt's h�ren.
+Schenkt ihr ein bi�chen, was ihr wenig habt,
+Geduld, so sag ich euch des Bauches Antwort.
+
+Erster B�rger.
+Ihr macht es lang.
+
+Menenius.
+Jetzt pa�t wohl auf, mein Freund!
+Eur h�chst verst�ndger Bauch, er war bed�chtig,
+Nicht rasch, gleich den Beschuldgern, und sprach so:
+"Wahr ist's, ihr einverleibten Freunde", sagt' er,
+"Zuerst nehm ich die ganze Nahrung auf,
+Von der ihr alle lebt; und das ist recht,
+Weil ich das Vorratshaus, die Werkstatt bin
+Des ganzen K�rpers.  Doch bedenkt es wohl;
+Durch eures Blutes Str�me send ich sie
+Bis an den Hof, das Herz--den Thron, das Hirn,
+Und durch des K�rpers G�ng und Windungen
+Empf�ngt der st�rkste Nerv, die feinste Ader
+Von mir den angeme�nen Unterhalt,
+Wovon sie leben.  Und obwohl ihr alle--"
+Ihr guten Freund' (habt acht), dies sagt der Bauch.
+
+Erster B�rger.
+Gut.  Weiter!
+
+Menenius.
+"Seht ihr auch nicht all auf eins,
+Was jeder Einzelne von mir empf�ngt,
+Doch kann ich Rechnung legen, da� ich allen
+Das feinste Mehl von allem wieder gebe,
+Und nur die Klei' mir bleibt." Wie meint ihr nun?
+
+Erster B�rger.
+Das war 'ne Antwort.  Doch wie pa�t das hier?
+
+Menenius.
+Roms Senatoren sind der gute Bauch,
+Ihr die emp�rten Glieder; denn erw�gt
+Ihr M�hn, ihr Sorgen.  Wohl bedenkt, was alles
+Des Staates Vorteil heischt; so seht ihr ein,
+Kein allgemeines Gut, was ihr empfangt,
+Das nicht entsprang und kam zu euch von ihnen,
+Durchaus nicht von euch selbst.  Was denkt ihr nun?
+Du, gro�e Zeh, in dieser Ratsversammlung.
+
+Erster B�rger.
+Ich, die gro�e Zehe?  Warum die gro�e Zehe?
+
+Menenius.
+Weil du, der Niedrigst, �rmst, Erb�rmlichste
+Von dieser weisen Rebellion, vorantrittst.
+Du, Schw�chling ohne Kraft und Ansehen, l�ufst
+Voran und f�hrst, dir Vorteil zu erjagen.--
+Doch schwenkt nur eure St�b und d�rren Kn�ttel,
+Rom und sein Rattenvolk zieht aus zur Schlacht,
+Der eine Teil mu� Tod sich fressen.
+
+(Cajus Marcius tritt auf.)
+
+Heil! edler Marcius.
+
+Marcius.
+Dank Euch!  Was gibt es hier?  Rebellsche Schurken,
+Die ihr das Jucken eurer Einsicht kratzt,
+Bis ihr zu Aussatz werdet.
+
+Erster B�rger.
+Von Euch bekommen wir doch immer gute Worte.
+
+Marcius.
+Ein gutes Wort dir geben, hie�e schmeicheln
+Jenseits des Abscheus.  Was verlangt ihr, Hunde,
+Die Krieg nicht wollt noch Frieden?  jener schreckt euch,
+Und dieser macht euch frech.  Wer euch vertraut,
+Find't euch als Hasen, wo er L�wen hofft
+Wo F�chse, G�ns.  Ihr seid nicht sichrer, nein!
+Als gl�hnde Feuerkohlen auf dem Eis,
+Schnee in der Sonne.  Eure Tugend ist,
+Den adeln, den Verbrechen niedertreten,
+Dem Recht zu fluchen, das ihn schl�gt.  Wer Gr��e
+Verdient, verdient auch euern Ha�; und eure Liebe
+Ist eines Kranken Gier, der heftig w�nscht,
+Was nur sein �bel mehrt.  Wer sich verl��t
+Auf eure Gunst, der schwimmt mit blei'rnen Flossen,
+Und haut mit Binsen Eichen nieder.  H�ngt euch!
+Euch traun?
+Ein Augenblick, so �ndert ihr den Sinn,
+Und nennt den edel, den ihr eben ha�tet,
+Den schlecht, der euer Abgott war.  Was gibt's?
+Da� ihr, auf jedem Platz der Stadt gedr�ngt,
+Schreit gegen den Senat, der doch allein,
+Zun�chst den G�ttern, euch in Furcht erh�lt;
+Ihr fr��t einander sonst.  Was wollen sie?
+
+Menenius.
+Nach eignem Preis das Korn, das, wie sie sagen
+Im �berflu� daliegt.
+
+Marcius.
+H�ngt sie!  Sie sagen's?
+Beim Feuer sitzend, wissen sie genau,
+Was auf dem Kapitol geschieht; wer steigt,
+Wer gilt, wer f�llt; da stiften sie Faktionen
+Und schlie�en Ehen; st�rken die Partei
+Und beugen die, die nicht nach ihrem Sinn,
+Noch unter ihre N�gelschuh.  Sie sagen,
+Korn sei genug vorhanden?
+Wenn sich der Adel doch der Mild entschl�ge,
+Da� ich mein Schwert ziehn d�rft.  Ich h�ufte Berge
+Von Leichen der zerhaunen Sklaven, h�her,
+Als meine Lanze fliegt.
+
+Menenius.
+Nein, diese sind fast g�nzlich schon beruhigt;
+Denn, fehlt im �berflu� auch der Verstand,
+So sind sie doch ausb�ndig feig.  Doch sagt mir,
+Was macht der andre Trupp?
+
+Marcius.
+Schon ganz zerstreut.
+Die Schurken!
+Sie hungern, sagten sie, und �chzten Spr�chlein,
+Als: "Not bricht Eisen; Hunde m�ssen fressen;
+Das Brot ist f�r den Mund; die G�tter senden
+Nicht blo� den Reichen Korn." Mit solchen Fetzen
+Macht sich ihr Klagen Luft; man h�rt sie g�tig,
+Bewilligt eine Fordrung--eine starke--
+(Des Adels Herz zu brechen, jede Kraft
+Zu t�ten) und nun schmei�en sie die M�tzen,
+Als sollten auf des Mondes Horn sie h�ngen,
+Frech laut und lauter jauchzend.
+
+Menenius.
+Und was ward zugestanden?
+
+Marcius.
+F�nf Tribunen,
+Um ihre P�belweisheit zu vertreten,
+Aus eigner Wahl: der ein ist Junius Brutus,
+Sicinius und--was wei� ich--Tod und Pest!
+Die Lumpen sollten eh die Stadt abdecken,
+Als mich so weit zu bringen.  N�chstens nun
+Gewinnen sie noch mehr und fordern Gr��res
+Mit Androhn der Emp�rung.
+
+Menenius.
+Das ist seltsam.
+
+Marcius.
+Geht, fort mit euch, ihr �berbleibsel!
+
+(Ein Bote tritt auf.)
+
+Bote.
+Ist Cajus Marcius hier?
+
+Marcius.
+Nun ja! was soll's?
+
+Bote.
+Ich meld Euch, Herr, die Volsker sind in Waffen.
+
+Marcius.
+Mich freut's!  So werden wir am besten los
+Den �berflu�, der schimmlicht wird.--Seht da,
+Die w�rdgen V�ter.  Es treten auf Cominius, Titus Lartius und andre
+Senatoren, Junius Brutus und Sicinius Velutus.
+
+Erster Senator.
+Marcius, was Ihr uns sagtet, ist geschehn:
+Die Volsker sind in Waffen.
+
+Marcius.
+Ja, sie f�hrt
+Tullus Aufidius, der macht euch zu schaffen.
+Ich s�ndge, seinen Adel ihm zu neiden,
+Und w�r ich etwas andres als ich bin,
+So w�nscht ich, er zu sein.
+
+Cominius.
+Ihr fochtet miteinander.
+
+Marcius.
+Wenn, halb und halb geteilt, die Welt sich zauste,
+Und er auf meiner Seit, ich fiele ab,
+Nur da� ich ihn bek�mpft'.--Er ist ein L�we,
+Den ich zu jagen stolz bin.
+
+Erster Senator.
+Darum, Marcius,
+Magst du Cominius folgen in den Krieg.
+
+Cominius.
+Ihr habt es einst versprochen.
+
+Marcius.
+Herr, das hab ich,
+Und halte Wort.  Du, Titus Lartius, siehst
+Noch einmal Tullus, mich ins Antlitz schlagen.
+Wie--bist du krank?  bleibst aus?
+
+Titus.
+Nein, Cajus Marcius.
+Ich lehn auf eine Kr�ck und schlage mit der andern,
+Eh ich dies' Werk vers�um.
+
+Marcius.
+O edles Blut!
+
+Erster Senator.
+Begleitet uns zum Kapitol, dort harren
+Die treusten Freunde unser.
+
+Titus.
+Geht voran--
+Cominius, folgt ihm nach, wir folgen euch,
+Ihr seid des Vorrangs w�rdig.
+
+Cominius.
+Edler Marcius!
+
+Erster Senator (zu den B�rgern).
+Geht, macht euch fort!--nach Haus!
+
+Marcius.
+Nein, la�t sie folgen.
+Die Volsker haben Korn; dahin ihr Ratten,
+Die Scheuren fre�t.--Hochadlige Rebellen,
+Eur Mut schl�gt herrlich aus.  Ich bitte, folgt.
+
+(Senatoren, Cominius, Marcius, Titus Lartius und Menenius gehn ab;
+die B�rger schleichen sich fort.)
+
+Sicinius.
+War je ein Mensch so stolz wie dieser Marcius?
+
+Brutus.
+Er hat nicht seinesgleichen.
+
+Sicinius.
+Als wir ernannt zu Volkstribunen wurden--
+
+Brutus.
+Saht Ihr sein Aug, den Mund?
+
+Sicinius.
+Ja, und sein H�hnen!
+
+Brutus.
+Gereizt schont nicht sein Spott die G�tter selbst.
+
+Sicinius.
+Den keuschen Mond auch w�rd er l�stern.
+
+Brutus.
+Verschling ihn dieser Krieg; er ward zu stolz,
+So tapfer wie er ist.
+
+Sicinius.
+Solch ein Gem�t,
+Gekitzelt noch vom Gl�ck, verschm�ht den Schatten,
+Auf den er mittags tritt.  Doch wundert's mich,
+Wie nur sein Hochmut es ertr�gt, zu stehn
+Unter Cominius.
+
+Brutus.
+Ruhm, nach dem er zielt,
+Und der schon reich ihn schm�ckt, wird besser nicht
+Erhalten und erh�ht, als auf dem Platz
+Zun�chst dem ersten; denn was nun mi�lingt,
+Das ist des Feldherrn Schuld, tut er auch alles,
+Was Menschenkraft vermag; und schwindelnd Urteil
+Ruft dann vom Marcius aus: O h�tte dieser
+Den Krieg gef�hrt!
+
+Sicinius.
+Gewi� und geht es gut,
+So raubt das Vorurteil, am Marcius h�ngend,
+Cominius jegliches Verdienst.
+
+Brutus.
+Jawohl.--
+Cominius' halben Ruhm hat Marcius schon,
+Erwarb er ihn auch nicht; und jenes Fehler,
+Sie werden Marcius' Ruhm, tat er auch selbst
+Nichts Gro�es mehr.
+
+Sicinius.
+Kommt, la�t uns hin und h�ren
+Die Ausfert'gung, und was in Art und Weise
+Er, au�er seiner Einzigkeit, nun geht
+In diesen jetzgen Kampf.
+
+Brutus.
+So gehn wir denn.
+
+(Beide ab.)
+
+
+
+Zweite Szene
+
+Corioli, das Staatsgeb�ude Tullus
+Aufidius tritt auf mit einigen Senatoren
+
+
+Erster Senator.
+So glaubt Ihr wirklich denn, Aufidius,
+Da� die von Rom erforschten unsern Plan,
+Und wissen, was wir tun?
+
+Aufidius.
+Glaubt ihr's denn nicht?
+Was ward wohl je gedacht in unserm Staat,
+Das nicht, eh's k�rperliche Tat geworden,
+Rom ausgeforscht?  Noch sind's vier Tage nicht,
+Da� man von dort mir schrieb; so, denk ich, lautet's--
+Ich hab den Brief wohl hier;--ja, dieser ist's.
+(Er liest.)  "Geworben wird ein Heer; doch niemand wei�,
+Ob f�r den Ost, den West.  Gro� ist die Teurung,
+Das Volk im Aufruhr, und man raunt sich zu,
+Cominius, Marcius, Euer alter Feind
+(Der mehr in Rom geha�t wird als von Euch),
+Und Titus Lartius, ein sehr tapfrer R�mer:
+Da� diesen drei'n die R�stung ward vertraut.
+Wohin's auch geht, wahrscheinlich trifft es Euch;
+Drum seht Euch vor."
+
+Erster Senator.
+Im Feld stehn unsre Scharen;
+Wir zweifeln nie, da� Rom, uns zu begegnen,
+Stets sei bereit.
+
+Aufidius.
+Und Ihr habt klug gehandelt,
+Zu bergen Euern gro�en Plan, bis er
+Sich zeigen mu�te; doch im Br�ten schon
+Erkannt ihn Rom, so scheint's; durch die Entdeckung
+Wird unser Ziel geschm�lert, welches war,
+Zu nehmen manche Stadt, eh selbst die R�mer
+Bemerkt, da� wir im Gang.
+
+Zweiter Senator.
+Edler Aufidius,
+Nehmt Eure Vollmacht, eilt zu Euren Scharen,
+La�t uns zur�ck, Corioli zu sch�tzen;
+Belagern sie uns hier, kommt zum Entsatz
+Mit Eurem Heer zur�ck; doch sollt Ihr sehn,
+Die R�stung gilt nicht uns.
+
+Aufidius.
+O! zweifelt nicht;
+Ich sprech aus sichrer Nachricht.  Ja--noch mehr,
+Schon r�ckten einge R�merhaufen aus,
+Und nur hieherw�rts.  Ich verlass euch, V�ter.
+Wenn wir und Cajus Marcius uns begegnen,
+So ist geschworen, da� der Kampf nicht endet,
+Bis einer f�llt.
+
+Alle Senatoren.
+Die G�tter sein mit Euch!
+
+Aufidius.
+Sie schirmen eure Ehren.
+
+Erster Senator.
+Lebt wohl!
+
+Zweiter Senator.
+Lebt wohl!
+
+Aufidius.
+Lebt wohl!
+
+(Alle ab.)
+
+
+
+Dritte Szene
+
+Rom, im Hause des Marcius
+Volumnia und Virgilia sitzen und n�hen
+
+
+Volumnia.
+Ich bitte dich, Tochter, sing, oder sprich wenigstens trostreicher;
+wenn mein Sohn mein Gemahl w�re, ich w�rde mich lieber seiner
+Abwesenheit erfreuen, durch die er Ehre erwirbt, als der Umarmungen
+seines Bettes, in denen ich seine Liebe erkennte.  Da er noch ein zarter
+Knabe war und das einzige Kind meines Scho�es, da Jugend und Anmut
+gewaltsam alle Blicke auf ihn zogen, als die tagelangen Bitten eines
+K�nigs einer Mutter nicht eine einzige Stunde seines Anblicks abgekauft
+h�tten, schon damals--wenn ich bedachte, wie Ehre solch ein Wesen
+zieren w�rde, und da� es nicht besser sei als ein Gem�lde, das an der
+Wand h�ngt, wenn Ruhmbegier es nicht belebte--war ich erfreut, ihn da
+Gefahren suchen zu sehn, wo er hoffen konnte, Ruhm zu finden.  In einen
+grausamen Krieg sandte ich ihn, aus dem er zur�ckkehrte, die Stirn mit
+Eichenlaub umwunden.  Glaube mir, Tochter, mein Herz h�pfte nicht mehr
+vor Freuden, als ich zuerst h�rte, es sei ein Knabe, als jetzt, da ich
+zuerst, sah, er sei ein Mann geworden.
+
+Virgilia.
+Aber w�re er nun in der Schlacht geblieben, teure Mutter, wie dann?
+
+Volumnia.
+Dann w�re sein Nachruhm mein Sohn gewesen; in ihm h�tte ich mein
+Geschlecht gesehn.  H�re mein offenherziges Bekenntnis: h�tte ich zw�lf
+S�hne, jeder meinem Herzen gleich lieb, und keiner nur weniger teuer
+als dein und mein guter Marcius, ich wollte lieber elf f�r ihr Vaterland
+edel sterben sehn, als einen einzigen in woll�stigem M��iggang schwelgen.
+Es tritt eine Dienerin auf.
+
+Dienerin.
+Edle Frau, Valeria w�nscht Euch zu sehn.
+
+Virgilia.
+Ich bitte, erlaubt mir, mich zur�ckzuziehn.
+
+Volumnia.
+O nein! das sollst du nicht.
+Mich d�nkt, bis hier t�nt deines Gatten Trommel,
+Er rei�t Aufidius bei den Haaren nieder;
+Wie Kinder vor dem B�ren fliehn die Volsker.
+Mich d�nkt, ich seh's!  So stampft er und ruft aus:
+"Memmen, heran! In Furcht seid ihr gezeugt;
+Obwohl in Rom geboren." Und er trocknet
+Die blutge Stirn mit ehrner Hand, und schreitet
+So wie ein Schnitter, der sich vorgesetzt,
+Alles zu m�hn, wo nicht, den Lohn zu missen.
+
+Virgilia.
+Die blutge Stirn!--o Jupiter!  kein Blut.
+
+Volumnia.
+O schweig, du T�rin! sch�ner ziert's den Mann
+Als Goldtroph�en.  Die Brust der Hekuba
+War sch�ner nicht, da sie den Hektor s�ugte,
+Als Hektors Stirn, die Blut entgegenspritzte
+Im Kampf den Griechenschwertern.--Sagt Valerien,
+Wir sind bereit, sie zu empfangen.
+
+(Dienerin ab.)
+
+Virgilia.
+Himmel!
+Sch�tz meinen Mann vorm grimmigen Aufidius.
+
+Volumnia.
+Er schl�gt Aufidius' Haupt sich unters Knie
+Und tritt auf seinen Hals.
+
+(Valeria tritt auf.)
+
+Valeria.
+Ihr edlen Frauen, euch beiden guten Tag!
+
+Volumnia.
+Liebe Freundin--
+
+Virgilia.
+Ich bin erfreut, Euch zu sehn, verehrte Frau.
+
+Valeria.
+Was macht ihr beide?  Ihr seid ausgemachte Haush�lterinnen.  Wie!--Ihr
+sitzt hier und n�ht?--Ein h�bsches Muster, das mu� ich gestehn.--Was
+macht Euer kleiner Sohn?
+
+Virgilia.
+Ich danke Euch, edle Frau, er ist wohl.
+
+Volumnia.
+Er mag lieber Schwerter sehn und die Trommel h�ren, als auf seinen
+Schulmeister acht geben.
+
+Valeria.
+O! auf mein Wort, ganz der Vater.  Ich kann's beschw�ren, er ist ein
+allerliebstes Knabe.  Nein wahrlich, ich beobachtete ihn am Mittwoch
+eine halbe Stunde ununterbrochen; er hat etwas so Entschlo�nes in seinem
+Benehmen.  Ich sah ihn einem gl�nzenden Schmetterlinge nachlaufen, und als
+er ihn gefangen hatte, lie� er ihn wieder fliegen, und nun wieder ihm
+nach, und fiel der L�nge nach hin, und wieder aufgesprungen und ihn noch
+einmal gefangen.  Hatte ihn sein Fall b�se gemacht, oder was ihm sonst
+sein mochte, aber er knirschte so mit den Z�hnen und zerri� ihn!  O! ihr
+k�nnt nicht glauben, wie er ihn zerfetzte.
+
+Volumnia.
+Ganz seines Vaters Art.
+
+Valeria.
+Ei, wahrhaftig! er ist ein edles Kind.
+
+Virgilia.
+Ein kleiner Wildfang, Valeria.
+
+Valeria.
+Kommt, legt Eure Stickerei weg, Ihr m��t heut nachmittag mit mir die m��ige
+Hausfrau machen.
+
+Virgilia.
+Nein, teure Frau, ich werde nicht ausgehn.
+
+Valeria.
+Nicht ausgehn?
+
+Volumnia.
+Sie wird, sie wird.
+
+Virgilia.
+Nein, gewi� nicht; erlaubt es mir.  Ich will nicht �ber die Schwelle
+schreiten, eh mein Gemahl aus dem Kriege heimgekehrt ist.
+
+Valeria.
+Pfui! wollt Ihr so wider alle Vernunft Euch einsperren?  Kommt mit, Ihr
+m��t eine gute Freundin besuchen, die im Kindbette liegt.
+
+Virgilia.
+Ich will ihr eine schnelle Genesung w�nschen und sie mit meinem Gebet
+besuchen, aber hingehn kann ich nicht.
+
+Volumnia.
+Nun, warum denn nicht?
+
+Virgilia.
+Es ist gewi� nicht Tr�gheit oder Mangel an Liebe.
+
+Valeria.
+Ihr w�ret gern eine zweite Penelope; und doch sagt man, alles Garn,
+das sie in Ulysses' Abwesenheit spann, f�llte Ithaka nur mit Motten.
+Kommt, ich wollte, Eure Leinwand w�re so empfindlich wie Euer Finger,
+so w�rdet Ihr aus Mitleid aufh�ren, sie zu stechen.  Kommt, Ihr m��t
+mitgehn.
+
+Virgilia.
+Nein, Liebe, verzeiht mir; im Ernst, ich werde nicht ausgehn.
+
+Valeria.
+Ei wahrhaftig!  Ihr m��t mitgehn; dann will ich Euch auch herrliche
+Neuigkeiten von Eurem Gemahl erz�hlen.
+
+Virgilia.
+O, liebe Valeria! es k�nnen noch keine gekommen sein.
+
+Valeria.
+Wahrlich! ich scherze nicht mit Euch; es kam gestern abend Nachricht
+von ihm.
+
+Virgilia.
+In der Tat?
+
+Valeria.
+Im Ernst, es ist wahr; ich h�rte einen Senator davon erz�hlen.  So war
+es:--Die Volsker haben ein Heer ausr�cken lassen, welchem Cominius,
+der Feldherr, mit einem Teil der r�mischen Macht entgegengegangen ist.
+Euer Gemahl und Titus Lartius belagern ihre Stadt Corioli; sie zweifeln
+nicht daran, sie zu erobern und den Krieg bald zu beendigen.--Dies ist
+wahr, bei meiner Ehre!  Und nun bitte ich Euch, geht mit uns.
+
+Virgilia.
+Verzeiht mir, gute Valeria; k�nftig will ich Euch in allem andern gehorchen.
+
+Volumnia.
+Ei, la�t sie, Liebe.  Wie sie jetzt ist, w�rde sie nur unser Vergn�gen st�ren.
+
+Valeria.
+Wirklich, das glaube ich auch.  So lebt denn wohl.  Kommt, liebe, teure Frau.
+Ich bitte dich, Virgilia, wirf deine Feierlichkeit zur T�r hinaus und geh
+noch mit.
+
+Virgilia.
+Nein, auf mein Wort, Valeria.  In der Tat, ich darf nicht; ich w�nsche Euch
+viel Vergn�gen.
+
+Valeria.
+Gut, so lebt denn wohl!
+
+(Alle ab.)
+
+
+
+Vierte Szene
+
+Vor Corioli
+Mit Trommeln und Fahnen treten auf Marcius, Titus, Lartius,
+Anf�hrer, Krieger.  Zu ihnen ein Bote
+
+
+Marcius.
+Ein Bote kommt.  Ich wett, es gab ein Treffen.
+
+Titus.
+Mein Pferd an Eures: nein.
+
+Marcius.
+Es gilt.
+
+Titus.
+Es gilt.
+
+Marcius.
+Sprich du.  Traf unser Feldherr auf den Feind?
+
+Bote.
+Sie schaun sich an, doch sprachen sich noch nicht.
+
+Titus.
+Das gute Pferd ist mein.
+
+Marcius.
+Ich kauf's Euch ab.
+
+Titus.
+Nein, ich verkauf und geb's nicht; doch Euch borg ich's
+F�r f�nfzig Jahr.--Die Stadt nun fordert auf.
+
+Marcius.
+Wie weit ab stehn die Heere?
+
+Bote.
+Kaum drei Stunden.
+
+Marcius.
+So h�ren wir ihr Feldgeschrei, sie unsers.--
+Nun, Mars, dir fleh ich, mach uns rasch im Werk,
+Da� wir mit dampfendem Schwert von hinnen ziehn,
+Den kampfgescharten Freunden schnell zu helfen.
+Komm, blas nun deinen Aufruf.  Es wird geblasen, auf den Mauern
+erscheinen Senatoren und andre.  Tullus Aufidius, ist er in der Stadt?
+
+Erster Senator.
+Nein, doch gleich ihm h�lt jeder Euch gering
+Und kleiner als das Kleinste.  Horcht die Trommeln
+
+(Kriegsmusik aus der Ferne.)
+
+Von unsrer Jugend Schar.  Wir brechen eh die Mauern,
+Als da� sie uns einhemmten.  Unsre Tore,
+Zum Schein geschlossen, riegeln Binsen nur,
+Sie �ffnen sich von selbst.  Horcht, weit her t�nt's.
+
+(Kriegsgeschrei.)
+
+Das ist Aufidius.  Merkt, wie er hantiert
+Dort im gespaltnen Heer.
+
+Marcius.
+Ha!  Sie sind dran!
+
+Titus.
+Der L�rm sei unsre Weisung.  Leitern her!  Die Volsker kommen aus der Stadt.
+
+Marcius.
+Sie scheun uns nicht; nein, dringen aus der Stadt.
+Werft vor das Herz den Schild und k�mpft mit Herzen,
+Gest�hlter als die Schild'.  Auf, wackrer Titus!
+Sie h�hnen uns weit mehr, als wir gedacht;
+Das macht vor Zorn mich schwitzen.  Fort, Kamraden!
+Wenn einer weicht, den halt ich f�r 'nen Volsker,
+Und f�hlen soll er meinen Stahl.  R�mer und Volsker gehn k�mpfend ab.
+Die R�mer werden zur�ckgeschlagen.  Marcius kommt wieder.
+
+Marcius.
+Die ganze Pest des S�dens fall auf euch!
+Schandflecke Roms ihr!--Schw�r' und Beulen zahllos
+Vergiften euch, da� ihr ein Abscheu seid,
+Eh noch gesehn, und gegen Windeshauch
+Euch ansteckt meilenweit!  Ihr G�nseseelen
+In menschlicher Gestalt!  Vor Sklaven lauft ihr,
+Die Affen schlagen w�rden?  H�ll und Pluto!
+Wund r�cklings, Nacken rot, Gesichter bleich
+Vor Furcht und Fieberfrost.  Kehrt um!  Greift an!
+Sonst, bei des Himmels Blitz! lass' ich den Feind
+Und st�rz auf euch.  Besinnt euch denn, voran!
+Steht, und wir schlagen sie zu ihren Weibern,
+Wie sie zu unsern Schanzen uns gefolgt!  Ein neuer Angriff, Volsker
+und R�mer k�mpfen.  Die Volsker fl�chten in die Stadt.  Marcius verfolgt
+sie.  Auf geht das Tor, nun zeigt euch, wackre Helfer!
+F�r die Verfolger hat's das Gl�ck ge�ffnet,
+Nicht f�r die Fl�chtgen.  Nach! und tut wie ich.
+
+(Er st�rzt in die Stadt und das Tor wird hinter ihm geschlossen.)
+
+Erster Soldat.
+Tolldreist! ich nicht--
+
+Zweiter Soldat.
+Noch ich.
+
+Dritter Soldat.
+Da seht! sie haben
+Ihn eingesperrt.
+
+Alle.
+Nun geht er drauf, das glaubt nur.
+
+(Titus Lartius tritt auf.)
+
+Titus.
+Was ward aus Marcius?
+
+Alle.
+Tot, Herr, ganz gewi�.
+
+Erster Soldat.
+Den Fl�chtgen folgt' er auf den Fersen nach
+Und mit hinein; sie Augenblicks die Tore
+Nun zugesperrt: drin ist er, ganz allein,
+Der ganzen Stadt zu trotzen.
+
+Titus.
+Edler Freund!
+Du, f�hlend k�hner als dein f�hllos Schwert,
+Feststehend, wenn dies beugt, verloren bist du, Marcius!
+Der reinste Diamant, so gro� wie du,
+W�r nicht ein solch Juwel; du warst ein Krieger
+Nach Catos Sinn, nicht wild und f�rchterlich
+In Streichen nur; nein, deinem grimmen Blick
+Und deiner Stimme donnergleichem Schmettern
+Erbebten deine Feind', als ob die Welt
+Im Fieber zitterte.  Marcius kommt zur�ck, blutend, von den Feinden verfolgt.
+
+Erster Soldat.
+Seht, Herr!
+
+Titus.
+O! da ist Marcius!
+La�t uns ihn retten, oder mit ihm fallen.
+
+(Gefecht.  Alle dringen in die Stadt.)
+
+
+
+F�nfte Szene
+
+In Corioli, eine Stra�e
+R�mer kommen mit Beute
+
+
+Erster R�mer.
+Das will ich mit nach Rom nehmen.
+
+Zweiter R�mer.
+Und ich dies.
+
+Dritter R�mer.
+Hol's der Henker! ich hielt das f�r Silber.  Marcius und Titus
+treten auf mit einem Trompeter.
+
+Marcius.
+Seht diese Tr�dler, die die Stunden sch�tzen
+Nach rostgen Drachmen.  Kissen, bleierne L�ffel,
+Blechst�ckchen, W�mser, die der Henker selbst
+Verscharrte mit dem Leichnam, stiehlt die Brut,
+Eh noch die Schlacht zu Ende.--Haut sie nieder!--
+O, h�rt des Feldherrn Schlachtruf!  Fort zu ihm!
+Dort k�mpft, den meine Seele ha�t, Aufidius,
+Und mordet unsre R�mer.  Drum, mein Titus,
+Nimm eine Anzahl Volks, die Stadt zu halten;
+Mit denen, die der Mut befeuert, eil ich,
+Cominius beizustehn.
+
+Titus.
+Du blutest, edler Freund!
+Die Arbeit war zu schwer, sie zu erneun
+In einem zweiten Gang.
+
+Marcius.
+Herr, r�hmt mich nicht.
+Dies Werk hat kaum mich warm gemacht.  Lebt wohl!
+Das Blut, das ich verzapft, ist mehr Arznei
+Als mir gef�hrlich.  Vor Aufidius so
+Tret ich zum Kampf.
+
+Titus.
+Fortunas holde Gottheit
+Sei jetzt in dich verliebt; ihr starker Zauber
+Entwaffne deines Feindes Schwert.  O Held!
+Dein Knappe sei das Gl�ck!
+
+Marcius.
+Dein Freund nicht minder,
+Als derer, die zuh�chst sie stellt!  Leb wohl!
+
+(Geht ab.)
+
+Titus.
+Ruhmw�rdger Marcius!--
+Geh du, blas auf dem Marktplatz die Trompete
+Und ruf der Stadt Beamte dort zusammen,
+Da� sie vernehmen unseren Willen.  Fort!
+
+(Ab.)
+
+
+
+Sechste Szene
+
+In der N�he von Cominius' Lager
+Cominius und sein Heer auf dem R�ckzuge
+
+
+Cominius.
+Erfrischt euch, Freunde.  Gut gek�mpft!  Wir hielten
+Wie R�mer uns; nicht tollk�hn dreist im Stehn,
+Noch feig im R�ckzug.  Auf mein Wort, ihr Krieger,
+Der Angriff wird erneut.  Indem wir k�mpften,
+Erklang, vom Wind gef�hrt, in Zwischenr�umen
+Der Freunde Schlachtruf.  O! ihr G�tter Roms!
+F�hrt sie zum Ruhm und Sieg, so wie uns selbst
+Da� unsre Heere, l�chelnd sich begegnend,
+Euch dankbar Opfer bringen.
+
+(Ein Bote tritt auf.)
+
+Deine Botschaft?
+
+Bote.
+Die Mannschaft von Corioli brach aus
+Und fiel den Marcius und den Lartius an.
+Ich sah die Unsern zu den Schanzen fliehn,
+Da eilt ich fort.
+
+Cominius.
+Mich d�nkt, sprichst du auch wahr,
+So sprichst du doch nicht gut.  Wie lang ist's her?
+
+Bote.
+Mehr als 'ne Stunde, Herr.
+
+Cominius.
+'s ist keine Meil, wir h�rten noch die Trommeln.
+Wie--gingst du eine Stund auf diese Meile?
+Und bringst so sp�t Bericht?
+
+Bote.
+Der Volsker Sp�her
+Verfolgten mich, so lief ich einen Umweg
+Von drei, vier Meilen; sonst bekamt Ihr, Herr,
+Vor einer halben Stunde schon die Botschaft.
+
+(Marcius tritt auf.)
+
+Cominius.
+Doch, wer ist jener,
+Der aussieht wie geschunden?  O! ihr G�tter!
+Er tr�gt des Marcius Bildung, und schon sonst
+Hab ich ihn so gesehn.
+
+Marcius.
+Komm ich zu sp�t?
+
+Cominius.
+Der Sch�fer unterscheidet nicht so gut
+Schalmei und Donner, wie ich Marcius' Stimme
+Von jedem schw�chern Laut.
+
+Marcius.
+Komm ich zu sp�t?
+
+Cominius.
+Ja, wenn du nicht in fremdem Blut gekleidet,
+Im eignen kommst.
+
+Marcius.
+O! la�t mich Euch umschlingen:
+Mit kr�ftgen Armen, wie als Br�utigam,
+Mit freudgem Herzen, wie am Hochzeitstag,
+Als Kerzen mir zu Bett geleuchtet.
+
+Cominius.
+O!
+Mein Kriegsheld, wie geht's dem Titus Lartius?
+
+Marcius.
+Wie einem, der gesch�ftig Urteil spricht,
+Zum Tode den verdammt, den zur Verbannung,
+Den frei l��t, den beklagt, dem andern droht.
+Er h�lt Corioli im Namen Roms
+So wie ein schmeichelnd Windspiel an der Leine,
+Die er nach Willk�r l�st.
+
+Cominius.
+Wo ist der Sklav,
+Der sprach, sie schl�gen Euch zur�ck ins Lager?
+Wo ist er?  Ruft ihn her.
+
+Marcius.
+Nein, la�t ihn nur.
+Die Wahrheit sprach er; doch die edlen Herrn,
+Das niedre Volk (verdammt: f�r sie Tribunen!),
+Die Maus l�uft vor der Katze nicht, wie sie
+Vor Schuften rannten, schlechter als sie selbst.
+
+Cominius.
+Wie aber drangt Ihr durch?
+
+Marcius.
+Ist zum Erz�hlen Zeit?  Ich denke nicht--
+Wo ist der Feind?  Seid Ihr des Feldes Herr?
+Wo nicht, was ruht Ihr, bis Ihr's seid?
+
+Cominius.
+O Marcius!
+Wir fochten mit Verlust und zogen uns
+Zur�ck, den Vorteil zu ersp�hn.
+
+Marcius.
+Wie steht ihr Heer?  Wi�t Ihr, auf welcher Seite
+Die beste Mannschaft ist?
+
+Cominius.
+Ich glaube, Marcius,
+Im Vordertreffen k�mpfen die Antiaten,
+Ihr bestes Volk; Aufidius f�hrt sie an,
+Der ihrer Hoffnung Seel und Herz.
+
+Marcius.
+Ich bitt dich,
+Bei jeder Schlacht, in der vereint wir fochten,
+Bei dem vereint vergo�nen Blut, den Schw�ren,
+Uns ewig treu zu lieben: stell mich grade
+Vor die Antiaten und Aufidius hin;
+Und s�umt nicht l�nger.  Nein, im Augenblick
+Erf�lle Speer- und Schwertget�n die Luft,
+Und proben wir die Stunde.
+
+Cominius.
+W�nscht ich gleich,
+Du w�rdest in ein laues Bad gef�hrt,
+Dir Balsam aufgelegt: doch wag ich nie
+Dir etwas zu verweigern.  W�hl dir selbst
+F�r diesen Kampf die Besten.
+
+Marcius.
+Das sind nur
+Die Willigsten.  Ist irgendeiner hier
+(Und S�nde w�r's, zu zweifeln), dem die Schminke
+Gef�llt, mit der er hier mich sieht gemalt,
+Der �blen Ruf mehr f�rchtet als den Tod,
+Und sch�n zu sterben w�hlt statt schlechten Lebens,
+Sein Vaterland mehr als sich selber liebt:
+Wer so gesinnt, ob einer oder viele,
+Der schwing die Hand, um mir sein Ja zu sagen,
+Und folge Marcius.
+
+(Alle jauchzen, schwingen die Schwerter, dr�ngen sich um ihn
+und heben ihn auf ihren Armen empor.)
+
+Wie?  Alle eins?  Macht ihr ein Schwert aus mir?
+Ist dies kein �u�rer Schein, wer von euch allen
+Ist nicht vier Volsker wert?  Ein jeder kann
+Aufidius einen Schild entgegentragen,
+So hart wie seiner.  Eine Anzahl nur,
+Dank ich schon allen, w�hl ich: und den andern
+Spar ich die Arbeit f�r den n�chsten Kampf,
+Wie er sich bieten mag.  Voran, ihr Freunde!
+Vier meiner Leute m�gen die erw�hlen,
+Die mir am liebsten folgen.
+
+Cominius.  Kommt, Gef�hrten,
+Beweist, da� ihr nicht prahltet, und ihr sollt
+Uns gleich in allem sein.
+
+(Alle ab.)
+
+
+
+Siebente Szene
+
+Das Tor vor Corioli
+Titus Lartius, eine Besatzung in Corioli zur�cklassend,
+geht dem Marcius und Cominius mit Trommeln und Trompeten
+entgegen, ihm folgt ein Anf�hrer mit Kriegern
+
+
+Titus.
+Besetzt die Tore wohl, tut eure Pflicht,
+Wie ich's euch vorschrieb.  Send ich, schickt zur Hilfe
+Uns die Zenturien nach; der Rest gen�gt
+F�r kurze Deckung.  Geht die Schlacht verloren,
+So bleibt die Stadt uns doch nicht.
+
+Anf�hrer.
+Traut auf uns.
+
+Titus.
+Fort! und verschlie�et hinter uns die Tore.
+Du, Bote, komm; f�hr uns ins r�msche Lager.
+
+(Alle ab.)
+
+
+
+Achte Szene
+
+Schlachtfeld Kriegsgeschrei,
+Marcius und Aufidius, die einander begegnen
+
+
+Marcius.
+Mit dir nur will ich k�mpfen! denn dich ha� ich
+Mehr als den Meineid.
+
+Aufidius.
+Ja, so ha� ich dich.
+Mir ist kein Drache Afrikas so greulich
+Und giftig wie dein Ruhm.  Setz deinen Fu�.
+
+Marcius.
+Wer weicht, soll sterben als des andern Sklave,
+Dann richten ihn die G�tter.
+
+Aufidius.
+Flieh ich, Marcius,
+So hetz mich gleich dem Hasen.
+
+Marcius.
+Noch vor drei Stunden, Tullus,
+Focht ich allein in Eurer Stadt Corioli
+Und hauste ganz nach Willk�r.  Nicht mein Blut
+Hat so mich �bert�ncht; drum spann die Kraft
+Aufs h�chste, dich zu r�chen!
+
+Aufidius.
+W�rst du Hektor,
+Die Gei�el eurer prahlerischen Ahnen,
+Du kamst mir nicht von hier.
+
+(Sie fechten; einige Volsker kommen dem Aufidius zu Hilfe.)
+
+Dienstwillig und nicht tapfer!  Ihr beschimpft mich
+Durch so verha�ten Beistand.
+
+(Alle fechtend ab.)
+
+
+
+Neunte Szene
+
+Das r�mische Lager
+Man bl�st zum R�ckzug; Trompeten.  Von einer Seite tritt auf
+Cominius mit seinem Heer, von der andern Marcius, den Arm in
+der Binde, und andre R�mer
+
+
+Cominius.
+Erz�hlt ich dir dein Werk des heutgen Tages,
+Du glaubtest nicht dein Tun; doch will ich's melden,
+Wo Senatoren Tr�n' und L�cheln mischen,
+Wo die Patrizier horchen und erbeben,
+Zuletzt bewundern; wo sich Fraun entsetzen
+Und, froh erschreckt, mehr h�ren; wo der plumpe
+Tribun, der, dem Plebejer gleich, dich ha�t,
+Ausruft, dem eignen Groll zum Trotz: "Dank, G�tter,
+Da� unserm Rom ihr solche Helden schenktet!"
+Doch kamst du nur zum Nachtisch dieses Festes,
+Vorher schon voll ges�ttigt.  Titus Lartius kommt mit seinen Kriegern.
+
+Titus.
+O mein Feldherr!
+Hier ist das Streitro�, wir sind das Geschirr.
+H�ttst du gesehn--
+
+Marcius.
+Still, bitt ich.  Meine Mutter,
+Die einen Freibrief hat, ihr Blut zu preisen,
+Kr�nkt mich, wenn sie mich r�hmt.  Ich tat ja nur,
+Was ihr: das ist, soviel ich kann, erregt,
+Wie ihr es waret, f�r mein Vaterland.
+Wer heut den guten Willen nur erf�llte,
+Hat meine Taten �berholt.
+
+Cominius.
+Nicht darfst du
+Das Grab sein deines Werts.  Rom mu� erkennen,
+Wie k�stlich sein Besitz.  Es w�r ein Hehl,
+�rger als Raub, nicht minder als Verleumdung,
+Zu decken deine Tat, von dem zu schweigen,
+Was durch des Preises h�chsten Flug erhoben,
+Bescheiden noch sich zeigt.  Drum bitt ich dich,
+Zum Zeichen, was du bist, und nicht als Lohn
+F�r all dein Tun, la� vor dem Heer mich reden.
+
+Marcius.
+Ich hab so Wunden hier und da, die schmerzt es,
+Sich so erw�hnt zu h�ren.
+
+Cominius.
+Gesch�h's nicht,
+Der Undank m��te sie zum Schw�ren bringen
+Und bis zum Tod verpesten.  Von den Pferden
+(Wir fingen viel und treffliche) und allen
+Den Sch�tzen, in der Stadt, im Feld erbeutet,
+Sei dir der zehnte Teil; ihn auszusuchen
+Noch vor der allgemeinen Teilung, ganz
+Nach deiner eignen Wahl.
+
+Marcius.
+Ich dank dir, Feldherr;
+Doch str�ubt mein Herz sich, einen Lohn zu nehmen
+Als Zahlung meines Schwerts.  Ich schlag es aus
+Und will nur soviel aus gemeiner Teilung,
+Wie alle, die nur ansahn, was geschah.
+
+(Ein langer Trompetensto�.  Alle rufen "Marcius!  Marcius!",
+werfen M�tzen und Speere in die H�he.)
+
+Da� die Drommeten, die ihr so entweiht,
+Nie wieder t�nen!  Wenn Posaun und Trommel
+Im Lager Schmeichler sind, mag Hof und Stadt
+Ganz L�ge sein und Gleisnerei.  Wird Stahl
+Weich wie Schmarotzerseide, bleibe Erz
+Kein Schirm im Kriege mehr!  Genug, sag ich.--
+Weil ich die blutge Nase mir nicht wusch
+Und einen Schw�chling niederwarf, was mancher
+Hier unbemerkt getan, schreit ihr mich aus
+Mit �bertriebnem, unverst�ndgem Zuruf,
+Als s�h ich gern mein kleines Selbst gef�ttert
+Mit Lob, gew�rzt durch L�gen.
+
+Cominius.
+Zu bescheiden!
+Ihr seid mehr grausam eignem Ruhm, als dankbar
+Uns, die ihn redlich spenden; drum erlaubt:
+Wenn gegen Euch Ihr w�tet, legen wir
+(Wie einem, der sich schadet) Euch in Fesseln
+Und sprechen sichrer dann.  Drum sei es kund
+Wie uns der ganzen Welt, da� Cajus Marcius
+Des Krieges Kranz erwarb.  Und des zum Zeichen
+Nehm er mein edles Ro�, bekannt dem Lager,
+Mit allem Schmuck; und hei� er von heut an,
+F�r das, was vor Corioli er tat,
+Mit vollem Beifallsruf des ganzen Heeres:
+Cajus Marcius Coriolanus.--F�hre
+Den zugef�gten Namen allzeit edel!
+
+(Trompetensto�.)
+
+Alle.
+Cajus Marcius Coriolanus!
+
+Coriolanus.
+Ich geh, um mich zu waschen;
+Und ist mein Antlitz rein, so k�nnt Ihr sehn,
+Ob ich err�te.  Wie's auch sei, ich dank Euch--
+Ich denk Eur Pferd zu reiten und allzeit
+Mich wert des edlen Namensschmucks zu zeigen,
+Nach meiner besten Kraft.
+
+Cominius.
+Nun zu den Zelten,
+Wo, eh wir noch geruht, wir schreiben wollen
+Nach Rom von unserm Gl�ck.  Ihr, Titus Lartius,
+M��t nach Corioli.  Schickt uns nach Rom
+Die Besten, da� wir dort mit ihnen handeln
+Um ihr und unser Wohl.
+
+Titus.
+Ich tu es, Feldherr.
+
+Coriolanus.
+Die G�tter spotten mein.  Kaum schlug ich aus
+H�chst f�rstliche Geschenk' und mu� nun betteln
+Bei meinem Feldherrn.
+
+Cominius.
+Was es sei: gew�hrt.
+
+Coriolanus.
+Ich wohnt einmal hier in Corioli
+Bei einem armen Mann, er war mir freundlich;
+Er rief mich an: ich sah ihn als Gefangnen;
+Doch da hatt ich Aufidius im Gesicht,
+Und Wut besiegte Mitleid.  Gebt, ich bitt Euch,
+Frei meinen armen Wirt.
+
+Cominius.
+O sch�ne Bitte!
+W�r er der Schl�chter meines Sohns, er sollte
+Frei sein, so wie der Wind.  Entla�t ihn, Titus.
+
+Titus.
+Marcius, sein Nam?
+
+Coriolanus.
+Bei Jupiter!  Vergessen--
+Ich bin ersch�pft.--Ja--mein Ged�chtnis schwindet.
+Ist hier nicht Wein?
+
+Cominius.
+Gehn wir zu unsern Zelten.
+Das Blut auf Eurem Antlitz trocknet.  Schnell
+M��t Ihr verbunden werden.  Kommt.
+
+(Alle ab.)
+
+
+
+Zehnte Szene
+
+Das Lager der Volsker Trompetensto�.
+Tullus Aufidius tritt auf, blutend, Zwei Krieger mit ihm
+
+
+Aufidius.
+Die Stadt ist eingenommen.
+
+Erster Krieger.
+Sie geben auf Bedingung sie zur�ck.
+
+Aufidius.
+Bedingung!--
+Ich wollt, ich w�r ein R�mer, denn als Volsker
+Kann ich nicht sein das, was ich bin.--Bedingung!--
+Was f�r Bedingung kann wohl der erwarten,
+Der sich auf Gnad ergab?  Marcius, f�nfmal
+Focht ich mit dir, so oft auch schlugst du mich,
+Und wirst es, denk ich, tr�fen wir uns auch,
+So oft wir speisen.--Bei den Elementen!
+Wenn ich je wieder, Bart an Bart, ihm stehe,
+Mu� ich ihn ganz, mu� er mich ganz vernichten;
+Nicht mehr, wie sonst, ist ehrenvoll mein Neid;
+Denn, dacht ich ihn mit gleicher Kraft zu tilgen
+Ehrlich im Kampf, hau ich ihn jetzt, wie's kommt;
+Wut oder List vernicht ihn.
+
+Erster Krieger.
+'s ist der Teufel.
+
+Aufidius.
+K�hner, doch nicht so schlau.  Vergiftet ist
+Mein Mut, weil er von ihm den Flecken duldet,
+Verleugnet eignen Wert.  Nicht Schlaf noch Tempel,
+Ob nackt, ob krank; nicht Kapitol noch Altar,
+Der Priester Beten, noch des Opfers Stunde,
+Vor denen jede Wut sich legt, erheben
+Ihr abgenutztes Vorrecht gegen mich
+Und meinen Ha� auf ihn.  Wo ich ihn finde,
+Daheim, in meines Bruders Schutz, selbst da,
+Dem gastlichen Gebot zuwider, wusch ich
+Die wilde Hand in seinem Herzblut.  Geht--
+Erforscht, wie man die Stadt bewahrt, und wer
+Als Geisel mu� nach Rom.
+
+Erster Krieger.
+Wollt Ihr nicht gehn?
+
+Aufidius.
+Man wartet meiner im Zypressenwald,
+S�dw�rts der M�hlen; dahin bringt mir Nachricht,
+Wie die Welt geht, da� ich nach ihrem Schritt
+Ansporne meinen Lauf.
+
+Erster Krieger.
+Das will ich, Herr.
+
+(Alle ab.)
+
+
+
+
+Zweiter Aufzug
+
+
+
+Erste Szene
+
+Rom, ein �ffentlicher Platz
+Es treten auf Menenius, Sicinius und Brutus
+
+
+Menenius.
+Der Augur sagte mir, wir w�rden heut Nachricht erhalten.
+
+Brutus.
+Gute oder schlimme?
+
+Menenius.
+Nicht nach dem Wunsch des Volks; denn sie lieben den Marcius nicht.
+
+Sicinius.
+Natur lehrt die Tiere selbst ihre Freunde kennen.
+
+Menenius.
+Sagt mir: Wen liebt der Wolf?
+
+Sicinius.
+Das Lamm.
+
+Menenius.
+Es zu verschlingen, wie die hungrigen Plebejer den edlen Marcius m�chten.
+
+Brutus.
+Nun, der ist wahrhaftig ein Lamm, das wie ein B�r bl�kt.
+
+Menenius.
+Er ist wahrhaftig ein B�r, der wie ein Lamm lebt.--Ihr seid
+zwei alte M�nner: sagt mir nur eins, was ich euch fragen will.
+
+Brutus.
+Gut, Herr.
+
+Menenius.
+In welchem Unfug ist Marcius arm, in welchem ihr beide nicht reich seid?
+
+Brutus.
+Er ist nicht arm an irgendeinem Fehler, sondern mit allen ausgestattet.
+
+Sicinius.
+Vorz�glich mit Stolz.
+
+Brutus.
+Und im Prahlen �bertrifft er jeden andern.
+
+Menenius.
+Das ist doch seltsam!  Wi�t ihr beide wohl, wie ihr in der Stadt
+beurteilt werdet?  Ich meine, von uns, aus den h�heren St�nden.
+Wi�t ihr?
+
+Brutus.
+Nun, wie werden wir denn beurteilt?
+
+Menenius.
+Weil ihr doch eben vom Stolz sprachet--wollt ihr nicht b�se werden?
+
+Brutus.
+Nur weiter, Herr, weiter.
+
+Menenius.
+Nun, es ist auch gleichg�ltig; denn ein sehr kleiner Dieb von
+Gelegenheit raubt euch wohl einen sehr gro�en Vorrat von Geduld.
+La�t eurer Gem�tsart den Z�gel schie�en und werdet b�se, soviel
+ihr Lust habt; wenigstens, wenn es euch Vergn�gen macht, es zu sein.
+Ihr tadelt Marcius wegen seines Stolzes?
+
+Brutus.
+Wir tun es nicht allein, Herr.
+
+Menenius.
+Das wei� ich wohl.  Ihr k�nnt sehr wenig allein tun; denn eurer Helfer
+sind viele, sonst w�rden auch eure Taten au�erordentlich einf�ltig
+herauskommen; eure F�higkeiten sind allzu kinderm��ig, um vieles
+allein zu tun.  Ihr sprecht von Stolz.--O! k�nntet ihr den Sack auf
+eurem R�cken sehn und eine gl�ckliche �berschau eures eignen edlen
+Selbst anstellen.--O! k�nntet ihr das!--
+
+Brutus.
+Und was dann?
+
+Menenius.
+Ei! dann entdecktet ihr ein paar so verdienstlose, stolze, gewaltsame,
+hartk�pfige Magistratspersonen (alias Narren), als nur irgendwelche
+in Rom.
+
+Sicinius.
+Menenius, Ihr seid auch bekannt genug.
+
+Menenius.
+Ich bin bekannt als ein lustiger Patrizier und einer, der einen Becher
+hei�en Weins liebt, mit keinem Tropfen Tiberwasser gemischt.  Man sagt,
+ich sei etwas schwach darin, immer den ersten Kl�ger zu beg�nstigen;
+hastig und entz�ndbar bei zu kleinen Veranlassungen; einer, der mit
+dem Hinterteil der Nacht mehr Verkehr hat als mit der Stirn des Morgens.
+Was ich denke, sag ich, und verbrauche meine Bosheit in meinem Atem.
+Wenn ich zwei solchen Staatsm�nnern begegne, wie ihr seid
+(Lykurgusse kann ich euch nimmermehr nennen), und das Getr�nk, das ihr
+mir bietet, meinem Gaumen widerw�rtig schmeckt, so mache ich ein krauses
+Gesicht dazu.  Ich kann nicht sagen: "Euer Edlen haben die Sache sehr gut
+vorgetragen", wenn ich den Esel aus jedem eurer Worte herausgucken sehe;
+und obwohl ich mit denen Geduld haben mu�, welche sagen, ihr seid
+ehrw�rdige, ernste M�nner, so l�gen doch die ganz abscheulich, welche
+behaupten, ihr h�ttet gute Gesichter.  Wenn ihr dies auf der Landkarte
+meines Mikrokosmus entdeckt, folgt daraus, da� ich auch bekannt genug
+bin?  Welch Unheil lesen eure blinden Scharfsichtigkeiten aus diesem
+Charakter heraus, um sagen zu k�nnen, da� ich auch bekannt genug bin?
+
+Brutus.
+Geht, Herr, geht!  Wir kennen Euch gut genug.
+
+Menenius.
+Ihr kennt weder mich, euch selbst, noch irgend etwas.  Ihr seid nach der
+armen Schelmen M�tzen und Kratzf��en ehrgeizig.  Ihr bringt einen ganzen,
+ausgeschlagenen Vormittag damit zu, einen Zank zwischen einem
+Pomeranzenweibe und einem Kneipschenken abzuh�ren, und vertagt dann die
+Streitfrage �ber drei Pfennig auf den n�chsten Gerichtstag.  Wenn ihr das
+Verh�r �ber irgendeine Angelegenheit zwischen zwei Parteien habt, und es
+trifft sich, da� ihr von der Kolik gezwickt werdet, so macht ihr Gesichter
+wie die Possenrei�er; steckt die blutige Fahne gegen alle Geduld auf und
+verla�t, nach einem Nachttopf br�llend, den Proze� blutend, nur noch
+verwickelter durch euer Verh�r.  Ihr stiftet keinen andern Frieden in dem
+Handel, als da� ihr beide Parteien Schurken nennt.  Ihr seid ein paar
+seltsame Kreaturen!
+
+Brutus.
+Geht, geht! man wei� recht gut von Euch, da� Ihr ein be�rer Spa�macher
+bei der Tafel seid als ein unentbehrlicher Beisitzer auf dem Kapitol.
+
+Menenius.
+Selbst unsre Priester m�ssen Sp�tter werden, wenn ihnen so l�cherliche
+Gesch�pfe aufsto�en wie ihr.  Wenn ihr auch am zweckm��igsten sprecht, so
+ist es doch das Wackeln eurer B�rte nicht wert; und f�r eure B�rte w�re es
+ein zu ehrenvolles Grab, das Kissen eines Flickschneiders zu stopfen oder
+in eines Esels Packsattel eingesargt zu werden.  Und doch m��t ihr sagen:
+"Marcius ist stolz!" der, billig gerechnet, mehr wert ist als alle eure
+Vorfahren seit Deukalion; wenn auch vielleicht einige der Besten von ihnen
+erbliche Henkersknechte waren.  Ich w�nsch Euer Gnaden einen guten Abend;
+l�ngere Unterhaltung mit euch w�rde mein Gehirn anstecken, denn ihr seid ja
+die Hirten des Plebejerviehes.  Ich bin so dreist, mich von euch zu beurlauben.
+Brutus und Sicinius ziehen sich in den Hintergrund zur�ck.
+Volumnia, Virgilia und Valeria kommen.  Wie geht's, meine ebenso sch�nen als
+ehrenwerten Damen?  Luna selbst, wandelte sie auf Erden, w�re nicht edler.
+Wohin folgt ihr euren Augen so schnell?
+
+Volumnia.
+Ehrenwerter Menenius, mein Sohn Marcius kommt.  Um der Juno willen, halt
+uns nicht auf.
+
+Menenius.
+Wie!  Marcius kommt zur�ck?
+
+Volumnia.
+Ja, teurer Menenius, und mit der herrlichsten Auszeichnung.
+
+Menenius.
+Da hast du meine M�tze, Jupiter, und meinen Dank.  Ha!  Marcius kommt!
+
+Beide Frauen.
+Ja, es ist wahr.
+
+Volumnia.
+Seht, hier ist ein Brief von ihm; der Senat hat auch einen, seine Frau einen,
+und ich glaube, zu Hause ist noch einer f�r Euch.
+
+Menenius.
+Mein ganzes Haus mu� heut nacht herumtanzen.  Ein Brief an mich?
+
+Virgilia.
+Ja, gewi�, es ist ein Brief f�r Euch da, ich habe ihn gesehn.
+
+Menenius.
+Ein Brief an mich!  Das macht mich f�r sieben Jahre gesund; in der ganzen Zeit
+will ich dem Arzt ein Gesicht ziehen.  Das herrlichste Rezept im Galen ist nur
+Quacksalbsudelei und gegen dies Bewahrungsmittel nicht besser als ein
+Pferdetrank.  Ist er nicht verwundet?  Sonst pflegte er verwundet zur�ckzukommen.
+
+Virgilia.
+O! nein, nein, nein!
+
+Volumnia.
+O, er ist verwundet, ich danke den G�ttern daf�r.
+
+Menenius.
+Das tue ich auch, wenn es nicht zu arg ist.  Bringt er Sieg in der Tasche mit?
+--Die Wunden stehn ihm gut.
+
+Volumnia.
+Auf der Stirn, Menenius.  Er kommt zum drittenmal mit dem Eichenkranz heim.
+
+Menenius.
+Hat er den Aufidius t�chtig in die Lehre genommen?
+
+Volumnia.
+Titus Lartius schrieb: "Sie fochten miteinander, aber Aufidius entkam."
+
+Menenius.
+Und es war Zeit f�r ihn, das kann ich ihm versichern.  H�tte er ihm
+standgehalten, so h�tte ich nicht m�gen so gefidiust werden f�r alle Kisten
+in Corioli und das Gold, das in ihnen ist.  Ist das dem Senat gemeldet?
+
+Volumnia.
+Liebe Frauen, la�t uns gehn.--Ja, ja, ja!--Der Senat hat Briefe vom
+Feldherrn, der meinem Sohn allein den Ruhm dieses Krieges zugesteht.
+Er hat in diesem Feldzuge alle seine fr�hern Taten �bertroffen.
+
+Valeria.
+Gewi�, es werden wunderbare Dinge von ihm erz�hlt.
+
+Menenius.
+Wunderbar?  Ja, ich stehe Euch daf�r, nicht ohne sein wahres Verdienst.
+
+Virgilia.
+Geben die G�tter, da� sie wahr seien!
+
+Volumnia.
+Wahr!  Pah!
+
+Menenius.
+Wahr?  Ich schw�re, da� sie wahr sind.--Wo ist er verwundet?
+(Zu den Tribunen.)  Gott sch�tze Euer liebwertesten Gnaden, Marcius kommt
+nach Hause und hat nun noch mehr Ursach, stolz zu sein.--Wo ist er verwundet?
+
+Volumnia.
+In der Schulter und am linken Arm.  Das wird gro�e Narben geben, sie dem
+Volk zu zeigen, wenn er um seine Stelle sich bewirbt.  Als Tarquin
+zur�ckgeschlagen wurde, bekam er sieben Wunden an seinem Leib.
+
+Menenius.
+Eine im Nacken und zwei im Schenkel, es sind neun, soviel ich wei�.
+
+Volumnia.
+Vor diesem letzten Feldzuge hatte er f�nfundzwanzig Wunden.
+
+Menenius.
+Nun sind es siebenundzwanzig, und jeder Ri� war eines Feindes Grab.
+
+(Trompeten und Freudengeschrei.)
+
+H�rt die Trompeten!
+
+Volumnia.
+Sie sind des Marcius F�hrer!  Vor sich tr�gt er
+Gejauchz der Lust, l��t Tr�nen hinter sich.
+Der finstre Tod liegt ihm im nervgen Arm;
+Erhebt er ihn, so st�rzt der Feinde Schwarm.  Trompeten.
+Es treten auf Cominius und Titus Lartius, zwischen ihnen Coriolanus
+mit einem Eichenkranz geschm�ckt, Anf�hrer, Krieger, ein Herold.
+
+Herold.
+Kund sei dir, Rom, da� Marcius ganz allein
+Focht in Corioli und mit Ruhm erwarb
+Zu Cajus Marcius einen Namen: diesen
+Folgt ruhmvoll: Cajus Marcius Coriolanus.
+Gegr��t in Rom, ber�hmter Coriolanus!
+
+(Trompeten.)
+
+Alle.
+Gegr��t in Rom, ber�hmter Coriolanus!
+
+Coriolanus.
+La�t's nun genug sein, denn es kr�nkt mein Herz.
+Genug, ich bitte!
+
+Cominius.
+Sieh, Freund, deine Mutter.
+
+Coriolanus.
+O!
+Ich wei�, zu allen G�ttern flehtest du
+F�r mein Gelingen.
+
+(Er kniet vor ihr nieder.)
+
+Volumnia.
+Nein; auf, mein wackrer Krieger,
+Mein edler Marcius, w�rdger Cajus, und
+Durch taterkaufte Ehren neu benannt;
+Wie war's doch?  Coriolan mu� ich dich nennen?
+Doch sieh, dein Weib.
+
+Coriolanus.
+Mein lieblich Schweigen, Heil!
+H�ttst du gelacht, k�m auf der Bahr ich heim,
+Da weinend meinen Sieg du schaust?  O, Liebe!
+So in Corioli sind der Witwen Augen,
+Der M�tter, S�hne klagend.
+
+Menenius.
+Die G�tter kr�nen dich!
+
+Coriolanus.
+Ei, lebst du noch?  (Zu Valeria.)  O! edle Frau, verzeiht!
+
+Volumnia.
+Wohin nur wend ich mich?  Willkommen heim!
+Willkommen, Feldherr!  Alle sind willkommen!
+
+Menenius.
+Willkommen tausendmal.  Ich k�nnte weinen
+Und lachen; ich bin leicht und schwer.  Willkommen!
+Es treff ein Fluch im tiefsten Herzen den,
+Der nicht mit Freuden dich erblickt.  Euch drei
+Sollt Rom verg�ttern.--Doch, auf Treu und Glauben,
+Holz�pfel, alte, stehn noch hier, die niemals
+Durch Pfropfen sich veredeln.  Heil euch, Krieger!
+Die Nessel nennen wir nur Nessel, und
+Der Narren Fehler Narrheit.
+
+Cominius.
+Stets der Alte!
+
+Coriolanus.
+Immer Menenius, immer.
+
+Herold.
+Platz da!  Weiter!
+
+Coriolanus (zu Frau und Mutter).
+Deine Hand, und deine,
+Eh noch mein eignes Haus mein Haupt beschattet,
+Besuch ich erst die trefflichen Patrizier,
+Von denen ich nicht Gr��e nur empfing,
+Auch mannigfache Ehren.
+
+Volumnia.
+Ich erlebt es,
+Erf�llt zu sehn den allerh�chsten Wunsch,
+Den k�hnsten Bau der Einbildung.  Nur eins
+Fehlt noch, und das, ich zweifle nicht,
+Wird unser Rom dir schenken.
+
+Coriolanus.
+Gute Mutter,
+Ich bin auf meine Art ihr Sklave lieber,
+Als auf die ihrige mit ihnen Herrscher.
+
+Cominius.
+Zum Kapitol.
+
+(Trompeten, H�rner.  Sie gehn alle im feierlichen
+Zuge ab, wie sie kamen.  Die Tribunen bleiben.)
+
+Brutus.
+Von ihm spricht jeder Mund; das bl�de Auge
+Tr�gt Brillen, ihn zu sehn.  Die Amme, schwatzend
+L��t ihren S�ugling sich in Kr�mpfe schrein,
+Von ihm herplappernd.  Seht, die K�chenmagd
+Kn�pft um den rauchgen Hals ihr bestes Leinen,
+Die Wand erkletternd; Buden, B�nk und Fenster
+Gef�llt; das Dach besetzt, der First beritten
+Mit vielerlei Gestaltung: alle einig
+In Gier, nur ihn zu schaun.  Es dr�ngen sich
+Fast nie gesehne Priester durch den Schwarm
+Und sto�en, um beim P�bel Platz zu finden;
+Verh�llte Fraun ergeben Wei� und Rot
+Auf zartgeschonter Wang dem wilden Raub
+Von Ph�bus' Feuerk�ssen.  Solch ein Wirrwarr,
+Als wenn ein fremder Gott, der mit ihm ist,
+Sich still in seine Menschenform geschlichen
+Und ihm der Anmut Zauber mitgeteilt.
+
+Sicinius.
+Im Umsehn, glaub mir, wird er Konsul sein.
+
+Brutus.
+Dann schlafe unser Amt, solang er herrscht.
+
+Sicinius.
+Er kann nicht m��gen Schritts die W�rden tragen
+Vom Anfang bis zum Ziel; er wird vielmehr
+Verlieren den Gewinn.
+
+Brutus.
+Das ist noch Trost.
+
+Sicinius.
+O, zweifelt nicht: das Volk, f�r das wir stehn,
+Vergi�t, nach angebornen Bosheit, leicht
+Auf kleinsten Anla� diesen neuen Glanz;
+Und da� er Anla� gibt, ist so gewi�,
+Als ihn sein Hochmut spornt.
+
+Brutus.
+Ich h�rt ihn schw�ren,
+W�rb er um's Konsulat, so wollt er nicht
+Erscheinen auf dem Marktplatz, noch sich h�llen
+Ins abgetragne, schlichte Kleid der Demut;
+Noch, wie die Sitt ist, seine Wunden zeigend
+Dem Volk, um ihren �beln Atem betteln.
+
+Sicinius.
+Gut!
+
+Brutus.
+So war sein Wort.  Eh gibt er's auf, als da�
+Er's nimmt, wenn nicht der Adel ganz allein
+Es durchsetzt mit den V�tern.
+
+Sicinius.
+H�chst erw�nscht!
+Bleib er nur bei dem Vorsatz und erf�ll ihn,
+Kommt's zur Entscheidung.
+
+Brutus.
+Glaubt's, er wird es tun.
+
+Sicinius.
+Dann bringt es ihm, wie's unser Vorteil heischt,
+Den sichern Untergang.
+
+Brutus.
+Der mu� erfolgen,
+Sonst fallen wir.  Zu diesem Endzweck denn
+Bereden wir das Volk, da� er sie stets
+Geha�t; und, h�tt er Macht, zu Eseln sie
+Umschafft', verstummen hie�e ihre Sprecher
+Und ihre Freiheit br�che, sch�tze sie,
+In F�higkeit des Geists und Kraft zu handeln,
+Von nicht mehr Seel und Nutzen f�r die Welt
+Als das Kamel im Krieg, das nur sein Futter
+Erh�lt, um Last zu tragen; herbe Schl�ge,
+Wenn's unter ihr erliegt.
+
+Sicinius.
+Dies eingeblasen,
+Wenn seine Frechheit einst im h�chsten Flug
+Das Volk erreicht (woran's nicht fehlen wird,
+Bringt man ihn auf, und das ist leichter noch
+Als Hund auf Schafe hetzen), wird zur Glut,
+Ihr d�rr Gestr�pp zu z�nden, dessen Dampf
+Ihn schw�rzen wird auf ewig.
+
+(Ein Bote tritt auf.)
+
+Brutus.
+Nun, was gibt's?
+
+Bote.
+Ihr seid aufs Kapitol geladen.  Sicher
+Glaubt man, da� Marcius Konsul wird.  Ich sah
+Die Stummen dr�ngen, ihn zu sehn, die Blinden,
+Ihn zu vernehmen, Frauen warfen Handschuh',
+Jungfraun und M�dchen B�nder hin und T�cher,
+Wo er vorbeiging; die Patrizier neigten
+Wie vor des Jovis Bild.  Das Volk erregte
+Mit Schrein und M�tzenwerfen Donnerschauer.
+So etwas sah ich nie.
+
+Brutus.
+Zum Kapitol!
+Habt Ohr und Auge, wie's die Zeit erheischt,
+Und Herz f�r die Entscheidung--
+
+Sicinius.
+Nehmt mich mit.
+
+(Alle ab.)
+
+
+
+Zweite Szene
+
+Das Kapitol
+Zwei Ratsdiener welche Polster legen
+
+
+Erster Ratsdiener.
+Komm, komm.  Sie werden gleich hier sein.  Wie viele werben
+um das Konsulat?
+
+Zweiter Ratsdiener.
+Drei, hei�t es; aber jedermann glaubt, da� Coriolanus es
+erhalten wird.
+
+Erster Ratsdiener.
+Das ist ein wackrer Gesell; aber er ist verzweifelt stolz
+und liebt das gemeine Volk nicht.
+
+Zweiter Ratsdiener.
+Ei! es hat viele gro�e M�nner gegeben, die dem Volk schmeichelten
+und es doch nicht liebten.  Und es gibt manche, die das Volk geliebt
+hat, ohne zu wissen, warum?  Also, wenn sie lieben, so wissen sie
+nicht, weshalb, und sie hassen aus keinem besseren Grunde; darum,
+weil es den Coriolanus nicht k�mmert, ob sie ihn lieben oder hassen,
+beweist er die richtige Einsicht, die er von ihrer Gem�tsart hat;
+und seine edle Sorglosigkeit zeigt ihnen dies deutlich.
+
+Erster Ratsdiener.
+Wenn er sich nicht darum k�mmerte, ob sie ihn lieben oder nicht,
+so w�rde er sich unparteiisch in der Mitte halten und ihnen weder
+Gutes noch B�ses tun; aber er sucht ihren Ha� mit gr��erm Eifer,
+als sie ihm erwidern k�nnen, und unterl��t nichts, was ihn vollst�ndig
+als ihren Gegner zeigt.  Nun, sich die Miene geben, da� man nach dem
+Ha� und dem Mi�vergn�gen des Volkes strebt, ist so schlecht, wie das,
+was er verschm�ht: ihnen um ihrer Liebe willen zu schmeicheln.
+
+Zweiter Ratsdiener.
+Er hat sich um sein Vaterland sehr verdient gemacht.  Und sein Aufsteigen
+ist nicht auf so bequemen Staffeln wie jener, welche geschmeidig und
+h�flich gegen das Volk, mit geschwenkten M�tzen, ohne weitre Tat,
+Achtung und Ruhm eingingen.  Er aber hat seine Verdienste ihren Augen
+und seine Taten ihren Herzen so eingepflanzt, da� wenn ihre Zungen
+schweigen wollten und dies nicht eingestehn, es eine Art von undankbarer
+Beschimpfung sein w�rde; es zu leugnen, w�re eine Bosheit, die, indem
+sie sich selbst L�gen strafte, von jedem Ohr, das sie h�rte, Vorwurf und
+Tadel erzwingen m��te.
+
+Erster Ratsdiener.
+Nichts mehr von ihm, er ist ein w�rdiger Mann.  Mach Platz, sie kommen.
+Trompeten.  Es treten auf der Konsul Cominius, dem die Liktoren vorausgehen,
+Menenius, Coriolanus, mehrere Senatoren, Sicinius und Brutus.  Senatoren
+und Tribunen nehmen ihre Pl�tze.
+
+Menenius.
+Da ein Beschlu� gefa�t, der Volsker wegen,
+Und wir den Titus Lartius heimberufen,
+Bleibt noch als Hauptpunkt dieser zweiten Sitzung,
+Des Helden edlen Dienst zu lohnen, der
+So f�r sein Vaterland gek�mpft.--Geruht dann,
+Ehrw�rdge, ernste V�ter, und erlaubt
+Ihm, der jetzt Konsul ist und Feldherr war
+In unserm wohlbeschlo�nen Krieg, ein wenig
+Zu sagen von dem edlen Werk, vollf�hrt
+Durch Cajus Marcius Coriolanus, der
+Hier mit uns ist, um dankbar ihn zu gr��en
+Durch Ehre, seiner wert.
+
+Erster Senator.  Cominius, sprich.
+La�, als zu lang, nichts aus.  Wir glauben eh',
+Da� unserm Staat die Macht zu lohnen fehlt,
+Als uns der weitste Wille.  Volksvertreter,
+Wir bitten euer freundlich Ohr und dann
+Eur g�nstig F�rwort beim gemeinen Volk,
+Da� gelte, was wir w�nschen.
+
+Sicinius.
+Wir sind hier
+Zu freundlichem Vergleiche; unsre Herzen
+Nicht abgeneigt zu ehren, zu bef�rdern
+Ihn, der uns hier versammelt.
+
+Brutus.
+Um so lieber
+Tun wir dies freudgen Muts, gedenkt er auch
+Des Volks mit be�rem Sinn, als er bisher
+Es hat gesch�tzt.
+
+Menenius.
+Das pa�t nicht, pa�t hier nicht.
+Ihr h�ttet lieber schweigen sollen.  Gef�llt's euch,
+Cominius anzuh�ren?
+
+Brutus.
+Herzlich gern.
+Doch war mein Warnen besser hier am Platz
+Als der Verweis.
+
+Menenius.
+Er liebt ja euer Volk;
+Doch zwingt ihn nicht, ihr Schlafgesell zu sein.
+Edler Cominius, spricht
+
+(Coriolanus steht auf und will gehn.)
+
+Nein, bleib nur sitzen.
+
+Erster Senator.
+Bleib, Coriolanus, sch�m dich nicht, zu h�ren,
+Was edel du getan.
+
+Coriolanus.
+Verzeiht mir, V�ter,
+Eh will ich noch einmal die Wunden heilen,
+Als h�ren, wie ich dazu kam.
+
+Brutus.
+Ich hoffe,
+Mein Wort vertrieb Euch nicht.
+
+Coriolanus.
+O nein! doch oft
+Hielt ich den Streichen stand und floh vor Worten.
+Nicht schmeichelt und drum kr�nkt Ihr nicht.  Eur Volk,
+Das lieb ich nach Verdienst.
+
+Menenius.
+Setzt Euch.
+
+Coriolanus.
+Eh lie� ich
+Im warmen Sonnenschein den Kopf mir kratzen,
+Wenn man zum Angriff bl�st, als, m��ig sitzend,
+Mein Nichts zum Fabelwerk vergr��ert h�ren.
+
+(Geht ab.)
+
+Menenius.
+Volksvertreter!
+Wie k�nnt er euer scheckgen Brut' wohl schmeicheln,
+Wo einer gut im Tausend?  wenn ihr seht,
+Er wagt eh alle Glieder f�r den Ruhm,
+Als eins von seinen Ohren, ihn zu h�ren?
+Cominius, fahre fort.
+
+Cominius.
+Mir fehlt's an Stimme.  Coriolanus' Taten
+Soll man nicht schwach verk�nden.  Wie man sagt,
+Ist Mut die erste Tugend und erhebt
+Zumeist den Eigner; ist es so, dann wiegt
+Den Mann, von dem ich sprech, in aller Welt
+Kein andrer auf.  Mit sechzehn Jahren schon,
+Da, als Tarquin Rom �berzog, da focht er
+Voraus den Besten.  Der Diktator, hoch
+Und gro� gepriesen stets, sah seinen Kampf;
+Wie mit dem Kinn der Amazon er jagte
+Die b�rtgen Lippen; zog aus dem Gedr�nge
+Den hingest�rzten R�mer; schlug drei Feinde
+Im Angesicht des Konsuls; traf Tarquin
+Und st�rzt' ihn auf das Knie.  An jenem Tag,
+Als er ein Weib konnt auf der B�hne spielen,
+Zeigt' er sich ganz als Mann im Kampf; zum Lohn
+Ward ihm der Eichenkranz.  Sein zartes Alter
+Gereift zum Manne, wuchs er, gleich dem Meer,
+Und seit der Zeit, im Sturm von siebzehn Schlachten,
+Streift' er den Kranz von jedem Schwert.  Sein Letztes,
+Erst vor, dann in Corioli, ist so,
+Da� jedes Lob verarmt.  Die Fliehnden hemmt' er,
+Und durch sein hohes Beispiel ward dem Feigsten
+Zum Spiel das Schrecknis.  So wie Binsen tauchen
+Dem Schiff im Segeln, wichen ihm die Menschen
+Und schwanden seinem Streich.  Sein Schwert, Todstempel,
+Schnitt, wo es fiel, von Haupt zu F��en nieder.
+Vernichtung war er; jeglicher Bewegung
+Hallt Sterber�cheln nach.  Allein betrat er
+Das Todestor der Stadt, das er bemalt
+Mit unentrinnbarm Weh, und ohne Beistand
+Entkommt er, trifft mit pl�tzlicher Verst�rkung
+Die Stadt, wie 'n Meteor; und sein ist alles,
+Da pl�tzlich weckt ihm Schlachtget�se rufend
+Den wachen Sinn, und schnell den Mut verdoppelnd
+Belebt sich frisch sein arbeitm�der Leib:
+Er st�rzt in neuen Kampf und schreitet nun
+Blutdampfend �ber Menschenleben hin,
+Als folg ihm Mord und Tod.  Und bis wir Stadt
+Und Schlachtfeld unser nannten, ruht' er nicht,
+Um Atem nur zu sch�pfen.
+
+Menenius.
+W�rdger Mann!
+
+Erster Senator.
+Im vollsten Ma� ist er der Ehre wert,
+Die seiner harrt.
+
+Cominius.
+Die Beute stie� er weg.
+Kostbare Dinge sah er an, als w�r's
+Gemeiner Staub und Kehricht; wen'ger nimmt er,
+Als selbst der Geiz ihm g�be.  Ihm ist Lohn
+F�r Gro�tat, sie zu tun.  Zufrieden ist er,
+Sein Leben so zu opfern ohne Zweck.
+
+Menenius.
+Er ist von wahrem Adel.  Ruft ihn her.
+
+Erster Senator.
+Ruft Coriolanus.
+
+Erster Ratsdiener.
+Er tritt schon herein.  Coriolanus kommt zur�ck.
+
+Menenius.
+Mt Freud ernennt dich, Coriolan, zum Konsul
+Der s�mtliche Senat.
+
+Coriolanus.
+Stets weih ich ihm
+Mein Leben, meinen Dienst.
+
+Menenius.
+Jetzt bleibt nur noch,
+Da� du das Volk anredest.
+
+Coriolanus.
+Ich ersuch euch,
+Erla�t mir diesen Brauch; denn ich kann nicht
+Das Kleid antun, entbl��t stehn und sie bitten,
+Um ihre Stimmen, meiner Wunden wegen.
+Erlaubt, die Sitte zu umgehn.
+
+Sicinius.
+Das Volk, Herr,
+Mu� Euer Werben haben, l��t nicht fahren
+Den kleinsten Punkt des Herkomms.
+
+Menenius.
+Reizt es nicht.
+Nein, bitte! f�gt Euch dem Gebrauch und nehmt,
+Wie es bisher die Konsuln all getan,
+Die W�rd in ihrer Form.
+
+Coriolanus.
+'s ist eine Rolle,
+Die ich err�tend spiel; auch w�r es gut,
+Dem Volke dies zu nehmen.
+
+Brutus.
+H�rt ihr das?
+
+Coriolanus.
+Vor ihnen prahlen: dies tat ich und das;
+Geheilte Schmarren zeigen, die ich bergen sollte,
+Als h�tt ich sie um ihres Atems Lohn
+Allein bekommen.--
+
+Menenius.
+Nein, du mu�t dich f�gen.
+Ihr Volkstribunen, euch empfehlen wir:
+Macht den Entschlu� bekannt.  Dem edlen Konsul
+Sei alle Freud und Ehre!
+
+Senatoren.
+Den Coriolanus kr�ne Freud und Ehre!
+
+(Trompeten.  Die Senatoren gehn.)
+
+Brutus.
+Ihr seht, wie er das Volk behandeln will.
+
+Sicinius.
+Wenn sie's nur merkten.  Er wird sie ersuchen,
+Als wie zum Hohn, da� er von ihnen bittet,
+Was sie gew�hren m�ssen.
+
+Brutus.
+Doch sogleich
+Erfahren sie, was hier geschah.  Ich wei�,
+Sie warten unser auf dem Markt.
+
+(Sie gehn ab.)
+
+
+
+Dritte Szene
+
+Das Forum
+Mehrere B�rger treten auf
+
+
+Erster B�rger.
+Ein und f�r allemal: wenn er unsre Stimmen verlangt, k�nnen
+wir sie ihm nicht abschlagen.
+
+Zweiter B�rger.
+Wir k�nnen, Freund, wenn wir wollen.
+
+Dritter B�rger.
+Wir haben freilich die Gewalt; aber es ist eine Gewalt, die wir
+nicht Gewalt haben, zu gebrauchen.  Denn wenn er uns seine Wunden
+zeigt und seine Taten erz�hlt, so m�ssen wir unsre Zungen in diese
+Wunden legen und f�r ihn sprechen; ebenso, wenn er uns seine edlen
+Taten mitteilt, so m�ssen wir ihm unsre edle Anerkennung derselben
+mitteilen.  Undankbarkeit ist ungeheuer; wenn die Menge nun undankbar
+w�re, das hie�e, aus der Menge ein Ungeheuer machen; wir, die wir
+Glieder derselben sind, w�rden ja dadurch Ungeheuerglieder werden.
+
+Erster B�rger.
+Und es fehlt wenig, da� wir f�r nichts besser gehalten werden;
+denn dazumal, als wir wegen des Korns einen Aufstand machten,
+scheute er sich nicht, uns die vielk�pfige Menge zu nennen.
+
+Dritter B�rger.
+So hat uns schon mancher genannt.  Nicht, weil von unsern K�pfen
+einige braun, einige schwarz, einige scheckig und einige kahl sind,
+sondern weil unser Witz so vielfarbig ist; und das glaube ich
+wahrhaftig, auch wenn alle unsre Witze aus einem und demselben
+Sch�del herausgelassen w�rden, so fl�gen sie nach Ost, West, Nord
+und S�d; und verst�ndigten sie sich, einen graden Weg zu suchen, so
+w�rden sie zugleich auf allen Punkten des Kompasses sein.
+
+Zweiter B�rger.
+Glaubst du das?  Wohin, denkst du, w�rde dann mein Witz fliegen?
+
+Dritter B�rger.
+O! dein Witz kann nicht so schnell heraus, als der von andern Leuten;
+denn er ist zu fest in einen Klotzkopf eingekeilt; aber wenn er seine
+Freiheit h�tte, so w�rde er gewi� s�dw�rts fliegen.
+
+Zweiter B�rger.
+Warum dahin?
+
+Dritter B�rger.
+Um sich in einem Nebel zu verlieren; w�ren nun drei Viertel davon in
+faulem Dunst weggeschmolzen, so w�rde der letzte Teil aus
+Gewissenhaftigkeit zur�ckkommen, um dir zu einer Frau zu verhelfen.
+
+Zweiter B�rger.
+Du hast immer deine Schw�nke im Kopf.  Schon gut, schon gut!
+
+Dritter B�rger.
+Seid ihr alle entschlossen, eure Stimmen zu geben?  Aber das macht
+nichts; die gr��ere Zahl setzt es durch.  Ich bleibe dabei: wenn er
+dem Volke geneigter w�re, so gab es nie einen bessern Mann.
+
+(Coriolanus und Menenius treten auf.)
+
+Hier kommt er! und zwar in dem Gewand der Demut.  Gebt acht auf sein
+Betragen.--Wir m�ssen nicht so beisammen bleiben, sondern zu ihm gehn,
+wo er steht, einzeln oder zu zweien und dreien.  Er mu� jedem besonders
+eine Bitte vortragen, dadurch erlangt der einzelne die Ehre, ihm seine
+eigne Stimme mit seiner eignen Zunge zu geben.  Darum folgt mir, und ich
+will euch anweisen, wie ihr zu ihm gehn sollt.
+
+Alle.
+Recht so, recht so!
+
+(Sie gehn ab.)
+
+Menenius.
+Nein, Freund, Ihr habt nicht recht.  Wi�t Ihr denn nicht,
+Die gr��ten M�nner taten's.
+
+Coriolanus.
+Was nur sag ich?
+Ich bitte!--Herr.--Verdammt! ich kann die Zunge
+In diesen Gang nicht bringen.  Seht die Wunden--
+Im Dienst des Vaterlands empfing ich sie,
+Als ein'ge Euer Br�der br�llend liefen
+Vor unsern eignen Trommeln.
+
+Menenius.
+Nein.--Ihr G�tter!
+Nicht davon m��t Ihr reden.  Nein, sie bitten,
+An Euch zu denken.
+
+Coriolanus.
+An mich denken!  H�ngt sie!
+Verg��en sie mich lieber, wie die Tugend,
+Umsonst von Priestern eingesch�rft.
+
+Menenius.
+Ich bitte!
+Verderbt nicht alles, sprecht sie an; doch, bitt ich,
+Anst�ndger Weis.  Es kommen zwei B�rger.
+
+Coriolanus.
+Hei�t ihr Gesicht sie waschen
+Und ihre Z�hne reinigen.  Ach! da kommt so'n Paar!
+Ihr wi�t den Grund, weshalb ich hier bin, Freund.
+
+Erster B�rger.
+Jawohl; doch sagt, was Euch dazu gebracht?
+
+Coriolanus.
+Mein eigner Wert.
+
+Zweiter B�rger.
+Euer eigner Wert?
+
+Coriolanus.
+Ja, Nicht
+Mein eigner Wunsch.
+
+Erster B�rger.
+Wie?  Nicht Euer eigner Wunsch?
+
+Coriolanus.
+Nein, Freund! nie war's mein eigner Wunsch, mit Betteln
+Den Armen zu bel�stigen.
+
+Erster B�rger.
+Ihr m��t denken,
+Wenn wir Euch etwas geben, ist's in Hoffnung,
+Durch Euch auch zu gewinnen.
+
+Coriolanus.
+Gut, sagt mir den Preis des Konsulats.
+
+Erster B�rger.
+Der Preis ist: freundlich drum zu bitten.
+
+Coriolanus.
+Freundlich?
+Ich bitte, g�nnt mir's.  Wunden kann ich zeigen,
+Wenn wir allein sind--Eure Stimme, Herr!
+Was sagt Ihr?
+
+Zweiter B�rger.
+W�rdger Mann, Ihr sollt sie haben.
+
+Coriolanus.
+Geschlo�ner Kauf!
+Zwei edle Stimmen also schon erbettelt.
+Eur Almosen hab ich!--Geht!
+
+Erster B�rger.
+Doch das ist seltsam.
+
+Zweiter B�rger.
+M��t ich sie nochmals geben--doch--meinthalb.
+
+(Sie gehn ab.)
+
+Zwei andere B�rger kommen.
+
+Coriolanus.
+Ich bitt euch nun, wenn sich's zu dem Tone eurer Stimmen pa�t,
+da� ich Konsul werde; ich habe hier den �blichen Rock an.
+
+Dritter B�rger.
+Ihr habt Euch edel um Euer Vaterland verdient gemacht und habt
+Euch auch nicht edel verdient gemacht.
+
+Coriolanus.
+Euer R�tsel?
+
+Dritter B�rger.
+Ihr waret eine Gei�el f�r seine Feinde; Ihr waret eine Rute f�r
+seine Freunde.  Ihr habt, die Wahrheit zu sagen, das gemeine Volk
+nicht geliebt.
+
+Coriolanus.
+Ihr solltet mich f�r um so tugendhafter halten, da ich meine Liebe
+nicht gemein gemacht habe.  Freund, ich will meinem geschwornen Bruder,
+dem Volk, schmeicheln, um eine be�re Meinung von ihm zu ernten: es
+ist ja eine Eigenschaft, die sie hoch anrechnen.  Und da der Weisheit
+ihrer Wahl mein Hut lieber ist als mein Herz, so will ich mich auf
+die einschmeichelnde Verbeugung �ben und mich mit ihnen abfinden auf
+ganz nach�ffende Art.  Das hei�t, Freund, ich will die Bezauberungsk�nste
+irgendeines Volksfreundes nach�ffen und den Verlangenden h�chst
+freigebig mitteilen.  Deshalb bitt ich euch: la�t mich Konsul werden.
+
+Vierter B�rger.
+Wir hoffen, uns in Euch einen Freund zu erwerben, und geben Euch darum
+unsre Stimmen herzlich gern.
+
+Dritter B�rger.
+Ihr habt auch mehrere Wunden f�r das Vaterland empfangen.
+
+Coriolanus.
+Ich will eure Kenntnis nicht dadurch besiegeln, da� ich sie euch zeige.
+Ich will eure Stimmen sehr hoch sch�tzen und euch nun nicht l�nger zur
+Last fallen.
+
+Beide B�rger.
+Die G�tter geben Euch Freude: das w�nschen wir aufrichtig.
+
+(Die B�rger gehn ab.)
+
+Coriolanus.
+O s��e Stimmen!
+Lieber verhungert, lieber gleich gestorben,
+Als Lohn erbetteln, den wir schon erworben.
+Warum soll hier im Narrenkleid ich stehn,
+Um Hinz und Kunz und jeden anzuflehn
+Um nutzlos F�rwort?  Weil's der Brauch verf�gt.
+Doch wenn sich alles vor Gebr�uchen schmiegt,
+Wird nie der Staub des Alters abgestreift,
+Berghoher Irrtum wird so aufgeh�uft,
+Da� Wahrheit nie ihn �berragt.  Eh zahm,
+Noch Narr ich bin, sei aller Ehrenkram
+Dem, den's gel�stet.--Halb ist's schon geschehn,
+Viel �berstanden, mag's nun weitergehn.
+
+(Drei andre B�rger kommen.)
+
+Mehr Stimmen noch!--
+Eure Stimmen! denn f�r eure Stimmen focht ich,
+F�r eure Stimmen wacht ich, f�r eure Stimmen
+Hab ich zwei Dutzend Narben; achtzehn Schlachten
+Hab ich gesehn, geh�rt; f�r eure Stimmen
+Getan sehr vieles, minder, mehr.  Eure Stimmen!
+Gewi�, gern w�r ich Konsul.
+
+F�nfter B�rger.
+Er hat edel gehandelt, und kein redlicher Mann kann ihm seine
+Stimme versagen.
+
+Sechster B�rger.
+Darum la�t ihn Konsul werden.  Die G�tter verleihen ihm Gl�ck
+und machen ihn zum Freund des Volkes.
+
+Alle.
+Amen!  Amen!
+Gott sch�tz dich, edler Konsul!
+
+Coriolanus.
+W�rdge Stimmen!
+
+(Die B�rger gehn ab.)
+
+Menenius, Sicinius und Brutus treten auf.
+
+Menenius.
+Ihr gn�gtet jetzt der Vorschrift.  Die Tribunen
+Erh�hen Euch durch Volkesstimm, es bleibt nur,
+Da� im Gewand der W�rde Ihr alsbald
+Nun den Senat besucht.
+
+Coriolanus.
+Ist dies nun aus?
+
+Sicinius.
+Gen�gt habt Ihr dem Brauche des Ersuchens,
+Das Volk best�tigt Euch, Ihr seid geladen
+Zur Sitzung, um ernannt sogleich zu werden.
+
+Coriolanus.
+Wo?  Im Senat?
+
+Sicinius.
+Ja, Coriolanus, dort.
+
+Coriolanus.
+Darf ich die Kleider wechseln?
+
+Sicinius.
+Ja, Ihr d�rft es.
+
+Coriolanus.
+Das will ich gleich; und kenn ich selbst mich wieder,
+Mich zum Senat verf�gen.
+
+Menenius.
+Ich geh mit Euch.  Wollt ihr uns nicht begleiten?
+
+Brutus.
+Wir harren hier des Volks.
+
+Sicinius.
+Gehabt euch wohl!
+
+(Coriolan und Menenius gehn ab.)
+
+Er hat's nun, und, mich d�nkt, sein Blick verriet,
+Wie's ihm am Herzen liegt.
+
+Brutus.
+Mit stolzem Herzen trug er
+Der Demut Kleid.  Wollt Ihr das Volk entlassen?  Die B�rger
+kommen zur�ck.
+
+Sicinius.
+Nun, Freunde, habt ihr diesen Mann erw�hlt?
+
+Erster B�rger.
+Ja, unsre Stimmen hat er.
+
+Brutus.
+Die G�tter machen wert ihn eurer Liebe.
+
+Zweiter B�rger.
+Amen!  Nach meiner armen, schwachen Einsicht
+Verlacht' er uns, um unsre Stimmen bittend.
+
+Dritter B�rger.
+Gewi�, er h�hnt' uns gradezu.
+
+Erster B�rger.
+Nein, das ist seine Art; er h�hnt' uns nicht.
+
+Zweiter B�rger.
+Du bist der einzge, welcher sagt, er habe
+Uns schm�hlich nicht behandelt; zeigen sollt er
+Die Ehrenmal', f�rs Vaterland die Wunden.
+
+Sicinius.
+Nun, und das tat er doch?
+
+Mehrere B�rger.
+Nein, keiner sah sie.
+
+Dritter B�rger.
+Er habe Wunden, insgeheim zu zeigen,
+Sprach er, uns so den Hut ver�chtlich schwenkend:
+Ich m�chte Konsul sein;--doch, alter Brauch
+Erlaubt es nicht, als nur durch eure Stimmen.
+Drum eure Stimmen!--Als wir eingewilligt,
+Da hie� es: Dank f�r eure Stimmen, dank euch!
+O s��e Stimmen! nun ihr gabt die Stimmen,
+St�r ich euch l�nger nicht.--War das kein Hohn?
+
+Sicinius.
+Ihr waret bl�de, scheint's, dies nicht zu sehn;
+Und, saht ihr's, allzu kindisch, freundlich doch
+Die Stimmen ihm zu leihn.
+
+Brutus.
+Was?  Spracht ihr nicht
+Nach Anweisung?  Als er noch ohne Macht
+Und nur des Vaterlands geringer Diener,
+Da war er euer Feind, sprach stets der Freiheit
+Entgegen und den Rechten, die ihr habt
+Im K�rper unsers Staats; und nun erhoben
+Zu m�chtgem Einflu� und Regierung selbst--
+Wenn er auch da mit b�sem Sinn verharrt,
+Feind der Plebejer, k�nnten eure Stimmen
+Zum Fluch euch werden.  Konntet ihr nicht sagen:
+Geb�hr auch seinem edlen Tun nichts mindres,
+Als was er suche, m�g er doch mit Huld,
+Zum Lohn f�r eure Stimmen, euer denken,
+Verwandelnd seinen Ha� f�r euch in Liebe,
+Euch Freund und G�nner sein?
+
+Sicinius.
+Spracht ihr nun so,
+Wie man euch riet, so ward sein Geist erregt,
+Sein Sinn gepr�ft; so ward ihm abgelockt
+Ein g�tiges Versprechen, woran ihr,
+Wenn Ursach sich ergab, ihn mahnen konntet.
+Wo nicht, so ward sein trotzig Herz erbittert,
+Das keinem Punkt sich leicht bequemt, der irgend
+Ihn binden kann; so, wenn in Wut gebracht,
+Nahmt ihr den Vorteil seines Zornes wahr,
+Und er blieb unerw�hlt.
+
+Brutus.
+Bemerktet ihr,
+Wie er euch frech verh�hnt', indem er bat,
+Da eure Lieb er brauchte?  Wie--und glaubt ihr,
+Es wird euch nicht sein Hohn zermalmend treffen,
+Wenn ihm die Macht wird?  War in all den K�rpern
+Denn nicht ein Herz?  Habt ihr nur deshalb Zungen,
+Weisheit, Vernunft zu �berschrein?
+
+Sicinius.
+Habt ihr
+Nicht Bitten sonst versagt?  und jetzo ihm,
+Der euch nicht bat, nein, h�hnte, wollt ihr schenken
+Die Stimmen, die sonst jeder ehrt?
+
+Dritter B�rger.
+Noch ward er nicht ernannt, wir k�nnen's weigern.
+
+Zweiter B�rger.
+Und wollen's weigern.
+F�nfhundert Stimmen schaff ich von dem Klang.
+
+Erster B�rger.
+Ich dopple das und ihre Freund' als Zutat.
+
+Brutus.
+So macht euch eilig fort.  Sagt diesen Freunden,
+Sie w�hlen einen Konsul, der der Freiheit
+Sie wird berauben, uns so stimmlos machen
+Wie Hunde, die man f�r ihr Kl�ffen schl�gt
+Und doch zum Kl�ffen h�lt.
+
+Sicinius.
+Versammelt sie
+Und widerruft, nach reiferm Urteil, alle
+Die rasche Wahl.  An seinen Stolz erinnert,
+An seinen alten Groll auf euch.  Verge�t nicht,
+Wie er mit Hoffart trug der Demut Kleid,
+Wie flehend er euch h�hnt'.  Nur eure Liebe,
+Gedenkend seiner Dienste, hindert' euch,
+Zu sehn, wie sein Benehmen jetzt erschien,
+Das achtungslos und sp�ttisch er gestaltet
+Nach eingefleischtem Ha�.
+
+Brutus.
+Legt alle Schuld
+Uns, den Tribunen, bei und sprecht: wir dr�ngten
+Euch, keines Einwurfs achtend, so, da� ihr
+Ihn w�hlen mu�tet.
+
+Sicinius.
+Sagt, ihr stimmtet bei
+Mehr, weil wir's euch befohlen als geleitet
+Von eigner, wahrer Lieb; und eur Gem�t
+Erf�llt von dem mehr, was ihr solltet tun,
+Als was ihr wolltet, gabt ihr eure Stimmen
+Ganz gegen euern Sinn.  Gebt uns die Schuld.
+
+Brutus.
+Ja, schont uns nicht; sagt, da� wir euch gepredigt,
+Wie jung er schon dem Vaterland gedient,
+Wie lang seitdem; aus welchem Stamm er spro�t,
+Dem edlen Haus der Marcier; daher kam
+Auch Ancus Marcius, Numas Tochtersohn,
+Der nach Hostilius hier als K�nig herrschte;
+Das Haus gab uns auch Publius und Quintus,
+Die uns durch R�hren gutes Wasser schafften;
+Auch Censorinus, er, des Volkes Liebling,
+Den, zweimal Censor, dieser Name schm�ckte,
+Der war sein gro�er Ahn.
+
+Sicinius.
+Ein so Entspro�ner,
+Der au�erdem durch eignen Wert verdiente
+Den hohen Platz; wir sch�rften stets euch ein,
+Sein zu gedenken; doch da ihr erw�gt
+
+(Messend sein jetzges Tun mit dem vergangnen),
+
+Er werd euch ewig Feind sein, widerruft ihr
+Den �bereilten Schlu�.
+
+Brutus.
+Sagt, nimmer w�r's geschehn
+(Darauf kommt stets zur�ck) ohn unsern Antrieb.
+Und eilt, wenn ihr die Stimmzahl gezogen,
+Aufs Kapitol.
+
+Mehrere B�rger.
+Das wolln wir.  Alle fast
+Bereun schon ihre Wahl.
+
+(Die B�rger gehn ab.)
+
+Brutus.
+So geh's nun fort;
+Denn besser ist's, den Aufstand jetzt zu wagen,
+Der sp�ter noch gef�hrlicher sich zeigte.
+Wann er, nach seiner Art, in Wut ger�t
+Durch ihr Verweigern, so bemerkt und n�tzt
+Den Vorteil seines Zorns.
+
+Sicinius.
+Zum Kapitol!
+Kommt, la�t uns dort sein vor dem Strom des Volks;
+Dies soll, wie's teilweis ist, ihr Wille scheinen,
+Was unser Treiben war.
+
+(Sie gehn ab.)
+
+
+
+
+Dritter Aufzug
+
+
+
+Erste Szene
+
+Rom.  Eine Stra�e H�rner.
+Es treten auf Coriolanus, Menenius, Cominius, Titus Lartius,
+Senatoren und Patrizier
+
+
+Coriolanus.
+Tullus Aufidius drohte denn von neuem?
+
+Titus.
+Er tat's; und das war auch die Ursach, schneller
+Den Frieden abzuschlie�en.
+
+Coriolanus.
+So stehn die Volsker, wie sie fr�her standen,
+Bereit, wenn sich der Anla� beut, uns wieder
+Zu �berziehn.
+
+Cominius.
+Sie sind so matt, o Konsul!
+Da� wir wohl kaum in unserm Lebensalter
+Ihr Banner fliegen sehn.
+
+Coriolanus.
+Saht ihr Aufidius?
+
+Titus.
+Ich gab ihm Sicherheit; er kam und fluchte
+Ergrimmt den Volskern, die so niedertr�chtig
+Die Stadt ger�umt.  Er lebt in Antium jetzt.
+
+Coriolanus.
+Sprach er von mir?
+
+Titus.
+Das tat er, Freund.
+
+Coriolanus.
+Wie?  Was?
+
+Titus.
+Wie oft er, Schwert an Schwert, Euch angerannt;
+Da� er von allen Dingen auf der Welt
+Euch ha� zumeist; sein Gut woll er verpf�nden
+Ohn Hoffnung des Ersatzes, k�nn er nur
+Eur Sieger hei�en.
+
+Coriolanus.
+Dort in Antium lebt er?
+
+Titus.
+In Antium.
+
+Coriolanus.
+O! h�tt ich Ursach, dort ihn aufzusuchen,
+Zu trotzen seinem Ha�!  Willkommen hier!
+
+(Sicinius und Brutus treten auf.)
+
+Ha!  seht, das da sind unsre Volkstribunen,
+Zungen des gro�en Mundes; mir ver�chtlich,
+Weil sie ihrer Amtsgewalt sich br�sten,
+Mehr als der Adel dulden kann.
+
+Sicinius.
+Nicht weiter!
+
+Coriolanus.
+Ha!  was ist das?
+
+Brutus.
+Es ist gef�hrlich, geht Ihr--
+Zur�ck!
+
+Coriolanus.
+Woher der Wechsel?
+
+Menenius.
+Was geschah?
+
+Cominius.
+Ward er vom Adel nicht und Volk best�tigt?
+
+Brutus.
+Cominius, nein!
+
+Coriolanus.
+Hatt ich von Kindern Stimmen?
+
+Erster Senator.
+Macht Platz, Tribunen, er soll auf den Markt.
+
+Brutus.
+Das Volk ist gegen ihn emp�rt.
+
+Sicinius.
+Halt ein!
+Sonst Unheil �berall.
+
+Coriolanus.
+Dies eure Herde?
+Die m�ssen Stimmen haben, jetzt zum Ja
+Und gleich zum Nein?--Und ihr, was schafft denn ihr?
+Seid ihr das Maul, regiert nicht ihre Z�hne?
+Habt ihr sie nicht gehetzt?
+
+Menenius.
+Seid ruhig, ruhig!
+
+Coriolanus.
+Das ist nur ein Komplott und abgekartet,
+Um die Gewalt des Adels zu zerbrechen.
+Duldet's--und lebt mit Volk, das nicht kann herrschen
+Und nicht beherrscht sein.
+
+Brutus.
+Nennt es nicht Komplott.
+Das Volk schreit, ihr verh�hntet es, und neulich,
+Als Korn umsonst verteilt ward, murrtet Ihr,
+Schm�htet die Volkesfreunde, schaltet sie
+Des Adels Feinde, Schmeichler, Zeitendiener.
+
+Coriolanus.
+Nun, dies war l�ngst bekannt.
+
+Brutus.
+Allein nicht allen.
+
+Coriolanus.
+Gabt ihr die Weisung ihnen jetzt?
+
+Brutus.
+Ich, Weisung?
+
+Coriolanus.
+Solch Tun sieht Euch schon �hnlich.
+
+Brutus.
+Nicht un�hnlich,
+Und jedenfalls doch besser als das Eure.
+
+Coriolanus.
+Warum denn ward ich Konsul?  Ha! beim Himmel!
+Nichtsw�rdig will ich sein wie ihr, dann macht mich
+Zu euerm Mittribun.
+
+Sicinius.
+Zuviel schon tut Ihr
+Zur Aufreizung des Volks.  Wollt Ihr die Bahn,
+Die Ihr begannt, vollenden, sucht den Weg,
+Den Ihr verloren habt, mit sanfterm Geist.
+Sonst k�nnt Ihr nimmermehr als Konsul herrschen,
+Noch als Tribun zur Seit ihm stehn.
+
+Menenius.
+Nur ruhig!
+
+Cominius.
+Man t�uscht das Volk, verhetzt es.--Solche Falschheit
+Ziemt R�mern nicht.  Verdient hat Coriolan
+Nicht, da� man ehrlos diesen Stein ihm lege
+In seine Ehrenbahn.
+
+Coriolanus.
+Vom Korn mir sprechen?
+Dies war mein Wort, und ich will's wiederholen.
+
+Menenius.
+Nicht jetzt, nicht jetzt!
+
+Erster Senator.
+Nicht jetzt in dieser Hitze.
+
+Coriolanus.
+Bei meinem Leben! jetzt la�t mich gew�hren,
+Ihr Freunde!  Ihr vom Adel!
+Fest schau die schmutzge wankelm�tge Menge
+Mich an, der ich nicht schmeichle, und bespiegle
+Sich selbst in mir.--Ich sag es wiederum:
+Wir ziehn, sie h�tschelnd, gegen den Senat
+Unkraut der Rebellion, Frechheit, Emp�rung,
+Wof�r wir selbst gepfl�gt, den Samen streuten,
+Da wir mit uns, der edlern Zahl, sie mengten,
+Die keine andre Macht und Tugend missen,
+Als die sie selbst an Bettler weggeschenkt.
+
+Menenius.
+Nun gut, nichts mehr!
+
+Erster Senator.
+Kein Wort mehr, la�t Euch bitten!
+
+Coriolanus.
+Wie?  nicht mehr?
+Hab ich mein Blut f�rs Vaterland vergossen,
+Furchtlos dem fremden Dr�un, so soll die Brust
+Laut schelten, bis sie bricht auf diesen Aussatz,
+Vor dessen Pest wir graun, und tun doch alles,
+Um von ihm angesteckt zu sein.
+
+Brutus.
+Ihr sprecht vom Volk
+Als w�ret Ihr ein Gott, gesandt zu strafen,
+Und nicht ein Mensch, so schwach wie sie.
+
+Sicinius.
+Gut w�r es,
+Wir sagten dies dem Volk.
+
+Menenius.
+Wie! seinen Zorn?
+
+Coriolanus.
+Zorn!
+W�r ich so sanft wie mittern�chtger Schlaf,
+Beim Jupiter! dies w�re meine Meinung.
+
+Sicinius.
+Und diese Meinung
+Soll bleiben in sich selbst verschlo�nes Gift,
+Nicht andre mehr vergiften noch.
+
+Coriolanus.
+Soll bleiben?
+H�rt ihr der Gr�ndlinge Triton?  Bemerkt ihr
+Sein herrschend "Soll"?
+
+Cominius.
+'s war ungesetzlich.
+
+Coriolanus.
+Soll!
+Du guter, aber h�chst unkluger Adel!
+Ehrbare, doch achtlose Senatoren!
+Wie gebt ihr so der Hydra nach, zu w�hlen
+Den Diener, der mit eigenm�chtgem "Soll"
+
+(Er nur Trompet und Klang des Ungeheuers),
+
+Frech euern Strom in sumpfgen Teich will leiten
+Und eure Macht auf sich.--Hat er Gewalt,
+Neigt euch als bl�dgesinnt; wenn keine, weckt
+Die Langmut, die Gefahr bringt.  Seid ihr weise,
+Gleicht nicht gemeinen Toren; seid ihr's nicht,
+Legt ihnen Polster hin.--Ihr seid Plebejer,
+Wenn Senatoren sie; sie sind nichts mindres,
+Wenn durch der Stimmen Mischung nur nach ihnen
+Das Ganze schmeckt.  Sie w�hlten sich Beamte--
+Wie diesen, der sein "Soll" entgegensetzt,
+Sein p�belhaftes "Soll", weit w�rdgerm Rat,
+Als Griechenland nur je verehrt.  Beim Zeus!
+Beschimpft wird so der Konsul, und mein Herz weint,
+Zu sehn, wie, wenn zwei M�chte sich erheben
+Und keine herrscht, Verderben, unges�umt,
+Dringt in die L�cke zwischen beid und st�rzt
+Die eine durch die andre.
+
+Cominius.
+Gut, zum Marktplatz!
+
+Coriolanus.
+Wer immer riet, das Korn der Vorratsh�user
+Zu geben unentgeltlich, wie's gebr�uchlich
+Manchmal in Griechenland--
+
+Menenius.
+Genug!  Nicht weiter!
+
+Coriolanus.
+(Obgleich das Volk dort freire Macht besa�)
+Der, sag ich, n�hrt Emp�rung, f�hrt herbei
+Den Untergang des Staats.
+
+Brutus.
+Wie kann das Volk
+Dem seine Stimme geben, der so spricht?
+
+Coriolanus.
+Ich geb euch Gr�nde,
+Mehr wert als ihre Stimmen: Korn, sie wissen's,
+War nicht von uns ein Dank; sie waren sicher,
+Sie taten nichts daf�r; zum Krieg gepre�t,
+Als selbst des Vaterlandes Herz erkrankte,
+Da wollte keiner aus dem Tor: der Eifer
+Verdient nicht Korn umsonst; hernach im Krieg
+Ihr Meutern und Emp�ren, ihres Mutes
+Erhabne Proben, sprachen schlecht ihr Lob.--
+Die Klage,
+Womit sie oftmals den Senat beschuldigt,
+Aus ungebornem Grund, kann nie erzeugen
+Ein Recht auf freie Schenkung.  Nun--was weiter?
+Wie mag so vielgeteilter Schlund verdaun
+Die G�te des Senats?  Die Taten sprechen,
+Was Worte sagen m�chten.  Wir verlangten's,
+Wir sind der gr��re Hauf; und sie, recht furchtsam,
+Sie gaben, was wir heischten.--So erniedern
+Wir unser hohes Amt, sind schuld, da� P�bel
+Furcht unsre Sorgfalt schilt.  Dies bricht dereinst
+Die Schranken des Senats und l��t die Kr�hen
+Hinein, da� sie die Adler hacken.
+
+Menenius.
+Kommt!  Genug.
+
+Brutus.
+Genug im �berma�!
+
+Coriolanus.
+Nein! nehmt noch mehr:
+Was nur den Schwur, sei's g�ttlich, menschlich, heiligt,
+Besiegle meinen Schlu�.  Die Doppelherrschaft,
+Wo dieser Teil mit Grund verachtet, jener
+Ohn Grund frohlockt, wo Adel, Macht und Weisheit
+Nichts tun kann ohne jenes Ja und Nein
+Des gro�en Unverstands--dies mu� verdr�ngen,
+Was wahrhaftig n�tig ist, um Raum zu geben
+Dem haltlos Nichtgen.--Hemmt man so den Zweck,
+So folgt, da� nichts dem Zweck gem�� geschieht--
+Darum beschw�r ich euch!
+Ihr, die ihr wen'ger zaghaft seid als weise,
+Die ihr mehr liebt des Staates feste Gr�ndung
+Als �ndrung scheut, die h�her stets geachtet
+Ein edles Leben als ein langes, die
+Nicht f�rchten, durch gewagte Kur zu retten
+Den Leib vom sichern Tod--mit eins rei�t aus
+Die vielgespaltne Zung, la�t sie nicht lecken
+Dies S��, was ihnen Gift ist.  Eur Entehrung
+Verst�mmelt das gesunde Urteil und
+Beraubt den Staat der Einheit, die ihm ziemt,
+So da� ihm Macht fehlt, Gutes, das er m�chte,
+Zu tun, weil ihn das B�se stets verhindert.
+
+Brutus.
+Er sprach genug.
+
+Sicinius.
+Er sprach als Hochverr�ter
+Und soll es b��en, wie's Verr�ter tun.
+
+Coriolanus.
+Elender du!  Schmach sei dein Grab!  Was soll das Volk,
+Was soll's mit den kahlk�pfigen Tribunen?
+Anhangend ihnen weigert's den Gehorsam
+Der h�hern Obrigkeit.  In einem Aufruhr,
+Da nicht das Recht, nein, da die Not Gesetz war,
+Da wurden sie gew�hlt--Zu be�rer Zeit
+Sagt von dem Recht nun k�hn: Dies ist das Recht,
+Und schleudert in den Staub hin ihre Macht.
+
+Brutus.
+Offner Verrat!
+
+Sicinius.
+Der da ein Konsul?  Nein.
+
+Brutus.
+He! die �dilen her! la�t ihn verhaften.
+
+Sicinius.
+Geht, ruft das Volk.
+
+(Brutus geht ab.)
+
+Ich selbst, in seinem Namen,
+Ergreife dich als Neurer und Emp�rer
+Und Feind des Staats.--Folg, ich befehl es dir,
+Um Rechenschaft zu stehn.
+
+Coriolanus.
+Fort, alter Bock!
+
+Senatoren und Patrizier.
+Wir sch�tzen ihn.
+
+Menenius.
+Die Hand weg, alter Mann!
+
+Coriolanus.
+Fort, morsches Ding, sonst sch�ttl ich deine Knochen
+Dir aus den Kleidern.
+
+Sicinius.
+Helft! ihr B�rger, helft!  Brutus kommt zur�ck mit den
+�dilen und einer Schar B�rger.
+
+Menenius.
+Mehr Achtung beiderseits.
+
+Sicinius.
+Hier ist er, welcher euch
+Ganz machtlos machen will.
+
+Brutus.
+Greift ihn, �dilen.
+
+Die B�rger.
+Nieder mit ihm! zu Boden!
+
+(Geschrei von allen Seiten.)
+
+Waffen!  Waffen!
+
+(Alle dr�ngen sich um Coriolanus.)
+
+Zweiter Senator.
+Tribunen!  Edle!  B�rger!  Haltet!  Ha!
+Sicinius!  Brutus!  Coriolanus!  B�rger!
+
+Die B�rger.
+Den Frieden haltet!  Frieden!  Haltet alle!
+
+Menenius.
+Was wird draus werden?  Ich bin au�er Atem,
+Es droht uns Untergang!  Ich kann nicht, sprecht,
+Tribunen, ihr, zum Volk.  Coriolanus, ruhig!
+Sprich, Freund Sicinius.
+
+Sicinius.
+H�rt mich, B�rger.  Ruhig!
+
+Die B�rger.
+H�rt den Tribun.  Still!  Rede, rede, rede!
+
+Sicinius.
+Ihr seid daran, die Freiheit zu verlieren.
+Marcius will alles von euch nehmen, Marcius,
+Den eben ihr zum Konsul w�hltet.
+
+Menenius.
+Pfui!
+Dies ist der Weg zu z�nden, nicht zu l�schen.
+
+Erster Senator.
+Die Stadt zu schleifen, alles zu zerst�ren.
+
+Sicinius.
+Was ist die Stadt wohl, als das Volk?
+
+Die B�rger.
+Ganz recht!
+Das Volk nur ist die Stadt.
+
+Brutus.
+Durch aller Einstimmung sind wir erw�hlt
+Als Obrigkeit des Volks.
+
+Die B�rger.
+Und sollt es bleiben.
+
+Menenius.
+Ja, so sieht's aus.
+
+Cominius.
+Dies ist der Weg, um alles zu zerst�ren,
+Das Dach zu st�rzen auf das Fundament
+Und zu begraben jede Rangordnung
+In Tr�mmerhaufen!--
+
+Sicinius.
+Dies verdient den Tod!
+
+Brutus.
+Jetzt gilt's, da� unser Ansehn wir behaupten
+Oder verlieren.  Wir erkl�ren hier
+Im Namen dieses Volks, durch dessen Macht
+Wir sind erw�hlt f�r sie: Marcius verdient
+Sogleich den Tod.
+
+Sicinius.
+Deshalb legt Hand an ihn,
+Bringt zum Tarpejschen Felsen und von dort
+St�rzt in Vernichtung ihn.
+
+Brutus.
+�dilen, greift ihn!
+
+Die B�rger.
+Ergib dich, Marcius!
+
+Menenius.
+H�rt ein einzig Wort!
+Tribunen, h�rt! ich bitt euch, nur ein Wort.
+
+�dilen.
+Still, still!
+
+Menenius.
+Seid, was ihr scheint, Freunde des Vaterlands.
+Ergreift mit weiser M��gung, was gewaltsam
+Ihr herzustellen strebt.
+
+Brutus.
+Die kalten Mittel,
+Sie scheinen kluge Hilf und sind nur Gift,
+Wenn so die Krankheit rast.  Legt Hand an ihn
+Und schleppt ihn auf den Fels!
+
+Coriolanus.
+Nein, gleich hier sterb ich.
+
+(Er zieht sein Schwert.)
+
+Es sah wohl mancher unter euch mich k�mpfen;
+Kommt und versucht nun selbst, was ihr nur saht.
+
+Menenius.
+Fort mit dem Schwert.  Tribunen, steht zur�ck.
+
+Brutus.
+Legt Hand an ihn.
+
+Menenius.
+Helft! helft dem Marcius! helft!
+Ihr hier vom Adel, helft ihm, jung und alt.
+
+Die B�rger.
+Nieder mit ihm!  Nieder mit ihm!
+
+(Handgemenge, die Tribunen, die �dilen und das
+Volk werden hinausgetrieben.)
+
+Menenius.
+Geh! fort, nach deinem Haus! enteile schnell!
+Zugrund geht alles sonst.
+
+Zweiter Senator.
+Fort!
+
+Coriolanus.
+Haltet stand!
+Wir haben ebensoviel Freund als Feinde.
+
+Menenius.
+Soll's dahin kommen?
+
+Erster Senator.
+Das verh�tet, G�tter!
+Mein edler Freund, ich bitte, geh nach Haus.
+La� uns des Schadens Kur.
+
+Menenius.
+Denn unsre Wund ist's:
+Du kannst nicht selbst dich heilen.  Fort, ich bitte.
+
+Cominius.
+Freund, geh hinweg mit uns.
+
+Coriolanus.
+O! w�ren sie Barbaren! (und sie sind's,
+Obwohl Roms Brut) nicht R�mer! (und sie sind's nicht,
+Obwohl geworfen vor dem Kapitol).
+
+Menenius.
+Komm!
+Nimm deinen edlen Zorn nicht auf die Zunge;
+Einst kommt uns be�re Zeit.
+
+Coriolanus.
+Auf ebnem Boden
+Schl�g ich wohl ihrer vierzig.
+
+Menenius.
+Ich auch nehm es
+Mit zwei der besten auf, ja, den Tribunen.
+
+Cominius.
+Doch hier ist �bermacht nicht zu berechnen;
+Und Mannheit wird zur Torheit, stemmt sie sich
+Entgegen st�rzendem Geb�u.  Entfernt Euch,
+Eh dieser Schwarm zur�ckkehrt, dessen Wut
+Rast wie gehemmter Strom, und �bersteigt,
+Was sonst ihn niederhielt.
+
+Menenius.
+Ich bitte, geh!
+So seh ich, ob mein alter Witz noch anschl�gt
+Bei Leuten, die nur wenig haben.  Flicken
+Mu� man den Ri� mit Lappen jeder Farbe.
+
+Coriolanus.
+Nun komm!
+
+(Coriolanus, Cominius und andere gehn ab.)
+
+Erster Patrizier.
+Der Mann hat ganz sein Gl�ck zerst�rt.
+
+Menenius.
+Sein Sinn ist viel zu edel f�r die Welt.
+Er kann Neptun nicht um den Dreizack schmeicheln,
+Nicht Zeus um seine Donner: Mund und Herz ist eins.
+Was seine Brust nur schafft, kommt auf die Zunge,
+Und ist er zornig, so vergi�t er gleich,
+Da� man den Tod je nannte.
+
+(Ger�usch hinter der Szene.)
+
+Ein sch�ner L�rm.
+
+Zweiter Patrizier.
+O! w�ren sie im Bett!
+
+Menenius.
+W�ren sie in der Tiber!  Was, zum Henker,
+Konnt er nicht freundlich sprechen!  Brutus, Sicinius,
+B�rger kommen zur�ck.
+
+Sicinius.
+Wo ist die Viper,
+Die unsre Stadt entv�lkern m�cht, um alles
+In allem drin zu sein?
+
+Menenius.
+W�rdge Tribunen--
+
+Sicinius.
+Wir st�rzen ihn von dem Tarpejschen Fels
+Mit strenger Hand; er trotzet dem Gesetz,
+Drum weigert das Gesetz ihm das Verh�r;
+Die Macht der b�rgerlichen Strenge f�hl er,
+Die ihm so nichtig d�nkt.
+
+Erster B�rger.
+Er soll erfahren,
+Des Volkes edler Mund sind die Tribunen,
+Wir seine Hand.
+
+Mehrere B�rger.
+Er soll! er soll!
+
+Menenius.
+Freund--
+
+Sicinius.
+Still!
+
+Menenius.
+Schreit nicht Vertilgung, wo ein m��ges Jagen
+Zum Ziel euch f�hren mag.
+
+Sicinius.
+Wie kommt's, da� Ihr
+Ihm halft, sich fort zu machen?
+
+Menenius.
+H�rt mich an:
+Wie ich den Wert des Konsuls kenne, kann ich
+Auch seine Fehler nennen.
+
+Sicinius.
+Konsul?  welcher Konsul?
+
+Menenius.
+Der Konsul Coriolan.
+
+Brutus.
+Er, Konsul?
+
+Die B�rger.
+Nein, nein, nein, nein, nein!
+
+Menenius.
+Verg�nnt, ihr, gutes Volk, und ihr, Tribunen,
+Geh�r, so m�cht ich ein, zwei Worte sagen,
+Die euch kein weitres Opfer kosten sollen
+Als diese kurze Zeit.
+
+Sicinius.
+So fa�t Euch kurz,
+Denn wir sind fest entschlossen, abzutun
+Den giftgen Staatsverr�ter; ihn verbannen
+L��t die Gefahr bestehn; ihn hier behalten
+Ist sichrer Tod.  Drum wird ihm zuerkannt:
+Er sterb noch heut.
+
+Menenius.
+Verh�ten das die G�tter!
+Soll unser hohes Rom, des Dankbarkeit
+F�r die verdienten Kinder steht verzeichnet
+In Jovis Buch, entmenscht, verworfne Mutter,
+Den eignen Sohn verschlingen.
+
+Sicinius.
+Ein Schad ist er, mu� ausgeschnitten werden.
+
+Menenius.
+Ein Glied ist er, das einen Schaden hat:
+Es abzuschneiden t�dlich, leicht zu heilen.
+Was tat er Rom, wof�r er Tod verdiente?
+Weil er die Feind' erschlug?  Sein Blut, vergossen
+(Und das, ich schw�r's, ist mehr, als er noch hat,
+Und manchen Tropfen), flo� nur f�r sein Land;--
+Wird, was ihm bleibt, vergossen durch sein Land,
+Das w�r uns allen, die es tun und dulden,
+Ein ewges Brandmal.
+
+Sicinius.
+Das ist nur Gew�sch.
+
+Brutus.
+G�nzlich verkehrt!  Als er sein Land geliebt,
+Ehrt' es ihn auch.
+
+Menenius.
+Hat uns der Fu� gedient
+Und wird vom Krebs gesch�digt, denken wir
+Nicht mehr der vor'gen Dienste?
+
+Brutus.
+Schweigt nur still.
+Zu seinem Hause hin! rei�t ihn heraus,
+Damit die Ansteckung von giftger Art
+Nicht weiter fort sich z�nde.
+
+Menenius.
+Nur ein Wort.
+So tigerf��ge Wut, sieht sie den Schaden
+Der ungehemmten Eile, legt zu sp�t
+Blei an die Sohlen.--Drum verfahrt nach Recht,
+Da� nicht, da er beliebt, Partein sich rotten
+Und unser hohes Rom durch R�mer falle.
+
+Brutus.
+Wenn das gesch�h!
+
+Sicinius.
+Was schwatzt Ihr da?
+Wie er Gesetz' verh�hnte, sahn wir ja.
+�dilen schlagen!  Trotz uns bieten!  Kommt!
+
+Menenius.
+Erw�gt nur dies: er ist im Krieg erwachsen;
+Seit er ein Schwert mocht haben, lernt' er fein
+Gesiebte Sprache nicht, wirft Mehl und Kleie
+Nun im Gemengsel aus.  Bewilligt mir,
+Ich geh zu ihm und bring ihn friedlich her,
+Wo nach der Form des Rechts er Rede steht
+Auf seine �u�erste Gefahr.
+
+Erster Senator.
+Tribunen,
+Die Weis ist menschlich; allzu blutig w�rde
+Der andre Weg, und im Beginnen nicht
+Der Ausgang zu erkennen.
+
+Sicinius.
+Edler Menenius,
+So handelt Ihr denn als des Volks Beamter;--
+Ihr Leute, legt die Waffen ab.
+
+Brutus.
+Geht nicht nach Haus.
+
+Sicinius.
+Hin auf den Markt, dort treffen wir Euch wieder,
+Und bringt ihr Marcius nicht, so gehn wir weiter
+Auf unserm ersten Weg.
+
+(Ab.)
+
+Menenius.
+Ich bring ihn euch.
+
+(Zu den Senatoren.)
+
+Geht mit mir, ich ersuch euch.  Er mu� kommen,
+Sonst folgt das Schlimmste.
+
+Erster Senator.
+La�t uns zu ihm gehn.
+
+(Alle ab.)
+
+
+
+Zweite Szene
+
+Zimmer in Coriolans Hause
+Coriolanus tritt auf mit einigen Patriziern
+
+
+Coriolanus.
+La�t sie mir um die Ohren alles werfen:
+Mir drohn mit Tod durch Rad, durch wilde Rosse;
+Zehn Berg' auf den Tarpejschen Felsen t�rmen,
+Da� sich der Absturz tiefer rei�t, als je
+Das Auge sieht: doch bleib ich ihnen stets
+Also gesinnt.
+
+Erster Patrizier.
+Ihr handelt um so edler.
+
+(Volumnia tritt auf.)
+
+Coriolanus.
+Mich wundert, wie die Mutter
+Mein Tun nicht billigt, die doch lumpge Sklaven
+Sie stets genannt; Gesch�pfe, nur gemacht,
+Da� sie mit Pfenngen schachern; barhaupt stehn
+In der Versammlung, g�hnen, staunen, schweigen,
+Wenn einer meines Ranges sich erhebt,
+Redend von Fried und Krieg.
+(Zu Volumnia.)  Ich sprach von Euch.
+Weshalb w�nscht Ihr mich milder?  Soll ich falsch sein
+Der eignen Seele?  Lieber sagt, ich spiele
+Den Mann nur, der ich bin.
+
+Volumnia.
+O!  Sohn, Sohn, Sohn!
+H�ttst deine Macht du doch erst angelegt,
+Eh du sie abgenutzt.
+
+Coriolanus.
+Sie fahre hin!
+
+Volumnia.
+Du konntest mehr der Mann sein, der du bist,
+Wenn du es wen'ger zeigtest; schw�cher waren
+Sie deinem Sinn entgegen, hehltest du
+Nur etwas mehr, wie du gesinnt, bis ihnen
+Die Macht gebrach, um dich zu kreuzen.
+
+Coriolanus.
+H�ngt sie!
+
+Volumnia.
+Ja, und verbrennt sie!  Menenius kommt mit Senatoren.
+
+Menenius.
+Kommt! kommt!  Ihr wart zu rauh, etwas zu rauh.
+Ihr m��t zur�ck, es bessern.
+
+Erster Senator.
+Da hilft nichts.
+Denn tut Ihr dieses nicht, rei�t auseinander
+Die Stadt und geht zugrund.
+
+Volumnia.
+O! la� dir raten.
+Ich hab ein Herz, unbeugsam, wie das deine,
+Doch auch ein Hirn, das meines Zornes Ausbruch
+Zu besserm Vorteil lenkt.
+
+Menenius.
+Recht, edle Frau.
+Eh er sich so der Herde beugt, wenn's nicht
+Die Fieberwut der Zeit als Mittel heischte
+Dem ganzen Staat, schnallt' ich die R�stung um,
+Die ich kaum tragen kann.
+
+Coriolanus.
+Was mu� ich tun?
+
+Menenius.
+Zu den Tribunen kehren.
+
+Coriolanus.
+Was weiter denn?
+
+Menenius.
+Bereun, was Ihr gesprochen.
+
+Coriolanus.
+Um ihretwillen?
+Nicht kann ich's um der G�tter willen tun;
+Mu� ich's denn ihretwillen tun?
+
+Volumnia.
+Du bist zu herrisch.
+Magst du auch hierin nie zu edel sein,
+Gebietet Not doch auch.--Du selbst oft sagtest:
+"Wie Ehr und Politik als treue Freunde
+Im Krieg zusammen gehn." Ist's dies, so sprich,
+Wie sie im Frieden wohl sich schaden k�nnen,
+Da� sie in ihm sich trennen?
+
+Coriolanus.
+Pah!
+
+Menenius.
+Gut gefragt.
+
+Volumnia.
+Bringt es im Krieg dir Ehre, der zu scheinen,
+Der du nicht bist (und gro�er Zwecke halb
+Gebrauchst du diese Politik), entehrt's nun,
+Da� sie im Frieden soll Gemeinschaft halten
+Mit Ehre, wie im Krieg, da sie doch beiden
+Gleich unentbehrlich ist?
+
+Coriolanus.
+Was dr�ngst du so?
+
+Volumnia.
+Weil jetzt dir obliegt, zu dem Volk zu reden,
+Nicht nach des eignen Sinnes Unterweisung,
+Noch in der Art, wie dir dein Herz befiehlt;
+Mit Worten nur, die auf der Zunge wachsen,
+Bastardgeburten, Lauten nur und Silben,
+Die nicht des Herzens Wahrheit sind verpflichtet.
+Dies, wahrlich, kann sowenig dich entehren,
+Als eine Stadt durch sanftes Wort erobern,
+Wo sonst dein Gl�ck entscheiden m��t und Wagnis
+Von vielem Blutvergie�en.--
+Ich wollte meine Art und Weise bergen,
+Wenn Freund' und Gl�ck es in Gefahr verlangten,
+Und blieb' in Ehr.--Ich steh hier auf dem Spiel,
+Dein Weib, dein Sohn, die Edlen, der Senat,
+Und du willst lieber unserm P�bel zeigen,
+Wie du kannst finster sehn, als einmal l�cheln,
+Um ihre Gunst zu erben und zu sch�tzen,
+Was ohne sie zugrund geht.
+
+Menenius.
+Edle Frau!
+Kommt, geht mit uns, sprecht freundlich und errettet
+Nicht nur, was jetzt gef�hrlich, nein, was schon
+Verloren war.
+
+Volumnia.
+Ich bitte dich, mein Sohn,
+Geh hin, mit dieser M�tz in deiner Hand,
+So streck sie aus, tritt so an sie heran,
+Dein Knie ber�hr die Stein'; in solchem Tun ist
+Geb�rd ein Redner, und der Einfalt Auge
+Gelehrter als ihr Ohr.  Den Kopf so wiegend
+Und oft auch so, dein stolzes Herz bestrafend,
+Sei sanft, so wie die Maulbeer �berreif,
+Die jedem Drucke weicht.  Dann sprich zu ihnen:
+Du seist ihr Krieger, im Gel�rm erwachsen,
+Habst nicht die sanfte Art, die, wie du eins�hst,
+Dir n�tig sei, die sie begehren d�rften,
+W�rbst du um ihre Gunst; doch wolltst du sicher
+Dich k�nftig wandeln zu dem Ihrigen,
+So weit Natur und Kraft in dir nur reichten.
+
+Menenius.
+Das nur getan,
+So wie sie sagt, sind alle Herzen dein,
+Denn sie verzeihn so leicht, wenn du sie bittest,
+Als sonst sie m��ig schwatzen.
+
+Volumnia.
+O! gib nach!
+La� dir nur diesmal raten.  Wei� ich schon,
+Du spr�ngst eh mit dem Feind in Feuerschl�nde,
+Als da� du ihm in Blumenlauben schmeichelst.
+Hier ist Cominius.
+
+(Cominius tritt auf)
+
+Cominius.
+Vom Marktplatz komm ich, Freund, und dringend scheint,
+Da� Ihr Euch sehr verst�rkt, sonst hilft Euch nur
+Flucht oder Sanftmut.  Alles ist in Wut.
+
+Menenius.
+Nur gutes Wort.
+
+Cominius.
+Das, glaub ich, dient am besten,
+Zwingt er sein Herz dazu.
+
+Volumnia.
+Er mu� und will.
+La� dich erbitten; sag: "Ich will", und geh!
+
+Coriolanus.
+Mu� ich mit blo�em Kopf mich zeigen?  Mu� ich
+Mit niedrer Zunge L�gen strafen so
+Mein edles Herz, das hier verstummt?  Nun gut, ich tu's.
+Doch k�m's nur auf das einzge St�ck hier an,
+Den Marcius, sollten sie zu Staub ihn stampfen
+Und in den Wind ihn streun.--Zum Marktplatz nun.
+Ihr zwingt mir eine Rolle auf, die ich nie
+Nat�rlich spiele.
+
+Cominius.
+Kommt, wir helfen Euch.
+
+Volumnia.
+O! h�r mich, holder Sohn.  Du sagtest oft,
+Da� dich mein Lob zum Krieger erst gemacht.
+So spiel, mein Lob zu ernten, eine Rolle,
+Die du noch nie ge�bt.
+
+Coriolanus.
+Ich mu� es tun.
+Fort, meine Sinnesart!  Komm �ber mich,
+Geist einer Metze.  Mein Kriegsschrei sei verwandelt,
+Der in die Trommeln rief, jetzt in ein Pfeifchen,
+D�nn wie des H�mlings, wie des M�dchens Stimme,
+Die Kinder einlullt; eines Buben L�cheln
+Wohn auf der Wange mir; Schulknabentr�nen
+Verdunkeln mir den Blick; des Bettlers Zunge
+Reg in dem Mund sich; mein bepanzert Knie,
+Das nur im B�gel krumm war, beuge sich
+Wie des, der Pfennge fleht.--Ich will's nicht tun,
+Nicht so der eignen Wahrheit Ehre schlachten,
+Und durch des Leibs Geb�rdung meinen Sinn
+Zu ewger Schand abrichten.
+
+Volumnia.
+Wie du willst.
+Von dir zu betteln ist mir gr��re Schmach,
+Als dir von ihnen.  Fall alles denn in Tr�mmer!
+Mag lieber deinen Stolz die Mutter f�hlen,
+Als stets Gefahr von deinem Starrsinn f�rchten.
+Den Tod verlach ich, gro�geherzt wie du.
+Mein ist dein Mut, ja, den sogst du von mir,
+Dein Stolz geh�rt dir selbst.
+
+Coriolanus.
+Sei ruhig, Mutter,
+Ich bitte dich!--Ich gehe auf den Markt;
+Schilt mich nicht mehr.  Als Taschenspieler nun
+Stehl ich jetzt ihre Herzen, kehre heim
+Von jeder Zunft geliebt.  Siehst du, ich gehe.
+Gr�� meine Frau.  Ich kehr als Konsul wieder;
+Sonst glaube nie, da� meine Zung es weit
+Im Weg des Schmeichelns bringt.
+
+Volumnia.
+Tu, was du willst.
+
+(Sie geht ab.)
+
+Cominius.
+Fort, die Tribunen warten.  R�stet Euch
+Mit milder Antwort; denn sie sind bereit,
+H�r ich, mit h�rtern Klagen, als die jetzt
+Schon auf Euch lasten.
+
+Coriolanus.
+"Mild" ist die Losung.  Bitte, la�t uns gehn.
+La�t sie mit Falschheit mich beschuldigen, ich
+Antworte ehrenvoll.
+
+Menenius.
+Nur aber milde.
+
+Coriolanus.
+Gut, milde sei's denn, milde.
+
+(Alle ab.)
+
+
+
+Dritte Szene
+
+Das Forum
+Sicinius und Brutus treten auf
+
+
+Brutus.
+Das mu� der Hauptpunkt sein: da� er erstrebt
+Tyrannische Gewalt; entschl�pft er da,
+Treibt ihn mit seinem Volksha� in die Enge,
+Und da� er nie verteilen lie� die Beute,
+Die den Antiaten abgenommen ward.
+
+(Ein �dil tritt auf.)
+
+Nun, kommt er?
+
+�dil.
+Er kommt.
+
+Brutus.
+Und wer begleitet ihn?
+
+�dil.
+Der alte
+Menenius und die Senatoren, die
+Ihn stets beg�nstigt.
+
+Brutus.
+Habt Ihr ein Verzeichnis
+Von allen Stimmen, die wir uns verschafft,
+Geschrieben nach der Ordnung?
+
+�dil.
+Ja, hier ist's.
+
+Brutus.
+Habt Ihr nach Tribus sie gesammelt?
+
+�dil.
+Ja.
+
+Sicinius.
+So ruft nun unges�umt das Volk hieher,
+Und h�ren sie mich sagen: "So soll's sein,
+Nach der Gemeinen Fug und Recht", sei's nun
+Tod, Geldbu� oder Bann: so la� sie schnell
+"Tod" rufen, sag ich: "Tod!", "Geldbu�e", sag ich: "Bu�e",
+Auf ihrem alten Vorrecht so bestehn
+Und auf der Kraft in der gerechten Sache.
+
+�dil.
+Ich will sie unterweisen.
+
+Brutus.
+Und haben sie zu schreien erst begonnen,
+Nicht aufgeh�rt, nein, dieser wilde L�rm
+Mu� die Vollstreckung Augenblicks erzwingen
+Der Strafe, die wir rufen.
+
+�dil.
+Wohl, ich gehe.
+
+Sicinius.
+Und mach sie stark und unserm Wink bereit,
+Wann wir ihn immer geben.
+
+Brutus.
+Macht Euch dran!
+
+(Der �dil geht ab.)
+
+Reizt ihn sogleich zum Zorn; er ist gewohnt
+Zu siegen, und ihm gilt als h�chster Ruhm
+Der Widerspruch.  Einmal in Wut, nie lenkt er
+Zur M��igung zur�ck; dann spricht er aus,
+Was er im Herzen hat; genug ist dort,
+Was uns von selbst hilft, ihm den Hals zu brechen.
+Es treten auf Coriolanus, Menenius, Cominius, Senatoren
+und Patrizier.
+
+Sicinius.
+Nun seht, hier kommt er.
+
+Menenius.
+Sanft, das bitt ich dich.
+
+Coriolanus.
+Ja, wie ein Stallknecht, der f�r lumpgen Heuer
+Den Schurken zehnfach einsteckt.--Hohe G�tter!
+Gebt Rom den Frieden und den Richterst�hlen
+Biderbe M�nner!  Pflanzet Lieb uns ein!
+F�llt dicht mit Friedensprunk die Tempelhallen,
+Und nicht mit Krieg die Stra�en.
+
+Erster Senator.
+Amen!  Amen!
+
+Menenius.
+Ein edler Wunsch.
+
+Sicinius.
+Ihr B�rger, tretet n�her.  Der �dil kommt mit den B�rgern.
+
+�dil.
+Auf die Tribunen merkt!  Gebt acht!  Still!  still!
+
+Coriolanus.
+Erst h�rt mich reden.
+
+Beide Tribunen.
+Gut, sprecht--ruhig denn.
+
+Coriolanus.
+Werd ich nicht weiter angeklagt als hier?
+Wird alles jetzt gleich ausgemacht?
+
+Sicinius.
+Ich frage:
+Ob Ihr des Volkes Stimm Euch unterwerft,
+Die Sprecher anerkennt und willig tragt
+Die Strafe des Gesetzes f�r die Fehler,
+Die man Euch dartun wird?
+
+Coriolanus.
+Ich trage sie.
+
+Menenius.
+O, B�rger, seht! er sagt, er will sie tragen:
+Der Kriegesdienste, die er tat, gedenkt;
+Seht an die Wunden, die sein K�rper hat,
+Sie gleichen Gr�bern auf geweihtem Boden.
+
+Coriolanus.
+Geritzt von Dornen, Schrammen, nur zum Lachen.
+
+Menenius.
+Erw�gt noch ferner:
+Da�, h�rt ihr ihn nicht gleich dem B�rger sprechen,
+Den Krieger findet ihr in ihm.  Nehmt nicht
+Den rauhen Klang f�r b�s gemeintes Wort;
+Nein, wie gesagt, so wie's dem Krieger ziemt,
+Nicht feindlich euch.
+
+Cominius.
+Gut, gut, nichts mehr.
+
+Coriolanus.
+Wie kommt's,
+Da� ich, einstimmig anerkannt als Konsul,
+Nun so entehrt bin, da� zur selben Stunde
+Ihr mir die W�rde nehmt?
+
+Sicinius.
+Antwortet uns.
+
+Coriolanus.
+Sprecht denn, 's ist wahr, so sollt ich ja.
+
+Sicinius.
+Wir zeihn dich, da� du hast gestrebt, zu st�rzen
+Recht und Verfassung Roms und so dich selbst
+Tyrannisch aller Herrschaft anzuma�en,
+Und darum stehst du hier als Volksverr�ter.
+
+Coriolanus.
+Verr�ter!--
+
+Menenius.
+Still nur, m��ig!--Dein Versprechen.
+
+Coriolanus.
+Der tiefsten H�lle Glut verschling das Volk!
+Verr�ter ich! du l�sternder Tribun!
+Und s��en tausend Tod' in deinem Auge,
+Und packten Millionen deine F�uste,
+W�rn doppelt die auf deiner L�gnerzunge:
+Ich, ich sag' dennoch dir, du l�gst!--die Brust
+So frei, als wenn ich zu den G�ttern bete.
+
+Sicinius.
+H�rst du dies, Volk?
+
+Die B�rger.
+Zum Fels mit ihm!  Zum Fels mit ihm!
+
+Sicinius.
+Seid ruhig!
+Wir brauchen neuer Fehl' ihn nicht zu zeihn;
+Was ihr ihn tun saht, reden h�rtet,
+Wie er euch fluchte, eure Diener schlug,
+Streiche dem Recht erwidernd, denen trotzte,
+Die, machtbegabt, ihn richten sollten: dies
+So frevelhaft, so hochverr�terisch,
+Verdient den h�rtsten Tod.
+
+Brutus.
+Doch, da er Dienste
+Dem Staat getan--
+
+Coriolanus.
+Was schwatzt Ihr noch von Diensten?
+
+Brutus.
+Ich sag es, der ich's wei�.
+
+Coriolanus.
+Ihr?
+
+Menenius.
+Ist es dies,
+Was Eurer Mutter Ihr verspracht?
+
+Cominius.
+O h�rt.
+Ich bitt Euch.
+
+Coriolanus.
+Nein, ich will nichts weiter h�ren.
+La� sie ausrufen: Tod vom steilen Fels,
+Landfl�chtges Elend, Schinden, eingekerkert
+Zu schmachten, tags mit einem Korn--doch kauft ich
+Nicht f�r ein gutes Wort mir ihre Gnade,
+Nicht z�hmt ich mich, f�r was sie schenken k�nnen,
+Bek�m ich's f�r 'nen "Guten Morgen" schon.
+
+Sicinius.
+Weil er, soviel er konnt, von Zeit zu Zeit,
+Aus Ha� zum Volke Mittel hat gesucht,
+Ihm seine Macht zu rauben, und auch jetzt
+Als Feind sich wehrt, nicht nur in Gegenwart
+Erhabnen Rechts, nein, gegen die Beamten,
+Die es verwalten: in des Volkes Namen
+Und unsrer, der Tribunen, Macht verbannen
+Wir augenblicklich ihn aus unsrer Stadt.
+Bei Strafe, vom Tarpejschen Fels gest�rzt
+Zu sein, betret er nie die Tore Roms.
+In 's Volkes Namen sag ich: So soll's sein.
+
+Die B�rger.
+So soll es sein!  So soll's sein!  Fort mit ihm!
+Er ist verbannt, und also soll es sein.
+
+Cominius.
+H�rt mich, ihr M�nner, Freunde hier im Volk.
+
+Sicinius.
+Er ist verurteilt.  Nichts mehr.
+
+Cominius.
+La�t mich sprechen.
+Ich war eur Konsul, und Rom kann an mir
+Die Spuren seiner Feinde sehn.  Ich liebe
+Des Vaterlandes Wohl mit zartrer Ehrfurcht,
+Heiliger und tiefer als mein eignes Leben,
+Mehr als mein Weib und ihres Leibes Kinder,
+Die Sch�tze meines Bluts.  Wollt ich nun sagen--
+
+Sicinius.
+Wir wissen, was Ihr wollt.  Was k�nnt Ihr sagen?
+
+Brutus.
+Zu sagen ist nichts mehr.  Er ist verbannt
+Als Feind des Volks und seines Vaterlands.
+So soll's sein.
+
+Die B�rger.
+So soll's sein!  So soll es sein!
+
+Coriolanus.
+Du schlechtes Hundepack! des Hauch ich hasse
+Wie fauler S�mpfe Dunst; des Gunst mir teuer
+Wie unbegrabner M�nner totes Aas,
+Das mir die Luft vergift't.--Ich banne dich!
+Bleibt hier zur�ck mit eurem Unbestand,
+Der schw�chste L�rm mach euer Herz erbeben,
+Eur Feind mit seines Helmbuschs Nicken f�chle
+Euch in Verzweiflung; die Gewalt habt immer,
+Zu bannen eure Sch�tzer--bis zuletzt
+Eur stumpfer Sinn, der glaubt, erst wenn er f�hlt,
+Der nicht einmal euch selbst erhalten kann,
+Stets Feind euch selbst, euch endlich unterwerfe
+Als h�chst verworfne Sklaven einem Volk
+Das ohne Schwertstreich euch gewann.  Verachtend
+Um euch die Stadt--wend ich so meinen R�cken--
+Noch anderswo gibt's eine Welt.
+
+(Coriolanus, Cominius, Menenius, Senatoren und Patrizier gehn ab.)
+
+�dilen.
+Des Volkes Feind ist fort! ist fort! ist fort!
+
+Die B�rger.
+Verbannt ist unser Feind! ist fort!  Ho!  Ho!
+
+(Sie jauchzen und werfen ihre M�tzen.)
+
+Sicinius.
+Geht, seht ihm nach zum Tor hinaus und folgt ihm,
+Wie er euch sonst mit bitterm Schm�hn verfolgte,
+Kr�nkt ihn, wie er's verdient.--La�t eine Wache
+Uns durch die Stadt begleiten.
+
+Die B�rger.
+Kommt, kommt! ihm nach! zum Tor hinaus, so kommt!
+Edle Tribunen, euch der G�tter Schutz!
+
+(Alle ab.)
+
+
+
+Vierte Szene
+
+Rom, vor einem Tore der Stadt
+Es treten auf Coriolanus, Volumnia, Virgilia, Menenius,
+Cominius und mehrere junge Patrizier
+
+
+Coriolanus.
+Nein, weint nicht mehr.  Ein kurz Lebwohl.  Das Tier
+Mit vielen K�pfen st��t mich weg.  Ei, Mutter!
+Wo ist dein alter Mut!  Du sagtest oft:
+Es sei das Ungl�ck Pr�fstein der Gem�ter,
+Gemeine Not trag ein gemeiner Mensch.
+Es segl' auf stiller See mit gleicher Kunst
+Ein jedes Boot; doch bei den schwersten Schl�gen
+Des Gl�cks gelassen bleiben, das erheische
+Den h�chsten Sinn.--Du ludest oft mir auf
+Belehrungen, die unbezwinglich machten
+Die Herzen, die sie ganz durchdrangen.
+
+Virgilia.
+O Himmel!  Himmel!
+
+Coriolanus.
+Nein, ich bitte, Frau--
+
+Volumnia.
+Die Pestilenz treff alle Z�nfte Roms
+Und die Gewerke Tod!
+
+Coriolanus.
+Was, was! Ich werde
+Geliebt sein, wenn ich bin gemi�t.  Nun Mutter!
+Wo ist der Geist, der sonst dich sagen machte,
+W�rst du das Weib des Herkules gewesen,
+Sechs seiner Taten h�ttest du getan,
+Und deinem Mann so vielen Schwei� erspart?
+Cominius!
+Frisch auf!  Gott sch�tz euch!--Lebt wohl, Frau und Mutter!
+Mir geht's noch gut.--Menenius, alter, treuer,
+Salzger als j�ngern Manns sind deine Tr�nen,
+Und giftig deinem Aug.  Mein weiland Feldherr,
+Ich sah dich finster, und oft schautest du
+Herzh�rtend Schauspiel; sag den bangen Frauen:
+Beweinen Unvermeidliches sei Torheit
+Sowohl als dr�ber lachen.--Wei�t du, Mutter,
+Mein Wagnis war dein Trost ja immer! und,
+Das glaube fest, geh ich auch jetzt allein,
+So wie ein Drache einsam, den die H�hle
+Gef�rchtet macht, besprochen mehr, weil nicht gesehn,
+Dein Sohn ragt �ber dem Gemeinen stets;
+Wo nicht, f�llt er durch T�ck und niedre List.
+
+Volumnia.
+Mein gro�er Sohn!
+Wo willst du hin?  Nimm f�r die erste Zeit
+Cominius mit, bestimme dir den Lauf,
+Statt wild dich jedem Zufall preiszugeben,
+Der auf dem Weg dich anf�llt.
+
+Coriolanus.
+O ihr G�tter!
+
+Cominius.
+Den Monat bleib ich bei dir; wir bedenken,
+Wo du magst weilen, da� du von uns h�rest
+Und wir von dir; da�, wenn die Zeit den Anla�
+F�r deine R�ckberufung reift, wir nicht
+Nach einem Mann die Welt durchsuchen m�ssen,
+Die Gunst verlierend, welche stets erkaltet,
+Ist jener fern, der sie bedarf.
+
+Coriolanus.
+Leb wohl!
+Du tr�gst der Jahre viel, hast �bersatt
+Kriegsschwelgerei, mit einem umzutreiben,
+Des Gier noch frisch.  Bringt mich nur aus dem Tor;
+Komm, s��es Weib, geliebte Mutter und
+Ihr wohlerprobten Freunde.--Bin ich drau�en,
+Sagt: Lebe wohl! und l�chelt.  Bitte, kommt--
+Solang ich �berm Boden bin, sollt ihr
+Stets von mir h�ren und nie etwas andres,
+Als was dem fr�hern Marcius gleicht.
+
+Menenius.
+So w�rdig,
+Wie man nur h�ren kann.  La�t uns nicht weinen.
+K�nnt ich nur sieben Jahr heruntersch�tteln
+Von diesen alten Gliedern--bei den G�ttern!
+Ich wollt auf jedem Schritt dir folgen!
+
+Coriolanus.
+Kommt!
+Deine Hand.
+
+(Alle ab.)
+
+
+
+F�nfte Szene
+
+Sicinius, Brutus und ein �dil treten auf.
+
+
+Sicinius.
+Schickt sie nach Hause, er ist fort.  Nicht weiter.
+Der Adel ist gekr�nkt, der, wie wir sahen,
+F�r ihn Partei ergriff.
+
+Brutus.
+Da unsre Macht
+Wir nun gezeigt, la�t uns dem�tger scheinen,
+Nun es geschehn, als da's im Werden.
+
+Sicinius.
+Schickt sie heim.
+Sagt ihnen, fort sei nun ihr gro�er Feind
+Und neu befestigt ihre Macht.
+
+Brutus.
+Entla�t sie.
+Hier kommt die Mutter.  Volumnia, Virgilia und Menenius treten auf.
+
+Sicinius.
+La�t uns fort!
+
+Brutus.
+Weshalb?
+
+Sicinius.
+Man sagt, sie sei verr�ckt.
+
+Brutus.
+Sie sah uns schon.
+Weicht ihr nicht aus.
+
+Volumnia.
+Ha, wohlgetroffen!
+Der G�tter aufgeh�ufte Strafen lohnen
+Euch eure Liebe.
+
+Menenius.
+Still, seid nicht so laut.
+
+Volumnia.
+K�nnt ich vor Tr�nen nur, ihr solltet h�ren--
+Doch sollt ihr etwas h�ren.  Wollt Ihr gehn?
+
+Virgilia.
+Auch Ihr sollt bleiben.  H�tt ich doch die Macht,
+Das meinem Mann zu sagen.
+
+Sicinius.
+Seid Ihr m�nnisch?
+
+Volumnia.
+Ja, Narr.  Ist das 'ne Schande?  Seht den Narren!
+War nicht ein Mann ihr Vater?  Warst du fuchsisch,
+Zu bannen ihn, der Wunden schlug f�r Rom,
+Mehr als du Worte sprachst?
+
+Sicinius.
+O g�tger Himmel!
+
+Volumnia.
+Mehr edle Wunden als du kluge Worte,
+Und zu Roms Heil.  Eins sag ich dir--doch geh.
+Nein, bleiben sollst du!  W�re nur mein Sohn,
+Sein gutes Schwert in H�nden, in Arabien,
+Und dort vor ihm dein Stamm.
+
+Sicinius.
+Was dann?
+
+Virgilia.
+Was dann?
+Er w�rde dort dein ganz Geschlecht vertilgen.
+
+Volumnia.
+Bastard' und alles.
+O Wackrer! du tr�gst Wunden viel f�r Rom.
+
+Menenius.
+Kommt, kommt! seid ruhig.
+
+Sicinius.
+Ich wollt, er w�r dem Vaterland geblieben,
+Was er ihm war, statt selbst den edlen Knoten
+Zu l�sen, den er schlang.
+
+Brutus.
+So w�nscht ich auch.
+
+Volumnia.
+"So w�nscht ich auch"?  Ihr hetztet auf den P�bel,
+Katzen, die seinen Wert begreifen k�nnen
+Wie die Mysterien ich, die nicht der Himmel
+Der Erd enth�llen will.
+
+Brutus.
+Kommt, la�t uns gehn.
+
+Volumnia.
+Nun ja, ich bitt euch! geht!
+Ihr tatet wackre Tat.--H�rt dies noch erst:
+So weit das Kapitol hoch �berragt
+Das kleinste Haus in Rom, so weit mein Sohn,
+Der Gatte dieser Frau, hier dieser, seht ihr?
+Den ihr verbanntet, �berragt euch alle.
+
+Brutus.
+Genug.  Wir gehn.
+
+Sicinius.
+Was bleiben wir, gehetzt
+Von einer, der die Sinne fehlen?
+
+Volumnia.
+Nehmt
+Noch mein Gebet mit euch.
+
+(Die Tribunen gehn ab.)
+
+O! h�tten doch die G�tter nichts zu tun,
+Als meine Fl�ch erf�llen.  Tr�f ich sie
+Nur einmal tags, erleichtern w�rd's mein Herz
+Von schwerer Last.
+
+Menenius.
+Ihr gabt es ihnen derb,
+Und habt auch Grund.  Speist Ihr mit mir zu Nacht?
+
+Volumnia.
+Zorn ist mein Nachtmahl; so mich selbst verzehrend,
+Verschmacht ich an der Nahrung.  La�t uns gehn.
+La�t dieses schwache Wimmern, klagt wie ich,
+Der Juno gleich im Zorn.--Kommt, kommt!
+
+Menenius.
+Pfui, pfui!
+
+(Sie gehn ab.)
+
+
+
+
+Vierter Aufzug
+
+
+
+Erste Szene
+
+Landstra�e zwischen Rom und Antium
+Ein R�mer und ein Volsker, die sich begegnen
+
+
+R�mer.
+Ich kenne Euch recht gut, Freund, und Ihr kennt mich auch.
+Ich denke, Ihr hei�t Adrian?
+
+Volsker.
+Ganz recht.  Wahrhaftig, ich hatte Euch vergessen.
+
+R�mer.
+Ich bin ein R�mer und tue jetzt wie Ihr Dienste gegen Rom.
+Kennt Ihr mich nun?
+
+Volsker.
+Nikanor?  nicht?
+
+R�mer.
+Ganz recht.
+
+Volsker.
+Ihr hattet mehr Bart, als ich Euch zuletzt sah; aber
+Euer Gesicht wird mir durch Eure Zunge kenntlich.--Was
+gibt es Neues in Rom?  Ich habe einen Auftrag vom Staat
+der Volsker, Euch dort auszukundschaften, und Ihr habt
+mir eine Tagereise erspart.
+
+R�mer.
+In Rom hat es einen seltsamen Aufstand gegeben: das Volk
+gegen die Senatoren, Patrizier und Edeln.
+
+Volsker.
+Hat es gegeben?  Ist es denn nun vorbei?  Unser Staat denkt
+nicht so; sie machen die st�rksten R�stungen und hoffen,
+sie in der Hitze der Entzweiung zu �berfallen.
+
+R�mer.
+Der gro�e Brand ist gel�scht; aber eine geringe Veranlassung
+w�rde ihn wieder in Flammen setzen; denn den Edeln geht die
+Verbannung des w�rdigen Coriolan so zu Herzen, da� sie ganz
+in der Stimmung sind, dem Volk alle Gewalt zu nehmen und ihnen
+ihre Tribunen auf immer zu entrei�en.  Dies glimmt unter der
+Asche, das kann ich Euch versichern, und ist fast reif zum
+heftigsten Ausbruch.
+
+Volsker.
+Coriolan verbannt?
+
+R�mer.
+Ja, verbannt.
+
+Volsker.
+Mit der Nachricht werdet Ihr willkommen sein, Nikanor.
+
+R�mer.
+Das Wetter ist jetzt gut f�r euch.  Man pflegt zu sagen, die
+beste Zeit, eine Frau zu verf�hren, sei, wenn sie sich mit
+ihrem Manne �berworfen hat.  Euer edler Tullus Aufidius kann
+sich in diesem Kriege hervortun, da sein gro�er Gegner Coriolanus
+jetzt f�r sein Vaterland nichts tut.
+
+Volsker.
+Das kann ihm nicht fehlen.  Wie gl�cklich war ich, Euch so
+unvermutet zu begegnen!  Ihr habt meinem Gesch�ft ein Ende
+gemacht, und ich will Euch nun freudig nach Hause begleiten.
+
+R�mer.
+Ich kann Euch vor dem Abendessen noch h�chst sonderbare Dinge
+von Rom erz�hlen, die ihren Feinden s�mtlich zum Vorteil gereichen.
+Habt ihr ein Heer bereit?  Wie?
+
+Volsker.
+Ja, und ein wahrhaft k�nigliches.  Die Zenturionen und ihre
+Mannschaft sind schon f�rmlich verteilt und stehn im Sold, so
+da� sie jede Stunde aufbrechen k�nnen.
+
+R�mer.
+Es freut mich, da� sie so marschfertig sind, und ich denke, ich
+bin der Mann, der sie sogleich in Bewegung setzen wird.  Also
+herzlich willkommen, und h�chst vergn�gt durch Eure Gesellschaft.
+
+Volsker.
+Ihr nehmt mir die Worte aus dem Munde; ich habe die meiste Ursach,
+mich dieser Zusammenkunft zu freuen.
+
+R�mer.
+Gut, la�t uns gehn.
+
+(Sie gehn ab.)
+
+
+
+Zweite Szene
+
+Antium.  Vor Aufidius' Haus
+Coriolanus tritt auf in geringem Anzuge verkleidet und verh�llt.
+
+
+Coriolanus.
+Dies Antium ist ein h�bscher Ort.  O Stadt!
+Ich schuf dir deine Witwen.  Manche Erben
+Der sch�nen H�user h�rt ich in der Schlacht
+St�hnen und sterben.--Kenne mich drum nicht,
+Sonst morden mich mit Bratspie� deine Weiber,
+In kindscher Schlacht mit Steinen deine Knaben.
+
+(Es kommt ein B�rger.)
+
+Gott gr�� Euch, Herr.
+
+Der B�rger.
+Und Euch.
+
+Coriolanus.
+Zeigt mir, ich bitte,
+Wo Held Aufidius wohnt.  Ist er in Antium?
+
+B�rger.
+Ja, und bewirtet heut in seinem Haus
+Die Ersten unsrer Stadt.
+
+Coriolanus.
+Wo ist sein Haus?
+
+B�rger.
+Dies ist's, Ihr steht davor.
+
+Coriolanus.
+Lebt wohl.  Ich dank Euch.
+
+(Der B�rger geht ab.)
+
+O Welt! du rollend Rad!  Geschworne Freunde,
+Die in zwei Busen nur ein Herz getragen,
+Die Zeit und Bett und Mahl und Arbeit teilten,
+Vereinigt stets, als wie ein Zwillingspaar,
+In ungetrennter Liebe, brechen aus
+Urpl�tzlich durch den Hader um ein Nichts
+In bittern Ha�.--So auch erboste Feinde,
+Die Ha� und Grimm nicht schlafen lie� vor Planen,
+Einander zu vertilgen, durch 'nen Zufall,
+Ein Ding, kein Ei wert, werden Herzensfreunde,
+Und Doppelgatten ihre Kinder.  So auch ich.
+Ich hasse den Geburtsort, liebe hier
+Die Feindesstadt.--Hinein!  Erschl�gt er mich,
+So �bt er gutes Recht; nimmt er mich auf,
+So dien ich seinem Land.
+
+(Geht ab.)
+
+
+
+Dritte Szene
+
+Halle in Aufidius' Hause
+Man h�rt Musik von innen; es kommt ein Diener
+
+
+Erster Diener.
+Wein, Wein!  Was ist das f�r Aufwartung?--Ich glaube,
+die Burschen sind alle im Schlaf.  (Geht ab.)  Ein zweiter
+Diener kommt.
+
+Zweiter Diener.
+Wo ist Cotus?  Der Herr ruft ihn.  Cotus.
+
+(Geht ab.  Coriolanus tritt auf.)
+
+Coriolanus.
+Ein h�bsches Haus; das Mahl riecht gut.  Doch ich
+Seh keinem Gaste gleich.  Der erste Diener kommt wieder.
+
+Erster Diener.
+Was wollt Ihr, Freund?  Woher kommt Ihr?  Hier ist kein
+Platz f�r Euch.  Bitte, macht Euch fort.
+
+Coriolanus.
+Ich habe bessern Willkomm nicht verdient,
+Wenn Coriolan ich bin.  Der Zweite Diener kommt.
+
+Zweiter Diener.
+Wo kommst du her, Freund?  Hat der Pf�rtner keine Augen
+im Kopf, da� er solche Gesellen herein l��t?  Bitte, mach
+dich fort.
+
+Coriolanus.
+Hinweg!
+
+Zweiter Diener.
+Hinweg?  Geh du hinweg.
+
+Coriolanus.
+Du bist mir l�stig.
+
+Zweiter Diener.
+Bist du so trotzig?  Man wird schon mit dir sprechen.
+Der dritte Diener kommt.
+
+Dritter Diener.
+Was ist das f�r ein Mensch?
+
+Erster Diener.
+Ein so wunderlicher, wie ich noch keinen sah.  Ich kann ihn
+nicht aus dem Hause kriegen.  Ich bitte, ruf doch mal den Herrn her.
+
+Dritter Diener.
+Was habt Ihr hier zu suchen, Mensch?  Bitte, scher dich
+aus dem Haus.
+
+Coriolanus.
+La�t mich hier stehn, nicht schad ich euerm Herd.
+
+Dritter Diener.
+Wer seid Ihr?
+
+Coriolanus.
+Ein Mann von Stande.
+
+Dritter Diener.
+Ein verw�nscht armer.
+
+Coriolanus.
+Gewi�, das bin ich.
+
+Dritter Diener.
+Ich bitte Euch, armer Mann von Stande, sucht Euch ein andres
+Quartier; hier ist kein Platz f�r Euch.--Ich bitte Euch, packt
+Euch fort.
+
+Coriolanus.
+Euerm Berufe folgt.  Hinweg!  Stopft euch mit kalten Bissen.
+
+(St��t den Diener weg.)
+
+Dritter Diener.
+Was, Ihr wollt nicht?  Bitte, sage doch meinem Herrn, was er
+hier f�r einen seltsamen Gast hat.
+
+Zweiter Diener.
+Das will ich.
+
+(Geht ab.)
+
+Dritter Diener.
+Wo wohnst du?
+
+Coriolanus.
+Unter dem Firmament.
+
+Dritter Diener.
+Unter dem Firmament?
+
+Coriolanus.
+Ja.
+
+Dritter Diener.
+Wo ist das?
+
+Coriolanus.
+In der Stadt der Geier und Kr�hen.
+
+Dritter Diener.
+In der Stadt der Geier und Kr�hen?  Was das f�r ein Esel ist!
+So wohnst du auch wohl bei den Dohlen?
+
+Coriolanus.
+Nein, ich diene nicht deinem Herrn.
+
+Erster Diener.
+Kerl!  was hast du mit meinem Herrn zu schaffen?
+
+Coriolanus.
+Nun, das ist doch schicklicher, als wenn ich mit deiner Frau
+zu schaffen h�tte.  Du schwatzest und schwatzest.--Trag deine
+Teller weg.  Marsch!
+
+(Er schl�gt ihn hinaus.  Aufidius tritt auf.)
+
+Aufidius.
+Wo ist der Mensch?
+
+Zweiter Diener.
+Hier, Herr.  Ich h�tte ihn wie einen Hund hinausgepr�gelt, ich
+wollte nur die Herren drinnen nicht st�ren.
+
+Aufidius.
+Woher kommst du?  Was willst du?  Dein Name?  Weshalb antwortest
+du nicht?  Sprich, Mensch, wie hei�est du?
+
+Coriolanus (schl�gt den Mantel auseinander).
+Wenn, Tullus,
+Du noch nicht mich erkennst, und, mich beschauend,
+Nicht findest, wer ich bin, zwingt mich die Not,
+Mich selbst zu nennen.
+
+Aufidius.
+Und wie ist dein Name?
+
+Coriolanus.
+Ein Name, schneidend f�r der Volsker Ohr,
+Und rauhen Klangs f�r dich.
+
+Aufidius.
+Wie ist dein Name?
+Du hast ein grimmig Aussehn, deine Mien ist
+Gebieterisch.  Ist auch zerfetzt dein Tauwerk,
+Zeigst du als wackres Schiff dich.  Wie dein Name?
+
+Coriolanus.
+Zieh deine Stirn in Falten.  Kennst mich jetzt?
+
+Aufidius.
+Nicht kenn ich dich.  Dein Name?
+
+Coriolanus.
+Mein Nam ist Cajus Marcius, der dich selbst
+Vorerst und alle deine Landsgenossen
+Sehr schwer verletzt' und elend machte; Zeuge:
+Mein dritter Name Coriolan.  Die Kriegsm�hn,
+Die Todsgefahr und all die Tropfen Bluts,
+Vergossen f�r das undankbare Rom,
+Das alles wird bezahlt mit diesem Namen,
+Er, starkes Mahnwort und Anreiz zu Ha�
+Und Feindschaft, die du mir mu�t hegen.  Nur
+Der Name bleibt.  Die Grausamkeit des Volks,
+Ihr Neid, gestattet von dem feigen Adel,
+Die alle mich verlie�en, schlang das andre.
+Sie duldeten's, mich durch der Sklaven Stimmen
+Aus Rom gezischt zu sehn.--Diese Verruchtheit
+Bringt mich an deinen Herd; die Hoffnung nicht,
+Versteh mich recht, mein Leben zu erhalten;
+Denn f�rchtet ich den Tod, so mied' ich wohl
+Von allen Menschen dich zumeist;--nein, Ha�,
+Ganz meinen Neidern alles wettzumachen,
+Bringt mich hierher.--Wenn du nun in dir tr�gst
+Ein Herz des Grimms, das Rache heischt f�r alles,
+Was dich als Mann gekr�nkt, und die Verst�mmlung
+Und Schmach in deinem ganzen Land will strafen,
+Mach dich gleich dran, da� dir mein Elend n�tze,
+Da� dir mein Rachedienst zur Wohltat werde;
+Denn ich bek�mpfe
+Mein gifterf�lltes Land mit aller Wut
+Der H�llengeister.  Doch f�gt es sich so:
+Du wagst es nicht und bist erm�det, h�her
+Dein Gl�ck zu steigern, dann, mit einem Wort,
+Bin ich des Lebens auch h�chst �berdr�ssig;
+Dann biet ich dir und deinem alten Ha�
+Hier meine Gurgel.--Schneidest du sie nicht,
+So w�rdest du nur als ein Tor dich zeigen;
+Denn immer hab ich dich mit Grimm verfolgt
+Und Tonnen Blutes deinem Land entzapft.
+Ich kann nur leben dir zum Hohn, es sei denn,
+Um Dienste dir zu tun.
+
+Aufidius.
+O Marcius, Marcius!
+Ein jedes Wort von dir hat eine Wurzel
+Des alten Neids mir aus der Brust gej�tet.
+Wenn Jupiter
+Von jener Wolk uns als Orakel riefe:
+"Wahr ist's!" nicht mehr als dir w�rd ich ihm glauben.
+Ganz edler Marcius!  O! la� mich umwinden
+Den Leib mit meinen Armen, gegen den
+Mein fester Speer wohl hundertmal zerbrach,
+Und traf den Mond mit Splittern.  Hier umfang ich
+Den Ambo� meines Schwerts und ringe nun
+So edel und so hei� mit deiner Liebe,
+Als je mein eifers�chtger Mut gerungen
+Mit deiner Tapferkeit.  La� mich bekennen:
+Ich liebte meine Braut, nie seufzt' ein Mann
+Mit treurer Seele; doch, dich hier zu sehn,
+Du hoher Geist! dem springt mein Herz noch freudger,
+Als da mein neuverm�hltes Weib zuerst
+Mein Haus betrat.  Du Mars, ich sage dir,
+Ganz fertig steht ein Kriegsheer, und ich wollte
+Noch einmal dir den Schild vom Arme hauen,
+Wo nicht, den Arm verlieren.  Zw�lfmal hast du
+Mich ausgeklopft, und jede Nacht seitdem
+Tr�umt ich vom Balgen zwischen dir und mir.
+Wir waren beid in meinem Schlaf am Boden,
+Die Helme rei�end, bei der Kehl uns packend:
+Halbtot vom Nichts erwacht ich.--W�rdger Marcius!
+H�tt ich nicht andern Streit mit Rom, als nur,
+Da� du von dort verbannt, ich b�te auf
+Von zw�lf zu siebzig alles Volk, um Krieg
+Ins Herz des undankbaren Roms zu gie�en
+Mit �berschwellnder Flut.--O komm! tritt ein
+Und nimm die Freundeshand der Senatoren,
+Die jetzt hier sind, mir Lebewohl zu sagen,
+Der eure L�nderein angreifen wollte,
+Wenn auch nicht Rom selbst.
+
+Coriolanus.
+G�tter, seid gepriesen!
+
+Aufidius.
+Willst du nun selbst als unumschr�nkter Herr
+Dein eigner R�cher sein, so �bernimm
+Die H�lfte meiner Macht; bestimme du,
+Wie dir gef�llt, da du am besten kennst
+Des Landes Kraft und Schw�che, deinen Weg,
+Sei's, anzuklopfen an die Tore Roms,
+Sei's, sie an fernen Grenzen heimzusuchen,
+Erst schreckend, dann vernichtend.  Doch tritt ein
+Und sei empfohlen jenen, da� sie ja
+Zu deinen W�nschen sprechen.--Tausend Willkomm!
+Und mehr mein Freund als du je Feind gewesen,
+Und, Marcius, das ist viel.  Komm, deine Hand.
+
+(Coriolanus und Aufidius gehn ab.)
+
+Erster Diener.
+Das ist eine wunderliche Ver�ndrung.
+
+Zweiter Diener.
+Bei meiner Hand, ich dachte, ihn mit einem Pr�gel
+hinauszuschlagen, und doch ahnete mir, seine Kleider
+machten von ihm eine falsche Aussage.
+
+Erster Diener.
+Was hat er f�r einen Arm!  Er schwenkte mich herum mit
+seinem Daum und Finger, wie man einen Kreisel tanzen l��t.
+
+Zweiter Diener.
+Nun, ich sah gleich an seinem Gesicht, da� was Besonderes
+in ihm steckte.  Er hatte mir eine Art von Gesicht, sag ich--
+ich wei� nicht, wie ich es nennen soll.
+
+Erster Diener.
+Das hatte er.  Er sah aus, gleichsam--ich will mich h�ngen lassen,
+wenn ich nicht dachte, es w�re mehr in ihm, als ich denken konnte.
+
+Zweiter Diener.
+Das dachte ich auch, mein Seel.  Er ist geradezu der herrlichste
+Mann der Welt.
+
+Erster Diener.
+Das glaube ich auch.  Aber einen besseren Krieger als er kennst
+du doch wohl.
+
+Zweiter Diener.
+Wer?  mein Herr?
+
+Erster Diener.
+Ja, das ist keine Frage.
+
+Zweiter Diener.
+Der wiegt sechs solche auf.
+
+Erster Diener.
+Nein, das nun auch nicht, doch ich halte ihn f�r einen
+bessern Krieger.
+
+Zweiter Diener.
+Mein Treu! sieh, man kann nicht sagen, was man davon
+denken soll; was die Verteidigung einer Stadt betrifft,
+da ist unser Feldherr vorz�glich.
+
+Erster Diener.
+Ja, und auch f�r den Angriff.  Der dritte Diener kommt
+zur�ck.
+
+Dritter Diener.
+O, Bursche, ich kann euch Neuigkeiten erz�hlen, Neuigkeiten,
+ihr Flegel!
+
+Die beiden andern.
+Was?  was?  was?  La� h�ren.
+
+Dritter Diener.
+Ich wollte kein R�mer sein, lieber alles in der Welt; lieber
+w�re ich ein verurteilter Mensch.
+
+Erster und zweiter Diener.
+Warum?  Warum?
+
+Dritter Diener.
+Nun, der ist da, der unsern Feldherrn immer zwackte, der
+Cajus Marcius.
+
+Erster Diener.
+Warum sagtest du, unsern Feldherrn zwacken?
+
+Dritter Diener.
+Ich sage just nicht, unsern Feldherrn zwacken; aber er war
+ihm doch immer gewachsen.
+
+Zweiter Diener.
+Kommt, wir sind Freunde und Kameraden.  Er war ihm immer zu
+m�chtig, das habe ich ihn selbst sagen h�ren.
+
+Erster Diener.
+Er war ihm, kurz und gut, zu m�chtig, Vor Corioli hackte und
+zwackte er ihn wie eine Karbonade.
+
+Zweiter Diener.
+Und h�tte er was von einem Kannibalen gehabt, so h�tte er
+ihn wohl gebraten und aufgegessen dazu.
+
+Erster Diener.
+Aber dein andres Neues?
+
+Dritter Diener.
+Nun, da drinnen machen sie soviel Aufhebens von ihm, als wenn
+er der Sohn und Erbe des Mars w�re.  Obenan gesetzt bei Tische,
+von keinem der Senatoren gefragt, der sich nicht barh�uptig vor
+ihn hinstellt.  Unser Feldherr selbst tut, als wenn er seine
+Geliebte w�re, segnet sich mit Ber�hrung seiner Hand und dreht
+das Wei�e in den Augen heraus, wenn er spricht.  Aber der Grund
+und Boden meiner Neuigkeit ist: unser Feldherr ist mitten
+durchgeschnitten und nur noch die H�lfte von dem, was er gestern
+war; denn der andre hat die H�lfte durch Ansuchen und Genehmigung
+der ganzen Tafel.  Er sagt, er will gehn und den Pf�rtner von Rom
+bei den Ohren zerren, er will alles vor sich niederm�hen und sich
+glatten Weg machen.
+
+Zweiter Diener.
+Und er ist der Mann danach, es zu tun, mehr als irgend jemand,
+den ich kenne.
+
+Dritter Diener.
+Es zu tun?  Freilich wird er's tun!  Denn versteht, Leute, er hat
+ebensoviel Freunde als Feinde; und diese Freunde, Leute, wagten
+gleichsam nicht, versteht mich, Leute, sich als seine Freunde,
+wie man zu sagen pflegt, zu zeigen, solange er in Mi�kreditierung
+war.
+
+Erster Diener.
+In Mi�kreditierung?  Was ist das?
+
+Dritter Diener.
+Aber Leute, wenn sie seinen Kamm wieder hoch sehen werden und
+den Mann in seiner Kraft, so werden sie aus ihren H�hlen kriechen
+wie Kaninchen nach dem Regen, und ihm alle nachlaufen.
+
+Erster Diener.
+Aber wann geht das los?
+
+Dritter Diener.
+Morgen, heute, sogleich.  Ihr werdet die Trommel heute nachmittag
+schlagen h�ren, es ist gleichsam noch eine Sch�ssel zu ihrem Fest,
+die verzehrt werden mu�, ehe sie sich den Mund abwischen.
+
+Zweiter Diener.
+Nun, so kriegen wir doch wieder eine muntre Welt.  Der Friede ist zu
+nichts gut als Eisen zu rosten, Schneider zu vermehren und B�nkels�nger
+zu schaffen.
+
+Erster Diener.
+Ich bin f�r den Krieg, sage ich, er �bertrifft den Frieden wie der
+Tag die Nacht; er ist lustig, wachsam, gespr�chig, immer was Neues;
+Friede ist Stumpfheit, Schlafsucht, dick, faul, taub, unempfindlich
+und bringt mehr Bastarde hervor, als der Krieg Menschen erw�rgt.
+
+Zweiter Diener.
+Richtig; und wie man auf gewisse Weise den Krieg Notzucht nennen kann,
+so macht, ohne Widerrede, der Friede viele Hahnrei'.
+
+Erster Diener.
+Ja, und er macht, da� die Menschen einander hassen.
+
+Dritter Diener.
+Und warum?  Weil sie dann einander weniger n�tig haben.  Der Krieg ist
+mein Mann.--Ich hoffe, R�mer sollen noch ebenso wohlfeil werden als
+Volsker.  Sie stehn auf, sie stehn auf!
+
+Alle.
+Hinein! hinein!
+
+(Alle ab.)
+
+
+
+Vierte Szene
+
+Rom.  Ein �ffentlicher Platz
+Sicinius und Brutus treten auf
+
+
+Sicinius.
+Man h�rt von ihm nichts, hat ihn nicht zu f�rchten.
+Was ihn gest�rkt, ist zahm, wo Friede jetzt
+Und Ruh im Volke, welches sonst emp�rt
+Und wild.  Wir machen seine Freund' err�ten,
+Da� alles blieb im ruh'gen Gleis.  Sie s�hen
+Viel lieber, ob sie selbst auch drunter litten,
+Aufr�hrerhaufen unsre Stra�en st�rmen,
+Als da� der Handwerksmann im Laden singt
+Und alle freudig an die Arbeit gehn.
+
+(Menenius tritt auf.)
+
+Brutus.
+Wir griffen gl�cklich durch.  Ist das Menenius?
+
+Sicinius.
+Er ist es.  O! er wurde sehr geschmeidig
+Seit kurzem.--Seid gegr��t!
+
+Menenius.
+Ich gr�� euch beide.
+
+Sicinius.
+Euer Coriolanus wird nicht sehr vermi�t,
+Als von den Freunden nur; der Staat besteht
+Und w�rde stehn, wenn er ihn mehr noch ha�te.
+
+Menenius.
+Gut ist's und k�nnte noch weit besser sein,
+H�tt er sich nur gef�gt.
+
+Sicinius.
+Wo ist er?  Wi�t Ihr's--
+
+Menenius.
+Ich h�rte nichts; auch seine Frau und Mutter
+Vernehmen nichts von ihm.  Es kommen mehrere B�rger.
+
+Die B�rger.
+Der Himmel sch�tz euch!
+
+Sicinius.
+Guten Abend, Nachbarn!
+
+Brutus.
+Guten Abend allen!  Allen guten Abend!
+
+Erster B�rger.
+Wir, unsre Fraun und Kinder sind verpflichtet,
+Auf Knien f�r euch zu beten.
+
+Sicinius.
+Geh's euch wohl.
+
+Brutus.
+Lebt wohl, ihr Nachbarn.  H�tte Coriolanus
+Euch so geliebt wie wir!
+
+Die B�rger.
+Der Himmel segn euch.
+
+Die Tribunen.
+Lebt wohl! lebt wohl!
+
+(Die B�rger gehn ab.)
+
+Sicinius.
+Dies ist begl�cktre wohl und liebre Zeit,
+Als da die Burschen durch die Stra�en liefen,
+Zerst�rung br�llend.
+
+Brutus.
+Cajus Marcius war
+Im Krieg ein w�rdger Held, doch unversch�mt
+Von Stolz gebl�ht, ehrgeizig �bers Ma�,
+Selbsts�chtig--
+
+Sicinius.
+Unumschr�nkte Macht erstrebend
+Ohn andern Beistand.
+
+Menenius.
+Nein das glaub ich nicht.
+
+Sicinius.
+Das h�tten wir, so da� wir's all' beweinten,
+Empfunden, w�r er Konsul nur geblieben.
+
+Brutus.
+Die G�tter wandten's gn�dig ab, und Rom
+Ist frei und sicher ohne ihn.  Ein �dil kommt
+
+�dil.
+Tribunen,
+Da ist ein Sklave, den wir festgesetzt;
+Der sagt: "Es brach mit zwei verschiednen Heeren
+Der Volsker Macht ins r�mische Gebiet,
+Und mit des Krieges f�rchterlichster Wut
+Verw�sten sie das Land."
+
+Menenius.
+Das ist Aufidius,
+Der, da er unsers Marcius Bann geh�rt,
+Die H�rner wieder ausstreckt in die Welt,
+Die er einzog, als Marcius stand f�r Rom,
+Und nicht ein Blickchen wagte.
+
+Sicinius.
+Ei, was schwatzt Ihr
+Vom Marcius da.
+
+Brutus.
+Peitscht diesen L�gner aus.  Es kann nicht sein.
+Die Volsker wagen nicht den Bruch.
+
+Menenius.
+Es kann nicht sein?
+Wohl sagt uns die Erinnrung, da� es sein kann;
+Dreimal bezeugt' er uns dasselbe Beispiel
+In meiner Zeit.--Sprecht doch mit dem Gesellen,
+Eh ihr ihn straft, fragt ihn, wo er's geh�rt;
+Ihr m�chtet sonst wohl eure Warnung peitschen,
+Den Boten schlagen, der euch wahren will
+Vor dem, was zu bef�rchten.
+
+Sicinius.
+Sprecht nicht so!
+Ich wei�, es kann nicht sein.
+
+Brutus.
+Es ist unm�glich.  Ein Bote kommt.
+
+Bote.
+In gr��ter Eil versammelt der Senat
+Sich auf dem Kapitol.--Sie h�rten Botschaft,
+Die ihr Gesicht entf�rbt.
+
+Sicinius.
+Das macht der Sklave.
+La�t vor dem Volk ihn peitschen; sein Verhetzen--
+Nichts als sein M�rchen.
+
+Bote.
+Nicht doch, w�rdger Herr.
+Des Sklaven Wort best�tigt sich, und weit,
+Weit schlimmer, als er aussagt.
+
+Sicinius.
+Wie, weit schlimmer?
+
+Bote.
+Es wird von vielen Zungen frei gesprochen,
+Ob glaublich, wei� ich nicht, es f�hre Marcius,
+Aufidius zugesellt, ein Heer auf Rom;
+So weite Rache schw�rend, wie der Anfang
+Der Dinge weit vom jetzt ist.
+
+Sicinius.
+O! h�chst glaublich!
+
+Brutus.
+Nur ausgestreut, damit der schw�chre Teil
+Den guten Marcius heim soll w�nschen.
+
+Sicinius.
+Freilich
+Ist das der Kniff.
+
+Menenius.
+Nein, dies ist unwahrscheinlich.
+Nicht mehr kann mit Aufidius er sich einen,
+Als was am heftigsten sich widerspricht.  Es kommt ein zweiter Bote.
+
+Bote.
+Man l��t in Eil aufs Kapitol euch fordern;
+Ein furchtbar Heer, gef�hrt von Cajus Marcius,
+Aufidius zugesellt, verw�stet rings
+Die ganze Landschaft und betritt den Weg
+Hierher, durch Feur gebahnt, zerst�rend alles,
+Was ihrer Wut begegnet.
+
+(Cominius tritt auf)
+
+Cominius.
+Oh! ihr habt H�bsches angerichtet.
+
+Menenius.
+Nun, was gibt's?
+
+Cominius.
+Die eignen T�chter helft ihr sch�nden und
+Der D�cher Blei auf eure Sch�del schmelzen,
+Vor euren Augen eure Fraun entehren.
+
+Menenius.
+Was gibt es denn?  Was gibt's denn?
+
+Cominius.
+Verbrennen eure Tempel bis zum Grund,
+Und eure Recht', auf die ihr pocht, verjagen
+Bis in ein M�useloch.
+
+Menenius.
+Ich bitt Euch--sprecht!
+Ich f�rcht, ihr habt es sch�n gemacht.  O sprecht!
+Wenn Marcius sich verband den Volskern--
+
+Cominius.
+Wenn?
+Er ist ihr All, er f�hrt sie als ein Wesen,
+Das nicht Natur erschuf, nein, eine Gottheit,
+Die h�her ihn begabt.  Sie folgen ihm
+Her gegen uns Gez�cht, so ruhig, sicher,
+Wie Knaben bunte Schmetterlinge jagen
+Und Schl�chter Fliegen t�ten.
+
+Menenius.
+Ihr habt's sch�n gemacht.
+Ihr, eure Sch�rzfellm�nner, die so fest
+Auf ihre Handwerksstimmen hielten, und
+Der Knoblauchfresser Atem.
+
+Cominius.
+Sch�tteln wird er
+Euch um die Ohren Rom.
+
+Menenius.
+Wie Herkules
+Die reife Frucht absch�ttelt'.  Sch�ne Arbeit!
+
+Brutus.
+So ist es wahr?
+
+Cominius.
+Ja, und ihr sollt erbleichen,
+Bevor ihr's anders findet.  Jede Stadt
+F�llt lachend ab, und wer sich widersetzt,
+Den h�hnt man ob der tapfern Dummheit aus,
+Der stirbt als treuer Narr.  Wer kann ihn tadeln?
+Die Feind' ihm sind, sehn jetzo, was er ist.
+
+Menenius.
+Wir alle sind verloren, wenn der Edle
+Nicht Gnade �bt.
+
+Cominius.
+Wer soll ihn darum bitten?
+Aus Schande k�nnen's die Tribunen nicht;
+Das Volk verdient von ihm Erbarmen, wie
+Der Wolf vom Sch�fer.--Seine besten Freunde,
+Sagten sie: "Schone Rom!", sie kr�nkten ihn
+Gleich jenen, welche seinen Ha� verdient,
+Und zeigten sich als Feinde.
+
+Menenius.
+Das ist wahr.
+Wenn er den Brand an meine Schwelle legte,
+Sie zu verzehren, h�tt ich nicht die Stirn,
+Zu sagen: "Bitte, la�!"-- Ihr treibt es sch�n,
+Ihr und das Handwerk.  Herrlich Werk der Hand!
+
+Cominius.
+Ihr brachtet
+Solch Zittern �ber Rom, da� sich's noch nie
+So hilflos fand.
+
+Die Tribunen.
+Sagt nicht, da� wir es brachten.
+
+Menenius.
+So?  Waren wir's?  Wir liebten ihn, doch tierisch
+Und knechtisch feig, nicht adlig, wichen wir
+Dem Pack, das aus der Stadt ihn zischte.
+
+Cominius.
+Ich f�rchte,
+Sie br�llen wieder ihn herein.  Aufidius,
+Der M�nner zweiter, folgt nur seinem Wink,
+Als dient' er unter ihm.  Verzweiflung nur
+Kann Rom ihm nun statt Kriegskunst und Verteidgung
+Und Macht entgegenstellen.  Es kommt ein Haufen B�rger.
+
+Menenius.
+Hier kommt das Pack.
+Und ist Aufidius mit ihm?  Ja, ihr seid's,
+Die unsre Luft verpestet, als ihr warft
+Die schwei�gen M�tzen in die H�h und schriet:
+"Verbannt sei Coriolan."--Nun kommt er wieder,
+Und jedes Haar auf seiner Krieger Haupt
+Wird euch zur Gei�el.--Soviel Narrenk�pfe,
+Als M�tzen flogen, wird er niederstrecken
+Zum Lohn f�r eure Stimmen.--Nun, was tut's?
+Und wenn er all' uns brennt in eine Kohle,
+Geschieht uns recht.
+
+Die B�rger.
+Wir h�rten b�se Zeitung.
+
+Erster B�rger.
+Was mich betrifft, als ich gesagt: "Verbannt ihn",
+Da sagt ich: "Schade drum!"
+
+Zweiter B�rger.
+Das tat ich auch.
+
+Dritter B�rger.
+Das tat ich auch; und, die Wahrheit zu sagen, das taten viele
+von uns.  Was wir taten, das taten wir zum allgemeinen Besten;
+und obgleich wir freiwillig in seine Verbannung einwilligten,
+so war es doch gegen unsern Willen.
+
+Cominius.
+Ihr seid ein sch�nes Volk, ihr Stimmen!
+
+Menenius.
+Ihr machtet's herrlich, ihr und euer Pack.
+Gehn wir aufs Kapitol?
+
+Cominius.
+Jawohl.  Was sonst?
+
+(Cominius und Menenius gehn ab.)
+
+Sicinius.
+Geht, Freunde, geht nach Haus, seid nicht entmutigt.
+Dies ist sein Anhang, der das w�nscht best�tigt,
+Was er zu f�rchten vorgibt.  Geht nach Haus.
+Seid ohne Furcht.
+
+Erster B�rger.
+Die G�tter seien uns gn�dig.  Kommt, Nachbarn, la�t uns nach Hause
+gehn.  Ich sagte immer: Wir taten unrecht, als wir ihn verbannten.
+
+Zweiter B�rger.
+Das taten wir alle.  Kommt, la�t uns nach Hause gehn.
+
+(Die B�rger gehn ab.)
+
+Brutus.
+Die Neuigkeit gef�llt mir nicht.
+
+Sicinius.
+Mir auch nicht.
+
+Brutus.
+Aufs Kapitol!  Mein halb Verm�gen g�b ich,
+K�nnt ich als L�ge diese Nachricht kaufen.
+
+Sicinius.
+Kommt, la�t uns gehn.
+
+(Gehn ab.)
+
+
+
+F�nfte Szene
+
+Ein Lager in geringer Entfernung von Rom
+Aufidius und ein Hauptmann treten auf
+
+
+Aufidius.
+Noch immer laufen sie dem R�mer zu?
+
+Hauptmann.
+Ich wei� nicht, welche Zauberkraft er hat;
+Doch dient zum Tischgebet er Euren Kriegern,
+Wie zum Gespr�ch beim Mahl und Dank am Schlu�.
+Ihr seid in diesem Krieg verdunkelt, Herr,
+Selbst von den Eignen.
+
+Aufidius.
+Jetzt kann ich's nicht �ndern,
+Als nur durch Mittel, die die Kr�fte l�hmten
+Von unsrer Absicht.  Er betr�gt sich stolzer,
+Selbst gegen mich, als ich es je erwartet,
+Da ich zuerst ihn aufnahm.  Doch sein Wesen
+Bleibt darin sich getreu.  Ich mu� entschuldgen,
+Was nicht zu bessern ist.
+
+Hauptmann.
+Doch w�nscht ich, Herr,
+Zu Eurem eignen Heil, Ihr h�ttet nie
+Mit ihm geteilt Eur Ansehn, nein, entweder
+Die F�hrung selbst behalten oder ihm
+Allein sie �berlassen.
+
+Aufidius.
+Wohl wei� ich, was du meinst; und, sei versichert,
+Wenn's zur Erkl�rung kommt, so denkt er nicht,
+Wes ich ihn kann beschuldgen.  Scheint es gleich,
+Und glaubt er selbst, und �berzeugt sich auch
+Das Volk, da� er in allem redlich handelt
+Und guten Haushalt f�r die Volsker f�hrt;
+Ficht, gleich dem Drachen, siegt, sobald er nur
+Das Schwert gez�ckt; doch blieb noch ungetan,
+Was ihm den Hals soll brechen oder meinen
+Gef�hrden, wenn wir miteinander rechnen.
+
+Hauptmann.
+Herr, glaubt Ihr, da� er Roms sich wird bemeistern?
+
+Aufidius.
+Jedwede Stadt ist sein, eh er belagert,
+Und ihm ergeben ist der Adel Roms;
+Patrizier lieben ihn und Senatoren.
+Den Krieg versteht nicht der Tribun.  Das Volk
+Wird schnell zur�ck ihn rufen, wie's ihn eilig
+Von dort verstie�.  Ich glaub, er ist f�r Rom,
+Was f�r den Fisch der Meeraar, der ihn f�ngt
+Durch angeborne Macht.  Erst war er ihnen
+Ein edler Diener; doch er konnte nicht
+Die W�rden m��ig tragen.  Sei's nun Stolz,
+Der immer, bleibt das Gl�ck unwandelbar,
+Den Gl�cklichen befleckt; sei's Urteilsmangel,
+Wodurch er nicht den Zufall klug genutzt,
+Den er beherrschte; oder sei's Natur,
+Die ihn aus einem St�ck schuf--stets derselbe
+Im Helme wie im Rat, herrscht' er im Frieden
+Mit unbeugsamer Streng und finsterm Ernst,
+Wie er dem Krieg gebot.  Schon eins von diesen
+(Von jedem hat er etwas, keines ganz,
+So weit sprech ich ihn frei) macht' ihn gef�rchtet,
+Geha�t, verbannt.--Doch so ist sein Verdienst,
+Da� es im �berma� erstirbt.  So f�llt
+Stets unser Wert der Zeiten Deutung heim;
+Und Macht, die an sich selbst zu loben ist,
+Hat kein so unverkennbar Grab, als wenn
+Von Rednerb�hnen wird ihr Tun gepriesen.
+Der Nagel treibt den Nagel, Brand den Brand,
+Kraft sinkt durch Kraft, durch Recht wird Recht verkannt.
+Kommt, la�t uns gehn.  Ist, Cajus, Rom erst dein,
+Dann bist der �rmste du und dann bald mein.
+
+(Sie gehn ab.)
+
+
+
+
+F�nfter Aufzug
+
+
+
+Erste Szene
+
+Rom, ein �ffentlicher Platz
+Es treten auf Menenius, Cominius, Sicinius, Brutus und andere
+
+
+Menenius.
+Nein, ich geh nicht.--Ihr h�rt, was dem er sagte,
+Der einst sein Feldherr war; der ihn geliebt
+Aufs allerz�rtlichste.  Mich nannt er Vater;
+Doch was tut das?--Geht ihr, die ihn verbannt,
+'ne Meile schon vor seinem Zelt fallt nieder
+Und schleicht so kniend in seine Gnade.--Nein:
+Wollt er nichts von Cominius h�ren, bleib ich
+Zu Haus.
+
+Cominius.
+Er tat, als kennte er mich nicht.
+
+Menenius.
+H�rt ihr's?
+
+Cominius.
+Doch einmal nannt er mich bei meinem Namen:
+Die alte Freundschaft macht ich geltend, Blut,
+Gemeinsam sonst vergossen.  Coriolan
+Wollt er nicht sein, verbat sich jeden Namen:
+Er sei ein Nichts, ein ungenanntes Wesen,
+Bis er sich einen Namen neu geschmiedet
+Im Brande Roms.
+
+Menenius.
+Ah! so.  Ihr machtet's gut.
+Ein Paar Tribunen, die f�r Rom sich qu�lten,
+Wohfeil zu machen Kohlen.--Edler Ruhm!
+
+Cominius.
+Ich mahnt ihn, wie so k�niglich Verzeihung,
+Je minder sie erwartet sei.  Er sprach,
+Das sei vom Staat ein kahles Wort an ihn,
+Den selbst der Staat bestraft.
+
+Menenius.
+Das war ganz recht.
+Was konnt er anders sagen?
+
+Cominius.
+Ich suchte dann sein Mitleid zu erwecken
+F�r die besondern Freund'.  Er gab zur Antwort:
+Nicht lesen k�nn er sie aus einem Haufen
+Verdorbner, schlechter Spreu, auch sei es Torheit,
+Um ein zwei arme K�rner stinken lassen
+Den Unrat unverbrannt.
+
+Menenius.
+Um ein paar K�rner?
+Davon bin ich eins, seine Frau und Mutter,
+Sein Kind, der wackre Freund, wir sind die K�rner:
+Ihr seid die dumpfe Spreu, und eur Gestank
+Dringt bis zum Mond; wir m�ssen f�r euch brennen.
+
+Sicinius.
+Seid milde doch, wenn ihr zu helfen weigert
+In so ratloser Zeit.  Verh�hnt uns mindestens
+Mit unserm Elend nicht; denn spr�chet Ihr
+F�r Euer Vaterland, Eur gutes Wort,
+Mehr als ein eilig aufgerafftes Heer,
+Hemmt' unsern Landsmann.
+
+Menenius.
+Nein ich bleib davon.
+
+Sicinius.
+Ich bitt Euch, geht zu ihm.
+
+Menenius.
+Was soll es nutzen?
+
+Brutus.
+Versuchen nur, was Eure Liebe kann
+F�r Rom bei Marcius.
+
+Menenius.
+Und gesetzt, da� Marcius
+Zur�ck mich schickt, wie er Cominius tat,
+Ganz ungeh�rt.--Die Folge?
+Noch ein gekr�nkter Freund, von Gram durchbohrt
+Durch seine H�rte.  Nun?
+
+Sicinius.
+Euern Willen
+Erkennt Rom dankbar nach dem Ma�, wie Ihr
+Die gute Meinung zeigt.
+
+Menenius.
+Ich will's versuchen--
+Kann sein, er h�rt mich; doch, die Lippe bei�en
+Und grollen mit Cominius schw�cht mein Herz.
+Man traf die Stunde nicht, vor Tische war's.
+Und sind die Adern leer, ist kalt das Blut,
+Dann schmollen wir dem Morgen, sind unwillig
+Zu geben und vergeben; doch gef�llt
+Die R�hren und Kan�le unsers Bluts
+Mit Wein und Nahrung, macht die Seele schmeidger
+Als priesterliches Fasten.--Drum erpa� ich,
+Bis er f�r mein Gesuch in Tafellaune,
+Und dann mach ich mich an ihn.
+
+Brutus.
+Ihr kennt den wahren Pfad zu seiner G�te
+Und k�nnt des Wegs nicht fehlen.
+
+Menenius.
+Gut, ich pr�f ihn.
+Geh's, wie es will, bald werd ich selber wissen,
+Ob's mir gelang.
+
+(Geht ab.)
+
+Cominius.
+Er h�rt ihn nimmer.
+
+Sicinius.
+Nicht?
+
+Cominius.
+Glaubt mir, er sitzt in Gold, sein Blick so feurig,
+Als wollt er Rom verbrennen; und sein Zorn
+Ist Kerkermeister seiner Gnad.--Ich kniete,
+Nur leise sprach er: "Auf!"--entlie� mich--so--
+Mit seiner stummen Hand.  Was er tun w�rde,
+Schickt' er mir schriftlich nach; was er nicht w�rde,
+Zw�ng ihn ein Eid, sich selbst nicht nachzugeben.
+So da� uns keine Hoffnung bleibt--
+Wenn's seine edle Mutter nicht und Gattin--
+Die, h�r ich, sind gewillt, ihn anzuflehn
+Um Gnade f�r die Stadt; drum gehn wir hin,
+Da� unser bestes Wort sie noch mehr treibe.
+
+(Gehn ab.)
+
+
+
+Zweite Szene
+
+Lager der Volsker vor Rom
+Zwei Wachen der Volsker, zu ihnen kommt Menenius
+
+
+Erste Wache.
+Halt!--Woher kommt Ihr?
+
+Zweite Wache.
+Halt, und geht zur�ck!
+
+Menenius.
+Ihr wacht wie M�nner.  Gut; doch mit Vergunst,
+Ich bin ein Staatsbeamter und gekommen,
+Mit Coriolan zu sprechen.
+
+Erste Wache.
+Von wo?
+
+Menenius.
+Von Rom.
+
+Erste Wache.
+Ihr kommt nicht durch, Ihr m��t zur�ck.--Der Feldherr
+Will nichts von dort mehr h�ren.
+
+Zweite Wache.
+Ihr sollt Eur Rom in Flammen sehn, bevor
+Mit Coriolan Ihr sprecht.
+
+Menenius.
+Ihr guten Freunde,
+Habt ihr geh�rt von Rom den Feldherrn sprechen
+Und seinen Freunden dort?  Zehn gegen eins,
+So traf mein Nam eur Ohr, er hei�t Menenius.
+
+Erste Wache.
+Mag sein.  Zur�ck! denn Euers Namens W�rde
+Bringt Euch nicht durch.
+
+Menenius.
+Ich sage dir, mein Freund,
+Dein Feldherr liebt mich, denn ich war die Chronik
+Des Guten, das er tat, und wo sein Ruhm
+Als gleichlos stand, wohl etwas �bertrieben.
+Denn immer zeugt ich gern f�r meine Freunde
+(Von denen er der liebste), ganz und gro�,
+Soweit's die Wahrheit litt.  Zuweilen wohl
+So wie auf scheinbar glattem Grund die Kugel,
+Sprang ich was jenseits, machte fast im Loben
+Ein wenig Wind.--Drum, Kerl, mu� ich auch durch.
+
+Erste Wache.
+Mein Treu, Herr, wenn Ihr auch so viele L�gen f�r ihn
+als jetzt Worte f�r Euch gesprochen habt, so sollt Ihr
+doch nicht durch.  Nein--und wenn auch das L�gen so
+verdienstlich w�re wie ein keusches Leben.  Darum--zur�ck!
+
+Menenius.
+Ich bitte dich, Mensch, erinnere dich, da� ich Menenius
+hei�e, der immer die Partei deines Feldherrn hielt.
+
+Zweite Wache.
+Wenn Ihr auch sein L�gner gewesen seid, wie Ihr vorgebt,
+so bin ich einer, der in seinem Dienst die Wahrheit spricht
+und Euch sagt, da� Ihr hier nicht hinein d�rft.  Darum, zur�ck!
+
+Menenius.
+Hat er zu Mittag gegessen?  wei�t du's nicht?  denn ich wollte
+nicht gern eher mit ihm reden als nach der Mahlzeit.
+
+Erste Wache.
+Nicht wahr, Ihr seid ein R�mer?
+
+Menenius.
+Ich bin, was dein Feldherr ist.
+
+Erste Wache.
+Dann solltet Ihr auch Rom hassen, so wie er.  K�nnt Ihr,
+nachdem Ihr Euern Verteidiger zu Euern Toren hinausgesto�en
+und in Eurer bl�dsinnigen Volkswut Euerm Feind Euern eignen
+Schild gegeben habt, noch glauben, seine Rache lie�e sich durch
+die schw�chlichen Seufzer alter Frauen abwenden, durch das
+jungfr�uliche H�ndefalten Eurer T�chter, oder durch gichtlahme
+F�rbitte eines so welken, kindischen Mannes, wie Ihr zu sein
+scheint?  K�nnt Ihr glauben, das Feuer, das Eure Stadt entflammen
+soll, mit so schwachem Atem auszublasen?  Nein, Ihr irrt Euch--
+darum, zur�ck nach Rom und bereitet Euch zu Eurer Hinrichtung.
+Ihr seid verurteilt ohne Aufschub und Gnade, das hat der General
+geschworen.
+
+Menenius.
+Bursche, wenn dein Hauptmann w��te, da� ich hier bin, so w�rde er
+mich mit Achtung behandeln.
+
+Erste Wache.
+Geht, mein Hauptmann kennt Euch nicht.
+
+Menenius.
+Ich meine den Feldherrn.
+
+Erste Wache.
+Der Feldherr fragt nichts nach Euch.--Zur�ck, ich sag es Euch,
+geht, sonst zapfe ich noch Eure halbe Unze Blut ab--zur�ck! denn
+mehr k�nnt Ihr nicht haben!  Fort!
+
+Menenius.
+Nein, aber, Mensch!  Mensch!  Coriolanus und Aufidius treten auf.
+
+Coriolanus.
+Was gibt's?
+
+Menenius.
+Jetzt, Geselle, will ich dir etwas einbrocken--du sollst
+nun sehn, da� ich in Achtung stehe.  Du sollst gewahr werden,
+da� solch ein Hans Schilderhaus mich nicht von meinem Sohn
+Coriolan wegtreiben kann.  Sieh an der Art, wie er mit mir
+sprechen wird, ob du nicht reif f�r den Galgen bist, oder
+f�r eine Todesart von l�ngrer Aussicht und gr��erer Qual.
+Sieh nun her und fall sogleich in Ohnmacht wegen dessen, was
+dir bevorsteht.--Die glorreichen G�tter m�gen st�ndliche
+Ratsversammlung halten wegen deiner besondern Gl�ckseligkeit
+und dich nicht weniger lieben als dein alter Vater Menenius.
+O! mein Sohn! mein Sohn! du bereitest uns Feuer?  Sieh, hier
+ist Wasser, um es zu l�schen.  Ich war schwer zu bewegen, zu
+dir zu gehn; aber weil ich �berzeugt bin, da� keiner besser
+als ich dich bewegen kann, so bin ich mit Seufzern aus den
+Toren dort hinausgeblasen worden und beschw�re dich nun, Rom
+und deinen flehnden Landsleuten zu verzeihn.  Die g�tigen G�tter
+m�gen deinen Zorn s�nftigen und die Hefen davon hier auf diesen
+Schurken leiten, auf diesen, der mir, wie ein Klotz, den
+Eintritt zu dir versagte.
+
+Coriolanus.
+Hinweg!
+
+Menenius.
+Wie, hinweg?
+
+Coriolanus.
+Weib, Mutter, Kind, nicht kenn ich sie.--Mein Tun
+Ist andern dienstbar.  Eignet mir die Rache
+Auch g�nzlich, kann doch von den Volskern nur
+Verzeihung kommen.  Da� wir einst vertraut,
+Vergifte lieber undankbar Vergessen,
+Als Mitleid sich, wie sehr, erinnre.  Fort denn!
+Mein Ohr ist fester Euerm Flehn verschlossen,
+Als Eure Tore meiner Kraft.  Doch nimm dies,
+Weil ich dich liebt, ich schrieb's um deinetwillen
+Und wollt es senden.  Kein Wort mehr, Menenius.
+Verstatt ich dir.  Der Mann, Aufidius,
+War mir sehr lieb in Rom; und dennoch siehst du--
+
+Aufidius.
+Du bleibst dir immer gleich.
+
+(Coriolanus und Aufidius gehn ab.)
+
+Erste Wache.
+Nun, Herr, ist Euer Name Menenius?
+
+Zweite Wache.
+Ihr seht, er ist ein Zauber von gro�er Kraft.  Ihr wi�t nun
+den Weg nach Hause.
+
+Erste Wache.
+Habt Ihr geh�rt, wie wir ausgescholten sind, weil wir Eure
+Hoheit nicht einlie�en?
+
+Zweite Wache.
+Warum doch, denkt Ihr, soll ich nun in Ohnmacht fallen?
+
+Menenius.
+Ich frage weder nach der Welt noch nach euerm Feldherrn.
+Was solche Kreaturen betrifft, wie ihr, so wei� ich kaum, ob
+sie da sind, so unbedeutend seid ihr.--Wer den Entschlu� fassen
+kann, von eigner Hand zu sterben, f�rchtet es von keiner andern.
+Mag euer Feldherr das �rgste tun; und, was euch betrifft, bleibt,
+was ihr seid, lange, und eure Erb�rmlichkeit wachse mit euerm Alter!
+Ich sage euch das, was mir gesagt wurde: Hinweg!--
+
+(Er geht ab.)
+
+Erste Wache.
+Ein edler Mann, das mu� ich sagen.
+
+Zweite Wache.
+Der w�rdigste Mann ist unser Feldherr, er ist ein Fels, eine Eiche,
+die kein Sturm ersch�ttert.
+
+(Sie gehn ab.)
+
+
+
+Dritte Szene
+
+Coriolans Zelt
+Es treten auf Coriolanus, Aufidius und andere
+
+
+Coriolanus.
+So ziehn wir morgen denn mit unserm Heer
+Vor Rom.  Ihr, mein Geno� in diesem Krieg,
+Tut Euren Senatoren kund, wie redlich
+Ich alles ausgef�hrt.
+
+Aufidius.
+Nur ihren Vorteil
+Habt Ihr beachtet; Euer Ohr verstopft
+Roms allgemeinem Flehn; nie zugelassen
+Geheimes Fl�stern; nein, selbst nicht von Freunden,
+Die ganz auf Euch vertraut.
+
+Coriolanus.
+Der alte Mann,
+Den ich nach Rom gebrochnen Herzens sende,
+Er liebte mehr mich als mit Vaterliebe,
+Ja, machte mich zum Gott.--Die letzte Zuflucht
+War, ihn zu senden; und aus alter Liebe,
+Blickt ich schon finster, tat ich noch einmal
+Den ersten Antrag, den sie abgeschlagen
+Und jetzt nicht nehmen k�nnen; ihn zu ehren,
+Der mehr zu wirken hoffte, gab ich nach,
+Sehr wenig nur.  Doch neuer Sendung, Bitte,
+Sei's nun vom Staat, von Freunden, leih ich nun
+Mein Ohr nicht mehr.--Ha! welch ein L�rm ist das?
+
+(Geschrei hinter der Szene.)
+
+Werd ich versucht, zu brechen meinen Schwur,
+Indem ich ihn getan?  Ich werd es nicht.  Es treten auf Virgilia,
+Volumnia, die den jungen Mardas an der Hand f�hrt.  Valeria mit
+Gefolge.  Alle in Trauer.  Mein Weib voran, dann die ehrw�rdge Form,
+Die meinen Leib erschuf, an ihrer Hand
+Der Enkel ihres Bluts.--Fort, Sympathie!
+Brecht, all ihr Band' und Rechte der Natur!
+Sei's tugendhaft, in Starrsinn fest zu bleiben.--
+Was gilt dies Beugen mir?  dies Taubenauge,
+Das G�tter lockt zum Meineid?--Ich zerschmelze!
+Und bin nicht festre Erd als andre Menschen--
+Ha! meine Mutter beugt sich--
+Als wenn Olympus sich vor kleinem H�gel
+Mit Flehen neigte; und mein junger Sohn
+Hat einen Blick der Bitt, aus dem allm�chtig
+Natur schreit: "Weiger's nicht!"--Nein, pfl�ge auf
+Der Volsker Rom, verheer Italien.--Nimmer
+Soll, wie unfl�gge Brut, Instinkt mich f�hren;
+Ich steh, als w�r der Mensch sein eigner Sch�pfer
+Und kennte keinen Ursprung.
+
+Virgilia.
+Herr und Gatte!
+
+Coriolanus.
+Mein Auge schaut nicht mehr wie sonst in Rom.
+
+Virgilia.
+Der Gram, der uns verwandelt hat, macht dich
+So denken.
+
+Coriolanus.
+Wie ein schlechter Spieler jetzt
+Verga� ich meine Roll und bin verwirrt,
+Bis zur Verh�hnung selbst.--Blut meines Herzens!
+Vergib mir meine Tyrannei; doch sage
+Drum nicht: "Vergib den R�mern."--O! ein Ku�,
+Lang wie mein Bann und s�� wie meine Rache.
+Nun, bei der Juno Eifersucht, den Ku�
+Nahm ich, Geliebte, mit, und meine Lippe
+Hat ihn seitdem jungfr�ulich treu bewahrt.
+Ihr G�tter! wie?  ich schwatze?
+Und aller M�tter edelste der Welt
+Blieb unbegr��t?--Mein Knie, sink in die Erde,
+Dr�ck tiefer deine Pflicht dem Boden ein
+Als jeder andre Sohn.
+
+(Er kniet nieder.)
+
+Volumnia.
+Steh auf gesegnet!
+Da�, auf nicht weicherm Kissen als der Stein,
+Ich vor dir knie und Huldgung neuer Art
+Dir weihe, die bisher ganz falsch verteilt
+War zwischen Kind und Eltern.
+
+(Sie kniet.)
+
+Coriolanus.
+Was ist das?
+Ihr vor mir knien?  vor dem gescholtnen Sohn?
+Dann m�gen Kiesel vor der �den Bucht
+Frech an die Sterne springen; rebellsche Winde
+Die Feuersonn mit stolzen Zedern peitschen,
+Mordend Unm�glichkeit, zum Kinderspiel
+Zu machen das, was ewig nie kann sein.
+
+Volumnia.
+Du bist mein Krieger,
+Ich half dich formen.  Kennst du diese Frau?
+
+Coriolanus.
+Die edle Schwester des Publicola,
+Die Luna Roms, keusch wie die Eiszacken,
+Die aus dem reinsten Schnee der Frost erschuf
+Am Heiligtum Dianens.  Seid gegr��t, Valeria.
+
+Volumnia.
+Dies ein kleiner Auszug von dir selbst,
+Der durch die Auslegung erf�llter Jahre
+Ganz werden kann wie du.
+
+Coriolanus.
+Der Gott der Krieger,
+Mit Beistimmung des h�chsten Zeus, erziehe
+Zum Adel deinen Sinn, da� du dich st�hlst,
+Der Schande unverwundbar, und im Krieg
+Ein gro� Seezeichen stehst, den St�rmen trotzend,
+Die rettend, die dich schaun.
+
+Volumnia.
+Knie nieder, Bursch.
+
+Coriolanus.
+Das ist mein wackrer Sohn.
+
+Volumnia.
+Er und dein Weib, die Frau hier und ich selbst
+Sind Flehende vor dir.
+
+Coriolanus.
+Ich bitt euch, still!
+Wo nicht, bedenket dies, bevor ihr sprecht:
+Was zu gew�hren ich verschwor, das nehmt nicht
+Als euch verweigert; hei�t mich nicht entlassen
+Mein Heer; nicht, wieder unterhandeln mit
+Den Handarbeitern Roms; nicht sprecht mir vor,
+Worin ich unnat�rlich scheine; denkt nicht
+Zu s�nftgen meine Wut und meine Rache
+Mit euren k�ltern Gr�nden.
+
+Volumnia.
+O! nicht mehr! nicht mehr!
+Du hast erkl�rt, du willst uns nichts gew�hren;
+Denn nichts zu w�nschen haben wir, als das,
+Was du schon abschlugst; dennoch will ich bitten,
+Da�, weichst du unsern Bitten aus, der Tadel
+Auf deine H�rte falle.  H�r uns drum.
+
+Coriolanus.
+Aufidius und ihr Volsker, merkt, wir h�ren
+Nichts insgeheim von Rom.  Nun, eure Bitte?
+
+Volumnia.
+Wenn wir auch schwiegen, sagte doch dies Kleid
+Und unser bleiches Antlitz, welch ein Leben
+Seit deinem Bann wir f�hrten.  Denke selbst,
+Wie wir, unselger als je Fraun auf Erden,
+Dir nahn!  Dein Anblick, der mit Freudentr�nen
+Die Augen f�llen soll, das Herz mit Wonne,
+Netzt sie mit Leid, und qu�lt's mit Furcht und Sorge;
+Da Mutter, Weib und Kind es sehen m�ssen,
+Wie Sohn, Gemahl und Vater grausam w�hlt
+In seines Landes Busen.--Weh, uns Armen!
+Uns trifft am h�rtsten deine Wut; du wehrst uns
+Die G�tter anzuflehn, ein Trost, den alle,
+Nur wir nicht, teilen: denn wie k�nnten wir's?
+Wie k�nnen f�r das Vaterland wir beten,
+Was unsre Pflicht?  und auch f�r deinen Sieg,
+Was unsre Pflicht?--Ach! unsre teure Amme,
+Das Vaterland, geht unter, oder du,
+Du Trost im Vaterland.  Wir finden immer
+Ein unabwendbar Elend, wird uns auch
+Ein Wunsch gew�hrt; wer auch gewinnen mag,
+Entweder f�hrt man dich, Abtr�nn'gen, Fremden,
+In Ketten durch die Stra�en; oder du
+Trittst im Triumph des Vaterlandes Schutt
+Und tr�gst die Palme, weil du k�hn vergossest
+Der Frau, des Kindes Blut; denn ich, mein Sohn,
+Ich will das Schicksal nicht erwarten, noch
+Des Krieges Schlu�.  Kann ich dich nicht bewegen,
+Da� lieber jedem Teil du Huld gew�hrst,
+Als einen st�rzest--Traun, du sollst nicht eher
+Dein Vaterland best�rmen, bis du tratst
+(Glaub mir, du sollst nicht) auf der Mutter Leib,
+Der dich zur Welt gebar.
+
+Virgilia.
+Ja, auch auf meinen,
+Der diesen Sohn dir gab, auf da� dein Name
+Der Nachwelt bl�h.
+
+Der kleine Marcius.
+Auf mich soll er nicht treten.
+Fort lauf ich, bis ich gr��er bin, dann fecht ich.
+
+Coriolanus.
+Wer nicht will Wehmut f�hlen, gleich den Frauen,
+Der mu� nicht Frau noch Kindes Antlitz schauen.
+Zu lange sa� ich.
+
+(Er steht auf.)
+
+Volumnia.
+Nein, so geh nicht fort.
+Zielt' unsre Bitte nur dahin, die R�mer
+Zu retten durch den Untergang der Volsker,
+Die deine Herrn, so m�chtst du uns verdammen
+Als M�rder deiner Ehre.--Nein, wir bitten,
+Da� beide du vers�hnst; dann sagen einst
+Die Volsker: "Diese Gnad erwiesen wir",--
+Die R�mer: "Wir empfingen sie"; und jeder
+Gibt dir den Preis und ruft: "Gesegnet sei
+F�r diesen Frieden!"--Gro�er Sohn, du wei�t,
+Des Krieges Gl�ck ist ungewi�; gewi�
+Ist dies, da�, wenn du Rom besiegst, der Lohn
+Den du dir erntest, solch ein Name bleibt,
+Dem, wie er nur genannt wird, Fl�che folgen.
+Dann schreibt die Chronik einst: "Der Mann war edel,
+Doch seine letzte Tat l�scht' alles aus,
+Zerst�rt' sein Vaterland; drum bleibt sein Name
+Ein Abscheu k�nftgen Zeiten."--Sprich zu mir.
+Der Ehre zartste Fordrung war dein Streben,
+In ihrer Hoheit G�ttern gleich zu sein:
+Den Luftraum mit dem Donner zu ersch�ttern
+Und dann den Blitz mit einem Keil zu tauschen,
+Der nur den Eichbaum spaltet.  Wie?  nicht sprichst du?--
+H�ltst du es w�rdig eines edlen Mannes,
+Sich stets der Kr�nkung zu erinnern?--Tochter,
+Sprich du, er achtet auf dein Weinen nicht.--
+Sprich du, mein Kind--
+Vielleicht bewegt dein Kindgeschw�tz ihn mehr,
+Als unsre Rede mag.--Kein Mann auf Erden
+Verdankt der Mutter mehr; doch hier l��t er
+Mich schwatzen wie ein Weib am Pranger.--Nie
+Im ganzen Leben gabst der lieben Mutter
+Du freundlich nach, wenn sie, die arme Henne,
+Nicht andrer Brut erfreut, zum Krieg dich gluckte,
+Und sicher heim, mit Ehren stets beladen.--
+Hei� ungerecht mein Flehn und sto� mich weg;
+Doch ist's das nicht, so bist nicht edel du,
+Und strafen werden dich die G�tter, da�
+Du mir die Pflicht entziehst, die M�ttern ziemt.
+Er kehrt sich ab!--
+Kniet nieder Fraun, besch�m ihn unser Knien.
+Dem Namen Coriolanus ziemt Verehrung,
+Nicht Mitleid unserm Flehn.--Kniet, sei's das Letzte.--
+Nun ist es aus--wir kehren heim nach Rom
+Und sterben mit den Unsern.--Nein, sieh her!
+Dies Kind, nicht kann es sagen, was es meint;
+Doch kniet es, hebt die H�nd empor mit uns,
+Spricht so der Bitte Recht mit gr��rer Kraft,
+Als du zu weigern hast.--Kommt, la�t uns gehn:
+Der Mensch hat eine Volskerin zur Mutter,
+Sein Weib ist in Corioli, dies Kind
+Gleicht ihm durch Zufall.--So sind wir entlassen,
+Still bin ich, bis die Stadt in Flammen steht,
+Dann sag ich etwas noch.
+
+Coriolanus.
+O! Mutter!--Mutter!
+
+(Er fa�t die beiden H�nde der Mutter.  Pause.)
+
+Was tust du?  Sieh, die Himmel �ffnen sich,
+Die G�tter schaun herab; den Auftritt, unnat�rlich,
+Belachen sie.--O! meine Mutter!  Mutter!  O!
+F�r Rom hast gl�cklich du den Sieg gewonnen;
+Doch deinen Sohn--O glaub es, glaub es nur,
+Ihm h�chst gefahrvoll hast du den bezwungen,
+Wohl t�dlich selbst.  Doch mag es nur geschehn!
+Aufidius, kann ich Krieg nicht redlich f�hren,
+Schlie� ich heilsamen Frieden.  Sprich, Aufidius,
+W�rst du an meiner Statt, h�ttst du die Mutter
+Wen'ger geh�rt?  ihr wen'ger zugestanden?
+
+Aufidius.
+Ich war bewegt.
+
+Coriolanus.
+Ich schw�re drauf, du warst es.
+Und nichts Geringes ist es, wenn mein Auge
+Von Mitleid tr�uft.  Doch rate mir, mein Freund!
+Was f�r Bedingung machst du?  denn nicht geh ich
+Nach Rom, ich kehre mit euch um und bitt euch,
+Seid hierin mir gewogen.--O Mutter!  Frau!
+
+Aufidius (f�r sich).
+Froh bin ich, da� dein Mitleid, deine Ehre,
+Dich so entzwein; hieraus denn schaff ich mir
+Mein ehemalges Gl�ck.
+
+(Die Frauen wollen sich entfernen.)
+
+Coriolanus.
+O! jetzt noch nicht.
+Erst trinken wir, dann tragt ein be�res Zeugnis
+Als blo�es Wort nach Rom, das gegenseitig
+Auf billige Bedingung wir besiegeln.
+Kommt, tretet mit uns ein.  Ihr Fraun verdient,
+Da� man euch Tempel baut; denn alle Schwerter
+Italiens und aller Bundsgenossen,
+Sie h�tten diesen Frieden nicht erk�mpft.
+
+(Alle ab.)
+
+
+
+Vierte Szene
+
+Rom.  Ein �ffentlicher Platz
+Menenius und Sicinius treten auf
+
+
+Menenius.
+Seht ihr dort jenen Vorsprung am Kapitol?  jenen Eckstein?
+
+Sicinius.
+Warum?  Was soll er?
+
+Menenius.
+Wenn es m�glich ist, da� Ihr ihn mit Euerm kleinen Finger von
+der Stelle bewegt, dann ist einige Hoffnung, da� die r�mischen
+Frauen, besonders seine Mutter, etwas bei ihm ausrichten k�nnen.--
+Aber! ich sage, es ist keine Hoffnung; unsre Kehlen sind verurteilt
+und warten auf den Henker.
+
+Sicinius.
+Ist es m�glich, da� eine so kurze Zeit die Gem�tsart
+eines Menschen so ver�ndert?
+
+Menenius.
+Es ist ein Unterschied zwischen einer Raupe und einem
+Schmetterling; und doch war der Schmetterling eine Raupe.
+Dieser Marcius ist aus einem Menschen ein Drache geworden,
+die Schwingen sind ihm gewachsen, er ist mehr als ein
+kriechendes Gesch�pf.
+
+Sicinius.
+Er liebte seine Mutter von Herzen.
+
+Menenius.
+Mich auch.  Aber er kennt jetzt seine Mutter sowenig als ein
+achtj�hriges Ro�.  Die Herbigkeit seines Angesichts macht reife
+Trauben sauer.  Wenn er wandelt, so bewegt er sich wie ein Turm,
+und der Boden bebt unter seinem Tritt.  Er ist imstande, einen
+Harnisch mit seinem Blick zu durchbohren; er spricht wie eine
+Glocke, und sein "Hm" ist eine Batterie.  Er sitzt da in seiner
+Herrlichkeit wie ein Abbild Alexanders.  Was er befiehlt, das
+geschehen soll, das ist schon vollendet, indem er es befiehlt.
+Ihm fehlt zu einem Gotte nichts als Ewigkeit und ein Himmel,
+darin zu thronen.
+
+Sicinius.
+Doch, Gnade, wenn Ihr ihn richtig beschreibt.
+
+Menenius.
+Ich male ihn nach dem Leben.  Gebt nur acht, was f�r Gnade seine
+Mutter mitbringen wird.  Es ist nicht mehr Gnade in ihm als Milch
+in einem m�nnlichen Tiger; das wird unsre arme Stadt empfinden.--
+Und alles dies haben wir euch zu danken.
+
+Sicinius.
+Die G�tter m�gen sich unser erbarmen!
+
+Menenius.
+Nein, bei dieser Gelegenheit werden sich die G�tter unser nicht
+erbarmen.  Als wir ihn verbannten, achteten wir nicht auf sie, und
+da er nun zur�ckkommt, um uns den Hals zu brechen, achten sie nicht
+auf uns.
+
+(Ein Bote tritt auf.)
+
+Bote.
+Wollt Ihr das Leben retten, flieht nach Hause,
+Das Volk hat Euren Mittribun ergriffen
+Und schleift ihn durch die Stra�en.  Alle schw�ren,
+Er soll, wenn keinen Trost die Frauen bringen,
+Den Tod zollweis empfinden.  Ein Zweiter Bote kommt.
+
+Sicinius.
+Was f�r Nachricht?
+
+Bote.
+Heil!  Heil!  Die Frauen haben obgesiegt,
+Es ziehn die Volsker ab und Marcius geht.
+Ein frohrer Tag hat nimmer Rom begr��t,
+Nicht seit Tarquins Vertreibung.
+
+Sicinius.
+Freund, sag an,
+Ist's denn auch wirklich wahr?  wei�t du's gewi�?
+
+Bote.
+Ja, so gewi� die Sonne Feuer ist.
+Wo stecktet Ihr, da� Ihr noch zweifeln k�nnt?
+Geschwollne Flut st�rzt so nicht durch den Bogen,
+Wie die Begl�ckten durch die Tore.  Horcht!  (Man h�rt Trompeten,
+Hoboen, Trommeln und Freudengeschrei.)  Posaunen, Fl�ten,
+Trommeln und Drommeten,
+Zimbeln und Pauken und der R�mer Jauchzen,
+Es macht die Sonne tanzen.
+
+(Freudengeschrei.)
+
+Menenius.
+Gute Zeitung.
+Ich geh den Fraun entgegen.  Die Volumnia
+Ist von Patriziern, Konsuln, Senatoren
+Wert eine Stadt voll, solcher Volkstribunen
+Ein Meer und Land voll.--Ihr habt gut gebetet,
+F�r hunderttausend eurer Kehlen gab ich
+Heut fr�h nicht einen Pfennig.  H�rt die Freude!
+
+(Musik und Freudengeschrei.)
+
+Sicinius.
+Erst f�r die Botschaft segnen Euch die G�tter,
+Und dann nehmt meinen Dank.
+
+Bote.
+Wir haben alle
+Viel Grund zu vielem Dank.
+
+Sicinius.
+Sind sie schon nah?
+
+Bote.
+Fast schon am Tor.
+
+Sicinius.
+La�t uns entgegengehn
+Und ihren Jubel mehren.  Die Frauen treten auf, von Senatoren,
+Patriziern und Volk begleitet
+Sie gehn �ber die B�hne.
+
+Erster Senator.
+Seht unsre Schutzg�ttin, das Leben Roms!
+Ruft alles Volk zusammen, preist die G�tter,
+Macht Freudfeuer, streut den Weg mit Blumen
+Und �bert�nt den Schrei, der Marcius bannte,
+Ruft ihn zur�ck im Willkomm seiner Mutter.
+Willkommen! ruft den Fraun Willkommen zu.
+
+Alle.
+Willkommen! edle Frauen! seid willkommen!
+
+(Trommeln und Trompeten.  Alle ab.)
+
+
+
+F�nfte Szene
+
+Antium.  Ein �ffentlicher Platz
+Aufidius tritt auf mit Begleitern
+
+
+Aufidius.
+Geht, sagt den Senatoren, ich sei hier,
+Gebt ihnen dies Papier, und wenn sie's lasen,
+Hei�t sie zum Marktplatz kommen, wo ich selbst
+Vor ihrem und des ganzen Volkes Ohr
+Bekr�ftge, was hier steht.  Der Angeklagte
+Zog eben in die Stadt und ist gewillt,
+Sich vor das Volk zu stellen, in der Hoffnung,
+Durch Worte sich zu rein'gen.  Geht.
+
+(Die Begleiter gehn ab.  Drei oder vier Verschworne treten auf.)
+
+Willkommen!
+
+Erster Verschworner.
+Wie steht's mit unserm Feldherrn?
+
+Aufidius.
+Grade so
+Wie dem, der durch sein Wohltun wird vergiftet,
+Den sein Erbarmen mordet.
+
+Zweiter Verschworner.
+Edler Herr,
+Wenn bei derselben Absicht Ihr verharrt,
+Zu der Ihr unsern Beitritt w�nscht, erretten
+Wir Euch von der Gefahr.
+
+Aufidius.
+Ich wei� noch nicht.
+Wir m�ssen handeln nach des Volkes Stimmung.
+
+Dritter Verschworner.
+Das Volk bleibt ungewi�, solang es noch
+Kann w�hlen zwischen euch.  Der Fall des einen
+Macht, da� der andre alles erbt.
+
+Aufidius.
+Ich wei� es.
+Auch wird der Vorwand, ihm eins beizubringen,
+Besch�nigt.  Ich erhob ihn, gab mein Wort
+F�r seine Treu.  Er, so emporgestiegen,
+Bego� mit Schmeicheltau die neuen Pflanzen,
+Die Freunde mir verf�hrend; zu dem Zweck
+Bog er sein Wesen, das man nur vorher
+Als rauh, unlenksam und freim�tig kannte.
+
+Dritter Verschworner.
+Jawohl, sein Starrsinn, als er einst die W�rde
+Des Konsuls suchte, die er nur verlor,
+Weil er nicht nachgab--
+
+Aufidius.
+Davon wollt ich reden.
+Deshalb verbannt, kam er an meinen Herd,
+Bot seinen Hals dem Dolch.  Ich nahm ihn auf,
+Macht ihn zu meinesgleichen, gab ihm Raum
+Nach seinem eignen Wunsch, ja, lie� ihn w�hlen
+Aus meinem Heer, zu seines Plans Gelingen,
+Die besten, k�hnsten Leute.  Selbst auch dient' ich
+F�r seinen Plan, half ernten Ruhm und Ehre,
+Die er ganz nahm als eigen.  Selbst mir Schaden
+Zu tun, war ich fast stolz.  Bis ich am Ende
+Sein S�ldner schien, nicht Mitregent, den er
+Mit Gunst bezahlt und Beifall; als w�r ich
+F�r Lohn in seinem Dienste.
+
+Erster Verschworner.
+Ja, das tat er,
+Das Heer erstaunte drob.  Und dann zuletzt,
+Als Rom sein war, und wir nicht wen'ger Ruhm
+Als Beut erwarteten--
+
+Aufidius.
+Dies ist der Punkt,
+Wo meine ganze Kraft ihm widerstrebt.
+F�r wen'ge Tropfen Weibertr�nen, wohlfeil
+Wie L�gen, konnt er Schwei� und Blut verkaufen
+Der gro�en Unternehmung.  Darum sterb er,
+Und ich ersteh in seinem Fall.--Doch, horcht.--
+
+(Trommeln und Trompeten, Freudengeschrei des Volks.)
+
+Erster Verschworner.
+Ihr kamt zur Vaterstadt, gleich einem Boten,
+Und wurdet nicht begr��t; bei seiner R�ckkehr
+Zerrei�t ihr Schrein die Luft.
+
+Zweiter Verschworner.
+Ihr bl�den Toren!
+Die Kinder schlug er euch: ihr sprengt die Kehlen,
+Ihm Gl�ck zu w�nschen.
+
+Dritter Verschworner.
+Drum zu Euerm Vorteil,
+Eh er noch sprechen kann, das Volk zu stimmen
+Durch seine Rede, f�hl er Euer Schwert.
+Wir unterst�tzen Euch, da�, wenn er liegt,
+Auf Eure Art sein Wort gedeutet wird,
+Mit ihm sein Recht begraben.
+
+Aufidius.
+Sprich nicht mehr,
+Hier kommt schon der Senat.  Die Senatoren treten auf.
+
+Die Senatoren.
+Ihr seid daheim willkommen!
+
+Aufidius.
+Das hab ich nicht verdient; doch, w�rdge Herrn,
+Last ihr bed�chtig durch, was ich euch schrieb?
+
+Die Senatoren.
+Wir taten's.
+
+Erster Senator.
+Und mit Kummer, dies zu h�ren.
+Was fr�her er gefehlt, das, glaub ich, war
+Nur leichter Strafe wert; doch da zu enden,
+Wo er beginnen sollte, wegzuschenken
+Den Vorteil unsers Kriegs, uns zu bezahlen
+Mit unsern Kosten und Vergleich zu schlie�en
+Statt der Erobrung--das ist unverzeihlich.
+
+Aufidius.
+Er naht, ihr sollt ihn h�ren.  Coriolanus tritt ein mit
+Trommeln und Fahnen, B�rger mit ihm.
+
+Coriolanus.
+Heil, edle Herrn!  Heim kehr ich, euer Krieger,
+Unangesteckt von Vaterlandsgef�hlen,
+So wie ich auszog.  Euerm hohen Willen
+Bleib ich stets untertan.--Nun sollt ihr wissen,
+Da� uns der herrlichste Erfolg gekr�nt:
+Auf blutgem Pfade f�hrt ich euern Krieg
+Bis vor die Tore Roms.  Wir bringen Beute,
+Die mehr als um ein Dritteil �berwiegt
+Die Kosten dieses Kriegs.  Wir machten Frieden,
+Mit minderm Ruhm nicht f�r die Antiaten
+Als Schmach f�r Rom, und �berliefern hier,
+Von Konsuln und Patriziern unterschrieben
+Und mit dem Siegel des Senats versehn,
+Euch den Vergleich.
+
+Aufidius.
+Lest ihn nicht, edle Herrn.
+Sagt dem Verr�ter, da� er eure Macht
+Im h�chsten Grad gemi�braucht.
+
+Coriolanus.
+Was?  Verr�ter?
+
+Aufidius.
+Ja, du Verr�ter, Marcius!
+
+Coriolanus.
+Marcius?
+
+Aufidius.
+Ja, Marcius, Cajus Marcius! denkst du etwa,
+Da� ich mit deinem Raub dich schm�cke, deinem
+Gestohlnen Namen Coriolan?
+Ihr Herrn und H�upter dieses Staats, meineidig
+Verriet er eure Sach und schenkte weg
+F�r ein'ge salzge Tropfen euer Rom,
+Ja, eure Stadt, an seine Frau und Mutter,
+Den heilgen Eid zerrei�end, wie den Faden
+Verfaulter Seide, niemals Kriegesrat
+Berufend.  Nein, bei seiner Amme Tr�nen
+Weint' er und heulte euern Sieg hinweg,
+Da� Pagen sein sich sch�mten und Soldaten
+Sich staunend angesehn.
+
+Coriolanus.
+H�rst du das, Mars?
+
+Aufidius.
+O! nenne nicht den Gott, du Knab der Tr�nen!--
+
+Coriolanus.
+Ha!
+
+Aufidius.
+Nichts mehr!
+
+Coriolanus.
+Du grenzenloser L�gner! zu gro� machst du
+Mein Herz f�r meinen Busen.  Knab?  O Sklave!
+Verzeiht mir, Herrn, das ist das erste Mal,
+Da� man mich zwingt zu schimpfen.--Ihr Verehrten,
+Straft L�gen diesen Hund; sein eignes Wissen
+(Denn meine Striemen sind ihm eingedr�ckt,
+Und diese Zeichen nimmt er mit ins Grab)
+Schleudr' ihm zugleich die L�g in seinen Hals.
+
+Erster Senator.
+Still, beid, und h�rt mich an.
+
+Coriolanus.
+Rei�t mich in St�ck', ihr Volsker!  M�nner, Kinder,
+Taucht euern Stahl in mich.--Knab?--Falscher Hund!
+Wenn eure Chronik Wahrheit spricht--da steht's,
+Da�, wie im Taubenhaus der Adler, ich
+Gescheucht die Volsker in Corioli.
+Allein--ich--tat es.  Knabe!
+
+Aufidius.
+Edle Herrn,
+So la�t ihr an sein blindes Gl�ck euch mahnen,
+Und eure Schmach?  Durch diesen frechen Prahler
+Vor euren eignen Augen?
+
+Die Verschwornen.
+Daf�r sterb er!
+
+Die B�rger.  (Durcheinander.)
+Rei�t ihn in St�cke, tut es gleich.--Er t�tete meinen Sohn--
+meine Tochter.--Er t�tete meinen Vetter Marcus!--
+Er t�tete meinen Vater!
+
+Zweiter Senator.
+Still! keine blinde Wut.  Seid ruhig.  Still!
+Der Mann ist edel, und sein Ruhm umschlie�t
+Den weiten Erdkreis.  Sein Vergehn an uns
+Sei vor Gericht gezogen.  Halt, Aufidius!
+Und st�r den Frieden nicht.
+
+Coriolanus.
+O! h�tt ich ihn!
+Und sechs Aufidius, mehr noch, seinen Stamm,
+Mein treues Schwert zu pr�fen!
+
+Aufidius.
+Frecher Bube!
+
+Die Verschwornen.
+Durchbohrt! durchbohrt! durchbohrt ihn!
+
+(Aufidius und die Verschwornen ziehen und erstechen Coriolanus.
+Aufidius stellt sich auf ihn.)
+
+Die Senatoren.
+Halt, halt ein!
+
+Aufidius.
+Ihr edlen Herrn!  o! h�rt mich an.
+
+Erster Senator.
+O Tullus!
+
+Zweiter Senator.
+Du hast getan, was Tugend mu� beweinen.
+
+Dritter Senator.
+Tritt nicht auf ihn.  Seid ruhig, all ihr M�nner,
+Steckt eure Schwerter ein.
+
+Aufidius.
+Ihr Herrn, erkennt ihr (wie in dieser Wut,
+Von ihm erregt, nicht m�glich) die Gefahren,
+Die euch sein Leben droht', erfreut ihr euch,
+Da� er so wegger�umt.  Beruft mich, Edle,
+Gleich in den Rat, so zeig ich, da� ich bin
+Eur treuster Diener, oder ich erdulde
+Die schwerste Strafe.
+
+Erster Senator.
+Tragt die Leiche fort,
+Und trauert �ber ihn.  Er sei geehrt,
+Wie je ein edler Leichnam, dem der Herold
+Zum Grab gefolgt.
+
+Zweiter Senator.
+Sein eigner Ungest�m
+Nimmt von Aufidius einen Teil der Schuld,
+So kehrt's zum Besten.
+
+Aufidius.
+Meine Wut ist hin,
+Mein Herz durchbohrt der Gram.  So nehmt ihn auf,
+Helft, drei der ersten Krieger, ich der vierte.
+Die Trommel r�hrt, und la�t sie traurig t�nen,
+Schleppt nach die Speer'.  Obwohl in dieser Stadt
+Er manche gatten-, kinderlos gemacht
+Und nie zu s�hnend Leid auf uns gebracht,
+So sei doch seiner ehrenvoll gedacht.
+Helft mir.
+
+(Sie tragen die Leiche Coriolans fort.  Trauermarsch.)
+
+
+Ende dieses Projekt Gutenberg Etextes Coriolanus, von
+William Shakespeare (�bersetzt von Dorothea Tieck
+unter der Redaktion von Ludwig Tieck)
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, CORIOLANUS ***
+
+This file should be named 6990-8.txt or 6990-8.zip
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext04 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext04
+
+Or /etext03, 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

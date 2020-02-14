@@ -1,0 +1,809 @@
+The Project Gutenberg EBook of Histoire des Voyages de Scarmentado
+by Voltaire
+(#9 in our series by Voltaire)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Histoire des Voyages de Scarmentado
+
+Author: Voltaire
+
+Release Date: December, 2003  [EBook #4718]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on March 6, 2002]
+
+Edition: 10
+
+Language: French
+
+Character set encoding: ISO-Latin-1
+
+***
+
+
+
+We thank the Bibliotheque Nationale de France that has made available
+the image files at www://gallica.bnf.fr, authorizing the preparation
+of the etext through OCR.
+
+Nous remercions la Biblioth�que Nationale de France qui a mis �
+dispositions les images dans www://gallica.bnf.fr, et a donn�
+l'authorization � les utilizer pour preparer ce texte.
+
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE.
+
+			   TOME XXXIII
+
+	      DE L' IMPRIMERIE DE A.  FIRMIN DIDOT,
+
+			RUE JACOB, N� 24.
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE
+
+	      PR�FACES, AVERTISSEMENTS, NOTES, ETC.
+
+			PAR  M. BEUCHOT.
+
+			  TOME XXXIII.
+
+			ROMANS.  TOME I.
+
+			    A PARIS,
+
+		     CHEZ LEF�VRE, LIBRAIRE,
+
+	 RUE DE L'�PERON, K� 6.  WERDET ET LEQUIEN FILS,
+
+		     RUE DU BATTOIR, N� 2O.
+
+			   MDCCCXXIX.
+
+
+
+
+	       HISTOIRE DES VOYAGES DE SCARMENTADO
+
+
+Pr�face de l'�diteur
+
+Le prospectus des fr�res Cramer, pour leur �dition de 1756,
+comprend les trois romans _Les deux consol�s_, _Histoire des
+voyages de Scarmentado_, _Le songe de Platon_, au nombre des
+_morceaux neufs_ qu'ils allaient publier.
+
+Cependant la table chronologique qui est dans le tome LXX de
+l'�dition in-8�de Kehl range les _Voyages de Scarmentado_ �
+l'ann�e 1747.  Longchamp[i] dit qu'ils furent compos�s en octobre
+1746, avec plusieurs autres romans, pendant la retraite de
+Voltaire � Sceaux.  S'il fallait en croire Colini[ii], Voltaire
+aurait �crit les Voyages de Scarmentado apr�s l'aventure de
+Francfort, en 1753.  �Encore froiss� des injustices qu'il venait
+d'�prouver, il composa les Voyages de Scarmentado, conte
+ing�nieux, qui renferme des allusions visiblement applicables aux
+�v�nements dans lesquels il avait figur�.� C'est au lecteur �
+prononcer si ce roman contient les allusions dont parle Colini.
+Pour moi, je ne les y ai point aper�ues.
+
+  [i] _M�moires_, etc., page 140.
+
+  [ii]  _Mon s�jour_, etc., page 61.
+
+
+Une �dition de la Princesse de Babylone, qui parut en 1768 , est
+pr�sent�e comme une Suite des Voyages de Scarmentado.
+
+
+				------
+
+Les notes sans signature, et qui sont indiqu�es par des lettres,
+sont de Voltaire.
+
+Les notes sign�es d'un K sont des �diteurs de Kehl, MM. Condorcet
+et Decroix.  Il est impossible de faire rigoureusement la part de
+chacun.
+
+Les additions que j'ai faites aux notes de Voltaire ou aux notes
+des �diteurs de Kehl, en sont s�par�es par un--, et sont, comme
+mes notes, sign�es de l'initiale de mon nom.
+
+                                                 BEUCHOT.
+
+4 octobre 1829.
+
+
+
+
+
+			    HISTOIRE
+			   DES VOYAGES
+			 DE SCARMENTADO,
+
+		      �CRITE PAR LUI-M�ME.
+
+			      1756.
+
+
+
+Je naquis dans la ville de Candie, en 1600.  Mon p�re en �tait
+gouverneur; et je me souviens qu'un po�te m�diocre, qui n'�tait
+pas m�diocrement dur, nomm� _Iro_[1], fit de mauvais vers � ma
+louange, dans lesquels il me fesait descendre de Minos en droite
+ligne; mais mon p�re ayant �t� disgraci�, il fit d'autres vers o�
+je ne descendais plus que de Pasipha� et de son amant.  C'�tait
+un bien m�chant homme que cet Iro, et le plus ennuyeux coquin qui
+f�t dans l'�le.
+
+  [1] Anagramme de Roi, po�te n� avec des talents que son
+  penchant pour la satire, les aventures qui en furent la suite,
+  sa jalousie contre les hommes de la litt�rature qui lui �taient
+  sup�rieurs, avilirent et rendirent malheureux.  Le ballet des
+  _�l�ments_ et l'op�ra de _Callirho�_ sont les seuls de ses
+  ouvrages qui lui aient surv�cu: il mourut vieux, et avait fini
+  par se faire d�vot.  K.
+
+
+Mon p�re m'envoya, � l'�ge de quinze ans, �tudier � Rome.
+J'arrivai dans l'esp�rance d'apprendre toutes les v�rit�s; car
+jusque-l� on m'avait enseign� tout le contraire, selon l'usage de
+ce bas monde, depuis la Chine jusqu'aux Alpes.  Monsignor
+Profondo, � qui j'�tais recommand�, �tait un homme singulier, et
+un des plus terribles savants qu'il y e�t au monde.  Il voulut
+m'apprendre les cat�gories d'Aristote, et fut sur le point de me
+mettre dans la cat�gorie de ses mignons: je l'�chappai belle.  Je
+vis des processions, des exorcismes, et quelques rapines.  On
+disait, mais tr�s faussement, que la signora Olimpia, personne
+d'une grande prudence, vendait beaucoup de choses qu'on ne doit
+point vendre.  J'�tais dans un �ge o� tout cela me paraissait
+fort plaisant.  Une jeune dame de moeurs tr�s douces, nomm�e _la
+signora Fatelo_, s'avisa de m'aimer.  Elle �tait courtis�e par le
+r�v�rend P.  _Poignardini_, et par le r�v�rend P.  _Aconiti_,
+jeunes prof�s d'un ordre qui ne subsiste plus: elle les mit
+d'accord en me donnant ses bonnes gr�ces; mais en m�me temps je
+courus risque d'�tre excommuni� et empoisonn�.  Je partis, tr�s
+content de l'architecture de Saint-Pierre.
+
+Je voyageai en France; c'�tait le temps du r�gne de
+Louis-le-Juste[2].  La premi�re chose qu'on me demanda, ce fut,
+Si je voulais � mon d�jeuner un petit morceau du mar�chal
+d'Ancre, dont le peuple avait fait r�tir la chair[3], et qu'on
+distribuait � fort bon compte � ceux qui en voulaient.
+
+[2] Louis XIII eut d�s son enfance , dit Voltaire, le surnom de
+Juste, pai'cequ'il �tait n� sous le signe de la Balance.  Voyez
+tome XIX, _Le Si�cle de Louis XIV_, chapitre 2.  B.
+
+[3] Voyez: tome XVIII, page 177.  B.
+
+
+Cet �tat �tait continuellement en proie aux guerres civiles,
+quelquefois pour une place au conseil, quelquefois pour deux
+pages de controverse.  Il y avait plus de soixante ans que ce
+feu, tant�t couvert et tant�t souffl� avec violence, d�solait ces
+beaux climats.  C'�taient l� les libert�s de l'�glise gallicane.
+H�las!  dis-je, ce peuple est pourtant n� doux: qui peut l'avoir
+tir� ainsi de son caract�re?  Il plaisante, et il fait des
+Saint-Barth�lemi.  Heureux le temps o� il ne fera que plaisanter!
+
+Je passai en Angleterre: les m�mes querelles y excitaient les
+m�mes fureurs.  De saints catholiques avaient r�solu, pour le
+bien de l'�glise, de faire sauter en l'air, avec de la poudre, le
+roi, la famille royale, et tout le parlement, et de d�livrer
+l'Angleterre de ces h�r�tiques.  On me montra la place o� la
+bienheureuse reine Marie, fille de Henri VIII, avait fait br�ler
+plus de cinq cents de ses sujets.  Un pr�tre ibernois m'assura
+que c'�tait une tr�s bonne action: premi�rement parceque ceux
+qu'on avait br�l�s �taient Anglais; en second lieu parcequ'ils ne
+prenaient jamais d'eau b�nite, et qu'ils ne croyaient pas au trou
+de saint Patrice[4].Il s'�tonnait surtout que la reine Marie ne
+f�t pas encore canonis�e; mais il esp�rait qu'elle le serait
+bient�t, quand le cardinal neveu aurait un peu de loisir.
+
+  [4] Sur le trou de Saint-Patrice , voyez tome XXXII, page 177;
+  et dans les _M�langes_, ann�e 1763, la septi�me des _Lettres
+  sur les miracles_.  B.
+
+
+J'allai en Hollande, o� j'esp�rais trouver plus de tranquillit�
+chez des peuples plus flegmatiques.  On coupait la t�te � un
+vieillard v�n�rable lorsque j'arrivai � La Haye.  C'�tait la t�te
+chauve du premier ministre Barneveldt, l'homme qui avait le mieux
+m�rit� de la r�publique.  Touch� de piti�, je demandai quel �tait
+son crime, et s'il avait trahi l'�tat.  Il a fait bien pis, me
+r�pondit un pr�dicant � manteau noir; c'est un homme qui croit
+que l'on peut se, sauver par les bonnes oeuvres aussi bien que
+par la foi.  Vous sentez bien que, si de telles opinions
+s'�tablissaient, une r�publique ne pourrait subsister, et qu'il
+faut des lois s�v�res pour r�primer de si scandaleuses horreurs.
+Un profond politique du pays me dit en soupirant: H�las!
+monsieur, le bon temps ne durera pas toujours; ce n'est que par
+hasard que ce peuple est si z�l�; le fond de son caract�re est
+port� au dogme abominable de la tol�rance, un jour il y viendra:
+cela fait fr�mir.  Pour moi, en attendant que ce temps funeste de
+la mod�ration et de l'indulgence f�t arriv�, je quittai bien vite
+un pays o� la s�v�rit� n'�tait adoucie par aucun agr�ment, et je
+m'embarquai pour l'Espagne.
+
+La cour �tait � S�ville, les galions �taient arriv�s, tout
+respirait l'abondance et la joie dans la plus belle saison de
+l'ann�e.  Je vis au bout d'une all�e d'orangers et de citronniers
+une esp�ce de lice immense entour�e de gradins couverts d'�toffes
+pr�cieuses.  Le roi, la reine, les infants, les infantes, �taient
+sous un dais superbe.  Vis-�-vis de cette auguste famille �tait
+un autre tr�ne, mais plus �lev�.  Je dis � un de mes compagnons
+de voyage: A moins que ce tr�ne ne soit r�serv� pour Dieu, je ne
+vois pas � quoi il peut servir.  Ces indiscr�tes paroles furent
+entendues d'un grave Espagnol, et me co�t�rent cher.  Cependant
+je m'imaginais que nous allions voir quelque carrousel ou quelque
+f�te de taureaux, lorsque le grand-inquisiteur parut sur ce
+tr�ne, d'o� il b�nit le roi et le peuple.
+
+Ensuite vint une arm�e de moines d�filant deux � deux, blancs,
+noirs, gris, chauss�s, d�chauss�s, avec barbe, sans barbe, avec
+capuchon pointu, et sans capuchon; puis marchait le bourreau;
+puis on voyait au milieu des alguazils et des grands environ
+quarante personnes couvertes de sacs sur lesquels on avait peint
+des diables et des flammes.  C'�taient des juifs qui n'avaient
+pas voulu renoncer absolument � Mo�se, c'�taient des chr�tiens
+qui avaient �pous� leurs comm�res, ou qui n'avaient pas ador�
+Notre-Dame d'Atocha[5], ou qui n'avaient pas voulu se d�faire de
+leur argent comptant en faveur des fr�res hi�ronymites.  On
+chanta d�votement de tr�s belles pri�res, apr�s quoi on br�la �
+petit feu tous les coupables; de quoi toute la famille royale
+parut extr�mement �difi�e.
+
+  [5] Sur Notre-Dame d'Atocha, voyez dans les _M�langes_, ann�e
+  1769, une des notes de Voltaire sur son _Extrait d'un journal_
+  (ou M�moires du Dangeau).  B.
+
+
+Le soir, dans le temps que j'allais me mettre au lit, arriv�rent
+chez moi deux familiers de l'inquisition avec la sainte
+Hermandad: ils m'embrass�rent tendrement, et me men�rent, sans me
+dire un seul mot, dans un cachot tr�s frais, meubl� d'un lit de
+natte et d'un beau crucifix.  Je restai l� six semaines, au bout
+desquelles le r�v�rend p�re inquisiteur m'envoya prier de venir
+lui parler: il me serra quelque temps entre ses bras, avec une
+affection toute paternelle; il me dit qu'il �tait sinc�rement
+afflig� d'avoir appris que je fusse si mal log�; mais que tous
+les appartements de la maison �taient remplis, et qu'une autre
+fois il esp�rait que je serais plus � mon aise.  Ensuite il me
+demanda cordialement si je ne savais pas pourquoi j'�tais l�.  Je
+dis au r�v�rend p�re que c'�tait apparemment pour mes p�ch�s.  Eh
+bien!  mon cher enfant, pour quel p�ch�?  parlez-moi avec
+confiance.  J'eus beau imaginer, je ne devinai point; il me mit
+charitablement sur les voies.
+
+Enfin je me souvins de mes indiscr�tes paroles.  J'en fus quitte
+pour la discipline et une amende de trente mille r�ales.  On me
+mena faire la r�v�rence au grand-inquisiteur: c'�tait un homme
+poli, qui me demanda comment j'avais trouv� sa petite f�te.  Je
+lui dis que cela �tait d�licieux, et j'allai presser mes
+compagnons de voyage de quitter ce pays, tout beau qu'il est.
+Ils avaient eu le temps de s'instruire de toutes les grandes
+choses que les Espagnols avaient faites pour la religion.  Ils
+avaient lu les m�moires du fameux �v�que de Chiapa[6], par
+lesquels il para�t qu'on avait �gorg�, ou br�l�, ou noy� dix
+millions d'infid�les en Am�rique pour les convertir.  Je crus que
+cet �v�que exag�rait; mais quand on r�duirait ces sacrifices �
+cinq millions de victimes, cela serait encore admirable.
+
+  [6] Las Cases: voyez tome XVII, pages 399, 426; et tome XXXII,
+  pages 490-91.  B.
+
+
+Le d�sir de voyager me pressait toujours.  J'avais compt� finir
+mon tour de l'Europe par la Turquie; nous en pr�mes la route.  Je
+me proposai bien de ne plus dire mon avis sur les f�tes que je
+verrais.  Ces Turcs, dis-je � mes compagnons, sont des m�cr�ants
+qui n'ont point �t� baptis�s, et qui par cons�quent seront bien
+plus cruels que les r�v�rends p�res inquisiteurs.  Gardons le
+silence quand nous serons chez les mahom�tans.
+
+J'allai donc chez eux.  Je fus �trangement surpris de voir en
+Turquie beaucoup plus d'�glises chr�tiennes qu'il n'y en avait
+dans Candie.  J'y vis jusqu'� des troupes nombreuses de moines
+qu'on laissait prier la vierge Marie librement, et maudire
+Mahomet, ceux-ci en grec, ceux-l� en latin, quelques autres en
+arm�nien[7].  Les bonnes gens que les Turcs!  m'�criai-je.  Les
+chr�tiens grecs et les chr�tiens latins �taient ennemis mortels
+dans Constantinople; ces esclaves se pers�cutaient les uns les
+autres, comme des chiens qui se mordent dans la rue, et � qui
+leurs ma�tres donnent des coups de b�ton pour les s�parer.  Le
+grand-vizir prot�geait alors les Grecs.  Le patriarche grec
+m'accusa d'avoir soup� chez le patriarche latin, et je fus
+condamn� en plein divan � cent coups de latte sur la plante des
+pieds, rachetables de cinq cents sequins.  Le lendemain le
+grand-vizir fut �trangl�; le surlendemain son successeur, qui
+�tait pour le parti des Latins, et qui ne fut �trangl� qu'un mois
+apr�s, me condamna � la m�me amende, pour avoir soup� chez le
+patriarche grec.  Je fus dans la triste n�cessit� de ne plus
+fr�quenter ni l'�glise grecque ni la latine.  Pour m'en consoler,
+je pris � loyer une fort belle Circassienne, qui �tait la
+personne la plus tendre dans le t�te-�-t�te, et la plus d�vote �
+la mosqu�e.  Une nuit, dans les doux transports de son amour,
+elle s'�cria en m'embrassant, _Alla, Illa, Alla!_ ce sont les
+paroles sacramentales des Turcs; je crus que c'�taient celles de
+l'amour: je m'�criai aussi fort tendrement, _Alla, Illa, Alla!_
+Ah!  me dit-elle, le Dieu mis�ricordieux soit lou�!  vous �tes
+Turc.  Je lui dis que je le b�nissais de m'en avoir donn� la
+force, et je me crus trop heureux.  Le matin l'iman vint pour me
+circoncire; et, comme je fis quelque difficult�, le cadi du
+quartier, homme loyal, me proposa de m'empaler: je sauvai mon
+pr�puce et mon derri�re avec mille sequins, et je m'enfuis vite
+en Perse, r�solu de ne plus entendre ni messe grecque ni latine
+en Turquie, et de ne plus crier, _Alla, Illa, Alla_, dans un
+rendez-vous.
+
+  [7] Voyez tome XVI, page 493.  B.
+
+
+En arrivant � Ispahan on me demanda si j'�tais pour le mouton
+noir ou pour le mouton blanc.  Je r�pondis que cela m'�tait fort
+indiff�rent, pourvu qu'il f�t tendre.  Il faut savoir que les
+factions du _mouton blanc_ et du _mouton noir_[8] partageaient
+encore les Persans.  On crut que je me moquais des deux partis;
+de sorte que je me trouvai d�j� une violente affaire sur les bras
+aux portes de la ville: il m'en co�ta encore grand nombre de
+sequins pour me d�barrasser des moutons.
+
+  [8] Voyez tome XVI, page 478.  B.
+
+
+Je poussai jusqu'� la Chine avec un interpr�te, qui m'assura que
+c'�tait l� le pays o� l'on vivait librement et gaiement.  Les
+Tartares s'en �taient rendus ma�tres[9], apr�s avoir tout mis �
+feu et � sang; et les r�v�rends P�res j�suites d'un c�t�, comme
+les r�v�rends P�res dominicains de l'autre, disaient qu'ils y
+gagnaient des �mes � Dieu, sans que personne en s�t rien.  On n'a
+jamais vu de convertisseurs si z�l�s; car ils se pers�cutaient
+les uns les autres tour-�-tour: ils �crivaient � Rome des volumes
+de calomnies; ils se traitaient d'infid�les et de pr�varicateurs
+pour une �me.  Il y avait surtout une horrible querelle entre eux
+sur la mani�re de faire la r�v�rence.  Les j�suites voulaient que
+les Chinois saluassent leurs p�res et leurs m�res � la mode de la
+Chine, et les dominicains voulaient qu'on les salu�t � la mode de
+Rome[10].  Il m'arriva d'�tre pris par les j�suites pour un
+dominicain.  On me fit passer chez sa majest� tartare pour un
+espion du pape.  Le conseil supr�me chargea un premier mandarin ,
+qui ordonna � un sergent qui commanda � quatre sbires du pays de
+m'arr�ter et de me lier en c�r�monie.  Je fus conduit apr�s cent
+quarante g�nuflexions devant sa majest�.  Elle me fit demander si
+j'�tais l'espion du pape, et s'il �tait vrai que ce prince d�t
+venir en personne le d�tr�ner.  Je lui r�pondis que le pape �tait
+un pr�tre de soixante-dix ans[11]; qu'il demeurait � quatre mille
+lieues de sa sacr�e majest� tartaro-chinoise; qu'il avait environ
+deux mille soldats qui montaient la garde avec un parasol; qu'il
+ne d�tr�nait personne, et que sa majest� pouvait dormir en
+s�ret�.  Ce fut l'aventure la moins funeste de ma vie.  On
+m'envoya � Macao, d'o� je m'embarquai pour l'Europe.
+
+  [9] Voyez tome XVIIl, page 457.  B.
+
+  [10] Sur les querelles des c�r�monies chinoises, voyez, tome XX.
+  le chapitre XXXIX du _Si�cle de Louis XIV_.  B.
+
+  [11] Innocent X, qui a r�gn� de 1644 � 1655.  B.
+
+
+Mon vaisseau eut besoin d'�tre radoub� vers les c�tes de
+Golconde.  Je pris ce temps pour aller voir la cour du grand
+Aureng-Zeb, dont on disait des merveilles dans le monde: il �tait
+alors dans Delhi.  J'eus la consolation de l'envisager le jour de
+la pompeuse c�r�monie dans laquelle il re�ut le pr�sent c�leste
+que lui envoyait le sh�rif de la Mecque.  C'�tait le balai avec
+lequel on avait balay� la maison sainte, le _caaba_, le _beth
+Alla_.  Ce balai est le symbole du balai divin qui balaie toutes
+les ordures de l'�me.  Aureng-Zeb ne paraissait pas en avoir
+besoin; c'�tait l'homme le plus pieux de tout l'Indoustan.  Il
+est vrai qu'il avait �gorg� un de ses fr�res et empoisonn� son
+p�re; vingt ra�as et autant d'omras �taient morts dans les
+supplices; mais cela n'�tait rien, et on ne parlait que de sa
+d�votion.  On ne lui comparait que la sacr�e majest� du
+s�r�nissime empereur de Maroc, Muley Ismael[10], qui coupait des
+t�tes tous les vendredis apr�s la pri�re.
+
+  [12] Voltaire a parl� d'Aureng-Zeb et de Muley Ismael, tome
+  XVIII, page 420; voyez aussi la table de ce tome XVIII.  B.
+
+
+Je ne disais mot; les voyages m'avaient form�, et je sentais
+qu'il ne m'appartenait pas de d�cider entre ces deux augustes
+souverains.  Un jeune Fran�ais, avec qui je logeais, manqua, je
+l'avoue, de respect � l'empereur des Indes et � celui de Maroc.
+Il s'avisa de dire tr�s indiscr�tement qu'il y avait en Europe de
+tr�s pieux souverains qui gouvernaient bien leurs �tats et qui
+fr�quentaient m�me les �glises, sans pourtant tuer leurs p�res et
+leurs fr�res, et sans couper les t�tes de leurs sujets.  Notre
+interpr�te transmit en indou le discours impie de mon jeune
+homme.  Instruit par le pass�, je fis vite seller mes chameaux:
+nous part�mes le Fran�ais et moi.  J'ai su depuis que la nuit
+m�me les officiers du grand Aureng-Zeb �tant venus pour nous
+prendre, ils ne trouv�rent que l'interpr�te.  Il fut ex�cut� en
+place publique, et tous les courtisans avou�rent sans flatterie
+que sa mort �tait tr�s juste.
+
+Il me restait de voir l'Afrique, pour jouir de toutes les
+douceurs de notre continent.  Je la vis en effet.  Mon vaisseau
+fut pris par des corsaires n�gres.  Notre patron fit de grandes
+plaintes, il leur demanda pourquoi ils violaient ainsi les lois
+des nations.  Le capitaine n�gre lui r�pondit: Vous avez le nez
+long, et nous l'avons plat; vos cheveux sont tout droits, et
+notre laine est fris�e; vous avez la peau de couleur de cendre,
+et nous de couleur d'�b�ne; par cons�quent nous devons, par les
+lois sacr�es de la nature, �tre toujours ennemis.  Vous nous
+achetez aux foires de la c�te de Guin�e, comme des b�tes de
+somme, pour nous faire travailler � je ne sais quel emploi aussi
+p�nible que ridicule.  Vous nous faites fouiller � coups de nerfs
+de boeuf dans des montagnes, pour en tirer une esp�ce de terre
+jaune qui par elle-m�me n'est bonne � rien, et qui ne vaut pas, �
+beaucoup pr�s, un bon ognon d'Egypte; aussi quand nous vous
+rencontrons, et que nous sommes les plus forts, nous vous fesons
+labourer nos champs, ou nous vous coupons le nez et les oreilles.
+
+On n'avait rien � r�pliquer � un discours si sage.  J'allai
+labourer le champ d'une vieille n�gresse, pour conserver mes
+oreilles et mon nez.  On me racheta au bout d'un an.  J'avais vu
+tout ce qu'il y a de beau, de bon, et d'admirable sur la terre:
+je r�solus de ne plus voir que mes p�nates.  Je me mariai chez
+moi: je fus cocu , et je vis que c'�tait l'�tat le plus doux de
+la vie.
+
+FIN DE L'HISTOIRE DES VOYAGES DE SCARMENTADO.
+
+
+***
+
+End of The Project Gutenberg EBook of Histoire des Voyages de Scarmentado
+by Voltaire
+
+******This file should be named 4718-8.txt or 4718-8.zip******
+
+Produced by Carlo Traverso.
+
+***
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these eBooks are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg eBooks or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

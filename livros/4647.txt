@@ -1,0 +1,3430 @@
+The Project Gutenberg Etext of Zadig
+by Voltaire
+(#3 in our series by Voltaire)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg file.
+
+Please do not remove this header information.
+
+This header should be the first thing seen when anyone starts to
+view the eBook. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the information
+needed to understand what they may and may not do with the eBook.
+To encourage this, we have moved most of the information to the end,
+rather than having it all here at the beginning.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get eBooks, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+Find out about how to make a donation at the bottom of this file.
+
+
+Title: Zadig
+
+Author: Voltaire
+
+Release Date: November, 2003  [Etext #4647]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on February 20, 2002]
+
+Edition: 10
+
+Language: French
+
+Character set encoding: ISO-Latin-1
+
+The Project Gutenberg Etext of Zadig
+by Voltaire
+******This file should be named 4647.txt or 4647.zip******
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+The "legal small print" and other information about this book
+may now be found at the end of this file.  Please read this
+important information, as it gives you specific rights and
+tells you about restrictions in how the file may be used.
+
+***
+Produced by Carlo Traverso
+
+We thank the Biblioth�que Nationale de France that has made available
+the image files at www://gallica.bnf.fr, authorizing the preparation
+of the etext through OCR.
+
+Nous remercions la Biblioth�que Nationale de France qui a mis �
+dispositions les images dans www://gallica.bnf.fr, et a donn�
+l'authorization � les utilizer pour preparer ce texte.
+
+
+
+
+                             OEUVRES
+
+                               DE
+
+			    VOLTAIRE.
+
+			   TOME XXXIII
+
+              DE L' IMPRIMERIE DE A. FIRMIN DIDOT,
+
+                        RUE JACOB, N� 24.
+
+
+
+
+                             OEUVRES
+
+                               DE
+
+                            VOLTAIRE
+
+              PR�FACES, AVERTISSEMENTS, NOTES, ETC.
+
+                        PAR  M. BEUCHOT.
+
+                          TOME XXXIII.
+
+                        ROMANS. TOME   I.
+
+                            A PARIS,
+
+                     CHEZ LEF�VRE, LIBRAIRE,
+
+         RUE DE L'�PERON, K� 6.  WERDET ET LEQUIEN FILS,
+
+		     RUE DU BATTOIR, N� 2O.
+
+			   MDCCCXXIX.
+
+
+
+
+
+
+                             ZADIG.
+
+                               ou
+
+                          LA DESTIN�E,
+
+                       HISTOIRE ORIENTALE.
+
+                              1747
+
+
+Pr�face de l'�diteur
+
+Je poss�de un volume petit in-8�, intitul�: _Memnon, histoire
+orientale_, Londres (Paris), 1747.  Ce volume, r�imprim� sous le
+m�me titre, en 1748, contient quinze chapitres, qui font partie
+de _Zadig, ou la Destin�e, histoire orientale_, 1748, in-12.
+Zadig a de plus que Memnon trois chapitres, qui sont aujourd'hui
+les XII, XIII, et XVII.  L'�dition encadr�e de I775 est la
+premi�re qui contienne le chapitre VII.  Deux autres chapitres,
+les XIV et XV, et des additions au chapitre vi, parurent pour la
+premi�re fois dans les �ditions de Kehl.  Colini, secr�taire de
+Voltaire en 1753, raconte[1] que les additions faites alors �
+Zadig, �les calomnies et les m�chancet�s des courtisans, la
+fausse interpr�tation donn�e par ceux-ci � des demi-vers trouv�s
+dans un buisson, la disgr�ce du h�ros, sont autant d'all�gories
+dont l'explication se pr�sente naturellement.�  Cependant, d�s
+l'�dition de 1747, le chapitre iv contient les demi-vers; les
+chapitres XIV et XV n'ont �t�, comme je l'ai dit, ajout�s qu'en
+1785; les chapitres XII, XIII et XVII sont, comme on l'a vu, de
+1748.  Ce serait donc au chapitre VII que se borneraient les
+additions faites en 1753; et ce chapitre n'a �t� publi� qu'en
+1775.
+
+  [1] _Mon s�jour aupr�s de Voltaire_, page 61.
+
+A l'occasion de Zadig, Longchamp raconte que Voltaire d�sirant
+faire imprimer ce roman pour son compte, mais craignant que les
+imprimeurs n'en tirassent des exemplaires au-del� du nombre
+convenu, et que le livre ne f�t r�pandu dans le public avant que
+l'auteur l'e�t offert � ses amis, eut recours au moyen suivant,
+pour parer aux inconv�nients qu'il redoutait.  Il fit venir
+l'imprimeur Prault, et lui demanda quel serait le prix d'une
+�dition tir�e � mille exemplaires.  Le prix parut trop �lev� �
+Voltaire; mais, d�s le lendemain, Prault vint de lui-m�me
+proposer une diminution d'un tiers dans le prix, et _Voltaire lui
+donna la premi�re moiti� du roman de Zadig, qui �tait �crit sur
+des cahiers d�tach�s, dont le dernier se terminait avec la fin
+d'un chapitre_, annon�ant que pendant que cette partie serait
+sous presse, il reverrait l'autre.  Voltaire fit avertir Machuel,
+libraire de Rouen , momentan�ment � Paris, et apr�s les
+conventions sur le prix, lui remit la fin de l'ouvrage, en
+indiquant � quelle page' il devait commencer.  Lorsque tout fut
+termin�, Voltaire fit brocher les exemplaires qu'il destinait �
+ses amis, en fit faire la distribution , et r�pondit aux plaintes
+des imprimeurs par l'expos� des craintes qu'il avait eues:
+
+J'ai abr�g� le r�cit de Longchamp, sans le rendre plus vrai.  Je
+ne connais aucune �dition de Zadig qui le confirme, aucune dont
+une feuille se termine avec la fin d'un chapitre.
+
+                                ------
+
+Les notes sans signature, et qui sont indiqu�es par des lettres,
+sont de Voltaire.
+
+Les notes sign�es d'un K sont des �diteurs de Kehl, MM. Condorcet
+et Decroix.  Il est impossible de faire rigoureusement la part de
+chacun.
+
+Les additions que j'ai faites aux notes de Voltaire ou aux notes
+des �diteurs de Kehl, en sont s�par�es par un--, et sont, comme
+mes notes, sign�es de l'initiale de mon nom.
+
+                                           BEUCHOT.
+         4 octobre 1829.
+
+
+
+
+
+                             ZADIG.
+
+                               ou
+
+                          LA DESTIN�E,
+
+                         HISTOIRE ORIENTALE.
+
+                              1747
+
+
+
+                         APPROBATION[1].
+
+
+Je soussign�, qui me suis fait passer pour savant, et m�me pour
+homme d'esprit, ai lu ce manuscrit, que j'ai trouv�, malgr� moi,
+curieux, amusant, moral, philosophique, digne de plaire � ceux
+m�mes qui ha�ssent les romans.  Ainsi je l'ai d�cri�, et j'ai
+assur� monsieur le cadi-lesquier que c'est un ouvrage d�testable.
+
+
+  [1] Cette plaisanterie �tait dans l'�dition de Zadig de 1748.
+  Elle existait encore dans l'�dition in-4� (tome XVII, publi� en
+  1771).  Mais ayant �t� omise dans l'�dition encadr�e de 1795,
+  elle ne fut pas reproduite dans les �ditions de Kehl.  La
+  premi�re des �ditions modernes o� on la trouve est celle de
+  M. Lequien, 1823.  B.
+
+
+
+
+
+                       �PITRE D�DICATOIRE
+
+                            DE ZADIG
+
+                      A LA SULTANE SHERAA,
+
+                            PAR SADI.
+
+         Le 10 du mois de schewal, l'an 837 de l'h�gire.
+
+                             ------
+
+
+
+Charme des prunelles, tourment des coeurs, lumi�re de l'esprit,
+je ne baise point la poussi�re de vos pieds, parceque vous ne
+marchez gu�re, ou que vous marchez sur des tapis d'Iran ou sur
+des roses.  Je vous offre la traduction d'un livre d'un ancien
+sage qui, ayant le bonheur de n'avoir rien � faire, eut celui de
+s'amuser � �crire l'histoire de Zadig, ouvrage qui dit plus qu'il
+ne semble dire.  Je vous prie de le lire et d'en juger; car,
+quoique vous soyez dans le printemps de votre vie, quoique tous
+les plaisirs vous cherchent, quoique vous soyez belle, et que vos
+talents ajoutent � votre beaut�; quoiqu'on vous loue du soir au
+matin, et que par toutes ces raisons vous soyez en droit de
+n'avoir pas le sens commun, cependant vous avez l'esprit tr�s
+sage et le go�t tr�s fin, et je vous ai entendue raisonner mieux
+que de vieux derviches � longue barbe et � bonnet pointu.  Vous
+�tes discr�te et vous n'�tes point d�fiante; vous �tes douce sans
+�tre faible; vous �tes bienfesante avec discernement; vous aimez
+vos amis, et vous ne vous faites point d'ennemis.  Votre esprit
+n'emprunte jamais ses agr�ments des traits de la m�disance; vous
+ne dites de mal ni n'en faites, malgr� la prodigieuse facilit�
+que vous y auriez.  Enfin votre �me m'a toujours paru pure comme
+votre beaut�.  Vous avez m�me un petit fonds de philosophie qui
+m'a fait croire que vous prendriez plus de go�t qu'une autre �
+cet ouvrage d'un sage.
+
+Il fut �crit d'abord en ancien chald�en, que ni vous ni moi
+n'entendons.  On le traduisit en arabe, pour amuser le c�l�bre
+sultan Ouloug-beb.  C'�tait du temps o� les Arabes et les Persans
+commen�aient � �crire des _Mille et une nuits_, des _Mille et un
+jours_, etc.  Ouloug aimait mieux la lecture de Zadig; mais les
+sultanes aimaient mieux les _Mille et un_.  Comment pouvez-vous
+pr�f�rer, leur disait le sage Ouloug, des contes qui sont sans
+raison, et qui ne signifient rien?  C'est pr�cis�ment pour cela
+que nous les aimons, r�pondaient les sultanes.
+
+Je me flatte que vous ne leur ressemblerez pas, et que vous serez
+un vrai Ouloug.  J'esp�re m�me que, quand vous serez lasse des
+conversations g�n�rales, qui ressemblent assez aux _Mille et un_,
+� cela pr�s qu'elles sont moins amusantes, je pourrai trouver une
+minute pour avoir l'honneur de vous parler raison.  Si vous aviez
+�t� Thalestris du temps de Scander, fils de Philippe; si vous
+aviez �t� la reine de Sab�e du temps de Soleiman, c'eussent �t�
+ces rois qui auraient fait le voyage.
+
+Je prie les vertus c�lestes que vos plaisirs soient sans m�lange,
+votre beaut� durable, et votre bonheur sans fin.
+
+                                                        SADI.
+
+
+
+
+
+                             ZAD1G,
+
+                               ou
+
+                          LA DESTIN�E.
+
+                                ------
+
+
+CHAPITRE 1.
+
+Le borgne
+
+
+Du temps du roi Moabdar il y avait � Babylone un jeune homme
+nomm� Zadig, n� avec un beau naturel fortifi� par l'�ducation.
+Quoique riche et jeune, il savait mod�rer ses passions; il
+n'affectait rien; il ne voulait point toujours avoir raison, et
+savait respecter la faiblesse des hommes.  On �tait �tonn� de
+voir qu'avec beaucoup d'esprit il n'insult�t jamais par des
+railleries � ces propos si vagues, si rompus, si tumultueux, �
+ces m�disances t�m�raires, � ces d�cisions ignorantes, � ces
+turlupinades grossi�res, � ce vain bruit de paroles, qu'on
+appelait _conversation_ dans Babylone.  Il avait appris, dans le
+premier livre de Zoroastre, que l'amour-propre est un ballon
+gonfl� de vent, dont il sort des temp�tes quand on lui a fait une
+piq�re.  Zadig surtout ne se vantait pas de m�priser les femmes
+et de les subjuguer.  Il �tait g�n�reux; il ne craignait point
+d'obliger des ingrats, suivant ce grand pr�cepte de Zoroastre,
+_Quand tu manges, donne � manger aux chiens, dussent-ils te
+mordre_.  Il �tait aussi sage qu'on peut l'�tre; car il cherchait
+� vivre avec des sages.  Instruit dans les sciences des anciens
+Chald�ens, il n'ignorait pas les principes physiques de la
+nature, tels qu'on les connaissait alors, et savait de la
+m�taphysique ce qu'on en a su dans tous les �ges, c'est-�-dire
+fort peu de chose.  Il �tait fermement persuad� que l'ann�e �tait
+de trois cent soixante et cinq jours et un quart, malgr� la
+nouvelle philosophie de son temps, et que le soleil �tait au
+centre du monde; et quand les principaux mages lui disaient, avec
+une hauteur insultante, qu'il avait de mauvais sentiments, et que
+c'�tait �tre ennemi de l'�tat que de croire que le soleil
+tournait sur lui-m�me, et que l'ann�e avait douze mois, il se
+taisait sans col�re et sans d�dain.
+
+Zadig, avec de grandes richesses, et par cons�quent avec des
+amis, ayant de la sant�, une figure aimable, un esprit juste et
+mod�r�, un coeur sinc�re et noble, crut qu'il pouvait �tre
+heureux.  Il devait se marier � S�mire, que sa beaut�, sa
+naissance et sa fortune rendaient le premier parti de Babylone.
+Il avait pour elle un attachement solide et vertueux, et S�mire
+l'aimait avec passion.  Ils touchaient au moment fortun� qui
+allait les unir, lorsque, se promenant ensemble vers une porte de
+Babylone, sous les palmiers qui ornaient le rivage de l'Euphrate,
+ils virent venir � eux des hommes arm�s de sabres et de fl�ches.
+C'�taient les satellites du jeune Orcan, neveu d'un ministre, �
+qui les courtisans de son oncle avaient fait accroire que tout
+lui �tait permis.  Il n'avait aucune des gr�ces ni des vertus de
+Zadig; mais, croyant valoir beaucoup mieux, il �tait d�sesp�r� de
+n'�tre pas pr�f�r�.  Cette jalousie, qui ne venait que de sa
+vanit�, lui fit penser qu'il aimait �perdument S�mire.  Il
+voulait l'enlever.  Les ravisseurs la saisirent, et dans les
+emportements de leur violence ils la bless�rent, et firent couler
+le sang d'une personne dont la vue aurait attendri les tigres du
+mont Ima�s.  Elle per�ait le ciel de ses plaintes.  Elle
+s'�criait, Mon cher �poux!  on m'arrache � ce que j'adore.  Elle
+n'�tait point occup�e de son danger; elle ne pensait qu'� son
+cher Zadig.  Celui-ci, dans le m�me temps, la d�fendait avec
+toute la force que donnent la valeur et l'amour.  Aid� seulement
+de deux esclaves, il mit les ravisseurs en fuite, et ramena chez
+elle S�mire �vanouie et sanglante, qui en ouvrant les yeux vit
+son lib�rateur.  Elle lui dit: O Zadig! je vous aimais comme mon
+�poux, je vous aime comme celui � qui je dois l'honneur et la
+vie.  Jamais il n'y eut un coeur plus p�n�tr� que celui de
+S�mire; jamais bouche plus ravissante n'exprima des sentiments
+plus touchants par ces paroles de feu qu'inspirent le sentiment
+du plus grand des bienfaits et le transport le plus tendre de
+l'amour le plus l�gitime.  Sa blessure �tait l�g�re; elle gu�rit
+bient�t.  Zadig �tait bless� plus dangereusement; un coup de
+fl�che re�u pr�s de l'oeil lui avait fait une plaie profonde.
+S�mire ne demandait aux dieux que la gu�rison de son amant.  Ses
+yeux �taient nuit et jour baign�s de larmes: elle attendait le
+moment o� ceux de Zadig pourraient jouir de ses regards; mais un
+abc�s survenu � l'oeil bless� fit tout craindre.  On envoya
+jusqu'� Memphis chercher le grand m�decin Herm�s, qui vint avec
+un nombreux cort�ge.  Il visita le malade, et d�clara qu'il
+perdrait l'oeil; il pr�dit m�me le jour et l'heure o� ce funeste
+accident devait arriver.  Si c'e�t �t� l'oeil droit, dit-il, je
+l'aurais gu�ri; mais les plaies de l'oeil gauche sont incurables.
+Tout Babylone, en plaignant la destin�e de Zadig, admira la
+profondeur de la science d'Herm�s.  Deux jours apr�s l'abc�s
+per�a de lui-m�me; Zadig fut gu�ri parfaitement.  Herm�s �crivit
+un livre o� il lui prouva qu'il n'avait pas d� gu�rir.  Zadig ne
+le lut point; mais, d�s qu'il put sortir, il se pr�para � rendre
+visite � celle qui fesait l'esp�rance du bonheur de sa vie, et
+pour qui seule il voulait avoir des yeux.  S�mire �tait � la
+campagne depuis trois jours.  Il apprit en chemin que cette belle
+dame, ayant d�clar� hautement qu'elle avait une aversion
+insurmontable pour les borgnes, venait de se marier � Orcan la
+nuit m�me.  A cette nouvelle il tomba sans connaissance; sa
+douleur le mit au bord du tombeau; il fut long-temps malade, mais
+enfin la raison l'emporta sur son affliction; et l'atrocit� de ce
+qu'il �prouvait servit m�me � le consoler.
+
+Puisque j'ai essuy�, dit-il, un si cruel caprice d'une fille
+�lev�e � la cour, il faut que j'�pouse une citoyenne.  Il choisit
+Azora, la plus sage et la mieux n�e de la ville; il l'�pousa, et
+v�cut un mois avec elle dans les douceurs de l'union la plus
+tendre.  Seulement il remarquait en elle un peu de l�g�ret�, et
+beaucoup de penchant � trouver toujours que les jeunes gens les
+mieux faits �taient ceux qui avaient le plus d'esprit et de
+vertu.
+
+
+
+CHAPITRE II[1].
+
+Le nez.
+
+  [1] Le chapitre est imit� d'un conte chinois, que Durand a
+  r�imprim�, en 1803, sons le titre de, _La Matrone chinoise_, �
+  la suite de sa traduction de la _Satire de P�trone_, et que Du
+  Halde avait d�j� imprim� dans le tome III de sa _Description de
+  la Chine_.  B.
+
+
+Un jour Azora revint d'une promenade, tout en col�re, et fesant
+de grandes exclamations.  Qu'avez-vous, lui dit-il, ma ch�re
+�pouse? qui vous peut mettre ainsi hors de vous-m�me? H�las!
+dit-elle, vous seriez indign� comme moi, si vous aviez vu le
+spectacle dont je viens d'�tre t�moin.  J'ai �t� consoler la
+jeune veuve Cosrou, qui vient d'�lever, depuis deux jours, un
+tombeau � son jeune �poux aupr�s du ruisseau qui borde cette
+prairie.  Elle a promis aux dieux, dans sa douleur, de demeurer
+aupr�s de ce tombeau tant que l'eau de ce ruisseau coulerait
+aupr�s.  Eh bien!  dit Zadig, voil� une femme estimable qui
+aimait v�ritablement son mari! Ah! reprit Azora, si vous saviez �
+quoi elle s'occupait quand je lui ai rendu visite! A quoi donc,
+belle Azora? Elle fesait d�tourner le ruisseau.  Azora se
+r�pandit en des invectives si longues, �clata en reproches si
+violents contre la jeune veuve, que ce faste de vertu ne plut pas
+� Zadig.
+
+Il avait un ami, nomm� Cador, qui �tait un de ces jeunes gens �
+qui sa femme trouvait plus de probit� et de m�rite qu'aux autres:
+il le mit dans sa confidence, et s'assura, autant qu'il le
+pouvait, de sa fid�lit� par un pr�sent consid�rable.  Azora ayant
+pass� deux jours chez une de ses amies � la campagne, revint le
+troisi�me jour � la maison.  Des domestiques en pleurs lui
+annonc�rent que son mari �tait mort subitement, la nuit m�me,
+qu'on n'avait pas os� lui porter cette funeste nouvelle, et qu'on
+venait d'ensevelir Zadig dans le tombeau de ses p�res, au bout du
+jardin.  Elle pleura, s'arracha les cheveux, et jura de mourir.
+Le soir, Cador lui demanda la permission de lui parler, et ils
+pleur�rent tous deux.  Le lendemain ils pleur�rent moins, et
+d�n�rent ensemble.  Cador lui confia que son ami lui avait laiss�
+la plus grande partie de son bien, et lui fit entendre qu'il
+mettrait son bonheur � partager sa fortune avec elle.  La dame
+pleura, se f�cha, s'adoucit; le souper fut plus long que le
+d�ner; on se parla avec plus de confiance.  Azora fit l'�loge du
+d�funt; mais elle avoua qu'il avait des d�fauts dont Cador �tait
+exempt.
+
+Au milieu du souper, Cador se plaignit d'un mal de rate violent;
+la dame, inqui�te et empress�e, fit apporter toutes les essences
+dont elle se parfumait, pour essayer s'il n'y en avait pas
+quelqu'une qui f�t bonne pour le mal de rate; elle regretta
+beaucoup que le grand Herm�s ne f�t pas encore � Babylone; elle
+daigna m�me toucher le c�t� o� Cador sentait de si vives
+douleurs.  Etes-vous sujet � cette cruelle maladie? lui dit-elle
+avec compassion.  Elle me met quelquefois au bord du tombeau, lui
+r�pondit Cador, et il n'y a qu'un seul rem�de qui puisse me
+soulager: c'est de m'appliquer sur le c�t� le nez d'un homme qui
+soit mort la veille.  Voil� un �trange rem�de, dit Azora.  Pas
+plus �trange, r�pondit-il, que les sachets du sieur Arnoult[a]
+contre l'apoplexie.  Cette raison, jointe � l'extr�me m�rite du
+jeune homme, d�termina enfin la dame.  Apr�s tout, dit-elle,
+quand mon mari passera du monde d'hier dans le monde du lendemain
+sur le pont Tchinavar, l'ange Asrael lui accordera-t-il moins le
+passage parceque son nez sera un peu moins long dans la seconde
+vie que dans la premi�re? Elle prit donc un rasoir; elle alla au
+tombeau de son �poux, l'arrosa de ses larmes, et s'approcha pour
+couper le nez � Zadig, qu'elle trouva tout �tendu dans la tombe.
+Zadig se rel�ve en tenant son nez d'une main, et arr�tant le
+rasoir de l'autre.  Madame, lui dit-il, ne criez plus tant contre
+la jeune Cosrou; le projet de me couper le nez vaut bien celui de
+d�tourner un ruisseau.
+
+  [a] Il y avait dans ce temps un Babylonien, nomm� Arnoult, qui
+  gu�rissait el pr�venait toutes les apoplexies, dans les
+  gazettes, avec un sachet pendu au cou.--Cette note est de 1748;
+  on y lit, ainsi que dans le texte, _Arnou_.  Mais l'�dition de
+  1747, sous le titre de _Memnon_, dont j'ai parl� dans ma
+  pr�face de ce volume, porte _Arnoult_, qui est le v�ritable
+  nom: voyez tome XXVI, page 186.  B.
+
+
+
+CHAPITRE III.
+
+Le chien et le cheval.
+
+Zadig �prouva que le premier mois du mariage, comme il est �crit
+dans le livre du Zend, est la lune du miel, et que le second est
+la lune de l'absinthe.  Il fut quelque temps apr�s oblig� de
+r�pudier Azora, qui �tait devenue trop difficile � vivre, et il
+chercha son bonheur dans l'�tude de la nature.  Rien n'est plus
+heureux, disait-il, qu'un philosophe qui lit dans ce grand livre
+que Dieu a mis sous nos yeux.  Les v�rit�s qu'il d�couvre sont �
+lui: il nourrit et il �l�ve son �me, il vit tranquille; il ne
+craint rien des hommes, et sa tendre �pouse ne vient point lui
+couper le nez.
+
+Plein de ces id�es, il se retira dans une maison de campagne sur
+les bords de l'Euphrate.  L� il ne s'occupait pas � calculer
+combien de pouces d'eau coulaient en une seconde sous les arches
+d'un pont, ou s'il tombait une ligne cube de pluie dans le mois
+de la souris plus que dans le mois du mouton.  Il n'imaginait
+point de faire de la soie avec des toiles d'araign�e, ni de la
+porcelaine avec des bouteilles cass�es; mais il �tudia surtout
+les propri�t�s des animaux et des plantes, et il acquit bient�t
+une sagacit� qui lui d�couvrait mille diff�rences o� les autres
+hommes ne voient rien que d'uniforme.
+
+[1]Un jour, se promenant aupr�s d'un petit bois, il vit accourir
+� lui un eunuque de la reine, suivi de plusieurs officiers qui
+paraissaient dans la plus grande inqui�tude, et qui couraient ��
+et l� comme des hommes �gar�s qui cherchent ce qu'ils ont perdu
+de plus pr�cieux.  Jeune homme, lui dit le premier eunuque,
+n'avez-vous point vu le chien de la reine? Zadig r�pondit
+modestement, C'est une chienne, et non pas un chien.  Vous avez
+raison, reprit le premier eunuque.  C'est une �pagneule tr�s
+petite, ajouta Zadig; elle a fait depuis peu des chiens; elle
+boite du pied gauche de devant, et elle a les oreilles tr�s
+longues.  Vous l'avez donc vue? dit le premier eunuque tout
+essouffl�.  Non, r�pondit Zadig, je ne l'ai jamais vue, et je
+n'ai jamais su si la reine avait une chienne.
+
+  [1] L'_Ann�e litt�raire_, 1767, I, 145 et suiv., reproche �
+  Voltaire d'avoir pris l'id�e de ce chapitre au chevalier de
+  Mailly, auteur anonyme de _Le Voy�ge et les Aventures des trois
+  princes de Sarendip, traduits du persan_, 1719 (et non 1716),
+  iii-12.  B.
+
+
+Pr�cis�ment dans le m�me temps, par une bizarrerie ordinaire de
+la fortune, le plus beau cheval de l'�curie du roi s'�tait
+�chapp� des mains d'un palefrenier dans les plaines de Babylone.
+Le grand-veneur et tous les autres officiers couraient apr�s lui
+avec autant d'inqui�tude que le premier eunuque apr�s la chienne.
+Le grand-veneur s'adressa � Zadig, et lui demanda s'il n'avait
+point vu passer le cheval du roi.  C'est, r�pondit Zadig, le
+cheval qui galope le mieux; il a cinq pieds de haut, le sabot
+fort petit; il porte une queue de trois pieds et demi de long;
+les bossettes de son mors sont d'or � vingt-trois carats; ses
+fers sont d'argent � onze deniers.  Quel chemin a-t-il pris?  o�
+est-il? demanda le grand-veneur.  Je ne l'ai point vu, r�pondit
+Zadig, et je n'en ai jamais entendu parler.
+
+Le grand-veneur et le premier eunuque ne dout�rent pas que Zadig
+n'e�t vol� le cheval du roi et la chienne de la reine; ils le
+firent conduire devant l'assembl�e du grand Desterham, qui le
+condamna au knout, et � passer le reste de ses jours en Sib�rie.
+A peine le jugement fut-il rendu qu'on retrouva le cheval et la
+chienne.  Les juges furent dans la douloureuse n�cessit� de
+r�former leur arr�t; mais ils condamn�rent Zadig � payer quatre
+cents onces d'or, pour avoir dit qu'il n'avait point vu ce qu'il
+avait vu.  Il fallut d'abord payer cette amende; apr�s quoi il
+fut permis � Zadig de plaider sa cause au conseil du grand
+Desterham; il parla en ces termes:
+
+��toiles de justice, ab�mes de science, miroirs de v�rit�, qui
+avez la pesanteur du plomb, la duret� du fer, l'�clat du diamant,
+et beaucoup d'affinit� avec l'or, puisqu'il m'est permis de
+parler devant cette auguste assembl�e, je vous jure par Orosmade,
+que je n'ai jamais vu la chienne respectable de la reine, ni le
+cheval sacr� du roi des rois.  Voici ce qui m'est arriv�: Je me
+promenais vers le petit bois o� j'ai rencontr� depuis le
+v�n�rable eunuque et le tr�s illustre grand-veneur.  J'ai vu sur
+le sable les traces d'un animal, et j'ai jug� ais�ment que
+c'�taient celles d'un petit chien.  Des sillons l�gers et longs,
+imprim�s sur de petites �minences de sable entre les traces des
+pattes, m'ont fait conna�tre que c'�tait une chienne dont les
+mamelles �taient pendantes, et qu'ainsi elle avait fait des
+petits il y a peu de jours.  D'autres traces en un sens
+diff�rent, qui paraissaient toujours avoir ras� la surface du
+sable � c�t� des pattes de devant, m'ont appris qu'elle avait les
+oreilles tr�s longues; et comme j'ai remarqu� que le sable �tait
+toujours moins creus� par une patte que par les trois autres,
+j'ai compris que la chienne de notre auguste reine �tait un peu
+boiteuse, si je l'ose dire.
+
+�A l'�gard du cheval du roi des rois, vous saurez que, me
+promenant dans les routes de ce bois, j'ai aper�u les marques des
+fers d'un cheval; elles �taient toutes � �gales distances.
+Voil�, ai-je dit, un cheval qui a un galop parfait.  La poussi�re
+des arbres, dans une route �troite qui n'a que sept pieds de
+large, �tait un peu enlev�e � droite et � gauche, � trois pieds
+et demi du milieu de la route.  Ce cheval, ai-je dit, a une queue
+de trois pieds et demi, qui, par ses mouvements de droite et de
+gauche, a balay� cette poussi�re.  J'ai vu sous les arbres qui
+formaient un berceau de cinq pieds de haut, les feuilles des
+branches nouvellement tomb�es; et j'ai connu que ce cheval y
+avait touch�, et qu'ainsi il avait cinq pieds de haut.  Quant �
+son mors, il doit �tre d'or � vingt-trois carats; car il en a
+frott� les bossettes contre une pierre que j'ai reconnue �tre une
+pierre de touche, et dont j'ai fait l'essai.  J'ai jug� enfin par
+les marques que ses fers ont laiss�es sur des cailloux, d'une
+autre esp�ce, qu'il �tait ferr� d'argent � onze deniers de fin.�
+
+Tous les juges admir�rent le profond et subtil discernement de
+Zadig; la nouvelle en vint jusqu'au roi et � la reine.  On ne
+parlait que de Zadig dans les antichambres, dans la chambre, et
+dans le cabinet; et quoique plusieurs mages opinassent qu'on
+devait le br�ler comme sorcier, le roi ordonna qu'on lui rend�t
+l'amende des quatre cents onces d'or � laquelle il avait �t�
+condamn�.  Le greffier, les huissiers, les procureurs, vinrent
+chez lui en grand appareil lui rapporter ses quatre cents onces;
+ils en retinrent seulement trois cent quatre-vingt-dix-huit pour
+les frais de justice, et leurs valets demand�rent des honoraires.
+
+Zadig vit combien il �tait dangereux quelquefois d'�tre trop
+savant, et se promit bien, � la premi�re occasion, de ne point
+dire ce qu'il avait vu.
+
+Cette occasion se trouva bient�t.  Un prisonnier d'�tat
+s'�chappa; il passa sous les fen�tres de sa maison.  On
+interrogea Zadig, il ne r�pondit rien; mais on lui prouva qu'il
+avait regard� par la fen�tre.  Il fut condamn� pour ce crime �
+cinq cents onces d'or, et il remercia ses juges de leur
+indulgence, selon la coutume de Babylone.
+
+Grand Dieu! dit-il en lui-m�me, qu'on est � plaindre quand on se
+prom�ne dans un bois o� la chienne de la reine et le cheval du
+roi ont pass�! qu'il est dangereux de se mettre � la fen�tre!  et
+qu'il est difficile d'�tre heureux dans cette vie!
+
+
+
+CHAPITRE IV.
+
+L'envieux.
+
+
+Zadig voulut se consoler, par la philosophie et par l'amiti�, des
+maux que lui avait faits la fortune.  Il avait, dans un faubourg
+de Babylone, une maison orn�e avec go�t, o� il rassemblait tous
+les arts et tous les plaisirs dignes d'un honn�te homme.  Le
+matin sa biblioth�que �tait ouverte � tous les savants; le soir,
+sa table l'�tait � la bonne compagnie; mais il connut bient�t
+combien les savants sont dangereux; il s'�leva une grande dispute
+sur une loi de Zoroastre, qui d�fendait de manger du griffon.
+Comment d�fendre le griffon, disaient les uns, si cet animal
+n'existe pas? Il faut bien qu'il existe, disaient les autres,
+puisque Zoroastre ne veut pas qu'on en mange.  Zadig voulut les
+accorder, en leur disant, S'il y a des griffons, n'en mangeons
+point; s'il n'y en a point, nous en mangerons encore moins; et
+par l� nous ob�irons tous � Zoroastre.
+
+Un savant qui avait compos� treize volumes sur les propri�t�s du
+griffon, et qui de plus �tait grand th�urgite, se h�ta d'aller
+accuser Zadig devant un archimage nomm� Y�bor[1], le plus sot des
+Chald�ens, et partant le plus fanatique.  Cet homme aurait fait
+empaler Zadig pour la plus grande gloire du soleil, et en aurait
+r�cit� le br�viaire de Zoroastre d'un ton plus satisfait.  L'ami
+Cador (un ami vaut mieux que cent pr�tres) alla trouver le vieux
+Y�bor, et lui dit:
+
+Vivent le soleil et les griffons! gardez-vous bien de punir
+Zadig: c'est un saint; il a des griffons dans sa basse-cour, et
+il n'en mange point; et son accusateur est un h�r�tique qui ose
+soutenir que les lapins ont le pied fendu, et ne sont point
+immondes.  Eh bien!  dit Y�bor en branlant sa t�te chauve, il
+faut empaler Zadig pour avoir mal pens� des griffons, et l'autre
+pour avoir mal parl� des lapins.  Cador apaisa l'affaire par le
+moyen d'une fille d'honneur � laquelle il avait fait un enfant,
+et qui avait beaucoup de cr�dit dans le coll�ge des mages.
+Personne ne fut empal�; de quoi plusieurs docteurs murmur�rent,
+et en pr�sag�rent la d�cadence de Babylone.  Zadig s'�cria: A
+quoi tient le bonheur! tout me pers�cute dans ce monde, jusqu'aux
+�tres qui n'existent pas.  Il maudit les savants, et ne voulut
+plus vivre qu'en bonne compagnie.
+
+  [1] Anagramme de Boyer, th�atin, confesseur de d�votes titr�es,
+  �v�que par leurs intrigues, qui n'avaient pu r�ussir � le faire
+  sup�rieur de son couvent; puis pr�cepteur du dauphin, et enfin
+  ministre de la feuille, par le conseil du cardinal de Fleury,
+  qui, comme tous les hommes m�diocres, aimait � faire donner les
+  places � des hommes incapables de les remplir, mais aussi
+  incapables de se rendre dangereux.  Ce Boyer �tait un fanatique
+  imb�cile qui pers�cuta M. de Voltaire dans plus d'une occasion.
+  K.
+
+
+Il rassemblait chez lui les plus honn�tes gens de Babylone, et
+les dames les plus aimables; il donnait des soupers d�licats,
+souvent pr�c�d�s de concerts, et anim�s par des conversations
+charmantes dont il avait su bannir l'empressement de montrer de
+l'esprit, qui est la plus s�re mani�re de n'en point avoir, et de
+g�ter la soci�t� la plus brillante.  Ni le choix de ses amis, ni
+celui des mets, n'�taient faits par la vanit�; car en tout il
+pr�f�rait l'�tre au para�tre, et par l� il s'attirait la
+consid�ration v�ritable, � laquelle il ne pr�tendait pas.
+
+Vis-�-vis sa maison demeurait Arimaze, personnage dont la
+m�chante �me �tait peinte sur sa grossi�re physionomie.  Il �tait
+rong� de fiel et bouffi d'orgueil, et pour comble, c'�tait un bel
+esprit ennuyeux.  N'ayant jamais pu r�ussir dans le monde, il se
+vengeait par en m�dire[2].  Tout riche qu'il �tait, il avait de
+la peine � rassembler chez lui des flatteurs.  Le bruit des chars
+qui entraient le soir chez Zadig l'importunait, le bruit de ses
+louanges l'irritait davantage.  Il allait quelquefois chez Zadig,
+et se mettait � table sans �tre pri�: il y corrompait toute la
+joie de la soci�t�, comme on dit que les harpies infectent les
+viandes qu'elles touchent.  Il lui arriva un jour de vouloir
+donner une f�te � une dame qui, au lieu de la recevoir, alla
+souper chez Zadig.  Un autre jour, causant avec lui dans le
+palais, ils abord�rent un ministre qui pria Zadig � souper, et ne
+pria point Arimaze.  Les plus implacables haines n'ont pas
+souvent des fondements plus importants.  Cet homme, qu'on
+appelait l'_Envieux_ dans Babylone, voulut perdre Zadig,
+parcequ'on l'appelait l'_Heureux_.  L'occasion de faire du mal se
+trouve cent fois par jour, et celle de faire du bien, une fois
+dans l'ann�e, comme dit Zoroastre.
+
+  [2] Imitation d'une phrase de Montaigne, cit�e p. 119 du tome
+  XXVII.  B.
+
+
+
+L'Envieux alla chez Zadig, qui se promenait dans ses jardins avec
+deux amis et une dame � laquelle il disait souvent des choses
+galantes, sans autre intention que celle de les dire.  La
+conversation roulait sur une guerre que le roi venait de terminer
+heureusement contre le prince d'Hyrcanie, son vassal.  Zadig, qui
+avait signal� son courage dans cette courte guerre, louait
+beaucoup le roi, et encore plus la dame.  Il prit ses tablettes,
+et �crivit quatre vers qu'il fit sur-le-champ, et qu'il donna �
+lire � cette belle personne.  Ses amis le pri�rent de leur en
+faire part: la modestie, ou plut�t un amour-propre bien entendu,
+l'en emp�cha.  Il savait que des vers impromptus ne sont jamais
+bons que pour celle en l'honneur de qui ils sont faits: il brisa
+en deux la feuille des tablettes sur laquelle il venait d'�crire,
+et jeta les deux moiti�s dans un buisson de roses, o� on les
+chercha inutilement.  Une petite pluie survint; on regagna la
+maison.  L'Envieux, qui resta dans le jardin, chercha tant, qu'il
+trouva un morceau de la feuille.  Elle avait �t� tellement
+rompue, que chaque moiti� de vers qui remplissait la ligne fesait
+un sens, et m�me un vers d'une plus petite mesure; mais, par un
+hasard encore plus �trange, ces petits vers se trouvaient former
+un sens qui contenait les injures les plus horribles contre le
+roi; on y lisait:
+
+            Par les plus grands forfaits
+            Sur le tr�ne affermi,
+            Dans la publique paix
+            C'est le seul ennemi.
+
+L'Envieux fut heureux pour la premi�re fois de sa vie.  Il avait
+entre les mains de quoi perdre un homme vertueux et aimable.
+Plein de cette cruelle joie, il fit parvenir jusqu'au roi cette
+satire �crite de la main de Zadig: on le fit mettre en prison,
+lui, ses deux amis, et la dame.  Son proc�s lui fut bient�t fait,
+sans qu'on daign�t l'entendre.  Lorsqu'il vint recevoir sa
+sentence, l'Envieux se trouva sur son passage, et lui dit tout
+haut que ses vers ne valaient rien.  Zadig ne se piquait pas
+d'�tre bon po�te; mais il �tait au d�sespoir d'�tre condamn�
+comme criminel de l�se-majest�, et de voir qu'on ret�nt en prison
+une belle dame et deux amis pour un crime qu'il n'avait pas fait.
+On ne lui permit pas de parler, parceque ses tablettes parlaient.
+Telle �tait la loi de Babylone.  On le fit donc aller au supplice
+� travers une foule de curieux dont aucun n'osait le plaindre, et
+qui se pr�cipitaient pour examiner son visage, et pour voir s'il
+mourrait avec bonne gr�ce.  Ses parents seulement �taient
+afflig�s, car ils n'h�ritaient pas.  Les trois quarts de son bien
+�taient confisqu�s au profit du roi, et l'autre quart au profit
+de l'Envieux.
+
+Dans le temps qu'il se pr�parait � la mort, le perroquet du roi
+s'envola de son balcon, et s'abattit dans le jardin de Zadig sur
+un buisson de roses.  Une p�che y avait �t� port�e d'un arbre
+voisin par le vent; elle �tait tomb�e sur un morceau de tablettes
+� �crire auquel elle s'�tait coll�e.  L'oiseau enleva la p�che et
+la tablette, et les porta sur les genoux du monarque.  Le prince
+curieux y lut des mots qui ne formaient aucun sens, et qui
+paraissaient des fins de vers.  Il aimait la po�sie, et il y a
+toujours de la ressource avec les princes qui aiment les vers:
+l'aventure de son perroquet le fit r�ver.  La reine, qui se
+souvenait de ce qui avait �t� �crit sur une pi�ce de la tablette
+de Zadig, se la fit apporter.
+
+On confronta les deux morceaux, qui s'ajustaient ensemble
+parfaitement; on lut alors les vers tels que Zadig les avait
+faits:
+
+     Par les plus grands forfaits j'ai vu troubler la terre.
+     Sur le tr�ne affermi le roi sait tout dompter.
+     Dans la publique paix l'amour seul fait la guerre:
+     C'est le seul ennemi qui soit � redouter.
+
+Le roi ordonna aussit�t qu'on f�t venir Zadig devant lui, et
+qu'on f�t sortir de prison ses deux amis et la belle dame.  Zadig
+se jeta le visage contre terre aux pieds du roi et de la reine:
+il leur demanda tr�s humblement pardon d'avoir fait de mauvais
+vers: il parla avec tant de gr�ce, d'esprit, et de raison, que le
+roi et la reine voulurent le revoir.  Il revint, et plut encore
+davantage.  On lui donna tous les biens de l'Envieux, qui l'avait
+injustement accus�: mais Zadig les rendit tous; et l'Envieux ne
+fut touch� que du plaisir de ne pas perdre son bien.  L'estime du
+roi s'accrut de jour en jour pour Zadig.  Il le mettait de tous
+ses plaisirs, et le consultait dans toutes ses affaires.  La
+reine le regarda d�s-lors avec une complaisance qui pouvait
+devenir dangereuse pour elle, pour le roi son auguste �poux, pour
+Zadig, et pour le royaume.  Zadig commen�ait � croire qu'il n'est
+pas si difficile d'�tre heureux.
+
+
+
+CHAPITRE V.
+
+Les g�n�reux.
+
+
+Le temps arriva o� l'on c�l�brait une grande f�te qui revenait tous
+les cinq ans.  C'�tait la coutume � Babylone de d�clarer solennellement,
+au bout de cinq ann�es, celui des citoyens qui avait fait l'action la
+plus g�n�reuse.  Les grands et les mages �taient les juges.  Le
+premier satrape, charg� du soin de la ville, exposait les plus belles
+actions qui s'�taient pass�es sous son gouvernement.  On allait aux
+voix: le roi pronon�ait le jugement.  On venait � cette solennit� des
+extr�mit�s de la terre.  Le vainqueur recevait des mains du monarque
+une coupe d'or garnie de pierreries, et le roi lui disait ces paroles:
+�Recevez ce prix de la g�n�rosit�, et puissent les dieux me donner
+beaucoup de sujets qui vous ressemblent!�
+
+Ce jour m�morable venu, le roi parut sur son tr�ne, environn� des
+grands, des mages, et des d�put�s de toutes les nations, qui
+venaient � ces jeux o� la gloire s'acqu�rait, non par la l�g�ret�
+des chevaux, non par la force du corps, mais par la vertu.  Le
+premier satrape rapporta � haute voix les actions qui pouvaient
+m�riter � leurs auteurs ce prix inestimable.  Il ne parla point
+de la grandeur d'�me avec laquelle Zadig avait rendu � l'Envieux
+toute sa fortune: ce n'�tait pas une action qui m�rit�t de
+disputer le prix.
+
+Il pr�senta d'abord un juge qui, ayant fait perdre un proc�s
+consid�rable � un citoyen, par une m�prise dont il n'�tait pas
+m�me responsable, lui avait donn� tout son bien, qui �tait la
+valeur de ce que l'autre avait perdu[1].
+
+  [1] C'est � peu pr�s le trait de Des Barreaux.  Voyez, tome
+  XIX, le _Catalogue des �crivains_, en t�te du _Si�cle de Louis
+  XIV_; et dans les _M�langes_, ann�e 1767, la septi�me des
+  _Lettres � S.  A.  monseigneur le prince de***_.  B.
+
+Il produisit ensuite un jeune homme qui, �tant �perdument �pris
+d'une fille qu'il allait �pouser, l'avait c�d�e � un ami pr�s
+d'expirer d'amour pour elle, et qui avait encore pay� la dot en
+c�dant la fille.
+
+Ensuite il fit para�tre un soldat qui, dans la guerre d'Hyrcanie,
+avait donn� encore un plus grand exemple de g�n�rosit�.  Des
+soldats ennemis lui enlevaient sa ma�tresse, et il la d�fendait
+contre eux: on vint lui dire que d'autres Hyrcaniens enlevaient
+sa m�re � quelques pas de l�: il quitta en pleurant sa ma�tresse,
+et courut d�livrer sa m�re: il retourna ensuite vers celle qu'il
+aimait, et la trouva expirante.  Il voulut se tuer; sa m�re lui
+remontra qu'elle n'avait que lui pour tout secours, et il eut le
+courage de souffrir la vie.
+
+Les juges penchaient pour ce soldat.  Le roi prit la parole, et
+dit: Son action et celles des autres sont belles, mais elles ne
+m'�tonnent point; hier Zadig en a fait une qui m'a �tonn�.
+J'avais disgraci� depuis quelques jours mon ministre et mon
+favori Coreb.  Je plaignais de lui avec violence, et tous mes
+courtisans m'assuraient que j'�tais trop doux; c'�tait � qui me
+dirait le plus de mal de Coreb.  Je demandai � Zadig ce qu'il en
+pensait, et il osa en dire du bien.  J'avoue que j'ai vu, dans
+nos histoires, des exemples qu'on a pay� de son bien une erreur,
+qu'on a c�d� sa ma�tresse qu'on a pr�f�r� une m�re � l'objet de
+son amour; mais je n'ai jamais lu qu'un courtisan ait parl�
+avantageusement d'un ministre disgraci� contre qui son souverain
+�tait en col�re.  Je donne vingt mille pi�ces d'or � chacun de
+ceux dont on vient de r�citer les actions g�n�reuses; mais je
+donne la coupe � Zadig.
+
+Sire, lui dit-il, c'est votre majest� seule qui m�rite la coupe,
+c'est elle qui a fait l'action la plus inou�e, puisque �tant roi
+vous ne vous �tes point f�ch� contre votre esclave, lorsqu'il
+contredisait votre passion.  On admira le roi et Zadig.  Le juge
+qui avait donn� son bien, l'amant qui avait mari� sa ma�tresse �
+son ami, le soldat qui avait pr�f�r� le salut de sa m�re � celui
+de sa ma�tresse, re�urent les pr�sents du monarque: ils virent
+leurs noms �crits dans le livre des g�n�reux.  Zadig eut la
+coupe.  Le roi acquit la r�putation d'un bon prince, qu'il ne
+garda pas long-temps.  Ce jour fut consacr� par des f�tes plus
+longues que la loi ne le portait.  La m�moire s'en conserve
+encore dans l'Asie.  Zadig disait: Je suis donc enfin heureux!
+Mais il se trompait.
+
+
+
+CHAPITRE VI.
+
+Le ministre.
+
+
+Le roi avait perdu son premier ministre.  Il choisit Zadig pour
+remplir cette place.  Toutes les belles dames de Babylone
+applaudirent � ce choix, car depuis la fondation de l'empire il
+n'y avait jamais eu de ministre si jeune.  Tous les courtisans
+furent f�ch�s; l'Envieux en eut un crachement de sang, et le nez
+lui enfla prodigieusement.  Zadig ayant remerci� le roi et la
+reine, alla remercier aussi le perroquet: Bel oiseau, lui dit-il,
+c'est vous qui m'avez sauv� la vie, et qui m'avez fait premier
+ministre: la chienne et le cheval de leurs majest�s m'avaient
+fait beaucoup de mal, mais vous m'avez fait du bien.  Voil� donc
+de quoi d�pendent les destins des hommes! Mais, ajouta-t-il, un
+bonheur si �trange sera peut-�tre bient�t �vanoui.  Le perroquet
+r�pondit, Oui.  Ce mot frappe Zadig.  Cependant, comme il �tait
+bon physicien, et qu'il ne croyait pas que les perroquets fussent
+proph�tes, il se rassura bient�t; il se mit � exercer son
+minist�re de son mieux.
+
+Il fit sentir � tout le monde le pouvoir sacr� des lois, et ne
+fit sentir � personne le poids de sa dignit�.  Il ne g�na point
+les voix du divan, et chaque vizir pouvait avoir un avis sans lui
+d�plaire.  Quand il jugeait une affaire, ce n'�tait pas lui qui
+jugeait, c'�tait la loi; mais quand elle �tait trop s�v�re, il la
+temp�rait; et quand on manquait de lois, son �quit� en fesait
+qu'on aurait prises pour celles de Zoroastre.
+
+C'est de lui que les nations tiennent ce grand principe, Qu'il
+vaut mieux hasarder de sauver un coupable que de condamner un
+innocent.  Il croyait que les lois �taient faites pour secourir
+les citoyens autant que pour les intimider.  Son principal talent
+�tait de d�m�ler la v�rit�, que tous les hommes cherchent �
+obscurcir.  D�s les premiers jours de son administration il mit
+ce grand talent en usage.  Un fameux n�gociant de Babylone �tait
+mort aux Indes; il avait fait ses h�ritiers ses deux fils par
+portions �gales, apr�s avoir mari� leur soeur, et il laissait un
+pr�sent de trente mille pi�ces d'or � celui de ses deux fils qui
+serait jug� l'aimer davantage.  L'a�n� lui b�tit un tombeau, le
+second augmenta d'une partie de son h�ritage la dot de sa soeur;
+chacun disait: C'est l'a�n� qui aime le mieux son p�re, le cadet
+aime mieux sa soeur; c'est � l'a�n� qu'appartiennent les trente
+mille pi�ces.
+
+Zadig les fit venir tous deux l'un apr�s l'autre.  Il dit �
+l'a�n�: Votre p�re n'est point mort, il est gu�ri de sa derni�re
+maladie, il revient � Babylone.  Dieu soit lou�, r�pondit le
+jeune homme; mais voil� un tombeau qui m'a co�t� bien cher! Zadig
+dit ensuite la m�me chose au cadet.  Dieu soit lou�! r�pondit-il,
+je vais rendre � mon p�re tout ce que j'ai; mais je voudrais
+qu'il laiss�t � ma soeur ce que je lui ai donn�.  Vous ne rendrez
+rien, dit Zadig, et vous aurez les trente mille pi�ces; c'est
+vous qui aimez le mieux votre p�re.
+
+Une fille fort riche avait fait une promesse de mariage � deux
+mages, et, apr�s avoir re�u quelques mois des instructions de
+l'un et de l'autre, elle se trouva grosse.  Ils voulaient tous
+deux l'�pouser.  Je prendrai pour mon mari, dit-elle, celui des
+deux qui m'a mise en �tat de donner un citoyen � l'empire.  C'est
+moi qui ai fait cette bonne oeuvre, dit l'un.  C'est moi qui ai
+eu cet avantage, dit l'autre.  Eh bien! r�pondit-elle, je
+reconnais pour p�re de l'enfant celui des deux qui lui pourra
+donner la meilleure �ducation.  Elle accoucha d'un fils.  Chacun
+des mages veut l'�lever.  La cause est port�e devant Zadig.  Il
+fait venir les deux mages.  Qu'enseigneras-tu � ton pupille?
+dit-il au premier.  Je lui apprendrai, dit le docteur, les huit
+parties d'oraison, la dialectique, l'astrologie, la d�monomanie;
+ce que c'est que la substance et l'accident, l'abstrait et le
+concret, les monades et l'harmonie pr��tablie.  Moi, dit le
+second, je t�cherai de le rendre juste et digne d'avoir des amis.
+Zadig pronon�a: Que tu sois son p�re ou non, tu �pouseras sa
+m�re.
+
+[1]Il venait tous les jours des plaintes � la cour contre
+l'itimadoulet de M�die, nomm� _Irax_.  C'�tait un grand seigneur
+dont le fonds n'�tait pas mauvais, mais qui �tait corrompu par la
+vanit� et par la volupt�.  Il souffrait rarement qu'on lui
+parl�t, et jamais qu'on l'os�t contredire.  Les paons ne sont pas
+plus vains, les colombes ne sont pas plus voluptueuses, les
+tortues ont moins de paresse; il ne respirait que la fausse
+gloire et les faux plaisirs: Zadig entreprit de le corriger.
+
+  [1]Toute la fin de ce chapitre a paru, pour la premi�re fois
+  dans les �ditions de Kehl.  B.
+
+
+Il lui envoya de la part du roi un ma�tre de musique avec douze
+voix et vingt-quatre violons, un ma�tre-d'h�tel avec six
+cuisiniers et quatre chambellans, qui ne devaient pas le quitter.
+L'ordre du roi portait que l'�tiquette suivante serait
+inviolablement observ�e; et voici comme les choses se pass�rent.
+
+Le premier jour, d�s que le voluptueux Irax fut �veill�, le
+ma�tre de musique entra, suivi des voix et des violons: on chanta
+une cantate qui dura deux heures, et, de trois minutes en trois
+minutes, le refrain �tait:
+
+      Que son m�rite est extr�me!
+      Que de gr�ces! que de grandeur!
+      Ah! combien monseigneur
+      Doit �tre content de lui-m�me!
+
+Apr�s l'ex�cution de la cantate un chambellan lui fit une
+harangue de trois quarts d'heure, dans laquelle on le louait
+express�ment de toutes les bonnes qualit�s qui lui manquaient.
+La harangue finie, on le conduisit � table au son des instruments.
+Le d�ner dura trois heures; d�s qu'il ouvrit la bouche pour
+parler, le premier chambellan dit: II aura raison.  A peine
+eut-il prononc� quatre paroles que le second chambellan s'�cria:
+II a raison! Les deux autres chambellans firent de grands �clats
+de rire des bons mots qu'Irax avait dits ou qu'il avait d� dire.
+Apr�s d�ner on lui r�p�ta la cantate.
+
+Cette premi�re journ�e lui parut d�licieuse, il crut que le roi
+des rois l'honorait selon ses m�rites; la seconde lui parut moins
+agr�able; la troisi�me fut g�nante; la quatri�me-f�t
+insupportable; la cinqui�me fut un supplice: enfin, outr�
+d'entendre toujours cbanter,
+
+      Ah! combien monseigneur
+      Doit �tre content de lui-m�me!
+
+d'entendre toujours dire qu'il avait raison, et d'�tre harangu�
+chaque jour � la m�me heure, il �crivit en cour pour supplier le
+roi qu'il daign�t rappeler ses chambellans, ses musiciens, son
+ma�tre-d'h�tel; il promit d'�tre d�sormais moins vain et plus
+appliqu�; il se fit moins encenser, eut moins de f�tes, et fut
+plus heureux; car, comme dit le Sadder[1], toujours du plaisir
+n'est pas du plaisir.
+
+  [1] Sur le Sadder, voyez tome XV, pages 309-314; et dans les
+  _M�langes_, ann�e 1777, la _troisi�me niaiserie_, fesant partie
+  de: _Un chr�tien contre six Juifs_.  B.
+
+
+
+CHAPITRE VII
+
+Les disputes et les audiences.
+
+
+C'est ainsi que Zadig montrait tous les jours la subtilit� de son
+g�nie et la bont� de son �me; on l'admirait, et cependant on
+l'aimait.  Il passait pour le plus fortun� de tous les hommes,
+tout l'empire �tait rempli de son nom; toutes les femmes le
+lorgnaient; tous les citoyens c�l�braient sa justice; les savants
+le regardaient comme leur oracle; les pr�tres m�me avouaient
+qu'il en savait plus que le vieux archimage Y�bor.  On �tait bien
+loin alors de lui faire des proc�s sur les griffons; on ne
+croyait que ce qui lui semblait croyable.
+
+Il y avait une grande querelle dans Babylone qui durait depuis
+quinze cents ann�es, et qui partageait l'empire en deux sectes
+opini�tres: l'une pr�tendait qu'il ne fallait jamais entrer dans
+le temple de Mithra que du pied gauche; l'autre avait cette
+coutume en abomination, et n'entrait jamais que du pied droit.
+On attendait le jour de la f�te solennelle du feu sacr� pour
+savoir quelle secte serait favoris�e par Zadig.  L'univers avait
+les yeux sur ses deux pieds, et toute la ville �tait en agitation
+et en suspens.  Zadig entra dans le temple en sautant � pieds
+joints, et il prouva ensuite, par un discours �loquent, que le
+Dieu du ciel et de la terre, qui n'a acception de personne, ne
+fait pas plus de cas de la jambe gauche que de la jambe droite.
+L'Envieux et sa femme pr�tendirent que dans son discours il n'y
+avait pas assez de figures, qu'il n'avait pas fait assez danser
+les montagnes et les collines[1].  Il est sec et sans g�nie,
+disaient-ils; on ne voit chez lui ni la mer s'enfuir[2], ni les
+�toiles tomber[3], ni le soleil se fondre comme de la cire[4]; il
+n'a point le bon style oriental.  Zadig se contentait d'avoir le
+style de la raison.  Tout le monde fut pour lui, non pas
+parcequ'il �tait dans le bon chemin, non pas parcequ'il �tait
+raisonnable, non pas parcequ'il �tait aimable, mais parcequ'il
+�tait premier vizir.
+
+
+  [1] Allusion aux versets 4 et 6 du psaume CXIII.  B.
+
+  [2] Versets 3 et 5 du m�me psaume.  B.
+
+  [3] Verset 12 du chapitre XIV d'Isa�e.  B.
+
+  [4] On lit dans l'_Exode_, XVI, 21: _Cumque incaluisset sol,
+  liquefiebat_; el dans Judith, XVI, 18: _Petrae, sicut cera,
+  liquescent_.  B.
+
+
+Il termina aussi heureusement le grand proc�s entre les mages
+blancs et les mages noirs.  Les blancs soutenaient que c'�tait
+une impi�t� de se tourner, en priant Dieu, vers l'orient d'hiver;
+les noirs assuraient que Dieu avait en horreur les pri�res des
+hommes qui se tournaient vers le couchant d'�t�.  Zadig ordonna
+qu'on se tourn�t comme on voudrait.
+
+Il trouva ainsi le secret d'exp�dier le matin les affaires
+particuli�res et les g�n�rales: le reste du jour il s'occupait
+des embellissements de Babylone: il fesait repr�senter des
+trag�dies o� l'on pleurait, et des com�dies o� l'on riait; ce qui
+�tait pass� de mode depuis long-temps, et ce qu'il fit rena�tre
+parcequ'il avait du go�t.  Il ne pr�tendait pas en savoir plus
+que les artistes; il les r�compensait par des bienfaits et des
+distinctions, et n'�tait point jaloux en secret de leurs talents.
+Le soir il amusait beaucoup le roi, et surtout la reine.  Le roi
+disait: Le grand ministre! la reine disait: L'aimable ministre!
+et tous deux ajoutaient: C'e�t �t� grand dommage qu'il e�t �t�
+pendu.
+
+Jamais homme en place ne fut oblig� de donner tant d'audiences
+aux dames.  La plupart venaient lui parler des affaires qu'elles
+n'avaient point, pour en avoir une avec lui.  La femme de
+l'Envieux s'y pr�senta des premi�res; elle lui jura par Mithra,
+par le Zenda-Vesta, et par le feu sacr�, qu'elle avait d�test� la
+conduite de son mari; elle lui confia ensuite que ce mari �tait
+un jaloux, un brutal; elle lui fit entendre que les dieux le
+punissaient, en lui refusant les pr�cieux effets de ce feu sacr�
+par lequel seul l'homme est semblable aux immortels: elle finit
+par laisser tomber sa jarreti�re; Zadig la ramassa avec sa
+politesse ordinaire; mais il ne la rattacha point au genou de la
+dame; et cette petite faute, si c'en est une, fut la cause des
+plus horribles infortunes.  Zadig n'y pensa pas, et la femme de
+l'Envieux y pensa beaucoup.
+
+D'autres dames se pr�sentaient tous les jours.  Les annales
+secr�tes de Babylone pr�tendent qu'il succomba une fois, mais
+qu'il fut tout �tonn� de jouir sans volupt�, et d'embrasser son
+amante avec distraction.  Celle � qui il donna, sans presque s'en
+apercevoir, des marques de sa protection, �tait une femme de
+chambre de la reine Astart�.  Cette tendre Babylonienne se disait
+� elle-m�me pour se consoler: Il faut que cet homme-l� ait
+prodigieusement d'affaires dans la t�te, puisqu'il y songe encore
+m�me en fesant l'amour.  Il �chappa � Zadig, dans les instants o�
+plusieurs personnes ne disent mot, et o� d'autres ne prononcent
+que des paroles sacr�es, de s'�crier tout d'un coup.  La reine!
+La Babylonienne crut qu'enfin il �tait revenu � lui dans un bon
+moment, et qu'il lui disait: Ma reine.  Mais Zadig, toujours tr�s
+distrait, pronon�a le nom d'Astart�.  La dame, qui dans ces
+heureuses circonstances interpr�tait tout � son avantage,
+s'imagina que cela voulait dire: Vous �tes plus belle que la
+reine Astart�.  Elle sortit du s�rail de Zadig avec de tr�s beaux
+pr�sents.  Elle alla conter son aventure � l'Envieuse, qui �tait
+son amie intime; celle-ci fut cruellement piqu�e de la
+pr�f�rence.  Il n'a pas daign� seulement, dit-elle, me rattacher
+cette jarreti�re que voici, et dont je ne veux plus me servir.
+Oh! oh! dit la fortun�e � l'Envieuse, vous portez les m�mes
+jarreti�res que la reine! Vous les prenez donc chez la m�me
+feseuse?  L'Envieuse r�va profond�ment, ne r�pondit rien, et alla
+consulter son mari l'Envieux.
+
+Cependant Zadig s'apercevait qu'il avait toujours des
+distractions quand il donnait des audiences, et quand il jugeait:
+il ne savait � quoi les attribuer; c'�tait l� sa seule peine.
+
+Il eut un songe: il lui semblait qu'il �tait couch� d'abord sur
+des herbes s�ches, parmi lesquelles il y en avait quelques unes
+de piquantes qui l'incommodaient; et qu'ensuite il reposait
+mollement sur un lit de roses, dont il sortait un serpent qui le
+blessait au coeur de sa langue ac�r�e et envenim�e.  H�las!
+disait-il, j'ai �t� long-temps couch� sur ces herbes s�ches et
+piquantes, je suis maintenant sur le lit de roses; mais quel sera
+le serpent?
+
+
+
+CHAPITRE VIII.
+
+La jalousie.
+
+
+Le malheur de Zadig vint de son bonheur m�me, et surtout de son
+m�rite.  Il avait tous les jours des entretiens avec le roi et
+avec Astart� son auguste �pouse.  Les charmes de sa conversation
+redoublaient encore par cette envie de plaire qui est � l'esprit
+ce que la parure est � la beaut�; sa jeunesse et ses gr�ces
+firent insensiblement sur Astart� une impression dont elle ne
+s'aper�ut pas d'abord.  Sa passion croissait dans le sein de
+l'innocence.  Astart� se livrait sans scrupule et sans crainte au
+plaisir de voir et d'entendre un homme cher � son �poux et �
+l'�tat; elle ne cessait de le vanter au roi; elle en parlait �
+ses femmes, qui ench�rissaient encore sur ses louanges; tout
+servait � enfoncer dans son coeur le trait qu'elle ne sentait
+pas.  Elle fesait des pr�sents � Zadig, dans lesquels il entrait
+plus de galanterie qu'elle ne pensait; elle croyait ne lui parler
+qu'en reine contente de ses services, et quelquefois ses
+expressions �taient d'une femme sensible.
+
+Astart� �tait beaucoup plus belle que cette S�mire qui ha�ssait
+tant les borgnes, et que cette autre femme qui avait voulu couper
+le nez � son �poux.  La familiarit� d'Astart�, ses discours
+tendres, dont elle commen�ait � rougir, ses regards, qu'elle
+voulait d�tourner, et qui se fixaient sur les siens, allum�rent
+dans le coeur de Zadig un feu dont il s'�tonna.  Il combattit; il
+appela � son secours la philosophie, qui l'avait toujours
+secouru; il n'en tira que des lumi�res, et n'en re�ut aucun
+soulagement.  Le devoir, la reconnaissance, la majest� souveraine
+viol�e, se pr�sentaient � ses yeux comme des dieux vengeurs; il
+combattait, il triomphait; mais cette victoire, qu'il fallait
+remporter � tout moment, lui co�tait des g�missements et des
+larmes.  Il n'osait plus parler � la reine avec cette douce
+libert� qui avait eu tant de charmes pour tous deux: ses yeux se
+couvraient d'un nuage; ses discours �taient contraints et sans
+suite: il baissait la vue; et quand, malgr� lui, ses regards se
+tournaient vers Astart�, ils rencontraient ceux de la reine
+mouill�s de pleurs, dont il partait des traits de flamme; ils
+semblaient se dire l'un � l'autre: Nous nous adorons, et nous
+craignons de nous aimer; nous br�lons tous deux d'un feu que nous
+condamnons.
+
+Zadig sortait d'aupr�s d'elle �gar�, �perdu, le coeur surcharg�
+d'un fardeau qu'il ne pouvait plus porter: dans la violence de
+ses agitations, il laissa p�n�trer son secret � son ami Cador,
+comme un homme qui, ayant soutenu long-temps les atteintes d'une
+vive douleur, fait enfin conna�tre son mal par un cri qu'un
+redoublement aigu lui arrache, et par la sueur froide qui coule
+sur son front.
+
+Cador lui dit: J'ai d�j� d�m�l� les sentiments que vous vouliez
+vous cacher � vous-m�me; les passions ont des signes auxquels on
+ne peut se m�prendre.  Jugez, mon cher Zadig, puisque j'ai lu
+dans votre coeur, si le roi n'y d�couvrira pas un sentiment qui
+l'offense.  Il n'a d'autre d�faut que celui d'�tre le plus jaloux
+des hommes.  Vous r�sistez � votre passion avec plus de force que
+la reine ne combat la sienne, parccque vous �tes philosophe, et
+parceque vous �tes Zadig.  Astart� est femme; elle laisse parler
+ses regards avec d'autant plus d'imprudence qu'elle ne se croit
+pas encore coupable.  Malheureusement rassur�e sur son innocence,
+elle n�glige des dehors n�cessaires.  Je tremblerai pour elle,
+tant qu'elle n'aura rien � se reprocher.  Si vous �tiez d'accord
+l'un et l'autre, vous sauriez tromper tous les yeux: une passion
+naissante et combattue �clate; un amour satisfait sait se cacher.
+Zadig fr�mit � la proposition de trahir le roi, son bienfaiteur;
+et jamais il ne fut plus fid�le � son prince que quand il fut
+coupable envers lui d'un crime involontaire.  Cependant la reine
+pronon�ait si souvent le nom de Zadig, son front se couvrait de
+tant de rougeur en le pronon�ant, elle �tait tant�t si anim�e;
+tant�t si interdite, quand elle lui parlait en pr�sence du roi;
+une r�verie si profonde s'emparait d'elle quand il �tait sorti,
+que le roi fut troubl�.  Il crut tout ce qu'il voyait, et imagina
+tout ce qu'il ne voyait point.  Il remarqua surtout que les
+babouches de sa femme �taient bleues, et que les babouches de
+Zadig �taient bleues, que les rubans de sa femme �taient jaunes,
+et que le bonnet de Zadig �tait jaune; c'�taient l� de terribles
+indices pour un prince d�licat.  Les soup�ons se tourn�rent en
+certitude dans son esprit aigri.
+
+Tous les esclaves des rois et des reines sont autant d'espions de
+leurs coeurs.  On p�n�tra bient�t qu'Astart� �tait tendre, et que
+Moabdar �tait jaloux.  L'Envieux engagea l'Envieuse � envoyer au
+roi sa jarreti�re, qui ressemblait � celle de la reine.  Pour
+surcro�t de malheur, cette jarreti�re �tait bleue.  Le monarque
+ne songea plus qu'� la mani�re de se venger.  Il r�solut une nuit
+d'empoisonner la reine, et de faire mourir Zadig par le cordeau
+au point du jour.  L'ordre en fut donn� � un impitoyable eunuque,
+ex�cuteur de ses vengeances.  Il y avait alors dans la chambre du
+roi un petit nain qui �tait muet, mais qui n'�tait pas sourd.  On
+le souffrait toujours: il �tait t�moin de ce qui se passait de
+plus secret, comme un animal domestique.  Ce petit muet �tait
+tr�s attach� � la reine et � Zadig.  Il entendit, avec autant de
+surprise que d'horreur, donner l'ordre de leur mort.  Mais
+comment faire pour pr�venir cet ordre effroyable, qui allait
+s'ex�cuter dans peu d'heures? Il ne savait pas �crire; mais il
+avait appris � peindre, et savait surtout faire ressembler.  Il
+passa une partie de la nuit � crayonner ce qu'il voulait faire
+entendre � la reine.  Son dessin repr�sentait le roi agit� de
+fureur, dans un coin du tableau, donnant des ordres � son
+eunuque; un cordeau bleu et un vase sur une table, avec des
+jarreti�res bleues et des rubans jaunes; la reine, dans le milieu
+du tableau, expirante entre les bras de ses femmes; et Zadig
+�trangl� � ses pieds.  L'horizon repr�sentait un soleil levant
+pour marquer que cette horrible ex�cution devait se faire aux
+premiers rayons de l'aurore.  D�s qu'il eut fini cet ouvrage, il
+courut chez une femme d'Astart�, la r�veilla, et lui fit entendre
+qu'il fallait dans l'instant m�me porter ce tableau � la reine.
+
+Cependant, au milieu de la nuit, on vient frapper � la porte de
+Zadig; on le r�veille; on lui donne un billet de la reine; il
+doute si c'est un songe; il ouvre la lettre d'une main
+tremblante.  Quelle fut sa surprise, et qui pourrait exprimer la
+consternation et le d�sespoir dont il fut accabl� quand il lut
+ces paroles: �Fuyez dans l'instant m�me, ou l'on va vous
+arracher la vie! Fuyez, Zadig; je vous l'ordonne au nom de notre
+amour et de mes rubans jaunes.  Je n'�tais point coupable; mais
+je sens que je vais mourir criminelle.�
+
+Zadig eut � peine la force de parler.  Il ordonna qu'on f�t venir
+Cador; et, sans lui rien dire, il lui donna ce billet.  Cador le
+for�a d'ob�ir, et de prendre sur-le-champ la route de Memphis.
+Si vous osez aller trouver la reine, lui dit-il, vous h�tez sa
+mort; si vous parlez au roi, vous la perdez encore.  Je me charge
+de sa destin�e; suivez la v�tre.  Je r�pandrai le bruit que vous
+avez pris la route des Indes.  Je viendrai bient�t vous trouver,
+et je vous apprendrai ce qui se sera pass� � Babylone.
+
+Cador, dans le moment m�me, fit placer deux dromadaires des plus
+l�gers � la course vers une porte secr�te du palais: il y fit
+monter Zadig, qu'il fallut porter, et qui �tait pr�s de rendre
+l'�me.  Un seul domestique l'accompagna; et bient�t Cador, plong�
+dans l'�tonnement et dans la douleur, perdit son ami de vue.
+
+Cet illustre fugitif, arriv� sur le bord d'une colline dont on
+voyait Babylone, tourna la vue sur le palais de la reine, et
+s'�vanouit; il ne reprit ses sens que pour verser des larmes, et
+pour souhaiter la mort.  Enfin, apr�s s'�tre occup� de la
+destin�e d�plorable de la plus aimable des femmes et de la
+premi�re reine du monde, il fit un moment[1] de retour sur
+lui-m�me, et s'�cria: Qu'est-ce donc que la vie humaine? O vertu!
+� quoi m'avez-vous servi? Deux femmes m'ont indignement tromp�;
+la troisi�me, qui n'est point coupable, et qui est plus belle que
+les autres, va mourir!  Tout ce que j'ai fait de bien a toujours
+�t� pour moi une source de mal�dictions, et je n'ai �t� �lev� au
+comble de la grandeur que pour tomber dans le plus horrible
+pr�cipice de l'infortune.  Si j'eusse �t� m�chant comme tant
+d'autres, je serais heureux comme eux.  Accabl� de ces r�flexions
+funestes, les yeux charg�s du voile de la douleur, la p�leur de
+la mort sur le visage, et l'�me ab�m�e dans l'exc�s d'un sombre
+d�sespoir, il continuait son voyage vers l'Egypte.
+
+  [1] L'erratum de l'�dition de Kehl dit de mettre, _un mouvement
+  de retour_.  J'ai suivi le texte de 1747,1748, etc.  B.
+
+
+
+CHAPITRE IX.
+
+La femme battue.
+
+
+Zadig dirigeait sa route sur les �toiles.  La constellation
+d'Orion et le brillant astre de Sirius le guidaient vers le
+port[1] de Canope.  Il admirait ces vastes globes de lumi�re qui
+ne paraissent que de faibles �tincelles � nos yeux, tandis que la
+terre, qui n'est en effet qu'un point imperceptible dans la
+nature, para�t � notre cupidit� quelque chose de si grand et de
+si noble.  Il se figurait alors les hommes tels qu'ils sont en
+effet, des insectes se d�vorant les uns les autres sur un petit
+atome de boue.  Cette image vraie semblait an�antir ses malheurs,
+en lui retra�ant le n�ant de son �tre et celui de Babylone.  Son
+�me s'�lan�ait jusque dans l'infini, et contemplait, d�tach�e de
+ses sens, l'ordre immuable de l'univers.  Mais lorsque ensuite,
+rendu � lui-m�me et rentrant dans son coeur, il pensait
+qu'Astart� �tait peut-�tre morte pour lui, l'univers
+disparaissait � ses yeux, et il ne voyait dans la nature enti�re
+qu'Astart� mourante et Zadig infortun�.  Comme il se livrait � ce
+flux et � ce reflux de philosophie sublime et de douleur
+accablante, il avan�ait vers les fronti�res de l'Egypte; et
+d�j� son domestique fid�le �tait dans la premi�re bourgade, o� il
+lui cherchait un logement.  Zadig cependant se promenait vers les
+jardins qui bordaient ce village.  Il vit, non loin du grand
+chemin, une femme �plor�e qui appelait le ciel et la terre � son
+secours, et un homme furieux qui la suivait.  Elle �tait d�j�
+atteinte par lui, elle embrassait ses genoux.  Cet homme
+l'accablait de coups et de reproches.  Il jugea, � la violence de
+l'Egyptien et aux pardons r�it�r�s que lui demandait la dame, que
+l'un �tait un jaloux, et l'autre une infid�le; mais quand il eut
+consid�r� cette femme, qui �tait d'une beaut� touchante, et qui
+m�me ressemblait un peu � la malheureuse Astart�, il se sentit
+p�n�tr� de compassion pour elle, et d'horreur pour l'�gyptien.
+Secourez-moi, s'�cria-t-elle � Zadig avec des sanglots; tirez-moi
+des mains du plus barbare des hommes, sauvez-moi la vie!  A ces
+cris, Zadig courut se jeter entre elle et ce barbare.  Il avait
+quelque connaissance de la langue �gyptienne.  Il lui dit en
+cette langue: Si vous avez quelque humanit�, je vous conjure de
+respecter la beaut� et la faiblesse.  Pouvez-vous outrager ainsi
+un chef-d'oeuvre de la nature, qui est � vos pieds, et qui n'a
+pour sa d�fense que des larmes? Ah! ah! lui dit cet emport�, tu
+l'aimes donc aussi! et c'est de toi qu'il faut que je me venge.
+En disant ces paroles, il laisse la dame, qu'il tenait d'une main
+par les cheveux, et, prenant sa lance, il veut en percer
+l'�tranger.  Celui-ci, qui �tait de sang-froid, �vita ais�ment le
+coup d'un furieux.  Il se saisit de la lance pr�s du fer dont
+elle est arm�e.  L'un veut la retirer, l'autre l'arracher.  Elle
+se brise entre leurs mains.  L'�gyptien tire son �p�e; Zadig
+s'arme de la sienne.  Ils s'attaquent l'un l'autre.  Celui-l�
+porte cent coups pr�cipit�s; celui-ci les pare avec adresse.  La
+dame, assise sur un gazon, rajuste sa coiffure, et les regarde.
+L'Egyptien �tait plus robuste que son adversaire, Zadig �tait
+plus adroit.  Celui-ci se battait en homme dont la t�te
+conduisait le bras, et celui-l� comme un emport� dont une col�re
+aveugle guidait les mouvements au hasard.  Zadig passe � lui, et
+le d�sarme; et tandis que l'Egyptien, devenu plus furieux, veut
+se jeter sur lui, il le saisit, le presse, le fait tomber en lui
+tenant l'�p�e sur la poitrine; il lui offre de lui donner la vie.
+L'Egyptien hors de lui tire son poignard; il en blesse Zadig dans
+le temps m�me que le vainqueur lui pardonnait.  Zadig indign� lui
+plonge son �p�e dans le sein.  L'Egyptien jette un cri horrible,
+et meurt en se d�battant.  Zadig alors s'avan�a vers la dame, et
+lui dit d'une voix soumise: Il m'a forc� de le tuer: je vous ai
+veng�e; vous �tes d�livr�e de l'homme le plus violent que j'aie
+jamais vu.  Que voulez-vous maintenant de moi, madame? Que tu
+meures, sc�l�rat, lui r�pondit-elle; que tu meures! tu as tu� mon
+amant; je voudrais pouvoir d�chirer ton coeur.  En v�rit�,
+madame, vous aviez l� un �trange homme pour amant, lui r�pondit
+Zadig; il vous battait de toutes ses forces, et il voulait
+m'arracher la vie parceque vous m'avez conjur� de vous secourir.
+Je voudrais qu'il me batt�t encore, reprit la dame en poussant
+des cris.  Je le m�ritais bien, je lui avais donn� de la
+jalousie.  Pl�t au ciel qu'il me batt�t, et que tu fusses � sa
+place! Zadig, plus surpris et plus en col�re qu'il ne l'avait �t�
+de sa vie, lui dit: Madame, toute belle que vous �tes, vous
+m�riteriez que je vous battisse � mon tour, tant vous �tes
+extravagante; mais je n'en prendrai pas la peine.  L�-dessus il
+remonta sur son chameau, et avan�a vers le bourg.  A peine
+avait-il fait quelques pas qu'il se retourne au bruit que
+fesaient quatre courriers de Babylone.  Ils venaient � toute
+bride.  L'un d'eux, en voyant cette femme, s'�cria: C'est
+elle-m�me! elle ressemble au portrait qu'on nous en a fait.  Ils
+ne s'embarrass�rent pas du mort, et se saisirent incontinent de
+la dame.  Elle ne cessait de crier � Zadig: Secourez-moi encore
+une fois, �tranger g�n�reux! je vous demande pardon de m'�tre
+plainte de vous: secourez-moi, et je suis � vous jusqu'au
+tombeau!  L'envie avait pass� � Zadig de se battre d�sormais pour
+elle.  A d'autres, r�pond-il; vous ne m'y attraperez plus.
+D'ailleurs il �tait bless�, son sang coulait, il avait besoin de
+secours; et la vue des quatre Babyloniens, probablement envoy�s
+par le roi Moabdar, le remplissait d'inqui�tude.  Il s'avance en
+h�te vers le village, n'imaginant pas pourquoi quatre courriers
+de Babylone venaient prendre cette Egyptienne, mais encore plus
+�tonn� du caract�re de cette dame.
+
+  [1] C'est d'apr�s un erratum manuscrit de feu Decroix que j'ai
+  mis _port_.  Les �ditions que j'ai vues portent toutes, sans
+  exception, le _p�le de Canope_.  Voltaire a dit, dans le
+  chapitre V du Taureau blanc (tome XXXIV): _Je m'en vais aupr�s
+  du lac de Sirbon, par Canope_.  B.
+
+
+
+CHAPITRE X.
+
+L'esclavage.
+
+
+Comme il entrait dans la bourgade �gyptienne, il se vit entour�
+par le peuple.  Chacun criait: Voil� celui qui a enlev� la belle
+Missouf, et qui vient d'assassiner Cl�tofis! Messieurs, dit-il,
+Dieu me pr�serve d'enlever jamais votre belle Missouf! elle est
+trop capricieuse; et, � l'�gard de Cl�tofis, je ne l'ai point
+assassin�; je me suis d�fendu seulement contre lui.  Il voulait
+me tuer, parceque je lui avais demand� tr�s humblement gr�ce pour
+la belle Missouf, qu'il battait impitoyablement.  Je suis un
+�tranger qui vient chercher un asile dans l'Egypte; et il n'y a
+pas d'apparence qu'en venant demander votre protection, j'aie
+commenc� par enlever une femme, et par assassiner un homme.
+
+Les Egyptiens �taient alors justes et humains.  Le peuple
+conduisit Zadig � la maison de ville.  On commen�a par le faire
+panser de sa blessure, et ensuite on l'interrogea, lui et son
+domestique s�par�ment, pour savoir la v�rit�.  On reconnut que
+Zadig n'�tait point un assassin; mais il �tait coupable du sang
+d'un homme: la loi le condamnait � �tre esclave.  On vendit au
+profit de la bourgade ses deux chameaux; on distribua aux
+habitants tout l'or qu'il avait apport�; sa personne fut expos�e
+en vente dans la place publique, ainsi que celle de son compagnon
+de voyage.  Un marchand arabe, nomm� S�toc, y mit l'ench�re; mais
+le valet, plus propre � la fatigue, fut vendu bien plus ch�rement
+que le ma�tre.  On ne fesait pas de comparaison entre ces deux
+hommes.  Zadig fut donc esclave subordonn� � son valet: on les
+attacha ensemble avec une cha�ne qu'on leur passa aux pieds, et
+en cet �tat ils suivirent le marchand arabe dans sa maison.
+Zadig, en chemin, consolait son domestique, et l'exhortait � la
+patience; mais, selon sa coutume, il fesait des r�flexions sur la
+vie humaine.  Je vois, lui disait-il, que les malheurs de ma
+destin�e se r�pandent sur la tienne.  Tout m'a tourn� jusqu'ici
+d'une fa�on bien �trange.  J'ai �t� condamn� � l'amende pour
+avoir vu passer une chienne; j'ai pens� �tre empal� pour un
+griffon; j'ai �t� envoy� au supplice parceque j'avais fait des
+vers � la louange du roi; j'ai �t� sur le point d'�tre �trangl�
+parceque la reine avait des rubans jaunes, et me voici esclave
+avec toi parcequ'un brutal a battu sa ma�tresse.  Allons, ne
+perdons point courage; tout ceci finira peut-�tre; il faut bien
+que les marchands arabes aient des esclaves; et pourquoi ne le
+serais-je pas comme un autre, puisque je suis homme comme un
+autre? Ce marchand ne sera pas impitoyable; il faut qu'il traite
+bien ses esclaves, s'il en veut tirer des services.  Il parlait
+ainsi, et dans le fond de son coeur il �tait occup� du sort de la
+reine de Babylone.
+
+S�toc, le marchand, partit deux jours apr�s pour l'Arabie d�serte
+avec ses esclaves et ses chameaux.  Sa tribu habitait vers le
+d�sert d'Horeb.  Le chemin fut long et p�nible.  S�toc, dans la
+route, fesait bien plus de cas du valet que du ma�tre, parceque
+le premier chargeait bien mieux les chameaux; et toutes les
+petites distinctions furent pour lui.  Un chameau mourut � deux
+journ�es d'Horeb: on r�partit sa charge sur le dos de chacun des
+serviteurs; Zadig en eut sa part.  S�toc se mit � rire en voyant
+tous ses esclaves marcher courb�s.  Zadig prit la libert� de lui
+en expliquer la raison, et lui apprit les lois de l'�quilibre.
+Le marchand �tonn� commen�a � le regarder d'un autre oeil.
+Zadig, voyant qu'il avait excit� sa curiosit�, la redoubla en lui
+apprenant beaucoup de choses qui n'�taient point �trang�res � son
+commerce; les pesanteurs sp�cifiques des m�taux et des denr�es
+sous un volume �gal; les propri�t�s de plusieurs animaux utiles;
+le moyen de rendre tels ceux qui ne l'�taient pas; enfin il lui
+parut un sage.  S�toc lui donna la pr�f�rence sur son camarade,
+qu'il avait tant estim�.  Il le traita bien, et n'eut pas sujet
+de s'en repentir.
+
+Arriv� dans sa tribu, S�toc commen�a par redemander cinq cents
+onces d'argent � un H�breu auquel il les avait pr�t�es en
+pr�sence de deux t�moins; mais ces deux t�moins �taient morts, et
+l'H�breu, ne pouvant �tre convaincu, s'appropriait l'argent du
+marchand, en remerciant Dieu de ce qu'il lui avait donn� le moyen
+de tromper un Arabe.  S�toc confia sa peine � Zadig, qui �tait
+devenu son conseil.  En quel endroit, demanda Zadig,
+pr�t�tes-vous vos cinq cents onces � cet infid�le? Sur une large
+pierre, r�pondit le marchand, qui est aupr�s du mont Horeb.  Quel
+est le caract�re de votre d�biteur? dit Zadig.  Celui d'un
+fripon, reprit S�toc.  Mais je vous demande si c'est un homme vif
+ou flegmatique, avis� ou imprudent.  C'est de tous les mauvais
+payeurs, dit S�toc, le plus vif que je connaisse.  Eh bien!
+insista Zadig, permettez que je plaide votre cause devant le
+juge.  En effet il cita l'H�breu au tribunal, et il parla ainsi
+au juge: Oreiller du tr�ne d'�quit�, je viens redemander � cet
+homme, au nom de mon ma�tre, cinq cents onces d'argent qu'il ne
+veut pas rendre.  Avez-vous des t�moins?  dit le juge.  Non, ils
+sont morts; mais il reste une large pierre sur laquelle l'argent
+fut compt�; et s'il pla�t � votre grandeur d'ordonner qu'on aille
+chercher la pierre, j'esp�re qu'elle portera t�moignage; nous
+resterons ici l'H�breu et moi, en attendant que la pierre vienne;
+je l'enverrai chercher aux d�pens de S�toc, mon ma�tre.  Tr�s
+volontiers, r�pondit le juge; et il se mit � exp�dier d'autres
+affaires.
+
+A la fin de l'audience: Eh bien! dit-il � Zadig, votre pierre
+n'est pas encore venue? L'H�breu, en riant, r�pondit: Votre
+grandeur resterait ici jusqu'� demain que la pierre ne serait pas
+encore arriv�e; elle est � plus de six milles d'ici, et il
+faudrait quinze hommes pour la remuer.  Eh bien! s'�cria Zadig,
+je vous avais bien dit que la pierre porterait t�moignage;
+puisque cet homme sait o� elle est, il avoue donc que c'est sur
+elle que l'argent fut compt�.  L'H�breu d�concert� fut bient�t
+contraint de tout avouer.  Le juge ordonna qu'il serait li� � la
+pierre, sans boire ni manger, jusqu'� ce qu'il e�t rendu les cinq
+cents onces, qui furent bient�t pay�es.
+
+L'esclave Zadig et la pierre furent en grande recommandation dans
+l'Arabie.
+
+
+
+CHAPITRE XI.
+
+Le b�cher.
+
+
+S�toc enchant� fit de son esclave son ami intime.  Il ne pouvait
+pas plus se passer de lui qu'avait fait le roi de Babylone; et
+Zadig fut heureux que S�toc n'e�t point de femme.  Il d�couvrait
+dans son ma�tre un naturel port� au bien, beaucoup de droiture et
+de bon sens.  Il fut f�ch� de voir qu'il adorait l'arm�e c�leste,
+c'est-�-dire le soleil, la lune, et les �toiles, selon l'ancien
+usage d'Arabie.  Il lui en parlait quelquefois avec beaucoup de
+discr�tion.  Enfin il lui dit que c'�taient des corps comme les
+autres, qui ne m�ritaient pas plus son hommage qu'un arbre ou un
+rocher.  Mais, disait S�toc, ce sont des �tres �ternels dont nous
+tirons tous nos avantages; ils animent la nature; ils r�glent les
+saisons; ils sont d'ailleurs si loin de nous qu'on ne peut pas
+s'emp�cher de les r�v�rer.  Vous recevez plus d'avantages,
+r�pondit Zadig, des eaux de la mer Rouge, qui porte vos
+marchandises aux Indes.  Pourquoi ne serait-elle pas aussi
+ancienne que les �toiles? Et si vous adorez ce qui est �loign� de
+vous, vous devez adorer la terre des Gangarides, qui est aux
+extr�mit�s du monde.  Non, disait S�toc, les �toiles sont trop
+brillantes pour que je ne les adore pas.  Le soir venu, Zadig
+alluma un grand nombre de flambeaux dans la tente o� il devait
+souper avec S�toc; et d�s que son patron parut, il se jeta �
+genoux devant ces cires allum�es, et leur dit: �ternelles et
+brillantes clart�s, soyez-moi toujours propices!  Ayant prof�r�
+ces paroles, il se mit � table sans regarder S�toc.  Que
+faites-vous donc? lui dit S�toc �tonn�.  Je fais comme vous,
+r�pondit Zadig; j'adore ces chandelles, et je n�glige leur ma�tre
+et le mien.  S�toc comprit le sens profond de cet apologue.  La
+sagesse de son esclave entra dans son �me; il ne prodigua plus
+son encens aux cr�atures, et adora l'Etre �ternel qui les a
+faites.
+
+Il y avait alors dans l'Arabie une coutume affreuse, venue
+originairement de Scythie, et qui, s'�tant �tablie dans les Indes
+par le cr�dit des brachmanes, mena�ait d'envahir tout l'orient.
+Lorsqu'un homme mari� �tait mort, et que sa femme bien-aim�e
+voulait �tre sainte, elle se br�lait en public sur le corps de
+son mari.  C'�tait une f�te solennelle qui s'appelait le _b�cher
+du veuvage_.  La tribu dans laquelle il y avait eu le plus de
+femmes br�l�es �tait la plus consid�r�e.  Un Arabe de la tribu de
+S�toc �tant mort, sa veuve, nomm�e _Almona_, qui �tait fort
+d�vote, fit savoir le jour et l'heure o� elle se jetterait dans
+le feu au son des tambours et des trompettes.  Zadig remontra �
+S�toc combien cette horrible coutume �tait contraire au bien du
+genre humain; qu'on laissait br�ler tous les jours de jeunes
+veuves qui pouvaient donner des enfants � l'�tat, ou du moins
+�lever les leurs; et il le fit convenir qu'il fallait, si on
+pouvait, abolir un usage si barbare.  S�toc r�pondit: Il y a plus
+de mille ans que les femmes sont en possession de se br�ler.  Qui
+de nous osera changer une loi que le temps a consacr�e? Y a-t-il
+rien de plus respectable qu'un ancien abus? La raison est plus
+ancienne, reprit Zadig.  Parlez aux chefs des tribus, et je vais
+trouver la jeune veuve.
+
+Il se fit pr�senter � elle; et apr�s s'�tre insinu� dans son
+esprit par des louanges sur sa beaut�, apr�s lui avoir dit
+combien c'�tait dommage de mettre au feu tant de charmes, il la
+loua encore sur sa constance et sur son courage.  Vous aimiez
+donc prodigieusement votre mari? lui dit-il.  Moi? point du tout,
+r�pondit la dame arabe.  C'�tait un brutal, un jaloux, un homme
+insupportable; mais je suis fermement r�solue de me jeter sur son
+b�cher.  Il faut, dit Zadig, qu'il y ait apparemment un plaisir
+bien d�licieux � �tre br�l�e vive.  Ah! cela fait fr�mir la
+nature, dit la dame; mais il faut en passer par l�.  Je suis
+d�vote; je serais perdue de r�putation, et tout le monde se
+moquerait de moi si je ne me br�lais pas.  Zadig, l'ayant fait
+convenir qu'elle se br�lait pour les autres et par vanit�, lui
+parla long-temps d'une mani�re � lui faire aimer un peu la vie,
+et parvint m�me � lui inspirer quelque bienveillance pour celui
+qui lui parlait.  Que feriez-vous enfin, lui dit-il, si la vanit�
+de vous br�ler ne vous tenait pas? H�las! dit la dame, je crois
+que je vous prierais de m'�pouser.
+
+Zadig �tait trop rempli de l'id�e d'Astart� pour ne pas �luder
+cette d�claration; mais il alla dans l'instant trouver les chefs
+des tribus, leur dit ce qui s'�tait pass�, et leur conseilla de
+faire une loi par laquelle il ne serait permis � une veuve de se
+br�ler qu'apr�s avoir entretenu un jeune homme t�te � t�te
+pendant une heure enti�re.  Depuis ce temps, aucune dame ne se
+br�la en Arabie.  On eut au seul Zadig l'obligation d'avoir
+d�truit en un jour une coutume si cruelle, qui durait depuis tant
+de si�cles.  Il �tait donc le bienfaiteur de l'Arabie.
+
+
+
+CHAPITRE XII.
+
+Le souper.
+
+
+S�toc, qui ne pouvait se s�parer de cet homme en qui habitait la
+sagesse, le mena � la grande foire de Bassora, o� devaient se
+rendre les plus grands n�gociants de la terre habitable.  Ce fut
+pour Zadig une consolation sensible de voir tant d'hommes de
+diverses contr�es r�unis dans la m�me place.  Il lui paraissait
+que l'univers �tait une grande famille qui se rassemblait �
+Bassora.  Il se trouva � table d�s le second jour avec un
+Egyptien, un Indien gangaride, un habitant du Cathay, un Grec, un
+Celte, et plusieurs autres �trangers qui, dans leurs fr�quents
+voyages vers le golfe Arabique, avaient appris assez d'arabe pour
+se faire entendre.  L'Egyptien paraissait fort en col�re.  Quel
+abominable pays que Bassora! disait-il; on m'y refuse mille onces
+d'or sur le meilleur effet du monde.  Comment donc, dit S�toc,
+sur quel effet vous a-t-on refus� cette somme? Sur le corps de ma
+tante, r�pondit l'�gyptien; c'�tait la plus brave femme d'Egypte.
+Elle m'accompagnait toujours; elle est morte en chemin; j'en ai
+fait une des plus belles momies que nous ayons; et je trouverais
+dans mon pays tout ce que je voudrais en la mettant en gage.  Il
+est bien �trange qu'on ne veuille pas seulement me donner ici
+mille onces d'or sur un effet si solide.  Tout en se courrou�ant,
+il �tait pr�t de manger d'une excellente poule bouillie, quand
+l'Indien, le prenant par la main, s'�cria avec douleur: Ah!
+qu'allez-vous faire?  Manger de cette poule, dit l'homme � la
+momie.  Gardez-vous-en bien, dit le Gangaride; il se pourrait
+faire que l'�me de la d�funte f�t pass�e dans le corps de cette
+poule, et vous ne voudriez pas vous exposer � manger votre tante.
+Faire cuire des poules, c'est outrager manifestement la nature.
+Que voulez-vous dire avec votre nature et vos poules?  reprit le
+col�rique Egyptien; nous adorons un boeuf, et nous en mangeons
+bien.  Vous adorez un boeuf! est-il possible?  dit l'homme du
+Gange.  Il n'y a rien de si possible, repartit l'autre; il y a
+cent trente-cinq mille ans que nous en usons ainsi, et personne
+parmi nous n'y trouve � redire.  Ah! cent trente-cinq mille ans!
+dit l'Indien, ce compte est un peu exag�r�; il n'y en a que
+quatre-vingt mille que l'Inde est peupl�e, et assur�ment nous
+sommes vos anciens; et Brama nous avait d�fendu de manger des
+boeufs avant que vous vous fussiez avis�s de les mettre sur les
+autels et � la broche.  Voil� un plaisant animal que votre Brama,
+pour le comparer � Apis! dit l'Egyptien; qu'a donc fait votre
+Brama de si beau?  Le bramin r�pondit: C'est lui qui a appris aux
+hommes � lire et � �crire, et � qui toute la terre doit le jeu
+des �checs.  Vous vous trompez, dit un Chald�en qui �tait aupr�s
+de lui; c'est le poisson Oann�s � qui on doit de si grands
+bienfaits, et il est juste de ne rendre qu'� lui ses hommages.
+Tout le monde vous dira que c'�tait un �tre divin, qu'il avait la
+queue dor�e, avec une belle t�te d'homme, et qu'il sortait de
+l'eau pour venir pr�cher � terre trois heures par jour.  Il eut
+plusieurs enfants qui furent tous rois, comme chacun sait.  J'ai
+son portrait chez moi, que je r�v�re comme je le dois.  On peut
+manger du boeuf tant qu'on veut; mais c'est assur�ment une tr�s
+grande impi�t� de faire cuire du poisson; d'ailleurs vous �tes
+tous deux d'une origine trop peu noble et trop r�cente pour me
+rien disputer.  La nation �gyptienne ne compte que cent
+trente-cinq mille ans, et les Indiens ne se vantent que de
+quatre-vingt mille, tandis que nous avons des almanachs de quatre
+mille si�cles.  Croyez-moi, renoncez � vos folies, et je vous
+donnerai � chacun un beau portrait d'Oann�s.
+
+L'homme de Cambalu, prenant la parole, dit: Je respecte fort les
+Egyptiens, les Chald�ens, les Grecs, les Celtes, Brama, le boeuf
+Apis, le beau poisson Oann�s; mais peut-�tre que le Li ou le
+Tien[a], comme on voudra l'appeler, vaut bien les boeufs et les
+poissons.  Je ne dirai rien de mon pays; il est aussi grand que
+la terre d'Egypte, la Chald�e, et les Indes ensemble.  Je ne
+dispute pas d'antiquit�, parcequ'il suffit d'�tre heureux, et que
+c'est fort peu de chose d'�tre ancien; mais, s'il fallait parler
+d'almanachs, je dirais que toute l'Asie prend les n�tres, et que
+nous en avions de fort bons avant qu'on s�t l'arithm�tique en
+Chald�e.
+
+  [a] Mots chinois qui signifient proprement: _li_, la lumi�re
+  naturelle, la raison; et _tien_, le ciel; et qui signifient aussi
+  Dieu.
+
+Vous �tes de grands ignorants tous tant que vous �tes! s'�cria le
+Grec: est-ce que vous ne savez pas que le chaos est le p�re de
+tout, et que la forme et la mati�re ont mis le monde dans l'�tat
+o� il est?  Ce Grec parla long-temps; mais il fut enfin
+interrompu par le Celte, qui, ayant beaucoup bu pendant qu'on
+disputait, se crut alors plus savant que tous les autres, et dit
+en jurant qu'il n'y avait que Teutath et le gui de ch�ne qui
+valussent la peine qu'on en parl�t; que, pour lui, il avait
+toujours du gui dans sa poche; que les Scythes, ses anc�tres,
+�taient les seules gens de bien qui eussent jamais �t� au monde;
+qu'ils avaient, � la v�rit�, quelquefois mang� des hommes, mais
+que cela n'emp�chait pas qu'on ne d�t avoir beaucoup de respect
+pour sa nation; et qu'enfin, si quelqu'un parlait mal de Teutath,
+il lui apprendrait � vivre.  La querelle s'�chauffa pour lors, et
+S�toc vit le moment o� la table allait �tre ensanglant�e.  Zadig,
+qui avait gard� le silence pendant toute la dispute, se leva
+enfin: il s'adressa d'abord au Celte, comme au plus furieux; il
+lui dit qu'il avait raison, et lui demanda du gui; il loua le
+Grec sur son �loquence, et adoucit tous les esprits �chauff�s.
+Il ne dit que tr�s peu de chose � l'homme du Cathay, parcequ'il
+avait �t� le plus raisonnable de tous.  Ensuite il leur dit: Mes
+amis, vous alliez vous quereller pour rien, car vous �tes tous du
+m�me avis.  A ce mot, ils se r�cri�rent tous.  N'est-il pas vrai,
+dit-il au Celte, que vous n'adorez pas ce gui, mais celui qui a
+fait le gui et le ch�ne? Assur�ment, r�pondit le Celte.  Et vous,
+monsieur l'Egyptien, vous r�v�rez apparemment dans un certain
+boeuf celui qui vous a donn� les boeufs?  Oui, dit l'Egyptien.
+Le poisson Oann�s, continua-t-il, doit c�der � celui qui a fait
+la mer et les poissons.  D'accord, dit le Chald�en.  L'Indien,
+ajouta-t-il, et le Cathayen, reconnaissent comme vous un premier
+principe; je n'ai pas trop bien compris les choses admirables que
+le Grec a dites, mais je suis s�r qu'il admet aussi un Etre
+sup�rieur, de qui la forme et la mati�re d�pendent.  Le Grec
+qu'on admirait, dit que Zadig avait tr�s bien pris sa pens�e.
+Vous �tes donc tous de m�me avis, r�pliqua Zadig, et il n'y a pas
+l� de quoi se quereller.  Tout le monde l'embrassa.  S�toc, apr�s
+avoir vendu fort cher ses denr�es, reconduisit son ami Zadig dans
+sa tribu.  Zadig apprit en arrivant qu'on lui avait fait son
+proc�s en son absence, et qu'il allait �tre br�l� � petit feu.
+
+
+
+CHAPITRE XIII.
+
+Le rendez-vous.
+
+
+Pendant son voyage � Bassora, les pr�tres des �toiles avaient
+r�solu de le punir.  Les pierreries et les ornements des jeunes
+veuves qu'ils envoyaient au b�cher leur appartenaient de droit;
+c'�tait bien le moins qu'ils fissent br�ler Zadig pour le mauvais
+tour qu'il leur avait jou�.  Ils accus�rent donc Zadig d'avoir
+des sentiments erron�s sur l'arm�e c�leste; ils d�pos�rent contre
+lui, et jur�rent qu'ils lui avaient entendu dire que les �toiles
+ne se couchaient pas dans la mer.  Ce blasph�me effroyable
+fit fr�mir les juges; ils furent pr�ts de d�chirer leurs
+v�tements, quand ils ou�rent ces paroles impies, et ils
+l'auraient fait, sans doute, si Zadig avait eu de quoi les payer;
+mais, dans l'exc�s de leur douleur, ils se content�rent de le
+condamner � �tre br�l� � petit feu.  S�toc, d�sesp�r�, employa en
+vain son cr�dit pour sauver son ami; il fut bient�t oblig� de se
+taire.  La jeune veuve Almona, qui avait pris beaucoup de go�t �
+la vie, et qui en avait obligation � Zadig, r�solut de le tirer
+du b�cher, dont il lui avait fait conna�tre l'abus.  Elle roula
+son dessein dans sa t�te, sans en parler � personne.  Zadig
+devait �tre ex�cut� le lendemain; elle n'avait que la nuit pour
+le sauver: voici comme elle s'y prit en femme charitable et
+prudente.
+
+Elle se parfuma; elle releva sa beaut� par l'ajustement le plus
+riche et le plus galant, et alla demander une audience secr�te au
+chef des pr�tres des �toiles.  Quand elle fut devant ce vieillard
+v�n�rable, elle lui parla en ces termes: Fils a�n� de la grande
+Ourse, fr�re du Taureau, cousin du grand Chien (c'�taient les
+titres de ce pontife), je viens vous confier mes scrupules.  J'ai
+bien peur d'avoir commis un p�ch� �norme, en ne me br�lant pas
+dans le b�cher de mon cher mari.  En effet qu'avais-je �
+conserver? une chair p�rissable, et qui est d�j� toute fl�trie.
+En disant ces paroles elle tira de ses longues manches de soie,
+ses bras nus d'une forme admirable et d'une blancheur
+�blouissante.  Vous voyez, dit-elle, le peu que cela vaut.  Le
+pontife trouva dans son coeur que cela valait beaucoup.  Ses yeux
+le dirent, et sa bouche le confirma; il jura qu'il n'avait vu de
+sa vie de si beaux bras.  H�las! lui dit la veuve, les bras
+peuvent �tre un peu moins mal que le reste; mais vous m'avouerez
+que la gorge n'�tait pas digne de mes attentions.  Alors elle
+laissa voir le sein le plus charmant que la nature e�t jamais
+form�.  Un bouton de rose sur une pomme d'ivoire n'e�t paru
+aupr�s que de la garance sur du buis, et les agneaux sortant du
+lavoir auraient sembl� d'un jaune brun.  Cette gorge, ses grands
+yeux noirs qui languissaient en brillant doucement d'un feu
+tendre, ses joues anim�es de la plus belle pourpre m�l�e au blanc
+de lait le plus pur; son nez, qui n'�tait pas comme la tour du
+mont Liban; ses l�vres, qui �taient comme deux bordures de corail
+renfermant les plus belles perles de la mer d'Arabie, tout cela
+ensemble fit croire au vieillard qu'il avait vingt ans.  Il fit
+en b�gayant une d�claration tendre.  Almona le voyant enflamm�
+lui demanda la gr�ce de Zadig.  H�las! dit-il, ma belle dame,
+quand je vous accorderais sa gr�ce, mon indulgence ne servirait
+de rien; il faut qu'elle soit sign�e de trois autres de mes
+confr�res.  Signez toujours, dit Almona.  Volontiers, dit le
+pr�tre, � condition que vos faveurs seront le prix de ma
+facilit�.  Vous me faites trop d'honneur, dit Almona; ayez
+seulement pour agr�able de venir dans ma chambre apr�s que le
+soleil sera couch�, et d�s que la brillante �toile _Sheat_ sera
+sur l'horizon, vous me trouverez sur un sofa couleur de rose, et
+vous en userez comme vous pourrez avec votre servante.  Elle
+sortit alors, emportant avec elle la signature, et laissa le
+vieillard plein d'amour et de d�fiance de ses forces.  Il employa
+le reste du jour � se baigner; il but une liqueur compos�e de la
+cannelle de Ceylan, et des pr�cieuses �pices de Tidor et de
+Ternate, et attendit avec impatience que l'�toile _Sheat_ v�nt �
+para�tre.
+
+Cependant la belle Almona alla trouver le second pontife.
+Celui-ci l'assura que le soleil, la lune, et tous les feux du
+firmament, n'�taient que des feux follets en comparaison de ses
+charmes.  Elle lui demanda la m�me gr�ce, et on lui proposa d'en
+donner le prix.  Elle se laissa vaincre, et donna rendez-vous au
+second pontife au lever de l'�toile _Alg�nib_.  De l� elle passa
+chez le troisi�me et chez le quatri�me pr�tre, prenant toujours
+une signature, et donnant un rendez-vous d'�toile en �toile.
+Alors elle fit avertir les juges de venir chez elle pour une
+affaire importante.  Ils s'y rendirent: elle leur montra les
+quatre noms, et leur dit � quel prix les pr�tres avaient vendu la
+gr�ce de Zadig.  Chacun d'eux arriva � l'heure prescrite; chacun
+fut bien �tonn� d'y trouver ses confr�res, et plus encore d'y
+trouver les juges devant qui leur honte fut manifest�e.  Zadig
+fut sauv�.  S�toc fut si charm� de l'habilet� d'Almona, qu'il en
+fit sa femme [1].
+
+  [1] Dans l'�dition de 1748 et dans toutes celles qui l'ont
+  suivie, jusques � l'�dition de Kehl exclusivement, ce chapitre
+  se terminait ainsi: �Zadig partit apr�s s'�tre jet� aux pieds
+  de sa belle lib�ratrice.  S�toc et lui se quitt�rent en
+  pleurant, en se jurant une amiti� �ternelle, et en se
+  promettant que le premier des deux qui ferait une grande
+  fortune en ferait part � l'autre.
+
+  �Zadig marcha du c�t� de la Syrie, toujours pensant � la
+  malheureuse Astart�,et toujours r�fl�chissant sur le sort qui
+  s'obstinait � se jouer de lui et � le pers�cuter.  Quoi!
+  disait-il, quatre cents onces d'or pour avoir vu passer une
+  chienne! condamn� � �tre d�capit� pour quatre mauvais vers � la
+  louange du roi! pr�t � �tre �trangl� parceque la reine avait
+  des babouches de la couleur de mon bonnet!  r�duit en esclavage
+  pour avoir secouru une femme qu'on battait; et sur le point
+  d'�tre br�l� pour avoir sauv� la vie � toutes les jeunes veuves
+  arabes!�
+
+  Venait ensuite ce qui forme aujourd'hui le chapitre XVI.  B.
+
+
+
+CHAPITRE XIV.
+
+La danse.
+
+
+S�toc devait aller, pour les affaires de son commerce, dans l'�le
+de Serendib; mais le premier mois de son mariage, qui est, comme
+on sait, la lune du Miel, ne lui permettait ni de quitter sa
+femme, ni de croire qu'il p�t jamais la quitter: il pria son ami
+Zadig de faire pour lui le voyage.  H�las! disait Zadig, faut-il
+que je mette encore un plus vaste espace entre la belle Astart�
+et moi? mais il faut servir mes bienfaiteurs: il dit, il pleura;
+et il partit.
+
+Il ne fut pas long-temps dans l'�le de Serendib, sans y �tre
+regard� comme un homme extraordinaire.  Il devint l'arbitre de
+tous les diff�rents entre les n�gociants, l'ami des sages, le
+conseil du petit nombre de gens qui prennent conseil.  Le roi
+voulut le voir et l'entendre.  Il connut bient�t tout ce que
+valait Zadig; il eut confiance en sa sagesse, et en fit son ami.
+La familiarit� et l'estime du roi fit trembler Zadig.  Il �tait
+nuit et jour p�n�tr� du malheur que lui avaient attir� les bont�s
+de Moabdar.  Je plais au roi, disait-il, ne serai-je pas perdu?
+Cependant il ne pouvait se d�rober aux caresses de sa majest�;
+car il faut avouer que Nabussan, roi de Serendib, fils de
+Nussanab, fils de Nabassun, fils de Sanbusna, �tait un des
+meilleurs princes de l'Asie; et quand on lui parlait il �tait
+difficile de ne le pas aimer.
+
+
+Ce bon prince �tait toujours lou�, tromp�, et vol�: c'�tait � qui
+pillerait ses tr�sors.  Le receveur-g�n�ral de l'�le de Serendib
+donnait toujours cet exemple fid�lement suivi par les autres.  Le
+roi le savait; il avait chang� de tr�sorier plusieurs fois; mais
+il n'avait pu changer la mode �tablie de partager les revenus du
+roi en deux moiti�s in�gales, dont la plus petite revenait
+toujours � sa majest�, et la plus grosse aux administrateurs.
+
+Le roi Nabussan confia sa peine au sage Zadig.  Vous qui savez
+tant de belles choses, lui dit-il, ne sauriez-vous pas le moyen
+de me faire trouver un tr�sorier qui ne me vole point?
+Assur�ment, r�pondit Zadig, je sais une fa�on infaillible de vous
+donner un homme qui ait les mains nettes.  Le roi charm� lui
+demanda, en l'embrassant, comment il fallait s'y prendre.  Il n'y
+a, dit Zadig, qu'� faire danser tous ceux qui se pr�senteront
+pour la dignit� de tr�sorier, et celui qui dansera avec le plus
+de l�g�ret� sera infailliblement le plus honn�te homme.  Vous
+vous moquez, dit le roi; voil� une plaisante fa�on de choisir un
+receveur de mes finances! Quoi! vous pr�tendez que celui qui fera
+le mieux un entrechat sera le financier le plus int�gre et le
+plus habile! Je ne vous r�ponds pas qu'il sera le plus habile,
+repartit Zadig; mais je vous assure que ce sera indubitablement
+le plus honn�te homme.  Zadig parlait avec tant de confiance, que
+le roi crut qu'il avait quelque secret surnaturel pour conna�tre
+les financiers.  Je n'aime pas le surnaturel, dit Zadig; les gens
+et les livres � prodiges m'ont toujours d�plu: si votre majest�
+veut me laisser faire l'�preuve que je lui propose, elle sera
+bien convaincue que mon secret est la chose la plus simple et la
+plus ais�e.  Nabussan, roi de Serendib, fut bien plus �tonn�
+d'entendre que ce secret �tait simple, que si on le lui avait
+donn� pour un miracle: Or bien, dit-il, faites comme vous
+l'entendrez.  Laissez-moi faire, dit Zadig, vous gagnerez � cette
+�preuve plus que vous ne pensez.  Le jour m�me il fit publier, au
+nom du roi, que tous ceux qui pr�tendaient � l'emploi de haut
+receveur des deniers de sa gracieuse majest� Nabussan, fils de
+Nussanab, eussent � se rendre, en habits de soie l�g�re, le
+premier de la lune du Crocodile, dans l'antichambre du roi.  Ils
+s'y rendirent au nombre de soixante et quatre.  On avait fait
+venir des violons dans un salon voisin; tout �tait pr�par� pour
+le bal; mais la porte de ce salon �tait ferm�e, et il fallait,
+pour y entrer, passer par une petite galerie assez obscure.  Un
+huissier vint chercher et introduire chaque candidat, l'un apr�s
+l'autre, par ce passage dans lequel on le laissait seul quelques
+minutes.  Le roi, qui avait le mot, avait �tal� tous ses tr�sors
+dans cette galerie.  Lorsque tous les pr�tendants furent arriv�s
+dans le salon, sa majest� ordonna qu'on les f�t danser.  Jamais
+on ne dansa plus pesamment et avec moins de gr�ce; ils avaient
+tous la t�te baiss�e, les reins courb�s, les mains coll�es �
+leurs c�t�s? Quels fripons! disait tout bas Zadig.  Un seul
+d'entre eux formait des pas avec agilit�, la t�te haute, le
+regard assur�, les bras �tendus, le corps droit, le jarret ferme.
+Ah! l'honn�te homme! le brave homme!  disait Zadig.  Le roi
+embrassa ce bon danseur, le d�clara tr�sorier, et tous les autres
+furent punis et tax�s avec la plus grande justice du monde; car
+chacun, dans le temps qu'il avait �t� dans la galerie, avait
+rempli ses poches, et pouvait � peine marcher.  Le roi fut f�ch�
+pour la nature humaine que de ces soixante et quatre danseurs il
+y e�t soixante et trois filous.  La galerie obscure fut appel�e
+_le corridor de la Tentation_.  On aurait en Perse empal� ces
+soixante et trois seigneurs; en d'autres pays on e�t fait une
+chambre de justice qui e�t consomm� en frais le triple de
+l'argent vol�, et qui n'e�t rien remis dans les coffres du
+souverain; dans un autre royaume, ils se seraient pleinement
+justifi�s, et auraient fait disgracier ce danseur si l�ger: �
+Serendib, ils ne furent condamn�s qu'� augmenter le tr�sor
+public, car Nabussan �tait fort indulgent.
+
+Il �tait aussi fort reconnaissant; il donna � Zadig une somme
+d'argent plus consid�rable qu'aucun tr�sorier n'en avait jamais
+vol� au roi son ma�tre.  Zadig s'en servit pour envoyer des
+expr�s � Babylone, qui devaient l'informer de la destin�e
+d'Astart�.  Sa voix trembla en donnant cet ordre, son sang reflua
+vers son coeur, ses yeux se couvrirent de t�n�bres, son �me fut
+pr�te � l'abandonner.  Le courrier partit, Zadig le vit
+embarquer; il rentra chez le roi, ne voyant personne, croyant
+�tre dans sa chambre, et pronon�ant le nom d'amour.  Ah! l'amour,
+dit le roi; c'est pr�cis�ment ce dont il s'agit; vous avez devin�
+ce qui fait ma peine.  Que vous �tes un grand homme!  j'esp�re
+que vous m'apprendrez � conna�tre une femme � toute �preuve,
+comme vous m'avez fait trouver un tr�sorier d�sint�ress�.  Zadig,
+ayant repris ses sens, lui promit de le servir en amour comme en
+finance, quoique la chose par�t plus difficile encore.
+
+
+
+CHAPITRE XV.
+
+Les yeux bleus.
+
+
+Le corps et le coeur, dit le roi � Zadig....  A ces mots le
+Babylonien ne put s'emp�cher d'interrompre sa majest�.  Que je
+vous sais bon gr�, dit-il, de n'avoir point dit l'esprit et le
+coeur! car on n'entend que ces mots dans les conversations de
+Babylone: on ne voit que des livres o� il est question du coeur
+et de l'esprit[1], compos�s par des gens qui n'ont ni de l'un ni
+de l'autre; mais, de gr�ce, sire, poursuivez.  Nabussan continua
+ainsi: Le corps et le coeur sont chez moi destin�s � aimer; la
+premi�re de ces deux puissances a tout lieu d'�tre satisfaite.
+J'ai ici cent femmes � mon service, toutes belles, complaisantes,
+pr�venantes, voluptueuses m�me, ou feignant de l'�tre avec moi.
+Mon coeur n'est pas � beaucoup pr�s si heureux.  Je n'ai que trop
+�prouv� qu'on caresse beaucoup le roi de Serendib, et qu'on se
+soucie fort peu de Nabussan.  Ce n'est pas que je croie mes
+femmes infid�les; mais je voudrais trouver une �me qui f�t � moi;
+je donnerais pour un pareil tr�sor les cent beaut�s dont je
+poss�de les charmes: voyez si, sur ces cent sultanes, vous pouvez
+m'en trouver une dont je sois s�r d'�tre aim�.
+
+  [1] Ce trait porte surtout contre Rollin, qui emploie souvent
+  ces expressions dans son _Trait� des �tudes_.  Voltaire y
+  revient souvent: voyez, dans le pr�sent volume, le chapitre I
+  de _Microm�gas_, et dans le tome XXXIV, le chapitre XI de
+  l'_Homme aux quarante �cus_, le chapitre IX du _Taureau blanc_;
+  et tome XI, le second vers du chant VIII de _la Pucelle_.  B.
+
+Zadig lui r�pondit comme il avait fait sur l'article des
+financiers: Sire, laissez-moi faire; mais permettez d'abord que
+je dispose de ce que vous aviez �tal� dans la galerie de la
+Tentation; je vous en rendrai bon compte, et vous n'y perdrez
+rien.  Le roi le laissa le ma�tre absolu.  Il choisit dans
+Serendib trente-trois petits bossus des plus vilains qu'il put
+trouver, trente-trois pages des plus beaux, et trente-trois
+bonzes des plus �loquents et des plus robustes.  Il leur laissa �
+tous la libert� d'entrer dans les cellules des sultanes; chaque
+petit bossu eut quatre mille pi�ces d'or � donner; et d�s le
+premier jour tous les bossus furent heureux.  Les pages, qui
+n'avaient rien � donner qu'eux-m�mes, ne triomph�rent qu'au bout
+de deux ou trois jours.  Les bonzes eurent un peu plus de peine;
+mais enfin trente-trois d�votes se rendirent � eux.  Le roi, par
+des jalousies qui avaient vue sur toutes les cellules, vit toutes
+ces �preuves, et fut �merveill�.  De ses cent femmes,
+quatre-vingt-dix-neuf succomb�rent � ses yeux.  Il en restait une
+toute jeune, toute neuve, de qui sa majest� n'avait jamais
+approch�.  On lui d�tacha un, deux, trois bossus, qui lui
+offrirent jusqu'� vingt mille pi�ces; elle fut incorruptible, et
+ne put s'emp�cher de rire de l'id�e qu'avaient ces bossus de
+croire que de l'argent les rendrait mieux faits.  On lui pr�senta
+les deux plus beaux pages; elle dit qu'elle trouvait le roi
+encore plus beau.  On lui l�cha le plus �loquent des bonzes, et
+ensuite le plus intr�pide; elle trouva le premier un bavard, et
+ne daigna pas m�me soup�onner le m�rite du second.  Le coeur fait
+tout, disait-elle; je ne c�derai jamais ni � l'or d'un bossu, ni
+aux gr�ces d'un jeune homme, ni aux s�ductions d'un bonze:
+j'aimerai uniquement Nabussan, fils de Nussanab, et j'attendrai
+qu'il daigne m'aimer.  Le roi fut transport� de joie,
+d'�tonnement, et de tendresse.  Il reprit tout l'argent qui avait
+fait r�ussir les bossus, et en fit pr�sent � la belle Falide;
+c'�tait le nom de cette jeune personne.  Il lui donna son coeur:
+elle le m�ritait bien.  Jamais la fleur de la jeunesse ne fut si
+brillante; jamais les charmes de la beaut� ne furent si
+enchanteurs.  La v�rit� de l'histoire ne permet pas de taire
+qu'elle fesait mal la r�v�rence, mais elle dansait comme les
+f�es, chantait comme les sir�nes, et parlait comme les Gr�ces:
+elle �tait pleine de talents et de vertus.
+
+Nabussan aim� l'adora: mais elle avait les yeux bleus, et ce fut
+la source des plus grands malheurs.  Il y avait une ancienne loi
+qui d�fendait aux rois d'aimer une de ces femmes que les Grecs
+ont appel�es depuis <bo_o^pis>.  Le chef des bonzes avait �tabli
+cette loi il y avait plus de cinq mille ans; c'�tait pour
+s'approprier la ma�tresse du premier roi de l'�le de Serendib que
+ce premier bonze avait fait passer l'anath�me des yeux bleus en
+constitution fondamentale d'�tat.  Tous les ordres de l'empire
+vinrent faire � Nabussan des remontrances.  On disait
+publiquement que les derniers jours du royaume �taient arriv�s,
+que l'abomination �tait � son comble, que toute la nature �tait
+menac�e d'un �v�nement sinistre; qu'en un mot Nabussan, fils de
+Nussanab, aimait deux grands yeux bleus.  Les bossus, les
+financiers, les bonzes, et les brunes, remplirent le royaume de
+leurs plaintes.
+
+Les peuples sauvages qui habitent le nord de Serendib profit�rent
+de ce m�contentement g�n�ral.  Ils firent une irruption dans les
+�tats du bon Nabussan.  Il demanda des subsides � ses sujets; les
+bonzes, qui poss�daient la moiti� des revenus de l'�tat, se
+content�rent de lever les mains au ciel, et refus�rent de les
+mettre dans leurs coffres pour aider le roi.  Ils firent de
+belles pri�res en musique, et laiss�rent l'�tat en proie aux
+barbares.
+
+O mon cher Zadig, me tireras-tu encore de cet horrible embarras?
+s'�cria douloureusement Nabussan.  Tr�s volontiers, r�pondit
+Zadig; vous aurez de l'argent des bonzes tant que vous en
+voudrez.  Laissez � l'abandon les terres o� sont situ�s leurs
+ch�teaux, et d�fendez seulement les v�tres.  Nabussan n'y manqua
+pas: les bonzes vinrent se jeter aux pieds du roi, et implorer
+son assistance.  Le roi leur r�pondit par une belle musique dont
+les paroles �taient des pri�res au ciel pour la conservation de
+leurs terres.  Les bonzes enfin donn�rent de l'argent, et le roi
+finit heureusement la guerre.  Ainsi Zadig, par ses conseils
+sages et heureux, et par les plus grands services, s'�tait attir�
+l'irr�conciliable inimiti� des hommes les plus puissants de
+l'�tat; les bonzes et les brunes jur�rent sa perte; les
+financiers et les bossus ne l'�pargn�rent pas; on le rendit
+suspect au bon Nabussan.  Les services rendus restent souvent
+dans l'antichambre, et les soup�ons entrent dans le cabinet,
+selon la sentence de Zoroastre: c'�tait tous les jours de
+nouvelles accusations; la premi�re est repouss�e, la seconde
+effleure, la troisi�me blesse, la quatri�me tue.
+
+Zadig intimid�, qui avait bien fait les affaires de son ami
+S�toc, et qui lui avait fait tenir son argent, ne songea plus
+qu'� partir de l'�le, et r�solut d'aller lui-m�me chercher des
+nouvelles d'Astart�; car, disait-il, si je reste dans Serendib,
+les bonzes me feront empaler; mais o� aller? je serai esclave en
+Egypte, br�l� selon toutes les apparences en Arabie, �trangl� �
+Babylone.  Cependant il faut savoir ce qu'Astart� est devenue:
+partons, et voyons � quoi me r�serve ma triste destin�e.
+
+
+
+CHAPITRE XVI.
+
+Le brigand.
+
+
+En arrivant aux fronti�res qui s�parent l'Arabie p�tr�e de la
+Syrie, comme il passait pr�s d'un ch�teau assez fort, des Arabes
+arm�s en sortirent.  Il se vit entour�; on lui criait: Tout ce
+que vous avez nous appartient, et votre personne appartient �
+notre ma�tre.  Zadig, pour r�ponse, tira son �p�e; son valet, qui
+avait du courage, en fit autant.  Ils renvers�rent morts les
+premiers Arabes qui mirent la main sur eux; le nombre redoubla;
+ils ne s'�tonn�rent point, et r�solurent de p�rir en combattant.
+On voyait deux hommes se d�fendre contre une multitude; un tel
+combat ne pouvait durer long-temps.  Le ma�tre du ch�teau, nomm�
+Arbogad, ayant vu d'une fen�tre les prodiges de valeur que fesait
+Zadig, con�ut de l'estime pour lui.  Il descendit en h�te, et
+vint lui-m�me �carter ses gens, et d�livrer les deux voyageurs.
+Tout ce qui passe sur mes terres est � moi, dit-il, aussi bien
+que ce que je trouve sur les terres des autres; mais vous me
+paraissez un si brave homme, que je vous exempte de la loi
+commune.  Il le fit entrer dans son ch�teau, ordonnant � ses gens
+de le bien traiter; et le soir Arbogad voulut souper avec Zadig.
+
+Le seigneur du ch�teau �tait un de ces Arabes qu'on appelle
+_voleurs_; mais il fesait quelquefois de bonnes actions parmi une
+foule de mauvaises; il volait avec une rapacit� furieuse, et
+donnait lib�ralement: intr�pide dans l'action, assez doux dans le
+commerce, d�bauch� � table, gai dans la d�bauche, et surtout
+plein de franchise.  Zadig lui plut beaucoup; sa conversation,
+qui s'anima, fit durer le repas: enfin Arbogad lui dit: Je vous
+conseille de vous enr�ler sous moi, vous ne sauriez mieux faire;
+ce m�tier-ci n'est pas mauvais; vous pourrez un jour devenir ce
+que je suis.  Puis-je vous demander, dit Zadig, depuis quel temps
+vous exercez cette noble profession? D�s ma plus tendre jeunesse,
+reprit le seigneur.  J'�tais valet d'un Arabe assez habile; ma
+situation m'�tait insupportable.  J'�tais au d�sespoir de voir
+que, dans toute la terre qui appartient �galement aux hommes, la
+destin�e ne m'e�t pas r�serv� ma portion.  Je confiai mes peines
+� un vieil Arabe qui me dit: Mon fils, ne d�sesp�rez pas; il y
+avait autrefois un grain de sable qui se lamentait d'�tre un
+atome ignor� dans les d�serts; au bout de quelques ann�es il
+devint diamant, et il est � pr�sent le plus bel ornement de la
+couronne du roi des Indes.  Ce discours me fit impression;
+j'�tais le grain de sable, je r�solus de devenir diamant.  Je
+commen�ai par voler deux chevaux; je m'associai des camarades; je
+me mis en �tat de voler de petites caravanes: ainsi je fis cesser
+peu-�-peu la disproportion qui �tait d'abord entre les hommes et
+moi.  J'eus ma part aux biens de ce monde, et je fus m�me
+d�dommag� avec usure: on me consid�ra beaucoup; je devins
+seigneur brigand; j'acquis ce ch�teau par voie de fait.  Le
+satrape de Syrie voulut m'en d�poss�der; mais j'�tais d�j� trop
+riche pour avoir rien � craindre; je donnai de l'argent au
+satrape, moyennant quoi je conservai ce ch�teau, et j'agrandis
+mes domaines; il me nomma m�me tr�sorier des tributs que l'Arabie
+p�tr�e payait au roi des rois.  Je fis ma charge de receveur, et
+point du tout celle de payeur.
+
+Le grand desterham de Babylone envoya ici, au nom du roi Moabdar,
+un petit satrape, pour me faire �trangler.  Cet homme arriva avec
+son ordre: j'�tais instruit de tout; je fis �trangler en sa
+pr�sence les quatre personnes qu'il avait amen�es avec lui pour
+serrer le lacet; apr�s quoi je lui demandai ce que pouvait lui
+valoir la commission de m'�trangler.  Il me r�pondit que ses
+honoraires pouvaient aller � trois cents pi�ces d'or.  Je lui fis
+voir clair qu'il y aurait plus � gagner avec moi.  Je le fis
+sous-brigand; il est aujourd'hui un de mes meilleurs officiers,
+et des plus riches.  Si vous m'en croyez, vous r�ussirez comme
+lui.  Jamais la saison de voler n'a �t� meilleure, depuis que
+Moabdar est tu�, et que tout est en confusion dans Babylone.
+
+Moabdar est tu�! dit Zadig; et qu'est devenue la reine Astart�?
+Je n'en sais rien, reprit Arbogad; tout ce que je sais, c'est que
+Moabdar est devenu fou, qu'il a �t� tu�, que Babylone est un
+grand coupe-gorge, que tout l'empire est d�sol�, qu'il y a de
+beaux coups � faire encore, et que pour ma part j'en ai fait
+d'admirables.  Mais la reine, dit Zadig; de gr�ce, ne savez-vous
+rien de la destin�e de la reine?  On m'a parl� d'un prince
+d'Hyrcanie, reprit-il; elle est probablement parmi ses
+concubines, si elle n'a pas �t� tu�e dans le tumulte; mais je
+suis plus curieux de butin que de nouvelles.  J'ai pris plusieurs
+femmes dans mes courses, je n'en garde aucune; je les vends cher
+quand elles sont belles, sans m'informer de ce qu'elles sont.  On
+n'ach�te point le rang; une reine qui serait laide ne trouverait
+pas marchand; peut-�tre ai-je vendu la reine Astart�, peut-�tre
+est-elle morte; mais peu m'importe, et je pense que vous ne devez
+pas vous en soucier plus que moi.  En parlant ainsi il buvait
+avec tant de courage, il confondait tellement toutes les id�es,
+que Zadig n'en put tirer aucun �claircissement.
+
+Il restait interdit, accabl�, immobile.  Arbogad buvait toujours,
+fesait des contes, r�p�tait sans cesse qu'il �tait le plus
+heureux de tous les hommes, exhortant Zadig � se rendre aussi
+heureux que lui.  Enfin doucement assoupi par les fum�es du vin,
+il alla dormir d'un sommeil tranquille.  Zadig passa la nuit dans
+l'agitation la plus violente.  Quoi, disait-il, le roi est devenu
+fou! il est tu�!  Je ne puis m'emp�cher de le plaindre.  L'empire
+est d�chir�, et ce brigand est heureux: � fortune! � destin�e!
+un voleur est heureux, et ce que la nature a fait de plus aimable
+a p�ri peut-�tre d'une mani�re affreuse, ou vit dans un �tat pire
+que la mort.  O Astart�!  qu'�tes-vous devenue?
+
+D�s le point du jour il interrogea tous ceux qu'il rencontrait
+dans le ch�teau; mais tout le monde �tait occup�, personne ne lui
+r�pondit: on avait fait pendant la nuit de nouvelles conqu�tes,
+on partageait les d�pouilles.  Tout ce qu'il put obtenir dans
+cette confusion tumultueuse, ce fut la permission de partir.  Il
+en profita sans tarder, plus ab�m� que jamais dans ses r�flexions
+douloureuses.
+
+Zadig marchait inquiet, agit�, l'esprit tout occup� de la
+malheureuse Astart�, du roi de Babylone, de son fid�le Cador, de
+l'heureux brigand Arbogad, de cette femme si capricieuse que des
+Babyloniens avaient enlev�e sur les confins de l'Egypte, enfin de
+tous les contre-temps et de toutes les infortunes qu'il avait
+�prouv�es.
+
+
+
+CHAPITRE XVII.
+
+Le p�cheur.
+
+
+A quelques lieues du ch�teau d'Arbogad, il se trouva sur le bord
+d'une petite rivi�re, toujours d�plorant sa destin�e, et se
+regardant comme le mod�le du malheur.  Il vit un p�cheur couch�
+sur la rive, tenant � peine d'une main languissante son filet,
+qu'il semblait abandonner, et levant les yeux vers le ciel.
+
+Je suis certainement le plus malheureux de tous les hommes,
+disait le p�cheur.  J'ai �t�, de l'aveu de tout le monde, le plus
+c�l�bre marchand de fromages � la cr�me dans Babylone, et j'ai
+�t� ruin�.  J'avais la plus jolie femme qu'homme p�t poss�der, et
+j'en ai �t� trahi.  Il me restait une ch�tive maison, je l'ai vue
+pill�e et d�truite.  R�fugi� dans une cabane, je n'ai de
+ressource que ma p�che, et je ne prends pas un poisson.  O mon
+filet! je ne te jetterai plus dans l'eau, c'est � moi de m'y
+jeter.  En disant ces mots il se l�ve, et s'avance dans
+l'attitude d'un homme qui allait se pr�cipiter et finir sa vie.
+
+Eh quoi! se dit Zadig � lui-m�me, il y a donc des hommes aussi
+malheureux que moi! L'ardeur de sauver la vie au p�cheur fut
+aussi prompte que cette r�flexion.  Il court � lui, il l'arr�te,
+il l'interroge d'un air attendri et consolant.  On pr�tend qu'on
+en est moins malheureux quand on ne l'est pas seul: mais, selon
+Zoroastre, ce n'est pas par malignit�, c'est par besoin.  On se
+sent alors entra�n� vers un infortun� comme vers son semblable.
+La joie d'un homme heureux serait une insulte; mais deux
+malheureux sont comme deux arbrisseaux faibles qui, s'appuyant
+l'un sur l'autre, se fortifient contre l'orage.
+
+Pourquoi succombez-vous � vos malheurs? dit Zadig au p�cheur.
+C'est, r�pondit-il, parceque je n'y vois pas de ressource.  J'ai
+�t� le plus consid�r� du village de Derlback aupr�s de Babylone,
+et je fesais, avec l'aide de ma femme, les meilleurs fromages �
+la cr�me de l'empire.  La reine Astart� et le fameux ministre
+Zadig les aimaient passionn�ment.  J'avais fourni � leurs maisons
+six cents fromages.  J'allai un jour � la ville pour �tre pay�;
+j'appris en arrivant dans Babylone que la reine et Zadig avaient
+disparu.  Je courus chez le seigneur Zadig, que je n'avais jamais
+vu; je trouvai les archers du grand desterham, qui, munis d'un
+papier royal, pillaient sa maison loyalement et avec ordre.  Je
+volai aux cuisines de la reine; quelques uns des seigneurs de la
+bouche me dirent qu'elle �tait morte; d'autres dirent qu'elle
+�tait en prison; d'autres pr�tendirent qu'elle avait pris la
+fuite; mais tous m'assur�rent qu'on ne me paierait point mes
+fromages.  J'allai avec ma femme chez le seigneur Orcan, qui
+�tait une de mes pratiques: nous lui demand�mes sa protection
+dans notre disgr�ce.  Il l'accorda � ma femme, et me la refusa.
+Elle �tait plus blanche que ces fromages � la cr�me qui
+commenc�rent mon malheur; et l'�clat de la pourpre de Tyr n'�tait
+pas plus brillant que l'incarnat qui animait cette blancheur.
+C'est ce qui fit qu'Orcan la retint, et me chassa de sa maison.
+J'�crivis � ma ch�re femme la lettre d'un d�sesp�r�.  Elle dit au
+porteur: Ah, ah!  oui! je sais quel est l'homme qui m'�crit, j'en
+ai entendu parler: on dit qu'il fait des fromages � la cr�me
+excellents; qu'on m'en apporte, et qu'on les lui paie.
+
+Dans mon malheur, je voulus m'adresser � la justice.  Il me
+restait six onces d'or: il fallut en donner deux onces � l'homme
+de loi que je consultai, deux au procureur qui entreprit mon
+affaire, deux au secr�taire du premier juge.  Quand tout cela fut
+fait, mon proc�s n'�tait pas encore commenc�, et j'avais d�j�
+d�pens� plus d'argent que mes fromages et ma femme ne valaient.
+Je retournai � mon village dans l'intention de vendre ma maison
+pour avoir ma femme.
+
+Ma maison valait bien soixante onces d'or; mais on me voyait
+pauvre et press� de vendre.  Le premier � qui je m'adressai m'en
+offrit trente onces; le second, vingt; et le troisi�me, dix.
+J'�tais pr�t enfin de conclure, tant j'�tais aveugl�, lorsqu'un
+prince d'Hyrcanie vint � Babylone, et ravagea tout sur son
+passage.  Ma maison fut d'abord saccag�e, et ensuite br�l�e.
+
+Ayant ainsi perdu mon argent, ma femme, et ma maison, je me suis
+retir� dans ce pays o� vous me voyez; j'ai t�ch� de subsister du
+m�tier de p�cheur.  Les poissons se moquent de moi comme les
+hommes; je ne prends rien, je meurs de faim; et sans vous,
+auguste consolateur, j'allais mourir dans la rivi�re.
+
+Le p�cheur ne fit point ce r�cit tout de suite; car � tout moment
+Zadig �mu et transport� lui disait: Quoi! vous ne savez rien de
+la destin�e de la reine?  Non, seigneur, r�pondait le p�cheur;
+mais je sais que la reine et Zadig ne m'ont point pay� mes
+fromages � la cr�me, qu'on a pris ma femme, et que je suis au
+d�sespoir.  Je me flatte, dit Zadig, que vous ne perdrez pas tout
+votre argent.  J'ai entendu parler de ce Zadig; il est honn�te
+homme; et s'il retourne � Babylone, comme il l'esp�re, il vous
+donnera plus qu'il ne vous doit; mais pour votre femme, qui n'est
+pas si honn�te, je vous conseille de ne pas chercher � la
+reprendre.  Croyez-moi, allez � Babylone; j'y serai avant vous,
+parceque je suis � cheval, et que vous �tes � pied.
+Adressez-vous � l'illustre Cador; dites-lui que vous avez
+rencontr� son ami; attendez-moi chez lui; allez; peut-�tre ne
+serez-vous pas toujours malheureux.
+
+O puissant Orosmade! continua-t-il, vous vous servez de moi pour
+consoler cet homme; de qui vous servirez-vous pour me consoler?
+En parlant ainsi il donnait au p�cheur la moiti� de tout l'argent
+qu'il avait apport� d'Arabie, et le p�cheur, confondu et ravi,
+baisait les pieds de l'ami de Cador, et disait: Vous �tes un ange
+sauveur.
+
+Cependant Zadig demandait toujours des nouvelles, et versait des
+larmes.  Quoi! seigneur, s'�cria le p�cheur, vous seriez donc
+aussi malheureux, vous qui faites du bien? Plus malheureux que
+toi cent fois, r�pondait Zadig.  Mais comment se peut-il faire,
+disait le bonhomme, que celui qui donne soit plus � plaindre que
+celui qui re�oit? C'est que ton plus grand malheur, reprit Zadig,
+�tait le besoin, et que je suis infortun� par le coeur.  Orcan
+vous aurait-il pris votre femme? dit le p�cheur.  Ce mot rappela
+dans l'esprit de Zadig toutes ses aventures; il r�p�tait la liste
+de ses infortunes, � commencer depuis la chienne de la reine
+jusqu'� son arriv�e chez le brigand Arbogad.  Ah! dit-il au
+p�cheur, Orcan m�rite d'�tre puni.  Mais d'ordinaire ce sont ces
+gens-l� qui sont les favoris de la destin�e.  Quoi qu'il en soit,
+va chez le seigneur Cador, et attends-moi.  Ils se s�par�rent: le
+p�cheur marcha en remerciant son destin, et Zadig courut en
+accusant toujours le sien.
+
+
+
+CHAPITRE XVIII.
+
+Le basilic.
+
+
+Arriv� dans une belle prairie, il y vit plusieurs femmes qui
+cherchaient quelque chose avec beaucoup d'application.  Il prit
+la libert� de s'approcher de l'une d'elles, et de lui demander
+s'il pouvait avoir l'honneur de les aider dans leurs recherches.
+Gardez-vous-en bien, r�pondit la Syrienne; ce que nous cherchons
+ne peut �tre touch� que par des femmes.  Voil� qui est bien
+�trange, dit Zadig; oserai-je vous prier de m'apprendre ce que
+c'est qu'il n'est permis qu'aux femmes de toucher? C'est un
+basilic, dit-elle.  Un basilic, madame! et pour quelle raison,
+s'il vous pla�t, cherchez-vous un basilic? C'est pour notre
+seigneur et ma�tre Ogul, dont vous voyez le ch�teau sur le bord
+de cette rivi�re, au bout de la prairie.  Nous sommes ses tr�s
+humbles esclaves; le seigneur Ogul est malade; son m�decin lui a
+ordonn� de manger un basilic cuit dans l'eau rose; et comme c'est
+un animal fort rare, et qui ne se laisse jamais prendre que par
+des femmes, le seigneur Ogul a promis de choisir pour sa femme
+bien-aim�e celle de nous qui lui apporterait un basilic:
+laissez-moi chercher, s'il vous pla�t: car vous voyez ce qu'il
+m'en co�terait si j'�tais pr�venue par mes compagnes.
+
+Zadig laissa cette Syrienne et les autres chercher leur basilic,
+et continua de marcher dans la prairie.  Quand il fut au bord
+d'un petit ruisseau, il y trouva une autre dame couch�e sur le
+gazon, et qui ne cherchait rien.  Sa taille paraissait
+majestueuse, mais son visage �tait couvert d'un voile.  Elle
+�tait pench�e vers le ruisseau; de profonds soupirs sortaient de
+sa bouche.  Elle tenait en main une petite baguette, avec
+laquelle elle tra�ait des caract�res sur un sable fin qui se
+trouvait entre le gazon et le ruisseau.  Zadig eut la curiosit�
+de voir ce que cette femme �crivait; il s'approcha, il vit la
+lettre Z, puis un A; il fut �tonn�; puis parut un D; il
+tressaillit.  Jamais surprise ne fut �gale � la sienne, quand il
+vit les deux derni�res lettres de son nom.  Il demeura quelque
+temps immobile: enfin rompant le silence d'une voix entrecoup�e:
+O g�n�reuse dame! pardonnez � un �tranger, � un infortun�, d'oser
+vous demander par quelle aventure �tonnante je trouve ici le nom
+de ZADIG trac� de votre main divine? A cette voix, � ces paroles,
+la dame releva son voile d'une main tremblante, regarda Zadig,
+jeta un cri d'attendrissement, de surprise, et de joie, et
+succombant sous tous les mouvements divers qui assaillaient
+�-la-fois son �me, elle tomba �vanouie entre ses bras.  C'�tait
+Astart� elle-m�me, c'�tait la reine de Babylone, c'�tait celle
+que Zadig adorait, et qu'il se reprochait d'adorer; c'�tait celle
+dont il avait tant pleur� et tant craint la destin�e.  Il fut un
+moment priv� de l'usage de ses sens; et quand il eut attach� ses
+regards sur les yeux d'Astart�, qui se rouvraient avec une
+langueur m�l�e de confusion et de tendresse: O puissances
+immortelles! s'�cria-t-il, qui pr�sidez aux destins des faibles
+humains, me rendez-vous Astart�? En quel temps, en quels lieux,
+en quel �tat la revois-je? Il se jeta � genoux devant Astart�, et
+il attacha son front � la poussi�re de ses pieds.  La reine de
+Babylone le rel�ve, et le fait asseoir aupr�s d'elle sur le bord
+de ce ruisseau; elle essuyait � plusieurs reprises ses yeux dont
+les larmes recommen�aient toujours � couler.  Elle reprenait
+vingt fois des discours que ses g�missements interrompaient; elle
+l'interrogeait sur le hasard qui les rassemblait, et pr�venait
+soudain ses r�ponses par d'autres questions.  Elle entamait le
+r�cit de ses malheurs, et voulait savoir ceux de Zadig.  Enfin
+tous deux ayant un peu apais� le tumulte de leurs �mes, Zadig lui
+conta en peu de mots par quelle aventure il se trouvait dans
+cette prairie.  Mais, � malheureuse et respectable reine!
+comment vous retrouv�-je en ce lieu �cart�, v�tue en esclave, et
+accompagn�e d'autres femmes esclaves qui cherchent un basilic
+pour le faire cuire dans de l'eau rose par ordonnance du m�decin?
+
+Pendant qu'elles cherchent leur basilic, dit la belle Astart�, je
+vais vous apprendre tout ce que j'ai souffert, et tout ce que je
+pardonne au ciel depuis que je vous revois.  Vous savez que le
+roi mon mari trouva mauvais que vous fussiez le plus aimable de
+tous les hommes; et ce fut pour cette raison qu'il prit une nuit
+la r�solution de vous faire �trangler et de m'empoisonner.  Vous
+savez comme le ciel permit que mon petit muet m'avert�t de
+l'ordre de sa sublime majest�.  A peine le fid�le Cador vous
+eut-il forc� de m'ob�ir et de partir, qu'il osa entrer chez moi
+au milieu de la nuit par une issue secr�te.  Il m'enleva, et me
+conduisit dans le temple d'Orosmade, o� le mage, son fr�re,
+m'enferma dans une statue colossale dont la base touche aux
+fondements du temple, et dont la t�te atteint la vo�te.  Je fus
+l� comme ensevelie, mais servie par le mage, et ne manquant
+d'aucune chose n�cessaire.  Cependant au point du jour
+l'apothicaire de sa majest� entra dans ma chambre avec une potion
+m�l�e de jusquiame, d'opium, de cigu�, d'ell�bore noir, et
+d'aconit; et un autre officier alla chez vous avec un lacet de
+soie bleue.  On ne trouva personne.  Cador, pour mieux tromper le
+roi, feignit de venir nous accuser tous deux.  Il dit que vous
+aviez pris la route des Indes, et moi celle de Memphis: on envoya
+des satellites apr�s vous et apr�s moi.
+
+Les courriers qui me cherchaient ne me connaissaient pas.  Je
+n'avais presque jamais montr� mon visage qu'� vous seul, en
+pr�sence et par ordre de mon �poux.  Ils coururent � ma
+poursuite, sur le portrait qu'on leur fesait de ma personne: une
+femme de la m�me taille que moi, et qui peut-�tre avait plus de
+charmes, s'offrit � leurs regards sur les fronti�res de l'Egypte.
+Elle �tait �plor�e, errante; ils ne dout�rent pas que cette femme
+ne f�t la reine de Babylone; ils la men�rent � Moabdar.  Leur
+m�prise fit entrer d'abord le roi dans une violente col�re; mais
+bient�t ayant consid�r� de plus pr�s cette femme, il la trouva
+tr�s belle, et fut consol�.  On l'appelait Missouf.  On m'a dit
+depuis que ce nom signifie en langue �gyptienne _la belle
+capricieuse_.  Elle l'�tait en effet; mais elle avait autant
+d'art que de caprice.  Elle plut � Moabdar.  Elle le subjugua au
+point de se faire d�clarer sa femme.  Alors son caract�re se
+d�veloppa tout entier: elle se livra sans crainte � toutes les
+folies de son imagination.  Elle voulut obliger le chef des
+mages, qui �tait vieux et goutteux, de danser devant elle; et sur
+le refus du mage, elle le pers�cuta violemment.  Elle ordonna �
+son grand-�cuyer de lui faire une tourte de confitures.  Le
+grand-�cuyer eut beau lui repr�senter qu'il n'�tait point
+p�tissier, il fallut qu'il f�t la tourte; et on le chassa,
+parcequ'elle �tait trop br�l�e.  Elle donna la charge de
+grand-�cuyer � son nain, et la place de chancelier � un page.
+C'est ainsi qu'elle gouverna Babylone.  Tout le monde me
+regrettait.  Le roi, qui avait �t� assez honn�te homme jusqu'au
+moment o� il avait voulu m'empoisonner et vous faire �trangler,
+semblait avoir noy� ses vertus dans l'amour prodigieux qu'il
+avait pour la belle capricieuse.  Il vint au temple le grand jour
+du feu sacr�.  Je le vis implorer les dieux pour Missouf aux
+pieds de la statue o� j'�tais renferm�e.  J'�levai la voix; je
+lui criai: �Les dieux refusent les voeux d'un roi devenu tyran,
+qui a voulu faire mourir une femme raisonnable pour �pouser une
+extravagante.�  Moabdar fut confondu de ces paroles au point que
+sa t�te se troubla.  L'oracle que j'avais rendu, et la tyrannie
+de Missouf, suffisaient pour lui faire perdre le jugement.  Il
+devint fou en peu de jours.
+
+Sa folie, qui parut un ch�timent du ciel, fut le signal de la
+r�volte.  On se souleva, on courut aux armes.  Babylone, si
+long-temps plong�e dans une mollesse oisive, devint le th��tre
+d'une guerre civile affreuse.  On me tira du creux de ma statue,
+et on me mit � la t�te d'un parti.  Cador courut � Memphis, pour
+vous ramener � Babylone.  Le prince d'Hyrcanie, apprenant ces
+funestes nouvelles, revint avec son arm�e faire un troisi�me
+parti dans la Chald�e.  Il attaqua le roi, qui courut au-devant
+de lui avec son extravagante Egyptienne.  Moabdar mourut perc� de
+coups.  Missouf tomba aux mains du vainqueur.  Mon malheur voulut
+que je fusse prise moi-m�me par un parti hyrcanien, et qu'on me
+men�t devant le prince pr�cis�ment dans le temps qu'on lui
+amenait Missouf.  Vous serez flatt�, sans doute, en apprenant que
+le prince me trouva plus belle que l'�gyptienne; mais vous serez
+f�ch� d'apprendre qu'il me destina � son s�rail.  Il me dit fort
+r�solument que, d�s qu'il aurait fini une exp�dition militaire
+qu'il allait ex�cuter, il viendrait � moi.  Jugez de ma douleur.
+Mes liens avec Moabdar �taient rompus, je pouvais �tre � Zadig;
+et je tombais dans les cha�nes de ce barbare! Je lui r�pondis
+avec toute la fiert� que me donnaient mon rang et mes sentiments.
+J'avais toujours entendu dire que le ciel attachait aux personnes
+de ma sorte un caract�re de grandeur qui d'un mot et d'un coup
+d'oeil fesait rentrer dans l'abaissement du plus profond respect
+les t�m�raires qui osaient s'en �carter.  Je parlai en reine,
+mais je fus trait�e en demoiselle suivante.  L'Hyrcanien, sans
+daigner seulement m'adresser la parole, dit � son eunuque noir
+que j'�tais une impertinente, mais qu'il me trouvait jolie.  Il
+lui ordonna d'avoir soin de moi et de me mettre au r�gime des
+favorites, afin de me rafra�chir le teint, et de me rendre plus
+digne de ses faveurs, pour le jour o� il aurait la commodit� de
+m'en honorer.  Je lui dis que je me tuerais: il r�pliqua, en
+riant, qu'on ne se tuait point, qu'il �tait fait � ces fa�ons-l�,
+et me quitta comme un homme qui vient de mettre un perroquet dans
+sa m�nagerie.  Quel �tat pour la premi�re reine de l'univers, et,
+je dirai plus, pour un coeur qui �tait � Zadig!
+
+A ces paroles il se jeta � ses genoux, et les baigna de larmes.
+Astart� le releva tendrement, et elle continua ainsi: Je me
+voyais au pouvoir d'un barbare, et rivale d'une folle avec qui
+j'�tais renferm�e.  Elle me raconta son aventure d'Egypte.  Je
+jugeai par les traits dont elle vous peignait, par le temps, par
+le dromadaire sur lequel vous �tiez mont�, par toutes les
+circonstances, que c'�tait Zadig qui avait combattu pour elle.
+Je ne doutai pas que vous ne fussiez � Memphis; je pris la
+r�solution de m'y retirer.  Belle Missouf, lui dis-je, vous �tes
+beaucoup plus plaisante que moi, vous divertirez bien mieux que
+moi le prince d'Hyrcanie.  Facilitez-moi les moyens de me sauver;
+vous r�gnerez seule; vous me rendrez heureuse, en vous
+d�barrassant d'une rivale.  Missouf concerta avec moi les moyens
+de ma fuite.  Je partis donc secr�tement avec une esclave
+�gyptienne.
+
+J'�tais d�j� pr�s de l'Arabie, lorsqu'un fameux voleur, nomm�
+Arbogad, m'enleva, et me vendit � des marchands qui m'ont amen�e
+dans ce ch�teau, o� demeure le seigneur Ogul.  Il m'a achet�e
+sans savoir qui j'�tais.  C'est un homme voluptueux qui ne
+cherche qu'� faire grande ch�re, et qui croit que Dieu l'a mis au
+monde pour tenir table.  Il est d'un embonpoint excessif, qui est
+toujours pr�t � le suffoquer.  Son m�decin, qui n'a que peu de
+cr�dit aupr�s de lui quand il dig�re bien, le gouverne
+despotiquement quand il a trop mang�.  Il lui a persuad� qu'il le
+gu�rirait avec un basilic cuit dans de l'eau rose.  Le seigneur
+Ogul a promis sa main � celle de ses esclaves qui lui apporterait
+un basilic.  Vous voyez que je les laisse s'empresser � m�riter
+cet honneur, et je n'ai jamais eu moins d'envie de trouver ce
+basilic que depuis que le ciel a permis que je vous revisse.
+
+Alors Astart� et Zadig se dirent tout ce que des sentiments
+long-temps retenus, tout ce que leurs malheurs et leurs amours
+pouvaient inspirer aux coeurs les plus nobles et les plus
+passionn�s; et les g�nies qui pr�sident � l'amour port�rent leurs
+paroles jusqu'� la sph�re de V�nus.
+
+Les femmes rentr�rent chez Ogul sans avoir rien trouv�.  Zadig se
+fit pr�senter � lui, et lui parla en ces termes: Que la sant�
+immortelle descende du ciel pour avoir soin de tous vos jours!
+Je suis m�decin, j'ai accouru vers vous sur le bruit de votre
+maladie, et je vous ai apport� un basilic cuit dans de l'eau
+rose.  Ce n'est pas que je pr�tende vous �pouser: je ne vous
+demande que la libert� d'une jeune esclave de Babylone que vous
+avez depuis quelques jours; et je consens de rester en esclavage
+� sa place, si je n'ai pas le bonheur de gu�rir le magnifique
+seigneur Ogul.
+
+La proposition fut accept�e.  Astart� partit pour Babylone avec
+le domestique de Zadig, en lui promettant de lui envoyer
+incessamment un courrier, pour l'instruire de tout ce qui se
+serait pass�.  Leurs adieux furent aussi tendres que l'avait �t�
+leur reconnaissance.  Le moment o� l'on se retrouve, et celui o�
+l'on se s�pare, sont les deux plus grandes �poques de la vie,
+comme dit le grand livre du Zend.  Zadig aimait la reine autant
+qu'il le jurait, et la reine aimait Zadig plus qu'elle ne le lui
+disait.
+
+Cependant Zadig parla ainsi � Ogul: Seigneur, on ne mange point
+mon basilic, toute sa vertu doit entrer chez vous par les pores.
+Je l'ai mis dans une petite outre bien enfl�e et couverte d'une
+peau fine: il faut que vous poussiez cette outre de toute votre
+force, et que je vous la renvoie � plusieurs reprises; et en peu
+de jours de r�gime vous verrez ce que peut mon art.  Ogul d�s le
+premier jour fut tout essouffl�, et crut qu'il mourrait de
+fatigue.  Le second il fut moins fatigu�, et dormit mieux.  En
+huit jours il recouvra toute la force, la sant�, la l�g�ret�, et
+la gaiet� de ses plus brillantes ann�es.  Vous avez jou� au
+ballon, et vous avez �t� sobre, lui dit Zadig: apprenez qu'il n'y
+a point de basilic dans la nature, qu'on se porte toujours bien
+avec de la sobri�t� et de l'exercice, et que l'art de faire
+subsister ensemble l'intemp�rance et la sant� est un art aussi
+chim�rique que la pierre philosophale, l'astrologie judiciaire,
+et la th�ologie des mages.
+
+Le premier m�decin d'Ogul, sentant combien cet homme �tait
+dangereux pour la m�decine, s'unit avec l'apothicaire du corps
+pour envoyer Zadig chercher des basilics dans l'autre monde.
+Ainsi, apr�s avoir �t� toujours puni pour avoir bien fait, il
+�tait pr�s de p�rir pour avoir gu�ri un seigneur gourmand.  On
+l'invita � un excellent d�ner.  Il devait �tre empoisonn� au
+second service; mais il re�ut un courrier de la belle Astart� au
+premier.  Il quitta la table, et partit.  Quand on est aim� d'une
+belle femme, dit le grand Zoroastre, on se tire toujours
+d'affaire dans ce monde.
+
+
+
+CHAPITRE XIX.
+
+Les combats.
+
+
+La reine avait �t� re�ue � Babylone avec les transports qu'on a
+toujours pour une belle princesse qui a �t� malheureuse.
+Babylone alors paraissait �tre plus tranquille.  Le prince
+d'Hyrcanie avait �t� tu� dans un combat.  Les Babyloniens
+vainqueurs d�clar�rent qu'Astart� �pouserait celui qu'on
+choisirait pour souverain.  On ne voulut point que la premi�re
+place du monde, qui serait celle de mari d'Astart� et de roi de
+Babylone, d�pend�t des intrigues et des cabales.  On jura de
+reconna�tre pour roi le plus vaillant et le plus sage.  Une
+grande lice, bord�e d'amphith��tres magnifiquement orn�s, fut
+form�e � quelques lieues de la ville.  Les combattants devaient
+s'y rendre arm�s de toutes pi�ces.  Chacun d'eux avait derri�re
+les amphith��tres un appartement s�par�, o� il ne devait �tre vu
+ni connu de personne.  Il fallait courir quatre lances.  Ceux qui
+seraient assez heureux pour vaincre quatre chevaliers devaient
+combattre ensuite les uns contre les autres; de fa�on que celui
+qui resterait le dernier ma�tre du camp serait proclam� le
+vainqueur des jeux.  Il devait revenir quatre jours apr�s avec
+les m�mes armes, et expliquer les �nigmes propos�es par les
+mages.  S'il n'expliquait point les �nigmes, il n'�tait point
+roi, et il fallait recommencer � courir des lances, jusqu'� ce
+qu'on trouv�t un homme qui f�t vainqueur dans ces deux combats;
+car on voulait absolument pour roi le plus vaillant et le plus
+sage.  La reine, pendant tout ce temps, devait �tre �troitement
+gard�e: on lui permettait seulement d'assister aux jeux, couverte
+d'un voile; mais on ne souffrait pas qu'elle parl�t � aucun des
+pr�tendants, afin qu'il n'y e�t ni faveur ni injustice.
+
+Voil� ce qu'Astart� fesait savoir � son amant, esp�rant qu'il
+montrerait pour elle plus de valeur et d'esprit que personne.  Il
+partit, et pria V�nus de fortifier son courage et d'�clairer son
+esprit.  Il arriva sur le rivage de l'Euphrate, la veille de ce
+grand jour.  Il fit inscrire sa devise parmi celles des
+combattants, en cachant son visage et son nom, comme la loi
+l'ordonnait, et alla se reposer dans l'appartement qui lui �chut
+par le sort.  Son ami Cador, qui �tait revenu � Babylone, apr�s
+l'avoir inutilement cherch� en Egypte, fit porter dans sa loge
+une armure compl�te que la reine lui envoyait.  Il lui fit amener
+aussi de sa part le plus beau cheval de Perse.  Zadig reconnut
+Astart� � ces pr�sents: son courage et son amour en prirent de
+nouvelles forces et de nouvelles esp�rances.
+
+Le lendemain la reine �tant venue se placer sous un dais de
+pierreries, et les amphith��tres �tant remplis de toutes les
+dames et de tous les ordres de Babylone, les combattants parurent
+dans le cirque.  Chacun d'eux vint mettre sa devise aux pieds du
+grand-mage.  On tira au sort les devises; celle de Zadig fut la
+derni�re.  Le premier qui s'avan�a �tait un seigneur tr�s riche,
+nomm� Itobad, fort vain, peu courageux, tr�s maladroit, et sans
+esprit.  Ses domestiques l'avaient persuad� qu'un homme comme lui
+devait �tre roi; il leur avait r�pondu: Un homme comme moi doit
+r�gner; ainsi on l'avait arm� de pied en cap.  Il portait une
+armure d'or �maill�e de vert, un panache vert, une lance orn�e de
+rubans verts.  On s'aper�ut d'abord, � la mani�re dont Itobad
+gouvernait son cheval, que ce n'�tait pas un homme comme lui �
+qui le ciel r�servait le sceptre de Babylone.  Le premier
+chevalier qui courut contre lui le d�sar�onna; le second le
+renversa sur la croupe de son cheval, les deux jambes en l'air et
+les bras �tendus.  Itobad se remit, mais de si mauvaise gr�ce que
+tout l'amphith��tre se mit � rire.  Un troisi�me ne daigna pas se
+servir de sa lance; mais en lui fesant une passe, il le prit par
+la jambe droite, et lui fesant faire un demitour, il le fit
+tomber sur le sable: les �cuyers des jeux accoururent � lui en
+riant, et le remirent en selle.  Le quatri�me combattant le prend
+par la jambe gauche, et le fait tomber de l'autre c�t�.  On le
+conduisit avec des hu�es � sa loge, o� il devait passer la nuit
+selon la loi; et il disait en marchant � peine: Quelle aventure
+pour un homme comme moi!
+
+Les autres chevaliers s'acquitt�rent mieux de leur devoir.  Il y
+en eut qui vainquirent deux combattants de suite; quelques uns
+all�rent jusqu'� trois.  Il n'y eut que le prince Otame qui en
+vainquit quatre.  Enfin Zadig combattit � son tour: il d�sar�onna
+quatre cavaliers de suite avec toute la gr�ce possible.  Il
+fallut donc voir qui serait vainqueur d'Otame ou de Zadig.  Le
+premier portait des armes bleues et or, avec un panache de m�me;
+celles de Zadig �taient blanches.  Tous les voeux se partageaient
+entre le chevalier bleu et le chevalier blanc.  La reine, � qui
+le coeur palpitait, fesait des pri�res au ciel pour la couleur
+blanche.  Les deux champions firent des passes et des voltes avec
+tant d'agilit�, ils se donn�rent de si beaux coups de lance, ils
+�taient si fermes sur leurs ar�ons, que tout le monde, hors la
+reine, souhaitait qu'il y e�t deux rois dans Babylone.  Enfin,
+leurs chevaux �tant lass�s et leurs lances rompues, Zadig usa de
+cette adresse: il passe derri�re le prince bleu, s'�lance sur la
+croupe de son cheval, le prend par le milieu du corps, le jette �
+terre, se met en selle � sa place, et caracole autour d'Otame
+�tendu sur la place.  Tout l'amphith��tre crie: Victoire au
+chevalier blanc!  Otame indign� se rel�ve, tire son �p�e; Zadig
+saute de cheval, le sabre � la main.  Les voil� tous deux sur
+l'ar�ne, livrant un nouveau combat, o� la force et l'agilit�
+triomphent tour-�-tour.  Les plumes de leur casque, les clous de
+leurs brassards, les mailles de leur armure sautent au loin sous
+mille coups pr�cipit�s.  Ils frappent de pointe et de taille, �
+droite, � gauche, sur la t�te, sur la poitrine; ils reculent, ils
+avancent, ils se mesurent, ils se rejoignent, ils se saisissent,
+ils se replient comme des serpents, ils s'attaquent comme des
+lions; le feu jaillit � tout moment des coups qu'ils se portent.
+Enfin Zadig ayant un moment repris ses esprits s'arr�te, fait une
+feinte, passe sur Otame, le fait tomber, le d�sarme, et Otame
+s'�crie: O chevalier blanc! c'est vous qui devez r�gner sur
+Babylone.  La reine �tait au comble de la joie.  On reconduisit
+le chevalier bleu et le chevalier blanc chacun � leur loge, ainsi
+que tous les autres, selon ce qui �tait port� par la loi.  Des
+muets vinrent les servir et leur apporter � manger.  On peut
+juger si le petit muet de la reine ne fut pas celui qui servit
+Zadig.  Ensuite on les laissa dormir seuls jusqu'au lendemain
+matin, temps o� le vainqueur devait apporter sa devise au
+grand-mage, pour la confronter et se faire reconna�tre.
+
+Zadig dormit, quoique amoureux, tant il �tait fatigu�.  Itobad,
+qui �tait couch� aupr�s de lui, ne dormit point.  Il se leva
+pendant la nuit, entra dans sa loge, prit les armes blanches de
+Zadig avec sa devise, et mit son armure verte � la place.  Le
+point du jour �tant venu, il alla fi�rement au grand-mage,
+d�clarer qu'un homme comme lui �tait vainqueur.  On ne s'y
+attendait pas; mais il fut proclam� pendant que Zadig dormait
+encore.  Astart� surprise, et le d�sespoir dans le coeur, s'en
+retourna dans Babylone.  Tout l'amphith��tre �tait d�j� presque
+vide, lorsque Zadig s'�veilla; il chercha ses armes, et ne trouva
+que cette armure verte.  Il �tait oblig� de s'en couvrir, n'ayant
+rien autre chose aupr�s de lui.  Etonn� et indign�, il les
+endosse avec fureur, il avance dans cet �quipage.
+
+Tout ce qui �tait encore sur l'amphith��tre et dans le cirque le
+re�ut avec des hu�es.  On l'entourait; on lui insultait en face.
+Jamais homme n'essuya des mortifications si humiliantes.  La
+patience lui �chappa; il �carta � coups de sabre la populace qui
+osait l'outrager; mais il ne savait quel parti prendre.  Il ne
+pouvait voir la reine; il ne pouvait r�clamer l'armure blanche
+qu'elle lui avait envoy�e; c'e�t �t� la compromettre: ainsi,
+tandis qu'elle �tait plong�e dans la douleur, il �tait p�n�tr� de
+fureur et d'inqui�tude.  Il se promenait sur les bords de
+l'Euphrate, persuad� que son �toile le destinait � �tre
+malheureux sans ressource, repassant dans son esprit toutes ses
+disgr�ces depuis l'aventure de la femme qui ha�ssait les borgnes,
+jusqu'� celle de son armure.  Voil� ce que c'est, disait-il, de
+m'�tre �veill� trop tard; si j'avais moins dormi, je serais roi
+de Babylone, je poss�derais Astart�.  Les sciences, les moeurs,
+le courage, n'ont donc jamais servi qu'� mon infortune.  Il lui
+�chappa enfin de murmurer contre la Providence, et il fut tent�
+de croire que tout �tait gouvern� par une destin�e cruelle qui
+opprimait les bons et qui fesait prosp�rer les chevaliers verts.
+Un de ses chagrins �tait de porter cette armure verte qui lui
+avait attir� tant de hu�es.  Un marchand passa, il la lui vendit
+� vil prix, et prit du marchand une robe et un bonnet long.  Dans
+cet �quipage, il c�toyait l'Euphrate, rempli de d�sespoir, et
+accusant en secret la Providence qui le pers�cutait toujours.
+
+
+
+CHAPITRE XX.
+
+L'ermite[1].
+
+  [1] Fr�ron (_Ann�e litt�raire_, 1767,I, 30 et suiv.), reproche
+  � Voltaire d'avoir tir� presque mot pour mot ce chapitre d'une
+  pi�ce de cent cinquante vers, intitul�e _The hermite_
+  (l'ermite), par Th. Parnell.  Avant Parnell, plusieurs auteurs
+  avaient trait� le m�me sujet, et entre autres l'auteur
+  fran�ais, Bluel d'Arb�res, comte de Permission, dans le livre
+  CV de ses Oeuvres; c'est en 1604 qu'avaient paru les livres CIV
+  et CXIII, dont on ne conna�t encore qu'un seul exemplaire,
+  d�couvert en 1824.  B.
+
+
+Il rencontra en marchant un ermite, dont la barbe blanche et
+v�n�rable lui descendait jusqu'� la ceinture.  Il tenait en main
+un livre qu'il lisait attentivement.  Zadig s'arr�ta, et lui fit
+une profonde inclination.  L'ermite le salua d'un air si noble et
+si doux, que Zadig eut la curiosit� de l'entretenir.  Il lui
+demanda quel livre il lisait.  C'est le livre des destin�es, dit
+l'ermite; voulez-vous en lire quelque chose? Il mit le livre dans
+les mains de Zadig, qui, tout instruit qu'il �tait dans plusieurs
+langues, ne put d�chiffrer un seul caract�re du livre.  Cela
+redoubla encore sa curiosit�.  Vous me paraissez bien chagrin,
+lui dit ce bon p�re.  H�las! que j'en ai sujet! dit Zadig.  Si
+vous permettez que je vous accompagne, repartit le vieillard,
+peut-�tre vous serai-je utile: j'ai quelquefois r�pandu des
+sentiments de consolation dans l'�me des malheureux.  Zadig se
+sentit du respect pour l'air, pour la barbe, et pour le livre de
+l'ermite.  Il lui trouva dans la conversation des lumi�res
+sup�rieures.  L'ermite parlait de la destin�e, de la justice, de
+la morale, du souverain bien, de la faiblesse humaine, des
+vertus, et des vices, avec une �loquence si vive et si touchante,
+que Zadig se sentit entra�n� vers lui par un charme invincible.Il
+le pria avec instance de ne le point quitter, jusqu'� ce qu'ils
+fussent de retour � Babylone.  Je vous demande moi-m�me cette
+gr�ce, lui dit le vieillard; jurez-moi par Orosmade que vous ne
+vous s�parerez point de moi d'ici � quelques jours, quelque chose
+que je fasse.  Zadig jura, et ils partirent ensemble.
+
+Les deux voyageurs arriv�rent le soir � un ch�teau superbe.
+L'ermite demanda l'hospitalit� pour lui et pour le jeune homme
+qui l'accompagnait.  Le portier, qu'on aurait pris pour un grand
+seigneur, les introduisit avec une esp�ce de bont� d�daigneuse.
+On les pr�senta � un principal domestique, qui leur fit voir les
+appartements magnifiques du ma�tre.  Ils furent admis � sa table
+au bas bout, sans que le seigneur du ch�teau les honor�t d'un
+regard; mais ils furent servis comme les autres avec d�licatesse
+et profusion.  On leur donna ensuite � laver dans un bassin d'or
+garni d'�meraudes et de rubis.  On les mena coucher dans un bel
+appartement, et le lendemain matin un domestique leur apporta �
+chacun une pi�ce d'or, apr�s quoi on les cong�dia.
+
+Le ma�tre de la maison, dit Zadig en chemin, me para�t �tre un
+homme g�n�reux, quoique un peu fier; il exerce noblement
+l'hospitalit�.  En disant ces paroles, il aper�ut qu'une esp�ce
+de poche tr�s large que portait l'ermite paraissait tendue et
+enfl�e: il y vit le bassin d'or garni de pierreries, que celui-ci
+avait vol�.  Il n'osa d'abord en rien t�moigner; mais il �tait
+dans une �trange surprise.
+
+Vers le midi, l'ermite se pr�senta � la porte d'une maison tr�s
+petite, o� logeait un riche avare; il y demanda l'hospitalit�
+pour quelques heures.  Un vieux valet mal habill� le re�ut d'un
+ton rude, et fit entrer l'ermite et Zadig dans l'�curie, o� on
+leur donna quelques olives pourries, de mauvais pain, et de la
+bi�re g�t�e.  L'ermite but et mangea d'un air aussi content que
+la veille; puis s'adressant � ce vieux valet qui les observait
+tous deux pour voir s'ils ne volaient rien, et qui les pressait
+de partir, il lui donna les deux pi�ces d'or qu'il avait re�ues
+le matin, et le remercia de toutes ses attentions.  Je vous prie,
+ajouta-t-il, faites-moi parler � votre ma�tre.  Le valet �tonn�
+introduisit les deux voyageurs: Magnifique seigneur, dit
+l'ermite, je ne puis que vous rendre de tr�s humbles gr�ces de la
+mani�re noble dont vous nous avez re�us: daignez accepter ce
+bassin d'or comme un faible gage de ma reconnaissance.  L'avare
+fut pr�s de tomber � la renverse.  L'ermite ne lui donna pas le
+temps de revenir de son saisissement, il partit au plus vite avec
+son jeune voyageur.  Mon p�re, lui dit Zadig, qu'est-ce que tout
+ce que je vois?  Vous ne me paraissez ressembler en rien aux
+autres hommes: vous volez un bassin d'or garni de pierreries � un
+seigneur qui vous re�oit magnifiquement, et vous le donnez � un
+avare, qui vous traite avec indignit�.  Mon fils, r�pondit le
+vieillard, cet homme magnifique, qui ne re�oit les �trangers que
+par vanit�, et pour faire admirer ses richesses, deviendra plus
+sage; l'avare apprendra � exercer l'hospitalit�: ne vous �tonnez
+de rien, et suivez-moi.  Zadig ne savait encore s'il avait
+affaire au plus fou ou au plus sage de tous les hommes; mais
+l'ermite parlait avec tant d'ascendant, que Zadig, li� d'ailleurs
+par son serment, ne put s'emp�cher de le suivre.
+
+Ils arriv�rent le soir � une maison agr�ablement b�tie, mais
+simple, o� rien ne sentait ni la prodigalit� ni l'avarice.  Le
+ma�tre �tait un philosophe retir� du monde, qui cultivait en paix
+la sagesse et la vertu, et qui cependant ne s'ennuyait pas.  Il
+s'�tait plu � b�tir cette retraite dans laquelle il recevait les
+�trangers avec une noblesse qui n'avait rien de l'ostentation.
+Il alla lui-m�me au-devant des deux voyageurs, qu'il fit reposer
+d'abord dans un appartement commode.  Quelque temps apr�s, il les
+vint prendre lui-m�me pour les inviter � un repas propre et bien
+entendu, pendant lequel il parla avec discr�tion des derni�res
+r�volutions de Babylone.  Il parut sinc�rement attach� � la
+reine, et souhaita que Zadig e�t paru dans la lice pour disputer
+la couronne; mais les hommes, ajouta-t-il, ne m�ritent pas
+d'avoir un roi comme Zadig.  Celui-ci rougissait, et sentait
+redoubler ses douleurs.  On convint dans la conversation que les
+choses de ce monde n'allaient pas toujours au gr� des plus sages.
+L'ermite soutint toujours qu'on ne connaissait pas les voies de
+la Providence, et que les hommes avaient tort de juger d'un tout
+dont ils n'apercevaient que la plus petite partie.
+
+On parla des passions.  Ah! qu'elles sont funestes!  disait
+Zadig.  Ce sont les vents qui enflent les voiles du vaisseau,
+repartit l'ermite: elles le submergent quelquefois; mais sans
+elles il ne pourrait voguer.  La bile rend col�re et malade; mais
+sans la bile l'homme ne saurait vivre.  Tout est dangereux
+ici-bas, et tout est n�cessaire.
+
+On parla de plaisir, et l'ermite prouva que c'est un pr�sent de
+la Divinit�; car, dit-il, l'homme ne peut se donner ni sensation
+ni id�es, il re�oit tout; la peine et le plaisir lui viennent
+d'ailleurs comme son �tre.
+
+Zadig admirait comment un homme qui avait fait des choses si
+extravagantes pouvait raisonner si bien.  Enfin, apr�s un
+entretien aussi instructif qu'agr�able, l'h�te reconduisit ses
+deux voyageurs dans leur appartement, en b�nissant le ciel qui
+lui avait envoy� deux hommes si sages et si vertueux.  Il leur
+offrit de l'argent d'une mani�re ais�e et noble qui ne pouvait
+d�plaire.  L'ermite le refusa, et lui dit qu'il prenait cong� de
+lui, comptant partir pour Babylone avant le jour.  Leur
+s�paration fut tendre, Zadig surtout se sentait plein d'estime et
+d'inclination pour un homme si aimable.
+
+Quand l'ermite et lui furent dans leur appartement, ils firent
+long-temps l'�loge de leur h�te.  Le vieillard au point du jour
+�veilla son camarade.  Il faut partir, dit-il; mais tandis que
+tout le monde dort encore, je veux laisser � cet homme un
+t�moignage de mon estime et de mon affection.  En disant ces
+mots, il prit un flambeau, et mit le feu � la maison.  Zadig
+�pouvant� jeta des cris, et voulut l'emp�cher de commettre une
+action si affreuse.  L'ermite l'entra�nait par une force
+sup�rieure; la maison �tait enflamm�e.  L'ermite, qui �tait d�j�
+assez loin avec son compagnon, la regardait br�ler
+tranquillement.  Dieu merci!  dit-il, voil� la maison de mon cher
+h�te d�truite de fond en comble! L'heureux homme! A ces mots
+Zadig fut tent� �-la-fois d'�clater de rire, de dire des injures
+au r�v�rend p�re, de le battre, et de s'enfuir; mais il ne fit
+rien de tout cela, et toujours subjugu� par l'ascendant de
+l'ermite, il le suivit malgr� lui � la derni�re couch�e.
+
+Ce fut chez une veuve charitable et vertueuse qui avait un neveu
+de quatorze ans, plein d'agr�ments et son unique esp�rance.  Elle
+fit du mieux qu'elle put les honneurs de sa maison.  Le
+lendemain, elle ordonna � son neveu d'accompagner les voyageurs
+jusqu'� un pont qui, �tant rompu depuis peu, �tait devenu un
+passage dangereux.  Le jeune homme empress� marche au-devant
+d'eux.  Quand ils furent sur le pont: Venez, dit l'ermite au
+jeune homme, il faut que je marque ma reconnaissance � votre
+tante.  Il le prend alors par les cheveux, et le jette dans la
+rivi�re.  L'enfant tombe, repara�t un moment sur l'eau, et est
+engouffr� dans le torrent.  O monstre! � le plus sc�l�rat de tous
+les hommes!  s'�cria Zadig.  Vous m'aviez promis plus de
+patience, lui dit l'ermite en l'interrompant: apprenez que sous
+les ruines de cette maison o� la Providence a mis le feu, le
+ma�tre a trouv� un tr�sor immense: apprenez que ce jeune homme
+dont la Providence a tordu le cou aurait assassin� sa tante dans
+un an, et vous dans deux.  Qui te l'a dit, barbare? cria Zadig;
+et quand tu aurais lu cet �v�nement dans ton livre des destin�es,
+t'est-il permis de noyer un enfant qui ne t'a point fait de mal?
+
+Tandis que le Babylonien parlait, il aper�ut que le vieillard
+n'avait plus de barbe, que son visage prenait les traits de la
+jeunesse.  Son habit d'ermite disparut; quatre belles ailes
+couvraient un corps majestueux et resplendissant de lumi�re.  O
+envoy� du ciel! � ange divin! s'�cria Zadig en se prosternant, tu
+es donc descendu de l'empyr�e pour apprendre � un faible mortel �
+se soumettre aux ordres �ternels? Les hommes, dit l'ange Jesrad,
+jugent de tout sans rien conna�tre: tu �tais celui de tous les
+hommes qui m�ritait le plus d'�tre �clair�.  Zadig lui demanda la
+permission de parler.  Je me d�fie de moi-m�me, dit-il; mais
+oserai-je te prier de m'�claircir un doute: ne vaudrait-il pas
+mieux avoir corrig� cet enfant, et l'avoir rendu vertueux, que de
+le noyer?  Jesrad reprit: S'il avait �t� vertueux, et s'il e�t
+v�cu, son destin �tait d'�tre assassin� lui-m�me avec la femme
+qu'il devait �pouser, et le fils qui en devait na�tre.  Mais
+quoi! dit Zadig, il est donc n�cessaire qu'il y ait des crimes et
+des malheurs? et les malheurs tombent sur les gens de bien! Les
+m�chants, r�pondit Jesrad, sont toujours malheureux: ils servent
+� �prouver un petit nombre de justes r�pandus sur la terre, et il
+n'y a point de mal dont il ne naisse un bien.  Mais, dit Zadig,
+s'il n'y avait que du bien, et point de mal? Alors, reprit
+Jesrad, cette terre serait une autre terre, l'encha�nement des
+�v�nements serait un autre ordre de sagesse; et cet ordre, qui
+serait parfait, ne peut �tre que dans la demeure �ternelle de
+l'�tre supr�me, de qui le mal ne peut approcher.  Il a cr�� des
+millions de mondes, dont aucun ne peut ressembler � l'autre.
+Cette immense vari�t� est un attribut de sa puissance immense.
+Il n'y a ni deux feuilles d'arbre sur la terre, ni deux globes
+dans les champs infinis du ciel, qui soient semblables, et tout
+ce que tu vois sur le petit atome o� tu es n� devait �tre dans sa
+place et dans son temps fixe, selon les ordres immuables de celui
+qui embrasse tout.  Les hommes pensent que cet enfant qui vient
+de p�rir est tomb� dans l'eau par hasard, que c'est par un m�me
+hasard que cette maison est br�l�e: mais il n'y a point de
+hasard; tout est �preuve, ou punition, ou r�compense, ou
+pr�voyance.  Souviens-toi de ce p�cheur qui se croyait le plus
+malheureux de tous les hommes.  Orosmade t'a envoy� pour changer
+sa destin�e.  Faible mortel! cesse de disputer contre ce qu'il
+faut adorer.  Mais, dit Zadig....  Comme il disait _mais_, l'ange
+prenait d�j� son vol vers la dixi�me sph�re.  Zadig � genoux
+adora la Providence, et se soumit.  L'ange lui cria du haut des
+airs: Prends ton chemin vers Babylone.
+
+
+
+CHAPITRE XXI.
+
+Les �nigmes.
+
+
+Zadig hors de lui-m�me, et comme un homme aupr�s de qui est tomb�
+le tonnerre, marchait au hasard.  Il entra dans Babylone le jour
+o� ceux qui avaient combattu dans la lice �taient d�j� assembl�s
+dans le grand vestibule du palais pour expliquer les �nigmes, et
+pour r�pondre aux questions du grand-mage.  Tous les chevaliers
+�taient arriv�s, except� l'armure verte.  D�s que Zadig parut
+dans la ville, le peuple s'assembla autour de lui; les yeux ne se
+rassasiaient point de le voir, les bouches de le b�nir, les
+coeurs de lui souhaiter l'empire.  L'Envieux le vit passer,
+fr�mit, et se d�tourna; le peuple le porta jusqu'au lieu de
+l'assembl�e.  La reine, � qui on apprit son arriv�e, fut en proie
+� l'agitation de la crainte et de l'esp�rance; l'inqui�tude la
+d�vorait: elle ne pouvait comprendre, ni pourquoi Zadig �tait
+sans armes, ni comment Itobad portait l'armure blanche.  Un
+murmure confus s'�leva � la vue de Zadig.  On �tait surpris et
+charm� de le revoir; mais il n'�tait permis qu'aux chevaliers qui
+avaient combattu de para�tre dans l'assembl�e.
+
+J'ai combattu comme un autre, dit-il; mais un autre porte ici mes
+armes; et en attendant que j'aie l'honneur de le prouver, je
+demande la permission de me pr�senter pour expliquer les �nigmes.
+On alla aux voix: sa r�putation de probit� �tait encore si
+fortement imprim�e dans les esprits, qu'on ne balan�a pas �
+l'admettre.
+
+Le grand-mage proposa d'abord cette question: Quelle est de
+toutes les choses du monde la plus longue et la plus courte, la
+plus prompte et la plus lente, la plus divisible et la plus
+�tendue, la plus n�glig�e et la plus regrett�e, sans qui rien ne
+se peut faire, qui d�vore tout ce qui est petit, et qui vivifie
+tout ce qui est grand?
+
+C'�tait � Itobad � parler.  Il r�pondit qu'un homme comme lui
+n'entendait rien aux �nigmes, et qu'il lui suffisait d'avoir
+vaincu � grands coups de lance.  Les uns dirent que le mot de
+l'�nigme �tait la fortune, d'autres la terre, d'autres la
+lumi�re.  Zadig dit que c'�tait le temps: Rien n'est plus long,
+ajouta-t-il, puisqu'il est la mesure de l'�ternit�; rien n'est
+plus court, puisqu'il manque � tous nos projets; rien n'est plus
+lent pour qui attend; rien de plus rapide pour qui jouit; il
+s'�tend jusqu'� l'infini en grand; il se divise jusque dans
+l'infini en petit; tous les hommes le n�gligent, tous en
+regrettent la perte; rien ne se fait sans lui; il fait oublier
+tout ce qui est indigne de la post�rit�, et il immortalise les
+grandes choses.  L'assembl�e convint que Zadig avait raison.
+
+On demanda ensuite: Quelle est la chose qu'on re�oit sans
+remercier, dont on jouit sans savoir comment, qu'on donne aux
+autres quand on ne sait o� l'on en est, et qu'on perd sans s'en
+apercevoir?
+
+Chacun dit son mot: Zadig devina seul que c'�tait la vie.  Il
+expliqua toutes les autres �nigmes avec la m�me facilit�.  Itobad
+disait toujours que rien n'�tait plus ais�, et qu'il en serait
+venu � bout tout aussi facilement, s'il avait voulu s'en donner
+la peine.  On proposa des questions sur la justice, sur le
+souverain bien, sur l'art de r�gner.  Les r�ponses de Zadig
+furent jug�es les plus solides.  C'est bien dommage, disait-on,
+qu'un si bon esprit soit un si mauvais cavalier.
+
+Illustres seigneurs, dit Zadig, j'ai eu l'honneur de vaincre dans
+la lice.  C'est � moi qu'appartient l'armure blanche.  Le
+seigneur Itobad s'en empara pendant mon sommeil: il jugea
+apparemment qu'elle lui si�rait mieux que la verte.  Je suis
+pr�t � lui prouver d'abord devant vous, avec ma robe et mon �p�e,
+contre toute cette belle armure blanche qu'il m'a prise, que
+c'est moi qui ai eu l'honneur de vaincre le brave Otame.
+
+Itobad accepta le d�fi avec la plus grande confiance.  Il ne
+doutait pas qu'�tant casqu�, cuirass�, brassard�, il ne v�nt
+ais�ment � bout d'un champion en bonnet de nuit et en robe de
+chambre.  Zadig tira son �p�e, en saluant la reine qui le
+regardait, p�n�tr�e de joie et de crainte.  Itobad tira la
+sienne, en ne saluant personne.  Il s'avan�a sur Zadig comme un
+homme qui n'avait rien � craindre.  Il �tait pr�t � lui fendre la
+t�te: Zadig sut parer le coup, en opposant ce qu'on appelle le
+fort de l'�p�e au faible de son adversaire, de fa�on que l'�p�e
+d'Itobad se rompit.  Alors Zadig saisissant son ennemi au corps
+le renversa par terre; et lui portant la pointe de son �p�e au
+d�faut de la cuirasse: Laissez-vous d�sarmer, dit-il, ou je vous
+tue.  Itobad, toujours surpris des disgr�ces qui arrivaient � un
+homme comme lui, laissa faire Zadig, qui lui �ta paisiblement son
+magnifique casque, sa superbe cuirasse, ses beaux brassards, ses
+brillants cuissards; s'en rev�tit, et courut dans cet �quipage se
+jeter aux genoux d'Astart�.  Cador prouva ais�ment que l'armure
+appartenait � Zadig.  Il fut reconnu roi d'un consentement
+unanime, et surtout de celui d'Astart�, qui go�tait, apr�s tant
+d'adversit�s, la douceur de voir son amant digne aux yeux de
+l'univers d'�tre son �poux.  Itobad alla se faire appeler
+monseigneur dans sa maison.  Zadig fut roi, et fut heureux.  Il
+avait pr�sent � l'esprit ce que lui avait dit l'ange Jesrad.  Il
+se souvenait m�me du grain de sable devenu diamant.  La reine et
+lui ador�rent la Providence.  Zadig laissa la belle capricieuse
+Missouf courir le monde.  Il envoya chercher le brigand Arbogad,
+auquel il donna un grade honorable dans son arm�e, avec promesse
+de l'avancer aux premi�res dignit�s s'il se comportait en vrai
+guerrier, et de le faire pendre s'il fesait le m�tier de brigand.
+
+S�toc fut appel� du fond de l'Arabie, avec la belle Almona, pour
+�tre � la t�te du commerce de Babylone.  Cador fut plac� et ch�ri
+selon ses services; il fut l'ami du roi, et le roi fut alors le
+seul monarque de la terre qui e�t un ami.  Le petit muet ne fut
+pas oubli�.  On donna une belle maison au p�cheur.  Orcan fut
+condamn� � lui payer une grosse somme, et � lui rendre sa femme;
+mais le p�cheur, devenu sage, ne prit que l'argent.
+
+Ni la belle S�mire ne se consolait d'avoir cru que Zadig serait
+borgne, ni Azora ne cessait de pleurer d'avoir voulu lui couper
+le nez.  Il adoucit leurs douleurs par des pr�sents.  L'Envieux
+mourut de rage et de honte.  L'empire jouit de la paix, de la
+gloire, et de l'abondance: ce fut le plus beau si�cle de la
+terre; elle �tait gouvern�e par la justice et par l'amour.  On
+b�nissait Zadig, et Zadig b�nissait le ciel[a].
+
+  [a] C'est-ici que finit le manuscrit qu'on a retrouv� de
+  l'histoire de Zadig.  On sait qu'il a essuy� bien d'autres
+  aventures qui ont �t� fid�lement �crites.  On prie messieurs
+  les interpr�tes des langues orientales de les communiquer, si
+  elles parviennent jusqu'� eux.--Cette note de Voltaire parut
+  pour la premi�re fois dans les �ditions de Kehl.  B.
+
+                     FIN DE L'HISTOIRE DE ZADIG.
+The Project Gutenberg Etext of Zadig
+by Voltaire
+******This file should be named zadig10.txt or zadig10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, zadig11.txt
+VERSIONS based on separate sources get new LETTER, zadig10a.txt
+
+Produced by Carlo Traverso
+
+***
+
+More information about this book is at the top of this file.
+
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/eBook03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/eBook03
+
+Or /eBook02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+The most recent list of states, along with all methods for donations
+(including credit card donations and international donations), may be
+found online at http://www.gutenberg.net/donation.html
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these eBooks are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg eBooks or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+
+
+
+End of The Project Gutenberg Etext of Zadig
+by Voltaire
+

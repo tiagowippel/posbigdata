@@ -1,0 +1,4064 @@
+The Project Gutenberg EBook of Der Sturm, by William Shakespeare
+#41 in our series by William Shakespeare
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Der Sturm
+       The Tempest
+
+Author: William Shakespeare
+
+Release Date: January, 2005 [EBook #7236]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on March 30, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ISO-Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK DER STURM ***
+
+
+
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verf�gung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+
+Der Sturm;
+oder:
+Die bezauberte Insel.
+
+William Shakespeare
+
+�bersetzt von Christoph Martin Wieland
+
+
+Personen.
+
+Alonso, K�nig von Neapel.
+Sebastian, dessen Bruder.
+Prospero, rechtm�ssiger Herzog von Meiland.
+Antonio, dessen Bruder, und unrechtm�ssiger Innhaber von Meiland.
+Ferdinand, Sohn des K�nigs von Neapel.
+Gonsalo, ein ehrlicher alter Rath des K�nigs.
+Adrian und Francisco, zween Herren vom Adel.
+Caliban, ein wilder und mi�geschaffner Sclave.
+Trinculo, ein Hofnarr.
+Stephano, ein berauschter Kellermeister.
+Schiffspatron, Hochbootsmann und Matrosen.
+Miranda, Prosperos Tochter.
+Ariel, ein Sylphe.
+Iris, Ceres, Juno, Nymphen und Schnitter, Geister, die zu einer
+allegorischen Vorstellung gebraucht werden.
+
+
+
+
+Erster Aufzug.
+
+
+
+Erste Scene.
+(In einem Schiff auf dem Meer.)
+(Man h�rt ein Get�se von einem heftigen Sturm, mit Donner und
+ Blizen.)
+(Der Schiffspatron und der Hochbootsmann treten auf.)
+
+
+Schiffspatron.
+Hochbootsmann--
+
+Bootsmann.
+Hier, Patron: Wie steht's?
+
+Patron.
+Gut; redet mit den Matrosen; arbeitet mit den �ussersten Kr�ften,
+oder wir gehen zu Grunde; greift an, greift an!
+
+(Geht ab.)
+
+(Etliche Matrosen kommen herein.)
+
+Bootsmann.
+Hey, meine Kinder; munter, meine Kinder!  hurtig!  hurtig!  Zieht
+das Bramsegel ein!  gebt auf des Patrons Pfeifchen acht--Ey so
+blase, bis du bersten m�chtest--
+
+(Alonso, Sebastiano, Antonio, Ferdinand, Gonsalo, und andre zu den
+Vorigen.)
+
+Alonso.
+Guter Hochbootsmann, habt Sorge; wo ist der Schiffspatron?  Haltet
+euch wie M�nner!
+
+Bootsmann.
+Ich bitte euch, bleibt unten.
+
+Antonio.
+Wo ist der Patron, Hochbootsmann?
+
+Bootsmann.
+H�rt ihr ihn denn nicht--ihr geht uns im Weg um; geht in eure
+Caj�te; ihr helft nur dem Sturm.
+
+Gonsalo.
+Nun, mein guter Mann, seyd geduldig.
+
+Bootsmann.
+Wenn's das Meer ist.  Weg--was fragen diese Aufr�hrer nach dem
+Nahmen eines K�nigs?  In die Caj�te--Still!  hindert uns nicht!
+
+Gonsalo.
+Ehrlicher Mann, besinne dich, wen du am Bord hast--
+
+
+Bootsmann.
+Niemand, den ich lieber habe als mich selbst.  Ihr seyd ein Rath;
+wenn ihr diesen Elementen ein Stillschweigen auferlegen oder auf
+der Stelle den Frieden mit ihnen machen k�nnt, so wollen wir kein
+Thau mehr anr�hren; braucht eure Autorit�t.  Wenn ihr aber nichts
+k�nnt, so dankt dem Himmel, da� ihr so lange gelebt habt, und macht
+euch in eurer Caj�te auf das Ungl�k gefa�t, das alle Augenblike
+begegnen kan--Frisch zu, meine Kinder--fort aus dem Wege, sag ich.
+
+(Er geht ab.)
+
+Gonsalo.
+Dieser Kerl macht mir Muth; mich d�ucht, er sieht keinem gleich,
+der ersauffen wird, er hat eine vollkommne Galgen-Physionomie!
+halte fest an deiner Absicht, liebes Schiksal; mache den Strang,
+der ihm bestimmt ist, zu unserm Ankerseil, denn das unsrige hilft
+uns nicht viel: wenn er nicht zum Galgen gebohren ist, so steht es
+j�mmerlich um uns.
+
+(Sie gehen alle ab.)
+
+(Der Hochbootsmann kommt zur�k.)
+
+Hochbootsmann.
+Herab mit dem Bramsteng; greift an, besser herunter, noch besser!--
+macht, da� nur das Sch�nfahrsegel treibt--
+
+(man h�rt ein heulendes Geschrey hinter der Scene)
+
+da� die schwehre Noth di� verfluchte Geheul--
+(Antonio, Sebastiano und Gonsalo kommen zur�k.)--Sie �berschreyen
+das Wetter und uns--Seyd ihr wieder da?  Was thut ihr hier?  Sollen
+wir aufgeben und ersauffen?  habt ihr Lust dazu?
+
+Sebastiano.
+Da� die Pest deine Gurgel--du bellender, l�sterlicher
+unbarmherziger Hund!
+
+Bootsmann.
+So helft denn arbeiten.
+
+Antonio.
+Geh an den Galgen, du Hund, an den Galgen; du Hurensohn von einem
+unversch�mten Polterer; wir f�rchten uns weniger vor dem Ertrinken
+als du.
+
+Gonsalo.
+Ich steh ihm f�rs Ersauffen, und wenn gleich das Schiff nicht
+st�rker w�re als eine Nu�schaale, und so l�chricht als eine--
+(Etliche Matrosen von Wasser triefend treten auf.)
+
+Matrosen.
+Alles ist verlohren!  Betet, betet; alles ist verlohren!
+
+(Sie gehen ab.)
+
+Bootsmann.
+Wie, m�ssen wir uns in Wasser zu tode sauffen?
+
+Gonsalo.
+Der K�nig und der Prinz beten; wir wollen gehen und ihnen helfen;
+denn es geht uns wie ihnen.
+
+Sebastian.
+Die Geduld ist mir ausgegangen.
+
+Antonio.
+Diese Trunkenbolde sind ganz allein Schuld, da� wir umkommen--
+Dieser weitgespaltene Schurke--Ich wollt' er l�ge so tief im Meer,
+da� ihn zehn Fluthen nicht heraus sp�len k�nnten.
+
+Gonsalo.
+Er wird doch noch gehangen werden, und wenn jeder Tropfe Wasser
+dagegen schw�ren, und das Maul aufsperren w�rde, ihn zu
+verschlingen.
+
+(Man h�rt ein vermischtes Get�s hinter der Scene.)
+
+Wir scheitern, wir scheitern, wir sinken unter!  Lebet wohl, mein
+Weib und meine Kinder!  Wir scheitern!  wir scheitern!
+
+Antonio.
+Wir wollen alle mit dem K�nig versinken.
+
+(Geht ab.)
+
+Sebastian.
+Wir wollen Abschied von ihm nehmen.
+
+(Geht ab.)
+
+Gonsalo.
+Izt wollt' ich von Herzen gerne tausend Meilen See f�r eine
+Jauchart d�rren Boden geben, Heidekraut, Genister, was man wollte--
+der Wille des Himmels geschehe!  Doch wollt' ich lieber eines
+troknen Todes sterben!
+
+(Geht ab.)
+
+
+
+Zweyte Scene.
+(Verwandelt sich in einen Theil der bezauberten Insel, unweit der
+ Celle des Prospero.)
+(Prospero und Miranda treten auf.)
+
+
+Miranda.
+Wenn ihr, mein theurester Vater, diese wilden Wasser durch eure
+Kunst in einen so entsezlichen Aufruhr gesezt habet, o so leget sie
+wieder!  Der Himmel, so scheint es, w�rde stinkendes Pech
+heruntersch�tten, wenn nicht die See, die bis an seine Wangen
+steigt, das Feuer wieder l�schte.  O!  wie hab' ich mit diesen
+Ungl�klichen gelidten, die ich leiden sah!  Ein sch�nes Schiff
+(ohne Zweifel hatte es einige edle Gesch�pfe in sich) ganz in St�ke
+zerschmettert--O das Geschrey schlug recht gegen mein Herz an.  Die
+armen Seelen, sie kamen um!  H�tte ich die Macht irgend eines
+Gottes gehabt, ich wollte eher das Meer in die Erde hineingesenkt
+haben, eh es dieses gute Schiff so verschlungen haben sollte, und
+die darauf befindlichen Seelen mit ihm.
+
+Prospero.
+Fasse dich, meine Tochter; nicht so best�rzt; sage deinem
+mitleidigen Herzen, es sey kein Schaden geschehen.
+
+Miranda.
+O!  ungl�klicher Tag!
+
+Prospero.
+Kein Ungl�k.  Was ich gethan habe, hab' ich aus F�rsorge f�r dich
+gethan, f�r dich, meine Theure, meine Tochter, die du nicht wei�st,
+wer du bist, oder von wannen ich hieher kam, noch da� ich etwas
+bessers bin als Prospero, Herr �ber eine armselige Celle, und dein
+nicht gr�sserer Vater.
+
+Miranda.
+Mir fiel niemals ein, mehr wissen zu wollen.
+
+Prospero.
+Es ist Zeit, da� ich dir mehr entdeke.  Lehne mir deine Hand, und
+ziehe mir dieses magische Gewand ab; so!
+
+(er legt seinen Mantel hin)
+
+lige hier, meine Kunst--Wische du deine Augen, beruhige dich.
+Dieses f�rchterliche Schauspiel des Schiffbruchs, welches ein so
+z�rtliches Mitleiden in deinem Herzen erregt hat, hab ich durch die
+Mittel, die meine Kunst mir an die Hand giebt, so sicher angeordnet,
+da� keine Seele zu Grunde gegangen ist, nein, nicht ein Haar von
+irgend einem dieser Gesch�pfe, deren Geschrey du h�rtest, die du
+sinken sahst: Seze dich nieder, denn du must nun noch mehr wissen.
+
+Miranda.
+Ihr habt oft angefangen mir sagen zu wollen, was ich sey, aber
+wieder inngehalten, und mich einem eiteln Nachsinnen �berlassen,
+indem ihr allemal damit schlosset, halt!  noch nicht--
+
+Prospero.
+Die Stund' ist nun gekommen, und es ist keine Minute mehr zu
+verliehren.  H�re dann und sey aufmerksam.  Erinnerst du dich einer
+Zeit, eh wir in diese Celle kamen?  Ich denke nicht, da� du es
+kanst; denn du warst damals noch nicht volle drey Jahre alt.
+
+Miranda.
+Ja, mein Herr, ich kan.
+
+Prospero.
+Wobey dann?  Bey irgend einem Haus oder einer Person?  Sage mir,
+was es auch seyn mag, dessen Bild in deinem Ged�chtni� geblieben
+ist.
+
+Miranda.
+Es ist in einer tiefen Entfernung, und eher einem Traum als einer
+Gewi�heit gleich, was mir die Erinnerung vorstellt.  Hatte ich
+nicht einst vier oder f�nf Weiber, die mir aufwarteten?
+
+Prospero.
+Du hattest, und mehr, Miranda.  Aber wie kommt es, da� di� noch in
+deinem Gem�the lebt?  Was siehst du noch mehr in dem tiefen Abgrund
+der verflossenen Zeit?  Wenn du dich noch an etwas erinnerst, eh du
+hieher kamst, so wirst du dich auch erinnern, wie du hieher kamst.
+
+Miranda.
+Nein, das thue ich nicht.
+
+Prospero.
+Es sind nun zw�lf Jahre seit dieses geschah, Miranda; zw�lf Jahre,
+seit der Zeit, da dein Vater Herzog von Meiland und ein m�chtiger
+F�rst war.
+
+Miranda.
+Mein Herr, seyd ihr dann nicht mein Vater?
+
+Prospero.
+Deine Mutter war ein Muster der Tugend, und sie sagte, du seyest
+meine Tochter; und dein Vater war Herzog von Meiland, und du seine
+einzige Erbin.
+
+Miranda.
+O Himmel!  Was f�r ein schlimmer Streich trieb uns von dannen?
+Oder war es unser Gl�k, da� es geschah?
+
+Prospero.
+Beydes, beydes, mein M�dchen!  Durch einen schlimmen Streich, wie
+du sagst, wurden wir von dort vertrieben, und gl�klicher Weise
+hieher gerettet.
+
+Miranda.
+O!  mein Herz blutet, wenn ich an die Sorgen denke, die ich euch in
+einer Zeit gemacht haben werde, an die ich mich nicht mehr besinnen
+kan.  Ich bitte euch, fahret fort.
+
+Prospero.
+Mein Bruder, und dein Oheim, Antonio genannt, (ich bitte dich,
+merke auf)--da� ein Bruder f�hig seyn konnte, so treulos zu seyn!--
+Er, den ich, n�chst dir selbst, �ber alle Welt liebte, und dem ich
+die Verwaltung meines Staats anvertraute, der damals unter allen in
+Italien der erste, so wie es Prospero an Ansehen war, und an Ruhm
+in den Wissenschaften, die meine einzige Besch�ftigung waren.  Ich
+�berlie� also die Staatsverwaltung meinem Bruder, und wurd' ein
+Fremdling in meinem eignen Lande, so sehr ri� mich die Liebe und
+der Reiz geheimni�reicher Studien dahin.  Dein treuloser Oheim--
+Aber du giebst nicht Acht!
+
+Miranda.
+H�chst aufmerksam, mein Herr.
+
+Prospero.
+Dein Oheim, sag ich, der in der Kunst ausgelernt war, wie er ein
+Gesuch bewilligen oder wie er es abschlagen, wen er bef�rdern oder
+wen er wegen eines allzu�ppigen Wuchses abschneiden sollte; schuf
+alle diejenigen um, die meine Creaturen waren; ich sage, er
+versezte sie entweder, oder er gab ihnen sonst eine andre Form; und
+da er den Schl�ssel zu dem Amt und zu dem Beamteten hatte, stimmte
+er alle Herzen in dem Staat, nach dem Ton, der seinem Ohr der
+angenehmste war.  Solchergestalt war er nun der Epheu, der meinen
+f�rstlichen Stamm umwand, und sein Mark an sich sog--du giebst
+nicht Acht.
+
+Miranda.
+Ich thu es, mein werther Herr.
+
+Prospero.
+Ich bitte dich, merke wohl auf.  Da ich nun alle weltlichen Dinge
+so bey Seite sezte, und mich ganz der Einsamkeit und der
+Verbesserung meines Gem�ths widmete, die in meinen Augen alles
+�berwog was der grosse Hauffe hochsch�zt, so erwachte meines
+Bruders schlimme Gem�thsart, und mein Zutrauen br�tete eine Untreue
+in ihm aus, die so gro� war als mein Zutrauen, welches in der That
+keine Grenzen hatte.  Da er sich in dem Besiz meiner Eink�nfte und
+meiner Gewalt sah, so machte ers wie einer, der durch h�ufiges
+Erz�hlen der nemlichen Unwahrheit einen solchen S�nder aus seinem
+Ged�chtni� macht, da� er selbst nicht mehr wei�, da� es eine
+Unwahrheit ist; er hatte so lange die Rolle des Herzogs mit allen
+ihren Vorrechten gespielt, da� er sich zulezt einbildete, er sey
+der Herzog selbst--H�rst du mir zu?
+
+Miranda.
+Eure Erz�hlung, mein Herr, k�nnte die Taubheit heilen.
+
+Prospero.
+Damit nun aller Unterschied zwischen der Person die er spielte, und
+demjenigen, f�r welchen er sie spielte, aufh�ren m�chte, wollte er
+schlechterdings selbst Herzog in Meiland seyn.  Mir, armen Manne,
+dachte er, w�re mein B�chersaal Herzogthums genug; zu allen
+Gesch�ften eines F�rsten hielt er mich f�r ganz unt�chtig.  Er
+machte also ein B�ndni� mit dem K�nig von Neapolis, und verstuhnd
+sich, (so sehr d�rstete ihn nach der Herrschaft), ihm einen
+j�hrlichen Tribut zu bezahlen, und ihn als seinen Lehnsherrn zu
+erkennen, seinen F�rstenhut der Crone dieses K�nigs zu unterwerffen,
+und das bisher unabh�ngige Herzogthum (armes Meiland!) unter ein
+schimpfliches Joch zu beugen.
+
+Miranda.
+O Himmel!
+
+Prospero.
+H�re nun die Bedingung die er ihm dagegen machte, und den Ausgang;
+dann sage mir, ob das ein Bruder war?
+
+Miranda.
+Es w�re S�nde, von meiner Gro�mutter etwas unedels zu denken; gute
+Eltern k�nnen schlimme Kinder haben.
+
+Prospero.
+Nun die Bedingung: Dieser K�nig von Neapel, der mein alter Feind
+war, willigte mit Freuden in meines Bruders Begehren, welches dahin
+gieng, da� er, gegen die ihm zugestandne Abh�nglichkeit, und ich
+wei� nicht wie viel j�hrlichen Tribut, unges�umt mich und die
+meinigen aus dem Herzogthum vertreiben, und das sch�ne Meiland mit
+allen seinen Regalien meinem Bruder zu Lehen geben sollte.  Nachdem
+sie nun zu Ausf�hrung dieses Vorhabens eine verr�therische
+Kriegsschaar zusammen gebracht, �ffnete Antonio in einer fatalen
+Mitternacht die Thore von Meiland, und in der Todesstille der
+Finsterni� schleppten die Diener seiner b�sen That mich und dein
+schreyendes Selbst hinweg.
+
+Miranda.
+O weh!  Ich will izt �ber diese Gewaltthat schreyen, da ich mich
+nicht mehr erinnere, wie ich damals geschrien habe; eine geheime
+Nachempfindung pre�t diese Thr�nen aus meinen Augen.
+
+Prospero.
+H�r' ein wenig weiter, und dann will ich dich zu der gegenw�rtigen
+Angelegenheit bringen, die wir vor uns haben, und ohne welche diese
+Erz�hlung sehr unbesonnen w�re.
+
+Miranda.
+Warum nahmen sie uns denn das Leben nicht?
+
+Prospero.
+Die Frage ist vern�nftig, M�dchen; meine Erz�hlung veranlaset sie.
+Sie durften es nicht wagen, meine Theureste, so gro� war die Liebe
+die das Volk f�r mich hatte, sie durften es nicht wagen, ihre
+�belthat durch ein blutiges Merkmal der Entdekung auszusezen,
+sondern strichen ihre boshaftigen Absichten mit sch�nern Farben an.
+Kurz, sie schleppten uns auf eine Barke, und f�hrten uns etliche
+Meilen in die See, wo sie ein ausgeweidetes Gerippe von einem Boot,
+ohne Thauwerk, ohne Seegel, und ohne Mast zubereiteten, ein so
+armseliges Ding, das sogar die Razen, vom Instinct gewarnet, es
+verlassen hatten; und auf diesem elenden Nachen stiessen sie uns in
+die See, um den Wellen entgegen zu jammern, die uns heulend
+antworteten; und den Winden zuzuseufzen, deren wieder
+zur�kseufzendes Mitleiden unsre Angst vermehrte, indem es sie
+lindern zu wollen schien.
+
+Miranda.
+Himmel!  wie viel Unruhe mu� ich euch damals gemacht haben!
+
+Prospero.
+O!  Ein Cherubim warst du, der mich besch�zte.  Da ich von der Last
+meines Elends niedergedr�kt, einen Strom von trostlosen Thr�nen in
+die See hinunter weinte, da l�cheltest du mir mit einer vom Himmel
+eingego�nen Freudigkeit entgegen, und erwektest dadurch den Muth in
+mir, alles zu ertragen, was �ber mich kommen w�rde.
+
+Miranda.
+Wie kamen wir denn ans Land?
+
+Prospero.
+Durch G�ttliche Vorsicht!  Wir hatten einigen Vorrath von Speise
+und frischem Wasser, womit uns Gonsalo, ein Neapolitanischer
+Edelmann, dem die Ausf�hrung dieses Gesch�fts anbefohlen war, aus
+Gutherzigkeit und Mitleiden versehen hatte.  Er hatte uns auch mit
+reichen Kleidern, leinen Ger�the und andern Nothwendigkeiten
+beschenkt, die uns seither gute Dienste gethan haben; und da er
+wu�te wie sehr ich meine B�cher liebte, so verschafte mir seine
+Leutseligkeit aus meinem eignen Vorrath einige, die ich h�her
+sch�ze als mein Herzogthum.
+
+Miranda.
+Wie w�nscht' ich diesen Mann einmal zu sehen!
+
+Prospero.
+Nun komm ich zur Hauptsache.  Bleibe sizen, und h�re das Ende
+meiner Erz�hlung.  Wir kamen in dieses Eiland, und hier hab' ich,
+durch meine Unterweisungen, dich weiter gebracht als andre F�rsten
+k�nnen, die nur f�r ihre Lustbarkeiten Musse haben, und die
+Erziehung ihrer Kinder nicht so sorgf�ltigen Aufsehern �berlassen.
+
+Miranda.
+Der Himmel danke es euch!  Aber nun bitte ich euch mein Herr, (denn
+ich h�re dieses Ungewitter noch immer in meiner Einbildung) was war
+die Ursache, warum ihr diesen Sturm erreget habt?
+
+Prospero.
+So wisse denn, da� durch einen h�chst seltsamen Zufall, das mir
+wieder g�nstige Gl�k meine Feinde an dieses Ufer gebracht hat:
+Meine Vorhersehungs-Kunst sagt mir, da� ein sehr gl�klicher Stern
+�ber meinem Zenith schwebt; allein sie sagt mir auch, da� wenn ich
+die wenigen Stunden seines g�nstigen Einflusses ungen�zt
+entschl�pfen lasse, mein Gl�k auf immer verscherzt seyn werde--Hier
+frage nicht weiter; du bist schl�frig; es ist eine heilsame
+Bet�ubung, gieb ihr nach; ich wei� da� du nicht anders kanst.
+
+(Miranda schl�ft ein.)
+
+Herbey, mein Diener, herbey; ich bin fertig.  N�here dich, mein
+Ariel--Komm!
+
+
+
+Dritte Scene.
+(Ariel zu Prospero.)
+
+
+Ariel.
+Heil dir, mein grosser Meister!  Ehrw�rdiger Herr, Heil dir!  ich
+komme deine Befehle auszurichten; es sey nun zu fliegen oder zu
+schwimmen, mich in die Flammen zu tauchen, oder auf den krausen
+Wolken zu reiten; Ariel und alle seine Kr�fte sind zu deinem
+m�chtigen Befehl.
+
+Prospero.
+Hast du, o Geist, den Sturm so ausgerichtet, wie ich dir befahl?
+
+Ariel.
+Bis auf den kleinsten Umstand.  Ich kam an Bord des K�niglichen
+Schiffes, und sezte, in Flammen eingeh�llt, bald das Vordertheil,
+bald den Bauch, das Verdek und jede Caj�te in Schreken.  Zuweilen
+theilt' ich mich, und z�ndet' es an etlichen Orten zugleich an,
+flammte in abgesonderten Klumpen Feuers auf dem Bramsteng, den
+Segelstangen und dem B�gs-Priet-Mast; dann flo� ich wieder zusammen.
+Jupiters Blize selbst, die Vorl�uffer f�rchterlicher Donner-
+Schl�ge, sind nicht behender zu leuchten und wieder zu verschwinden;
+das schmetternde Gebr�ll der schweflichten Flammen schien den
+allm�chtigen Neptunus zu belagern, und seine k�hne Woogen zittern
+zu machen, ja seinen furchtbaren Dreyzak selbst zu ersch�ttern.
+
+Prospero.
+Mein wakrer, wakrer Geist!  War einer unter diesen Leuten gesezt
+und standhaft genug, bey einem solchen Get�se Meister von sich
+selbst zu bleiben?
+
+Ariel.
+Keine einzige Seele, die nicht, von fieberhaften Schauern
+gesch�ttelt, in irgend einen Ausbruch von Verzweiflung fiel.  Alle,
+bis auf die Schiffleute, verliessen das Schiff, das ganz von mir in
+Flammen stuhnd, und st�rzten sich in das sch�umende Salzwasser.
+Ferdinand, des K�nigs Sohn, war der erste, der mit berg an
+stehendem Haar, eher Binsen als Haaren �hnlich, in die See sprang.
+Die H�lle ist leer, schrie er, und alle Teufel sind hier.
+
+Prospero.
+Gut, das ist mein Geist!  Aber war es nahe genug am Ufer?
+
+Ariel.
+Ganz nah, mein Gebieter.
+
+Prospero.
+Sind sie alle errettet, Ariel?
+
+Ariel.
+Es ist nicht ein Haar umgekommen, und auf ihren Kleidern ist nicht
+ein Fleken, sondern sie gl�nzen frischer als zuvor.  Wie du mir
+befohlen hast, hab' ich sie truppenweise um die Insel her zerstreut:
+den Sohn des K�nigs hab ich ganz allein ans Land gebracht, und ihn
+in einem d�stern Winkel der Insel verlassen, wo er mit
+verschlungnen Armen traurig dasizt, und die Luft mit seinen
+Seufzern abk�hlt.
+
+Prospero.
+Was hast du denn mit dem Schiffsvolk auf dem k�niglichen Schiffe,
+und mit dem ganzen Rest der Flotte gemacht?
+
+Ariel.
+Des K�nigs Schiff ist unbesch�digt in Sicherheit gebracht.  Ich hab
+es in eine tiefe Bucht der Bermudischen Inseln verborgen, wohin du
+mich einst um Mitternacht schiktest, Thau zu holen.  Die
+Schiffleute, alle in den Raum zusammen gedr�ngt, habe ich in einen
+bezauberten Schlaf versenkt; die �brigen Schiffe der Flotte die ich
+zerstreut hatte, fanden sich wieder zusammen, und sind auf der
+mittell�ndischen See im Begriff traurig wieder heim nach Neapel zu
+segeln, in der Meynung, da� sie des K�nigs Schiff scheitern, und
+seine hohe Person umkommen gesehen haben.
+
+Prospero.
+Ariel, du hast meinen Auftrag p�nctlich ausgerichtet; aber es ist
+noch mehr Arbeit; wie viel ist es am Tage?
+
+Ariel.
+H�chstens zwey Stunden nach Mittag.
+
+Prospero.
+Die Zeit zwischen izt und Sechse mu� von uns beyden als h�chst
+kostbar angewendet werden.
+
+Ariel.
+Ist noch mehr zu thun?  Da du mir so viel M�he auflegest, so
+verstatte da� ich dich an etwas erinnre, so du mir versprochen und
+noch immer nicht gehalten hast.
+
+Prospero.
+Wie?  du bist �bel aufger�umt?  Was verlangst du denn?
+
+Ariel.
+Meine Freyheit.
+
+Prospero.
+Eh deine Zeit aus ist?  Nichts mehr davon!
+
+Ariel.
+Ich bitte dich, erinnere dich wie getreu ich dir gedient habe; ich
+sagte dir keine L�gen vor, ich machte nie eines f�r das andre, ich
+diente dir ohne Groll noch Murren; und du versprachest mir ein
+ganzes Jahr nachzulassen.
+
+Prospero.
+Hast du vergessen, von was f�r einer Marter ich dich befreyet habe?
+
+Ariel.
+Nein.
+
+Prospero.
+Du hast es vergessen, und h�ltst es f�r zuviel in dem sumpfichten
+Grund des gesalznen Meeres f�r mich zu waten, oder auf dem scharfen
+Nordwind zu rennen, oder in den Adern der hartgefrornen Erde meine
+Gesch�fte auszurichten.
+
+Ariel.
+Das thu ich nicht, mein gebietender Herr.
+
+Prospero.
+Du l�gst, boshaftes Ding.  Hast du die scheu�liche Zauberin Sycorax
+vergessen, die von Alter und Neid in einen Reif zusammengewachsen
+war?  Hast du sie vergessen?
+
+Ariel.
+Nein, Herr.
+
+Prospero.
+Du hast; wo war sie gebohren?  Sprich, erz�hl es mir.
+
+Ariel.
+In Argier, mein Herr.
+
+Prospero.
+So, war sie?  ich mu� alle Monat einmal mit dir wiederholen was du
+gewesen bist, um dir das Ged�chtni� ein wenig anzufrischen.  Diese
+verdammte Hexe Sycorax, war wegen manchfaltiger �belthaten und
+Zaubereys�nden, die zu ungeheuer sind, als da� ein menschliches Ohr
+sie ertragen k�nnte, wie du weist, von Argier verbannt; um eines
+einzigen willen das sie gethan hatte, wollten sie ihr das Leben
+nicht nehmen.  Ists nicht so?
+
+Ariel.
+Ja, mein Herr.
+
+Prospero.
+Diese blauaugichte Unholdin ward schw�ngern Leibes hiehergebracht,
+und von den Schiffleuten hier zur�kgelassen; du, mein Sclave,
+warest nach deiner eignen Aussage, damals ihr Diener.  Und weil du
+zu Verrichtung ihrer irdischen und abscheulichen Auftr�ge ein zu
+z�rtlicher Geist warst, und ihre grossen Befehle ausschlugest; so
+schlo� sie dich in ihrer unerbittlichen Wuth, mit H�lfe ihrer
+st�rkern Diener in eine gespaltne Fichte, in deren Klamme
+eingekerkert du zw�lf peinvolle Jahre verharren mu�test, bis sie
+starb und dich in diesem elenden Zustand lie�, worinn du die Gegend
+umher, soweit als man das Get�se von M�hlr�dern h�ren kan, mit
+�chzen und Winseln erf�lltest.  Damals war dieses Eiland, (ausser
+einem Sohn, den sie hier geworfen hatte, einen rothgeflekten
+ungestalten Wechselbalg) mit keiner menschlichen Gestalt geziert.
+
+Ariel.
+Ja, Caliban ihr Sohn.
+
+Prospero.
+Dummes Ding, das ists was ich sage; eben dieser Caliban, den ich
+nun in meinen Dinsten habe.  Du weist am besten in was f�r einer
+Quaal ich dich hier fand; dein Winseln machte W�lfe mit dir heulen,
+und durchbohrte die wilde Brust des immerz�rnenden B�rs; es war
+eine Marter, wie die Verdammten ausstehen m�ssen, und Sycorax
+selbst war nicht im Stande sie wieder aufzuheben: meine Kunst war
+es, als ich hieher kam und dich h�rte, welche die bezauberte Fichte
+zwang sich zu �ffnen, und dich herauszulassen.
+
+Ariel.
+Ich danke dir, mein Gebieter.
+
+Prospero.
+Wenn du noch einmal murrest, so will ich eine Eiche spalten, und
+dich in ihr knottichtes Eingeweide einklammern, bis du zw�lf Winter
+weggeheult hast.
+
+Ariel.
+Vergieb mir, mein Gebieter, ich will alle deine Befehle vollziehen,
+und willig und behend in meinen Sp�kereyen seyn.
+
+Prospero.
+Thue das, so will ich dich in zween Tagen frey lassen.
+
+Ariel.
+Das ist mein gro�m�thiger Meister!  Was soll ich thun?  Sage was?
+Was soll ich thun?
+
+Prospero.
+Geh, nimm die Gestalt einer Meernymphe an, aber mache dich jedem
+andern Auge als dem meinigen unsichtbar.  Geh, und komm in dieser
+Gestalt wieder hieher; mache hurtig.
+
+(Ariel verschwindt.)
+
+Erwache, mein theures Herz, erwache, du hast wohl geschlafen--
+Erwache!
+
+Miranda.
+Die Seltsamkeit eurer Geschichte hat meinen Kopf ganz schwer
+gemacht.
+
+Prospero.
+Muntre dich auf; komm mit, wir wollen den Caliban meinen Sclaven
+besuchen, der uns niemals eine freundliche Antwort giebt.
+
+Miranda.
+Es ist ein Nichtsw�rdiger, mein Herr, ich mag ihn nicht gerne
+ansehen.
+
+Prospero.
+Und doch, so wie er ist k�nnen wir nicht ohne ihn seyn; er macht
+uns unser Feuer, schaft unser Holz herbey und thut uns Dienste, die
+uns zu statten kommen.  He!  Sclave!  Caliban!  du Kloz du, gieb
+Antwort!
+
+Caliban (hinter der Scene.)
+Es ist Holz genug drinnen.
+
+Prospero.
+Komm hervor, sag' ich, es ist eine andre Arbeit f�r dich da, komm,
+du Schildkr�te!  Nun, wie lange--
+
+(Ariel erscheint in Gestalt einer Wasser-Nymphe.)
+
+Eine artige Erscheinung!  Mein muntrer Ariel, ich habe dir etwas
+ins Ohr zu sagen--
+
+Ariel.
+Es soll geschehen, mein Gebieter.
+
+(Geht ab.)
+
+Prospero.
+Du kr�tenm��iger Sclave, vom Teufel selbst mit der Hexe, die dich
+gebohren hat, gezeugt!  hervor!
+
+
+
+Vierte Scene.
+(Caliban zu den Vorigen.)
+
+
+Caliban.
+Ein so sch�dlicher Thau, als jemals meine Mutter mit Rabenfedern
+von ungesundem Morast abgeb�rstet hat, tr�ufle auf euch beyde!  Ein
+S�dwest blase euch an, und bedeke euch �ber und �ber mit Schw�len
+und Finnen!
+
+Prospero.
+F�r diesen guten Wunsch, verla� dich drauf, sollt du diese Nacht
+den Krampf haben, Seitenstiche sollen deinen Athem einzw�ngen, und
+Igel sollen sich die ganze Nacht durch an dir erm�den; du sollt so
+dicht gekneipt werden, wie Honigwaben, und jeder Zwik soll sch�rfer
+stechen als die Bienen, die sie machen.
+
+Caliban.
+Ich mu� zu Mittag essen.  Diese Insel ist mein, ich habe sie von
+Sycorax, meiner Mutter geerbt, und du hast sie mir abgenommen.  Wie
+du hieherkamst, da streicheltest du mich, und thatest freundlich
+mit mir, gabst mir Wasser mit Beeren drinn zu trinken, und lehrtest
+mich, wie ich das gr�ssere Licht und das kleinere, die des Tags und
+des Nachts brennen, nennen sollte; und da liebt ich dich, und
+zeigte dir die ganze Beschaffenheit der Insel, die frischen Quellen,
+und die salzigen, die �den und die fruchtbaren Gegenden.
+Verflucht sey ich, da� ich es that!  Alle Zaubereyen meiner Mutter,
+Kr�ten, Schr�ter und Flederm�use �ber euch!  Da� ich, der vorher
+mein eigner K�nig war, nun euer einziger Unterthan, und in diesen
+Felsen eingesperrt seyn mu�, indessen da� ihr die ganze �brige
+Insel f�r euch allein behaltet.
+
+Prospero.
+Du l�genhafter Sclave, den nur Schl�ge, statt Freundlichkeit,
+z�hmen k�nnen; So ein garstiges Thier du bist, so hab ich dir doch
+mit menschlicher F�rsorge begegnet, und dich in meiner eignen Celle
+beherberget, bi� du frech genug warst, meinem Kinde Gewalt anthun
+zu wollen.
+
+Caliban.
+O ho!  o ho!--Ich wollt' es w�re vor sich gegangen; du kamst zu
+fr�h dazu, sonst h�tte ich diese Insel mit Calibanen bev�lkert.
+
+Prospero.
+Du abscheulicher Sclave, unf�hig den Eindruk von irgend einer guten
+Eigenschaft anzunehmen, und zu allem B�sen aufgelegt!  Ich hatte
+Mitleiden mit dir nahm die M�he dich reden zu lehren, und wie� dir
+alle Stunden etwas neues.  Da du nicht im Stand warst, du wilder,
+deine eigne Meynung zu entdeken, sondern gleich einem
+unvern�nftigen Vieh nur unf�rmliche T�ne von dir gabst, begabte ich
+deine Gedanken mit Worten, damit du sie andern verst�ndlich machen
+k�nntest.  Aber ungeachtet alles Unterrichts behielt die angebohrne
+Bosheit deiner Natur die Oberhand und machte deine Gesellschaft
+wohlgearteten Gesch�pfen unertr�glich; ich sah mich also gezwungen,
+dich in diesen Felsen einzusperren, und begn�gte mich, deine
+Bosheit nur allein unw�rksam zumachen, ob du gleich mehr als ein
+Gef�ngni� verdient hattest.
+
+Caliban.
+Ihr lehrtet mich reden, und der ganze Vortheil den ich davon habe,
+ist da� ich fluchen kan; da� ihr die Pest daf�r h�ttet, da� ihr
+mich reden gelehrt habt!
+
+Prospero.
+Du Wechselbalg, hinweg!  Bring uns Holz und Reiser zu einem Feuer
+hieher, und mache hurtig, damit ich dich zu andern Arbeiten
+gebrauchen kan.  Z�kst du die Achseln, du Unhold?  Wenn du nicht
+thust was ich dir befehle, oder es unwillig thust, so will ich dich
+am ganzen Leibe mit krampfichten Z�kungen foltern, alle deine
+Gebeine mit Schmerzen f�llen, und dich heulen machen, da� wilde
+Thiere vor deinem Geschrey zittern sollen.
+
+Caliban.
+Nein, ich bitte dich.
+
+(F�r sich.)
+
+Ich mu� gehorchen; seine Kunst giebt ihm eine so grosse Gewalt,
+da� er im Stande w�re, meiner Mutter Gott Setebos zu bezwingen, und
+einen Vasallen aus ihm zu machen.
+
+(Caliban geht ab.)
+
+Prospero.
+So, Sclave, hinweg!
+
+
+
+F�nfte Scene.
+(Ferdinand tritt auf; Ariel unsichtbar singend und spielend.)
+
+
+Ferdinand.
+Wo kan diese Musik seyn?  In der Luft oder auf der Erde?--Sie hat
+aufgeh�rt--wahrhaftig es ist eine Anzeige, da� irgend eine Gottheit
+dieses Eiland bewohnt.  Indeme ich auf einer Sandbank sa�, und den
+Untergang des K�nigs meines Vaters beweinte, schien diese Musik
+�ber die Wellen mir entgegen zu schleichen, und bes�nftigte durch
+ihre Lieblichkeit beydes ihre Wuth und meine Leidenschaft; ich
+folgte ihr bis an diesen Ort, oder sie zog mich vielmehr an;--Aber
+sie hat aufgeh�rt--Nun beginnt sie von neuem.
+
+Ariel (singt:)
+F�nf Faden tief dein Vater ligt,
+Sein Gebein ward zu Corallen,
+Zu Perlen seine Augen-Ballen,
+Und vom Moder unbesiegt,
+Wandelt durch der Nymphen Macht
+Sich jeder Theil von ihm und gl�nzt in fremder Pracht.
+Die Nymphen lassen ihm zu Ehren
+Von Stund zu Stund die Todtengloke h�ren.
+Horch auf, ich h�re sie, ding-dang, ding-dang--
+
+Ferdinand.
+Der Gesang spricht von meinem ertr�nkten Vater; di� ist nicht das
+Werk eines Sterblichen, noch eine irdische Musik; izt h�r ich sie
+�ber mir.
+
+
+
+Sechste Scene.
+(Prospero und Miranda n�hern sich auf einer andern Seite dem Orte,
+ wo Ferdinand steht.)
+
+
+Prospero.
+Ziehe die Vorh�nge deiner Augen auf, und sage, was du dort siehest?
+
+Miranda.
+Was ist es?  ein Geist?--Wie es umherschaut!  Glaubet mir, mein
+Herr, es hat eine feine Gestalt.  Aber--es ist ein Geist.
+
+Prospero.
+Nein, M�dchen, es i�t und schl�ft, und hat solche Sinnen wie wir
+haben, eben solche; und wenn es nicht von Gram (der der Sch�nheit
+Krebs ist) in etwas entstellt w�re, k�nnte man ihn eine ganz
+h�bsche Person nennen.  Er hat seine Gef�hrten verlohren, und irret
+umher sie zu suchen.
+
+Miranda.
+Ich m�chte ihn etwas G�ttliches nennen, denn nie sah ich in der
+Natur eine so edle Gestalt.
+
+Prospero (f�r sich.)
+Es geht, sehe ich, wie es mein Herz w�nschet--Geist, feiner Geist,
+f�r di� will ich dich in zween Tagen frey lassen.
+
+Ferdinand
+
+(indem er Miranda gewahr wird.)
+
+Ganz gewi� ist dieses die G�ttin, deren Gegenwart jene Harmonien
+ank�ndigten.  Erlaubet meiner Bitte zu wissen, ob ihr auf dieser
+Insel wohnet, und w�rdiget mich einer Belehrung, wie ich mich hier
+zu verhalten habe?  Mein erster Wunsch, obgleich zulezt
+ausgesprochen, ist, o ihr Wunder!  zu wissen, ob ihr geschaffen
+seyd oder nicht?
+
+Miranda.
+Kein Wunder, mein Herr, aber ganz gewi� ein M�dchen.
+
+Ferdinand.
+Meine Sprache!  Himmel!  ich bin der Erste unter denen die diese
+Sprache reden; w�r' ich nur da wo sie geredet wird.
+
+Prospero.
+Wie?  der erste?  Was w�rest du, wenn dich der K�nig von Neapel
+reden h�rte?
+
+Ferdinand.
+Eine einzelne Person, wie izt, die sich wundert, dich vom K�nig von
+Neapel reden zu h�ren.  Er h�rt mich, und da� er mich h�ret, ist
+was ich beweine.  Ich selbst bin nun der K�nig von Neapel, da ich
+mit diesen meinen Augen, die seit dem niemals troken worden sind,
+den K�nig meinen Vater im Schiffbruch umkommen gesehen habe.
+
+Miranda.
+Wie sehr dauert er mich!
+
+Ferdinand.
+Glaubet mirs, er kam um, er und alle seine Hofleute: der Herzog von
+Meiland und sein edler Sohn waren dabey.
+
+Prospero.
+Der Herzog von Meiland und seine noch edlere Tochter k�nnten dich
+eines bessern belehren, wenn es izt Zeit dazu w�re--
+
+(vor sich.)
+
+Beym ersten Anblik tauschten sie ihre Augen (Ariel, f�r diesen
+Dienst sollt du frey seyn!)
+
+(laut.)
+
+Ein Wort mit euch, mein feiner Herr, ich f�rchte ihr habt euch in
+einen schlimmen Handel verwikelt: Ein Wort--
+
+
+Miranda.
+Warum spricht mein Vater so unfreundlich?  Di� ist der dritte Mann,
+den ich jemals sah, und der erste, f�r den ich seufze.  M�chte
+Mitleiden meinen Vater so gesinnt machen wie mich!
+
+Ferdinand.
+O, wenn ihr ein sterbliches M�dchen seyd, und eure Neigung noch
+frey ist, so will ich euch zur K�nigin von Neapel machen.
+
+Prospero.
+Sachte, mein Herr; Nur ein Wort--
+
+(vor sich.)
+
+Sie sind beyde eines in des andern Gewalt: aber ich mu� diesem
+pl�zlichen Einverst�ndni� Schwierigkeiten in den Weg legen, sonst
+m�chte ein zu leichtgewonnenes Gl�k seinen Werth verringern--Herr,
+nur noch ein Wort; ich befehle dir, mir zu folgen.  Du legst dir
+hier einen Namen bey, der dir nicht geb�hrt, du hast dich als einen
+Kundschafter in diese Insel eingeschlichen, um sie mir, ihrem
+Herren abzugewinnen.
+
+Ferdinand.
+Nein, so wahr ich ein Mann bin.
+
+Miranda.
+Gewi�, es kan nichts b�ses in einem solchen Tempel wohnen.  Wenn
+der b�se Geist ein so sch�nes Haus h�tte, gute Dinge w�rden bey ihm
+zu wohnen versucht.
+
+Prospero.
+Folge mir--Rede du nicht f�r ihn, er ist ein Verr�ther.  Komm, ich
+will dir Hals und F�sse zusammenfesseln, Seewasser soll dein Trank,
+und frische Bachbungen, d�rre Wurzeln und Eicheln deine Speise seyn.
+Folge!
+
+Ferdinand.
+Nein, eine solche Begegnung will ich nicht leiden, bis mein Feind
+der st�rkere ist.
+
+(Er zieht den Degen, und bleibt bezaubert und unbeweglich stehen.)
+
+Miranda.
+O mein theurer Vater, verfahret nicht so strenge mit ihm; er ist ja
+liebensw�rdig, nicht f�rchterlich.
+
+Prospero.
+Wie, M�dchen, du willt mich meistern?  Zieh dein Schwerdt,
+Verr�ther!  du willt den Herzhaften machen, und darfst keinen
+Streich f�hren?  Bilde dir nicht ein, da� du dich wehren wollest;
+ich brauche nichts, als diesen Stab, dich zu entwaffnen, und deinen
+Degen fallen zu machen.
+
+Miranda.
+Ich bitte euch, mein Vater.
+
+Prospero.
+Weg, h�nge dich nicht so an meinen Rok.
+
+Miranda.
+Mein Herr, habet Mitleiden, ich will B�rge f�r ihn seyn.
+
+Prospero.
+Schweige, noch ein einziges Wort mehr wird machen, da� ich dich
+ausschelte, oder gar hasse.  Was?  einem Betr�ger das Wort reden?
+husch!  du denkst, es habe nicht noch mehr solche Gesichter wie er
+ist, weil du nur den Caliban und ihn gesehen hast; einf�ltiges Ding!
+gegen die meisten M�nner gerechnet, ist er nur ein Caliban, und
+sie sind Engel gegen ihn.
+
+Miranda.
+So sind meine Neigungen sehr dem�thig, denn ich habe kein Verlangen
+einen sch�nern Mann zu sehen.
+
+Prospero.
+Komm mit, gehorche; deine Nerven sind wieder in ihrer Kindheit, und
+haben keine St�rke mehr.
+
+Ferdinand.
+So ist es; alle meine Lebensgeister sind wie in einem Traum,
+gefesselt.  Aber meines Vaters Tod, die Schw�che die ich f�hle, der
+Schiffbruch aller meiner Freunde, und die Drohungen dieses Mannes,
+dem ich unterworfen bin, w�rden mir leicht zu ertragen seyn, m�chte
+ich nur einmal des Tages durch eine �fnung meines Kerkers dieses
+holde M�dchen sehen: Die Freyheit mag von dem ganzen Rest der Erde
+Gebrauch machen; f�r mich ist Raum genug in einem solchen Kerker.
+
+Prospero (f�r sich.)
+Es w�rkt:
+
+(laut)
+
+folge mir!  (du hast dich wohl gehalten, Ariel) folge mir.
+
+(Zu Ariel.)
+
+H�re, was du weiter zu verrichten hast.
+
+(Er sagt dem unsichtbaren Ariel etwas in Geheim.)
+
+Miranda (zu Ferdinand.)
+Fasset Muth, mein Herr; mein Vater ist von einer bessern Gem�thsart,
+als ihr aus seinen Worten schliessen k�nnt; sein iziges Betragen
+ist etwas ungewohntes.
+
+Prospero (zu Ariel.)
+Du sollst so frey seyn als die Winde auf hohen Bergen; aber unter
+der Bedingung, da� du meinen Befehl in allen Puncten aufs genaueste
+vollziehest.
+
+Ariel.
+Nach dem Buchstaben.
+
+Prospero.
+Komm, folge mir!  Sprich du nicht f�r ihn.
+
+(Sie gehen ab.)
+
+
+
+
+Zweyter Aufzug.
+
+
+
+Erste Scene.
+(Ein andrer Theil der Insel.)
+(Alonso, Sebastian, Antonio, Gonsalo, Adrian, Francisco, und andre
+ Hofleute, treten auf.)
+
+
+Gonsalo.
+Ich bitte euch, Gn�digster Herr, gutes Muths zu seyn; wir haben
+alle Ursache zur Freude; denn unsre Errettung geht weit �ber unsern
+Verlust.  Das Ungl�k das wir gehabt haben, ist etwas gemeines;
+jeden Tag hat irgend eines Schiffers Weib oder irgend ein Kauffmann
+das nehmliche Thema zu klagen; aber von einem solchen Wunder wie
+unsre Erhaltung ist, wissen unter Millionen nur wenige zu sagen.
+W�get also, Gn�digster Herr, weislich unsern Kummer gegen unsern
+Trost, und beruhiget euch.
+
+Alonso.
+Ich bitte dich, schweige.
+
+[Sebastian.*
+Er nimmt deinen Trost an, wie kalte Suppe.
+
+{ed.-* Alle diese Reden, welche man zur Unterscheidung in [ ]
+eingeschlossen, scheinen von einer fremden Hand, vielleicht von
+Schauspielern, eingeschoben, um so mehr als es nicht nur an sich
+sehr ungereimtes Zeug, sondern in dem Mund ungl�klicher
+schiffbr�chiger Leute eine h�chst unnat�rliche und unschikliche
+Spa�haftigkeit ist.  Es kommen noch mehr Reden von dieser Art in
+dem �brigen Theil dieser Scene vor.  Pope.}
+
+Antonio.
+Gonsalo wird sich nicht so leicht abweisen lassen.
+
+Sebastian.
+Seht, er zieht seinen Wiz auf wie eine Taschenuhr, den Augenblik
+wird er schlagen.
+
+Gonsalo.
+Gn�digster Herr--
+
+Sebastian.
+Eins; z�hlet, Antonio--
+
+Gonsalo.
+Wenn einer einem jeden Verdru� der ihm aufst��t, nachh�ngen will,
+so hat er nichts davon als--
+
+Sebastian.
+Einen Thaler.
+
+Gonsalo.
+(Dolores),** in der That, ihr habt besser gesprochen, als ihr im
+Sinne hattet.
+
+{ed.-** Der frostige Spa� ligt in dem �hnlichen Schall der Worte
+(dollar), und (dolour).}
+
+Sebastian.
+Und ihr habt es weislicher aufgenommen, als ich euch zugetraut habe.
+
+Gonsalo.
+Folglich, gn�digster Herr--
+
+Antonio.
+Pfui, wie der Mann seine Zunge verschwendet!
+
+Alonso.
+Ich bitte dich, sey ruhig.
+
+Gonsalo.
+Gut, ich bin fertig; aber doch--
+
+Sebastian.
+Will er reden.
+
+Antonio.
+Was wetten wir, wer von beyden, er oder Adrian zuerst anfangen wird
+zu kr�hen?
+
+Sebastian.
+Der alte Hahn.
+
+Antonio.
+Der junge.
+
+Sebastian.
+Gut, was wetten wir?
+
+Antonio.
+Ein Gel�chter.
+
+Sebastian.
+Es bleibt darbey.
+
+Adrian.
+Obgleich diese Insel w�ste scheint--
+
+Sebastian.
+Ha, ha, ha--So, ihr seyd bezahlt.
+
+Adrian.
+Unbewohnbar, und in der That ganz unzugangbar--
+
+Sebastian.
+So kan sie doch--
+
+Adrian.
+So kan sie doch--
+
+Antonio.
+So kan er doch nicht weiter--
+
+Adrian.
+Nicht anders, als von einer subtilen z�rtlichen und angenehmen
+Temperatur seyn.
+
+Antonio.
+(Temperantia) war ein h�bsches Mensch.
+
+Sebastian.
+Ja, und subtil, wie er auf eine sehr gelehrte Art angemerkt hat.
+
+Adrian.
+Die Luft weht uns hier recht lieblich an--
+
+Sebastian.
+So lieblich, als ob sie eine faule Lunge h�tte.
+
+Antonio.
+Oder als ob sie von einem Morast parf�mirt w�rde.
+
+Gonsalo.
+Man findet alles hier, was zu einem angenehmen Leben geh�rt.
+
+Antonio.
+In der That, ausser nichts zu essen.
+
+Sebastian.
+Nun, das eben nicht.
+
+Gonsalo.
+Wie frisch und anmuthig das Gras aussieht!  wie gr�n!
+
+Antonio.
+In der That, der Boden ist braungelb.
+
+Sebastian.
+Mit einem Gedanken von gr�n vermengt.
+
+Antonio.
+Er trift es doch nicht �bel.
+
+Sebastian.
+Nicht �bel; es ist weiter nichts, als da� er die Wahrheit ganz und
+gar verfehlt.
+
+Gonsalo.
+Das seltsamste aber, und was in der That allen Glauben �bersteigt--
+
+Sebastian.
+Wie manche Rarit�ten der Reisebeschreiber--
+
+Gonsalo.
+Ist, da� unsre Kleider, ungeachtet sie im Meer wohl durchnezt
+worden, nichts destoweniger Farbe und Glanz behalten haben; man
+sollte eher denken, sie seyen noch einmal gef�rbt, als vom
+Seewasser beflekt worden.
+
+Antonio.
+Wenn nur eine von seinen Taschen reden k�nnte, w�rde sie ihn nicht
+L�gen strafen?
+
+Gonsalo.
+Mich d�nkt, unsre Kleider sehen so neu aus, als wie wir sie in
+Africa das erstemal anzogen, da der K�nig seine sch�ne Tochter
+Claribella mit dem K�nige von Tunis verm�hlte.
+
+Sebastian.
+Es war eine lustige Hochzeit, und die Heimreise schl�gt uns recht
+wohl zu.
+
+Adrian.
+Tunis hat noch nie die Ehre gehabt, eine K�nigin von so seltnen
+Vollkommenheiten zu haben.
+
+Gonsalo.
+Seit der Wittwe Dido Zeiten nicht.
+
+Antonio.
+Wittwe?  da� der Henker die Wittwe!  Wie kommt diese Wittwe hieher?
+warum Wittwe Dido?
+
+Sebastian.
+Und wie, wenn er noch gesagt h�tte: Wittwer �neas?  Euer Gnaden
+nehmen ihm auch alles zum schlimmsten auf.
+
+Adrian.
+Wittwe Dido, sagtet ihr?  Dabey f�llt mir auch etwas aus der Schule
+ein.  Dido war von Carthago, nicht von Tunis.
+
+Gonsalo.
+Aber Tunis, mein guter Herr, war einst Carthago.
+
+Adrian.
+Carthago?
+
+Gonsalo.
+Das versichre ich euch, Carthago.
+
+Antonio.
+Sein Wort ist �ber die wunderth�tige Harfe Amphions.
+
+Sebastian.
+Es richtet die Mauren mit samt den H�usern auf.
+
+Antonio.
+Was f�r unm�gliche Dinge wird er nun zustande bringen?
+
+Sebastian.
+Ich denke, er wird auf der Heimreise diese Insel in seine Tasche
+steken, und sie seinem Buben statt eines Apfels nach Hause bringen.
+
+Antonio.
+Und die Kerne davon in das Meer s�en, damit er eine junge Zucht von
+Inseln kriegt.
+
+Alonso.
+Wie, wovon sprecht ihr?
+
+Gonsalo.
+Gn�digster Herr, wir redten davon, da� unsre Kleider noch so neu
+aussehen, als wie wir sie zu Tunis auf eurer Tochter
+Verm�hlungsfest trugen.]
+
+Alonso.
+Ihr erinnert mich zur Unzeit an das, wor�ber ich mir selbst nur
+allzuviel Vorw�rfe mache--Wollte der Himmel, ich h�tte meine
+Tochter nie zu Tunis verheurathet!  Weil ich dahin rei�te, hab ich
+meinen Sohn verlohren, und meiner Rechnung nach, sie dazu; da sie
+soweit von Italien entfernt ist, da� ich sie nimmer wiedersehen
+werde.  O du mein Erbe von Neapel und Meiland, was f�r einem Meer-
+Ungeheuer bist du zur Speise geworden!
+
+Francisco.
+Sire, verhoffentlich lebt er noch.  Ich sah ihn die
+entgegenschwellenden Wellen unter ihm wegschlagen, und auf ihrem
+bezwungenen R�ken reiten; er erhielt sein k�hnes Haupt immer �ber
+ihnen empor, und steurte sich selbst mit starken Armen ans Ufer,
+welches sich �ber seine von den Wellen abgesp�lte Basis in die See
+hinaus bog, als ob es ihm eine Zuflucht darbieten wollte.  Ich
+zweifle nicht, er kam lebendig ans Land.
+
+Alonso.
+Nein, nein, er ist nicht mehr.
+
+Sebastian.
+Sire, diesen grossen Verlust habt ihr niemand zu danken als euch
+selbst, da ihr eure Tochter lieber an einen Africaner verliehren,
+als unser Europa mit ihr begl�kseligen wolltet.
+
+Alonso.
+Ich bitte dich, sey ruhig.
+
+Sebastian.
+Wir alle erm�deten euch ihrentwegen mit Bitten und Knief�llen, und
+die sch�ne Seele selbst wog zwischen Neigung und Gehorsam, wohin
+sich das Wagz�nglein neigen sollte.  Ich besorge, wir haben euern
+Sohn auf ewig verlohren; Meiland und Neapel haben mehr Weiber, die
+dieses Gesch�fte zu Wittwen gemacht hat, als wir M�nner mitbringen
+sie zu tr�sten.  Der Fehler ist euer eigen.
+
+Alonso.
+So wie der gr�ste Verlust.
+
+Gonsalo.
+Prinz Sebastian, wenn ihr gleich die Wahrheit sagt, so sagt ihr sie
+doch auf eine unfreundliche Art, und zur Unzeit; ihr reibt die
+Wunde, da ihr ein Pflaster drauf legen solltet.
+
+Sebastian.
+Wohl gesprochen!
+
+Antonio.
+Und sehr chirurgisch!
+
+Gonsalo.
+Sire, es ist schlimmes Wetter bey uns allen, wenn Euer Majest�t
+bew�lkt ist.
+
+Sebastian.
+Schlimmes Wetter?
+
+Antonio.
+Sehr schlimmes.
+
+Gonsalo.
+H�tte ich eine Pflanzst�tte in dieser Insel anzulegen, Gn�digster
+Herr--
+
+Antonio.
+So w�rd' er Brenn-Nessel-Saamen drein s�en.
+
+Sebastian.
+Oder Kletten und Pappel-Kraut.
+
+Gonsalo.
+Und w�re der K�nig davon, was w�rd' ich thun?
+
+Sebastian.
+Euch wenigstens nicht betrinken, denn ihr h�ttet keinen Wein.
+
+Gonsalo.
+Die Einrichtung des gemeinen Wesens m��te mir gerade das
+Wiederspiel von allen unsrigen seyn; denn ich wollte keine Art von
+Handel und Wandel gestatten; Von Obrigkeitlichen �mtern sollte nur
+nicht der Name bekannt seyn; Von allen Wissenschaften sollte man
+nichts wissen; Kein Reichthum, keine Armuth, kein Unterschied der
+St�nde; nichts von K�uffen, Erbschaften, Marchen, Grenzsteinen,
+Braachfeldern noch Weinbergen; Kein Gebrauch von Metall, Korn, Wein
+oder �l; Keine Arbeit, alle Leute m��ig, alle, und die Weiber dazu;
+aber alles in Unschuld.  Keine Oberherrschaft--
+
+Sebastian.
+Und doch wollt' er K�nig davon seyn.
+
+Antonio.
+Das Ende von seiner Republik vergi�t den Anfang***
+
+{ed.-*** Dieses ganze Gespr�ch ist eine feine Satyre �ber die
+Utopischen Tractate von Regierungsformen, und die schim�rischen
+und unbrauchbaren Entw�rfe, die darinn angepriesen werden.
+Warb�rton.}
+
+Gonsalo.
+Alle Dinge sollten gemein seyn; die Natur sollte alles von sich
+selbst hervorbringen, ohne Arbeit und Schwei� der Menschen.  Keine
+Verr�therey, keine �belthaten, folglich auch kein Schwerdt, kein
+Spie�, kein Messer, kein Schie�gewehr, kurz keine Nothwendigkeit
+von irgend einem Instrument; denn die Natur sollte aus eignem Trieb
+alles in �berflu� hervorbringen, was zum Unterhalt meines
+unschuldigen Volkes n�thig w�re.
+
+Sebastian.
+W�rde man denn in seiner Republik nicht auch heurathen?
+
+Antonio.
+Heurathen?  Nichts weniger; lauter m��iges Volk, Huren und
+Spizbuben.
+
+Gonsalo.
+Ich wollte mit einer solchen Vollkommenheit regieren, Gn�digster
+Herr, da� das goldne Alter selbst nicht damit in Vergleichung
+kommen sollte.
+
+Sebastian.
+Der Himmel sch�ze seine Majest�t!
+
+Antonio.
+Lang lebe Gonsalo!
+
+Gonsalo.
+Ihr versteht mich doch--
+
+
+Alonso.
+Ich bitte dich, h�r auf; du unterh�ltst mich mit einem Gespr�ch von
+Nichts.
+
+Gonsalo.
+Das glaub ich Euer Majest�t, und ich that es blo�, um diesen beyden
+Herren Gelegenheit zum Lachen zu geben; denn sie haben so reizbare
+und z�rtliche Lungen, da� sie immer �ber nichts zu lachen pflegen.
+
+Antonio.
+Wir lachten �ber euch.
+
+Gonsalo.
+Der in dieser Art von Spa�haftigkeit gegen euch nichts ist; ihr
+k�nnt also fortfahren, �ber nichts zu lachen.
+
+Antonio.
+Das hat eine Ohrfeige seyn sollen?
+
+Sebastian.
+Wenn sie nicht neben bey gefallen w�re.
+
+Gonsalo.
+Ihr seyd tapfre Herren; ihr w�rdet den Mond aus seinem Kreise heben,
+wenn er nur f�nf Wochen nach einander ohne abzunehmen scheinen
+w�rde.
+
+(Ariel erscheint, den redenden Personen unsichtbar, mit einer
+ernsthaften und einschl�frenden Musik.)
+
+Sebastian.
+Das wollten wir, und dann auf den Vogel-Heerd.
+
+Antonio (zu Gonsalo.)
+Nein, mein guter Herr, werdet nicht b�se.
+
+Gonsalo.
+Ich stehe euch davor, da� ich zu gescheidt bin �ber eure Einf�lle
+b�se zu werden.  Wollt ihr mich in den Schlaf lachen?  denn ich bin
+ganz schl�frig.
+
+Antonio.
+Geht, schlaft und h�rt uns zu.
+
+Alonso.
+Wie?  Alle schon eingeschlafen!  Meine Augen schliessen sich auch,
+m�chten sie meine Gedanken zugleich verschliessen!
+
+Sebastian.
+Sire, wiedersteht dem Schlummer nicht, der sich euch anbietet.  Er
+besucht selten den Kummer, und wenn er's thut, ist er ein Tr�ster.
+
+Antonio.
+Wir zween, Gn�digster Herr, wollen indessen da� ihr der Ruhe
+geniesset, f�r eure Sicherheit wachen.
+
+Alonso.
+Ich danke euch--eine wunderbare Schl�frigkeit! --
+
+(Alle schlaffen, ausser Sebastian und Antonio.)
+
+Sebastian.
+Was f�r ein seltsamer Taumel ist das, der sich ihrer bemeistert?
+
+Antonio.
+Die Beschaffenheit des Clima mu� daran Ursache seyn.
+
+Sebastian.
+Warum sinken dann unsre Auglieder nicht auch?  Ich sp�re nicht die
+mindeste Schl�frigkeit.
+
+Antonio.
+Ich auch nicht; meine Lebensgeister sind ganz munter.  Sie fielen
+alle hin als ob sie es mit einander abgeredet h�tten, sie sanken um,
+wie vom Donner ger�hrt.  Was k�nnte, w�rdiger Sebastian--O!  was
+k�nnte--Nichts weiter!--Und doch, d�nkt mich, ich seh es in deinem
+Gesicht, was du seyn solltest.  Die Gelegenheit sagt es dir, und
+meine Einbildungs-Kraft sieht eine Krone �ber deinem Haupte
+schweben.
+
+Sebastian.
+Wie?  wachest du?
+
+Antonio.
+H�rt ihr mich denn nicht reden?
+
+Sebastian.
+Ich h�re dich, aber wahrhaftig es sind Reden eines Schlafenden; du
+sprichst im Schlaf.  Was sagtest du?  Es ist ein seltsamer Schlaf,
+mit weitofnen Augen zu schlafen; stehen, reden, sich bewegen, und
+doch so hart eingeschlaffen seyn!
+
+Antonio.
+Edler Sebastian, du l�ssest dein Gl�k schlafen.  Stirb lieber!  du
+wachest mit geschlo�nen Augen.
+
+Sebastian.
+Du schnarchest verst�ndlich; es ist Bedeutung in deinem Schnarchen.
+
+Antonio.
+Ich bin ernsthafter als meine Gewohnheit ist.  Seyd auch so, wenn
+ich euch rathen darf; und es wird euer Gl�k seyn, euch rathen zu
+lassen.
+
+Sebastian.
+Gut, ich bin stehendes Wasser.
+
+Antonio.
+Ich will euch fliessen lehren.
+
+Sebastian.
+Thue das; stehen lehrt mich meine angeerbte Tr�gheit.
+
+Antonio.
+O!  wenn ihr nur wi�tet, wie sehr ihr meinen Vorschlag liebet, ob
+ihr ihn gleich zu verwerfen, wie ihr euch immer mehr darinn
+verwikelt, je mehr ihr euch lo� zu winden scheint.  Langsame Leute
+werden oft durch ihre Zagheit oder Tr�gheit nur desto schneller auf
+den Grund gezogen.
+
+Sebastian.
+Ich bitte dich, sprich deutlich.  Dein Blik und deine gl�hende
+Wange verk�ndigen, da� du mit irgend einem grossen Vorhaben
+schwanger gehst, von dem du so voll bist, da� du es nicht l�nger
+zur�khalten kanst.
+
+Antonio.
+Hier ist es, Prinz.  Ungeachtet dieser H�fling, schwachen
+Angedenkens (es wird gewi� seiner wenig gedacht werden, wenn er
+einmal eingescharrt ist) den K�nig beynahe �berredet hat (denn er
+ist ein Geist der �berredung, er kan sonst nichts als �berreden)
+da� sein Sohn noch lebe; so ist es doch so unm�glich, da� er nicht
+im Wasser umgekommen seyn sollte, als da� der schwimmt, der hier
+schl�ft.
+
+Sebastian.
+Ich habe keine Hoffnung, da� er mit dem Leben davongekommen seyn
+m�chte.
+
+Antonio.
+O sagt mir nichts von Hoffnung--Was f�r grosse Hoffnung h�ttet ihr--
+die Hoffnung ligt nicht auf diesem Wege; es ist ein andrer, der zu
+einer so hohen Hoffnung f�hrt, da� der Ehrgeiz keinen Blik dahin
+thut, ohne an der W�rklichkeit dessen was er sieht zu zweifeln.
+Wollt ihr mir eingestehen, da� Ferdinand umgekomen ist?
+
+Sebastian.
+Ich glaub es.
+
+Antonio.
+So sagt mir dann, wer ist der n�chste Erbe von Neapel?
+
+Sebastian.
+Claribella.
+
+Antonio.
+Sie, welche K�nigin von Tunis ist; sie, die zehen Meilen hinter
+einem Menschenalter wohnt; sie, die von Neapel nicht eher eine
+Nachricht haben kan, (es w�re denn da� die Sonne der Postillion
+seyn wollte, der Mann im Monde w�re zu langsam) bis neugebohrne
+Kinne b�rtig worden sind; sie, um deren willen wir vom Meer
+verschlungen worden; obgleich einige, die wieder ausgeworfen worden,
+von diesem Zufall Gelegenheit nehmen m�gen, eine Scene zu spielen,
+wovon das Vergangne der Prologus ist;
+
+Sebastian.
+Was f�r Zeug ist das?  Was sagt ihr?  Es ist wahr, meines Bruders
+Tochter ist K�nigin von Tunis, sie ist auch Erbin von Neapel, und
+zwischen diesen beyden Reichen ist ein ziemlicher Raum.
+
+Antonio.
+Ein Raum, wovon jede Spanne auszuruffen scheint: wie?  soll diese
+Claribella uns nach Neapel zur�k messen?  Sie mag in Tunis bleiben,
+und Sebastian mag erwachen.  Sagt mir, gesezt was sie izt befallen
+hat w�re der Tod, nun denn, sie w�ren nicht weniger gef�hrlich als
+sie izt sind; es giebt jemand, der Neapel eben so gut regieren kan
+als der so schl�ft; Leute genug, die so langweilig und unn�thig
+plaudern k�nnen als dieser Gonsalo; ich selbst wollte eine eben so
+geschw�zige Dole machen k�nnen.  O!  da� ihr mein Herz h�ttet!  was
+f�r ein vortheilhafter Schlaf w�re di� f�r euch!  Versteht ihr mich?
+
+Sebastian.
+Mich d�ucht ja.
+
+Antonio.
+Und wie gef�llt euch euer gutes Gl�k?
+
+Sebastian.
+Ich erinnre mich, da� ihr euern Bruder Prospero aus dem Sattel
+hubet.
+
+Antonio.
+Das that ich, und seht wie wohl mir meine Kleider stehen; meines
+Bruders Diener waren einst meine Gesellen, izt sind sie meine Leute.
+
+Sebastian.
+Aber euer Gewissen--
+
+Antonio.
+Nun ja, Herr; wo ligt das?  Wenn es ein H�nerauge w�re, so m��t'
+ich in Pantoffeln gehen; aber in meinem Busen f�hl ich diese
+Gottheit nicht.  H�tten zehen Gewissen zwischen mir und Meiland
+gestanden, sie h�tten gefrieren und wieder aufthauen m�gen so oft
+sie gewollt h�tten, ohne mich zu beunruhigen.  Hier ligt euer
+Bruder--nicht besser als die Erde worauf er liegt, wenn er das w�re,
+was er izt zu seyn scheint, todt; mit drey Zollen von diesem
+gehorsamen Stahl kan ich ihn auf ewig einschl�fern; ihr, wenn ihr
+eben das thun w�rdet, k�nntet diesen altfr�nkischen Moralisten,
+diesen Sir Prudentius bef�rdern, damit er uns keine H�ndel machen
+k�nne.  Was die �brigen betrift, das sind Leute die sich berichten
+lassen; sie werden uns die Gloke zu einem jeden Gesch�fte sagen,
+das unserm Angeben nach, in dieser oder jener Stunde gethan werden
+mu�.
+
+Sebastian.
+Dein Beyspiel, theurer Freund, soll mein Muster seyn; Ich will
+Neapel gewinnen wie du Meiland.  Zieh deinen Degen; Ein einziger
+Streich soll dich von dem Tribut befreyen, den du bezahlst, und zum
+Liebling eines K�nigs machen.
+
+Antonio.
+Ziehet auch, und wenn ich mit dem Arm aushohle, so fallet �ber
+Gonsalo her.
+
+Sebastian.
+O!  nur ein Wort noch--
+
+(Ariel erscheint mit Musik.)
+
+Ariel.
+Mein Gebieter, der die Gefahr worinn seine Freunde sind, vorhersah,
+sendet mich, da sein Entwurf von ihrem Leben abhangt, sie zu
+erhalten.
+
+(Er singt dem Gonsalo ins Ohr:)
+
+Ihr schlaft und schnarchet sorgenfrey,
+Weil m�rdrische Verr�therey
+Zu euerm Ungl�k wacht.
+Auf, auf, seht den gez�kten Tod
+Der euerm sichern Naken droht;
+Erwacht!  Erwacht!  Erwacht!
+
+Antonio.
+So la� uns schnell seyn.
+
+Gonsalo.
+Ha, ihr guten Engel, besch�zt den K�nig!
+
+(Alle erwachen.)
+
+Alonso.
+Wie, was ist dieses?  ha!  Erwachet!  Warum steht ihr mit
+entbl��tem Degen?  Warum solche gespenstm��ige Blike?
+
+Gonsalo.
+Was ist begegnet?
+
+Sebastian.
+Weil wir hier standen f�r die Sicherheit eurer Ruhe zu wachen,
+h�rten wir eben izt ein holes Gebr�ll wie von Ochsen, oder vielmehr
+von L�wen.  Erwachtet ihr nicht daran?  Es schallte recht
+f�rchterlich in meine Ohren.
+
+Alonso.
+Ich h�rte nichts.
+
+Antonio.
+O!  es war ein Get�s, eines Ungeheuers Ohr zu erschreken, ein
+Erdbeben zu verursachen; gewi� es war das Gebr�ll einer ganzen
+Heerde von L�wen.
+
+Alonso zu (Gonsalo.)
+H�rtet ihr's?
+
+Gonsalo.
+Auf meine Ehre, Sire, ich h�rte ein Sumsen, und das ein recht
+seltsames, wovon ich erwachte.  Ich r�ttelte euch, Gn�digster Herr,
+und schrie; wie ich meine Augen aufthat, sah ich ihre Degen gezogen;
+es war ein Get�se, das ist die Wahrheit.  Das beste wird seyn,
+wenn wir auf unsrer Huth stehen, oder diesen Ort gar verlassen.
+Wir wollen unsre Degen ziehen.
+
+Alonso.
+Wir wollen weiter gehen, und fortfahren meinen armen Sohn zu suchen.
+
+Gonsalo.
+Der Himmel sch�ze ihn vor diesen wilden Thieren; denn er ist gewi�
+in der Insel.
+
+Alonso.
+La� uns alle gehen.
+
+Ariel.
+Prospero mein Gebieter soll sogleich erfahren, was ich gethan habe.
+Geh K�nig, geh unversehrt, und suche deinen Sohn.
+
+
+
+Zweyte Scene.
+(Eine andre Gegend der Insel.)
+(Caliban mit einer B�rde Holz beladen tritt auf; man h�rt donnern.)
+
+
+Caliban.
+Da� alle anstekenden D�nste, so die Sonne aus stehenden S�mpfen und
+faulen Pf�zen saugt, auf Prospero fallen, und ihn vom Haupt bis zur
+Fu�sole zu einer Eiter-Beule machen m�chten!  Ich wei� wohl, da�
+mich seine Geister h�ren, aber ich kan mir nicht helfen, ich mu�
+geflucht haben.  Und doch w�rden sie mich nicht kneipen, nicht in
+Gestalt von Stachelschweinen erschreken, in den Koth tauchen, noch
+gleich Feuerbr�nden mich des Nachts in Mor�ste verleiten, wenn er
+es ihnen nicht befehlen w�rde.  Um einer jeden Kleinigkeit willen
+hezt er sie an mich; bald in Gestalt von Affen, die um mich herum
+sch�kern, und zulezt mich beissen; bald gleich Igeln, die
+zusammengeballt in meinem Fu�weg ligen, und wenn ich �ber sie
+stolpre, ihre strozenden Stacheln in meine Fu�solen dr�ken.
+Manchmal werd ich am ganzen Leibe von Ottern wund gebissen, die mit
+ihren gespaltenen Zungen so abscheulich um mich herum zischen, da�
+ich toll werden m�chte.  Holla!  he!  was ist das?  (Trinculo tritt
+auf.) Hier kommt einer von seinen Geistern, mich zu qu�len, da� ich
+das Holz nicht b�lder hineingetragen habe.  Ich will auf den Bauch
+hinfallen; vielleicht wird er meiner nicht gewahr.
+
+Trinculo.
+Hier ist weder Busch noch Gestr�uch, worunter einer sich
+verkriechen k�nnte, und ein neuer Sturm ist im Anzug; ich h�r ihn
+im Winde sausen; jene schwarze grosse Wolke wird alle Augenblike
+wie mit Eymern heruntersch�tten.  Wenn es noch einmal so donnert
+wie vorhin, so wei� ich nicht, wo ich meinen Kopf verbergen soll--
+Ha!  was giebts hier--Mensch oder Fisch!  todt oder lebendig?  es
+ist ein Fisch, es riecht wie ein Fisch, ein verflucht moo�ichter
+fischm��iger Geruch--ein wunderseltsamer Fisch.  W�r' ich izt in
+England, wie ich einst drinn war, und h�tte diesen Fisch nur
+gemahlt, kein Feyrtags-Narr ist dorten, der mir nicht ein
+Silberst�k daf�r g�be, wenn ich ihn sehen lie�.  Dort w�rde di�
+Ungeheuer f�r einen Menschen passiren; eine jede abentheurliche
+Bestie passirt dort f�r einen Menschen;* wenn sie nicht einen
+Pfenning geben, einen lahmen Bettler aufzurichten, so geben sie
+zehne, um einen todten Indianer zu sehen--F�sse wie ein Mensch; und
+seine Flo�federn wie Arme!  Warm, bey meiner Treu!  Ich denke bald,
+es wird wohl kein Fisch seyn: es ist, denk ich, ein Insulaner, den
+der lezte Donnerschlag zu Boden geschlagen haben wird.  Au weh, das
+Ungewitter ist wieder da.  Das beste wird seyn, ich krieche unter
+seinen Regenmantel; es ist sonst nirgends kein Ort zu sehen, wo man
+im troknen seyn k�nnte.  Die Noth kan einen Menschen mit seltsamen
+Bettgesellen bekannt machen.  Ich will mich hier zusammenschrumpfen,
+bis der �rgste Sturm vorbey ist.
+
+{ed.-* Ich kan mich nicht erwehren zu denken, da� unsre Landsleute
+diese Satyre wohl verdienen, da sie allezeit so bereitwillig
+gewesen, die ganze Zunft der Affen zu naturalisiren, wie ihre
+gew�hnlichen Namen zu erkennen geben.  So kommt (Monkey), nach der
+Etymologisten Anmerkung von (Monkin, Monikin), ein M�nnchen, her;
+(Baboon) von (babe), Kind, soviel (weil die Endigung in (oon) eine
+Vergr�sserung andeutet) als ein grosses Kind, (Mantygre), ein
+Mensch-Tyger.  Und wenn sie ihre Namen aus ihrem Vaterlande
+mitgebracht haben, wie (Ape), so hat das gemeine Volk sie gleichsam
+getauft, durch den Zusaz (Jackan-Ape,) Hans-Aff.  Warb�rton.}
+
+(Stephano tritt singend auf.)
+
+Stephano.
+
+(Singt das Ende eines Matrosen-Liedleins.)
+
+Das ist eine verzweifelt melancholische Melodie, das liesse sich
+gut an einem Leichbeg�ngni� singen.  Aber hier ist mein Trost.
+
+(Er trinkt, und singt wieder.)
+
+Das ist auch eine schwerm�thige Melodie; aber hier ist mein Trost.
+
+(Er trinkt.)
+
+Caliban.
+Qu�le mich nicht, oh!
+
+Stephano.
+Was giebts hier?  haben wir Teufels hier?** Wollt ihr uns mit
+wilden und indianischen M�nnern in einen Schreken jagen?  ha!  ich
+bin dem Ersauffen nicht entgangen, um mich vor euern vier F�ssen
+hier zu f�rchten--
+
+{ed.-** Diese Stelle soll vermuthlich die abgeschmakten Fabeln in
+des alten Ritter (Maundeviles) Reisebeschreibung l�cherlich machen,
+der unter anderm erz�hlt, (to have traveled thro' an enchaunted Vale,
+clepen the vale of Develes, which vale is alle fulle of Develes--and
+Men seyne there, that it is on of the entrees of Helle.)--"Er sey
+durch ein bezaubertes Thal gereist, das Thal der Teufel genannt,
+welches Thal voller Teufel sey, und die Leute sagen, es sey einer
+von den Eing�ngen in die H�lle." Eben dieser Autor hat in seinen
+Nachrichten von wilden M�nnern und Indianischen Menschen alle die
+Fabeln des Plinius von Menschen mit langen Ohren, einem Auge, einem
+Fu� ohne Kopf u.  dergl.  ausgeschrieben, und so davon gesprochen,
+als ob er sie selbst gesehen habe.  Warb�rton.}
+
+Caliban.
+Der Geist qu�lt mich, oh!
+
+Stephano.
+Das wird irgend ein vierbeinichtes Ungeheuer aus dieser Insel seyn,
+das hier das Fieber gekriegt hat--Aber wie zum Teufel hat es unsre
+Sprache gelernt?  Ich will ihm eine kleine Herzst�rkung eingeben,
+und wenn es auch nur darum w�re, weil es italienisch spricht.  Wenn
+ich es wieder zu rechte bringen, zahm machen, und nach Neapel mit
+ihm kommen kan, so ist es ein Pr�sent f�r einen so grossen Kayser,
+als jemals einer auf K�hleder getreten ist!
+
+Caliban.
+Qu�le mich nicht, ich bitte dich; ich will mein Holz ein andermal
+b�lder heimbringen.
+
+Stephano.
+Er ist izt in seinem Paroxismus, und redt nicht zum gescheidtesten;
+er soll meine Flasche kosten.  Wenn er noch niemals Wein getrunken
+hat, so wird es nahe zu sein Fieber vertreiben; wenn ich ihn wieder
+zurecht bringen und zahm machen kan, so will ich nicht zuviel f�r
+ihn nehmen; er soll f�r den zahlen, der ihn hat, und das wie sichs
+geh�rt.
+
+Caliban.
+Bisher hast du mir doch nicht viel leids gethan; aber izt wirst
+du's thun m�ssen; ich sp�re an deinem Zittern, da� Prospero auf
+dich w�rkt.
+
+Stephano.
+Kommt hervor, macht euer Maul auf; hier ist etwas das dir die
+Sprache geben wird, Meerkaze; macht euer Maul auf!  das wird eure
+Fr�ste wegsch�tteln, ich kan's euch sagen, und das wie sich's
+geh�rt; es wei� einer nicht, wo er von ungefehr einen guten Freund
+findt; die Kinnbaken auf, noch einmal!
+
+Trinculo.
+Ich sollte diese Stimme kennen--ich denk', es ist--Aber er ist
+ertrunken, und das sind Teufels--O heiliger Sanct--
+
+Stephano.
+Vier F�sse und zwoo Stimmen, das ist ein recht feines Ungeheur;
+seine fordere Stimme spricht gutes von seinem Freund; seine hintere
+Stimme st��t b�se Reden und Verl�umdungen aus.  Ich will ihm von
+seinem Fieber helfen, und wenn aller Wein in meiner Flasche drauf
+gehen sollte.  Komm, Amen!  ich will dir etwas in dein Maul giessen
+--
+
+Trinculo.
+Stephano--
+
+Stephano.
+Ich glaube dein andres Maul ruft mich; Barmherzigkeit!
+Barmherzigkeit!  das ist ein Teufel und kein Monster: ich will ihn
+gehn lassen, ich habe keinen langen L�ffel.
+
+Trinculo.
+Stephano, wenn du Stephano bist; so r�hre mich an, und sag es mir;
+denn ich bin Trinculo, f�rchte dich nicht, dein guter Freund
+Trinculo.
+
+Stephano.
+Wenn du Trinculo bist, so komm hervor, ich will dich bey den
+d�nnern Beinen ziehen, wenn hier welche Trinculo's Beine sind, so
+m�ssen es diese seyn.  Du bist w�rklich Trinculo, in der That.  Wie
+kamst du dazu, der Siz von diesem Mondkalb zu seyn?
+
+Trinculo.
+Ich bildete mir ein, er sey vom Donner erschlagen.  Aber wie, bist
+du nicht ertrunken, Stephano?  Ich will nun hoffen, du seyst nicht
+ertrunken; ist der Sturm vorbey?  Ich verbarg mich unter des todten
+Monkalbs Regenmantel aus Furcht vor dem Sturm; und lebst du noch
+Stephano?  O Stephano, zween Neapolitaner entronnen!
+
+Stephano.
+Ich bitte dich, dreh mich nicht so herum, mein Magen ist noch nicht
+wieder am rechten Ort.
+
+Caliban.
+Das sind h�bsche Dinger, wenn es keine Kobolde sind; das ist ein
+braver Gott, und tr�gt ein himmliches Getr�nk bey sich; ich will
+vor ihm niederknien.
+
+Stephano.
+Wie bist du davongekommen?  Wie kamst du hieher?  Schw�re bey
+dieser Flasche, wie kamst du hieher?  ich rettete mich auf einem
+Fa� voll Sect, den die Matrosen �ber Bord geworfen hatten; das
+schw�r' ich bey dieser Flasche, die ich mit eignen H�nden aus der
+Rinde eines Baums gemacht habe, seit der Zeit, da ich ans Land
+geworfen wurde.
+
+Caliban.
+Ich will auf diese Flasche schw�ren, da� ich dein getreuer
+Unterthan seyn will; denn der Saft ist nicht irdisch.
+
+Stephano.
+Hier, schw�r dann--Wie wurdest du errettet?
+
+Trinculo.
+Ich schwamm ans Ufer, Mann, wie eine Ente; ich kan schwimmen wie
+eine Ente, das schw�r' ich!
+
+Stephano.
+Hier, k�� das Buch; wenn du schwimmen kanst wie eine Ente, so kanst
+du trinken wie eine Gans.
+
+Trinculo.  (Nachdem er einen Zug aus der Flasche gethan:)
+O Stephano, hast du noch mehr dergleichen?
+
+Stephano.
+Das ganze Fa�, Mann.  Mein Keller ist in einem Felsen an der Meer-
+Seite.  Wie stehts, Mondkalb, was macht dein Fieber?
+
+Caliban.
+Bist du nicht vom Himmel herunter gekommen?
+
+Stephano.
+Aus dem Mond, das versichr' ich dich; es war eine Zeit, da ich der
+Mann im Mond war.
+
+Caliban.
+Ich habe dich drinn gesehen; und ich bete dich an; meine Mutter
+zeigte dich mir, dich und deinen Hund und deinen Busch.
+
+Stephano.
+Komm, schw�r auf di�; k�� das Buch; ich will es bald wieder mit
+einem neuen Inhalt versehen; schw�re!
+
+Trinculo.
+Beym Element, das ist ein recht abgeschmaktes Ungeheuer!  Ich sollt
+es f�rchten?  Ein recht abgeschmaktes Ungeheuer!  Der Mann im Mond?
+ein h�chst dummes leichtgl�ubiges Ungeheur!--Ein guter Zug,
+Ungeheuer!  in vollem Ernst.
+
+Caliban.
+Ich will dir jeden fruchtbaren Plaz in der Insel zeigen, und ich
+will dir die F�sse k�ssen; ich bitte dich, sey mein Gott.
+
+Trinculo.
+Beym Element, ein h�chst treuloses besoffenes Ungeheuer; wenn sein
+Gott eingeschlafen seyn wird, wird er ihm die Flasche stehlen.
+
+Caliban.
+Ich will dir die F�sse k�ssen; ich will schw�ren, da� ich dein
+Unterthan seyn will.
+
+Stephano.
+So komm dann, auf den Boden nieder, und schw�re!
+
+Trinculo.
+Ich werde mich noch �ber dieses puppenk�pfige Ungeheuer zu tode
+lachen!  ein h�chst schwerm�thiges Ungeheuer!  ich h�tte gute Lust,
+ihn eins abzupr�geln--
+
+Stephano.
+Kom, k�sse!
+
+Trinculo.
+Wenn das arme Ungeheuer nicht besoffen w�re; ein vermaledeytes
+Ungeheuer!
+
+Caliban.
+Ich will dir die besten Quellen zeigen; ich will dir Beeren pfl�ken,
+ich will f�r dich fischen, und dir Holz genug schaffen.  Da� die
+Pest den Tyrannen dem ich diene!  Ich will ihm keine Pr�gel mehr
+zutragen, sondern mit dir gehen, du wundervoller Mann!
+
+Trinculo.
+Ein h�chst l�cherliches Ungeheuer, aus einem armen besoffnen Kerl
+ein Wunder zu machen.
+
+Caliban.
+Ich bitte dich, la� dich an einen Ort f�hren, wo Holz�pfelb�ume
+wachsen, ich will dir mit meinen langen N�geln Tr�ffeln ausgraben;
+ich will dir ein Nu�heher-Nest zeigen, und dich lehren, die
+schnelle Meerkaze zu fangen; ich will dir B�schel von Haseln�ssen
+bringen, und dir manchmal junge Gemsen vom Felsen holen.  Willt du
+mit mir gehen?
+
+Stephano.
+Ich bitte dich, zeig uns den Weg ohne l�ngeres Geschw�ze.  Trinculo,
+da der K�nig und alle unsre ehmalige Gefehrten im Wasser
+umgekommen sind, so wollen wir von dieser Insel Besiz nehmen.  Hier,
+trage meine Flasche; Bruder Trinculo, wir wollen sie gleich wieder
+f�llen.
+
+Caliban.  (Singt trunkner Weise ein Abschiedsliedlein von seinem
+alten Herrn.)
+Freyheit, heyda!  heyda!  Freyheit!  Freyheit!  heyda!  Freyheit!
+
+Stephano.
+O!  braves Ungeheuer!  zeig uns den Weg.
+
+(Sie gehen ab.)
+
+
+
+
+Dritter Aufzug.
+
+
+
+Erste Scene.
+(Vor Prosperos Celle.)
+(Ferdinand tritt mit einem Blok auf der Schulter auf.)
+
+
+Ferdinand.
+Es giebt Spiele welche m�hsam sind, aber eben diese M�he erh�ht das
+Vergn�gen das man dabey hat; es giebt niedrige Gesch�fte, denen man
+sich auf eine edle Art unterziehen kan, und h�chst geringsch�zige
+Mittel, die zu einem sehr vortreflichen Ziel fuhren.  Dieses mein
+knechtisches Tagwerk w�rde mir so beschwerlich als langweilig seyn,
+wenn nicht die Gebieterin, der ich diene, meine Arbeiten zu
+Erg�zungen machte.  O!  sie ist zehnmal liebreizender als ihr Vater
+unfreundlich, ob er gleich aus H�rte zusammengesezt ist.  Auf
+seinen strengen Befehl soll ich etliche tausend dergleichen Bl�ke
+zusammentragen und auf einander beugen.  Meine holdselige Geliebte
+weint wenn sie mich arbeiten sieht, und klagt, da� ich zu einem so
+sclavischen Gesch�fte mi�braucht werden soll.  Ich vergesse dar�ber
+das Verdriesliche meines Zustandes, und meine Arbeit verrichtet
+sich unter diesen angenehmen Gedanken so leicht, da� ich sie kaum
+empfinde.  (Miranda zu den Vorigen; Prospero in einiger Entfernung.)
+
+Miranda.
+Ach!  ich bitte euch, arbeitet nicht so strenge; ich wollte der
+Bliz h�tte diese Bl�ke verbrennt, die du auf einander beugen sollst.
+Ich bitte euch sizet nieder und ruhet aus; Wenn di� Holz brennt,
+wird es weinen, da� es euch so abgemattet hat; mein Vater ist in
+seinem Studieren vertieft; ich bitte euch, ruhet aus; wir werden
+ihn in den n�chsten drey Stunden nicht sehen.
+
+Ferdinand.
+O theureste Gebieterin, die Sonne wird untergegangen seyn, eh ich
+mein auferlegtes Tagwerk vollendet haben werde.
+
+Miranda.
+Wenn ihr mir versprecht, euch indessen nieder zu sezen, so will ich
+eure Bl�ke tragen.  Ich bitte euch, thut es mir zu gefallen, ich
+will sie nur zu dem Hauffen tragen.
+
+Ferdinand.
+Nein, du unsch�zbares Gesch�pf; eher sollten mir meine Sehnen
+springen und mein R�kgrat brechen, eh du eine solche Arbeit thun
+und ich m��ig zusehen sollte.
+
+Miranda.
+Sie w�rde sich nicht �bler f�r mich schiken als f�r euch; und es
+w�rde mich noch einmal so leicht ankommen; denn ich th�t es aus
+gutem Willen, und ihr thut es ungern.
+
+Prospero (f�r sich.)
+Armer Wurm!  du bist angestekt; dieser Besuch ist eine Probe davon.
+
+Miranda.
+Ihr seht verdrieslich aus.
+
+Ferdinand.
+Nein, meine edle Gebieterin, wenn ihr im Finstern bey mir w�ret, so
+w�r' es frischer Morgen um mich her.  Ich bitte euch (vornehmlich
+damit ich ihn in mein Gebet sezen k�nne), wie ist euer Name?
+
+Miranda.
+Miranda--O mein Vater, ich hab' euer Verbot �bertreten, indem ich
+di� sagte.
+
+Ferdinand.
+Bewundernsw�rdige Miranda, in der That, alles w�rdig, was die Welt
+sch�zbarstes hat!  Ich habe viele Damen gesehen, mit aufmerksamen
+Augen gesehen, und manchmal hat die Music ihrer Zungen mein
+allzuwilliges Ohr gefesselt; um verschiedner Vorz�ge willen haben
+mir verschiedne Frauenzimmer gefallen, aber keine jemals so sehr,
+da� nicht bald irgend ein Fehler den ich an ihr bemerkt, ihre
+sch�nste Eigenschaft verdunkelt h�tte.  Du allein, o du, so
+vollkommen, so unvergleichlich, bist aus allem zusammengesezt, was
+an jedem Gesch�pfe das Beste ist.
+
+Miranda.
+Ich kenne keine von meinem Geschlecht, und habe nie ein weibliches
+Gesicht erblikt, ausser mein eignes in meinem Spiegel; noch habe
+ich mehr M�nner gesehen, die ich so nennen mag, als euch, mein
+guter Freund, und meinen theuren Vater.  Was f�r Gesch�pfe anderswo
+seyn m�gen, kan ich nicht wissen: Aber, bey meiner Unschuld, meinem
+besten Kleinod, ich w�nsche mir keine andre Gesellschaft in der
+Welt als die eurige; noch kan meine Einbildungskraft sich eine
+andre Gestalt vorbilden, die mir gefallen k�nnte, als die eurige.
+Aber ich plaudre, denk ich, zu unbesonnen, und vergesse hierinn
+meines Vaters Ermahnungen.
+
+Ferdinand.
+Ich bin meinem Stande nach ein Prinz, Miranda; ich denke, ein K�nig
+(wollte der Himmel ich w�r' es nicht!) und ich wollte diese
+h�lzerne Sclaverey nicht mehr erdulden, als ich leiden wollte da�
+eine Fleischfliege mir auf die Lippen s��e.  Aber h�ret meine Seele
+reden: In dem ersten Augenblik, da ich euch sah, flog mein Herz in
+euern Dienst, und machte mich auf ewig zu euerm Leibeignen, und um
+euertwillen bin ich ein so geduldiger Holztr�ger.
+
+Miranda.
+Liebet ihr mich also?
+
+Ferdinand.
+O Himmel, o Erde, seyd meine Zeugen, und kr�net meine Rede mit
+einem gl�klichen Erfolg, so wie ich die Wahrheit rede; wo nicht, so
+verkehret meine besten Hoffnungen in Ungl�k.  �ber alles was in
+der Welt ist, �ber alle Grenzen, liebe, sch�ze und verehr' ich euch.
+
+Miranda.
+Ich bin eine Th�rin da� ich dar�ber weine, was ich so erfreut bin
+zu h�ren.
+
+Prospero (f�r sich.)
+Wie selten treffen zwey solche Herzen einander an!  Ihr Himmel,
+sch�ttet euern Segen auf ihre keimende Liebe!
+
+Ferdinand.
+Warum weinet ihr?
+
+Miranda.
+�ber meine Unw�rdigkeit, die es nicht wagen darf anzubieten was
+ich zu geben w�nsche, und noch viel weniger anzunehmen, wessen
+Verlust mein Tod seyn w�rde.  Doch di� ist T�ndeley!  Je mehr es
+sich selbst verbergen will, desto mehr zeigt es seine Gr�sse.
+Hinweg, falsche Schaamhaftigkeit, und du allein regiere meinen Mund,
+offenherzige und heilige Unschuld.  Ich bin euer Weib, wenn ihr
+mich heurathen wollt, wo nicht, so will ich als euer M�dchen
+sterben; ihr k�nnt mir abschlagen, eure Gesellin zu seyn; aber eure
+Sclavin will ich seyn, ihr m�get wollen oder nicht.
+
+Ferdinand (kniend.)
+Meine theureste Gebieterin, und ich ewig der deinige.
+
+Miranda.
+Mein Gemahl also?
+
+Ferdinand.
+Mit so verlangendem Herzen, als die Knechtschaft sich nach Freyheit
+sehnt.  Hier ist meine Hand.
+
+Miranda.
+Und hier die meinige, mit meinem Herzen drinn; und nun lebet wohl,
+auf eine halbe Stunde.
+
+Ferdinand.
+Tausend, tausend Lebewohl!
+
+(Sie gehen ab.)
+
+Prospero.
+So froh �ber dieses als sie, kan ich nicht seyn, sie, die lauter
+Entz�kung sind; aber es ist nichts in der Welt, wor�ber ich eine
+gr�ssere Freude haben k�nnte.  Ich will zu meinem Buche.  Denn
+zwischen izt und der Abend-Essens-Zeit mu� ich noch vieles n�thige
+zu stande bringen.
+
+(Geht ab.)
+
+
+
+Zweyte Scene.
+(Eine andre Gegend der Insel.)
+(Caliban, Stephano und Trinculo treten auf.)
+
+
+Stephano.
+Sagt mir nichts mehr hievon; wenn das Fa� leer ist, wollen wir
+Wasser trinken, eher keinen Tropfen.  F�lle also wieder auf, und
+la� dirs gut schmeken, dienstbares Ungeheuer; trink mirs zu.
+
+Trinculo.
+Dienstbares Ungeheuer!  Wie das eine n�rrische Insel ist!  Sie
+sagen es habe nur ihrer f�nf auf dieser Insel; wir sind drey davon,
+wenn die andern beyde nicht richtiger im Kopf sind als wir, so
+wakelt der Staat.
+
+Stephano.
+Trink, dienstbares Ungeheuer, wenn ichs dich heisse; deine Augen
+stehen dir gewaltig tief im Kopfe.
+
+Trinculo.
+Wo sollten sie denn sonst stehen?  Er w�re ein feines Ungeheuer, in
+der That, wenn er sie am H** stehen h�tte.
+
+Stephano.
+Mein menschliches Ungeheuer hat seine Zunge in Sect ers�uft; was
+mich betrift, mich kan die See nicht einmal ers�uffen.  Ich schwamm
+eh ich das Ufer erreichen konnte, f�nf und drey�ig Meilen hin und
+her; beym Element, du sollst mein Leutnant seyn, Ungeheuer, oder
+mein Fahnen-Junker--Warum so still, Mondkalb?  Sprich einmal in
+deinem Leben wenn du ein gutes Mondkalb bist.
+
+Caliban.
+Wie geht's dir?  La� mich deine Schuh leken; ich will ihm
+
+(er deutet auf Trinculo,)
+
+nicht dienen, er ist nicht herzhaft!
+
+Trinculo.
+Du l�gst, du h�chst unwissendes Ungeheuer, ich bin im Stand es mit
+einem Gerichts-Amman aufzunehmen; wie?  du l�derlicher Fisch du,
+ist jemals ein Mann eine Memme gewesen, der so viel Sect in einem
+Tag getrunken hat als ich?  Darfst du so ungeheure L�gen sagen, und
+bist nur halb ein Fisch und halb ein Ungeheuer?
+
+Caliban.
+Horch, wie er mich schimpfirt; willt du ihm heimz�nden, Mylord?
+
+Trinculo.
+Mylord, sagt er!  Da� ein Ungeheuer so einf�ltig seyn kan!
+
+Caliban.
+Horch, horch, schon wieder; bei� ihn zu tode, ich bitte dich.
+
+Stephano.
+Trinculo, stek deine Zunge ein!  Wenn du einen Aufruhr anfangst, so
+soll der n�chste Baum--Das arme Ungeheuer ist mein Unterthan, und
+ich werde nicht leiden da� ihm �bel begegnet werde.
+
+Caliban.
+Ich danke dir, mein edler Gebieter.  Gef�llt es dir, die Bitte, die
+ich an dich gethan habe, noch einmal zu h�ren?
+
+Stephano.
+Beym Element, das will ich; knie nieder und wiederhole sie; ich
+will stehen, und Trinculo soll auch stehen.  (Ariel kommt
+unsichtbar dazu.)
+
+Caliban.
+Wie ich dir vorhin gesagt habe, ich bin einem Tyrannen unterthan,
+einem Zauberer, der mir durch seine List diese Insel abgetr�delt
+hat.
+
+Ariel.
+Du l�gst.
+
+Caliban (zu Trinculo.)
+Du l�gst, du Maulaffe du; ich wollte, da� mein dapfrer Meister dich
+vernichtete; ich l�ge nicht.
+
+Stephano.
+Trinculo, wenn ihr ihn noch ein einzig mal in seiner Erz�hlung
+unterbrecht, beym Sapperment, so will ich euch etliche Z�hne
+supplantiren!
+
+Trinculo.
+Was?  Ich sagte nichts.
+
+Stephano.
+Husch denn, und nichts weiter; fahre fort!
+
+Caliban.
+Ich sage, durch Zauberey gewann er diese Insel, von mir gewann er
+sie.  Wenn deine Hoheit sie ihm wieder abnehmen will, (denn ich
+wei�, du hast das Herz dazu, aber dieses Ding hat kein Herz--)
+
+Stephano.
+Das ist eine ausgemachte Sache.
+
+Caliban.
+So sollt du Herr davon seyn, und ich will dir dienen.
+
+Stephano.
+Wie wollen wir das anstellen?  Kanst du mir ein Mittel vorschlagen?
+
+Caliban.
+Ja, ja, mein Gebieter, ich will ihn dir schlafend �berliefern, dann
+kanst du ihm einen Nagel in den Kopf schlagen.
+
+Ariel.
+Du l�gst, das kanst du nicht.
+
+Caliban.
+Was f�r ein elster-m�ssiger Flegel ist das?  du Lumpenkerl du!  Ich
+bitte deine Hoheit, gieb ihm Maulschellen und nimm ihm diese
+Flasche; wenn er sie nicht mehr hat, so mu� er lauter Pf�zenwasser
+trinken, denn ich will ihm nicht zeigen, wo die Brunnquellen sind.
+
+Stephano.
+Trinculo, seze dich keiner fernern Gefahr aus.  Unterbrich das
+Ungeheuer nur mit einem Wort, und beym Sapperment, ich will meine
+Barmherzigkeit zur Th�r hinaus stossen, und einen Stokfisch aus dir
+machen.
+
+Trinculo.
+Wie?  Was that ich denn?  Ich that nichts; ich will weiter weggehen.
+
+Stephano.
+Sagtest du nicht, er l�ge?
+
+Ariel.
+Du l�gst.
+
+Stephano. (Er pr�gelt den Trinculo.)
+Thu ich das?  Nimm das, und wenn es dir wohl schmekt, so heisse
+mich ein andermal wieder l�gen.
+
+Trinculo.
+Ich habe dich nicht l�gen geheissen--Habt ihr den Verstand
+verlohren, und das Geh�r dazu?  da� der Henker eure Flasche!  Das
+kan Sect und Trinken thun!  Da� die schwere Noth dein Ungeheuer,
+und der T** deine Finger--
+
+Caliban.
+Ha, ha, ha.
+
+Stephano.
+Nun, weiter in deiner Erz�hlung--
+
+(zu Trinculo)
+
+ich bitte dich, steh weiter zur�k.
+
+Caliban.
+Schlag ihn bis er genug hat; �ber eine Weile will ich ihm auch
+geben.
+
+Stephano.
+Weiter zur�k--Komm, fahre fort.
+
+Caliban.
+Wie ich dir sagte, er hat die Gewohnheit nachmittags zu schlaffen;
+dann kanst du ihm den Kopf spalten, aber du must ihm vorher seine
+B�cher nehmen; oder du kanst ihm mit einem Bloke den Hirnschedel
+zersplittern, oder ihm mit einem Pfahl den Bauch aufreissen, oder
+ihm mit deinem Messer die Gurgel abschneiden.  Vergi� nicht, ihm
+seine B�cher vorher wegzunehmen; denn ohne sie ist er nur ein
+Dummkopf wie ich; und hat nicht einen einzigen Geist mehr, dem er
+befehlen k�nnte.  Sie hassen ihn alle mit einem so eingewurzelten
+Ha� wie ich.  Verbrenne nur seine B�cher.  Er hat h�bsche M�beln,
+wie er sie hei�t, womit er sein Haus einrichten will, wenn er eins
+hat.  Und was am tiefsten dabey zu betrachten ist, das ist die
+Sch�nheit seiner Tochter; er selbst nennt sie sein Tausendsch�nchen;
+ich habe nie mehr als zwey Weibsbilder gesehen, Sycorax, meine
+Mutter, und sie; aber sie �bertrift Sycorax so weit als das Gr�ste
+das Kleinste.
+
+Stephano.
+Ist sie so ein h�bsches Mensch?
+
+Caliban.
+Ja, mein Gebieter; sie wird dein Bette zieren, ich versichre dich's,
+und dir eine brave junge Zucht bringen.
+
+Stephano.
+Ungeheuer, ich will diesen Mann umbringen; seine Tochter und ich
+sollen K�nig und K�nigin seyn, (Gott erhalte unsre Majest�ten!) und
+Trinculo und du, ihr sollt Vice-K�nige seyn.  Gef�llt dir der
+Anschlag, Trinculo?
+
+Trinculo.
+Vortrefflich.
+
+Stephano.
+Gieb mir deine Hand; es ist mir leid, da� ich dich gepr�gelt habe:
+aber so lange du lebst, so halte deine Zunge wohl im Zaum.
+
+Caliban.
+In der n�chsten halben Stunde wird er eingeschlafen seyn; willt du
+ihn alsdann vernichten?
+
+Stephano.
+Ja, bey meiner Ehre.
+
+Ariel.
+Das will ich meinem Herrn erz�hlen.
+
+Caliban.
+Du machst mich ganz aufger�umt; ich bin voller Freuden; la� uns
+lustig seyn.  Wollen wir Bilboquet spielen, das ihr mich nur erst
+gelernt habt?
+
+Stephano.
+Weil du mich drumm bittest, Ungeheuer, so will ich dir etwas zu
+gefallen thun.  Komm, Trinculo, wir wollen singen.
+
+(Sie singen ein Gassenlied.)
+
+Caliban.
+Das ist nicht die rechte Melodie.
+
+(Ariel spielt ihnen die Melodie auf einer Pfeiffe, mit einer
+Biscayer-Trummel.)
+
+Stephano.
+Was ist das?
+
+Trinculo.
+Es ist die Melodie unsers Lieds, von einem Gem�hlde von Niemand
+gespielt.
+
+Stephano.
+Wenn du ein Mensch bist, so zeige dich in deiner Gestalt; und bist
+du der Teufel, so zeige dich wie du willst.
+
+Trinculo.
+O!  vergieb mir meine S�nden!
+
+Stephano.
+Wer stirbt, bezahlt alle seine Schulden.  Ich biete dir Troz!  (Der
+Himmel steh uns bey!)
+
+Caliban.
+F�rchtest du dich?
+
+Stephano.
+Nein, Ungeheuer, nicht ich.
+
+Caliban.
+Du must dich nicht f�rchten; diese Insel ist voll von Get�se, T�nen
+und anmuthigen Melodien, welche belustigen und keinen Schaden thun.
+Manchmal sumsen tausend klimpernde Instrumente um mein Ohr;
+manchmal Stimmen, die, wenn ich gleich dann aus einem langen Schlaf
+aufgewacht w�re, mich wieder einschl�fern w�rden; dann d�uchts mir
+im Traum, die Wolken thun sich auf, und zeigen mir Sch�ze, die auf
+mich herunter regnen wollen; da� ich, wenn ich erwache, schrey und
+weine, weil ich wieder tr�umen m�chte.
+
+Stephano.
+Das wird ein braves K�nigreich f�r mich werden; ich werde die Musik
+umsonst haben.
+
+Caliban.
+Wenn Prospero vernichtet ist.
+
+Stephano.
+Das soll nicht lange mehr anstehen; ich hab' es nicht vergessen.
+
+Trinculo.
+Das Get�n geht fort; wir wollen ihm nach, und dann an unsre Arbeit
+gehen.
+
+Stephano.
+F�hr uns, Ungeheuer, wir wollen dir folgen.  Ich wollte ich k�nnte
+diesen Trummelschl�ger sehen.  Er h�rt auf.
+
+Trinculo.
+Willt du kommen?  Ich gehe nach Stephano.
+
+(Sie gehen ab.)
+
+
+
+Dritte Scene.
+(Ein andrer Teil der Insel.)
+(Alonso, Sebastian, Antonio, Gonsalo, Adrian, Francisco, u.s.w.
+ treten auf.)
+
+
+Gonsalo.
+Bey Sct.  Velten, ich kan nicht weiter, Sire; meine alten Beine
+schmerzen mich; wir sind hier in einem Labyrinth: Auf meine Ehre,
+alles geht durch Irrwege, und M�ander.  Mit eurer Erlaubni�, ich
+mu� mich niedersezen.
+
+Alonso.
+Alter Mann, ich kan dirs nicht verdenken, ich bin selbst bis zur
+Bet�ubung meiner Lebensgeister abgemattet; seze dich und ruhe aus.
+Ich gebe die Hoffnung auf, die ich wie einen Schmeichler bisher
+geheget habe; er ist umgekommen, den wir so m�hsam suchen, und das
+Meer spottet unsers Nachforschens auf dem Lande.  Wol dann, es mag
+seyn.
+
+Antonio (leise zu Sebastian.)
+Ich bin sehr erfreut da� er so hoffnunglos ist.  Vergesset, um
+eines Fehlstreichs willen, das Vorhaben nicht, wozu ihr euch
+entschlossen habt.
+
+Sebastian.
+Bey der n�chsten bequemen Gelegenheit wollen wir unsern Vortheil
+besser nehmen.
+
+Antonio.
+La�t es diese Nacht seyn; sie sind von der Reise so abgemattet, da�
+sie weder daran denken, noch im Stande sind so viel Vorsichtigkeit
+zu gebrauchen, als wenn sie frisch w�ren.
+
+Sebastian.
+Diese Nacht!  Nichts weiter.
+
+(Man h�rt eine seltsame und feyrliche Musik, und Prospero zeigt
+sich (den redenden Personen unsichtbar) auf der Spize des Berges.
+Verschiedne wunderbare Gespenster treten auf, tragen eine Tafel mit
+Speisen und Getr�nk herzu, tanzen um dieselbe mit freundlichen
+Gebehrden, als ob sie den K�nig und seine Gef�hrten willkommen
+heissen wollten, und nachdem sie dieselben eingeladen zu essen,
+verschwinden sie wieder.)
+
+Alonso.
+Was f�r eine Harmonie ist di�?  meine guten Freunde, horcht!
+
+Gonsalo.
+Eine wunderbar angenehme Musik.
+
+Alonso.
+Gieb uns freundliche Wirthe, o Himmel!  Wer sind diese?
+
+Sebastian.
+Das ist ein Haupt-Spa�.  Nun will ich glauben, da� es Einh�rner
+giebt; da� in Arabien ein einziger Baum ist, der Thron des Ph�nix,
+und ein einziger Ph�nix, der bis auf diese Stunde da regiert.
+
+Antonio.
+Ich will beydes glauben, und was sonst nicht viel Credit hat, komme
+nur zu mir, ich will schw�ren es sey wahr.  Reisebeschreiber haben
+nie gelogen, wenn schon Geken, die hinter dem Ofen sizen, sie
+verurtheilen.
+
+Gonsalo.
+Wenn ich nach Neapel k�me und das erz�hlte, w�rde man mir's
+glauben?  Wenn ich sagte: Ich sahe solche Insulaner (denn gewi�
+sind das die Einwohner dieser Insel) und ob sie gleich von
+mi�gestalteter und abentheurlicher Bildung sind; so sind doch ihre
+Manieren leutseliger und artiger als ihr bey manchen finden werdet,
+die zum menschlichen Geschlecht geh�ren; ja, in der That.
+
+Prospero (vor sich.)
+Du ehrlicher Alter, du sprichst wohl; denn es sind hier einige
+unter euch, die schlimmer als Teufels sind.
+
+Alonso.
+Ich kan nicht genug erstaunen; solche Gestalten, solche Gebehrden,
+ein solcher Ton, der, (ob es ihnen gleich am Gebrauch der Zunge
+fehlt) eine Art von einer vortrefflichen stummen Sprache ausmacht.
+
+Prospero (vor sich.)
+Diese Lobspr�che k�nnten zu voreilig seyn.
+
+Francisco.
+Sie verschwanden auf eine seltsame Art.
+
+Sebastian.
+Das hat nichts zu sagen, da sie uns zu essen hinterlassen haben;
+denn ich denke, wir sp�ren alle, da� wir einen Magen haben.
+Gef�llt es Euer Majest�t, etwas hievon zu kosten?
+
+Alonso.
+Ich habe keine Lust.
+
+Gonsalo.
+Auf meine Treue, Gn�digster Herr, ihr habt keine Ursache etwas zu
+besorgen.  Wie wir noch kleine Jungen waren, welcher unter uns
+h�tte geglaubt, da� es Leute in Geb�rgen gebe, welche einen diken
+hautigen Hals h�tten wie die Ochsen, oder denen der Kopf in der
+Brust st�nde?  Was man selbst sieht, glaubt man am besten.
+
+Alonso.
+Ich will mit zustehen, und essen, wenn es gleich mein leztes w�re;
+es ligt mir nichts daran, das beste ist vorbey; Bruder, Herzog,
+stehet zu, und machet's wie wir.
+
+
+
+Vierte Scene.
+(Donner und Blize.  Ariel tritt in Gestalt einer Harpye auf,
+ schl�gt mit seinen Fl�geln auf die Tafel, und vermittelst einer
+ unmerklichen Veranstaltung verschwindet die Mahlzeit im gleichen
+ Augenblik.)
+
+
+Ariel.
+Ihr seyd drey M�nner der S�nde, welche das r�chende Schiksal (so
+sich dieser untern Welt und alldessen was drinn ist, zu Werkzeugen
+bedient) im Sturm auf diese unbewohnte Insel ausgeworfen,* als
+Leute die h�chst unw�rdig sind unter Menschen zu leben.  Ich hab'
+eure Sinnen bet�ubt, und euch nicht mehr St�rke �brig gelassen, als
+ein Mensch n�thig hat, sich selbst zu h�ngen oder zu ertr�nken.
+Ihr Narren!  ich und meine Gesellen sind Diener des Schiksals; die
+Elemente woraus eure Schwerdter bereitet sind, k�nnten eben so wohl
+den sausenden Wind verwunden, oder mit l�cherlichen Stichen das
+stets sich wieder schliessende Wasser t�dten, als eine einzige
+Pflaumfeder aus meinen Schwingen reissen.  Meine Gesellen sind eben
+so unverwundbar.  Und wenn ihr uns auch verwunden k�nntet, so sind
+eure Schwerdter zu schwer f�r eure izige St�rke, und ihr seyd nicht
+einmal im Stande sie aufzuheben.  Erinnert euch dann (denn das ist
+mein Gesch�ft an euch) da� ihr drey es waret, die den rechtschafnen
+Prospero aus Meiland vertrieben, und der offnen See, (die es euch
+nun vergolten hat) ausgesezt, ihn und sein unschuldiges Kind!  Um
+dieser �belthat willen haben die himmlischen M�chte, welche die
+Bestrafung des Unrechts zwar verschieben aber nie vergessen, das
+Meer und das feste Land, ja alle Gesch�pfe wieder euch emp�rt, dich,
+Alonso, deines Sohnes beraubt, und sprechen nun durch mich das
+Urtheil �ber euch aus; da� langsames Verderben, schreklicher als
+irgend ein schneller Tod, Schritt f�r Schritt euch und eure Wege
+verfolgen soll.  Nichts kan euch vor ihrem Zorn (der sonst in
+diesem w�sten Eiland auf eure H�upter fallen wird) besch�zen, als
+ein reuevolles Herz, und in Zukunft ein reines Leben.
+
+{ed.-* Im Original: "Welche das Schiksal u.s.w.  von der gefr��igen
+nimmersatten See hat ausr�lpsen lassen, und an diese Insel" u.s.w.}
+
+(Ariel verschwindt im Donner, darauf folget eine Symphonie mit
+Sordinen; die Gespenster kommen, und tragen nach einem Tanz voller
+seltsamer Grimassen die Tafel wieder hinweg.)
+
+Prospero (vor sich.)
+Du hast die Role dieser Harpye gut gemacht, mein Ariel--du hast
+nichts von meiner Vorschrift ausgelassen--eben so gut in ihrer Art
+haben auch meine geringern Diener ihre verschiednen Personen
+gespielt; meine Bezauberungen w�rken, und diese meine Feinde von
+bet�ubendem Schreken gefesselt, sind alle in meiner Gewalt.  Ich
+verlasse sie nun in diesem Zustand, um den jungen Ferdinand, den
+sie f�r verlohren sch�zen, und seinen und meinen Liebling zu
+besuchen.
+
+(Prospero geht ab.)
+
+Gonsalo.
+Im Namen alles dessen was heilig ist, Sire, warum steht ihr da, als
+ob ihr ein Gespenste s�het?
+
+Alonso.
+O!  es ist entsezlich, entsezlich!  Mich d�uchte die Wellen redeten
+und warfen mir's vor; die Winde heulten mir's entgegen, und der
+Donner, diese tieffe f�rchterliche Orgelpfeiffe, sprach den Namen
+Prospero aus--und gab das Zeichen zu meinem Tod--Um meines
+Verbrechens willen ligt mein Sohn in einem nassen Bette; ich will
+ihn suchen, tiefer als jemals ein Senkel-Bley gefallen ist, und
+dort bey ihm im Schlamme begraben ligen.
+
+(Geht ab.)
+
+Sebastian.
+Das war erst ein Teufel; ich will ihrer ganze Legionen zu Boden
+fechten.
+
+Antonio.
+Und ich will dein Secondant seyn.
+
+(Gehen ab.)
+
+Gonsalo.
+Alle drey sind in Verzweiflung; ihre schwere Verschuldung, gleich
+einem Gift, das erst nach langer Zeit w�rken soll, fangt nun an,
+ihre Lebensgeister zu nagen.  Ich bitte euch, ihr die ihr
+biegsamere Gelenke habt als ich, folget ihnen so eilfertig als ihr
+k�nnt, und verhindert sie an dem, wozu die sinnlose Verzweiflung
+sie treiben mag.
+
+Adrian.
+Folget mir, ich bitte euch.
+
+(Sie gehen ab.)
+
+
+
+
+Vierter Aufzug.
+
+
+
+Erste Scene.
+(Prospero's Celle.)
+(Prospero, Ferdinand und Miranda.)
+
+
+Prospero.
+Wenn ich euch zu strenge begegnet bin, so hoffe ich, der Ersaz den
+ich euch gegeben, wird es verg�ten; denn ich habe euch einen Faden
+von meinem eignen Leben gegeben, oder vielmehr das einzige, wof�r
+ich lebe.  Hier liefre ich sie nochmals in deine Hand: Alle
+Kr�nkungen, die du erduldet hast, waren nur Pr�fungen deiner Liebe,
+und du hast auf eine ausserordentliche Art die Probe gehalten.
+Hier, im Angesicht des Himmels best�tige ich dieses mein reiches
+Geschenk.  O Ferdinand, l�chle nicht �ber mich, da� ich stolz auf
+sie bin; du wirst finden, da� sie alles Lob weit hinter sich zur�ke
+lassen wird.
+
+Ferdinand.
+Ich glaub' es gegen ein Orakel.
+
+Prospero.
+So empfange dann, als mein Geschenk und als dein wohlverdientes
+Eigenthum, empfange meine Tochter.  Aber wofern du ihren
+jungfr�ulichen G�rtel aufl�sest, eh euer B�ndni� durch alle
+geheiligten Feyerlichkeiten, nach vollst�ndigem Gebrauch
+bekr�ftiget werden kan: So m�ge der Himmel alle die segensvollen
+Einfl�sse zur�khalten, die sonst euere Vereinigung bekr�nen w�rden;
+und statt derselben soll unfruchtbarer Ha�, sauersehender
+Widerwille und Zwietracht euer Bette mit so wildem Unkraut
+bestreuen, da� ihr es beyde hassen sollet.  Nimm dich also in Acht,
+so lieb es dir ist, da� Hymens Fakel dir leuchte.
+
+Ferdinand.
+So wie ich ruhige Tage, eine sch�ne Nachkommenschaft, und ein
+langes Leben, mit der unver�nderten Dauer einer solchen Liebe, als
+ich izt empfinde, mir w�nsche; so gewi� soll die finsterste H�le,
+die bequemste Gelegenheit und die st�rkste Eingebung unsers b�sen
+Genius nimmermehr verm�gend seyn, meine tugendhafte Liebe in
+unordentliche Lust zu zerschmelzen, da� ich rauben sollte was jenem
+feyerlichen Tag vorbehalten ist, bey dessen Anbruch mich's d�nken
+wird, entweder die Sonnenpferde seyen steif, oder die Nacht mit
+Ketten angeschmiedet worden.
+
+Prospero.
+Wohl gesprochen!  Size dann nieder und rede mit ihr, sie ist dein
+eigen.  Wie?  Ariel, mein ausrichtsamer Diener, Ariel--
+
+
+
+Zweyte Scene.
+(Ariel zu den Vorigen.)
+
+
+Ariel.
+Was befiehlt mein m�chtiger Gebieter?  hier bin ich.
+
+Prospero.
+Du und deine geringern Mitgesellen haben vorhin ihren Dienst aufs
+beste versehen, und ich will euch izt zu einem andern Spiel
+gebrauchen.  Geh, bring die Geisterschaar, �ber die ich dir Gewalt
+gegeben habe, an diesen Ort; Muntre sie zu schnellen Bewegungen auf,
+denn ich mu� die Augen dieses jungen Paars mit irgend einer
+Eitelkeit meiner Kunst belustigen; ich hab' es versprochen und sie
+erwarten's von mir.
+
+Ariel.
+Sogleich?
+
+Prospero.
+Ja, in einem Augenblik.
+
+Ariel.
+Eh ihr sagen k�nnt, komm und geh, zweymal athmen, und ruffen, so,
+so; soll jeder auf den Zehen tripplend hier seyn, und seine K�nste
+machen.  Liebt ihr mich nun, mein Gebieter?*
+
+{ed.-* Ariel sagt dieses im Original in kleinen Versen, die sich alle
+in O reimen, und, weil sie alle ihre Artigkeit daher haben, sich
+nicht in Reime �bersezen lassen.}
+
+Prospero.
+H�chlich, mein sinnreicher Ariel; komm nicht zur�k, bis ich dich
+ruffe.
+
+Ariel.
+Gut, ich verstehe dich.
+
+(Geht ab.)
+
+Prospero (zu Ferdinand.)
+Vergi� du nicht dein Wort zu halten; treibe den Scherz nicht zu
+weit; die st�rksten Eide sind nur Stroh f�r das Feuer in unserm
+Blute; halte besser an dich, oder gute Nacht, Gel�bde!
+
+Ferdinand.
+Ich versichre euch, mein Herr, dieser weisse kalte jungfr�uliche
+Schnee an mein Herz gedr�kt, k�hlt die Hize meiner Leber ab.
+
+Prospero.
+Gut; komm izt, mein Ariel; bringe lieber einen Geist zuviel, als
+da� einer mangle; erscheine uns munter--Redet ihr kein Wort, seyd
+lauter Auge; Still!
+
+(Man h�rt eine angenehme Musik.)
+
+
+
+Dritte Scene.
+(Ein allegorisches Schauspiel.)
+(Iris tritt auf.)
+
+
+Iris.
+Ceres,* huldreiche G�ttin, deine goldnen Felder voll Waizen, Gerste,
+Haber, Wiken und Bohnen, deine kr�uterreichen Berge, mit grasenden
+Schaafen bedekt, und deine ebnen Wiesen, wo sie in strohbedekten
+H�rden ligen, deine mit Blumen eingelegte und mit Tulpen bordirte
+B�nke, vom schwammichten Aprill auf deinen Befehl so geschm�kt, um
+f�r kalte Nymphen keusche Kr�nze zu machen, und deine braunen
+Lauben, deren Schatten der von seinem M�dchen abgewiesene
+Junggeselle liebt; deine eingez�unte Weinberge, und deine
+unfruchtbaren Seeb�nke und Felsen, auf denen du dich zu verl�ften
+pflegst: Alles dieses befiehlt dir die K�nigin des Himmels, deren
+Dienerin ich bin, zu verlassen, und auf diesem gr�nen Plaz ihrer
+gebietenden Majest�t Gesellschaft zu leisten.  Ihre Pfauen sind in
+vollem Anzug.  N�here dich, reiche Ceres, sie zu unterhalten.
+
+{ed.-* Dieses ganze Spiel ist im Original in Reimen.}
+
+(Ceres tritt auf.)
+
+Ceres.
+Heil dir, vielfarbichte B�tin und Aufw�rterin der Gemahlin des
+Jupiters, die du von deinen saffrangelben Schwingen honigtriefende,
+erfrischende Regen auf meine Blumen sch�ttest, und mit jedem Ende
+deines blauen Bogens, einer reichen Sch�rpe f�r meine stolze Erde,
+meine schwellenden Felder und meine nakten Sandh�gel bekr�nst;
+warum hat deine K�nigin mich hieher beruffen?
+
+Iris.
+Ein B�ndni� treuer Liebe zu begehen, und die gl�klichen Liebhaber
+mit einem freywilligen Geschenke zu begaben.
+
+Ceres.
+Sage mir, himmlischer Bogen, ist dir nicht bekannt, ob Venus oder
+ihr Sohn die K�nigin begleiten?  Denn seitdem sie dem d�stern Pluto
+Vorschub gethan haben, meine Tochter zu entf�hren, hab' ich ihre
+und ihres blinden Buben �rgerliche Gesellschaft verschworen.
+
+Iris.
+F�rchte dich nicht vor ihrer Gesellschaft.  Ich begegnete ihrer
+Deit�t, wie sie die Wolken gegen Paphos zu durchschnitt, sie und
+ihr Sohn, von Dauben mit ihr gezogen; sie bildeten sich ein, durch
+irgend ein leichtfertiges Zauberwerk diesen J�ngling und di�
+M�dchen zu beth�ren, die das Gel�bde gethan haben, sich der Rechte
+des Ehebettes zu enthalten, bis Hymens Fakel ihnen angez�ndet wird;
+aber die heisse Buhlerin des Kriegs-Gottes ist unverrichter Dingen
+zur�k gekommen, und ihr wespen-m�ssiger Sohn hat seinen Bogen
+zerbrochen, und schw�rt, er wolle keinen Pfeil mehr anr�hren,
+sondern mit Spazen spielen und geradezu ein kleiner Junge seyn.
+
+Ceres.
+Die hohe K�nigin des G�tter-Staats, die grosse Juno kommt; ich
+erkenne sie an ihrem Gang.
+
+(Juno steigt von ihrem Wagen und tritt auf.)
+
+Juno.
+Wie befindet sich meine mildreiche Schwester?  Komm mit mir, dieses
+Paar zu segnen, da� sie gl�klich seyn, und eine ehrenvolle
+Nachkommenschaft sehen m�gen.
+
+(Juno und Ceres singen ein Lied, worinn jede die Verlobten mit
+ihren eignen Gaben beschenkt.)
+
+Ferdinand.
+Di� ist ein h�chst majest�tisches Gesicht, und eine bezaubernde
+Harmonie; und darf ich k�hnlich glauben, da� es Geister sind?
+
+Prospero.
+Geister, die ich durch meine Kunst aus ihren Bezirken hiehergerufen
+habe, meine Phantasien auszuf�hren.
+
+Ferdinand.
+O!  la�t mich hier ewig leben; ein so wundervoller Vater, und ein
+solches Weib machen diesen Ort zu einem Paradiese.
+
+Prospero.
+Stille, mein Wehrter!  Juno und Ceres lispeln einander ganz
+ernsthaft etwas in die Ohren; es wird noch etwas zuthun seyn; husch,
+seyd stumm, oder unser Spiel wird verdorben.
+
+(Juno und Ceres reden leise mit einander, und schiken Iris mit
+einem Auftrag ab.)
+
+Iris.
+Ihr Nymphen der schl�ngelnden B�che, Najaden genannt, mit euern
+Schilf-Kr�nzen und immer freundlichen Bliken, verla�t eure
+kr�uselnden Can�le und kommt, Juno befiehlt's, auf diese gr�ne Flur.
+Kommt, keusche Nymphen, und helft ein B�ndni� treuer Liebe zu
+feyern; s�umt euch nicht!
+
+(Eine Anzahl Nymphen treten auf.)
+
+Iris (fahrt fort.)
+Ihr von der Sonne verbrannten Schnitter, des Augusts m�de, kommt
+aus euern Furchen, und theilet unsre Lust.  Macht Feyertag, sezt
+eure Strohh�te auf, und jeder gebe einer von diesen frischen
+Nymphen die Hand zum l�ndlichen Tanz.
+
+
+
+Vierte Scene.
+(Eine Anzahl von nettgekleideten Schnittern treten auf, und
+ vereinigen sich mit den Nymphen zu einem anmuthigen Tanz: Gegen das
+ Ende des Tanzes f�hrt Prospero pl�zlich auf, und spricht die
+ folgende Rede, worauf alles mit einem seltsamen holen und
+ verworrnen Get�se verschwindet.)
+
+
+Prospero.
+Ich hatte diese sch�ndliche Zusammenverschw�rung des Viehes Caliban
+und seiner Gesellen gegen mein Leben v�llig aus der Acht gelassen;
+die Minute die sie zur Ausf�hrung erkie�t haben, ist beynahe
+gekommen--Gut gemacht; hinweg, nichts mehr!
+
+Ferdinand (leise zu Miranda.)
+Di� ist seltsam, unser Vater ist in irgend einem Affect, der mit
+Macht auf ihn w�rkt.
+
+Miranda.
+Niemals bis auf diesen Tag sah ich ihn in einem so heftigen
+Unwillen.
+
+Prospero.
+Ihr seht best�rzt aus, mein Sohn; seyd gutes Muths, unsre Spiele
+sind nun zu Ende.  Diese unsre Schauspieler, wie ich euch vorhin
+sagte, sind alle Geister, und zerflossen wieder in Luft, in d�nne
+Luft, und so wie diese wesenlose Luftgesichte, so sollen die mit
+Wolken bekr�nzte Th�rme, die stattlichen Pal�ste, die feyrlichen
+Tempel, und diese grosse Erdkugel selbst, und alles was sie in sich
+fa�t, zerschmelzen, und gleich diesem verschwundnen unwesentlichen
+Schauspiel nicht die mindeste Spur zur�klassen.  Wir sind solcher
+Zeug, woraus Tr�ume gemacht werden, und unser kleines Leben endet
+sich in einen Schlaf--mein Herr, ich bin beunruhigt, habt Geduld
+mit meiner Schwachheit, mein altes Gehirn ist in Unordnung; la�t
+euch diesen kleinen Zufall nicht anfechten; geht in meine Celle,
+wenn's euch beliebt, und ruhet da--Ein oder zwey Auf- und Abg�nge
+werden mir wieder leichter machen.
+
+Ferdinand.  Miranda.
+Wir w�nschen euch Friede.
+
+(Ferdinand und Miranda gehen ab.)
+
+Prospero (vor sich.)
+Komm in einem Gedanken--
+
+(zu Ferdinand und Miranda.)
+
+Ich danke euch--Ariel, komm.
+
+(Prospero entfernt sich weiter von der Celle; Ariel zu ihm.)
+
+Ariel.
+Ich klammre mich an deine Gedanken an; was ist dein Wille?
+
+Prospero.
+Geist, wir m�ssen uns r�sten den Caliban zu empfangen.
+
+Ariel.
+Ja, mein Gebieter.  Ich dachte, wie ich Ceres vorstellte, dir davon
+gesagt zu haben; aber ich brach ab, aus Besorgni� dich verdrie�lich
+zu machen.
+
+Prospero.
+Sag es noch einmal, wo verliessest du diese Schurken?
+
+Ariel.
+Ich sagte euch, mein Herr, da� sie dik besoffen waren, und so voll
+Dapferkeit, da� sie die Luft schlugen, weil sie sich unterstuhnd
+ihnen ins Gesicht zu wehen, und den Boden stampften, weil er ihre
+F�sse k��te, ohne inzwischen ihr Vorhaben aus der Acht zu lassen.
+Ich schlug hierauf meine Trummel; dieses Get�se machte sie
+aufmerksam; sie spizten wie unberittne F�llen ihre Ohren, zogen die
+Auglieder in die H�he, und strekten ihre Nasen vor sich hin, wie
+sie Musik rochen; kurz, ich bezauberte ihre Ohren dergestalt, da�
+sie wie K�lber meinem Br�llen folgten, durch stachlichte Genister,
+Disteln, und Dornen, die in ihren d�nnen Schienbeinen steken
+blieben; endlich lie� ich sie in dem kothigen mit Unrath
+bemantelten Sumpf, hinter eurer Celle, wo sie bis ans Knie
+hineinsanken, da� der faule Morast ihre F�sse �berstunk.
+
+Prospero.
+Das war wol gethan, mein Vogel; behalt immer deine unsichtbare
+Gestalt.  Geh, bringe mir die abgetragnen Kleider in meinem Hause
+hieher, wir m�ssen diese Diebe in Versuchung sezen.*
+
+{ed.-* Dieser Umstand bezieht sich auf den gemeinen Aberglauben
+des P�bels in unsers Autors Zeiten, als ob Zauberer, Hexen und
+dergl.  nicht eher eine Gewalt �ber diejenige, so sie bezaubern
+wollen, haben, bis sie den Vortheil �ber sie erhalten, sie bey
+irgend einer S�nde zu ertappen, als wie hier �ber Dieberey.
+Warb�rton.}
+
+Ariel.
+Ich geh, ich geh.
+
+(Geht ab.)
+
+Prospero (vor sich.)
+Ein Teufel ist dieser Caliban, ein gebohrner Teufel, an dessen
+Natur keine Erziehung haftet; an dem alle meine M�he, M�he wie man
+an einen Menschen wendet, verlohren, g�nzlich verlohren ist; und
+wie mit dem Alter sein Leib in eine viehischere Ungestaltheit
+ausw�ch�t, so wird auch sein Gem�th ungeheurer; ich will sie alle
+plagen, bis zum Heulen.
+
+(Ariel k�mmt mit allerley schimmerndem Ger�the beladen.)
+
+Komm, h�nge sie an dieses Seil.
+
+
+
+F�nfte Scene.
+(Caliban, Stephano und Trinculo treten alle wohl angefeuchtet und
+ von Morast triefend auf; Prospero und Ariel bleiben unsichtbar
+ zur�k.)
+
+
+Caliban.
+Ich bitte euch, tretet leise, damit der blinde Maulwurf keinen Fu�
+fallen h�rt.  Wir sind nimmer weit von seiner Celle.
+
+Stephano.
+Ungeheuer, euer Kobolt, von dem ihr sagt, er sey ein freundlicher
+Kobolt, der niemand ein Leid thut, hat nichts viel bessers gethan,
+als den Narren mit uns gespielt.
+
+Trinculo.
+Ungeheuer, ich rieche lauter Pferd-Pisse, und ich kan dir's sagen,
+es will meiner Nase gar nicht schmeken.
+
+Stephano.
+So geht's der meinigen auch; h�rt ihr's, Ungeheuer!  Wenn ich einen
+Unwillen wider euch fassen sollte--Sehet zu--
+
+Trinculo.
+Du w�rst ein verlohrnes Ungeheuer.
+
+Caliban.
+Mein lieber gn�diger Herr, la� mich immer in deiner Gunst stehen;
+gedulde, der Vortheil, zu dem ich dich f�hre, wird diesem Unfall
+die Augen ausstechen; redet nur leise, es ist izt alles so still
+als Mitternacht.
+
+Trinculo.
+Schon gut, aber unsre Flasche im Morast zu verliehren--
+
+Stephano.
+Es ist nicht nur Unannehmlichkeit und Schmach in diesem Abentheuer,
+sondern ein unendlicher Verlust, du Ungeheuer.
+
+Trinculo.
+Das ist mir �ber meine Anfeuchtung, und doch ist das euer
+freundlicher Kobold, der niemand kein Leid thut, Ungeheuer.
+
+Stephano.
+Ich will meine Flasche wieder hohlen, und wenn ich f�r meine M�he
+bis �ber die Ohren hineinplumpen sollte.
+
+Caliban.
+Ich bitte dich, mein K�nig, sey ruhig; siehst du hier, di� ist der
+Eingang in die Celle; kein Get�se, schleich hinein, thue di� gute
+Unheil, das diese Insel auf ewig zu deinem Eigenthum macht; und ich
+bin dein Caliban, auf ewig dein Fu�-Leker.
+
+Stephano.
+Gieb mir deine Hand, ich fange an, blutige Gedanken zu haben.
+
+Trinculo.
+O K�nig Stephen, o Pair!  o w�rdiger Stephen!* Sieh, was f�r eine
+Garderobe hier f�r dich ist!
+
+{ed.-* Der Spa� in diesen Zeilen besteht in einer Anspielung auf ein
+altes bekanntes Gassenlied, welches anf�ngt: (King Stephen was a
+worthy Peer), und die Sparsamkeit dieses K�nigs in Absicht auf
+seine Garderobe anpreist.  Es sind zwo Stanzen von diesem Lied im
+Othello.  Warb�rton.}
+
+Caliban.
+La� es gehen, du Narr, es ist nur Tr�delwaare.
+
+Trinculo.
+Oh, oh, Ungeheuer, wir verstehen uns auch darauf, was in eine
+Tr�delbude geh�rt--o K�nig Stephen--
+
+Stephano.
+Lange diesen Rok herunter, Trinculo; beym Element, ich will diesen
+Rok haben.
+
+Trinculo.
+Deine Gnaden sollen ihn haben.
+
+Caliban.
+Da� du die Wassersucht kriegtest, du Dummkopf!  Wie ungescheidt
+seyd ihr, da� euch ein solcher Plunder in die Augen sticht!  Geht
+weiter und vollbringet vorher den Mord; wenn er aufwacht, wird er
+uns vom Wirbel bis zum Zehen die Haut zerkneipen lassen; er wird
+abscheulich mit uns umgehen.
+
+Stephano.
+Sey ruhig, Ungeheuer!  Frau Seil, ist das nicht mein Wamms?
+
+Trinculo.
+Ungeheuer komm, schmier ein bi�chen Quark an deine Finger, und weg
+mit dem ganzen Plunder!
+
+Caliban.
+Ich will nichts davon; wir verderben hier die Zeit, und werden
+zulezt noch alle in Barnakel** oder in Affen, mit verflucht niedern
+Stirnen verwandelt werden.
+
+{ed.-** Eine Art von G�nsen auf der Insel Ba�, an der Schottischen
+K�ste, von denen ehmals die Tradition gieng, da� sie auf den B�umen
+wachsen.}
+
+Stephano.
+Ungeheuer, leg Hand an; hilf es wegtragen, an den nehmlichen Ort wo
+mein Weinfa� ligt, oder ich werde dich aus meinem K�nigreich jagen;
+geh, trag das!
+
+Trinculo.
+Und das.
+
+Stephano.
+Ja, und das.
+
+(Man h�rt ein Get�se von J�gern.  Verschiedne Geister, in Gestalt
+von Hunden lauffen auf die B�hne und jagen sie fort; Prospero und
+Ariel sezen ihnen nach.  Caliban, Stephano und Trinculo werden
+heulend ausgetrieben.)
+
+Prospero.
+Heyda, Sultan hey!
+
+Ariel.
+Waldmann, hier geht's, Waldmann.
+
+Prospero.
+Furie, Furie; hier, Tyrann, hier; horch!  horch!  Geh, sage meinen
+Kobolden, da� sie ihre Gelenke mit Z�kungen zermalmen, ihre Sehnen
+mit Kr�mpfen zusammenziehen, und sie am ganzen Leibe von Zwiken und
+Kneipen flekichter machen sollen als ein Panterthier.
+
+Ariel.
+Horch, wie sie heulen.
+
+Prospero.
+La� sie weidlich herumgejagt werden.  Nunmehr sind alle meine
+Feinde in meiner Gewalt.  In kurzem soll sich all mein Ungemach
+enden, und du sollst deine Freyheit haben.  Nur noch eine kleine
+Weile folge mir, und thu mir Dienste.
+
+(Sie gehen ab.)
+
+
+
+
+F�nfter Aufzug.
+
+
+
+Erste Scene.
+(Vor der Celle.)
+(Prospero tritt in seiner Magischen Kleidung mit Ariel auf.)
+
+
+Prospero.
+Nun ist mein Entwurf zu seiner Zeitigung gelangt; meine
+Bezauberungen brechen nicht; meine Geister gehorchen, und die Zeit
+geht aufrecht mit ihrer Ladung davon; wie viel ists am Tage?
+
+Ariel.
+Um die sechste Stunde, mein Gebieter, wann, wie ihr sagtet, unsre
+Arbeit geendigt seyn sollte.
+
+Prospero.
+Das sagte ich gleich anfangs, wie ich den Sturm erregte; sage, mein
+Geist, was macht der K�nig und seine Gef�hrten?
+
+Ariel.
+Sie sind alle, euerm Befehl gem��, zusammengebannt, gerade so wie
+ihr sie verlassen habt, alle eure Gefangne, mein Herr, in dem
+kleinen Hayne, der eure Celle vor dem Wetter sch�zt.  Sie k�nnen
+nicht von der Stelle, bis ihr sie loslasset.  Der K�nig, sein
+Bruder und der eurige sind alle drey in einer Art von Bet�ubung;
+die �brigen trauern ihrentwegen, bis an den Rand mit Kummer und
+Best�rzung angef�llt; insonderheit derjenige, den ihr den guten
+alten Gonsalo nanntet.  Seine Thr�nen lauffen �ber seinen Bart
+herab, wie Winter-Tropfen von einem rohrbedekten Dach.  Eure
+Bezauberungen arbeiten so stark auf sie, da�, wenn ihr sie izt
+sehen solltet, euer Herz gewi� zu Mitleiden erweicht w�rde.
+
+Prospero.
+Denkst du das, Geist?
+
+Ariel.
+Das meinige w�rd' es gewi�, wenn ich ein Mensch w�re.
+
+Prospero.
+Und das meinige auch.  Hast du, der du nur Luft bist, eine Ahnung,
+ein Gef�hl von ihrem Leiden, und ich, einer von ihrer Gattung, der
+allen ihren Leidenschaften und Bed�rfnissen unterworffen ist,
+sollte nicht z�rtlicher ger�hrt werden als du?  Ob sie mich gleich
+durch schwere Beleidigungen bis in die Seele verwundet haben, so
+soll doch mein edleres Selbst �ber meinen Unwillen siegen; es ist
+mehr W�rde in gro�m�thiger Vergebung als in Rache; da sie bu�fertig
+sind, so habe ich meine ganze Absicht erreicht; geh, erledige sie,
+Ariel; ich will meine Bezauberungen brechen, ich will ihre Sinnen
+wieder herstellen, und sie sollen wieder seyn, was sie gewesen sind.
+
+Ariel.
+Ich will sie herbeyf�hren, mein Gebieter.
+
+(Er geht ab.)
+
+
+
+Zweyte Scene.
+
+
+Prospero.
+Ihr Elfen der H�gel, der B�che, stehenden Seen und Hayne, und die
+auf Sandb�nken mit leichtem Fu� den ebbenden Neptun zur�kstossen,
+und ihn fliehen, sobald er wiederkehrt; ihr kleinen Feen, die beym
+Mondschein im Gras die kleinen sauren Ringe machen, von denen das
+Schaaf nichts abfrezt; und ihr, deren Zeitvertreib ist,
+Mitternachts-Schw�mme zu machen; die sich freuen den Ruf des
+feyrlichen Nachtw�chters zu h�ren; durch deren H�lfe (so schwach
+ihr auch seyd) ich die mitt�gliche Sonne verfinstert, die
+widerspenstigen Winde herbeygen�thiget, und zwischen der gr�nen See
+und dem azurnen Gew�lbe heulenden Krieg erregt habe; dem
+f�rchterlich rasselnden Donner gab ich Feuer, und entwurzelte die
+Eiche Jupiters mit seinem eignen Keil; ich machte die Grundfeste
+der Vorgeb�rge zittern, und raufte die Fichte und die Ceder mit den
+Wurzeln aus: Gr�ber thaten auf meinen Befehl ihren Rachen auf, und
+liessen ihre Schl�fer hervor, die meine m�chtige Kunst erweket
+hatte: Aber alle diese rauhe Zauberkunst schw�r ich hier ab, und
+wenn ich vorher eine himmlische Musik befohlen haben werde, wie ich
+izt thue, (ihre von jenem magischen Donner gel�hmten Sinnen wieder
+herzustellen), so will ich meinen Stab zerbrechen, ihn etliche
+Klafter tief in die Erde vergraben, und tiefer als jemals ein
+Senkbley fiel, mein Zauberbuch im Meer versenken.
+
+(Man h�rt eine feyrliche Musik.)
+
+
+
+Dritte Scene.
+
+
+(Ariel geht voran; ihm folget Alonso mit den Gebehrden eines von
+ Schwermuth verr�kten Menschen, von Gonsalo gef�hrt, hierauf
+ Sebastiano und Antonio auf gleiche Weise, von Adrian und Francisco
+ geleitet; sie gehen in den Cirkel den Prospero vorher gemacht hat,
+ und bleiben da bezaubert stehen.  Indem sie kommen, fangt Prospero
+ an.)
+
+
+Prospero.
+Die Magische Gewalt der Harmonie, der besten Arzney f�r eine
+zerr�ttete Phantasie, heile dein izt unt�chtiges Gehirn--hier
+bleibt unbeweglich stehn!--Rechtschaffner Gonsalo, ehrw�rdiger Mann,
+meine Augen schmelzen, von den deinigen ersch�ttert, in
+sympathetische Tropfen.--Die Bezauberung l��t auf einmal sich auf;
+und wie der Morgen, die Nacht �berraschend, die Finsterni�
+hinwegschmelzen macht, so fangen ihre aufgehenden Sinnen an, die
+bet�ubenden Nebel zu verjagen, die ihre Vernunft umh�llen--O!  mein
+guter Gonsalo, mein wahrer Erhalter, und ein redlicher Diener
+dessen dem du folgest; ich will, wenn wir wieder zu Hause sind,
+deine Wohlthaten beydes mit Worten und Werken bezahlen.--Du, Alonso,
+du bist h�chst grausam mit mir und meiner Tochter umgegangen; dein
+Bruder war ein Bef�rderer der b�sen That, und wird izt daf�r an
+Leib und Gem�th gefoltert; Ihr, mein Bruder, der seiner
+Herrschsucht Natur und Gewissen aufopferte, der mit Sebastian
+seinen K�nig hier ermorden wollte; ich vergebe dir, so unnat�rlich
+du bist!--Ihre Denkungskraft f�ngt an zu schwellen, und die
+wiederkommende Fluth wird in kurzem das Gestade der Vernunft
+anf�llen, das izt faul und sumpficht ligt--Noch ist nicht einer
+unter ihnen, der mich ansehen darf, oder mich erkennt--Ariel, hole
+mir meinen Hut und meinen Degen in der Celle; ich will mich ihnen
+in derjenigen Gestalt darstellen,
+
+(Ariel geht ab, und kommt in einem Augenblik wieder zur�k.)
+
+worinn sie mich zu Meiland gekannt haben.  Munter, mein Geist; in
+kurzem sollst du deine Freyheit haben.
+
+Ariel (singt, indem er ihn ankleiden hilft.)
+Wo die Biene saugt, saug' ich;
+Im Schoo� der Primul lagr' ich mich;
+Dort schlaf ich, wenn die Eule schreyt;
+Ich flieg', in steter Munterkeit,
+Fern von des Winters Ungemach
+Dem angenehmen Sommer nach;
+Wie fr�lich wird k�nftig mein Aufenthalt seyn
+Unter den Bl�then im d�ftenden Hayn!
+
+Prospero.
+Gut, das ist mein artiger Ariel; ich werde dich vermissen, aber
+doch sollst du frey seyn.  So, so, so; izt, unsichtbar wie du in
+deiner eignen Gestalt bist, zu des K�nigs Schiff; dort wirst du die
+Schiffleute im Raum schlaffend beysammen finden.  Weke sie, und
+n�thige sie hieher; aber hurtig, ich bitte dich.
+
+Ariel.
+Ich trinke die Luft vor mir, und bin wieder da, eh euch der Puls
+zweymal schl�gt.
+
+(Er geht ab.)
+
+Gonsalo.
+Lauter Schreknisse, Verwirrung, Wunder und Erstaunen wohnen hier;
+m�ge uns irgend eine himmlische Macht wieder aus diesem
+f�rchterlichen Lande f�hren!
+
+Prospero.
+Siehe hier, o K�nig, den ungerechter Weise gekr�nkten Herzog von
+Meiland, Prospero: Dich desto besser zu versichern, da� ein
+lebender F�rst izt mit dir spricht, umarme ich dich, und heisse
+dich und deine Gesellschaft von Herzen willkommen.
+
+Alonso.
+Ob du Prospero bist, oder irgend ein bezaubertes Phantom, (wie ich
+k�rzlich selbst war,) das meine Augen t�uschet, wei� ich nicht;
+dein Puls schl�gt, wie eines w�rklichen Menschen, und seit ich dich
+sehe, nimmt die Bangigkeit des Gem�ths ab, worinn mich, wie ich
+f�rchte, eine Beraubung der Vernunft sezte; wenn diese Dinge anders
+w�rklich sind, so mu� die Geschichte davon h�chst seltsam seyn--Ich
+gebe dir dein Herzogthum zur�k, und bitte dich, mir zu verzeihen.
+Aber wie ist es m�glich, da� Prospero leben und hier seyn soll?
+
+Prospero (zu Gonsalo.)
+Zuerst, mein alter edler Freund, la� dich umarmen; du, dessen
+Redlichkeit so unsch�zbar als ohne Grenzen ist.
+
+Gonsalo.
+Ob das w�rklich ist, oder nicht, wollt' ich nicht beschw�ren.
+
+Prospero.
+Ihr seyd noch so sehr von einigen Seltsamkeiten dieser Insel
+betroffen, da� ihr nicht glauben k�nnet, was gewi� ist.  Willkommen,
+meine Freunde, alle willkommen!  Aber ihr, mein feines Paar Herren,
+wenn ich Lust h�tte, so sollte mir's nicht schwer fallen, euch den
+Unwillen seiner Majest�t zu zu ziehen, und zu beweisen, da� ihr
+Verr�ther seyd; allein ich will izt keine Geschichten erz�hlen.
+
+Sebastian.
+Der Teufel spricht aus ihm.
+
+Prospero.
+Nein--Was euch betrift, h�chst boshafter Herr, welchen (Bruder) zu
+nennen meinen Mund schon vergiften w�rde, ich vergebe dir deine
+ungeheursten Vergehungen alle zusammen; aber ich fordre mein
+Herzogthum von dir zur�k, welches du, wenn du gleich wolltest, mir
+l�nger vorzuenthalten, nicht verm�gend bist.
+
+Alonso.
+Wenn du Prospero bist, so berichte uns, wie du erhalten worden, und
+auf welche Weise wir hier mit dir zusammen kommen, nachdem wir vor
+drey Stunden an diesem Ufer einen Schiffbruch erlidten haben, der
+mich, (o schmerzliches Angedenken!) meinen Sohn, meinen theuren
+Sohn Ferdinand gekostet hat.
+
+Prospero.
+Ich bedaure es, Sire.
+
+Alonso.
+Der Verlust ist unersezlich, und die Geduld selbst gesteht, da� sie
+ihn nicht heilen kan.
+
+Prospero.
+Ich glaube vielmehr, ihr habt ihre H�lfe nicht gesucht; denn durch
+ihren milden und allesverm�genden Beystand, hab ich einen gleichen
+Verlust mit Gelassenheit ertragen gelernt.
+
+Alonso.
+Ihr einen gleichen Verlust?
+
+Prospero.
+Zum mindsten, der f�r mich eben so wichtig ist, und ihn ertr�glich
+zu machen, hab' ich weit schw�chere Mittel als ihr zu euerm Trost
+ruffen k�nnt; denn ich habe meine Tochter verlohren.
+
+Alonso.
+Eine Tochter?  O Himmel, m�chten sie beyde in Neapel leben, K�nig
+und K�nigin daselbst zu seyn.  Damit sie es seyn m�chten, wie gern
+w�nscht' ich selbst in dem nassen Bette versunken zu seyn, wo mein
+Sohn ligt.  Wenn verlohrt ihr eure Tochter?
+
+Prospero.
+In diesem lezten Sturm--Ich merke, da� diese Herren, �ber unsre
+unvermuthete Zusammenkunft so erstaunt sind, da� sie ihren Sinnen
+nicht trauen d�rfen, und mit M�he glauben, da� ihre Augen ihnen die
+Wahrheit zeigen, und ihre Worte nat�rlicher Athem seyen.  Allein,
+so mi�trauisch euch die k�rzlich erlidtene Beunruhigung eurer Sinne
+gemacht hat, so wisset doch f�r gewi�, da� ich Prospero bin; eben
+dieser Herzog, der von Meiland ausgetrieben wurde, und auf eine
+wunderbare Weise an diesem Eilande, wo ihr gestrandet seyd,
+anl�ndete, um der Herr davon zu seyn.  Nichts mehr hievon, denn es
+ist eine Chronik von Tag zu Tag, und nicht eine Erz�hlung bey einem
+Fr�hst�k, noch f�r diese erste Zusammenkunft geschikt.  Willkommen,
+Sire; diese Celle ist mein Hof; ich habe hier wenige Hausgenossen,
+und ausser demselben keine Unterthanen.  Ich bitte euch, schaut
+hinein; da ihr mir mein Herzogthum wieder gegeben habt, so will ich
+euch etwas eben so gutes dagegen geben, oder doch wenigstens ein
+Wunder vor eure Augen bringen, das euch so sehr erfreuen wird, als
+mich mein Herzogthum.
+
+
+
+Vierte Scene.
+(Die Th�re der Celle �ffnet sich, und entdekt Ferdinand und Miranda,
+ die mit einander Schach spielen.)
+
+
+Miranda.
+Mein liebster Herr, ihr spielt mir einen Streich.
+
+Ferdinand.
+Nein, meine Allerliebste, das wollt ich f�r die ganze Welt nicht
+thun.
+
+Miranda.
+Wenn es K�nigreiche g�lte, ihr w�rdet gewi� schicaniren, und ich
+w�rd' es euch nicht �bel nehmen.
+
+Alonso.
+Wenn das nur eine von den Erscheinungen dieser Insel ist, so werd'
+ich einen theuren Sohn zweymal verliehren.
+
+Sebastian.
+Ein erstaunliches Wunder!
+
+Ferdinand.
+Wenn die Wellen schon drohen, so sind sie doch mitleidig; ich habe
+ihnen ohne Ursache geflucht.
+
+(Ferdinand kniet vor seinem Vater.)
+
+Alonso.
+O!  alle Segnungen eines erfreuten Vaters ergiessen sich �ber dich!
+Steh auf, und sage wie du hieher gekommen bist?
+
+Miranda.
+O Wunder!  Wie viele feine Gesch�pfe sind hier beysammen!  Wie
+sch�n ist das menschliche Geschlecht!  O brave neue Welt, die
+solche Einwohner hat!
+
+Prospero.
+Das ist etwas neues f�r dich.
+
+Alonso.
+Wer ist di� M�dchen, mit dem du spieltest?  Eure l�ngste
+Bekanntschaft kan nicht drey Stunden seyn: Ist es die G�ttin die
+uns getrennet, und wieder zusammengebracht hat?
+
+Ferdinand.
+Sire, sie ist eine Sterbliche, aber durch unsterbliche Vorsicht,
+ist sie mein.  Ich w�hlte sie, da ich meinen Vater nicht zu Rathe
+ziehen konnte, da ich nicht einmal denken durfte, einen Vater zu
+haben.  Sie ist die Tochter dieses ber�hmten Herzogs von Meiland,
+von dem ich so vieles erz�hlen h�rte, eh ich ihn sah; von dem ich
+ein zweytes Leben empfangen habe, und den diese junge Dame zu
+meinem zweyten Vater macht.
+
+Alonso.
+Ich bin der ihrige; aber, oh wie wunderlich wird es klingen, da�
+ich mein Kind um Verzeihung bitten mu�!
+
+Prospero.
+Haltet ein, Sire; la�t uns unser Ged�chtni� nicht mit unangenehmen
+Dingen beschweren, die vor�ber sind.
+
+Gonsalo.
+Das �bermaa� der z�rtlichsten Freude lie� mich nicht zu Worten
+kommen.  Schauet herab, ihr G�tter, und lasset eine segensvolle
+Krone auf dieses Paar herunter steigen; denn ihr seyd es, die den
+Weg vorgezeichnet, der uns hieher gebracht hat.
+
+Alonso.
+Ich sage: Amen, Gonsalo!
+
+Gonsalo.
+Mu�te Prospero von Meiland vertrieben werden, damit seine
+Nachkommen K�nige von Neapel werden m�chten!  O freuet euch �ber
+alle gew�hnliche Freuden, und grabt es in Gold auf ewig daurende
+Pfeiler!  In Einer Reise fand Claribella einen Gemahl zu Tunis, und
+Ferdinand, ihr Bruder, eine Braut, da wo er selbst verlohren war;
+Prospero sein Herzogthum in einer armen Insel, und wir alle uns
+selbst, zu einer Zeit, da niemand sein eigen war.
+
+Alonso (zu Miranda und Ferdinand.)
+Gebt mir eure H�nde.
+
+(Er legt ihre H�nde in einander.)
+
+Gram und Kummer umschling' auf ewig dessen Herz, der euch nicht
+Freude w�nschet!
+
+Gonsalo.
+So sey es, Amen!
+
+
+
+F�nfte Scene.
+(Ariel mit dem Schiffspatron und dem Hochbootsmann, die ihm ganz
+ erstaunt und erschroken folgen, zu den Vorigen.)
+
+
+Gonsalo.
+O sehet, Sire, sehet, hier sind noch mehr von unsrer Gesellschaft.
+Prophezeyte ich nicht, wenn noch ein Galgen auf dem Lande w�re, so
+k�nnte dieser Bursche nicht ersauffen?  Nun, wie?  du, der die
+Gnade selbst �ber Bord zu fluchen pflegte, hast du keinen Schwur
+auf dem festen Lande �brig?  Hast du kein Maul zu Lande?  Was giebt
+es neues?
+
+Hochbootsmann.
+Das beste Neue ist, da� wir unsern K�nig und unsre Gesellschaft
+gesund wieder antreffen; das n�chste an diesem, da� unser Schiff,
+welches wir erst vor drey Stunden dem Sturm prei� gaben, so ganz,
+so neu und so wohl getakelt ist, als da wir es zuerst in die See
+stiessen.
+
+Ariel.
+Mein Gebieter, alles das hab ich gethan, seit ich euch verlie�.
+
+Prospero.
+Mein artiger Taschenspieler!
+
+Alonso.
+Das sind keine nat�rliche Begebenheiten; immer eine wunderbarer als
+die andre!  Sage, wie kamst du hieher?
+
+Bootsmann.
+Gn�digster Herr, wenn ich d�chte, da� ich gewi� wach w�re, so wollt
+ich versuchen, ob ichs euch erz�hlen k�nnte.  Wir waren alle in
+dichtem Schlaf, und, ich wei� selbst nicht wie, alle in den Raum
+des Schiffs zusammengepakt, wo wir nur eben von einem seltsamen und
+manchfaltigen Get�se von Br�llen, Schreyen, Heulen, Rasseln mit
+Ketten, und andern entsezlichen T�nen aufgewekt wurden; auf einmal
+h�rte alles auf, wir sahen unser sch�nes, k�nigliches Schiff mit
+seinem ganzen Zugeh�r, in bestem Zustand; und indem unser Patron
+von einer Seite zur andern sprang, um es in Augenschein zu nehmen,
+so wurden wir, mit eurer Erlaubni�, in einem huy, wie in einem
+Traum, von unsern Cameraden geschieden, und schlaftrunken hieher
+gebracht.
+
+Ariel (zu Prospero.)
+War es wohl gethan?
+
+Prospero.
+Recht wohl, mein flei�iger Ariel, du sollst frey sein.
+
+Alonso.
+Das ist ein so seltsamer Irrgarten, als je ein Mensch betreten hat,
+und es ist mehr als die Natur zuthun vermag, in diesem Gesch�fte;
+ohne ein Orakel ist es unm�glich, etwas davon zu begreiffen.
+
+Prospero.
+Mein gebietender Herr, beunruhigt euch nicht, das Wunderbare in
+diesen Dingen zu ergr�nden; in kurzem will ich euch bey be�rer
+Musse alles St�k vor St�k aufl�sen, was euch izt unbegreiflich ist:
+bis dahin seyd frohen Muthes, und denkt von allem das beste.
+
+(Zu Ariel leise.)
+
+Hieher, Geist; seze Caliban und seine Gesellschaft in Freyheit;
+l�se die Bezauberung auf--Wie befindet ihr euch, mein Gn�digster
+Herr?  Es mangeln noch ein Paar alte n�rrische Kerls von euerm
+Gefolge, die ihr vergessen habt.
+
+
+
+Sechste Scene.
+(Ariel treibt Caliban, Stephano und Trinculo in ihren gestohlnen
+ Kleidern vor sich her.)
+
+
+Stephano.
+Jedermann sorge nur f�r andre Leute, und niemand bek�mmre sich um
+sich selbst; denn es ist alles nur Zufall und blindes Gl�k;
+Courasche, du dikwanstiges Ungeheuer, Courasche!
+
+Trinculo.
+Wenn die Spionen, die ich in meinen Augen habe, die Wahrheit sagen,
+so ist das ein h�bscher Anblik.
+
+Caliban.
+O Setebos, das sind brave Geister, in der That!  Wie fein mein
+Meister ist!  Aber ich f�rchte, er wird mich z�chtigen.
+
+Sebastian.
+Ha, ha; was f�r Dinge sind das, Antonio?  Kan man die um Geld haben?
+
+Antonio.
+Ich denk' es; einer davon ist ein Fisch wie sich's geh�rt, und
+vermuthlich feil.
+
+Prospero.
+Beobachtet nur die Physionomie dieser Bursche, meine Herren, und
+sagt dann, ob sie nicht die Wahrheit redt?  Dieses mi�geschaffnen
+Schurken seine Mutter war eine Hexe, und eine so m�chtige, da� sie
+den Mond beherrschen, Ebbe und Fluth erregen, und ihre Befehle �ber
+die Grenzen ihrer Macht ausdehnen konnte.  Diese drey haben mich
+beraubt; und dieser Halb-Teufel, (denn er ist ein Bastard von einem
+Teufel,) machte mit ihnen einen Anschlag wider mein Leben; zween
+von diesen Gesellen werdet ihr f�r die eurige erkennen; was dieses
+Gesch�pf der Finsterni� betrift, so mu� ich bekennen, da� es mir
+zugeh�rt.
+
+Caliban.
+Ich werde zu Tode gezwikt werden.
+
+Alonso.
+Ist das nicht Stephano, mein besoffner Kellermeister?
+
+Sebastian.
+Er ist w�rklich besoffen; woher kriegte er Wein?
+
+Alonso.
+Und Trinculo ist so voll da� er wakelt; wo k�nnen sie dieses grosse
+Elixir gefunden haben, das sie �berg�ldet* hat?  Wie kamst du in
+diesen P�kel?
+
+{ed.-* Eine Anspielung auf das (Elixirium magnum), oder trinkbare Gold
+der Alchymisten.  Warb�rton.}
+
+Trinculo.
+Sire, ich bin immer in diesem P�kel gelegen, seitdem ich euch das
+leztemal sah, ich sorge, ich werd ihn nimmer wieder aus dem Leibe
+kriegen; ich darf nicht f�rchten, da� mich die Fliegen beschmeissen.
+
+Sebastian.
+Wie geht's, Stephano?
+
+Stephano.
+R�hrt mich nicht an, ich bin nicht mehr Stephano, ich bin lauter
+Wunde.**
+
+{ed.-** Bey Durchlesung dieses St�ks muthma�te ich immer, da�
+Shakespear es von einem Itali�nischen Scribenten entlehnt haben
+m�chte, da die Einheiten alle so regelm�ssig darinn beobachtet sind,
+welches ausser den Itali�nern, damals keine andre dramatische Poeten
+thaten, und welches unser Autor nirgends als in diesem St�k gethan
+hat, nichts zu gedenken, da� die Personen dieses St�ks alle Itali�ner
+sind.  Ich wurde in dieser Vermuthung noch mehr best�rkt, wie ich auf
+diese Stelle kam.
+
+Ein Spa� soll darinn ligen, das ist klar; aber wo er ligt, ist
+schwer zu sagen.  Ich vermuthe, es war ein Wortspiel im Original,
+das sich nicht �bersezen lie�; vielleicht hie� es, ich bin nicht
+(Stephano, sondern Staffilato,) indem dieses Wort im Itali�nischen
+einen bedeutet, der wol zerkrazt und zerstochen ist, welches
+w�rklich der Fall war, worinn sich diese Bursche im 4ten Aufzug
+befanden.--In (Riccoboni's) Verzeichni� Itali�nischer Schauspiele,
+befinden sich auch: (Il Negromante di L.  Ariosto, prosa e verso),
+und (Il Negromante Palliato di Gio-Angelo Petrucci, prosa.) Ob aber
+der Sturm aus einem von diesen beyden entlehnt seyn mag, kan ich
+nicht sagen, da ich sie nicht gesehen habe.  Warb�rton.  Der
+�bersetzer w�rde erfreut seyn, wenn er seinen Lesern �ber diesen
+Punct aus dem Wunder helfen k�nnte; da er aber hiezu keine
+Gelegenheit gehabt, so ist alles was er sagen kan, da� wenn auch
+Shakespear die Idee und die Anlage dieses St�ks aus einem
+Itali�nischen genommen h�tte, es schwerlich auf eine andre Art
+geschehen sey, als wie man vom Milton sagen kan, da� er das
+verlohrne Paradies aus einer Itali�nischen Com�die von Erschaffung
+der Welt entlehnt habe.}
+
+Prospero.
+Und doch wolltest du K�nig �ber diese Insel seyn, Schurke.
+
+Stephano.
+So w�rde ich ein siecher K�nig gewesen seyn.
+
+Alonso (auf Caliban deutend.)
+Das ist ein so seltsames Ding als ich je eines gesehen habe.
+
+Prospero.
+Er ist so ungestalt in seinen Sitten als in seiner Bildung.  Geh,
+Schurke, in meine Celle, nimm deine Cameraden mit dir, und r�ume
+alles h�bsch auf, so lieb dir deine Begnadigung ist.
+
+Caliban.
+Ja, das will ich; und ich will k�nftig gescheidter seyn, und mich
+um eure Gnade bem�hen.  Was f�r ein dreyfach gedoppelter Esel war
+ich, diesen besoffnen Kerl f�r einen Gott zu halten, und diesem
+dummk�pfigten Narren Ehre zu erweisen?
+
+Prospero.
+Geh deines Weges.
+
+Alonso.
+Fort, und thut euern Tr�del wieder hin, wo ihr ihn gefunden habt.
+
+Prospero.
+Sire, ich lade Euer Majest�t und euer Gefolg in meine arme Celle
+ein, um darinn diese einzige Nacht zuzubringen, wovon ich euch
+einen Theil mit Gespr�chen vertreiben will, deren Inhalt euch, wie
+ich hoffe, keine lange Weile lassen wird; mit der Geschichte meines
+Lebens, und den besondern Umst�nden, die sich, seitdem ich in diese
+Insel kam, zugetragen haben.  Morgen will ich euch alsdann auf euer
+Schiff bringen, und so nach Neapel, wo ich Hoffnung habe, die
+Verm�hlung dieser unsrer geliebten Kinder feyrlich begangen zu
+sehen, und dann nach Meiland zur�k zu kehren, wo jeder dritter
+Gedanke mein Grab seyn soll.
+
+Alonso.
+Mich verlangt mit Ungeduld die Geschichte euers Lebens zu h�ren,
+welche nicht anders als voll ausserordentlicher Sachen seyn kan.
+
+Prospero.
+Ich will euch alles entdeken, und verspreche euch eine ruhige See,
+gl�kliche Winde, und so schnelle Seegel, da� wir eure Flotte bald
+eingeholt haben wollen--mein Ariel, das ist deine lezte Arbeit;
+dann kehr' auf immer frey in dein Element zur�k, und lebe wohl--
+Folget mir, wenn es euch gef�llt.
+
+(Alle gehen ab.)
+
+
+Der Sturm, von William Shakespeare,
+(�bersetzt von Christoph Martin Wieland).
+
+
+
+
+
+End of the Project Gutenberg EBook of Der Sturm, by William Shakespeare
+
+*** END OF THE PROJECT GUTENBERG EBOOK DER STURM ***
+
+This file should be named 7236-8.txt or 7236-8.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 8gs4111.txt
+VERSIONS based on separate sources get new LETTER, 8gs4110a.txt
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

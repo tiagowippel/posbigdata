@@ -1,0 +1,954 @@
+The Project Gutenberg EBook of Le Blanc et le Noir, by Voltaire
+(#10 in our series by Voltaire)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Le Blanc et le Noir
+
+Author: Voltaire
+
+Release Date: December, 2003  [EBook #4771]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on March 16, 2002]
+
+Edition: 10
+
+Language: French
+
+Character set encoding: Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK, LE BLANC ET LE NOIR ***
+
+
+
+
+This eBook was produced by Carlo Traverso.
+
+
+
+We thank the Bibliotheque Nationale de France that has made available
+the image files at www://gallica.bnf.fr, authorizing the preparation
+of the etext through OCR.
+
+Nous remercions la Biblioth�que Nationale de France qui a mis �
+dispositions les images dans www://gallica.bnf.fr, et a donn�
+l'authorization � les utilizer pour preparer ce texte.
+
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE.
+
+			   TOME XXXIII
+
+	      DE L' IMPRIMERIE DE A.  FIRMIN DIDOT,
+
+			RUE JACOB, N� 24.
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE
+
+	      PR�FACES, AVERTISSEMENTS, NOTES, ETC.
+
+			PAR  M. BEUCHOT.
+
+			  TOME XXXIII.
+
+			ROMANS.  TOME I.
+
+			    A PARIS,
+
+		     CHEZ LEF�VRE, LIBRAIRE,
+
+	 RUE DE L'�PERON, K� 6.  WERDET ET LEQUIEN FILS,
+
+		     RUE DU BATTOIR, N� 2O.
+
+			   MDCCCXXIX.
+
+
+
+		      LE BLANC ET LE NOIR.
+
+
+
+Pr�face de l'�diteur
+
+
+
+
+Les deux contes, _Le Blanc et le Noir_, _Jeannot et Colin_, font
+partie du volume qui parut, en 1764, sous le titre de Contes de
+Guillaume Fade.
+
+				------
+
+Les notes sans signature, et qui sont indiqu�es par des lettres,
+sont de Voltaire.
+
+Les notes sign�es d'un K sont des �diteurs de Kehl, MM. Condorcet
+et Decroix.  Il est impossible de faire rigoureusement la part de
+chacun.
+
+Les additions que j'ai faites aux notes de Voltaire ou aux notes
+des �diteurs de Kehl, en sont s�par�es par un--, et sont, comme
+mes notes, sign�es de l'initiale de mon nom.
+
+                                                 BEUCHOT.
+
+4 octobre 1829.
+
+
+
+
+
+LE BLANC ET LE NOIR.
+
+1764.
+
+
+
+
+Tout le monde dans la province de Candahar conna�t l'aventure du
+jeune Rustan.  Il �tait fils unique d'un mirza du pays; c'est
+comme qui dirait marquis parmi nous, ou baron chez les Allemands.
+Le mirza, son p�re, avait un bien honn�te.  On devait marier le
+jeune Rustan � une demoiselle, ou mirzasse de sa sorte.  Les deux
+familles le d�siraient passionn�ment.  Il devait faire la
+consolation de ses parents, rendre sa femme heureuse, et l'�tre
+avec elle.
+
+Mais par malheur il avait vu la princesse de Cachemire � la foire
+de Cabul, qui est la foire la plus consid�rable du monde, et
+incomparablement plus fr�quent�e que celle de Bassora et
+d'Astracan; et voici pourquoi le vieux prince de Cachemire �tait
+venu � la foire avec sa fille.
+
+Il avait perdu les deux plus rares pi�ces de son tr�sor: l'une
+�tait un diamant gros comme le pouce, sur lequel sa fille �tait
+grav�e par un art que les Indiens poss�daient alors, et qui s'est
+perdu depuis; l'autre �tait un javelot qui allait de lui-m�me o�
+l'on voulait; ce qui n'est pas une chose bien extraordinaire
+parmi nous, mais qui l'�tait � Cachemire.
+
+Un faquir de son altesse lui vola ces deux bijoux; il les porta �
+la princesse.  Gardez soigneusement ces deux pi�ces, lui dit-il;
+votre destin�e en d�pend.  Il partit alors, et on ne le revit
+plus.  Le duc de Cachemire au d�sespoir r�solut d'aller voir, �
+la foire de Cabul, si de tous les marchands qui s'y rendent des
+quatre coins du monde il n'y en aurait pas un qui e�t son diamant
+et son arme.  Il menait sa fille avec lui dans tous ses voyages.
+Elle porta son diamant bien enferm� dans sa ceinture; mais pour
+le javelot qu'elle ne pouvait si bien cacher, elle l'avait
+enferm� soigneusement � Cachemire dans son grand coffre de la
+Chine.
+
+Rustan et elle se virent � Cabul; ils s'aim�rent avec toute la
+bonne foi de leur �ge, et toute la tendresse de leur pays.  La
+princesse, pour gage de son amour, lui donna son diamant, et
+Rustan lui promit � son d�part de l'aller voir secr�tement �
+Cachemire.
+
+Le jeune mirza avait deux favoris qui lui servaient de
+secr�taires, d'�cuyers, de ma�tres-d'h�tel, et de valets de
+chambre.  L'un s'appelait Topaze; il �tait beau, bien fait, blanc
+comme une Circassienne, doux et serviable comme un Arm�nien, sage
+comme un Gu�bre, l'autre se nommait �b�ne; c'�tait un n�gre fort
+joli, plus empress�, plus industrieux que Topaze, et qui ne
+trouvait rien de difficile.  Il leur communiqua le projet de son
+voyage.  Topaze t�cha de l'en d�tourner avec le z�le circonspect
+d'un serviteur qui ne voulait pas lui d�plaire; il lui repr�senta
+tout ce qu'il hasardait.  Comment laisser deux familles au
+d�sespoir?  comment mettre le couteau dans le coeur de ses
+parents? Il �branla Rustan; mais �b�ne le raffermit et leva tous
+ses scrupules.
+
+Le jeune homme manquait d'argent pour un si long voyage.  Le sage
+Topaze ne lui en aurait pas fait pr�ter; �b�ne y pourvut.  Il
+prit adroitement le diamant de son ma�tre, en fit faire un faux
+tout semblable qu'il remit � sa place, et donna le v�ritable en
+gage � un Arm�nien pour quelques milliers de roupies.
+
+Quand le marquis eut ses roupies, tout fut pr�t pour le d�part.
+On chargea un �l�phant de son bagage; on monta � cheval.  Topaze
+dit � son ma�tre: J'ai pris la libert� de vous faire des
+remontrances sur votre entreprise; mais, apr�s avoir remontr�, il
+faut ob�ir; je suis � vous, je vous aime, je vous suivrai
+jusqu'au bout du monde; mais consultons en chemin l'oracle qui
+est � deux parasanges d'ici.  Rustan y consentit.  L'oracle
+r�pondit: �Si tu vas � l'orient, tu seras � l'occident.� Rustan
+ne comprit rien � cette r�ponse.  Topaze soutint qu'elle ne
+contenait rien de bon.  Eb�ne, toujours complaisant, lui persuada
+qu'elle �tait tr�s favorable.
+
+Il y avait encore un autre oracle dans Cabul; ils y all�rent.
+L'oracle de Cabul r�pondit en ces mots: �Si tu poss�des, tu ne
+poss�deras pas; si tu es vainqueur, tu ne vaincras pas; si tu es
+Rustan, tu ne le seras pas.� Cet oracle parut encore plus
+inintelligible que l'autre.  Prenez garde � vous, disait Topaze.
+Ne redoutez rien, disait �b�ne; et ce ministre, comme on peut le
+croire, avait toujours raison aupr�s de son ma�tre, dont il
+encourageait la passion et l'esp�rance.
+
+Au sortir de Cabul, on marcha par une grande for�t, on s'assit
+sur l'herbe pour manger, on laissa les chevaux pa�tre.  On se
+pr�parait � d�charger l'�l�phant qui portait le d�ner et le
+service, lorsqu'on s'aper�ut que Topaze et �b�ne n'�taient plus
+avec la petite caravane.  On les appelle; la for�t retentit des
+noms d'�b�ne et de Topaze.  Les valets les cherchent de tous
+c�t�s, et remplissent la for�t de leurs cris; ils reviennent sans
+avoir rien vu, sans qu'on leur ait r�pondu.  Nous n'avons trouv�,
+dirent-ils � Rustan, qu'un vautour qui se battait avec un aigle,
+et qui lui �tait toutes ses plumes.  Le r�cit de ce combat piqua
+la curiosit� de Rustan; il alla � pied sur le lieu, il n'aper�ut
+ni vautour ni aigle; mais il vit son �l�phant, encore tout charg�
+de son bagage, qui �tait assailli par un gros rhinoc�ros.  L'un
+frappait de sa corne, l'autre de sa trompe.  Le rhinoc�ros l�cha
+prise � la vue de Rustan; on ramena son �l�phant, mais on ne
+trouva plus les chevaux.  Il arrive d'�tranges choses dans les
+for�ts quand on voyage!  s'�criait Rustan.  Les valets �taient
+constern�s, et le ma�tre au d�sespoir d'avoir perdu �-la-fois ses
+chevaux, son cher n�gre, et le sage Topaze pour lequel il avait
+toujours de l'amiti�, quoiqu'il ne f�t jamais de son avis.
+
+L'esp�rance d'�tre bient�t aux pieds de la belle princesse de
+Cachemire le consolait, quand il rencontra un grand �ne ray�, �
+qui un rustre vigoureux et terrible donnait cent coups de b�ton.
+Rien n'est si beau, ni si rare, ni si l�ger � la course que les
+�nes de cette esp�ce.  Celui-ci r�pondait aux coups redoubl�s du
+vilain par des ruades qui auraient pu d�raciner un ch�ne.  Le
+jeune mirza prit, comme de raison, le parti de l'�ne, qui �tait
+une cr�ature charmante.  Le rustre s'enfuit en disant � l'�ne, Tu
+me le paieras.  L'�ne remercia son lib�rateur en son langage,
+s'approcha, se laissa caresser, et caressa.  Rustan monte dessus
+apr�s avoir d�n�, et prend le chemin de Cachemire avec ses
+domestiques, qui suivent les uns � pied, les autres mont�s sur
+l'�l�phant.
+
+A peine �tait-il sur son �ne que cet animal tourne vers Cabul, au
+lieu de suivre la route de Cachemire.  Son ma�tre a beau tourner
+la bride, donner des saccades, serrer les genoux, appuyer des
+�perons, rendre la bride, tirer � lui, fouetter � droite et �
+gauche, l'animal opini�tre courait toujours vers Cabul.
+
+Rustan suait, se d�menait, se d�sesp�rait, quand il rencontre un
+marchand de chameaux qui lui dit: Ma�tre, vous avez l� un �ne
+bien malin qui vous m�ne o� vous ne voulez pas aller; si vous
+voulez me le c�der, je vous donnerai quatre de mes chameaux �
+choisir.  Rustan remercia la Providence de lui avoir procur� un
+si bon march�.  Topaze avait grand tort, dit-il, de me dire que
+mon voyage serait malheureux.  Il monte sur le plus beau chameau,
+les trois autres suivent; il rejoint sa caravane, et se voit dans
+le chemin de son bonheur.
+
+A peine a-t-il march� quatre parasanges qu'il est arr�t� par un
+torrent profond, large, et imp�tueux, qui roulait des rochers
+blanchis d'�cume.  Les deux rivages �taient des pr�cipices
+affreux qui �blouissaient la vue et gla�aient le courage; nul
+moyen de passer, nul d'aller � droite ou � gauche.  Je commence �
+craindre, dit Rustan, que Topaze n'ait eu raison de bl�mer mon
+voyage, et moi grand tort de l'entreprendre; encore, s'il �tait
+ici, il me pourrait donner quelques bons avis.  Si j'avais �b�ne,
+il me consolerait, et il trouverait des exp�dients; mais tout me
+manque.  Son embarras �tait augment� par la consternation de sa
+troupe: la nuit �tait noire, on la passa � se lamenter.  Enfin la
+fatigue et l'abattement endormirent l'amoureux voyageur.  Il se
+r�veille au point du jour, et voit un beau pont de marbre �lev�
+sur le torrent d'une rive � l'autre.
+
+Ce furent des exclamations, des cris d'�tonnement et de joie.
+Est-il possible? est-ce un songe? quel prodige!  quel
+enchantement !  oserons-nous passer? Toute la troupe se mettait �
+genoux, se relevait, allait au pont, baisait la terre, regardait
+le ciel, �tendait les mains, posait le pied en tremblant, allait,
+revenait, �tait en extase; et Rustan disait: Pour le coup le ciel
+me favorise: Topaze ne savait ce qu'il disait; les oracles
+�taient en ma faveur; Eb�ne avait raison; mais pourquoi n'est-il
+pas ici?
+
+A peine la troupe fut-elle au-del� du torrent que voil� le pont
+qui s'ab�me dans l'eau avec un fracas �pouvantable.  Tant mieux!
+tant mieux!  s'�cria Rustan; Dieu soit lou�!  le ciel soit b�ni!
+il ne veut pas que je retourne dans mon pays, o� je n'aurais �t�
+qu'un simple gentilhomme; il veut que j'�pouse ce que j'aime.  Je
+serai prince de Cachemire; c'est ainsi qu'en _poss�dant_ ma
+ma�tresse, je ne _poss�derai_ pas mon petit marquisat � Candahar.
+_Je serai Rustan, et je ne le serai pas_, puisque je deviendrai
+un grand prince: voil� une grande partie de l'oracle expliqu�e
+nettement en ma faveur, le reste s'expliquera de m�me: je suis
+trop heureux; mais pourquoi �b�ne n'est-il pas aupr�s de moi? je
+le regrette mille fois plus que Topaze.
+
+Il avan�a encore quelques parasanges avec la plus grande
+all�gresse; mais, sur la fin du jour, une enceinte de montagnes
+plus roides qu'une contrescarpe, et plus hautes que n'aurait �t�
+la tour de Babel, si elle avait �t� achev�e, barra enti�rement la
+caravane saisie de crainte.
+
+Tout le monde s'�cria: Dieu veut que nous p�rissions ici!  il n'a
+bris� le pont que pour nous �ter tout espoir de retour; il n'a
+�lev� la montagne que pour nous priver de tout moyen d'avancer.
+O Rustan!  � malheureux marquis!  nous ne verrons jamais
+Cachemire, nous ne rentrerons jamais dans la terre de Candahar.
+
+La plus cuisante douleur, l'abattement le plus accablant,
+succ�daient dans l'ame de Rustan � la joie immod�r�e qu'il avait
+ressentie, aux esp�rances dont il s'�tait enivr�.  Il �tait bien
+loin d'interpr�ter les proph�ties � son avantage.  O ciel!  �
+Dieu paternel!  faut-il que j'aie perdu mon ami Topaze!
+
+Comme il pronon�ait ces paroles en poussant de profonds soupirs,
+et en versant des larmes au milieu de ses suivants d�sesp�r�s,
+voil� la base de la montagne qui s'ouvre, une longue galerie en
+vo�te, �clair�e de cent mille flambeaux, se pr�sente aux yeux
+�blouis; et Rustan de s'�crier, et ses gens de se jeter � genoux,
+et de tomber d'�tonnement � la renverse, et de crier miracle!  et
+de dire: Rustan est le favori de Vitsnou, le bien-aim� de Brama;
+il sera le ma�tre du monde.  Rustan le croyait, il �tait hors de
+lui, �lev� au-dessus'de lui-m�me.  Ah!  �b�ne, mon cher �b�ne!
+o� �tes-vous ? que n'�tes-vous t�moin de toutes ces merveilles!
+comment vous ai-je perdu ?  Belle princesse de Cachemire, quand
+reverrai-je vos charmes ?
+
+Il avance avec ses domestiques, son �l�phant, ses chameaux, sous
+la vo�te de la montagne, au bout de laquelle il entre dans une
+prairie �maill�e de fleurs et bord�e de ruisseaux: au bout de la
+prairie ce sont des all�es d'arbres � perte de vue; et au bout de
+ces all�es, une rivi�re, le long de laquelle sont mille maisons
+de plaisance, avec des jardins d�licieux.  Il entend partout des
+concerts de voix et d'instruments; il voit des danses; il se h�te
+de passer un des ponts de la rivi�re; il demande au premier homme
+qu'il rencontre quel est ce beau pays.
+
+Celui auquel il s'adressait lui r�pondit: Vous �tes dans la
+province de Cachemire; vous voyez les habitants dans la joie et
+dans les plaisirs; nous c�l�brons les noces de notre belle
+princesse, qui va se marier avec le seigneur Barbabou, � qui son
+p�re l'a promise; que Dieu perp�tue leur f�licit�!  A ces paroles
+Rustan tomba �vanoui, et le seigneur cachemirien crut qu'il �tait
+sujet � l'�pilepsie; il le fit porter dans sa maison, o� il fut
+long-temps sans connaissance.  On alla chercher les deux plus
+habiles m�decins du canton; ils t�t�rent le pouls du malade qui,
+ayant repris un peu ses esprits, poussait des sanglots, roulait
+les yeux, et s'�criait de temps en temps: Topaze, Topaze, vous
+aviez bien raison!
+
+L'un des deux m�decins dit au seigneur cachemirien: Je vois � son
+accent que c'est un jeune homme de Candahar, � qui l'air de ce
+pays ne vaut rien; il faut le renvoyer chez lui; je vois � ses
+yeux qu'il est devenu fou; confiez-le-moi, je le rem�nerai dans
+sa patrie, et je le gu�rirai.  L'autre m�decin assura qu'il
+n'�tait malade que de chagrin, qu'il fallait le mener aux noces
+de la princesse, et le faire danser.  Pendant qu'ils
+consultaient, le malade reprit ses forces; les deux m�decins
+furent cong�di�s, et Rustan demeura t�te � t�te avec son h�te.
+
+Seigneur, lui dit-il, je vous demande pardon de m'�tre �vanoui
+devant vous, je sais que cela n'est pas poli; je vous supplie de
+vouloir bien accepter mon �l�phant, en reconnaissance des bont�s
+dont vous m'avez honor�.  Il lui conta ensuite toutes ses
+aventures, en se gardant bien de lui parler de l'objet de son
+voyage.  Mais, au nom de Vitsnou et de Brama, lui dit-il,
+apprenez-moi quel est cet heureux Barbabou qui �pouse la
+princesse de Cachemire; pourquoi son p�re l'a choisi pour gendre,
+et pourquoi la princesse l'a accept� pour son �poux.
+
+Seigneur, lui dit le Cachemirien, la princesse n'a point du tout
+accept� Barbabou; au contraire elle est dans les pleurs, tandis
+que toute la province c�l�bre avec joie son mariage; elle s'est
+enferm�e dans la tour de son palais; elle ne veut voir aucune des
+r�jouissances qu'on fait pour elle.  Rustan, en entendant ces
+paroles, se sentit rena�tre; l'�clat de ses couleurs, que la
+douleur avait fl�tries, reparut sur son visage.  Dites-moi, je
+vous prie, continua-t-il, pourquoi le prince de Cachemire
+s'obstine � donner sa fille � un Barbabou dont elle ne veut pas.
+
+Voici le fait, r�pondit le Cachemirien.  Savez-vous que notre
+auguste prince avait perdu un gros diamant et un javelot qui lui
+tenaient fort au coeur?  Ah!  je le sais tr�s bien, dit Rustan.
+Apprenez donc, dit l'h�te, que notre prince, au d�sespoir de
+n'avoir point de nouvelles de ses deux bijoux, apr�s les avoir
+fait longtemps chercher par toute la terre, a promis sa fille �
+quiconque lui rapporterait l'un ou l'autre.  Il est venu un
+seigneur Barbabou qui �tait muni du diamant, et il �pouse demain
+la princesse.
+
+Rustan p�lit, b�gaya un compliment, prit cong� de son h�te, et
+courut sur son dromadaire � la ville capitale o� se devait faire
+la c�r�monie.  Il arrive au palais du prince, il dit qu'il a des
+choses importantes � lui communiquer; il demande une audience; on
+lui r�pond que le prince est occup� des pr�paratifs de la noce:
+c'est pour cela m�me, dit-il, que je veux lui parler.  Il presse
+tant qu'il est introduit.  Monseigneur, dit-il, que Dieu couronne
+tous vos jours de gloire et de magnificence!  votre gendre est un
+fripon.  Comment un fripon!  qu'osez-vous dire? est-ce ainsi
+qu'on parle � un duc de Cachemire du gendre qu'il a choisi? Oui,
+un fripon, reprit Rustan; et pour le prouver � votre altesse,
+c'est que voici votre diamant que je vous rapporte.
+
+Le duc tout �tonn� confronta les deux diamants; et comme il ne
+s'y connaissait gu�re, il ne put dire quel �tait le v�ritable.
+Voil� deux diamants, dit-il, et je n'ai qu'une fille; me voil�
+dans un �trange embarras!  Il fit venir Barbabou, et lui demanda
+s'il ne l'avait point tromp�.  Barbabou jura qu'il avait achet�
+son diamant d'un Arm�nien; l'autre ne disait pas de qui il tenait
+le sien, mais il proposa un exp�dient: ce fut qu'il pl�t � son
+altesse de le faire combattre sur-le-champ contre son rival.  Ce
+n'est pas assez que votre gendre donne un diamant, disait-il, il
+faut aussi qu'il donne des preuves de valeur: ne trouvez-vous pas
+bon que celui qui tuera l'autre �pouse la princesse?  Tr�s bon,
+r�pondit le prince, ce sera un fort beau spectacle pour la cour;
+battez-vous vite tous deux; le vainqueur prendra les armes du
+vaincu, selon l'usage de Cachemire, et il �pousera ma fille.
+
+Les deux pr�tendants descendent aussit�t dans la cour.  Il y
+avait sur l'escalier une pie et un corbeau.  Le corbeau criait,
+Battez-vous, battez-vous; la pie, Ne vous battez pas.  Cela fit
+rire le prince; les deux rivaux y prirent garde � peine: ils
+commencent le combat; tous les courtisans fesaient un cercle
+autour d'eux.  La princesse, se tenant toujours renferm�e dans sa
+tour, ne voulut point assister � ce spectacle; elle �tait bien
+loin de se douter que son amant f�t � Cachemire, et elle avait
+tant d'horreur pour Barbabou, qu'elle ne voulait rien voir.  Le
+combat se passa le mieux du monde; Barbabou fut tu� roide, et le
+peuple en fut charm� parcequ'il �tait laid, et que Rustan �tait
+fort joli: c'est presque toujours ce qui d�cide de la faveur
+publique.
+
+Le vainqueur rev�tit la cotte de maille, l'�charpe, et le casque
+du vaincu, et vint, suivi de toute la cour, au son des fanfares,
+se pr�senter sous les fen�tres de sa ma�tresse, Tout le monde
+criait: Belle princesse, venez voir votre beau mari qui a tu� son
+vilain rival; ses femmes r�p�taient ces paroles.  La princesse
+mit par malheur la t�te � la fen�tre, et voyant l'armure d'un
+homme qu'elle abhorrait, elle courut en d�sesp�r�e � son coffre
+de la Chine, et tira le javelot fatal qui alla percer son cher
+Rustan au d�faut de la cuirasse; il jeta un grand cri, et � ce
+cri la princesse crut reconna�tre la voix de son malheureux
+amant.
+
+Elle descend �chevel�e, la mort dans les yeux et dans le coeur.
+Rustan �tait d�j� tomb� tout sanglant dans les bras de son p�re.
+Elle le voit: � moment!  � vue!  � reconnaissance dont on ne peut
+exprimer ni la douleur, ni la tendresse, ni l'horreur!  Elle se
+jette sur lui, elle l'embrasse: Tu re�ois, lui dit-elle, les
+premiers et les derniers baisers de ton amante et de ta
+meurtri�re.  Elle retire le dard de la plaie, l'enfonce dans son
+coeur, et meurt sur l'amant qu'elle adore.  Le p�re �pouvant�,
+�perdu, pr�t � mourir comme elle, t�che en vain de la rappeler �
+la vie; elle n'�tait plus.  Il maudit ce dard fatal, le brise en
+morceaux, jette au loin ses deux diamants funestes; et, tandis
+qu'on pr�pare les fun�railles de sa fille, au lieu de son
+mariage, il fait transporter dans son palais Rustan ensanglant�,
+qui avait encore un reste de vie.
+
+On le porte dans un lit.  La premi�re chose qu'il voit aux deux
+c�t�s de ce lit de mort, c'est Topaze et �b�ne.  Sa surprise lui
+rendit un peu de force.  Ah!  cruels, dit-il, pourquoi
+m'avez-vous abandonn�?  peut-�tre la princesse vivrait encore; si
+vous aviez �t� pr�s du malheureux Rustan.  Je ne vous ai pas
+abandonn� un seul moment, dit Topaze.  - J'ai toujours �t� pr�s
+de vous, dit �b�ne.
+
+Ah!  que dites-vous ? pourquoi insulter � mes derniers moments?
+r�pondit Rustan d'une voix languissante.  Vous pouvez m'en
+croire, dit Topaze; vous savez que je n'approuvai jamais ce fatal
+voyage dont je pr�voyais les horribles suites.  C'est moi qui
+�tais l'aigle qui a combattu contre le vautour, et qu'il a
+d�plum�; j'�tais l'�l�phant qui emportait le bagage, pour vous
+forcer � retourner dans votre patrie; j'�tais l'�ne ray� qui vous
+ramenait malgr� vous chez votre p�re: c'est moi qui ai �gar� vos
+chevaux; c'est moi qui ai form� le torrent qui vous emp�chait de
+passer; c'est moi qui ai �lev� la montagne qui vous fermait un
+chemin si funeste; j'�tais le m�decin qui vous conseillait l'air
+natal; j'�tais la pie qui vous criait de ne point combattre.
+
+Et moi, dit �b�ne, j'�tais le vautour qui a d�plum� l'aigle; le
+rhinoc�ros qui donnait cent coups de corne � l'�l�phant, le
+vilain qui battait l'�ne ray�; le marchand qui vous donnait des
+chameaux pour courir � votre perte; j'ai b�ti le pont sur lequel
+vous avez pass�; j'ai creus� la caverne que vous avez travers�e;
+je suis le m�decin qui vous encourageait � marcher; le corbeau
+qui vous criait de vous battre.
+
+H�las!  souviens-toi des oracles, dit Topaze: _Si tu vas �
+l'orient, tu seras � l'occident_.  Oui, dit �b�ne, on ensevelit
+ici les morts le visage tourn� � l'occident: l'oracle �tait
+clair, que ne l'as-tu compris? _Tu as poss�d�, et tu ne poss�dais
+pas;_ car tu avais le diamant, mais il �tait faux, et tu n'en
+savais rien.  Tu es vainqueur, et tu meurs; tu es Rustan, et tu
+cesses de l'�tre: tout a �t� accompli.
+
+Comme il parlait ainsi, quatre ailes blanches couvrirent le corps
+de Topaze, et quatre ailes noires celui d'�b�ne.  Que vois-je?
+s'�cria Rustan.  Topaze et �b�ne r�pondirent ensemble: Tu vois
+tes deux g�nies.  Eh!  messieurs, leur dit le malheureux Rustan,
+de quoi vous m�liez-vous ? et pourquoi deux g�nies pour un pauvre
+homme? C'est la loi, dit Topaze chaque homme a ses deux g�nies,
+c'est Platon qui l'a dit le premier[1], et d'autres l'ont r�p�t�
+ensuite; tu vois que rien n'est plus v�ritable: moi, qui te
+parle, je suis ton bon g�nie, et ma charge �tait de veiller
+aupr�s de toi jusqu'au dernier moment de ta vie; je m'en suis
+fid�lement acquitt�.
+
+  [1] Voyez tome XXX, page 38.  B.
+
+
+Mais, dit le mourant, si ton emploi �tait de me servir, je suis
+donc d'une nature fort sup�rieure � la tienne; et puis comment
+oses-tu dire que tu es mon bon g�nie, quand tu m'as laiss�
+tromper dans tout ce que j'ai entrepris, et que tu me laisses
+mourir moi et ma ma�tresse mis�rablement ? H�las!  c'�tait ta
+destin�e, dit Topaze.  Si c'est la destin�e qui fait tout, dit le
+mourant, � quoi un g�nie est-il bon ?  Et toi, Eb�ne, avec tes
+quatre ailes noires, tu es apparemment mon mauvais g�nie? Vous
+l'avez dit, r�pondit �b�ne.  Mais tu �tais donc aussi le mauvais
+g�nie de ma princesse ?  Non, elle avait le sien, et je l'ai
+parfaitement second�.  Ah!  maudit �b�ne, si tu es si m�chant, tu
+n'appartiens donc pas au m�me ma�tre que Topaze ? vous avez �t�
+form�s tous deux par deux principes diff�rents, dont l'un est
+bon, et l'autre m�chant de sa nature ?  Ce n'est pas une
+cons�quence, dit �b�ne, mais c'est une grande difficult�.  Il
+n'est pas possible, reprit l'agonisant, qu'un �tre favorable ait
+fait un g�nie si funeste.  Possible ou non possible, repartit
+�b�ne, la chose est comme je te le dis.  H�las!  dit Topaze, mon
+pauvre ami, ne vois-tu pas que ce coquin-l� a encore la malice de
+te faire disputer pour allumer ton sang et pr�cipiter l'heure de
+ta mort? Va, je ne suis gu�re plus content de toi que de lui, dit
+le triste Rustan: il avoue du moins qu'il a voulu me faire du
+mal; et toi, qui pr�tendais me d�fendre, tu ne m'as servi de
+rien.  J'en suis bien f�ch�, dit le bon g�nie.  Et moi aussi, dit
+le mourant; il y a quelque chose l�-dessous que je ne comprends
+pas.  Ni moi non plus, dit le pauvre bon g�nie.  J.'en serai
+instruit dans un moment, dit Rustan.  C'est ce que nous verrons,
+dit Topaze.  Alors tout disparut.  Rustan se retrouva dans la
+maison de son p�re, dont il n'�tait pas sorti, et dans son lit o�
+il avait dormi une heure.
+
+Il se r�veille en sursaut, tout en sueur, tout �gar�; il se t�te,
+il appelle, il crie, il sonne.  Son valet de chambre, Topaze,
+accourt en bonnet de nuit, et tout en b�illant.  Suis-je mort,
+suis-je en vie?  s'�cria Rustan; la belle princesse de Cachemire
+en r�chappera-t-elle?....  Monseigneur r�ve-t-il ? r�pondit
+froidement Topaze.
+
+Ah!  s'�criait Rustan, qu'est donc devenu ce barbare �b�ne avec
+ses quatre ailes noires ? c'est lui qui me fait mourir d'une mort
+si cruelle.--Monseigneur, je l'ai laiss� l�-haut qui ronfle;
+voulez-vous qu'on le fasse descendre?--Le sc�l�rat!  il y a six
+mois entiers qu'il me pers�cute; c'est lui qui me mena � cette
+fatale foire de Cabul; c'est lui qui m'escamota le diamant que
+m'avait donn� la princesse; il est seul la cause de mon voyage,
+de la mort de ma princesse, et du coup de javelot dont je meurs �
+la fleur de mon �ge.
+
+Rassurez-vous, dit Topaze; vous n'avez jamais �t� � Cabul; il n'y
+a point de princesse de Cachemire; son p�re n'a jamais eu que
+deux gar�ons qui sont actuellement au coll�ge.  Vous n'avez
+jamais eu de diamant; la princesse ne peut �tre morte,
+puisqu'elle n'est pas n�e; et vous vous portez � merveille.
+
+Comment!  il n'est pas vrai que tu m'assistais � la mort dans le
+lit du prince de Cachemire? Ne m'as-tu pas avou� que, pour me
+garantir de tant de malheurs, tu avais �t� aigle, �l�phant, �ne
+ray�, m�decin, et pie?--Monseigneur, vous avez r�v� tout cela:
+nos id�es ne d�pendent pas plus de nous dans le sommeil que dans
+la veille.  Dieu a voulu que cette file d'id�es vous ait pass�
+par la t�te, pour vous donner apparemment quelque instruction
+dont vous ferez votre profit.
+
+Tu te moques de moi, reprit Rustan; combien de temps ai-je
+dormi?--Monseigneur, vous n'avez encore dormi qu'une heure.--Eh
+bien!  maudit raisonneur, comment veux-tu qu'en une heure de
+temps j'aie �t� � la foire de Cabul il y a six mois, que j'en
+sois revenu, que j'aie fait le voyage de Cachemire, et que nous
+soyons morts, Barbabou, la princesse, et moi?--Monseigneur, il
+n'y a rien de plus ais� et de plus ordinaire, et vous auriez pu
+r�ellement faire le tour du monde, et avoir beaucoup plus
+d'aventures en bien moins de temps.
+
+N'est-il pas vrai que vous pouvez lire en une heure l'abr�g� de
+l'histoire des Perses, �crite par Zoroastre?  cependant cet
+abr�g� contient huit cent mille ann�es.  Tous ces �v�nements
+passent sous vos yeux l'un apr�s l'autre en une heure; or vous
+m'avouerez qu'il est aussi ais� � Brama de les resserrer tous
+dans l'espace d'une heure que de les �tendre dans l'espace de
+huit cent mille ann�es; c'est pr�cis�ment la m�me chose.
+Figurez-vous que le temps tourne sur une roue dont le diam�tre
+est infini.  Sous cette roue immense est une multitude
+innombrable de roues les unes dans les autres; celle du centre
+est imperceptible, et fait un nombre infini de tours pr�cis�ment
+dans le m�me temps que la grande roue n'en ach�ve qu'un.  Il est
+clair que tous les �v�nements, depuis le commencement du monde
+jusqu'� sa fin, peuvent arriver successivement en beaucoup moins
+de temps que la cent-milli�me partie d'une seconde; et on peut
+dire m�me que la chose est ainsi.
+
+Je n'y entends rien, dit Rustan.  Si vous voulez, dit Topaze,
+j'ai un perroquet qui vous le fera ais�ment comprendre.  Il est
+n� quelque temps avant le d�luge, il a �t� dans l'arche; il a
+beaucoup vu; cependant il n'a encore qu'un an et demi: il vous
+contera son histoire, qui est fort int�ressante.
+
+Allez vite chercher votre perroquet, dit Rustan; il m'amusera
+jusqu'� ce que je puisse me rendormir.  Il est chez ma soeur la
+religieuse, dit Topaze; je vais le chercher, vous en serez
+content; sa m�moire est fid�le, il conte simplement, sans
+chercher � montrer de l'esprit � tout propos, et sans faire des
+phrases.  Tant mieux, dit Rustan, voil� comme j'aime les contes.
+On lui amena le perroquet, lequel parla ainsi.
+
+  _N. B._ Mademoiselle Catherine Vad� n'a jamais pu trouver
+  l'histoire du perroquet dans le portefeuille de feu son cousin
+  Antoine Vad�, auteur de ce conte.  C'est grand dommage, vu le
+  temps auquel vivait ce perroquet.--Cette note existe d�s
+  1764. B.
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, LE BLANC ET LE NOIR ***
+
+This file should be named 4771-8.txt or 4771-8.zip
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

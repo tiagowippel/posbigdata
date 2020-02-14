@@ -1,0 +1,4784 @@
+Project Gutenberg's Prinz Friedrich von Homburg, by Heinrich von Kleist
+#5 in our series by Heinrich von Kleist
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Prinz Friedrich von Homburg
+
+Author: Heinrich von Kleist
+
+Release Date: October, 2004 [EBook #6723]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on January 19, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ISO-8859-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK PRINZ FRIEDRICH VON HOMBURG ***
+
+
+
+
+This text was produced for Project Gutenberg
+by Mike Pullen and Delphine Lettau.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verf�gung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+Prinz Friedrich von Homburg
+
+Heinrich von Kleist
+
+Ein Schauspiel
+
+
+_Ihrer K�niglichen Hoheit_
+_der Prinzessin_
+_Amalie Marie Anne_
+_Gemahlin des Prinzen Wilhelm von Preu�en_
+_Bruders Sr. Majest�t des K�nigs_
+_geborne Prinzessin von Hessen-Homburg._
+
+Gen Himmel schauend greift, im Volksgedr�nge,
+Der Barde fromm in seine Saiten ein.
+Jetzt tr�sten, jetzt verletzen seine Kl�nge,
+Und solcher Antwort kann er sich nicht freun.
+Doch eine denkt er in dem Kreis der Menge,
+Der die Gef�hle seiner Brust sich weihn:
+Sie h�lt den Preis in H�nden, der ihm falle,
+Und kr�nt ihn die, so kr�nen sie ihn alle.
+
+
+
+
+Personen:
+
+Friedrich Wilhelm, Kurf�rst von Brandenburg
+
+Die Kurf�rstin
+
+Prinzessin Natalie von Oranien, seine Nichte,
+Chef eines Dragonerregiments
+
+Feldmarschall D�rfling
+
+Prinz Friedrich Arthur von Homburg, General der Reuterei
+
+Obrist Kottwitz, vom Regiment der Prinzessin von Oranien
+
+Hennings, Oberst der Infanterie
+
+Graf Truch�, Oberst der Infanterie
+
+Graf Hohenzollern, von der Suite des Kurf�rsten
+
+Rittmeister von der Golz
+
+Graf Georg von Sparren, Rittmeister
+
+Stranz, Rittmeister
+
+Siegfried von M�rner, Rittmeister
+
+Graf Reu�, Rittmeister
+
+Ein Wachtmeister
+
+Offiziere, Korporale und Reuter.  Hofkavaliere.  Hofdamen.
+Pagen.  Heiducken.  Bedienten.  Volk jeden Alters und
+Geschlechts.
+
+
+
+
+Erster Akt
+
+
+
+Szene.  Fehrbellin.  Ein Garten im altfranz�sischen Stil.
+Im Hintergrunde ein Schlo�, von welchem eine Rampe
+herabf�hrt.--Es ist Nacht.
+
+Erster Auftritt
+
+Der Prinz von Homburg sitzt mit blo�em Haupt und offner
+Brust, halb wachend halb schlafend, unter einer Eiche und
+windet sich einen Kranz.--Der Kurf�rst, seine Gemahlin,
+Prinzessin Natalie, der Graf von Hohenzollern, Rittmeister
+Golz und andere treten heimlich aus dem Schlo�, und schauen,
+vom Gel�nder der Rampe, auf ihn nieder.--Pagen mit Fackeln.
+
+
+Der Graf von Hohenzollern.
+Der Prinz von Homburg, unser tapfrer Vetter,
+Der an der Reuter Spitze, seit drei Tagen
+Den fl�chtgen Schweden munter nachgesetzt,
+Und sich erst heute wieder atemlos,
+Im Hauptquartier zu Fehrbellin gezeigt:
+Befehl ward ihm von dir, hier l�nger nicht,
+Als nur drei F�ttrungsstunden zu verweilen,
+Und gleich dem Wrangel wiederum entgegen,
+Der sich am Rhyn versucht hat einzuschanzen,
+Bis an die Hackelberge vorzur�cken?
+
+Der Kurf�rst.
+So ists!
+
+Hohenzollern.  Die Chefs nun s�mtlicher Schwadronen,
+Zum Aufbruch aus der Stadt, dem Plan gem��,
+Glock zehn zu Nacht, gemessen instruiert,
+Wirft er ersch�pft, gleich einem Jagdhund lechzend,
+Sich auf das Stroh um f�r die Schlacht, die uns
+Bevor beim Strahl des Morgens steht, ein wenig
+Die Glieder, die ersch�pften, auszuruhn.
+
+Der Kurf�rst.
+So h�rt ich!--Nun?
+
+Hohenzollern.  Da nun die Stunde schl�gt,
+Und aufgesessen schon die ganze Reuterei
+Den Acker vor dem Tor zerstampft,
+Fehlt--wer?  der Prinz von Homburg noch, ihr F�hrer.
+Mit Fackeln wird und Lichtern und Laternen
+Der Held gesucht--und aufgefunden, wo?
+
+(Er nimmt einem Pagen die Fackel aus der Hand.)
+
+Als ein Nachtwandler, schau, auf jener Bank,
+Wohin, im Schlaf, wie du nie glauben wolltest,
+Der Mondschein ihn gelockt, besch�ftiget,
+Sich tr�umend, seiner eignen Nachwelt gleich,
+Den pr�chtgen Kranz des Ruhmes einzuwinden.
+
+Der Kurf�rst.
+Was!
+
+Hohenzollern.  In der Tat!  Schau hier herab: da sitzt er!
+
+(Er leuchtet von der Rampe auf ihn nieder.)
+
+Der Kurf�rst.
+Im Schlaf versenkt?  Unm�glich!
+
+Hohenzollern.  Fest im Schlafe!
+Ruf ihn bei Namen auf, so f�llt er nieder.
+
+(Pause.)
+
+Die Kurf�rstin.
+Der junge Mann ist krank, so wahr ich lebe.
+
+Prinzessin Natalie.
+Er braucht des Arztes--!
+
+Die Kurf�rstin.  Man sollt ihm helfen, d�nkt mich,
+Nicht den Moment verbringen, sein zu spotten!
+
+Hohenzollern (indem er die Fackel wieder weggibt).
+Er ist gesund, ihr mitleidsvollen Frauen,
+Bei Gott, ich bins nicht mehr!  Der Schwede morgen
+Wenn wir im Feld ihn treffen, wirds empfinden!
+Es ist nichts weiter, glaubt mir auf mein Wort,
+Als eine blo�e Unart seines Geistes.
+
+Der Kurf�rst.
+F�rwahr!  Ein M�rchen glaubt ichs!--Folgt mir Freunde,
+Und la�t uns n�her ihn einmal betrachten.
+
+(Sie steigen von der Rampe herab.)
+
+Ein Hofkavalier (zu den Pagen).
+Zur�ck!  die Fackeln!
+
+Hohenzollern.  La�t sie, la�t sie, Freunde!
+Der ganze Flecken k�nnt in Feuer aufgehn,
+Da� sein Gem�t davon nicht mehr empf�nde,
+Als der Demant, den er am Finger tr�gt.
+
+(Sie umringen ihn; die Pagen leuchten.)
+
+Der Kurf�rst (�ber ihn gebeugt).
+Was f�r ein Laub denn flicht er?--Laub der Weide?
+
+Hohenzollern.
+Was!  Laub der Weid, o Herr!--Der Lorbeer ists,
+Wie ers gesehn hat, an der Helden Bildern,
+Die zu Berlin im R�stsaal aufgeh�ngt.
+
+Der Kurf�rst.
+--Wo fand er den in meinem m�rkschen Sand?
+
+Hohenzollern.
+Das m�gen die gerechten G�tter wissen!
+
+Der Hofkavalier.
+Vielleicht im Garten hinten, wo der G�rtner
+Mehr noch der fremden Pflanzen auferzieht.
+
+Der Kurf�rst.
+Seltsam beim Himmel!  Doch, was gilts, ich wei�,
+Was dieses jungen Toren Brust bewegt?
+
+Hohenzollern.
+O--was!  Die Schlacht von morgen, mein Gebieter!
+Sterngucker sieht er, wett ich, schon im Geist,
+Aus Sonnen einen Siegeskranz ihm winden.
+
+(Der Prinz besieht den Kranz.'
+
+Der Hofkavalier.
+Jetzt ist er fertig!
+
+Hohenzollern.  Schade, ewig schade,
+Da� hier kein Spiegel in der N�he ist!
+Er w�rd ihm eitel, wie ein M�dchen nahn,
+Und sich den Kranz bald so, und wieder so,
+Wie eine florne Haube aufprobieren.
+
+Der Kurf�rst.
+Bei Gott!  Ich mu� doch sehn, wie weit ers treibt!
+
+(Der Kurf�rst nimmt ihm den Kranz aus der Hand; der Prinz
+err�tet und sieht ihn an.  Der Kurf�rst schlingt seine
+Halskette um den Kranz und gibt ihn der Prinzessin; der
+Prinz steht lebhaft auf.  Der Kurf�rst weicht mit der
+Prinzessin, welche den Kranz erhebt, zur�ck; der Prinz
+mit ausgestreckten Armen, folgt ihr.)
+
+Der Prinz von Homburg (fl�sternd).
+Natalie!  Mein M�dchen!  Meine Braut!
+
+Der Kurf�rst.
+Geschwind!  Hinweg!
+
+Hohenzollern.  Was sagt der Tor?
+
+Der Hofkavalier.  Was sprach er?
+
+(Sie besteigen s�mtlich die Rampe.)
+
+Der Prinz von Homburg.
+Friedrich!  Mein F�rst!  Mein Vater!
+
+Hohenzollern.  H�ll und Teufel!
+
+Der Kurf�rst (r�ckw�rts ausweichend).
+�ffn' mir die Pforte nur!
+
+Der Prinz von Homburg.  O meine Mutter!
+
+Hohenzollern.
+Der Rasende!  Er ist--
+
+Die Kurf�rstin.  Wen nennt er so?
+
+Der Prinz von Homburg (nach dem Kranz greifend)
+O!  Liebste!  Was entweichst du mir?  Natalie!
+
+(Er erhascht einen Handschuh von der Prinzessin Hand.)
+
+Hohenzollern.
+Himmel und Erde!  Was ergriff er da?
+
+Der Hofkavalier.  Den Kranz?
+
+Natalie.
+Nein, nein!
+
+Hohenzollern (�ffnet die T�r).
+Hier rasch herein, mein F�rst!
+Auf da� das ganze Bild ihm wieder schwinde!
+
+Der Kurf�rst.
+Ins Nichts mit dir zur�ck, Herr Prinz von Homburg,
+Ins Nichts, ins Nichts!  In dem Gefild der Schlacht,
+Sehn wir, wenns dir gef�llig ist, uns wieder!
+Im Traum erringt man solche Dinge nicht!
+
+(Alle ab; die T�r fliegt rasselnd vor dem Prinzen zu.)
+
+(Pause.)
+
+
+
+Zweiter Auftritt
+
+Der Prinz von Homburg (bleibt einen Augenblick, mit dem
+Ausdruck der Verwunderung, vor der T�r stehen, steigt dann
+sinnend, die Hand, in welcher er den Handschuh h�lt, vor
+die Stirn gelegt, von der Rampe herab; kehrt sich sobald
+er unten ist, um, und sieht wieder nach der T�r hinauf).
+
+
+
+Dritter Auftritt
+
+Der Graf von Hohenzollern tritt von unten, durch eine
+Gittert�r, auf.  Ihm folgt ein Page.--Der Prinz von Homburg.
+
+
+Der Page (leise).
+Herr Graf, so h�rt doch!  Gn�digster Herr Graf!
+
+Hohenzollern (unwillig).
+Still!  die Zikade!--Nun?  Was gibts?
+
+Page.  Mich schickt--!
+
+Hohenzollern.
+Weck ihn mit deinem Zirpen mir nicht auf!
+Wohlan!  Was gibts?
+
+Page.  Der Kurf�rst schickt mich her!
+Dem Prinzen m�chtet Ihr, wenn er erwacht,
+Kein Wort, befiehlt er, von dem Scherz entdecken,
+Den er sich eben jetzt mit ihm erlaubt!
+
+Hohenzollern (leise).
+Ei, So leg dich im Weizenfeld aufs Ohr,
+Und schlaf dich aus!  Das wu�t ich schon!  Hinweg!
+
+(Der Page ab.)
+
+
+
+Vierter Auftritt
+
+Der Graf von Hohenzollern und der Prinz von Homburg.
+
+
+Hohenzollern (indem er sich in einiger Entfernung hinter
+dem Prinzen stellt, der noch immer unverwandt die Rampe
+hinaufsieht).  Arthur!
+
+(Der Prinz f�llt um.)
+
+Da liegt er; eine Kugel trifft nicht besser!
+
+(Er n�hert sich ihm.)
+
+Nun bin ich auf die Fabel nur begierig,
+Die er ersinnen wird, mir zu erkl�ren,
+Warum er hier sich schlafen hat gelegt.
+
+(Er beugt sich �ber ihn.)
+
+Arthur!  He!  Bist des Teufels du?  Was machst du?
+Wie kommst du hier zu Nacht auf diesen Platz?
+
+Der Prinz von Homburg.
+Je, Lieber!
+
+Hohenzollern.  Nun, f�rwahr, das mu� ich sagen!
+Die Reuterei ist die du kommandierst,
+Auf eine Stunde schon im Marsch voraus,
+Und du, du liegst im Garten hier, und schl�fst.
+
+Der Prinz von Homburg.
+Welch eine Reuterei?
+
+Hohenzollern.  Die Mamelucken!--
+So wahr ich Leben atm', er wei� nicht mehr,
+Da� er der m�rkschen Reuter Oberst ist?!
+
+Der Prinz von Homburg (steht auf).
+Rasch!  Meinen Helm!  Die R�stung!
+
+Hohenzollern.  Ja wo sind sie?
+
+Der Prinz von Homburg.
+Zur Rechten, Heinz, zur Rechten; auf dem Schemel!
+
+Hohenzollern.
+Wo?  Auf dem Schemel?
+
+Der Prinz von Homburg.  Ja, da legt ich, mein ich--!
+
+Hohenzollern (sieht ihn an).
+So nimm sie wieder von dem Schemel weg!
+
+Der Prinz von Homburg.
+--Was ist dies f�r ein Handschuh?
+
+(Er betrachtet den Handschuh, den er in der Hand h�lt.)
+
+Hohenzollern.  Ja, was wei� ich?--
+(F�r sich.)  Verw�nscht!  Den hat er der Prinzessin Nichte,
+Dort oben unbemerkt vom Arm gerissen!  (Abbrechend.)
+Nun, rasch!  Hinweg!  Was s�umst du?  Fort!
+
+Der Prinz von Homburg (wirft den Handschuh wieder weg).
+Gleich, gleich!--
+He, Franz, der Schurke der mich wecken sollte!
+
+Hohenzollern (betrachtet ihn).
+Er ist ganz rasend toll!
+
+Der Prinz von Homburg.  Bei meinem Eid!
+Ich wei� nicht, liebster Heinrich, wo ich bin.
+
+Hohenzollern.
+In Fehrbellin, du sinnverwirrter Tr�umer;
+In einem von des Gartens Seiteng�ngen,
+Der ausgebreitet hinterm Schlosse liegt!
+
+Der Prinz von Homburg (f�r sich).
+Da� mich die Nacht verschlang!  Mir unbewu�t
+Im Mondschein bin ich wieder umgewandelt!
+
+(Er fa�t sich)
+
+Vergib!  Ich wei� nun schon.  Es war, du wei�t, vor Hitze,
+Im Bette gestern fast nicht auszuhalten.
+Ich schlich ersch�pft in diesen Garten mich,
+Und weil die Nacht so lieblich mich umfing,
+Mit blondem Haar, von Wohlgeruch ganz triefend
+Ach!  wie den Br�utgam eine Perserbraut,
+So legt ich hier in ihren Scho� mich nieder.
+--Was ist die Glocke jetzo?
+
+Hohenzollern.  Halb auf Zw�lf.
+
+Der Prinz von Homburg.
+Und die Schwadronen, sagst du, brachen auf?
+
+Hohenzollern.
+Versteht sich, ja!  Glock zehn; dem Plan gem��!
+Das Regiment Prinzessin von Oranien,
+Hat, wie kein Zweifel ist, an ihrer Spitze
+Bereits die H�hn von Hackelwitz erreicht,
+Wo sie des Heeres stillen Aufmarsch morgen,
+Dem Wrangel gegen�ber decken sollen.
+
+Der Prinz von Homburg.
+Es ist gleichviel!  Der alte Kottwitz f�hrt sie,
+Der jede Absicht dieses Marsches kennt.
+Zudem h�tt ich zur�ck ins Hauptquartier
+Um zwei Uhr morgens wieder kehren m�ssen,
+Weil hier Parole noch soll empfangen werden:
+So blieb ich besser gleich im Ort zur�ck.
+Komm; la� uns gehn!  Der Kurf�rst wei� von nichts?
+
+Hohenzollern.
+Ei, was!  Der liegt im Bette l�ngst und schl�ft.
+
+(Sie wollen gehen; der Prinz stutzt, kehrt sich um, und
+nimmt den Handschuh auf.)
+
+Der Prinz von Homburg.
+Welch einen sonderbaren Traum tr�umt ich?!--
+Mir war, als ob, von Gold und Silber strahlend
+Ein K�nigsschlo� sich pl�tzlich �ffnete,
+Und hoch von seiner Marmorramp' herab,
+Der ganze Reigen zu mir niederstiege,
+Der Menschen, die mein Busen liebt:
+Der Kurf�rst und die F�rstin und die--dritte,
+--Wie hei�t sie schon?
+
+Hohenzollern.  Wer?
+
+Der Prinz von Homburg (er scheint zu suchen).
+Jene--die ich meine!
+Ein Stummgeborner w�rd sie nennen k�nnen!
+
+Hohenzollern.
+Die Platen?
+
+Der Prinz von Homburg.
+Nicht doch, Lieber!
+
+Hohenzollern.  Die Ramin?
+
+Der Prinz von Homburg.
+Nicht, nicht doch, Freund!
+
+Hohenzollern.  Die Bork?  die Winterfeld?
+
+Der Prinz von Homburg.
+Nicht, nicht; ich bitte dich!  Du siehst die Perle
+Nicht vor dem Ring, der sie in Fassung h�lt.
+
+Hohenzollern.
+Zum Henker, sprich!  L��t das Gesicht sich raten?
+--Welch eine Dame meinst du?
+
+Der Prinz von Homburg.  Gleichviel!  Gleichviel!
+Der Nam ist mir, seit ich erwacht, entfallen,
+Und gilt zu dem Verst�ndnis hier gleichviel.
+
+Hohenzollern.
+Gut!  So sprich weiter!
+
+Der Prinz von Homburg.  Aber st�r mich nicht!--
+Und er, der Kurf�rst, mit der Stirn des Zeus,
+Hielt einen Kranz von Lorbeern in der Hand:
+Er stellt sich dicht mir vor das Antlitz hin,
+Und schl�gt, mir ganz die Seele zu entz�nden,
+Den Schmuck darum, der ihm vom Nacken h�ngt,
+Und reicht ihn, auf die Locken mir zu dr�cken
+--O Lieber!
+
+Hohenzollern.  Wem?
+
+Der Prinz von Homburg.  O Lieber!
+
+Hohenzollern.  Nun, so sprich!
+
+Der Prinz von Homburg.
+--Es wird die Platen wohl gewesen sein.
+
+Hohenzollern.
+Die Platen?  Was!--Die jetzt in Preu�en ist?
+
+Der Prinz von Homburg.
+Die Platen.  Wirklich.  Oder die Ramin.
+
+Hohenzollern.
+Ach, die Ramin!  Was!  Die, mit roten Haaren!--
+Die Platen, mit den schelmschen Veilchenaugen!
+Die, wei� man, die gef�llt dir.
+
+Der Prinz von Homburg.  Die gef�llt mir.--
+
+Hohenzollern.
+Nun, und die, sagst du, reichte dir den Kranz?
+
+Der Prinz von Homburg.
+Hoch auf, gleich einem Genius des Ruhms,
+Hebt sie den Kranz, an dem die Kette schwankte,
+Als ob sie einen Helden kr�nen wollte.
+Ich streck, in unaussprechlicher Bewegung,
+Die H�nde streck ich aus, ihn zu ergreifen:
+Zu F��en will ich vor ihr niedersinken.
+Doch, wie der Duft, der �ber T�ler schwebt,
+Vor eines Windes frischem Hauch zerstiebt,
+Weicht mir die Schar, die Ramp' ersteigend, aus.
+Die Rampe dehnt sich, da ich sie betret
+Endlos, bis an das Tor des Himmels aus,
+Ich greife rechts, ich greife links umher,
+Der Teuren einen �ngstlich zu erhaschen.
+Umsonst!  Des Schlosses Tor geht pl�tzlich auf;
+Ein Blitz der aus dem Innern zuckt, verschlingt sie,
+Das Tor f�gt rasselnd wieder sich zusammen,
+Nur einen Handschuh, heftig, im Verfolgen,
+Streif ich der s��en Traumgestalt vom Arm:
+Und einen Handschuh, ihr allm�chtgen G�tter,
+Da ich erwache, halt ich in der Hand!
+
+Hohenzollern.
+Bei meinem Eid!--Und nun meinst du, der Handschuh,
+Der sei der ihre?
+
+Der Prinz von Homburg.
+Wessen?
+
+Hohenzollern.  Nun, der Platen!
+
+Der Prinz von Homburg.
+Der Platen.  Wirklich.  Oder der Ramin.--
+
+Hohenzollern (lacht).
+Schelm, der du bist, mit deinen Visionen!
+Wer wei� von welcher Sch�ferstunde, traun,
+Mit Fleisch und Bein hier wachend zugebracht,
+Dir noch der Handschuh in den H�nden klebt!
+
+Der Prinz von Homburg.
+Was!  Mir?  Bei meiner Liebe--!
+
+Hohenzollern.  Ei so, zum Henker,
+Was k�mmerts mich?  Meinthalben seis die Platen,
+Seis die Ramin!  Am Sonntag geht die Post nach Preu�en,
+Da kannst du auf dem k�rzsten Weg erfahren,
+Ob deiner Sch�nen dieser Handschuh fehlt.--
+Fort!  Es ist zw�lf.  Was stehn wir hier und plaudern?
+
+Der Prinz von Homburg (tr�umt vor sich nieder).
+--Da hast du recht.  La� uns zu Bette gehn.
+Doch, was ich sagen wollte, Lieber,
+Ist die Kurf�rstin noch und ihre Nichte hier,
+Die liebliche Prinzessin von Oranien,
+Die j�ngst in unser Lager eingetroffen?
+
+Hohenzollern.
+Warum?--Ich glaube gar, der Tor--?
+
+Der Prinz von Homburg.  Warum?--
+Ich sollte, wei�t du, drei�ig Reuter stellen,
+Sie wieder von dem Kriegsplatz wegzuschaffen,
+Ramin hab ich deshalb beordern m�ssen.
+
+Hohenzollern.
+Ei, was!  Die sind l�ngst fort!  Fort, oder reisen gleich!
+Ramin, zum Aufbruch v�llig fertig, stand
+Die ganze Nacht durch mindstens am Portal.
+Doch fort!  Zw�lf ists; und eh die Schlacht beginnt,
+W�nsch ich mich noch ein wenig auszuruhn.
+
+(Beide ab.)
+
+
+
+Szene: Ebendaselbst.  Saal im Schlo�.  Man h�rt in der
+Ferne schie�en.
+
+F�nfter Auftritt
+
+Die Kurf�rstin und die Prinzessin Natalie in Reisekleidern,
+gef�hrt von einem Hofkavalier, treten auf und lassen sich zur
+Seite nieder.  Hofdamen.  Hierauf der Kurf�rst, Feldmarschall
+D�rfling, der Prinz von Homburg, den Handschuh im Kollett,
+der Graf von Hohenzollern, Graf Truch�, Obrist Hennings,
+Rittmeister von der Golz und mehrere andere Generale, Obersten
+und Offiziere.
+
+
+Der Kurf�rst.
+Was ist dies f�r ein Schie�en?--Ist das G�tz?
+
+Feldmarschall D�rfling.
+Das ist der Oberst G�tz, mein F�rst und Herr,
+Der mit dem Vortrab gestern vorgegangen.
+Er hat schon einen Offizier gesandt,
+Der im voraus dar�ber dich beruhge.
+Ein schwedscher Posten ist, von tausend Mann,
+Bis auf die Hackelberge vorger�ckt;
+Doch haftet G�tz f�r diese Berge dir,
+Und sagt mir an, du m�chtest nur verfahren,
+Als h�tte sie sein Vortrab schon besetzt.
+
+Der Kurf�rst (zu den Offizieren).
+Ihr Herrn, der Marschall kennt den Schlachtentwurf;
+Nehmt euren Stift, bitt ich, und schreibt ihn auf.
+
+(Die Offiziere versammeln sich auf der andern Seite um den
+Feldmarschall und nehmen ihre Schreibtafeln heraus.)
+
+Der Kurf�rst (wendet sich zu dem Hofkavalier).
+Ramin ist mit dem Wagen vorgefahren?
+
+Der Hofkavalier.
+Im Augenblick, mein F�rst.--Man spannt schon an.
+
+Der Kurf�rst (l��t sich auf einen Stuhl hinter der
+Kurf�rstin und Prinzessin nieder).
+Ramin wird meine teur' Elisa f�hren,
+Und drei�ig r�stge Reuter folgen ihm.
+Ihr geht auf Kalkhuhns, meines Kanzlers, Schlo�
+Bei Havelberg, jenseits des Havelstroms,
+Wo sich kein Schwede mehr erblicken l��t.--
+
+Die Kurf�rstin.
+Hat man die F�hre wieder hergestellt?
+
+Der Kurf�rst.
+Bei Havelberg?--Die Anstalt ist getroffen.
+Zudem ists Tag, bevor ihr sie erreicht.
+
+(Pause.)
+
+Natalie ist so still, mein s��es M�dchen?
+--Was fehlt dem Kind?
+
+Prinzessin Natalie.  Mich schauert, lieber Onkel.
+
+Der Kurf�rst.
+Und gleichwohl ist mein T�chterchen so sicher,
+In ihrer Mutter Scho� war sies nicht mehr.
+
+(Pause.)
+
+Die Kurf�rstin.
+Wann, denkst du, werden wir uns wiedersehen?
+
+Der Kurf�rst.
+Wenn Gott den Sieg mir schenkt, wie ich nicht zweifle,
+Vielleicht im Laufe dieser Tage schon.
+
+(Pagen kommen und servieren den Damen ein Fr�hst�ck.
+Feldmarschall D�rfling diktiert.--Der Prinz von Homburg,
+Stift und Tafel in der Hand, fixiert die Damen.)
+
+Feldmarschall.
+Der Plan der Schlacht, ihr Herren Obersten,
+Den die Durchlaucht des Herrn ersann, bezweckt,
+Der Schweden fl�chtges Heer, zu g�nzlicher
+Zersplittrung, von dem Br�ckenkopf zu trennen,
+Der an dem Rhynflu� ihren R�cken deckt.
+Der Oberst Hennings--!
+
+Oberst Hennings.  Hier!  (Er schreibt.)
+
+Feldmarschall.  Der nach des Herren Willen heut
+Des Heeres rechten Fl�gel kommandiert,
+Soll, durch den Grund der Hackelb�sche, still
+Des Feindes linken zu umgehen suchen,
+Sich mutig zwischen ihn und die drei Br�cken werfen,
+Und mit dem Grafen Truch� vereint--
+Graf Truch�!
+
+Graf Truch�.  Hier!  (Er schreibt.)
+
+Feldmarschall.  Und mit dem Grafen Truch� vereint (Er h�lt inne.)
+Der auf den H�hn indes, dem Wrangel gegen�ber,
+Mit den Kanonen Posten hat gefa�t--
+
+Graf Truch� (schreibt).
+Kanonen Posten hat gefa�t--
+
+Feldmarschall.  Habt Ihr?
+(Er f�hrt fort.)
+Die Schweden in den Sumpf zu jagen suchen,
+Der hinter ihrem rechten Fl�gel liegt.
+
+Ein Heiduck (tritt auf).
+Der Wagen, gn�dge Frau, ist vorgefahren.
+
+(Die Damen stehen auf.)
+
+Feldmarschall.
+Der Prinz von Homburg--
+
+Der Kurf�rst (erhebt sich gleichfalls).
+--Ist Ramin bereit?
+
+Der Heiduck.
+Er harrt zu Pferd schon unten am Portal.
+
+(Die Herrschaften nehmen Abschied von einander.)
+
+Graf Truch� (schreibt).
+Der hinter ihrem rechten Fl�gel liegt.
+
+Feldmarschall.  Der Prinz von Homburg--
+Wo ist der Prinz von Homburg?
+
+Graf von Hohenzollern (heimlich).  Arthur!
+
+Der Prinz von Homburg (f�hrt zusammen).  Hier!
+
+Hohenzollern.
+Bist du bei Sinnen?
+
+Der Prinz von Homburg.  Was befiehlt mein Marschall?
+
+(Er err�tet, stellt sich mit Stift und Pergament und schreibt.)
+
+Feldmarschall.
+Dem die Durchlaucht des F�rsten wiederum
+Die F�hrung ruhmvoll, wie bei Rathenow,
+Der ganzen m�rkschen Reuterei vertraut--(Er h�lt inne.)
+Dem Obrist Kottwitz gleichwohl unbeschadet,
+Der ihm mit seinem Rat zur Hand wird gehn--
+(Halblaut zum Rittmeister Golz.)
+Ist Kottwitz hier?
+
+Rittmeister von der Golz.  Nein, mein General, du siehst,
+Mich hat er abgeschickt, an seiner Statt,
+Aus deinem Mund den Kriegsbefehl zu h�ren.
+
+(Der Prinz sieht wieder nach den Damen her�ber.)
+
+Feldmarschall (f�hrt fort).
+Stellt auf der Ebne sich, beim Dorfe Hackelwitz,
+Des Feindes rechtem Fl�gel gegen�ber,
+Fern au�er dem Kanonenschusse auf.
+
+Rittmeister von der Golz (schreibt).
+Fern au�er dem Kanonenschusse auf.
+
+(Die Kurf�rstin bindet der Prinzessin ein Tuch um den Hals.
+Die Prinzessin, indem sie sich die Handschuh anziehen will,
+sieht sich um, als ob sie etwas suchte.)
+
+Der Kurf�rst (tritt zu ihr).
+Mein T�chterchen, was fehlt dir--?
+
+Die Kurf�rstin.  Suchst du etwas?
+
+Prinzessin Natalie.
+Ich wei� nicht, liebe Tante, meinen Handschuh--
+
+(Sie sehen sich alle um.)
+
+Der Kurf�rst (zu den Hofdamen).
+Ihr Sch�nen!  Wollt ihr g�tig euch bem�hn?
+
+Die Kurf�rstin (zur Prinzessin).
+Du h�ltst ihn, Kind.
+
+Natalie.  Den rechten; doch den linken?
+
+Der Kurf�rst.
+Vielleicht da� er im Schlafgemach geblieben?
+
+Natalie.
+O liebe Bork!
+
+Der Kurf�rst (zu diesem Fr�ulein).
+Rasch, rasch!
+
+Natalie.  Auf dem Kamin!
+
+(Die Hofdame ab.)
+
+Der Prinz von Homburg (f�r sich).
+Herr meines Lebens!  hab ich recht geh�rt?
+(Er nimmt den Handschuh aus dem Kollett.)
+
+Feldmarschall (sieht in ein Papier, das er in der Hand h�lt).
+Fern au�er dem Kanonenschusse auf.--
+
+(Er f�hrt fort.)
+
+Des Prinzen Durchlaucht wird--
+
+Der Prinz von Homburg.  Den Handschuh sucht sie
+
+(Er sieht bald den Handschuh, bald die Prinzessin an.)
+
+Feldmarschall.
+Nach unsers Herrn ausdr�cklichem Befehl--
+
+Rittmeister von der Golz (schreibt).
+Nach unsers Herrn ausdr�cklichem Befehl--
+
+Feldmarschall.
+Wie immer auch die Schlacht sich wenden mag,
+Vom Platz nicht, der ihm angewiesen, weichen--
+
+Der Prinz von Homburg.
+--Rasch, da� ich jetzt erpr�fe, ob ers ist!
+
+(Er l��t, zugleich mit seinem Schnupftuch, den Handschuh
+fallen; das Schnupftuch hebt er wieder auf, den Handschuh
+l��t er so, da� ihn jedermann sehen kann, liegen.)
+
+Feldmarschall (befremdet).
+Was macht des Prinzen Durchlaucht?
+
+Graf von Hohenzollern (heimlich).  Arthur!
+
+Der Prinz von Homburg.  Hier!
+
+Hohenzollern.  Ich glaub,
+Du bist des Teufels?!
+
+Der Prinz von Homburg.  Was befiehlt mein Marschall?
+
+(Er nimmt wieder Stift und Tafel zur Hand.  Der Feldmarschall
+sieht ihn einen Augenblick fragend an.--Pause.)
+
+Rittmeister von der Golz (nachdem er geschrieben).
+Vom Platz nicht, der ihm angewiesen, weichen--
+
+Feldmarschall (f�hrt fort).
+Als bis, gedr�ngt von Hennings und von Truch�--
+
+Der Prinz von Homburg (zum Rittmeister Golz, heimlich, indem
+er in seine Schreibtafel sieht).
+Wer?  lieber Golz!  Was?  Ich?
+
+Rittmeister von der Golz.  Ihr, ja!  Wer sonst?
+
+Der Prinz von Homburg.
+Vom Platz nicht soll ich--?
+
+Rittmeister von der Golz.  Freilich!
+
+Feldmarschall.  Nun?  habt Ihr?
+
+Der Prinz von Homburg (laut).
+Vom Platz nicht, der mir angewiesen, weichen (Er schreibt.)
+
+Feldmarschall.
+Als bis, gedr�ngt von Hennings und von Truch�--
+
+(Er h�lt inne.)
+
+Des Feindes linker Fl�gel, aufgel�st,
+Auf seinen rechten st�rzt, und alle seine
+Schlachthaufen wankend nach der Trift sich dr�ngen,
+In deren S�mpfen, oft durchkreuzt von Gr�ben,
+Der Kriegsplan eben ist, ihn aufzureiben.
+
+Der Kurf�rst.
+Ihr Pagen, leuchtet!--Euren Arm, ihr Lieben!
+(Er bricht mit der Kurf�rstin und der Prinzessin auf.)
+
+Feldmarschall.
+Dann wird er die Fanfare blasen lassen.
+
+Die Kurf�rstin (da einige Offiziere sie komplimentieren).
+Auf Wiedersehn, ihr Herrn!  La�t uns nicht st�ren.
+
+(Der Feldmarschall komplimentiert sie auch.)
+
+Der Kurf�rst (steht pl�tzlich still).
+Sieh da!  Des Fr�uleins Handschuh!  Rasch!  Dort liegt er!
+
+Ein Hofkavalier.
+Wo?
+
+Der Kurf�rst.
+Zu des Prinzen, unsers Vetters, F��en!
+
+Der Prinz von Homburg (ritterlich).
+Zu meinen--?  Was!  Ist das der Eurige?
+
+(Er hebt ihn auf und bringt ihn der Prinzessin.)
+
+Natalie.
+Ich dank Euch, edler Prinz.
+
+Der Prinz von Homburg (verwirrt).  Ist das der Eure?
+
+Natalie.
+Der meinige; der, welchen ich vermi�t.
+
+(Sie empf�ngt ihn und zieht ihn an.)
+
+Die Kurf�rstin (zu dem Prinzen im Abgehen).
+Lebt wohl!  Lebt wohl!  Viel Gl�ck und Heil und Segen!
+Macht, da� wir bald und froh uns wieder sehn!
+
+(Der Kurf�rst mit den Frauen ab.  Hofdamen, Kavaliere und
+Pagen folgen.)
+
+Der Prinz von Homburg (steht einen Augenblick, wie vom
+Blitz getroffen da; dann wendet er sich mit triumphierenden
+Schritten wieder in den Kreis der Offiziere zur�ck).
+Dann wird er die Fanfare blasen lassen!
+(Er tut, als ob er schriebe.)
+
+Feldmarschall (sieht in sein Papier).
+Dann wird er die Fanfare blasen lassen.--
+Doch wird des F�rsten Durchlaucht ihm, damit,
+Durch Mi�verstand, der Schlag zu fr�h nicht falle--
+
+(Er h�lt inne.)
+
+Rittmeister von der Golz (schreibt).
+Durch Mi�verstand, der Schlag zu fr�h nicht falle
+
+Der Prinz von Homburg (zum Graf Hohenzollern, heimlich, in
+gro�er Bewegung).
+O Heinrich!
+
+Hohenzollern (unwillig).  Nun!  Was gibts?  Was hast du vor?
+
+Der Prinz von Homburg.
+Was!  Sahst du nichts?
+
+Hohenzollern.  Nein, nichts!  Sei still, zum Henker!
+
+Feldmarschall (f�hrt fort).
+Ihm einen Offizier, aus seiner Suite, senden,
+Der den Befehl, das merkt, ausdr�cklich noch
+Zum Angriff auf den Feind ihm �berbringe.
+Eh wird er nicht Fanfare blasen lassen.
+
+(Der Prinz steht und tr�umt vor sich nieder.)
+
+--Habt Ihr?
+
+Rittmeister von der Golz (schreibt).
+Eh wird er nicht Fanfare blasen lassen.
+
+Feldmarschall (mit erh�hter Stimme.).
+Des Prinzen Durchlaucht, habt Ihr?
+
+Der Prinz von Homburg.  Mein Feldmarschall?
+
+Feldmarschall.
+Ob Ihr geschrieben habt?
+
+Der Prinz von Homburg.--Von der Fanfare?
+
+Hohenzollern (heimlich, unwillig, nachdr�cklich).
+Fanfare!  Sei verw�nscht!  Nicht eh, als bis der--
+
+Rittmeister von der Golz (ebenso).
+Als bis er selbst--
+
+Der Prinz von Homburg (unterbricht sie).
+Ja, allerdings!  Eh nicht--
+Doch dann wird er Fanfare blasen lassen.
+
+(Er schreibt.--Pause.)
+
+Feldmarschall.
+Den Obrist Kottwitz, merkt das, Baron Golz,
+W�nsch ich, wenn er es m�glich machen kann,
+Noch vor Beginn des Treffens selbst zu sprechen.
+
+Rittmeister von der Golz (mit Bedeutung).
+Bestellen werd ich es.  Verla� dich drauf.
+
+(Pause.)
+
+Der Kurf�rst (kommt zur�ck).
+Nun, meine General' und Obersten,
+Der Morgenstrahl ergraut!--Habt ihr geschrieben?
+
+Feldmarschall.
+Es ist vollbracht, mein F�rst; dein Kriegsplan ist
+An deine Feldherrn p�nktlich ausgeteilt!
+
+Der Kurf�rst (indem er Hut und Handschuh nimmt).
+Herr Prinz von Homburg, dir empfehl ich Ruhe!
+Du hast am Ufer, wei�t du, mir des Rheins
+Zwei Siege j�ngst verscherzt; regier dich wohl,
+Und la� mich heut den dritten nicht entbehren,
+Der mindres nicht, als Thron und Reich, mir gilt!
+
+(Zu den Offizieren.)
+
+Folgt mir!--He, Franz!
+
+Ein Reitknecht (tritt auf).  Hier!
+
+Der Kurf�rst.  Rasch!  Den Schimmel vor!
+--Noch vor der Sonn im Schlachtfeld will ich sein!
+
+(Ab; die Generale, Obersten und Offiziere folgen ihm.)
+
+
+
+Sechster Auftritt
+
+
+Der Prinz von Homburg (in den Vordergrund tretend).
+Nun denn, auf deiner Kugel, Ungeheures,
+Du, der der Windeshauch den Schleier heut,
+Gleich einem Segel l�ftet, roll heran!
+Du hast mir, Gl�ck, die Locken schon gestreift:
+Ein Pfand schon warfst du, im Vor�berschweben,
+Aus deinem F�llhorn l�chelnd mir herab:
+Heut, Kind der G�tter, such ich, fl�chtiges,
+Ich hasche dich im Feld der Schlacht und st�rze
+Ganz deinen Segen mir zu F��en um:
+W�rst du auch siebenfach, mit Eisenketten,
+Am schwedschen Siegeswagen festgebunden!  (Ab.)
+
+
+
+
+Zweiter Akt
+
+
+
+Szene: Schlachtfeld bei Fehrbellin.
+
+Erster Auftritt
+
+Obrist Kottwitz, Graf Hohenzollern, Rittmeister von der Golz,
+und andere Offiziere, an der Spitze der Reuterei, treten auf.
+
+
+Obrist Kottwitz (au�erhalb der Szene).
+Halt hier die Reuterei, und abgesessen!
+
+Hohenzollern und Golz (treten auf).
+Halt!--Halt!
+
+Obrist Kottwitz.  Wer hilft vom Pferde mir, ihr Freunde?
+
+Hohenzollern und Golz.
+Hier, Alter, hier!  (Sie treten wieder zur�ck..)
+
+Obrist Kottwitz (au�erhalb).
+Habt Dank!--Ouf!  Da� die Pest mich!
+--Ein edler Sohn, f�r euren Dienst, jedwedem,
+Der euch, wenn ihr zerfallt, ein Gleiches tut!
+
+(Er tritt auf; Hohenzollern, Golz und andere, hinter ihm.)
+
+Ja, auf dem Ro� f�hl ich voll Tugend mich;
+Doch sitz ich ab, da hebt ein Strau� sich an,
+Als ob sich Leib und Seele k�mpfend trennten!
+
+(Er sieht sich um.)
+
+Wo ist des Prinzen, unsers F�hrers, Durchlaucht?
+
+Hohenzollern.
+Der Prinz kehrt gleich zu dir zur�ck!
+
+Obrist Kottwitz.  Wo ist er?
+
+Hohenzollern.
+Er ritt ins Dorf, das dir, versteckt in B�schen,
+Zur Seite blieb.  Er wird gleich wiederkommen.
+
+Ein Offizier.
+Zur Nachtzeit, h�r ich, fiel er mit dem Pferd?
+
+Hohenzollern.
+Ich glaube, ja.
+
+Obrist Kottwitz.  Er fiel?
+
+Hohenzollern (wendet sich).  Nichts von Bedeutung!
+Sein Rappe scheute an der M�hle sich,
+Jedoch, leichthin zur Seite niedergleitend,
+Tat er auch nicht den mindsten Schaden sich.
+Es ist den Odem keiner Sorge wert.
+
+Obrist Kottwitz (auf einen H�gel tretend).
+Ein sch�ner Tag, so wahr ich Leben atme!
+Ein Tag von Gott, dem hohen Herrn der Welt,
+Gemacht zu s��erm Ding als sich zu schlagen!
+Die Sonne schimmert r�tlich durch die Wolken,
+Und die Gef�hle flattern, mit der Lerche,
+Zum heitern Duft des Himmels jubelnd auf!--
+
+Golz.
+Hast du den Marschall D�rfling aufgefunden?
+
+Obrist Kottwitz (kommt vorw�rts).
+Zum Henker, nein!  Was denkt die Exzellenz?
+Bin ich ein Pfeil, ein Vogel, ein Gedanke,
+Da� er mich durch das ganze Schlachtfeld sprengt?
+Ich war beim Vortrab, auf den Hackelh�hn,
+Und in dem Hackelgrund, beim Hintertrab:
+Doch wen ich nicht gefunden, war der Marschall!
+Drauf meine Reuter sucht ich wieder auf.
+
+Golz.
+Das wird sehr leid ihm tun.  Es schien, er hatte
+Dir von Belang noch etwas zu vertraun.
+
+Der Offizier.
+Da kommt des Prinzen, unsers F�hrers, Durchlaucht!
+
+
+
+Zweiter Auftritt
+
+Der Prinz von Homburg, mit einem schwarzen Band um die
+linke Hand.  Die Vorigen.
+
+
+Obrist Kottwitz.
+Sei mir gegr��t, mein junger edler Prinz!
+Schau her, wie, w�hrend du im D�rfchen warst,
+Die Reuter ich im Talweg aufgestellt:
+Ich denk du wirst mit mir zufrieden sein!
+
+Der Prinz von Homburg.
+Guten Morgen, Kottwitz!--Guten Morgen, Freunde!
+--Du wei�t, ich lobe alles, was du tust.
+
+Hohenzollern.
+Was machtest, Arthur, in dem D�rfchen du?
+--Du scheinst so ernst!
+
+Der Prinz von Homburg.  Ich--war in der Kapelle,
+Die aus des D�rfchens stillen B�schen blinkte.
+Man l�utete, da wir vor�berzogen,
+Zur Andacht eben ein, da trieb michs an,
+Am Altar auch mich betend hinzuwerfen.
+
+Obrist Kottwitz.
+Ein frommer junger Herr, das mu� ich sagen!
+Das Werk, glaubt mir, das mit Gebet beginnt,
+Das wird mit Heil und Ruhm und Sieg sich kr�nen!
+
+Der Prinz von Homburg.
+Was ich dir sagen wollte, Heinrich--
+
+(Er f�hrt den Grafen ein wenig vor.)
+
+Was wars schon, was der D�rfling, mich betreffend,
+Bei der Parol' hat gestern vorgebracht?
+
+Hohenzollern.
+--Du warst zerstreut.  Ich hab es wohl gesehn.
+
+Der Prinz von Homburg.
+Zerstreut--geteilt; ich wei� nicht, was mir fehlte,
+Diktieren in die Feder macht mich irr.--
+
+Hohenzollern.
+--Zum Gl�ck nicht diesmal eben viel f�r dich.
+Der Truch� und Hennings, die das Fu�volk f�hren,
+Die sind zum Angriff auf den Feind bestimmt,
+Und dir ist aufgegeben, hier zu halten
+Im Tal, schlagfertig mit der Reuterei,
+Bis man zum Angriff den Befehl dir schickt.
+
+Der Prinz von Homburg (nach einer Pause, in der er vor
+sich niedergetr�umt).
+--Ein wunderlicher Vorfall!
+
+Hohenzollern.  Welcher, Lieber?
+
+(Er sieht ihn an.--Ein Kanonenschu� f�llt.)
+
+Obrist Kottwitz.
+Holla, ihr Herrn, holla!  Sitzt auf!  sitzt auf!
+Das ist der Hennings und die Schlacht beginnt!
+
+(Sie besteigen s�mtlich einen H�gel.)
+
+Der Prinz von Homburg.
+Wer ist es?  Was?
+
+Hohenzollern.  Der Obrist Hennings, Arthur,
+Der sich in Wrangels R�cken hat geschlichen!
+Komm nur, dort kannst du alles �berschaun.
+
+Golz (auf dem H�gel).
+Seht, wie er furchtbar sich am Rhyn entfaltet!
+
+Der Prinz von Homburg (h�lt sich die Hand vors Auge).
+--Der Hennings dort auf unserm rechten Fl�gel?
+
+Erster Offizier.
+Ja, mein erlauchter Prinz.
+
+Der Prinz von Homburg.  Was auch, zum Henker!
+Der stand ja gestern auf des Heeres Linken.
+
+(Kanonensch�sse in der Ferne.)
+
+Obrist Kottwitz.
+Blitzelement!  Seht, aus zw�lf Feuerschl�nden
+Wirkt jetzt der Wrangel auf den Hennings los!
+
+Erster Offizier.
+Das nenn ich Schanzen das, die schwedischen!
+
+Zweiter Offizier.
+Bei Gott, get�rmt bis an die Kirchsturmspitze,
+Des Dorfs, das hinter ihrem R�cken liege!
+
+(Sch�sse in der N�he.)
+
+Golz.
+Das ist der Truch�!
+
+Der Prinz von Homburg.  Der Truch�?
+
+Obrist Kottwitz.  Der Truch�, er, ja;
+Der Hennings jetzt von vorn zu H�lfe kommt.
+
+Der Prinz von Homburg.
+Wie kommt der Truch� heut in die Mitte?
+
+(Heftige Kanonade.)
+
+Golz.
+O Himmel, schaut, mich d�nkt das Dorf fing Feuer!
+
+Dritter Offizier.
+Es brennt, so wahr ich leb!
+
+Erster Offizier.  Es brennt!  Es brennt!
+Die Flamme zuckt schon an dem Turm empor!
+
+Golz.
+Hui!  Wie die Schwedenboten fliegen rechts und links!
+
+Zweiter Offizier.
+Sie brechen auf!
+
+Obrist Kottwitz.  Wo?
+
+Erster Offizier.  Auf dem rechten Fl�gel!--
+
+Dritter Offizier.
+Freilich!  In Z�gen!  Mit drei Regimentern!
+Es scheint, den linken wollen sie verst�rken.
+
+Zweiter Offizier.
+Bei meiner Treu!  Und Reuterei r�ckt vor,
+Den Marsch des rechten Fl�gels zu bedecken!
+
+Hohenzollern (lacht).
+Ha!  Wie das Feld die wieder r�umen wird,
+Wenn sie versteckt uns hier im Tal erblickt!
+
+(Musketenfeuer.)
+
+Kottwitz.
+Schaut!  Br�der, schaut!
+
+Zweiter Offizier.  Horcht!
+
+Erster Offizier.  Feuer der Musketen!
+
+Dritter Offizier.
+Jetzt sind sie bei den Schanzen aneinander!--
+
+Golz.
+Bei Gott!  Solch einen Donner des Gesch�tzes
+Hab ich zeit meines Lebens nicht geh�rt!
+
+Hohenzollern.
+Schie�t!  Schie�t!  Und macht den Scho� der Erde bersten!
+Der Ri� soll eurer Leichen Grabmal sein.
+
+(Pause.--Ein Siegsgeschrei in der Ferne.)
+
+Erster Offizier.
+Herr, du, dort oben, der den Sieg verleiht:
+Der Wrangel kehrt den R�cken schon!
+
+Hohenzollern.  Nein, sprich!
+
+Golz.
+Beim Himmel, Freunde!  Auf dem linken Fl�gel!
+Er r�umt mit seinem Feldgesch�tz die Schanzen.
+
+Alle.
+Triumph!  Triumph!  Triumph!  Der Sieg ist unser!
+
+Der Prinz von Homburg (steigt vom H�gel herab).
+Auf, Kottwitz, folg mir!
+
+Obrist Kottwitz.  Ruhig, ruhig, Kinder!
+
+Der Prinz von Homburg.
+Auf!  La� Fanfare blasen!  Folge mir!
+
+Obrist Kottwitz.
+Ich sage, ruhig.
+
+Der Prinz von Homburg (wild).
+Himmel, Erd und H�lle!
+
+Obrist Kottwitz.
+Des Herrn Durchlaucht, bei der Parole gestern,
+Befahl, da� wir auf Order warten sollen.
+Golz, lies dem Herren die Parole vor.
+
+Der Prinz von Homburg.
+Auf Ord'r!  Ei, Kottwitz!  Reitest du so langsam?
+Hast du sie noch vom Herzen nicht empfangen?
+
+Obrist Kottwitz.
+Order?
+
+Hohenzollern.
+Ich bitte dich!
+
+Obrist Kottwitz.  Von meinem Herzen?
+
+Hohenzollern.
+La� dir bedeuten, Arthur!
+
+Golz.  H�r' mein Obrist!
+
+Obrist Kottwitz (beleidigt).
+Oho!  K�mmst du mir so, mein junger Herr?--
+Den Gaul, den du dahersprengst, schlepp ich noch
+Im Notfall an dem Schwanz des meinen fort!
+Marsch, marsch, ihr Herrn!  Trompeter, die Fanfare!
+Zum Kampf!  Zum Kampf!  Der Kottwitz ist dabei!
+
+Golz (zu Kottwitz).
+Nein nimmermehr, mein Obrist!  Nimmermehr!
+
+Zweiter Offizier.
+Der Hennings hat den Rhyn noch nicht erreicht!
+
+Erster Offizier.
+Nimm ihm den Degen ab!
+
+Der Prinz von Homburg.  Den Degen mir?
+(Er st��t ihn zur�ck.)
+Ei, du vorwitzger Knabe, der du noch
+Nicht die Zehn m�rkischen Gebote kennst!
+Hier ist der deinige, zusamt der Scheide!
+(Er rei�t ihm das Schwert samt dem G�rtel ab.)
+
+Erster Offizier (taumelnd).
+Mein Prinz, die Tat, bei Gott--!
+
+Der Prinz von Homburg (auf ihn einschreitend).
+Den Mund noch �ffnest--?
+
+Hohenzollern (zu dem Offizier).
+Schweig!  Bist du rasend?
+
+Der Prinz von Homburg (indem er den Degen abgibt).
+Ordonnanzen!--
+F�hrt ihn gefangen ab, ins Hauptquartier.
+
+(Zu Kottwitz und den �brigen Offizieren.)
+
+Und jetzt ist die Parol', ihr Herrn: ein Schurke,
+Wer seinem General zur Schlacht nicht folgt!
+--Wer von euch bleibt?
+
+Obrist Kottwitz.  Du h�rst.  Was eiferst du?
+
+Hohenzollern (beilegend).
+Es war ein Rat nur, den man dir erteilt.
+
+Obrist Kottwitz.
+Auf deine Kappe nimms.  Ich folge dir.
+
+Der Prinz von Homburg (beruhigt).
+Ich nehms auf meine Kappe.  Folgt mir, Br�der!
+
+(Alle ab.)
+
+
+
+Szene: Zimmer in einem Dorf.
+
+Dritter Auftritt
+
+Ein Hofkavalier, in Stiefeln und Sporen, tritt auf.--Ein
+Bauer und seine Frau sitzen an einem Tisch und arbeiten.
+
+
+Hofkavalier.
+Gl�ck auf, ihr wackern Leute!  Habt ihr Platz,
+In eurem Hause G�ste aufzunehmen?
+
+Der Bauer.
+O ja!  Von Herzen.
+
+Die Frau.  Darf man wissen, wen?
+
+Hofkavalier.
+Die hohe Landesmutter!  Keinen Schlechtern!
+Am Dorftor brach die Achse ihres Wagens,
+Und weil wir h�ren, da� der Sieg erfochten,
+So braucht es weiter diese Reise nicht.
+
+Beide (stehen auf).
+Der Sieg erfochten?--Himmel!
+
+Hofkavalier.  Das wi�t ihr nicht?
+Das Heer der Schweden ist aufs Haupt geschlagen,
+Wenn nicht f�r immer, doch auf Jahresfrist,
+Die Mark vor ihrem Schwert und Feuer sicher!
+--Doch seht!  da k�mmt die Landesf�rstin schon.
+
+
+
+Vierter Auftritt
+
+Die Kurf�rstin, bleich und verst�rt.  Prinzessin Natalie
+und mehrere Hofdamen folgen.--Die Vorigen.
+
+
+Kurf�rstin (unter der T�r).
+Bork!  Winterfeld!  Kommt: gebt mir euren Arm!
+
+Natalie (zu ihr eilend).
+O meine Mutter!
+
+Die Hofdamen.  Gott!  Sie bleicht!  Sie f�llt!
+
+(Sie unterst�tzen sie.)
+
+Kurf�rstin.
+
+F�hrt mich auf einen Stuhl, ich will mich setzen.
+--Tot, sagt er; tot?
+
+Natalie.  O meine teure Mutter!
+
+Kurf�rstin.
+Ich will den Ungl�cksboten selber sprechen.
+
+
+
+F�nfter Auftritt
+
+Rittmeister von M�rner tritt verwundet auf, von zwei
+Reutern gef�hrt.--Die Vorigen.
+
+
+Kurf�rstin.
+Was bringst du, Herold des Entsetzens, mir?
+
+M�rner.
+Was diese Augen, leider, teure Frau,
+Zu meinem ewgen Jammer, selbst gesehn.
+
+Kurf�rstin.
+Wohlan!  Erz�hl!
+
+M�rner.  Der Kurf�rst ist nicht mehr!
+
+Natalie.  O Himmel!
+Soll ein so ungeheurer Schlag uns treffen?
+
+(Sie bedeckt sich das Gesicht.)
+
+Kurf�rstin.
+Erstatte mir Bericht, wie er gesunken!
+--Und wie der Blitzstrahl, der den Wandrer trifft,
+Die Welt noch einmal purpurn ihm erleuchtet,
+So la� dein Wort sein; Nacht, wenn du gesprochen,
+M�g �ber meinem Haupt zusammenschlagen.
+
+M�rner (tritt, gef�hrt von den beiden Reutern, vor ihr).
+Der Prinz von Homburg war, sobald der Feind,
+Gedr�ngt von Truch�, in seiner Stellung wankte,
+Auf Wrangel in die Ebne vorger�ckt;
+Zwei Linien hatt er, mit der Reuterei,
+Durchbrochen schon, und auf der Flucht vernichtet,
+Als er auf eine Feldredoute stie�.
+Hier schlug so m�rderischer Eisenregen
+Entgegen ihm, da� seine Reuterschar,
+Wie eine Saat, sich knickend niederlegte:
+Halt mu�t er machen zwischen Busch und H�geln,
+Um sein zerstreutes Reuterkorps zu sammeln.
+
+Natalie (zur Kurf�rstin).
+Geliebte!  Fasse dich!
+
+Kurf�rstin.  La�, la� mich, Liebe!
+
+M�rner.
+In diesem Augenblick, dem Staub entr�ckt,
+Bemerken wir den Herrn, der, bei den Fahnen
+Des Truch�schen Korps, dem Feind entgegenreitet;
+Auf einem Schimmel herrlich sa� er da,
+Im Sonnenstrahl, die Bahn des Siegs erleuchtend.
+Wir alle sammeln uns, bei diesem Anblick,
+Auf eines H�gels Abhang, schwer besorgt,
+Inmitten ihn des Feuers zu erblicken:
+Als pl�tzlich jetzt der Kurf�rst, Ro� und Reuter,
+In Staub vor unsern Augen niedersinkt;
+Zwei Fahnentr�ger fielen �ber ihn,
+Und deckten ihn mit ihren Fahnen zu.
+
+Natalie.
+O meine Mutter!
+
+Erste Hofdame.  Himmel!
+
+Kurf�rstin.  Weiter!  Weiter!
+
+M�rner.
+Drauf fa�t, bei diesem schreckenvollen Anblick,
+Schmerz, unerme�licher, des Prinzen Herz;
+Dem B�ren gleich, von Wut gespornt und Rache,
+Bricht er mit uns auf die Verschanzung los:
+Der Graben wird, der Erdwall, der sie deckt,
+Im Anlauf �berflogen, die Besatzung
+Geworfen, auf das Feld zerstreut, vernichtet,
+Kanonen, Fahnen, Pauken und Standarten,
+Der Schweden ganzes Kriegsgep�ck, erbeutet:
+Und h�tte nicht der Br�ckenkopf am Rhyn
+Im W�rgen uns gehemmt, so w�re keiner,
+Der an dem Herd der V�ter, sagen k�nnte:
+Bei Fehrbellin sah ich den Helden fallen!
+
+Kurf�rstin.
+Ein Sieg, zu teu'r erkauft!  Ich mag ihn nicht.
+Gebt mir den Preis, den er gekostet, wieder.
+
+(Sie sinkt in Ohnmacht.)
+
+Erste Hofdame.
+Hilf, Gott im Himmel!  Ihre Sinne schwinden.
+
+(Natalie weint.)
+
+
+
+Sechster Auftritt
+
+Der Prinz von Homburg tritt auf.--Die Vorigen.
+
+
+Der Prinz von Homburg.
+O meine teuerste Natalie!
+
+(Er legt ihre Hand ger�hrt an sein Herz.)
+
+Natalie.
+So ist es wahr?
+
+Der Prinz von Homburg.
+O!  k�nnt ich sagen: nein!
+K�nnt ich mit Blut, aus diesem treuen Herzen,
+Das seinige zur�ck ins Dasein rufen!
+
+Natalie (trocknet sich die Tr�nen).
+Hat man denn schon die Leiche aufgefunden?
+
+Der Prinz von Homburg.
+Ach, mein Gesch�ft, bis diesen Augenblick,
+War Rache nur an Wrangel; wie vermocht ich,
+Solch einer Sorge mich bis jetzt zu weihn?
+Doch eine Schar von M�nnern sandt ich aus,
+Ihn, im Gefild des Todes, aufzusuchen:
+Vor Nacht noch zweifelsohne trifft er ein.
+
+Natalie.
+Wer wird, in diesem schauderhaften Kampf,
+Jetzt diese Schweden niederhalten?  Wer
+Vor dieser Welt von Feinden uns beschirmen,
+Die uns sein Gl�ck, die uns sein Ruhm erworben?
+
+Der Prinz von Homburg (nimmt ihre Hand).
+Ich, Fr�ulein, �bernehme eure Sache!
+Ein Engel will ich, mit dem Flammenschwert,
+An eures Throns verwaiste Stufen stehn!
+Der Kurf�rst wollte, eh das Jahr noch wechselt,
+Befreit die Marken sehn; wohlan!  ich will der
+Vollstrecker solchen letzten Willens sein!
+
+Natalie.
+Mein lieber, teurer Vetter!
+
+(Sie zieht ihre Hand zur�ck.)
+
+Der Prinz von Homburg.  O Natalie!
+(Er h�lt einen Augenblick inne.)
+Wie denkt Ihr �ber Eure Zukunft jetzt?
+
+Natalie.
+Ja, was soll ich, nach diesem Wetterschlag,
+Der unter mir den Grund zerrei�t, beginnen?
+Mir ruht der Vater, mir die teure Mutter,
+Im Grab zu Amsterdam; in Schutt und Asche
+Liegt Dortrecht, meines Hauses Erbe, da;
+Gedr�ngt von Spaniens Tyrannenheeren,
+Wei� Moritz kaum, mein Vetter von Oranien,
+Wo er die eignen Kinder retten soll:
+Und jetzt sinkt mir die letzte St�tze nieder,
+Die meines Gl�ckes Rebe aufrecht hielt.
+Ich ward zum zweitenmale heut verwaist.
+
+Der Prinz von Homburg (schl�gt einen Arm um ihren Leib).
+O meine Freundin!  W�re diese Stunde
+Der Trauer nicht geweiht, so wollt ich sagen:
+Schlingt Eure Zweige hier um diese Brust,
+Um sie, die schon seit Jahren, einsam bl�hend,
+Nach eurer Glocken holden Duft sich sehnt!
+
+Natalie.
+Mein lieber, guter Vetter!
+
+Der Prinz von Homburg.--Wollt Ihr?  Wollt Ihr?
+
+Natalie.
+--Wenn ich ins innre Mark ihr wachsen darf?
+
+(Sie legt sich an seine Brust.)
+
+Der Prinz von Homburg.
+Wie?  Was war das?
+
+Natalie.  Hinweg!
+
+Der Prinz von Homburg (h�lt sie).  In ihren Kern!
+In ihres Herzens Kern, Natalie!
+
+(Er k��t sie; sie rei�t sich los.)
+
+O Gott, w�r er jetzt da, den wir beweinen,
+Um diesen Bund zu schauen!  K�nnten wir
+Zu ihm aufstammeln: Vater, segne uns!
+
+(Er bedeckt sein Gesicht mit seinen H�nden; Natalie wendet
+sich wieder zur Kurf�rstin zur�ck.)
+
+
+
+Siebenter Auftritt
+
+Ein Wachtmeister tritt eilig auf.--Die Vorigen.
+
+
+Wachtmeister.
+Mein Prinz, kaum wag ich, beim lebendgen Gott,
+Welch ein Ger�cht sich ausstreut, Euch zu melden!
+--Der Kurf�rst lebt!
+
+Der Prinz von Homburg.  Er lebt!
+
+Wachtmeister.  Beim hohen Himmel!
+Graf Sparren bringt die Nachricht eben her.
+
+Natalie.
+Herr meines Lebens!  Mutter; h�rtest dus?
+
+(Sie st�rzt vor der Kurf�rstin nieder und umfa�t ihren Leib.)
+
+Der Prinz von Homburg.
+Nein, sag--!  Wer bringt mir--?
+
+Wachtmeister.  Graf Georg von Sparren,
+Der ihn in Hackelwitz beim Truch�schen Korps,
+Mit eignem Aug, gesund und wohl, gesehn!
+
+Der Prinz von Homburg.
+Geschwind!  Lauf, Alter!  Bring ihn mir herein!
+
+(Wachtmeister ab.)
+
+
+
+Achter Auftritt
+
+Graf Georg von Sparren und der Wachtmeister treten auf.
+Die Vorigen.
+
+
+Kurf�rstin.
+O st�rzt mich zweimal nicht zum Abgrund nieder!
+
+Natalie.
+Nein, meine teure Mutter!
+
+Kurf�rstin.  Friedrich lebt?
+
+Natalie (h�lt sie mit beiden H�nden aufrecht).
+Des Daseins Gipfel nimmt Euch wieder auf!
+
+Wachtmeister (auftretend).
+Hier ist der Offizier!
+
+Der Prinz von Homburg.  Herr Graf von Sparren!
+Des Herrn Durchlaucht habt Ihr frisch und wohlauf,
+Beim Truch�schen Korps, in Hackelwitz, gesehn?
+
+Graf Sparren.
+Ja, mein erlauchter Prinz, im Hof des Pfarrers,
+Wo er Befehle gab, vom Stab umringt,
+Die Toten beider Heere zu begraben!
+
+Die Hofdamen.
+O Gott!  An deine Brust--(Sie umarmen sich.)
+
+Kurf�rstin.  O meine Tochter!
+
+Natalie.
+Nein, diese Seligkeit ist fast zu gro�!
+
+(Sie dr�ckt ihr Gesicht in der Tante Scho�.)
+
+Der Prinz von Homburg.
+Sah ich von fern, an meiner Reuter Spitze,
+Ihn nicht, zerschmettert von Kanonenkugeln,
+In Staub, samt seinem Schimmel, niederst�rzen?
+
+Graf Sparren.
+Der Schimmel, allerdings, st�rzt', samt dem Reuter,
+Doch wer ihn ritt, mein Prinz, war nicht der Herr.
+
+Der Prinz von Homburg.
+Nicht?  Nicht der Herr?
+
+Natalie.  O Jubel!
+
+(Sie steht auf und stellt sich an die Seite der Kurf�rstin.)
+
+Der Prinz von Homburg.  Sprich!  Erz�hle!
+Dein Wort f�llt schwer wie Gold in meine Brust!
+
+Graf Sparren.
+O la�t die r�hrendste Begebenheit,
+Die je ein Ohr vernommen, Euch berichten!
+Der Landesherr, der, jeder Warnung taub,
+Den Schimmel wieder ritt, den strahlendwei�en,
+Den Froben j�ngst in England ihm erstand,
+War wieder, wie bis heut noch stets geschah,
+Das Ziel der feindlichen Kanonenkugeln.
+Kaum konnte, wer zu seinem Tro� geh�rte,
+Auf einen Kreis von hundert Schritt ihm nahn;
+Granaten w�lzten, Kugeln und Kart�tschen,
+Sich wie ein breiter Todesstrom daher,
+Und alles, was da lebte, wich ans Ufer:
+Nur er, der k�hne Schwimmer, wankte nicht,
+Und, stets den Freunden winkend, rudert' er
+Getrost den H�hn zu, wo die Quelle sprang.
+
+Der Prinz von Homburg.
+Beim Himmel, ja!  Ein Grausen wars, zu sehn.
+
+Graf Sparren.
+Stallmeister Froben, der, beim Tro� der Suite,
+Zun�chst ihm folgt, ruft dieses Wort mir zu:
+"Verw�nscht sei heut mir dieses Schimmels Glanz,
+Mit schwerem Gold in London j�ngst erkauft!
+Wollt ich doch funfzig St�ck Dukaten geben,
+K�nnt ich ihn mit dem Grau der M�use decken."
+Er naht, voll hei�er Sorge, ihm und spricht:
+"Hoheit, dein Pferd ist scheu, du mu�t verstatten,
+Da� ichs noch einmal in die Schule nehme!"
+Mit diesem Wort entsitzt er seinem Fuchs,
+Und f�llt dem Tier des Herren in den Zaum.
+Der Herr steigt ab, still l�chelnd, und versetzt:
+"Die Kunst, die du ihn, Alter, lehren willst,
+Wird er, solang es Tag ist, schwerlich lernen.
+Nimm, bitt ich, fern ihn, hinter jenen H�geln,
+Wo seines Fehls der Feind nicht achtet, vor."
+Dem Fuchs drauf sitzt er auf, den Froben reitet,
+Und kehrt zur�ck, wohin sein Amt ihn ruft.
+Doch Froben hat den Schimmel kaum bestiegen,
+So rei�t, entsendet aus der Feldredoute,
+Ihn schon ein Mordblei, Ro� und Reuter, nieder.
+In Staub sinkt er, ein Opfer seiner Treue,
+Und keinen Laut vernahm man mehr von ihm.
+
+(Kurze Pause.)
+
+Der Prinz von Homburg.
+Er ist bezahlt!--Wenn ich zehn Leben h�tte,
+K�nnt ich sie besser brauchen nicht, als so!
+
+Natalie.
+Der wackre Froben!
+
+Kurf�rstin.  Der Vortreffliche!
+
+Natalie.
+Ein Schlechtrer w�re noch der Tr�nen wert!
+
+(Sie weinen.)
+
+Der Prinz von Homburg.
+Genug!  Zur Sache jetzt.  Wo ist der Kurf�rst?
+Nahm er in Hackelwitz sein Hauptquartier?
+
+Graf Sparren.
+Vergib!  der Herr ist nach Berlin gegangen,
+Und die gesamte Generalit�t
+Ist aufgefordert, ihm dahin zu folgen.
+
+Der Prinz von Homburg.
+Wie?  Nach Berlin?--Ist denn der Feldzug aus?
+
+Graf Sparren.
+F�rwahr, ich staune, da� dir alles fremd!
+Graf Horn, der schwedsche General, traf ein;
+Es ist im Lager, gleich nach seiner Ankunft,
+Ein Waffenstillstand ausgerufen worden.
+Wenn ich den Marschall D�rfling recht verstanden,
+Ward eine Unterhandlung angekn�pft:
+Leicht, da� der Frieden selbst erfolgen kann.
+
+Kurf�rstin.
+O Gott, wie herrlich kl�rt sich alles auf!
+
+(Sie steht auf.)
+
+Der Prinz von Homburg.
+Kommt, la�t sogleich uns nach Berlin ihm folgen!
+--R�umst du, zu rascherer Bef�rderung, wohl
+Mir einen Platz in deinem Wagen ein?
+--Zwei Zeilen nur an Kottwitz schreib ich noch,
+Und steige augenblicklich mit dir ein.
+
+(Er setzt sich nieder und schreibt.)
+
+Kurf�rstin.
+Von ganzem Herzen gern!
+
+Der Prinz von Homburg (legt den Brief zusammen und �bergibt
+ihn dem Wachtmeister; indem er sich wieder zur Kurf�rstin
+wendet, und den Arm sanft um Nataliens Leib legt).
+Ich habe so
+Dir einen Wunsch noch sch�chtern zu vertraun,
+Des ich mich auf der Reis entlasten will.
+
+Natalie (macht sich von ihm los).
+Bork!  Rasch!  Mein Halstuch, bitt ich!
+
+Kurf�rstin.  Du?  Einen Wunsch mir?
+
+Erste Hofdame.
+Ihr tragt das Tuch, Prinzessin, um den Hals!
+
+Der Prinz von Homburg (zur Kurf�rstin).
+Was?  R�tst du nichts?
+
+Kurf�rstin.  Nein, nichts!
+
+Der Prinz von Homburg.  Was?  Keine Silbe?
+
+Kurf�rstin (abbrechend).
+Gleichviel!--Heut keinem Flehenden auf Erden
+Antwort ich: nein!  was es auch immer sei;
+Und dir, du Sieger in der Schlacht, zuletzt!
+--Hinweg!
+
+Der Prinz von Homburg.
+O Mutter!  Welch ein Wort sprachst du?
+Darf ichs mir deuten, wie es mir gef�llt?
+
+Kurf�rstin.
+Hinweg, sag ich!  Im Wagen mehr davon!
+
+Der Prinz von Homburg.
+Kommt, gebt mir Euren Arm!--O C�sar Divus!
+Die Leiter setz ich an, an deinen Stern!
+
+(Er f�hrt die Damen ab; alle folgen.)
+
+
+
+Szene: Berlin.  Lustgarten vor dem alten Schlo�.  Im Hintergrunde
+die Schlo�kirche, mit einer Treppe.  Glockenklang; die Kirche
+ist stark erleuchtet; man sieht die Leiche Frobens vor�bertragen,
+und auf einen pr�chtigen Katafalk niedersetzen.
+
+Neunter Auftritt
+
+Der Kurf�rst, Feldmarschall D�rfling, Obrist Hennings, Graf
+Truch�, und mehrere andere Obristen und Offiziere treten auf.
+Ihm gegen�ber zeigen sich einige Offiziere mit Depeschen.--
+In der Kirche sowohl als auf dem Platz Volk jeden Alters und
+Geschlechts.
+
+
+Der Kurf�rst.
+Wer immer auch die Reuterei gef�hrt,
+Am Tag der Schlacht, und, eh der Obrist Hennings
+Des Feindes Br�cken hat zerst�ren k�nnen,
+Damit ist aufgebrochen, eigenm�chtig,
+Zur Flucht, bevor ich Order gab, ihn zwingend,
+Der ist des Todes schuldig, das erkl�r ich,
+Und vor ein Kriegsgericht bestell ich ihn.
+--Der Prinz von Homburg hat sie nicht gef�hrt?
+
+Graf Truch�.
+Nein, mein erlauchter Herr!
+
+Der Kurf�rst.  Wer sagt mir das?
+
+Graf Truch�.
+Das k�nnen Reuter dir bekr�ftigen,
+Die mirs versichert, vor Beginn der Schlacht.
+Der Prinz hat mit dem Pferd sich �berschlagen,
+Man hat verwundet schwer, an Haupt und Schenkeln,
+In einer Kirche ihn verbinden sehn.
+
+Der Kurf�rst.
+Gleichviel.  Der Sieg ist gl�nzend dieses Tages,
+Und vor dem Altar morgen dank ich Gott.
+Doch w�r er zehnmal gr��er, das entschuldigt
+Den nicht, durch den der Zufall mir ihn schenkt:
+Mehr Schlachten noch, als die, hab ich zu k�mpfen,
+Und will, da� dem Gesetz Gehorsam sei.
+Wers immer war, der sie zur Schlacht gef�hrt,
+Ich wiederhols, hat seinen Kopf verwirkt,
+Und vor ein Kriegsrecht hiemit lad ich ihn.
+--Folgt, meine Freunde, in die Kirche mir!
+
+
+
+Zehnter Auftritt
+
+Der Prinz von Homburg, drei schwedische Fahnen in der Hand,
+Obrist Kottwitz, mit deren zwei, Graf Hohenzollern, Rittmeister
+Golz, Graf Reu�, jeder mit einer Fahne, mehrere andere
+Offiziere, Korporale und Reuter, mit Fahnen, Pauken und
+Standarten, treten auf.
+
+
+Feldmarschall D�rfling (so wie er den Prinzen erblickt).
+Der Prinz von Homburg!--Truch�!  Was machtet Ihr?
+
+Der Kurf�rst (stutzt).
+Wo kommt Ihr her, Prinz?
+
+Der Prinz von Homburg (einige Schritte vorschreitend).
+Von Fehrbellin, mein Kurf�rst,
+Und bringe diese Siegstroph�en dir.
+
+(Er legt die drei Fahnen vor ihm nieder; die Offiziere,
+Korporale und Reuter folgen, jeder mit der ihrigen.)
+
+Der Kurf�rst (betroffen).
+Du bist verwundet, h�r ich, und gef�hrlich?
+--Graf Truch�!
+
+Der Prinz von Homburg (heiter).
+Vergib!
+
+Graf Truch�.  Beim Himmel, ich erstaune!
+
+Der Prinz von Homburg.
+Mein Goldfuchs fiel, vor Anbeginn der Schlacht;
+Die Hand hier, die ein Feldarzt mir verband,
+Verdient nicht, da� du sie verwundet taufst.
+
+Der Kurf�rst.
+Mithin hast du die Reuterei gef�hrt?
+
+Der Prinz von Homburg (sieht ihn an).
+Ich?  Allerdings!  Mu�t du von mir dies h�ren?
+--Hier legt ich den Beweis zu F��en dir.
+
+Der Kurf�rst.
+--Nehmt ihm den Degen ab.  Er ist gefangen.
+
+Feldmarschall (erschrocken).
+Wem?
+
+Der Kurf�rst (tritt unter die Fahnen).
+Kottwitz!  Sei gegr��t mir!
+
+Graf Truch� (f�r sich).  O verflucht!
+
+Obrist Kottwitz.
+Bei Gott, ich bin aufs �u�erste--!
+
+Der Kurf�rst (er sieht ihn an).  Was sagst du?
+Schau, welche Saat f�r unsern Ruhm gem�ht!
+--Die Fahn ist von der schwedischen Leibwacht!  Nicht?
+(Er nimmt eine Fahne auf, entwickelt und betrachtet sie.)
+
+Obrist Kottwitz.
+Mein Kurf�rst?
+
+Feldmarschall.  Mein Gebieter?
+
+Der Kurf�rst.  Allerdings!
+Und zwar aus K�nig Gustav Adolfs Zeiten!
+--Wie hei�t die Inschrift?
+
+Obrist Kottwitz.  Ich glaube--
+
+Feldmarschall.--Per aspera ad astra.
+
+Der Kurf�rst.
+Das hat sie nicht bei Fehrbellin gehalten.
+
+(Pause.)
+
+Obrist Kottwitz (sch�chtern).
+Mein F�rst, verg�nn ein Wort mir--!
+
+Der Kurf�rst.  Was beliebt?--
+Nehmt alles, Fahnen, Pauken und Standarten,
+Und h�ngt sie an der Kirche Pfeiler auf;
+Beim Siegsfest morgen denk ich sie zu brauchen!
+
+(Der Kurf�rst wendet sich zu den Kurieren, nimmt ihnen die
+Depeschen ab, erbricht, und liest sie.)
+
+Obrist Kottwitz (f�r sich).
+Das, beim lebendigen Gott, ist mir zu stark!
+
+(Der Obrist nimmt, nach einigem Zaudern, seine zwei Fahnen auf;
+die �brigen Offiziere und Reuter folgen; zuletzt, da die drei
+Fahnen des Prinzen liegen bleiben, hebt Kottwitz auch diese
+auf, so da� er nun f�nf tr�gt.)
+
+Ein Offizier (tritt vor den Prinzen).
+Prinz, Euren Degen, bitt ich.
+
+Hohenzollern (mit seiner Fahne, ihm zur Seite tretend).
+Ruhig, Freund!
+
+Der Prinz von Homburg.
+Tr�um ich?  Wach ich?  Leb ich?  Bin ich bei Sinnen?
+
+Golz.
+Prinz, gib den Degen, rat ich, hin, und schweig!
+
+Der Prinz von Homburg.
+Ich, ein Gefangener?
+
+Hohenzollern.  So ists!
+
+Golz.  Ihr h�rts!
+
+Der Prinz von Homburg.
+Darf man die Ursach wissen?
+
+Hohenzollern (mit Nachdruck).  Jetzo nicht!
+--Du hast zu zeitig, wie wir gleich gesagt,
+Dich in die Schlacht gedr�ngt; die Order war,
+Nicht von dem Platz zu weichen, ungerufen!
+
+Der Prinz von Homburg.
+Helft Freunde, helft!  Ich bin verr�ckt.
+
+Golz (unterbrechend).  Still!  Still!
+
+Der Prinz von Homburg.
+Sind denn die M�rkischen geschlagen worden?
+
+Hohenzollern (stampft mit dem Fu� auf die Erde).
+Gleichviel!--Der Satzung soll Gehorsam sein.
+
+Der Prinz von Homburg (mit Bitterkeit).
+So--so, so, so!
+
+Hohenzollern (entfernt sich von ihm).
+Es wird den Hals nicht kosten.
+
+Golz (ebenso).
+Vielleicht, da� du schon morgen wieder los.
+
+(Der Kurf�rst legt die Briefe zusammen, und kehrt sich wieder
+in den Kreis der Offiziere zur�ck.)
+
+Der Prinz von Homburg (nachdem er sich den Degen abgeschnallt).
+Mein Vetter Friedrich will den Brutus spielen,
+Und sieht, mit Kreid auf Leinewand verzeichnet,
+Sich schon auf dem kurulschen Stuhle sitzen:
+Die schwedschen Fahnen in dem Vordergrund,
+Und auf dem Tisch die m�rkschen Kriegsartikel.
+Bei Gott, in mir nicht findet er den Sohn,
+Der, unterm Beil des Henkers, ihn bewundre.
+Ein deutsches Herz, von altem Schrot und Korn,
+Bin ich gewohnt an Edelmut und Liebe,
+Und wenn er mir, in diesem Augenblick,
+Wie die Antike starr entgegenkommt,
+Tut er mir leid, und ich mu� ihn bedauren!
+
+(Er gibt den Degen an den Offizier und geht ab.)
+
+Der Kurf�rst.
+Bringt ihn nach Fehrbellin, ins Hauptquartier,
+Und dort bestellt das Kriegsrecht, das ihn richte.
+
+(Ab in die Kirche.  Die Fahnen folgen ihm, und werden, w�hrend
+er mit seinem Gefolge an dem Sarge Frobens niederkniet und
+betet, an den Pfeilern derselben aufgeh�ngt.
+Trauermusik.)
+
+
+
+
+Dritter Akt
+
+Szene: Fehrbellin.  Ein Gef�ngnis.
+
+
+
+Erster Auftritt
+
+Der Prinz von Homburg.--Im Hintergrunde zwei Reuter, als
+Wache.--Der Graf von Hohenzollern tritt auf.
+
+
+Der Prinz von Homburg.
+Sieh da!  Freund Heinrich!  Sei willkommen mir!
+--Nun, des Arrestes bin ich wieder los?
+
+Hohenzollern (erstaunt).
+Gott sei Lob, in der H�h!
+
+Der Prinz von Homburg.  Was sagst du?
+
+Hohenzollern.  Los?
+Hat er den Degen dir zur�ck geschickt?
+
+Der Prinz von Homburg.
+Mir?  Nein.
+
+Hohenzollern.
+Nicht?
+
+Der Prinz von Homburg.
+Nein!
+
+Hohenzollern.--Woher denn also los?
+
+Der Prinz von Homburg (nach einer Pause).
+Ich glaubte, du, du bringst es mir.--Gleichviel!
+
+Hohenzollern.
+--Ich wei� von nichts.
+
+Der Prinz von Homburg.  Gleichviel, du h�rst; gleichviel!
+So schickt er einen andern, der mirs melde.
+
+(Er wendet sich und holt St�hle.)
+
+Setz dich!--Nun, sag mir an, was gibt es Neues?
+--Der Kurf�rst kehrte von Berlin zur�ck?
+
+Hohenzollern (zerstreut).
+Ja.  Gestern abend.
+
+Der Prinz von Homburg.
+Ward, beschlo�nerma�en,
+Das Siegsfest dort gefeiert?--Allerdings!
+--Der Kurf�rst war zugegen in der Kirche?
+
+Hohenzollern.
+Er und die F�rstin und Natalie.--
+Die Kirche war, auf w�rdge Art, erleuchtet;
+Battrieen lie�en sich, vom Schlo�platz her,
+Mit ernster Pracht bei dem Tedeum h�ren.
+Die schwedschen Fahnen wehten und Standarten,
+Troph�enartig, von den Pfeilern nieder,
+Und auf des Herrn ausdr�cklichem Befehl,
+Ward deines, als des Siegers Namen--
+Erw�hnung von der Kanzel her getan.
+
+Der Prinz von Homburg.
+Das h�rt ich!--Nun, was gibt es sonst; was bringst du?
+--Dein Antlitz, d�nkt mich, sieht nicht heiter, Freund!
+
+Hohenzollern.
+--Sprachst du schon wen?
+
+Der Prinz von Homburg.  Golz, eben, auf dem Schlosse,
+Wo ich, du wei�t es, im Verh�re war.
+
+(Pause.)
+
+Hohenzollern (sieht ihn bedenklich an).
+Was denkst du, Arthur, denn von deiner Lage,
+Seit sie so seltsam sich ver�ndert hat?
+
+Der Prinz von Homburg.
+Ich?  Nun, was du und Golz--die Richter selbst!
+Der Kurf�rst hat getan, was Pflicht erheischte,
+Und nun wird er dem Herzen auch gehorchen.
+Gefehlt hast du, so wird er ernst mir sagen,
+Vielleicht ein Wort von Tod und Festung sprechen:
+Ich aber schenke dir die Freiheit wieder--
+Und um das Schwert, das ihm den Sieg errang,
+Schlingt sich vielleicht ein Schmuck der Gnade noch;
+--Wenn der nicht, gut; denn den verdient ich nicht!
+
+Hohenzollern.
+O Arthur!  (Er h�lt inne.)
+
+Der Prinz von Homburg.
+Nun?
+
+Hohenzollern.--Des bist du so gewi�?
+
+Der Prinz von Homburg.
+Ich denks mir so!  Ich bin ihm wert, das wei� ich,
+Wert wie ein Sohn; das hat seit fr�her Kindheit,
+Sein Herz in tausend Proben mir bewiesen.
+Was f�r ein Zweifel ists, der dich bewegt?
+Schien er am Wachstum meines jungen Ruhms
+Nicht mehr fast, als ich selbst, sich zu erfreun?
+Bin ich nicht alles, was ich bin, durch ihn?
+Und er, er sollte lieblos jetzt die Pflanze,
+Die er selbst zog, blo�, weil sie sich ein wenig
+Zu rasch und �ppig in die Blume warf,
+Mi�g�nstig in den Staub daniedertreten?
+Das glaubt ich seinem schlimmsten Feinde nicht,
+Vielwen'ger dir, der du ihn kennst und liebst.
+
+Hohenzollern (bedeutend).
+Du standst dem Kriegsrecht, Arthur, im Verh�r,
+Und bist des Glaubens noch?
+
+Der Prinz von Homburg.  Weil ich ihm stand!
+Bei dem lebendigen Gott, so weit geht keiner,
+Der nicht gesonnen w�re, zu begnadgen!
+Dort eben, vor der Schranke des Gerichts,
+Dort wars, wo mein Vertraun sich wiederfand.
+Wars denn ein todesw�rdiges Verbrechen,
+Zwei Augenblicke fr�her, als befohlen,
+Die schwedsche Macht in Staub gelegt zu haben?
+Und welch ein Frevel sonst dr�ckt meine Brust?
+Wie k�nnt er doch vor diesen Tisch mich laden,
+Von Richtern, herzlos, die den Eulen gleich,
+Stets von der Kugel mir das Grablied singen,
+D�cht er, mit einem heitern Herrscherspruch,
+Nicht, als ein Gott in ihren Kreis zu treten?
+Nein, Freund, er sammelt diese Nacht von Wolken
+Nur um mein Haupt, um wie die Sonne mir,
+Durch ihren Dunstkreis strahlend aufzugehn:
+Und diese Lust, f�rwahr, kann ich ihm g�nnen!
+
+Hohenzollern.
+Das Kriegsrecht gleichwohl, sagt man, hat gesprochen?
+
+Der Prinz von Homburg.
+Ich h�re, ja; auf Tod.
+
+Hohenzollern (erstaunt).  Du wei�t es schon?
+
+Der Prinz von Homburg.
+Golz, der dem Spruch des Kriegsrechts beigewohnt,
+Hat mir gemeldet, wie er ausgefallen.
+
+Hohenzollern.
+Nun denn, bei Gott!--Der Umstand r�hrt dich nicht?
+
+Der Prinz von Homburg.
+Mich?  Nicht im mindesten.
+
+Hohenzollern.  Du Rasender!
+Und worauf st�tzt sich deine Sicherheit?
+
+Der Prinz von Homburg.
+Auf mein Gef�hl von ihm!  (Er steht auf.)  Ich bitte, la� mich!
+Was soll ich mich mit falschen Zweifeln qu�len?
+
+(Er besinnt sich und l��t sich wieder nieder.--Pause.)
+
+Das Kriegsrecht mu�te auf den Tod erkennen;
+So lautet das Gesetz, nach dem es richtet.
+Doch eh er solch ein Urteil l��t vollstrecken,
+Eh er dies Herz hier, das getreu ihn liebt,
+Auf eines Tuches Wink, der Kugel preis gibt,
+Eh sieh, eh �ffnet er die eigne Brust sich,
+Und spr�tzt sein Blut selbst tropfenweis in Staub.
+
+Hohenzollern.
+Nun, Arthur, ich versichre dich--
+
+Der Prinz von Homburg (unwillig).  O Lieber!
+
+Hohenzollern.
+Der Marschall--
+
+Der Prinz von Homburg (ebenso).
+La� mich, Freund!
+
+Hohenzollern.  Zwei Worte h�r noch!
+Wenn die dir auch nichts gelten, schweig ich still.
+
+Der Prinz von Homburg (wendet sich wieder zu ihm).
+Du h�rst, ich wei� von allem.--Nun?  Was ists?
+
+Hohenzollern.
+Der Marschall hat, h�chst seltsam ists, soeben
+Das Todesurteil im Schlo� ihm �berreicht;
+Und er, statt wie das Urteil frei ihm stellt,
+Dich zu begnadigen, er hat befohlen,
+Da� es zur Unterschrift ihm kommen soll.
+
+Der Prinz von Homburg.
+Gleichviel.  Du h�rst.
+
+Hohenzollern.  Gleichviel?
+
+Der Prinz von Homburg.  Zur Unterschrift?
+
+Hohenzollern.
+Bei meiner Ehr!  Ich kann es dir versichern.
+
+Der Prinz von Homburg.
+Das Urteil?--Nein!  die Schrift--?
+
+Hohenzollern.  Das Todesurteil.
+
+Der Prinz von Homburg.
+--Wer hat dir das gesagt?
+
+Hohenzollern.  Er selbst, der Marschall!
+
+Der Prinz von Homburg.
+Wann?
+
+Hohenzollern.
+Eben jetzt.
+
+Der Prinz von Homburg.  Als er vom Herrn zur�ck kam?
+
+Hohenzollern.
+Als er vom Herrn die Treppe niederstieg!--
+Er f�gt' hinzu, da er best�rzt mich sah,
+Verloren sei noch nichts, und morgen sei
+Auch noch ein Tag, dich zu begnadigen;
+Doch seine bleiche Lippe widerlegte
+Ihr eignes Wort, und sprach: ich f�rchte, nein!
+
+Der Prinz von Homburg (steht auf).
+Er k�nnte--nein!  so ungeheuere
+Entschlie�ungen in seinem Busen w�lzen?
+Um eines Fehls, der Brille kaum bemerkbar,
+In dem Demanten, den er j�ngst empfing,
+In Staub den Geber treten?  Eine Tat,
+Die wei� den Dei von Algier brennt, mit Fl�geln,
+Nach Art der Cherubinen, silbergl�nzig,
+Den Sardanapel ziert, und die gesamte
+Altr�mische Tyrannenreihe, schuldlos,
+Wie Kinder, die am Mutterbusen sterben,
+Auf Gottes rechter Seit hin�berwirft?
+
+Hohenzollern (der gleichfalls aufgestanden).
+Du mu�t, mein Freund, dich davon �berzeugen.
+
+Der Prinz von Homburg.
+Und der Feldmarschall schwieg und sagte nichts?
+
+Hohenzollern.
+Was sollt er sagen?
+
+Der Prinz von Homburg.  O Himmel!  Meine Hoffnung!
+
+Hohenzollern.
+Hast du vielleicht je einen Schritt getan,
+Seis wissentlich, seis unbewu�t,
+Der seinem stolzen Geist zu nah getreten?
+
+Der Prinz von Homburg.
+Niemals!
+
+Hohenzollern.
+Besinne dich!
+
+Der Prinz von Homburg.  Niemals, beim Himmel!
+Mir war der Schatten seines Hauptes heilig.
+
+Hohenzollern.
+Arthur, sei mir nicht b�se, wenn ich zweifle.
+Graf Horn traf, der Gesandte Schwedens, ein,
+Und sein Gesch�ft geht, wie man mir versichert,
+An die Prinzessin von Oranien.
+Ein Wort, das die Kurf�rstin Tante sprach,
+Hat aufs empfindlichste den Herrn getroffen;
+Man sagt, das Fr�ulein habe schon gew�hlt.
+Bist du auf keine Weise hier im Spiele?
+
+Der Prinz von Homburg.
+O Gott!  Was sagst du mir?
+
+Hohenzollern.  Bist dus?  Bist dus?
+
+Der Prinz von Homburg.
+Ich bins, mein Freund; jetzt ist mir alles klar;
+Es st�rzt der Antrag ins Verderben mich:
+An ihrer Weigrung, wisse, bin ich schuld,
+Weil mir sich die Prinzessin anverlobt!
+
+Hohenzollern.
+Du unbesonnener Tor!  Was machtest du?
+Wie oft hat dich mein treuer Mund gewarnt?
+
+Der Prinz von Homburg.
+O Freund!  Hilf, rette mich!  Ich bin verloren.
+
+Hohenzollern.
+Ja, welch ein Ausweg f�hrt aus dieser Not?
+Willst du vielleicht die F�rstin Tante sprechen?
+
+Der Prinz von Homburg (wendet sich).
+--He, Wache!
+
+Reuter (im Hintergrunde).
+Hier!
+
+Der Prinz von Homburg.  Ruft euren Offizier!
+(Er nimmt eilig einen Mantel um von der Wand, setzt
+einen Federhut auf, der auf dem Tisch liegt.)
+
+Hohenzollern (indem er ihm beh�lflich ist).
+Der Schritt kann, klug gewandt, dir Rettung bringen.
+--Denn kann der Kurf�rst nur mit K�nig Karl,
+Um den bewu�ten Preis, den Frieden schlie�en,
+So sollst du sehn, sein Herz vers�hnt sich dir,
+Und gleich, in wenig Stunden, bist du frei.
+
+
+
+Zweiter Auftritt
+
+Der Offizier tritt auf.--Die Vorigen.
+
+
+Der Prinz von Homburg (zu dem Offizier).
+Stranz, �bergeben bin ich deiner Wache!
+Erlaub, in einem dringenden Gesch�ft,
+Da� ich auf eine Stunde mich entferne.
+
+Der Offizier.
+Mein Prinz, mir �bergeben bist du nicht.
+Die Order, die man mir erteilt hat, lautet,
+Dich gehn zu lassen frei, wohin du willst.
+
+Der Prinz von Homburg.
+Seltsam!--So bin ich kein Gefangener?
+
+Der Offizier.
+Vergib!--Dein Wort ist eine Fessel auch.
+
+Hohenzollern (bricht auf).
+Auch gut!  Gleichviel!--
+
+Der Prinz von Homburg.  Wohlan!  So leb denn wohl!
+
+Hohenzollern.
+Die Fessel folgt dem Prinzen auf dem Fu�e!
+
+Der Prinz von Homburg.
+Ich geh aufs Schlo� zu meiner Tante nur,
+Und bin in zwei Minuten wieder hier.
+
+(Alle ab.)
+
+
+
+Szene: Zimmer der Kurf�rstin.
+
+Dritter Auftritt
+
+Die Kurf�rstin und Natalie treten auf.
+
+
+Die Kurf�rstin.
+Komm, meine Tochter; komm!  Dir schl�gt die Stunde!
+Graf Gustav Horn, der schwedische Gesandte,
+Und die Gesellschaft, hat das Schlo� verlassen;
+Im Kabinett des Onkels seh ich Licht:
+Komm, leg das Tuch dir um und schleich dich zu ihm,
+Und sieh, ob du den Freund dir retten kannst.
+
+(Sie wollen gehen.)
+
+
+
+Vierter Auftritt
+
+Eine Hofdame tritt auf.--Die Vorigen.
+
+
+Die Hofdame.
+Prinz Homburg, gn�dge Frau, ist vor der T�re!
+--Kaum wei� ich wahrlich, ob ich recht gesehn?
+
+Kurf�rstin (betroffen).
+O Gott!
+
+Natalie.  Er selbst?
+
+Kurf�rstin.  Hat er denn nicht Arrest?
+
+Die Hofdame.
+Er steht in Federhut und Mantel drau�en,
+Und fleht, best�rzt und dringend um Geh�r
+
+Kurf�rstin (unwillig).
+Der Unbesonnene!  Sein Wort zu brechen!
+
+Natalie.
+Wer wei�, was ihn bedr�ngt.
+
+Kurf�rstin (nach einigem Bedenken).
+La�t ihn herein!
+
+(Sie selbst setzt sich auf einen Stuhl.)
+
+
+
+F�nfter Auftritt
+
+Der Prinz von Homburg tritt auf.--Die Vorigen.
+
+
+Der Prinz von Homburg.
+O meine Mutter!
+
+(Er l��t sich auf Knieen vor ihr nieder.)
+
+Kurf�rstin.  Prinz!  Was wollt Ihr hier?
+
+Der Prinz von Homburg.
+O la� mich deine Knie umfassen, Mutter!
+
+Kurf�rstin (mit unterdr�ckter R�hrung).
+Gefangen seid Ihr, Prinz, und kommt hieher!
+Was h�uft Ihr neue Schuld zu Euren alten?
+
+Der Prinz von Homburg (dringend).
+Wei�t du, was mir geschehn?
+
+Kurf�rstin.  Ich wei� um alles!
+Was aber kann ich, �rmste, f�r Euch tun?
+
+Der Prinz von Homburg.
+O meine Mutter, also sprachst du nicht,
+Wenn dich der Tod umschauerte, wie mich!
+Du scheinst mit Himmelskr�ften, rettenden,
+Du mir, das Fr�ulein, deine Fraun, begabt,
+Mir alles rings umher, dem Tro�knecht k�nnt ich,
+Dem schlechtesten, der deiner Pferde pflegt,
+Geh�ngt am Halse flehen: rette mich!
+Nur ich allein, auf Gottes weiter Erde,
+Bin h�lflos, ein Verla�ner, und kann nichts!
+
+Kurf�rstin.
+Du bist ganz au�er dir!  Was ist geschehn?
+
+Der Prinz von Homburg.
+Ach!  Auf dem Wege, der mich zu dir f�hrte,
+Sah ich das Grab, beim Schein der Fackeln, �ffnen,
+Das morgen mein Gebein empfangen soll.
+Sieh, diese Augen, Tante, die dich anschaun,
+Will man mit Nacht umschatten, diesen Busen
+Mit m�rderischen Kugeln mir durchbohren.
+Bestellt sind auf dem Markte schon die Fenster,
+Die auf das �de Schauspiel niedergehn,
+Und der die Zukunft, auf des Lebens Gipfel,
+Heut, wie ein Feenreich, noch �berschaut,
+Liegt in zwei engen Brettern duftend morgen,
+Und ein Gestein sagt dir von ihm: er war!
+
+(Die Prinzessin, welche bisher, auf die Schulter der Hofdame
+gelehnt, in der Ferne gestanden hat, l��t sich, bei diesen
+Worten, ersch�ttert an einen Tisch nieder und weint.)
+
+Kurf�rstin.
+Mein Sohn!  Wenns so des Himmels Wille ist,
+Wirst du mit Mut dich und mit Fassung r�sten!
+
+Der Prinz von Homburg.
+O Gottes Welt, o Mutter, ist so sch�n!
+La� mich nicht, fleh ich, eh die Stunde schl�gt,
+Zu jenen schwarzen Schatten niedersteigen!
+Mag er doch sonst, wenn ich gefehlt, mich strafen,
+Warum die Kugel eben mu� es sein?
+Mag er mich meiner �mter doch entsetzen,
+Mit Kassation, wenns das Gesetz so will,
+Mich aus dem Heer entfernen: Gott des Himmels!
+Seit ich mein Grab sah, will ich nichts, als leben,
+Und frage nichts mehr, ob es r�hmlich sei!
+
+Kurf�rstin.
+Steh auf, mein Sohn; steh auf!  Was sprichst du da?
+Du bist zu sehr ersch�ttert.  Fasse dich!
+
+Der Prinz von Homburg.
+Nicht, Tante, ehr als bis du mir gelobt,
+Mit einem Fu�fall, der mein Dasein rette,
+Flehnd seinem h�chsten Angesicht zu nahn!
+Dir �bergab zu Homburg, als sie starb,
+Die Hedwig mich, und sprach, die Jugendfreundin:
+Sei ihm die Mutter, wenn ich nicht mehr bin.
+Du beugtest tief ger�hrt, am Bette knieend,
+Auf ihre Hand dich und erwidertest:
+Er soll mir sein, als h�tt ich ihn erzeugt.
+Nun, jetzt erinnr' ich dich an solch ein Wort!
+Geh hin, als h�ttst du mich erzeugt, und sprich:
+Um Gnade fleh ich, Gnade!  La� ihn frei!
+Ach, und komm mir zur�ck und sprich: du bists!
+
+Kurf�rstin (weint).
+Mein teurer Sohn!  Es ist bereits geschehn!
+Doch alles, was ich flehte, war umsonst!
+
+Der Prinz von Homburg.
+Ich gebe jeden Anspruch auf an Gl�ck.
+Nataliens, das vergi� nicht, ihm zu melden,
+Begehr ich gar nicht mehr, in meinem Busen
+Ist alle Z�rtlichkeit f�r sie verl�scht.
+Frei ist sie, wie das Reh auf Heiden, wieder;
+Mit Hand und Mund, als w�r ich nie gewesen,
+Verschenken kann sie sich, und wenns Karl Gustav,
+Der Schweden K�nig, ist, so lob ich sie.
+Ich will auf meine G�ter gehn am Rhein,
+Da will ich bauen, will ich niederrei�en,
+Da� mir der Schwei� herabtrieft, s�en, ernten,
+Als w�rs f�r Weib und Kind, allein genie�en,
+Und, wenn ich erntete, von neuem s�en,
+Und in den Kreis herum das Leben jagen,
+Bis es am Abend niedersinkt und stirbt.
+
+Kurf�rstin.
+Wohlan!  Kehr jetzt nur heim in dein Gef�ngnis,
+Das ist die erste Fordrung meiner Gunst!
+
+Der Prinz von Homburg (steht auf und wendet sich zur
+Prinzessin).
+Du armes M�dchen, weinst!  Die Sonne leuchtet
+Heut alle deine Hoffnungen zu Grab!
+Entschieden hat dein erst Gef�hl f�r mich,
+Und deine Miene sagt mir, treu wie Gold,
+Du wirst dich nimmer einem andern weihn.
+Ja, was erschwing ich, �rmster, das dich tr�ste?
+Geh an den Main, rat ich, ins Stift der Jungfraun,
+Zu deiner Base Thurn, such in den Bergen
+Dir einen Knaben, blondgelockt wie ich,
+Kauf ihn mit Gold und Silber dir, dr�ck ihn
+An deine Brust und lehr ihn: Mutter!  stammeln,
+Und wenn er gr��er ist, so unterweis ihn,
+Wie man den Sterbenden die Augen schlie�t.
+Das ist das ganze Gl�ck, das vor dir liegt!
+
+Natalie (mutig und erhebend, indem sie aufsteht und ihre
+Hand in die seinige legt).
+Geh, junger Held, in deines Kerkers Haft,
+Und auf dem R�ckweg, schau noch einmal ruhig
+Das Grab dir an, das dir ge�ffnet wird!
+Es ist nichts finstrer und um nichts breiter,
+Als es dir tausendmal die Schlacht gezeigt!
+Inzwischen werd ich, in dem Tod dir treu,
+Ein rettend Wort f�r dich dem Oheim wagen:
+Vielleicht gelingt es mir, sein Herz zu r�hren,
+Und dich von allem Kummer zu befrein!
+
+(Pause.)
+
+Der Prinz von Homburg (faltet, in ihrem Anschaun verloren,
+die H�nde).
+H�ttst du zwei Fl�gel, Jungfrau, an den Schultern,
+F�r einen Engel wahrlich hielt ich dich!--
+O Gott, h�rt ich auch recht?  Du f�r mich sprechen?
+--Wo ruhte denn der K�cher dir der Rede,
+Bis heute, liebes Kind, da� du willst wagen,
+Den Herrn in solcher Sache anzugehn?--
+--O Hoffnungslicht, das pl�tzlich mich erquickt!
+
+Natalie.
+Gott wird die Pfeile mir, die treffen, reichen!
+Doch wenn der Kurf�rst des Gesetzes Spruch
+Nicht �ndern kann, nicht kann: wohlan!  so wirst du
+Dich tapfer ihm, der Tapfre, unterwerfen:
+Und der im Leben tausendmal gesiegt,
+Er wird auch noch im Tod zu siegen wissen!
+
+Kurf�rstin.
+Hinweg!--Die Zeit verstreicht, die g�nstig ist!
+
+Der Prinz von Homburg.
+Nun, alle Heilgen m�gen dich beschirmen!
+Leb wohl!  Leb wohl!  Und was du auch erringst,
+Verg�nne mir ein Zeichen vom Erfolg!
+
+(Alle ab.)
+
+
+
+
+Vierter Akt
+
+Szene: Zimmer des Kurf�rsten.
+
+
+
+Erster Auftritt
+
+Der Kurf�rst steht mit Papieren an einem, mit Lichtern
+besetzten Tisch.--Natalie tritt durch die mittlere T�r
+auf und l��t sich in einiger Entfernung, vor ihm nieder.
+Pause.
+
+
+Natalie (knieend).
+Mein edler Oheim, Friedrich von der Mark!
+
+Der Kurf�rst (legt die Papiere weg).
+Natalie!  (Er will sie erheben.)
+
+Natalie.  La�, la�!
+
+Der Kurf�rst.  Was willst du, Liebe?
+
+Natalie.
+Zu deiner F��e Staub, wies mir geb�hrt,
+F�r Vetter Homburg dich um Gnade flehn!
+Ich will ihn nicht f�r mich erhalten wissen--
+Mein Herz begehrt sein und gesteht es dir;
+Ich will ihn nicht f�r mich erhalten wissen--
+Mag er sich welchem Weib er will verm�hlen;
+Ich will nur, da� er da sei, lieber Onkel,
+F�r sich, selbst�ndig, frei und unabh�ngig,
+Wie eine Blume, die mir wohlgef�llt:
+Dies fleh ich dich, mein h�chster Herr und Freund,
+Und wei�, solch Flehen wirst du mir erh�ren.
+
+Der Kurf�rst (erhebt sie).
+Mein T�chterchen!  Was f�r ein Wort entfiel dir?
+--Wei�t du, was Vetter Homburg j�ngst verbrach?
+
+Natalie.
+O lieber Onkel!
+
+Der Kurf�rst.  Nun?  Verbrach er nichts?
+
+Natalie.
+O dieser Fehltritt, blond mit blauen Augen,
+Den, eh er noch gestammelt hat: ich bitte!
+Verzeihung schon vom Boden heben sollte:
+Den wirst du nicht mit F��en von dir weisen!
+Den dr�ckst du um die Mutter schon ans Herz,
+Die ihn gebar, und rufst: komm, weine nicht;
+Du bist so wert mir, wie die Treue selbst!
+Wars Eifer nicht, im Augenblick des Treffens,
+F�r deines Namens Ruhm, der ihn verf�hrt,
+Die Schranke des Gesetzes zu durchbrechen:
+Und ach!  die Schranke jugendlich durchbrochen,
+Trat er dem Lindwurm m�nnlich nicht aufs Haupt?
+Erst, weil er siegt', ihn kr�nzen, dann enthaupten,
+Das fordert die Geschichte nicht von dir;
+Das w�re so erhaben, lieber Onkel,
+Da� man es fast unmenschlich nennen k�nnte:
+Und Gott schuf noch nichts Milderes, als dich.
+
+Der Kurf�rst.
+Mein s��es Kind!  Sieh!  W�r ich ein Tyrann,
+Dein Wort, das f�hl ich lebhaft, h�tte mir
+Das Herz schon in der erznen Brust geschmerzt.
+Dich aber frag ich selbst: darf ich den Spruch
+Den das Gericht gef�llt, wohl unterdr�cken?--
+Was w�rde wohl davon die Folge sein?
+
+Natalie.
+F�r wen?  F�r dich?
+
+Der Kurf�rst.  F�r mich; nein!--Was?  F�r mich!
+Kennst du nichts H�hres, Jungfrau, als nur mich?
+Ist dir ein Heiligtum ganz unbekannt,
+Das in dem Lager, Vaterland sich nennt?
+
+Natalie.
+O Herr!  Was sorgst du doch?  Dies Vaterland!
+Das wird, um dieser Regung deiner Gnade,
+Nicht gleich, zerschellt in Tr�mmern, untergehn.
+Vielmehr, was du, im Lager auferzogen,
+Unordnung nennst, die Tat, den Spruch der Richter,
+In diesem Fall, willk�rlich zu zerrei�en,
+Erscheint mir als die sch�nste Ordnung erst:
+Das Kriegsgesetz, das wei� ich wohl, soll herrschen,
+Jedoch die lieblichen Gef�hle auch.
+Das Vaterland, das du uns gr�ndetest,
+Steht, eine feste Burg, mein edler Ohm:
+Das wird ganz andre St�rme noch ertragen,
+F�rwahr, als diesen unberufnen Sieg;
+Das wird sich ausbaun herrlich, in der Zukunft,
+Erweitern, unter Enkels Hand, versch�nern,
+Mit Zinnen, �ppig, feenhaft, zur Wonne
+Der Freunde, und zum Schrecken aller Feinde:
+Das braucht nicht dieser Bindung, kalt und �d,
+Aus eines Freundes Blut, um Onkels Herbst,
+Den friedlich pr�chtigen, zu �berleben.
+
+Der Kurf�rst.
+Denkt Vetter Homburg auch so?
+
+Natalie.  Vetter Homburg?
+
+Der Kurf�rst.
+Meint er, dem Vaterlande gelt es gleich,
+Ob Willk�r drin, ob drin die Satzung herrsche?
+
+Natalie.
+Ach, dieser J�ngling!
+
+Der Kurf�rst.  Nun?
+
+Natalie.  Ach, lieber Onkel!
+Hierauf zur Antwort hab ich nichts, als Tr�nen.
+
+Der Kurf�rst (betroffen).
+Warum, mein T�chterchen?  Was ist geschehn?
+
+Natalie (zaudernd).
+Der denkt jetzt nichts, als nur dies eine: Rettung!
+Den schaun die R�hren, an der Sch�tzen Schultern,
+So gr��lich an, da� �berrascht und schwindelnd,
+Ihm jeder Wunsch, als nur zu leben, schweigt:
+Der k�nnte, unter Blitz und Donnerschlag,
+Das ganze Reich der Mark versinken sehn,
+Da� er nicht fragen w�rde: was geschieht?
+--Ach, welch ein Heldenherz hast du geknickt!
+
+(Sie wendet sich und weint.)
+
+Der Kurf�rst (im �u�ersten Erstaunen).
+Nein, meine teuerste Natalie,
+Unm�glich, in der Tat?!--Er fleht um Gnade?
+
+Natalie.
+Ach, h�ttst du nimmer, nimmer ihn verdammt!
+
+Der Kurf�rst.
+Nein, sag: er fleht um Gnade?--Gott im Himmel,
+Was ist geschehn, mein liebes Kind?  Was weinst du?
+Du sprachst ihn?  Tu mir alles kund!  Du sprachst ihn?
+
+Natalie (an seine Brust gelehnt).
+In den Gem�chern eben jetzt der Tante,
+Wohin, im Mantel, schau, und Federhut
+Er, unterm Schutz der D�mmrung, kam geschlichen:
+Verst�rt und sch�chtern, heimlich, ganz unw�rdig,
+Ein unerfreulich, jammernsw�rdger Anblick!
+Zu solchem Elend, glaubt ich, s�nke keiner,
+Den die Geschicht als ihren Helden preist.
+Schau her, ein Weib bin ich, und schaudere
+Dem Wurm zur�ck, der meiner Ferse naht:
+Doch so zermalmt, so fassungslos, so ganz
+Unheldenm�tig tr�fe mich der Tod,
+In eines scheu�lichen Leun Gestalt nicht an!
+--Ach, was ist Menschengr��e, Menschenruhm!
+
+Der Kurf�rst (verwirrt).
+Nun denn, beim Gott des Himmels und der Erde,
+So fasse Mut, mein Kind; so ist er frei!
+
+Natalie.
+Wie, mein erlauchter Herr?
+
+Der Kurf�rst.  Er ist begnadigt!--
+Ich will sogleich das N�tg' an ihn erlassen.
+
+Natalie.
+O Liebster!  Ist es wirklich wahr?
+
+Der Kurf�rst.  Du h�rst!
+
+Natalie.
+Ihm soll vergeben sein?  Er stirbt jetzt nicht?
+
+Der Kurf�rst.
+Bei meinem Eid!  Ich schw�rs dir zu!  Wo werd ich
+Mich gegen solchen Kriegers Meinung setzen?
+Die h�chste Achtung, wie dir wohl bekannt,
+Trag ich im Innersten f�r sein Gef�hl:
+Wenn er den Spruch f�r ungerecht kann halten
+Kassier ich die Artikel: er ist frei!--
+
+(Er bringt ihr einen Stuhl.)
+
+Willst du, auf einen Augenblick, dich setzen?
+
+(Er geht an den Tisch, setzt sich und schreibt.)
+
+(Pause.)
+
+Natalie (f�r sich).
+Ach, Herz, was klopfst du also an dein Haus?
+
+Der Kurf�rst (indem er schreibt).
+Der Prinz ist dr�ben noch im Schlo�?
+
+Natalie.  Vergib!
+Er ist in seine Haft zur�ckgekehrt.--
+
+Der Kurf�rst (endigt und siegelt; hierauf kehrt er mit dem
+Brief wieder zur Prinzessin zur�ck).
+F�rwahr, mein T�chterchen, mein Nichtchen, weinte!
+Und ich, dem ihre Freude anvertraut,
+Mu�t ihrer holden Augen Himmel tr�ben!
+
+(Er legt den Arm um ihren Leib.)
+
+Willst du den Brief ihm selber �berbringen?
+
+Natalie.
+Ins Stadthaus!  Wie?
+
+Der Kurf�rst (dr�ckt ihr den Brief in die Hand).
+Warum nicht?--He!  Heiducken!
+
+(Heiducken treten auf.)
+
+Den Wagen vorgefahren!  Die Prinzessin
+Hat ein Gesch�ft beim Obersten von Homburg!
+
+
+(Die Heiducken treten wieder ab.)
+
+So kann er, f�r sein Leben, gleich dir danken.
+
+(Er umarmt sie.)
+
+Mein liebes Kind!  Bist du mir wieder gut?
+
+Natalie (nach einer Pause).
+Was deine Huld, o Herr, so rasch erweckt,
+Ich wei� es nicht und untersuch es nicht.
+Das aber, sieh, das f�hl ich in der Brust,
+Unedel meiner spotten wirst du nicht:
+Der Brief enthalte, was es immer sei,
+Ich glaube Rettung--und ich danke dir!
+
+(Sie k��t ihm die Hand.)
+
+Der Kurf�rst.
+Gewi�, mein T�chterchen, gewi�!  So sicher,
+Als sie in Vetter Homburgs W�nschen liegt.  (Ab.)
+
+
+
+Szene: Zimmer der Prinzessin.
+
+Zweiter Auftritt
+
+Prinzessin Natalie tritt auf.--Zwei Hofdamen und der
+Rittmeister, Graf Reu�, folgen.
+
+
+Natalie (eilfertig).
+Was bringt Ihr, Graf?--Von meinem Regiment?
+Ists von Bedeutung?  Kann ichs morgen h�ren?
+
+Graf Reu� (�berreicht ihr ein Schreiben).
+Ein Brief vom Obrist Kottwitz, gn�dge Frau!
+
+Natalie.
+Geschwind!  Gebt!  Was enth�lt er?
+(Sie er�ffnet ihn.)
+
+Graf Reu�.  Eine Bittschrift,
+Freim�tig, wie Ihr seht, doch ehrfurchtsvoll,
+An die Durchlaucht des Herrn, zu unsers F�hrers,
+Des Prinz von Homburg, Gunsten aufgesetzt.
+
+Natalie (liest).
+"Supplik, in Unterwerfung eingereicht,
+Vom Regiment, Prinzessin von Oranien."--
+
+(Pause.)
+
+Die Bittschrift ist von wessen Hand verfa�t?
+
+Graf Reu�.
+Wie ihrer Z�g unsichre Bildung schon
+Erraten l��t, vom Obrist Kottwitz selbst.--
+Auch steht sein edler Name obenan.
+
+Natalie.
+Die drei�ig Unterschriften, welche folgen--?
+
+Graf Reu�.
+Der Offiziere Namen, Gn�digste,
+Wie sie, dem Rang nach, Glied f�r Glied, sich folgen.
+
+Natalie.
+Und mir, mir wird die Bittschrift zugefertigt?
+
+Graf Reu�.
+Mein Fr�ulein, untert�nigst Euch zu fragen,
+Ob Ihr, als Chef, den ersten Platz, der offen,
+Mit Eurem Namen gleichfalls f�llen wollt.
+
+(Pause.)
+
+Natalie.
+Der Prinz zwar, h�r ich, soll, mein edler Vetter,
+Vom Herrn aus eignem Trieb, begnadigt werden,
+Und eines solchen Schritts bedarf es nicht.
+
+Graf Reu� (vergn�gt).
+Wie?  Wirklich?
+
+Natalie.  Gleichwohl will ich unter einem Blatte,
+Das, in des Herrn Entscheidung, klug gebraucht,
+Als ein Gewicht kann in die Waage fallen,
+Das ihm vielleicht, den Ausschlag einzuleiten,
+Sogar willkommen ist, mich nicht verweigern--
+Und, eurem Wunsch gem��, mit meinem Namen,
+Hiemit an eure Spitze setz ich mich.
+
+(Sie geht und will schreiben.)
+
+Graf Reu�.
+F�rwahr, uns lebhaft werdet Ihr verbinden!
+
+(Pause.)
+
+Natalie (wendet sich wieder zu ihm).
+Ich finde nur mein Regiment, Graf Reu�!
+Warum vermi� ich Bomsdorf K�rassiere,
+Und die Dragoner G�tz und Anhalt-Ple�?
+
+Graf Reu�.
+Nicht, wie vielleicht Ihr sorgt, weil ihre Herzen
+Ihm lauer schl�gen, als die unsrigen!--
+Es trifft ung�nstig sich f�r die Supplik,
+Da� Kottwitz fern in Arnstein kantoniert,
+Gesondert von den andern Regimentern,
+Die hier, bei dieser Stadt, im Lager stehn.
+Dem Blatt fehlt es an Freiheit, leicht und sicher,
+Die Kraft, nach jeder Richtung zu entfalten.
+
+Natalie.
+Gleichwohl f�llt, d�nkt mich, so das Blatt nur leicht?--
+Seid Ihr gewi�, Herr Graf, w�rt Ihr im Ort,
+Und spr�cht die Herrn, die hier versammelt sind,
+Sie schl�ssen gleichfalls dem Gesuch sich an?
+
+Graf Reu�.
+Hier in der Stadt, mein Fr�ulein?--Kopf f�r Kopf!
+Die ganze Reuterei verpf�ndete
+Mit ihren Namen sich; bei Gott, ich glaube,
+Es lie�e gl�cklich eine Subskription,
+Beim ganzen Heer der M�rker, sich er�ffnen!
+
+Natalie (nach einer Pause).
+Warum nicht schickt ihr Offiziere ab,
+Die das Gesch�ft im Lager hier betreiben?
+
+Graf Reu�.
+Vergebt!--Dem weigerte der Obrist sich!
+--Er w�nsche, sprach er, nichts zu tun, das man
+Mit einem �beln Namen taufen k�nnte.
+
+Natalie.
+Der wunderliche Herr!  Bald k�hn, bald zaghaft!--
+Zum Gl�ck trug mir der Kurf�rst, f�llt mir ein,
+Bedr�ngt von anderen Gesch�ften, auf,
+An Kottwitz, dem die Stallung dort zu eng,
+Zum Marsch hierher die Order zu erlassen!--
+Ich setze gleich mich nieder es zu tun.
+
+(Sie setzt sich und schreibt.)
+
+Graf Reu�.
+Beim Himmel, trefflich, Fr�ulein!  Ein Ereignis,
+Das g�nstger sich dem Blatt nicht treffen k�nnte!
+
+Natalie (w�hrend sie schreibt).
+Gebrauchts Herr Graf von Reu�, so gut Ihr k�nnt.
+
+(Sie schlie�t, und siegelt, und steht wieder auf.)
+
+Inzwischen bleibt, versteht, dies Schreiben noch,
+In Eurem Portefeuille; Ihr geht nicht eher
+Damit nach Arnstein ab, und gebts dem Kottwitz:
+Bis ich bestimmtem Auftrag Euch erteilt!
+
+(Sie gibt ihm das Schreiben.)
+
+Ein Heiduck (tritt auf).
+Der Wagen, Fr�ulein, auf des Herrn Befehl,
+Steht angeschirrt im Hof und wartet Euer!
+
+Natalie.
+So fahrt ihn vor!  Ich komme gleich herab!
+
+(Pause, in welcher sie gedankenvoll an den Tisch tritt, und
+ihre Handschuh anzieht.)
+
+Wollt Ihr zum Prinz von Homburg mich, Herr Graf,
+Den ich zu sprechen willens bin, begleiten?
+Euch steht ein Platz in meinem Wagen offen.
+
+Graf Reu�.
+Mein Fr�ulein, diese Ehre, in der Tat--!
+(Er bietet ihr den Arm.)
+
+Natalie (zu den Hofdamen).
+Folgt, meine Freundinnen!--Vielleicht da� ich
+Gleich, dort des Briefes wegen, mich entscheide!
+
+(Alle ab.)
+
+
+
+Szene: Gef�ngnis des Prinzen.
+
+Dritter Auftritt
+
+Der Prinz von Homburg h�ngt seinen Hut an die Wand, und l��t
+sich nachl�ssig auf ein, auf der Erde ausgebreitetes Kissen nieder.
+
+
+Der Prinz von Homburg.
+Das Leben nennt der Derwisch eine Reise,
+Und eine kurze.  Freilich!  Von zwei Spannen
+Diesseits der Erde nach zwei Spannen drunter.
+Ich will auf halbem Weg mich niederlassen!
+Wer heut sein Haupt noch auf der Schulter tr�gt,
+H�ngt es schon morgen zitternd auf den Leib,
+Und �bermorgen liegts bei seiner Ferse.
+Zwar, eine Sonne, sagt man, scheint dort auch,
+Und �ber buntre Felder noch, als hier:
+Ich glaubs; nur schade, da� das Auge modert,
+Das diese Herrlichkeit erblicken soll.
+
+
+
+Vierter Auftritt
+
+Prinzessin Natalie tritt auf, gef�hrt von dem Rittmeister,
+Graf Reu�.  Hofdamen folgen.  Ihnen voran tritt ein L�ufer mit
+einer Fackel.--Der Prinz von Homburg.
+
+
+L�ufer.
+Durchlaucht, Prinzessin von Oranien!
+
+Der Prinz von Homburg (steht auf).
+Natalie!
+
+L�ufer.  Hier ist sie selber schon.
+
+Natalie (verbeugt sich gegen den Grafen).
+La�t uns auf einen Augenblick allein!
+
+(Graf Reu� und der L�ufer ab.)
+
+Der Prinz von Homburg.
+Mein teures Fr�ulein!
+
+Natalie.  Lieber, guter Vetter!
+
+Der Prinz von Homburg (f�hrt sie vor).
+Nun sagt, was bringt Ihr?  Sprecht!  Wie stehts mit mir?
+
+Natalie.
+Gut.  Alles gut.  Wie ich vorher Euch sagte,
+Begnadigt seid Ihr, frei; hier ist ein Brief,
+Von seiner Hand, der es bekr�ftiget.
+
+Der Prinz von Homburg.
+Es ist nicht m�glich!  Nein!  Es ist ein Traum!
+
+Natalie.
+Lest, lest den Brief!  So werdet Ihrs erfahren.
+
+Der Prinz von Homburg (liest).
+"Mein Prinz von Homburg, als ich Euch gefangen setzte,
+Um Eures Angriffs, allzufr�h vollbracht,--
+Da glaubt ich nichts, als meine Pflicht zu tun;
+Auf Euren eignen Beifall rechnet ich.
+Meint Ihr, ein Unrecht sei Euch widerfahren,
+So bitt ich, sagts mir mit zwei Worten--
+Und gleich den Degen schick ich Euch zur�ck."
+
+(Natalie erbla�t.  Pause.  Der Prinz sieht sie fragend an.)
+
+Natalie (mit dem Ausdruck pl�tzlicher Freude).
+Nun denn, da stehts!  Zwei Worte nur bedarfs--!
+O lieber s��er Freund!  (Sie dr�ckt seine Hand.)
+
+Der Prinz von Homburg.
+Mein teures Fr�ulein!
+
+Natalie.
+O sel'ge Stunde, die mir aufgegangen!
+Hier, nehmt, hier ist die Feder; nehmt, und schreibt!
+
+Der Prinz von Homburg.
+Und hier die Unterschrift?
+
+Natalie.  Das F; sein Zeichen!
+O Bork!  O freut euch doch!--O seine Milde
+Ist uferlos, ich wu�t es, wie die See.--
+Schafft einen Stuhl nur her, er soll gleich schreiben.
+
+Der Prinz von Homburg.
+Er sagt, wenn ich der Meinung w�re--?
+
+Natalie (unterbricht ihn).  Freilich!
+Geschwind!  Setzt Euch!  Ich will es Euch diktieren.
+
+(Sie setzt ihm einen Stuhl hin.)
+
+Der Prinz von Homburg.
+--Ich will den Brief noch einmal �berlesen.
+
+Natalie (rei�t ihm den Brief aus der Hand).
+Wozu?--Saht Ihr die Gruft nicht schon im M�nster,
+Mit offnem Rachen, Euch entgegeng�hn'n?--
+Der Augenblick ist dringend.  Sitzt und schreibt!
+
+Der Prinz von Homburg (l�chelnd).
+Wahrhaftig, tut Ihr doch, als w�rde sie
+Mir, wie ein Panther, �bern Nacken kommen.
+
+(Er setzt sich, und nimmt eine Feder.)
+
+Natalie (wendet sich und weint).
+Schreibt, wenn Ihr mich nicht b�se machen wollt!
+
+(Der Prinz klingelt einem Bedienten; der Bediente tritt auf.)
+
+Der Prinz von Homburg.
+Papier und Feder, Wachs und Petschaft mir!
+
+(Der Bediente nachdem er diese Sachen zusammengesucht, geht
+wieder ab.  Der Prinz schreibt.--Pause.)
+
+Der Prinz von Homburg (indem er den Brief, den er angefangen
+hat, zerrei�t und unter den Tisch wirft).
+Ein dummer Anfang.  (Er nimmt ein anderes Blatt.)
+
+Natalie (hebt den Brief auf).
+Wie?  Was sagtet Ihr?
+Mein Gott, das ist ja gut; das ist vortrefflich!
+
+Der Prinz von Homburg (in den Bart).
+Pah!--Eines Schuftes Fassung, keines Prinzen.--
+Ich denk mir eine andre Wendung aus.
+
+(Pause.--Er greift nach des Kurf�rsten Brief, den die Prinzessin
+in der Hand h�lt.)
+
+Was sagt er eigentlich im Briefe denn?
+
+Natalie (ihn verweigernd).
+Nichts, gar nichts!
+
+Der Prinz von Homburg.
+Gebt!
+
+Natalie.  Ihr last ihn ja!
+
+Der Prinz von Homburg (erhascht ihn).  Wenn gleich!
+Ich will nur sehn, wie ich mich fassen soll.
+
+(Er entfaltet und �berliest ihn.)
+
+Natalie (f�r sich).
+O Gott der Welt!  Jetzt ists um ihn geschehn!
+
+Der Prinz von Homburg (betroffen).
+Sieh da!  H�chst wunderbar, so wahr ich lebe!
+--Du �bersahst die Stelle wohl?
+
+Natalie.  Nein!--Welche?
+
+Der Prinz von Homburg.
+Mich selber ruft er zur Entscheidung auf!
+
+Natalie.
+Nun, ja!
+
+Der Prinz von Homburg.
+Recht wacker, in der Tat, recht w�rdig!
+Recht, wie ein gro�es Herz sich fassen mu�!
+
+Natalie.
+O seine Gro�mut, Freund, ist ohne Grenzen!
+--Doch nun tu auch das Deine du, und schreib,
+Wie ers begehrt; du siehst, es ist der Vorwand,
+Die �u�re Form nur, deren es bedarf:
+Sobald er die zwei Wort in H�nden hat,
+Flugs ist der ganze Streit vorbei!
+
+Der Prinz von Homburg (legt den Brief weg).
+Nein, Liebe!
+Ich will die Sach bis morgen �berlegen.
+
+Natalie.
+Du Unbegreiflicher!  Welch eine Wendung?
+Warum?  Weshalb?
+
+Der Prinz von Homburg (erhebt sich leidenschaftlich vom Stuhl).
+Ich bitte, frag mich nicht!
+Du hast des Briefes Inhalt nicht erwogen!
+Da� er mir unrecht tat, wies mir bedingt wird,
+Das kann ich ihm nicht schreiben; zwingst du mich,
+Antwort, in dieser Stimmung, ihm zu geben,
+Bei Gott!  so setz ich hin, du tust mir recht!
+(Er l��t sich mit verschr�nkten Armen wieder an den Tisch nieder
+und sieht in den Brief.)
+
+Natalie (bleich).
+Du Rasender!  Was f�r ein Wort sprachst du?
+
+(Sie beugt sich ger�hrt �ber ihn.)
+
+Der Prinz von Homburg (dr�ckt ihr die Hand).
+La�, einen Augenblick!  Mir scheint--
+
+(Er sinnt.)
+
+Natalie.  Was sagst du?
+
+Der Prinz von Homburg.
+Gleich werd ich wissen, wie ich schreiben soll.
+
+Natalie (schmerzvoll).
+Homburg!
+
+Der Prinz von Homburg (nimmt die Feder).
+Ich h�r!  Was gibts?
+
+Natalie.  Mein s��er Freund!
+Die Regung lob ich, die dein Herz ergriff.
+Das aber schw�r ich dir: das Regiment
+Ist kommandiert, das dir Versenktem morgen,
+Aus Karabinern, �berm Grabesh�gel,
+Vers�hnt die Totenfeier halten soll.
+Kannst du dem Rechtsspruch, edel wie du bist,
+Nicht widerstreben, nicht ihn aufzuheben,
+Tun, wie ers hier in diesem Brief verlangt:
+Nun so versichr' ich dich, er fa�t sich dir
+Erhaben, wie die Sache Steht, und l��t
+Den Spruch mitleidsvoll morgen dir vollstrecken!
+
+Der Prinz von Homburg (schreibend).
+Gleichviel!
+
+Natalie.  Gleichviel?
+
+Der Prinz von Homburg.  Er handle, wie er darf;
+Mir ziemts hier zu verfahren, wie ich soll!
+
+Natalie (tritt erschrocken n�her).
+Du Ungeheuerster, ich glaub, du schriebst?
+
+Der Prinz von Homburg (schlie�t).
+"Homburg; gegeben, Fehrbellin, am zw�lften--";
+Ich bin schon fertig.--Franz!
+
+(Er kuvertiert und siegelt den Brief.)
+
+Natalie.  O Gott im Himmel!
+
+Der Prinz von Homburg (steht auf).
+Bring diesen Brief aufs Schlo�, zu meinem Herrn!
+
+(Der Bediente ab.)
+
+Ich will ihm, der so w�rdig vor mir steht,
+Nicht, ein Unw�rdger, gegen�ber stehn!
+Schuld ruht, bedeutende, mir auf der Brust,
+Wie ich es wohl erkenne; kann er mir
+Vergeben nur, wenn ich mit ihm drum streite,
+So mag ich nichts von seiner Gnade wissen.
+
+Natalie (k��t ihn).
+Nimm diesen Ku�!--Und bohrten gleich zw�lf Kugeln
+Dich jetzt in Staub, nicht halten k�nnt ich mich,
+Und jauchzt und weint und spr�che: du gef�llst mir!
+--Inzwischen, wenn du deinem Herzen folgst,
+Ists mir erlaubt, dem meinigen zu folgen.
+--Graf Reu�!
+
+(Der L�ufer �ffnet die T�r; der Graf tritt auf.)
+
+Graf Reu�.  Hier!
+
+Natalie.  Auf, mit Eurem Brief,
+Nach Arnstein hin, zum Obersten von Kottwitz!
+Das Regiment bricht auf, der Herr befiehlts;
+Hier, noch vor Mitternacht, erwart ich es!
+
+(Alle ab.)
+
+
+
+
+F�nfter Akt
+
+Szene: Saal im Schlo�.
+
+
+
+Erster Auftritt
+
+Der Kurf�rst kommt halbentkleidet aus dem Nebenkabinett, ihm
+folgen Graf Truch�, Graf Hohenzollern, und der Rittmeister von
+der Golz.--Pagen mit Lichtern.
+
+
+Der Kurf�rst.
+Kottwitz?  Mit den Dragonern der Prinzessin?
+Hier in der Stadt?
+
+Graf Truch� (�ffnet das Fenster).
+Ja, mein erlauchter Herr!
+Hier steht er vor dem Schlosse aufmarschiert.
+
+Der Kurf�rst.
+Nun?--Wollt ihr mir, ihr Herrn, dies R�tsel l�sen?
+--Wer rief ihn her?
+
+Hohenzollern.  Das wei� ich nicht, mein Kurf�rst.
+
+Der Kurf�rst.
+Der Standort, den ich ihm bestimmt, hei�t Arnstein!
+Geschwind!  Geh einer hin, und bring ihn her!
+
+Golz.
+Er wird sogleich, o Herr, vor dir erscheinen!
+
+Der Kurf�rst.
+Wo ist er?
+
+Golz.  Auf dem Rathaus, wie ich h�re,
+Wo die gesamte Generalit�t,
+Die deinem Hause dient, versammelt ist.
+
+Der Kurf�rst.
+Weshalb?  Zu welchem Zweck?
+
+Hohenzollern.--Das wei� ich nicht.
+
+Graf Truch�.
+Erlaubt mein F�rst und Herr, da� wir uns gleichfalls,
+Auf einen Augenblick, dorthin verf�gen?
+
+Der Kurf�rst.
+Wohin?  Aufs Rathaus?
+
+Hohenzollern.  In der Herrn Versammlung!
+Wir gaben unser Wort, uns einzufinden.
+
+Der Kurf�rst (nach einer kurzen Pause).
+--Ihr seid entlassen!
+
+Golz.  Kommt, ihr werten Herrn!
+
+(Die Offiziere ab.)
+
+
+
+Zweiter Auftritt
+
+Der Kurf�rst.--Sp�terhin zwei Bediente.
+
+
+Der Kurf�rst.
+Seltsam!--Wenn ich der Dei von Tunis w�re,
+Schl�g ich bei so zweideutgem Vorfall, L�rm.
+Die seidne Schnur, legt ich auf meinen Tisch;
+Und vor das Tor, verrammt mit Palisaden,
+F�hrt ich Kanonen und Haubitzen auf.
+Doch weils Hans Kottwitz aus der Priegnitz ist,
+Der sich mir naht, willk�rlich, eigenm�chtig,
+So will ich mich auf m�rksche Weise fassen:
+Von den drei Locken, die man silbergl�nzig,
+Auf seinem Sch�del sieht, fa� ich die eine,
+Und f�hr ihn still, mit seinen zw�lf Schwadronen,
+Nach Arnstein, in sein Hauptquartier, zur�ck.
+Wozu die Stadt aus ihrem Schlafe wecken?
+
+(Nachdem er wieder einen Augenblick ans Fenster getreten,
+geht er an den Tisch und klingelt; zwei Bediente treten auf.)
+
+Der Kurf�rst.
+Spring doch herab und frag, als w�rs f�r dich,
+Was es im Stadthaus gibt?
+
+Erster Bedienter.  Gleich, mein Gebieter!  (Ab.)
+
+Der Kurf�rst (zu dem andern).
+Du aber geh und bring die Kleider mir!
+
+(Der Bediente geht und bringt sie; der Kurf�rst kleidet sich
+an und legt seinen f�rstlichen Schmuck an.)
+
+
+
+Dritter Auftritt
+
+Feldmarschall D�rfling tritt auf.--Die Vorigen.
+
+
+Feldmarschall.
+Rebellion, mein Kurf�rst!
+
+Der Kurf�rst (noch im Ankleiden besch�ftigt).
+Ruhig, ruhig!--
+Es ist verha�t mir, wie dir wohl bekannt,
+In mein Gemach zu treten, ungemeldet!
+--Was willst du?
+
+Feldmarschall.  Herr, ein Vorfall--du vergibst!
+F�hrt von besonderem Gewicht mich her.
+Der Obrist Kottwitz r�ckte, unbeordert,
+Hier in die Stadt; an hundert Offiziere
+Sind auf dem Rittersaal um ihn versammelt;
+Es geht ein Blatt in ihrem Kreis herum,
+Bestimmt in deine Rechte einzugreifen.
+
+Der Kurf�rst.
+Es ist mir schon bekannt!--Was wird es sein,
+Als eine Regung zu des Prinzen Gunsten,
+Dem das Gesetz die Kugel zuerkannte.
+
+Feldmarschall.
+So ists!  Beim h�chsten Gott!  Du hasts getroffen!
+
+Der Kurf�rst.
+Nun gut!--So ist mein Herz in ihrer Mitte.
+
+Feldmarschall.
+Man sagt, sie wollten heut, die Rasenden!
+Die Bittschrift noch im Schlo� dir �berreichen,
+Und falls, mit unvers�hntem Grimm, du auf
+Den Spruch beharrst--kaum wag ichs dir zu melden?--
+Aus seiner Haft ihn mit Gewalt befrein!
+
+Der Kurf�rst (finster).
+Wer hat dir das gesagt?
+
+Feldmarschall.  Wer mir das sagte?
+Die Dame Retzow, der du trauen kannst,
+Die Base meiner Frau!  Sie war heut abend
+In ihres Ohms, des Drost von Retzow, Haus,
+Wo Offiziere, die vom Lager kamen,
+Laut diesen dreisten Anschlag �u�erten.
+
+Der Kurf�rst.
+Das mu� ein Mann mir sagen, eh ichs glaube!
+Mit meinem Stiefel, vor sein Haus gesetzt,
+Sch�tz ich vor diesen jungen Helden ihn!
+
+Feldmarschall.
+Herr, ich beschw�re dich, wenns �berall
+Dein Wille ist, den Prinzen zu begnadigen:
+Tus, eh ein h�chstverha�ter Schritt geschehn!
+Jedwedes Heer liebt, wei�t du, seinen Helden;
+La� diesen Funken nicht, der es durchgl�ht,
+Ein heillos fressend Feuer um sich greifen.
+Kottwitz wei� und die Schar, die er versammelt,
+Noch nicht, da� dich mein treues Wort gewarnt;
+Schick, eh er noch erscheint, das Schwert dem Prinzen,
+Schicks ihm, wie ers zuletzt verdient, zur�ck:
+Du gibst der Zeitung eine Gro�tat mehr,
+Und eine Untat weniger zu melden.
+
+Der Kurf�rst.
+Da m��t ich noch den Prinzen erst befragen,
+Den Willk�r nicht, wie dir bekannt sein wird,
+Gefangen nahm und nicht befreien kann.--
+Ich will die Herren, wenn sie kommen, sprechen.
+
+Feldmarschall (f�r sich).
+Verw�nscht!--Er ist jedwedem Pfeil gepanzert.
+
+
+
+Vierter Auftritt
+
+Zwei Heiducken treten auf; der eine h�lt einen Brief in der
+Hand.--Die Vorigen.
+
+
+Erster Heiduck.
+Der Obrist Kottwitz, Hennings, Truch� und andre,
+Erbitten sich Geh�r!
+
+Der Kurf�rst (zu dem anderen, indem er ihm den Brief aus der
+Hand nimmt).
+Vom Prinz von Homburg?
+
+Zweiter Heiduck.
+Ja, mein erlauchter Herr!
+
+Der Kurf�rst.  Wer gab ihn dir?
+
+Zweiter Heiduck.
+Der Schweizer, der am Tor die Wache h�lt,
+Dem ihn des Prinzen J�ger eingeh�ndigt.
+
+Der Kurf�rst (stellt sich an den Tisch und liest; nachdem
+dies geschehen ist, wendet er sich und ruft einen Pagen).
+Prittwitz!--Das Todesurteil bring mir her!
+--Und auch den Pa�, f�r Gustav Graf von Horn,
+Den schwedischen Gesandten, will ich haben!
+
+(Der Page ab; zu dem ersten Heiducken.)
+
+Kottwitz, und sein Gefolg; sie sollen kommen!
+
+
+
+F�nfter Auftritt
+
+Obrist Kottwitz und Obrist Hennings, Graf Truch�, Graf
+Hohenzollern und Sparren, Graf Reu�, Rittmeister von der
+Golz und Stranz, und andre Obristen und Offiziere treten
+auf.--Die Vorigen.
+
+
+Obrist Kottwitz (mit der Bittschrift).
+Verg�nne, mein erhabner Kurf�rst, mir,
+Da� ich, im Namen des gesamten Heers,
+In Demut dies Papier dir �berreiche!
+
+Der Kurf�rst.
+Kottwitz, bevor ichs nehme, sag mir an,
+Wer hat dich her nach dieser Stadt gerufen?
+
+Kottwitz (sieht ihn an).
+Mit den Dragonern?
+
+Der Kurf�rst.  Mit dem Regiment!--
+Arnstein hatt ich zum Sitz dir angewiesen.
+
+Kottwitz.
+Herr!  Deine Order hat mich her gerufen.
+
+Der Kurf�rst.
+Wie?--Zeig die Order mir.
+
+Kottwitz.  Hier, mein Gebieter.
+
+Der Kurf�rst (liest).
+"Natalie, gegeben Fehrbellin;
+In Auftrag meines h�chsten Oheims Friedrich."
+
+Kottwitz.
+Bei Gott, mein F�rst und Herr, ich will nicht hoffen,
+Da� dir die Order fremd?
+
+Der Kurf�rst.  Nicht, nicht!  Versteh mich--
+Wer ists, der dir die Order �berbracht?
+
+Kottwitz.
+Graf Reu�!
+
+Der Kurf�rst (nach einer augenblicklichen Pause).
+Vielmehr, ich hei�e dich willkommen!--
+Dem Obrist Homburg, dem das Recht gesprochen,
+Bist du bestimmt, mit deinen zw�lf Schwadronen,
+Die letzten Ehren morgen zu erweisen.
+
+Kottwitz (erschrocken).
+Wie, mein erlauchter Herr?!
+
+Der Kurf�rst (indem er ihm die Order wiedergibt).
+Das Regiment
+Steht noch in Nacht und Nebel, vor dem Schlo�?
+
+Kottwitz.
+Die Nacht, vergib--
+
+Der Kurf�rst.  Warum r�ckt es nicht ein?
+
+Kottwitz.
+Mein F�rst, es r�ckte ein; es hat Quartiere,
+Wie du befahlst, in dieser Stadt bezogen!
+
+Der Kurf�rst (mit einer Wendung gegen das Fenster).
+Wie?  Vor zwei Augenblicken--�?  Nun, beim Himmel,
+So hast du St�lle rasch dir ausgemittelt!--
+Um so viel besser denn!  Gegr��t noch einmal!
+Was f�hrt dich her, sag an?  Was bringst du Neues?
+
+Kottwitz.
+Herr, diese Bittschrift deines treuen Heers.
+
+Der Kurf�rst.
+Gib!
+
+Kottwitz.  Doch das Wort, das deiner Lipp entfiel,
+Schl�gt alle meine Hoffnungen zu Boden.
+
+Der Kurf�rst.
+So hebt ein Wort auch wiederum sie auf.
+
+(Er liest.)
+
+"Bittschrift, die allerh�chste Gnad erflehend,
+F�r unsern F�hrer, peinlich angeklagt,
+Den General, Prinz Friedrich Hessen-Homburg."
+
+(Zu den Offizieren.)
+
+Ein edler Nam, ihr Herrn!  Unw�rdig nicht,
+Da� ihr, in solcher Zahl, euch ihm verwendet!
+
+(Er sieht wieder in das Blatt.)
+
+Die Bittschrift ist verfa�t von wem?
+
+Kottwitz.  Von mir.
+
+Der Kurf�rst.
+Der Prinz ist von dem Inhalt unterrichtet?
+
+Kottwitz.
+Nicht auf die fernste Weis!  In unsrer Mitte
+Ist sie empfangen und vollendet worden.
+
+Der Kurf�rst.
+Gebt mir auf einen Augenblick Geduld.
+(Er tritt an den Tisch und durchsieht die Schrift.--Lange Pause.)
+Hm!  Sonderbar!--Du nimmst, du alter Krieger,
+Des Prinzen Tat in Schutz?  Rechtfertigst ihn,
+Da� er auf Wrangel st�rzte, unbeordert?
+
+Kottwitz.
+Ja, mein erlauchter Herr; das tut der Kottwitz!
+
+Der Kurf�rst.
+Der Meinung auf dem Schlachtfeld warst du nicht.
+
+Kottwitz.
+Das hatt ich schlecht erwogen, mein Gebieter!
+Dem Prinzen, der den Krieg gar wohl versteht,
+H�tt ich mich ruhig unterwerfen sollen.
+Die Schweden wankten, auf dem linken Fl�gel,
+Und auf dem rechten wirkten sie Sukkurs;
+H�tt er auf deine Order warten wollen,
+Sie fa�ten Posten wieder, in den Schluchten,
+Und nimmermehr h�ttst du den Sieg erk�mpft
+
+Der Kurf�rst.
+So!--Das beliebt dir so vorauszusetzen!
+Den Obrist Hennings hatt ich abgeschickt,
+Wie dir bekannt, den schwedschen Br�ckenkopf,
+Der Wrangels R�cken deckt, hinwegzunehmen.
+Wenn ihr die Order nicht gebrochen h�ttet,
+Dem Henning w�re dieser Schlag gegl�ckt;
+Die Br�cken h�tt er, in zwei Stunden Frist,
+In Brand gesteckt, am Rhyn sich aufgepflanzt,
+Und Wrangel w�re ganz, mit Stumpf und Stiel,
+In Gr�ben und Morast, vernichtet worden.
+
+Kottwitz.
+Es ist der St�mper Sache, nicht die deine,
+Des Schicksals h�chsten Kranz erringen wollen;
+Du nahmst, bis heut, noch stets, was es dir bot.
+Der Drachen ward, der dir die Marken trotzig
+Verw�stete, mit blutgem Hirn verjagt;
+Was konnte mehr, an einem Tag, geschehn?
+Was liegt dir dran, ob er zwei Wochen noch
+Ersch�pft im Sand liegt, und die Wunde heilt?
+Die Kunst jetzt lernten wir, ihn zu besiegen,
+Und sind voll Lust, sie f�rder noch zu �ben:
+La� uns den Wrangel r�stig, Brust an Brust,
+Noch einmal treffen, so vollendet sichs,
+Und in die Ostsee ganz fliegt er hinab!
+Rom ward an einem Tage nicht erbaut.
+
+Der Kurf�rst.
+Mit welchem Recht, du Tor, erhoffst du das,
+Wenn auf dem Schlachtenwagen, eigenm�chtig,
+Mir in die Z�gel jeder greifen darf?
+Meinst du das Gl�ck werd immerdar, wie j�ngst,
+Mit einem Kranz den Ungehorsam lohnen?
+Den Sieg nicht mag ich, der, ein Kind des Zufalls,
+Mir von der Bank f�llt; das Gesetz will ich,
+Die Mutter meiner Krone, aufrecht halten,
+Die ein Geschlecht von Siegen mir erzeugt!
+
+Kottwitz.
+Herr, das Gesetz, das h�chste, oberste,
+Das wirken soll, in deiner Feldherrn Brust,
+Das ist der Buchstab deines Willens nicht;
+Das ist das Vaterland, das ist die Krone,
+Das bist du selber, dessen Haupt sie tr�gt.
+Was k�mmert dich, ich bitte dich, die Regel,
+Nach der der Feind sich schl�gt: wenn er nur nieder
+Vor dir, mit allen seinen Fahnen, sinkt?
+Die Regel, die ihn schl�gt, das ist die h�chste!
+Willst du das Heer, das gl�hend an dir h�ngt,
+Zu einem Werkzeug machen, gleich dem Schwerte,
+Das tot in deinem goldnen G�rtel ruht?
+Der �rmste Geist, der in den Sternen fremd,
+Zuerst solch eine Lehre gab!  Die schlechte,
+Kurzsichtge Staatskunst, die, um eines Falles,
+Da die Empfindung sich verderblich zeigt,
+Zehn andere vergi�t, im Lauf der Dinge,
+Da die Empfindung einzig retten kann!
+Sch�tt ich mein Blut dir, an dem Tag der Schlacht,
+F�r Sold, seis Geld, seis Ehre, in den Staub?
+Beh�te Gott, dazu ist es zu gut!
+Was!  Meine Lust hab, meine Freude ich,
+Frei und f�r mich im Stillen, unabh�ngig,
+An deiner Trefflichkeit und Herrlichkeit,
+Am Ruhm und Wachstum deines gro�en Namens!
+Das ist der Lohn, dem sich mein Herz verkauft!
+Gesetzt, um dieses unberufnen Sieges,
+Br�chst du dem Prinzen jetzt den Stab; und ich,
+Ich tr�fe morgen, gleichfalls unberufen,
+Den Sieg wo irgend zwischen Wald und Felsen,
+Mit den Schwadronen, wie ein Sch�fer, an:
+Bei Gott, ein Schelm m��t ich doch sein, wenn ich
+Des Prinzen Tat nicht munter wiederholte.
+Und spr�chst du, das Gesetzbuch in der Hand:
+"Kottwitz, du hast den Kopf verwirkt!" so sagt ich:
+"Das wu�t ich Herr; da nimm ihn hin, hier ist er:
+Als mich ein Eid an deine Krone band,
+Mit Haut und Haar, nahm ich den Kopf nicht aus,
+Und nichts dir g�b ich, was nicht dein geh�rte!"
+
+Der Kurf�rst.
+Mit dir, du alter, wunderlicher Herr,
+Werd ich nicht fertig!  Es besticht dein Wort
+Mich, mit arglistger Rednerkunst gesetzt,
+Mich, der, du wei�t, dir zugetan, und einen
+Sachwalter ruf ich mir, den Streit zu enden,
+Der meine Sache f�hrt!
+
+(Er klingelt, ein Bedienter tritt auf.)
+
+Der Prinz von Homburg!
+Man f�hr aus dem Gef�ngnis ihn hierher!
+
+(Der Bediente ab.)
+
+Der wird dich lehren, das versichr' ich dich,
+Was Kriegszucht und Gehorsam sei!  Ein Schreiben
+Schickt' er mir mindstens zu, das anders lautet,
+Als der spitzf�ndge Lehrbegriff der Freiheit,
+Den du hier, wie ein Knabe, mir entfaltet.
+
+(Er stellt sich wieder an den Tisch und liest.)
+
+Kottwitz (erstaunt).
+Wen holt--?  Wen ruft--?
+
+Obrist Hennings.  Ihn selber?
+
+Graf Truch�.  Nein unm�glich!
+
+(Die Offiziere treten unruhig zusammen und sprechen mit einander.)
+
+Der Kurf�rst.
+Von wem ist diese zweite Zuschrift hier?
+
+Hohenzollern.
+Von mir, mein F�rst!
+
+Der Kurf�rst (liest).  "Beweis, da� Kurf�rst Friedrich
+Des Prinzen Tat selbst"--�--Nun, beim Himmel!
+Das nenn ich keck!
+Was!  Die Veranlassung, du w�lzest sie des Frevels,
+Den er sich in der Schlacht erlaubt, auf mich?
+
+Hohenzollern.
+Auf dich, mein Kurf�rst; ja; ich, Hohenzollern!
+
+Der Kurf�rst.
+Nun denn, bei Gott, das �bersteigt die Fabel!
+Der eine zeigt mir, da� nicht schuldig er,
+Der andre gar mir, da� der Schuldge ich!--
+Womit wirst solchen Satz du mir beweisen?
+
+Hohenzollern.
+Du wirst dich jener Nacht, o Herr, erinnern,
+Da wir den Prinzen, tief versenkt im Schlaf,
+Im Garten unter den Plantanen fanden:
+Vom Sieg des n�chsten Tages mocht er tr�umen,
+Und einen Lorbeer hielt er in der Hand.
+Du, gleichsam um sein tiefstes Herz zu pr�fen,
+Nahmst ihm den Kranz hinweg, die Kette schlugst du,
+Die dir vom Hals h�ngt, l�chelnd um das Laub;
+Und reichtest Kranz und Kette, so verschlungen,
+Dem Fr�ulein, deiner edlen Nichte, hin.
+Der Prinz steht, bei so wunderbarem Anblick,
+Err�tend auf; so s��e Dinge will er,
+Und von so lieber Hand gereicht, ergreifen:
+Du aber, die Prinzessin r�ckw�rts f�hrend,
+Entziehst dich eilig ihm; die T�r empf�ngt dich,
+Jungfrau und Kett und Lorbeerkranz verschwinden,
+Und einsam--einen Handschuh in der Hand,
+Den er, nicht wei� er selber, wem?  entrissen--
+Im Scho� der Mitternacht, bleibt er zur�ck.
+
+Der Kurf�rst.
+Welch einen Handschuh?
+
+Hohenzollern.  Herr, la� mich vollenden!
+Die Sache war ein Scherz; jedoch von welcher
+Bedeutung ihm, das lernt ich bald erkennen;
+Denn, da ich, durch des Garten hintre Pforte,
+Jetzt zu ihm schleich, als w�rs von ohngef�hr,
+Und ihn erweck, und er die Sinne sammelt:
+Gie�t die Erinnrung Freude �ber ihn,
+Nichts R�hrenders, f�rwahr, kannst du dir denken.
+Den ganzen Vorfall, gleich, als w�rs ein Traum,
+Tr�gt er, bis auf den kleinsten Zug, mir vor;
+So lebhaft, meint' er, hab er nie getr�umt
+Und fester Glaube baut sich in ihm auf,
+Der Himmel hab ein Zeichen ihm gegeben:
+Es werde alles, was sein Geist gesehn,
+Jungfrau und Lorbeerkranz und Ehrenschmuck,
+Gott, an dem Tag der n�chsten Schlacht, ihm schenken.
+
+Der Kurf�rst.
+Hm!  Sonderbar!--Und jener Handschuh--?
+
+Hohenzollern.  Ja,--
+Dies St�ck des Traums, das ihm verk�rpert ward,
+Zerst�rt zugleich und kr�ftigt seinen Glauben.
+Zuerst mit gro�em Aug sieht er ihn an--
+Wei� ist die Farb, er scheint nach Art und Bildung,
+Von einer Dame Hand--: doch weil er keine
+Zu Nacht, der er entnommen k�nnte sein,
+Im Garten sprach,--durchkreuzt, in seinem Dichten,
+Von mir, der zur Parol' aufs Schlo� ihn ruft,
+Vergi�t er, was er nicht begreifen kann,
+Und steckt zerstreut den Handschuh ins Kollett.
+
+Der Kurf�rst.
+Nun?  Drauf?
+
+Hohenzollern.  Drauf tritt er nun mit Stift und Tafel,
+Ins Schlo�, aus des Feldmarschalls Mund, in frommer
+Aufmerksamkeit, den Schlachtbefehl zu h�ren;
+Die F�rstin und Prinzessin, reisefertig
+Befinden grad im Herrensaal sich auch.
+Doch wer ermi�t das ungeheure Staunen,
+Das ihn ergreift, da die Prinze� den Handschuh,
+Den er sich ins Kollett gesteckt, vermi�t.
+Der Marschall ruft, zu wiederholten Malen:
+Herr Prinz von Homburg!  Was befiehlt mein Marschall?
+Entgegnet er, und will die Sinne sammeln;
+Doch er, von Wundern ganz umringt--�: der Donner
+Des Himmels h�tte niederfallen k�nnen!--!  (Er h�lt inne.)
+
+Der Kurf�rst.
+Wars der Prinzessin Handschuh?
+
+Hohenzollern.  Allerdings!
+
+(Der Kurf�rst f�llt in Gedanken.)
+
+Hohenzollern (f�hrt fort).
+Ein Stein ist er, den Bleistift in der Hand,
+Steht er zwar da und scheint ein Lebender;
+Doch die Empfindung, wie durch Zauberschl�ge,
+In ihm verl�scht; und erst am andern Morgen,
+Da das Gesch�tz schon in den Reihen donnert,
+Kehrt er ins Dasein wieder und befragt mich:
+Liebster, was hat schon D�rfling, sag mirs, gestern
+Beim Schlachtbefehl, mich treffend, vorgebracht?
+
+Feldmarschall.
+Herr, die Erz�hlung, wahrlich, unterschreib ich!
+Der Prinz, erinnr' ich mich, von meiner Rede
+Vernahm kein Wort; zerstreut sah ich ihn oft,
+Jedoch in solchem Grad abwesend ganz
+Aus seiner Brust, noch nie, als diesen Tag.
+
+Der Kurf�rst.
+Und nun, wenn ich dich anders recht verstehe,
+T�rmst du, wie folgt, ein Schlu�geb�u mir auf:
+H�tt ich, mit dieses jungen Tr�umers Zustand,
+Zweideutig nicht gescherzt, so blieb er schuldlos:
+Bei der Parole w�r er nicht zerstreut,
+Nicht widerspenstig in der Schlacht gewesen.
+Nicht?  Nicht?  Das ist die Meinung?
+
+Hohenzollern.  Mein Gebieter,
+Das �berla� ich jetzt dir, zu erg�nzen.
+
+Der Kurf�rst.
+Tor, der du bist, Bl�dsinniger!  h�ttest du
+Nicht in den Garten mich herabgerufen,
+So h�tt ich, einem Trieb der Neugier folgend,
+Mit diesem Tr�umer harmlos nicht gescherzt.
+Mithin behaupt ich, ganz mit gleichem Recht,
+Der sein Versehn veranla�t hat, warst du!--
+Die delphsche Weisheit meiner Offiziere!
+
+Hohenzollern.
+Es ist genug, mein Kurf�rst!  Ich bin sicher,
+Mein Wort fiel, ein Gewicht, in deine Brust!
+
+
+
+Sechster Auftritt
+
+Ein Offizier tritt auf.--Die Vorigen.
+
+
+Der Offizier.
+Der Prinz, o Herr, wird Augenblicks erscheinen!
+
+Der Kurf�rst.
+Wohlan!  La�t ihn herein.
+
+Offizier.  In zwei Minuten!--
+Er lie� nur fl�chtig, im Vor�bergehn,
+Durch einen Pf�rtner sich den Kirchhof �ffnen.
+
+Der Kurf�rst.
+Den Kirchhof?
+
+Offizier.  Ja mein F�rst und Herr!
+
+Der Kurf�rst.  Weshalb?
+
+Offizier.
+Die Wahrheit zu gestehn, ich wei� es nicht;
+Es schien das Grabgew�lb w�nscht' er zu sehen,
+Das dein Gebot ihm dort er�ffnen lie�.
+
+(Die Obersten treten zusammen und sprechen miteinander.)
+
+Der Kurf�rst.
+Gleichviel!  Sobald er k�mmt, la�t ihn herein.
+
+(Er tritt wieder an den Tisch und sieht in die Papiere.)
+
+Graf Truch�.
+Da f�hrt die Wache schon den Prinzen her.
+
+
+
+Siebenter Auftritt
+
+Der Prinz von Homburg tritt auf.  Ein Offizier mit Wache.
+Die Vorigen.
+
+
+Der Kurf�rst.
+Mein junger Prinz, Euch ruf ich mir zu H�lfe!
+Der Obrist Kottwitz bringt, zu Gunsten Eurer,
+Mir dieses Blatt hier, schaut, in langer Reihe
+Von hundert Edelleuten unterzeichnet;
+Das Heer begehre, hei�t es, Eure Freiheit,
+Und billige den Spruch des Kriegsrechts nicht.--
+Lest, bitt ich, selbst, und unterrichtet Euch!
+
+(Er gibt ihm das Blatt.)
+
+Der Prinz von Homburg (nachdem er einen Blick hineingetan,
+wendet sich, und sieht sich im Kreis der Offiziere um).
+Kottwitz, gib deine Hand mir, alter Freund!
+Du tust mir mehr, als ich, am Tag der Schlacht,
+Um dich verdient!  Doch jetzt geschwind geh hin
+Nach Arnstein wiederum, von wo du kamst,
+Und r�hr dich nicht; ich habs mir �berlegt,
+Ich will den Tod, der mir erkannt, erdulden!
+(Er �bergibt ihm die Schrift.)
+
+Kottwitz (betroffen).
+Nein, nimmermehr, mein Prinz!  Was sprichst du da?
+
+Hohenzollern.
+Er will den Tod--?
+
+Graf Truch�.  Er soll und darf nicht sterben!
+
+Mehrere Offiziere (vordr�ngend).
+Mein Herr und Kurf�rst!  Mein Gebieter!  H�r uns!
+
+Der Prinz von Homburg.
+Ruhig!  Es ist mein unbeugsamer Wille!
+Ich will das heilige Gesetz des Kriegs,
+Das ich verletzt', im Angesicht des Heers,
+Durch einen freien Tod verherrlichen!
+Was kann der Sieg euch, meine Br�der, gelten,
+Der eine, d�rftige, den ich vielleicht
+Dem Wrangel noch entrei�e, dem Triumph
+Verglichen, �ber den verderblichsten
+Der Feind' in uns, den Trotz, den �bermut,
+Errungen glorreich morgen?  Es erliege
+Der Fremdling, der uns unterjochen will,
+Und frei, auf m�tterlichem Grund, behaupte
+Der Brandenburger sich; denn sein ist er,
+Und seiner Fluren Pracht nur ihm erbaut!
+
+Kottwitz (ger�hrt).
+Mein Sohn!  Mein liebster Freund!  Wie nenn ich dich?
+
+Graf Truch�.
+O Gott der Welt!
+
+Kottwitz.  La� deine Hand mich k�ssen!
+
+(Sie dr�ngen sich um ihn.)
+
+Der Prinz von Homburg (wendet sich zum Kurf�rsten).
+Doch dir, mein F�rst, der einen s��ern Namen
+Dereinst mir f�hrte, leider jetzt verscherzt:
+Dir leg ich tiefbewegt zu F��en mich!
+Vergib, wenn ich am Tage der Entscheidung,
+Mit �bereiltem Eifer dir gedient:
+Der Tod w�scht jetzt von jeder Schuld mich rein.
+La� meinem Herzen, das vers�hnt und heiter
+Sich deinem Rechtsspruch unterwirft, den Trost,
+Da� deine Brust auch jedem Groll entsagt:
+Und in der Abschiedsstunde, des zum Zeichen,
+Bewillge huldreich eine Gnade mir!
+
+Der Kurf�rst.
+Sprich, junger Held!  Was ists, das du begehrst?
+Mein Wort verpf�nd ich dir und Ritterehre,
+Was es auch sei, es ist dir zugestanden!
+
+Der Prinz von Homburg.
+Erkauf o Herr, mit deiner Nichte Hand,
+Von Gustav Karl den Frieden nicht!  Hinweg
+Mit diesem Unterh�ndler aus dem Lager,
+Der solchen Antrag ehrlos dir gemacht:
+Mit Kettenkugeln schreib die Antwort ihm!
+
+Der Kurf�rst (k��t seine Stirn).
+Seis, wie du sagst!  Mit diesem Ku�, mein Sohn,
+Bewillg' ich diese letzte Bitte dir!
+Was auch bedarf es dieses Opfers noch,
+Vom Mi�gl�ck nur des Kriegs mir abgerungen;
+Bl�ht doch aus jedem Wort, das du gesprochen,
+Jetzt mir ein Sieg auf, der zu Staub ihn malmt!
+Prinz Homburgs Braut sei sie, werd ich ihm schreiben,
+Der Fehrbellins halb, dem Gesetz verfiel,
+Und seinem Geist, tot vor den Fahnen streitend,
+K�mpf er auf dem Gefild der Schlacht, sie ab!
+
+(Er k��t ihn noch einmal und erhebt ihn.)
+
+Der Prinz von Homburg.
+Nun sieh, jetzt schenktest du das Leben mir!
+Nun fleh ich jeden Segen dir herab,
+Den, von dem Thron der Wolken, Seraphin
+Auf Heldenh�upter jauchzend niedersch�tten:
+Geh und bekrieg, o Herr, und �berwinde
+Den Weltkreis, der dir trotzt--denn du bists wert!
+
+Der Kurf�rst.
+Wache!  F�hrt ihn zur�ck in sein Gef�ngnis!
+
+
+
+Achter Auftritt
+
+Natalie und die Kurf�rstin zeigen sich unter der T�r.
+Hofdamen folgen.--Die Vorigen.
+
+
+Natalie.
+O Mutter, la�!  Was sprichst du mir von Sitte?
+Die h�chst' in solcher Stund, ist ihn zu lieben!
+--Mein teurer, ungl�cksel'ger Freund!
+
+Der Prinz von Homburg (bricht auf).  Hinweg!
+
+Graf Truch� (h�lt ihn).
+Nein nimmermehr, mein Prinz!
+
+(Mehrere Offiziere treten ihm in den Weg.)
+
+Der Prinz von Homburg.  F�hrt mich hinweg!
+
+Hohenzollern.
+Mein Kurf�rst, kann dein Herz--?
+
+Der Prinz von Homburg (rei�t sich los).
+Tyrannen, wollt ihr
+Hinaus an Ketten mich zum Richtplatz schleifen?
+Fort!--Mit der Welt schlo� ich die Rechnung ab!
+
+(Ab, mit Wache.)
+
+Natalie (indem sie sich an die Brust der Tante legt).
+O Erde, nimm in deinen Scho� mich auf!
+Wozu das Licht der Sonne l�nger schaun?
+
+
+
+Neunter Auftritt
+
+Die Vorigen ohne den Prinzen von Homburg.
+
+
+Feldmarschall.
+O Gott der Welt!  Mu�t es bis dahin kommen!
+
+(Der Kurf�rst spricht heimlich und angelegentlich mit
+einem Offizier.)
+
+Kottwitz (kalt).
+Mein F�rst und Herr, nach dem, was vorgefallen,
+Sind wir entlassen?
+
+Der Kurf�rst.  Nein!  zur Stund noch nicht!
+Dir sag ichs an, wenn du entlassen bist!
+
+(Er fixiert ihn eine Weile mit den Augen; alsdann nimmt er die
+Papiere, die ihm der Page gebracht hat, vom Tisch, und wendet
+sich damit zum Feldmarschall.)
+
+Hier, diesen Pa� dem schwedschen Grafen Horn!
+Es w�r des Prinzen, meines Vetters Bitte,
+Die ich verpflichtet w�re zu erf�llen;
+Der Krieg heb, in drei Tagen, wieder an!
+
+(Pause.--Er wirft einen Blick in das Todesurteil.)
+
+Ja, urteilt selbst, ihr Herrn!  Der Prinz von Homburg
+Hat im verflo�nen Jahr, durch Trotz und Leichtsinn,
+Um zwei der sch�nsten Siege mich gebracht;
+Den dritten auch hat er mir schwer gekr�nkt.
+Die Schule dieser Tage durchgegangen,
+Wollt ihrs zum vierten Male mit ihm wagen?
+
+Kottwitz und Truch� (durcheinander).
+Wie, mein verg�ttert--angebeteter--?
+
+Der Kurf�rst.
+Wollt ihr?  Wollt ihr?
+
+Kottwitz.  Bei dem lebendgen Gott,
+Du k�nntest an Verderbens Abgrund stehn,
+Da� er, um dir zu helfen, dich zu retten,
+Auch nicht das Schwert mehr z�ckte, ungerufen!
+
+Der Kurf�rst (zerrei�t das Todesurteil).
+So folgt, ihr Freunde, in den Garten mir!
+
+(Alle ab.)
+
+
+
+Szene: Schlo�, mit der Rampe, die in den Garten hinabf�hrt; wie im
+ersten Akt.--Es ist wieder Nacht.
+
+Zehnter Auftritt
+
+Der Prinz von Homburg wird vom Rittmeister Stranz mit verbundenen
+Augen durch das untere Gartengitter aufgef�hrt.  Offiziere mit Wache.
+--In der Ferne h�rt man Trommeln des Totenmarsches.
+
+
+Der Prinz von Homburg.
+Nun, o Unsterblichkeit, bist du ganz mein!
+Du strahlst mir, durch die Binde meiner Augen,
+Mir Glanz der tausendfachen Sonne zu!
+Es wachsen Fl�gel mir an beiden Schultern,
+Durch stille �therr�ume schwingt mein Geist;
+Und wie ein Schiff, vom Hauch des Winds entf�hrt,
+Die muntre Hafenstadt versinken sieht,
+So geht mir d�mmernd alles Leben unter:
+Jetzt unterscheid ich Farben noch und Formen,
+Und jetzt liegt Nebel alles unter mir.
+
+(Der Prinz setzt sich auf die Bank, die in der Mitte des Platzes,
+um die Eiche aufgeschlagen ist; der Rittmeister Stranz entfernt
+sich von ihm, und sieht nach der Rampe hinauf.)
+
+Der Prinz von Homburg.
+Ach, wie die Nachtviole lieblich duftet!
+--Sp�rst du es nicht?
+
+(Stranz kommt wieder zu ihm zur�ck.)
+
+Stranz.  Es sind Levkojn und Nelken.
+
+Der Prinz von Homburg.
+Levkojn?--Wie kommen die hierher?
+
+Stranz.  Ich wei� nicht.--
+Es scheint, ein M�dchen hat sie hier gepflanzt.
+--Kann ich dir eine Nelke reichen?
+
+Der Prinz von Homburg.  Lieber!--
+Ich will zu Hause sie in Wasser setzen.
+
+
+
+Eilfter Auftritt
+
+Der Kurf�rst mit dem Lorbeerkranz, um welchen die goldne Kette
+geschlungen ist, Kurf�rstin, Prinzessin Natalie, Feldmarschall
+D�rfling, Obrist Kottwitz, Hohenzollern, Golz usw., Hofdamen,
+Offiziere und Fackeln erscheinen auf der Rampe des Schlosses.--
+Hohenzollern tritt, mit einem Tuch, an das Gel�nder und winkt
+dem Rittmeister Stranz; worauf dieser den Prinzen von Homburg
+verl��t, und im Hintergrund mit der Wache spricht.
+
+
+Der Prinz von Homburg.
+Lieber, was f�r ein Glanz verbreitet sich?
+
+Stranz (kehrt zu ihm zur�ck).
+Mein Prinz, willst du gef�llig dich erheben?
+
+Der Prinz von Homburg.
+Was gibt es?
+
+Stranz.  Nichts, das dich erschrecken d�rfte!--
+Die Augen blo� will ich dir wieder �ffnen.
+
+Der Prinz von Homburg.
+Schlug meiner Leiden letzte Stunde?
+
+Stranz.  Ja!--
+Heil dir und Segen, denn du bist es wert!
+
+(Der Kurf�rst gibt den Kranz, an welchem die Kette h�ngt, der
+Prinzessin, nimmt sie bei der Hand und f�hrt sie die Rampe herab.
+Herren und Damen folgen.  Die Prinzessin tritt, umgeben von Fackeln,
+vor den Prinzen, welcher erstaunt aufsteht; setzt ihm den Kranz
+auf, h�ngt ihm die Kette um, und dr�ckt seine Hand an ihr Herz.
+Der Prinz f�llt in Ohnmacht.)
+
+Natalie.
+Himmel!  die Freude t�tet ihn!
+
+Hohenzollern (fa�t ihn auf).  Zu H�lfe!
+
+Der Kurf�rst.
+La�t den Kanonendonner ihn erwecken!
+
+(Kanonensch�sse.  Ein Marsch.  Das Schlo� erleuchtet sich.)
+
+Kottwitz.
+Heil, Heil dem Prinz von Homburg!
+
+Die Offiziere.  Heil!  Heil!  Heil!
+
+Alle.
+Dem Sieger in der Schlacht bei Fehrbellin!
+
+(Augenblickliches Stillschweigen.)
+
+Der Prinz von Homburg.
+Nein, sagt!  Ist es ein Traum?
+
+Kottwitz.  Ein Traum, was sonst?
+
+Mehrere Offiziere.
+Ins Feld!  Ins Feld!
+
+Graf Truch�.  Zur Schlacht!
+
+Feldmarschall.  Zum Sieg!  Zum Sieg!
+
+Alle.
+In Staub mit allen Feinden Brandenburgs!
+
+
+Ende dieses Projekt Gutenberg Etextes Prinz Friedrich von Homburg,
+von Heinrich von Kleist.
+
+
+
+
+
+
+End of Project Gutenberg's Prinz Friedrich von Homburg, by Heinrich von Kleist
+
+*** END OF THE PROJECT GUTENBERG EBOOK PRINZ FRIEDRICH VON HOMBURG ***
+
+This file should be named 6723-8.txt or 6723-8.zip
+
+VERSIONS based on separate sources get new LETTER, 8pzfh10a.txt
+
+This text was produced for Project Gutenberg
+by Mike Pullen and Delphine Lettau.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

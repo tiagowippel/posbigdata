@@ -1,0 +1,5131 @@
+The Project Gutenberg EBook of Das Kaethchen von Heilbronn, by Heinrich von Kleist
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Das Kaethchen von Heilbronn
+
+Author: Heinrich von Kleist
+
+Release Date: October, 2004  [EBook #6646]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on January 9, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ISO-Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK, DAS KAETHCHEN VON HEILBRONN ***
+
+
+
+
+Thanks are given to Delphine Lettau for finding a huge collection of ancient
+German books in London.
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verf�gung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+
+Das K�thchen von Heilbronn (oder die Feuerprobe)
+
+Heinrich von Kleist
+
+Ein gro�es historisches Ritterschauspiel
+
+
+Personen:
+
+Der Kaiser
+
+Gebhardt, Erzbischof von Worms
+
+Friedrich Wetter, Graf vom Strahl
+
+Gr�fin Helena, seine Mutter
+
+Eleonore, ihre Nichte
+
+Ritter Flammberg, des Grafen Vasall
+
+Gottschalk, sein Knecht
+
+Brigitte, Haush�lterin im gr�flichen Schlo�
+
+Kunigunde von Thurneck
+
+Rosalie, ihre Kammerzofe
+
+Sybille, deren Stiefmutter
+
+Theobald Friedeborn, Waffenschmied aus Heilbronn
+
+K�thchen, seine Tochter
+
+Gottfried Friedeborn, ihr Br�utigam
+
+Maximilian, Burggraf von Freiburg
+
+Georg von Waldst�tten, sein Freund
+
+Ritter Schauermann und Ritter Wetzlaf, seine Vasallen
+
+Der Rheingraf vom Stein, Verlobter Kunigundens
+
+Friedrich von Herrnstadt und Eginhardt von der Wart, seine Freunde
+
+Graf Otto von der Fl�he, Wenzel von Nachtheim und Hans von B�renklau,
+R�te des Kaisers und Richter des heimlichen Gerichts
+
+Jakob Pech, ein Gastwirt
+
+Drei Herren von Thurneck
+
+Kunigundens alte Tanten
+
+Ein K�hlerjunge
+
+Ein Nachtw�chter
+
+Mehrere Ritter
+
+Ein Herold, zwei K�hler, Bedienten, Boten, H�scher, Knechte und Volk
+
+
+
+Die Handlung spielt in Schwaben
+
+
+
+
+Erster Akt
+
+Szene: Eine unterirdische H�hle, mit den Insignien des Vehmgerichts,
+von einer Lampe erleuchtet.
+
+
+
+Erster Auftritt
+
+Graf Otto von der Fl�he als Vorsitzer, Wenzel von Nachtheim, Hans von
+B�renklau als Beisassen, mehrere Grafen, Ritter und Herren, s�mtlich
+vermummt, H�scher mit Fackeln usw.--Theobald Friedeborn, B�rger aus
+Heilbronn, als Kl�ger, Graf Wetter vom Strahl als Beklagter, stehen
+vor den Schranken.
+
+
+Graf Otto (steht auf).  Wir, Richter des hohen, heimlichen Gerichts,
+die wir, die irdischen Schergen Gottes, Vorl�ufer der gefl�gelten
+Heere, die er in seinen Wolken mustert, den Frevel aufsuchen, da, wo
+er, in der H�hle der Brust, gleich einem Molche verkrochen, vom Arm
+weltlicher Gerechtigkeit nicht aufgefunden werden kann: wir rufen
+dich, Theobald Friedeborn, ehrsamer und vielbekannter Waffenschmied
+aus Heilbronn auf, deine Klage anzubringen gegen Friedrich, Graf
+Wetter vom Strahle; denn dort, auf den ersten Ruf der heiligen Vehme,
+von des Vehmherolds Hand dreimal, mit dem Griff des Gerichtsschwerts,
+an die Tore seiner Burg, deinem Gesuch gem��, ist er erschienen, und
+fragt, was du willst?  (Er setzt sich.)
+
+Theobald Friedeborn.  Ihr hohen, heiligen und geheimnisvollen Herren!
+H�tte er, auf den ich klage, sich bei mir ausr�sten lassen--setzet
+in Silber, von Kopf bis zu Fu�, oder in schwarzen Stahl, Schienen,
+Schnallen und Ringe von Gold; und h�tte nachher, wenn ich gesprochen:
+Herr, bezahlt mich! geantwortet: Theobald!  Was willst du?  Ich bin
+dir nichts schuldig; oder w�re er vor die Schranken meiner Obrigkeit
+getreten, und h�tte meine Ehre, mit der Zunge der Schlangen--oder
+w�re er aus dem Dunkel mittern�chtlicher W�lder herausgebrochen und
+h�tte mein Leben, mit Schwert und Dolch, angegriffen: so wahr mir
+Gott helfe! ich glaube, ich h�tte nicht vor euch geklagt.  Ich erlitt,
+in drei und funfzig Jahren, da ich lebe, so viel Unrecht, da� meiner
+Seele Gef�hl nun gegen seinen Stachel wie gepanzert ist; und w�hrend
+ich Waffen schmiede, f�r andere, die die M�cken stechen, sag ich
+selbst zum Skorpion: fort mit dir! und la� ihn fahren.  Friedrich,
+Graf Wetter vom Strahl, hat mir mein Kind verf�hrt, meine Katharine.
+Nehmt ihn, ihr irdischen Schergen Gottes, und �berliefert ihn allen
+geharnischten Scharen, die an den Pforten der H�lle stehen und ihre
+glutroten Spie�e schwenken: ich klage ihn sch�ndlicher Zauberei,
+aller K�nste der schwarzen Nacht und der Verbr�derung mit dem Satan
+an!
+
+Graf Otto.  Meister Theobald von Heilbronn!  Erw�ge wohl, was du
+sagst.  Du bringst vor, der Graf vom Strahl, uns vielf�ltig und von
+guter Hand bekannt, habe dir dein Kind verf�hrt.  Du klagst ihn, hoff
+ich, der Zauberei nicht an, weil er deines Kindes Herz von dir
+abwendig gemacht?  Weil er ein M�dchen, voll rascher Einbildungen,
+mit einer Frage, wer sie sei? oder wohl gar mit dem blo�en Schein
+seiner roten Wangen, unter dem Helmsturz hervorgl�hend, oder mit
+irgend einer andern Kunst des hellen Mittags ausge�bt auf jedem
+Jahrmarkt, f�r sich gewonnen hat?
+
+Theobald.  Es ist wahr, ihr Herren, ich sah ihn nicht zur Nachtzeit,
+an Mooren und schilfreichen Gestaden, oder wo sonst des Menschen Fu�
+selten erscheint, umherwandeln und mit den Irrlichtern Verkehr
+treiben.  Ich fand ihn nicht auf den Spitzen der Gebirge, den
+Zauberstab in der Hand, das unsichtbare Reich der Luft abmessen, oder
+in unterirdischen H�hlen, die kein Strahl erhellt,
+Beschw�rungsformeln aus dem Staub heraufmurmeln.  Ich sah den Satan
+und die Scharen, deren Verbr�derten ich ihn nannte, mit H�rnern,
+Schw�nzen und Klauen, wie sie zu Heilbronn, �ber dem Altar abgebildet
+sind, an seiner Seite nicht.  Wenn ihr mich gleichwohl reden lassen
+wollt, so denke ich es durch eine schlichte Erz�hlung dessen, was
+sich zugetragen, dahin zu bringen, da� ihr aufbrecht, und ruft:
+unsrer sind dreizehn und der vierzehnte ist der Teufel! zu den T�ren
+rennt und den Wald, der diese H�hle umgibt, auf dreihundert Schritte
+im Umkreis, mit euren Taftm�nteln und Federh�ten bes�et.
+
+Graf Otto.  Nun, du alter, wilder Kl�ger! so rede!
+
+Theobald.  Zuv�rderst m��t ihr wissen, ihr Herren, da� mein K�thchen
+Ostern, die nun verflossen, funfzehn Jahre alt war; gesund an Leib
+und Seele, wie die ersten Menschen, die geboren worden sein m�gen;
+ein Kind recht nach der Lust Gottes, das heraufging aus der W�sten,
+am stillen Feierabend meines Lebens, wie ein gerader Rauch von
+Myrrhen und Wachholdern!  Ein Wesen von zarterer, frommerer und
+lieberer Art m��t ihr euch nicht denken, und k�mt ihr, auf Fl�geln
+der Einbildung, zu den lieben, kleinen Engeln, die, mit hellen Augen,
+aus den Wolken, unter Gottes H�nden und F��en hervorgucken.  Ging sie
+in ihrem b�rgerlichen Schmuck �ber die Stra�e, den Strohhut auf, von
+gelbem Lack ergl�nzend, das schwarzsamtene Leibchen, das ihre Brust
+umschlo�, mit feinen Silberkettlein beh�ngt: so lief es fl�sternd von
+allen Fenstern herab: das ist das K�thchen von Heilbronn; das
+K�thchen von Heilbronn, ihr Herren, als ob der Himmel von Schwaben
+sie erzeugt, und von seinem Ku� geschw�ngert, die Stadt, die unter
+ihm liegt, sie geboren h�tte.  Vettern und Basen, mit welchen die
+Verwandtschaft, seit drei Menschengeschlechtern, vergessen worden war,
+nannten sie, auf Kindtaufen und Hochzeiten, ihr liebes M�hmchen, ihr
+liebes B�schen; der ganze Markt, auf dem wir wohnten, erschien an
+ihrem Namenstage, und bedr�ngte sich und wetteiferte sie zu
+beschenken; wer sie nur einmal, gesehen und einen Gru� im
+Vor�bergehen von ihr empfangen hatte, schlo� sie acht folgende Tage
+lang, als ob sie ihn gebessert h�tte, in sein Gebet ein.
+Eigent�merin eines Landguts, das ihr der Gro�vater, mit Ausschlu�
+meiner, als einem Goldkinde, dem er sich liebreich bezeigen wollte,
+vermacht hatte, war sie schon unabh�ngig von mir, eine der
+wohlhabendsten B�rgerinnen der Stadt.  F�nf S�hne wackerer B�rger,
+bis in den Tod von ihrem Werte ger�hrt, hatten nun schon um sie
+angehalten; die Ritter, die durch die Stadt zogen, weinten, da� sie
+kein Fr�ulein war; ach, und w�re sie eines gewesen, das Morgenland
+w�re aufgebrochen, und h�tte Perlen und Edelgesteine, von Mohren
+getragen, zu ihren F��en gelegt.  Aber sowohl ihre, als meine Seele,
+bewahrte der Himmel vor Stolz; und weil Gottfried Friedeborn, der
+junge Landmann, dessen G�ter das ihrige umgrenzen, sie zum Weibe
+begehrte, und sie auf meine Frage: Katharine, willt du ihn?
+antwortete: Vater!  Dein Wille sei meiner; so sagte ich: der Herr
+segne euch! und weinte und jauchzte, und beschlo�, Ostern, die kommen,
+sie nun zur Kirche zu bringen.--So war sie, ihr Herren, bevor sie
+mir dieser entf�hrte.
+
+Graf Otto.  Nun?  Und wodurch entf�hrte er sie dir?  Durch welche
+Mittel hat er sie dir und dem Pfade, auf welchen du sie gef�hrt
+hattest, wieder entrissen?
+
+Theobald.  Durch welche Mittel?--Ihr Herren, wenn ich das sagen
+k�nnte, so begriffen es diese f�nf Sinne, und so st�nd ich nicht vor
+euch und klagte auf alle, mir unbegreiflichen, Greuel der H�lle.  Was
+soll ich vorbringen, wenn ihr mich fragt, durch welche Mittel?  Hat
+er sie am Brunnen getroffen, wenn sie Wasser sch�pfte, und gesagt:
+Lieb M�del, wer bist du? hat er sich an den Pfeiler gestellt, wenn
+sie aus der Mette kam, und gefragt: Lieb M�del, wo wohnst du? hat er
+sich, bei n�chtlicher Weile, an ihr Fenster geschlichen, und, indem
+er ihr einen Halsschmuck umgeh�ngt, gesagt: Lieb M�del, wo ruhst du?
+Ihr hochheiligen Herren, damit war sie nicht zu gewinnen!  Den
+Judasku� erriet unser Heiland nicht rascher, als sie solche K�nste.
+Nicht mit Augen, seit sie geboren ward, hat sie ihn gesehen; ihren
+R�cken, und das Mal darauf, das sie von ihrer seligen Mutter erbte,
+kannte sie besser, als ihn.  (Er weint.)
+
+Graf Otto (nach einer Pause).  Und gleichwohl, wenn er sie verf�hrt
+hat, du wunderlicher Alter, so mu� es wann und irgendwo geschehen
+sein?
+
+Theobald.  Heiligen Abend vor Pfingsten, da er auf f�nf Minuten in
+meine Werkstatt kam, um sich, wie er sagte, eine Eisenschiene, die
+ihm zwischen Schulter und Brust losgegangen war, wieder
+zusammenheften zu lassen,
+
+Wenzel.  Was!
+
+Hans.  Am hellen Mittag?
+
+Wenzel.  Da er auf f�nf Minuten in deine Werkstatt kam, um sich eine
+Brustschiene anheften zu lassen?
+
+(Pause.)
+
+Graf Otto.  Fasse dich, Alter, und erz�hle den Hergang.
+
+Theobald (indem er sich die Augen trocknet).  Es mochte ohngef�hr
+eilf Uhr morgens sein, als er, mit einem Tro� Reisiger, vor mein Haus
+sprengte, rasselnd, der Erzgepanzerte, vom Pferd stieg, und in meine
+Werkstatt trat: das Haupt tief herab neigt' er, um mit den
+Reiherb�schen, die ihm vom Helm niederwankten, durch die T�r zu
+kommen.  Meister, schau her, spricht er: dem Pfalzgrafen, der eure
+W�lle niederrei�en will, zieh ich entgegen; die Lust, ihn zu treffen,
+sprengt mir die Schienen; nimm Eisen und Draht, ohne da� ich mich zu
+entkleiden brauche, und heft sie mir wieder zusammen.  Herr! sag ich:
+wenn Euch die Brust so die R�stung zerschmei�t, so l��t der Pfalzgraf
+unsere W�lle ganz; n�tig ihn auf einen Sessel, in des Zimmers Mitte
+nieder, und: Wein! ruf ich in die T�re, und vom frischger�ucherten
+Schinken, zum Imbi�! und setz einen Schemel, mit Werkzeugen versehn,
+vor ihn, um ihm die Schiene wieder herzustellen.  Und w�hrend drau�en
+noch der Streithengst wiehert, und, mit den Pferden der Knechte, den
+Grund zerstampft, da� der Staub, als w�r ein Cherub vom Himmel
+niedergefahren, emporquoll: �ffnet langsam, ein gro�es, flaches
+Silbergeschirr auf dem Kopf tragend, auf welchem Flaschen, Gl�ser und
+der Imbi� gestellt waren, das M�dchen die T�re und tritt ein.  Nun
+seht, wenn mir Gott der Herr aus Wolken erschiene, so w�rd ich mich
+ohngef�hr so fassen, wie sie.  Geschirr und Becher und Imbi�, da sie
+den Ritter erblickt, l��t sie fallen; und leichenbleich, mit H�nden,
+wie zur Anbetung verschr�nkt, den Boden mit Brust und Scheiteln
+k�ssend, st�rzt sie vor ihm nieder, als ob sie ein Blitz nieder
+geschmettert h�tte!  Und da ich sage: Herr meines Lebens!  Was fehlt
+dem Kind? und sie aufhebe: schlingt sie, wie ein Taschenmesser
+zusammenfallend, den Arm um mich, das Antlitz flammend auf ihn
+gerichtet, als ob sie eine Erscheinung h�tte.  Der Graf vom Strahl,
+indem er ihre Hand nimmt, fragt: wes ist das Kind?  Gesellen und
+M�gde str�men herbei und jammern: hilf Himmel!  Was ist dem
+J�ngferlein widerfahren; doch da sie sich, mit einigen sch�chternen
+Blicken auf sein Antlitz, erholt, so denk ich, der Anfall ist wohl
+auch vor�ber, und gehe, mit Pfriemen und Nadeln, an mein Gesch�ft.
+Drauf sag ich: Wohlauf, Herr Ritter!  Nun m�gt Ihr den Pfalzgrafen
+treffen; die Schiene ist eingerenkt, das Herz wird sie Euch nicht
+mehr zersprengen.  Der Graf steht auf; er schaut das M�dchen, das ihm
+bis an die Brusth�hle ragt, vom Wirbel zur Sohle, gedankenvoll an,
+und beugt sich, und k��t ihr die Stirn und spricht: der Herr segne
+dich, und beh�te dich, und schenke dir seinen Frieden, Amen!  Und da
+wir an das Fenster treten: schmei�t sich das M�dchen, in dem
+Augenblick, da er den Streithengst besteigt, drei�ig Fu� hoch, mit
+aufgehobenen H�nden, auf das Pflaster der Stra�e nieder: gleich einer
+Verlorenen, die ihrer f�nf Sinne beraubt ist!  Und bricht sich beide
+Lenden, ihr heiligen Herren, beide zarten Lendchen, dicht �ber des
+Knierunds elfenbeinernem Bau; und ich, alter, bejammernsw�rdiger Narr,
+der mein versinkendes Leben auf sie st�tzen wollte, mu� sie, auf
+meinen Schultern, wie zu Grabe tragen; indessen er dort, den Gott
+verdamme! zu Pferd, unter dem Volk, das herbeistr�mt, her�berruft von
+hinten, was vorgefallen sei!--Hier liegt sie nun, auf dem Todbett, in
+der Glut des hitzigen Fiebers, sechs endlose Wochen, ohne sich zu
+regen.  Keinen Laut bringt sie hervor; auch nicht der Wahnsinn,
+dieser Dietrich aller Herzen, er�ffnet das ihrige; kein Mensch vermag
+das Geheimnis, das in ihr waltet, ihr zu entlocken.  Und pr�ft, da
+sie sich ein wenig erholt hat, den Schritt, und schn�rt ihr B�ndel,
+und tritt, beim Strahl der Morgensonne, in die T�r: wohin? fragt sie
+die Magd; zum Grafen Wetter vom Strahl, antwortet sie, und
+verschwindet.
+
+Wenzel.  Es ist nicht m�glich!
+
+Hans.  Verschwindet?
+
+Wenzel.  Und l��t alles hinter sich zur�ck?
+
+Hans.  Eigentum, Heimat und den Br�utigam, dem sie verlobt war?
+
+Wenzel.  Und begehrt auch deines Segens nicht einmal?
+
+Theobald.  Verschwindet, ihr Herren--Verl��t mich und alles, woran
+Pflicht, Gewohnheit und Natur sie kn�pften--K��t mir die Augen, die
+schlummernden, und verschwindet; ich wollte, sie h�tte sie mir
+zugedr�ckt.
+
+Wenzel.  Beim Himmel!  Ein seltsamer Vorfall.-Theobald.  Seit jenem
+Tage folgt sie ihm nun, gleich einer Metze, in blinder Ergebung, von
+Ort zu Ort; gef�hrt am Strahl seines Angesichts, f�nfdr�htig, wie
+einen Tau, um ihre Seele gelegt; auf nackten, jedem Kiesel
+ausgesetzten, F��en, das kurze R�ckchen, das ihre H�fte deckt, im
+Winde flatternd, nichts als den Strohhut auf, sie gegen der Sonne
+Stich, oder den Grimm emp�rter Witterung zu sch�tzen.  Wohin sein Fu�,
+im Lauf seiner Abenteuer, sich wendet: durch den Dampf der Kl�fte,
+durch die W�ste, die der Mittag versengt, durch die Nacht
+verwachsener W�lder: wie ein Hund, der von seines Herren Schwei�
+gekostet, schreitet sie hinter ihm her; und die gewohnt war, auf
+weichen Kissen zu ruhen, und das Kn�tlein sp�rte, in des Bettuchs
+Faden, das ihre Hand unachtsam darin eingesponnen hatte: die liegt
+jetzt, einer Magd gleich, in seinen St�llen, und sinkt, wenn die
+Nacht k�mmt, erm�det auf die Streu nieder, die seinen stolzen Rossen
+untergeworfen wird.
+
+Graf Otto.  Graf Wetter vom Strahl!  Ist dies gegr�ndet?
+
+Der Graf vom Strahl.  Wahr ists, ihr Herren; sie geht auf der Spur,
+die hinter mir zur�ckbleibt.  Wenn ich mich umsehe, erblick ich zwei
+Dinge: meinen Schatten und sie.
+
+Graf Otto.  Und wie erkl�rt Ihr Euch diesen sonderbaren Umstand?
+
+Der Graf vom Strahl.  Ihr unbekannten Herren der Vehme!  Wenn der
+Teufel sein Spiel mit ihr treibt, so braucht er mich dabei, wie der
+Affe die Pfoten der Katze; ein Schelm will ich sein, holt er den
+Nu�kern f�r mich.  Wollt ihr meinem Wort schlechthin, wies die
+heilige Schrift vorschreibt, glauben: ja, ja, nein, nein; gut!  Wo
+nicht, so will ich nach Worms, und den Kaiser bitten, da� er den
+Theobald ordiniere.  Hier werf ich ihm vorl�ufig meinen Handschuh hin!
+
+Graf Otto.  Ihr sollt hier Rede stehn, auf unsre Frage!  Womit
+rechtfertigt Ihr, da� sie unter Eurem Dache schl�ft?  Sie, die in das
+Haus hingeh�rt, wo sie geboren und erzogen ward?
+
+Der Graf vom Strahl.  Ich war, es m�gen ohngef�hr zw�lf Wochen sein,
+auf einer Reise, die mich nach Stra�burg f�hrte, erm�det, in der
+Mittagshitze, an einer Felswand, eingeschlafen--nicht im Traum
+gedacht ich des M�dchens mehr, das in Heilbronn aus dem Fenster
+gest�rzt war--da liegt sie mir, wie ich erwache, gleich einer Rose,
+entschlummert zu F��en; als ob sie vom Himmel herabgeschneit w�re!
+Und da ich zu den Knechten, die im Grase herumliegen, sage: Ei, was
+der Teufel!  Das ist ja das K�thchen von Heilbronn! schl�gt sie die
+Augen auf, und bindet sich das H�tlein zusammen, das ihr schlafend
+vom Haupt herabgerutscht war.  Katharine! ruf ich: M�del!  Wo k�mmst
+auch her?  Auf funfzehn Meilen von Heilbronn, fernab am Gestade des
+Rheins?  "Hab ein Gesch�ft, gestrenger Herr", antwortet sie, "das
+mich gen Stra�burg f�hrt; schauert mich im Wald so einsam zu wandern,
+und schlug mich zu Euch." Drauf la� ich ihr zur Erfrischung reichen,
+was mir Gottschalk, der Knecht, mit sich f�hrt, und erkundige mich:
+wie der Sturz abgelaufen; auch, was der Vater macht?  Und was sie in
+Stra�burg zu erschaffen denke?  Doch da sie nicht freiherzig mit der
+Sprache herausr�ckt: was auch gehts dich an, denk ich; ding ihr einen
+Boten, der sie durch den Wald f�hre, schwing mich auf den Rappen, und
+reite ab.  Abends, in der Herberg, an der Stra�burger Stra�, will ich
+mich eben zur Ruh niederlegen: da kommt Gottschalk, der Knecht, und
+spricht: das M�dchen sei unten und begehre in meinen St�llen zu
+�bernachten.  Bei den Pferden? frag ich.  Ich sage: wenns ihr weich
+genug ist, mich wirds nicht dr�cken.  Und f�ge noch, indem ich mich
+im Bett wende, hinzu: magst ihr wohl eine Streu unterlegen,
+Gottschalk, und sorgen, da� ihr nichts widerfahre.  Drauf, wandert
+sie, kommenden Tages fr�her aufgebrochen, als ich, wieder auf der
+Heerstra�e, und lagert sich wieder in meinen St�llen, und lagert sich
+Nacht f�r Nacht, so wie mir der Streifzug fortschreitet, darin, als
+ob sie zu meinem Tro� geh�rte.  Nun litt ich das, ihr Herren, um
+jenes grauen, unwirschen Alten willen, der mich jetzt darum straft;
+denn der Gottschalk, in seiner Wunderlichkeit, hatte das M�dchen lieb
+gewonnen, und pflegte ihrer, in der Tat, als seiner Tochter; f�hrt
+dich die Reise einst, dacht ich, durch Heilbronn, so wird der Alte
+dirs danken.  Doch da sie sich auch in Stra�burg, in der
+erzbisch�flichen Burg, wieder bei mir einfindet, und ich gleichwohl
+sp�re, da� sie nichts im Orte erschafft. denn mir hatte sie sich ganz
+und gar geweiht, und wusch und flickte, als ob es sonst am Rhein
+nicht zu haben w�re: so trete ich eines Tages, da ich sie auf der
+Stallschwelle finde, zu ihr und frage: was f�r ein Gesch�ft sie in
+Stra�burg betreibe?  Ei, spricht sie, gestrenger Herr, und eine R�te,
+da� ich denke, ihre Sch�rze wird angehen, flammt �ber ihr Antlitz
+empor: "was fragt Ihr doch?  Ihr wi�ts ja!"--Holla! denk ich, steht
+es so mit dir? und sende einen Boten flugs nach Heilbronn, dem Vater
+zu, mit folgender Meldung: das K�thchen sei bei mir; ich h�tete
+seiner; in kurzem k�nne er es, vom Schlosse zu Strahl, wohin ich es
+zur�ckbringen w�rde, abholen.
+
+Graf Otto.  Nun?  Und hierauf?
+
+Wenzel.  Der Alte holte die Jungfrau nicht ab?
+
+Der Graf vom Strahl.  Drauf, da er am zwanzigsten Tage, um sie
+abzuholen, bei mir erscheint, und ich ihn in meiner V�ter Saal f�hre:
+erschau ich mit Befremden, da� er, beim Eintritt in die T�r, die Hand
+in den Weihkessel steckt, und mich mit dem Wasser, das darin
+befindlich ist, besprengt.  Ich arglos, wie ich von Natur bin, n�tge
+ihn auf einen Stuhl nieder; erz�hle ihm, mit Offenherzigkeit, alles,
+was vorgefallen; er�ffne ihm auch, in meiner Teilnahme, die Mittel,
+wie er die Sache, seinen W�nschen gem��, wieder ins Geleis r�cken
+k�nne; und tr�ste ihn und f�hr ihn, um ihm das M�dchen zu �bergeben,
+in den Stall hinunter, wo sie steht, und mir eine Waffe von Rost
+s�ubert.  So wie er in die T�r tritt, und die Arme mit tr�nenvollen
+Augen �ffnet, sie zu empfangen, st�rzt mir das M�dchen leichenbleich
+zu F��en, alle Heiligen anrufend, da� ich sie vor ihm sch�tze.
+Gleich einer Salzs�ule steht er, bei diesem Anblick, da; und ehe ich
+mich noch gefa�t habe, spricht er schon, das entsetzensvolle Antlitz
+auf mich gerichtet: das ist der leibhaftige Satan! und schmei�t mir
+den Hut, den er in der Hand h�lt, ins Gesicht, als wollt er ein
+Greuelbild verschwinden machen, und l�uft, als setzte die ganze H�lle
+ihm nach, nach Heilbronn zur�ck.
+
+Graf Otto.  Du wunderlicher Alter!  Was hast du f�r Einbildungen?
+
+Wenzel.  Was war in dem Verfahren des Ritters, das Tadel verdient?
+Kann er daf�r, wenn sich das Herz deines t�richten M�dchens ihm
+zuwendet?
+
+Hans.  Was ist in diesem ganzen Vorfall, das ihn anklagt?
+
+Theobald.  Was ihn anklagt?  O du--Mensch, entsetzlicher, als Worte
+fassen, und der Gedanke ermi�t: stehst du nicht rein da, als h�tten
+die Cherubim sich entkleidet, und ihren Glanz dir, funkelnd wie
+Mailicht, um die Seele gelegt!--Mu�t ich vor dem Menschen nicht
+erbeben, der die Natur, in dem reinsten Herzen, das je geschaffen
+ward, dergestalt umgekehrt hat, da� sie vor dem Vater, zu ihr
+gekommen, seiner Liebe Brust ihren Lippen zu reichen, kreidewei�en
+Antlitzes entweicht, wie vor dem Wolfe, der sie zerrei�en will?  Nun
+denn, so walte, Hekate, F�rstin des Zaubers, moorduftige K�nigin der
+Nacht!  Spro�t, ihr d�monischen Kr�fte, die die menschliche Satzung
+sonst auszuj�ten bem�ht war, bl�ht auf, unter dem Atem der Hexen, und
+scho�t zu W�ldern empor, da� die Wipfel sich zerschlagen, und die
+Pflanze des Himmels, die am Boden keimt, verwese; rinnt, ihr S�fte
+der H�lle, tr�pfelnd aus St�mmen und Stielen gezogen, fallt, wie ein
+Katarakt, ins Land, da� der erstickende Pestqualm zu den Wolken
+empordampft; flie�t und ergie�t euch durch alle R�hren des Lebens,
+und schwemmt, in allgemeiner S�ndflut, Unschuld und Tugend hinweg!
+
+Graf Otto.  Hat er ihr Gift eingefl��t?
+
+Wenzel.  Meinst du, da� er ihr verzauberte Tr�nke gereicht?
+
+Hans.  Opiate, die des Menschen Herz, der sie genie�t, mit
+geheimnisvoller Gewalt umstricken?
+
+Theobald.  Gift?  Opiate?  Ihr hohen Herren, was fragt ihr mich?  Ich
+habe die Flaschen nicht gepfropft, von welchen er ihr, an der Wand
+des Felsens, zur Erfrischung reichte; ich stand nicht dabei, als sie
+in der Herberge, Nacht f�r Nacht, in seinen St�llen schlief.  Wie
+soll ich wissen, ob er ihr Gift eingefl��t? habt neun Monate Geduld;
+alsdann sollt ihr sehen, wies ihrem jungen Leibe bekommen ist.
+
+Der Graf vom Strahl.  Der alte Esel, der!  Dem entgegn' ich nichts,
+als meinen Namen!  Ruft sie herein; und wenn sie ein Wort sagt, auch
+nur von fern duftend, wie diese Gedanken, so nennt mich den Grafen
+von der stinkenden Pf�tze, oder wie es sonst eurem gerechten Unwillen
+beliebt.
+
+
+
+Zweiter Auftritt
+
+K�thchen mit verbundenen Augen, gef�hrt von zwei H�schern.--Die
+H�scher nehmen ihr das Tuch ab, und gehen wieder fort.--Die Vorigen.
+
+
+K�thchen (sieht sich in der Versammlung um, und beugt, da sie den
+Grafen erblickt, ein Knie vor ihm).  Mein hoher Herr!
+
+Der Graf vom Strahl.  Was willst du?
+
+K�thchen.  Vor meinen Richter hat man mich gerufen.
+
+Der Graf vom Strahl.  Dein Richter bin nicht ich.  Steh auf, dort
+sitzt er; Hier steh ich, ein Verklagter, so wie du.
+
+K�thchen.  Mein hoher Herr!  Du spottest.
+
+Der Graf vom Strahl.  Nein!  Du h�rst!  Was neigst du mir dein
+Angesicht in Staub?  Ein Zaubrer bin ich, und gestand es schon Und
+la�, aus jedem Band, das ich dir wirkte, Jetzt deine junge Seele los.
+(Er erhebt sie.)
+
+Graf Otto.  Hier Jungfrau, wenns beliebt; hier ist die Schranke!
+
+Hans.  Hier sitzen deine Richter!
+
+K�thchen (sieht sich um).  Ihr versucht mich.
+
+Wenzel.  Hier tritt heran!  Hier sollst du Rede stehn.
+
+K�thchen (stellt sich neben den Grafen vom Strahl, und sieht die
+Richter an).
+
+Graf Otto.  Nun?
+
+Wenzel.  Wirds?
+
+Hans.  Wirst du gef�llig dich bem�hn?
+
+Graf Otto.  Wirst dem Gebot dich deiner Richter f�gen?
+
+K�thchen (f�r sich).  Sie rufen mich
+
+Wenzel.  Nun, ja!
+
+Hans.  Was sagte sie?
+
+Graf Otto (befremdet).  Ihr Herrn, was fehlt dem sonderbaren Wesen?
+
+(Sie sehen sich an.)
+
+K�thchen (f�r sich).  Vermummt von Kopf zu F��en sitzen sie, Wie das
+Gericht, am j�ngsten Tage, da!
+
+Der Graf vom Strahl (sie aufweckend).  Du wunderliche Maid!  Was
+tr�umst, was treibst du?  Du stehst hier vor dem heimlichen Gericht!
+Auf jene b�se Kunst bin ich verklagt, Mit der ich mir, du wei�t, dein
+Herz gewann, Geh hin, und melde jetzo, was geschehn!
+
+K�thchen (sieht ihn an und legt ihre H�nde auf die Brust). - Du
+qu�lst mich grausam, da� ich weinen m�chte!  Belehre deine Magd, mein
+edler Herr, Wie soll ich mich in diesem Falle fassen?
+
+Graf Otto (ungeduldig).  Belehren--was!
+
+Hans.  Bei Gott!  Ist es erh�rt?
+
+Der Graf vom Strahl (mit noch milder Strenge).  Du sollst sogleich
+vor jene Schranke treten, Und Rede stehn, auf was man fragen wird!
+
+K�thchen.  Nein! sprich!  Du bist verklagt?
+
+Der Graf vom Strahl.  Du h�rst.
+
+K�thchen.  Und jene M�nner dort sind deine Richter?
+
+Der Graf vom Strahl.  So ists.
+
+K�thchen (zur Schranke tretend).  Ihr w�rdgen Herrn, wer ihr auch
+sein m�gt dort, Steht gleich vom Richtstuhl auf und r�umt ihn diesem!
+Denn, beim lebendgen Gott, ich sag es euch, Rein, wie sein Harnisch
+ist sein Herz, und eures Verglichen ihm, und meins, wie eure M�ntel.
+Wenn hier ges�ndigt ward, ist er der Richter, Und ihr sollt zitternd
+vor der Schranke stehn!
+
+Graf Otto.  Du, N�rrin, j�ngst der Nabelschnur entlaufen, Woher kommt
+die prophetsche Kunde dir?  Welch ein Apostel hat dir das vertraut?
+
+Theobald.  Seht die Unselige!
+
+K�thchen (da sie den Vater erblickt, auf ihn zugehend).
+
+Mein teurer Vater!
+
+(Sie will seine Hand ergreifen.)
+
+Theobald (streng).  Dort ist der Ort jetzt wo du hingeh�rst!
+
+K�thchen.  Weis mich nicht von dir.
+
+(Sie la�t seine Hand und k��t sie.)
+
+Theobald.--Kennst du das Haar noch wieder, Das deine Flucht mir
+j�ngsthin grau gef�rbt?
+
+K�thchen.  Kein Tag verging, da� ich nicht einmal dachte, Wie seine
+Locken fallen.  Sei geduldig, Und gib dich nicht unm��gem Grame preis:
+Wenn Freude Locken wieder dunkeln kann So sollst du wieder wie ein
+J�ngling bl�hn.
+
+Graf Otto.  Ihr H�scher dort! ergreift sie! bringt sie her!
+
+Theobald.  Geh hin, wo man dich ruft.
+
+K�thchen (zu den Richtern, da sich ihr die H�scher n�hern).
+
+Was wollt ihr mir?
+
+Wenzel.  Saht ihr ein Kind, so st�rrig je, als dies?
+
+Graf Otto (da sie vor der Schranke steht).  Du sollst hier Antwort
+geben, kurz und b�ndig, Auf unsre Fragen!  Denn wir, von unserem
+Gewissen eingesetzt, sind deine Richter Und an der Strafe, wenn du
+freveltest Wirds deine �berm�tge Seele f�hlen.
+
+K�thchen.  Sprecht ihr verehrten Herrn; was wollt ihr wissen?
+
+Graf Otto.  Warum, als Friedrich Graf vom Strahl erschien, In deines
+Vaters Haus, bist du zu F��en Wie man vor Gott tut, nieder ihm
+gest�rzt?  Warum warfst du, als er von dannen ritt' Dich aus dem
+Fenster sinnlos auf die Stra�e, Und folgtest ihm, da kaum dein Bein
+vernarbt, Von Ort zu Ort, durch Nacht und Graus und Nebel, Wohin sein
+Ro� den Fu�tritt wendete?
+
+K�thchen (hochrot zum Grafen).  Das soll ich hier vor diesen M�nnern
+sagen?
+
+Der Graf vom Strahl.  Die N�rrin, die verw�nschte, sinnverwirrte, Was
+fragt sie mich?  Ists nicht an jener M�nner Gebot, die Sache darzutun,
+genug?
+
+K�thchen (in Staub niederfallend).  Nimm mir, o Herr, das Leben, wenn
+ich fehlte!  Was in des Busens stillem Reich geschehn, Und Gott nicht
+straft, das braucht kein Mensch zu wissen; Den nenn ich grausam, der
+mich darum fragt!  Wenn du es wissen willst, wohlan, so rede, Denn
+dir liegt meine Seele offen da!
+
+Hans.  Ward, seit die Welt steht, so etwas erlebt?
+
+Wenzel.  Im Staub liegt sie vor ihm-Hans.  Gest�rzt auf Knieen-Wenzel.
+Wie wir vor dem Erl�ser hingestreckt!
+
+Der Graf vom Strahl (zu den Richtern).  Ihr w�rdgen Herrn, ihr
+rechnet, hoff ich, mir Nicht dieses M�dchens Torheit an!  Da� sie Ein
+Wahn bet�rt, ist klar, wenn euer Sinn Auch gleich, wie meiner, noch
+nicht einsieht, welcher?  Erlaubt ihr mir, so frag ich sie darum: Ihr
+m�gt, aus meinen Wendungen entnehmen, Ob meine Seele schuldig ist, ob
+nicht?
+
+Graf Otto (ihn forschend ansehend).  Es sei!  Versuchts einmal, Herr
+Graf, und fragt sie.
+
+Der Graf vom Strahl (wendet sich zu K�thchen, die noch immer auf
+Knieen liegt).  Willt den geheimsten der Gedanken mir, Kathrina, der
+dir irgend, fa� mich wohl, Im Winkel wo des Herzens schlummert, geben?
+
+K�thchen.  Das ganze Herz, o Herr, dir, willt du es, So bist du
+sicher des, was darin wohnt.
+
+Der Graf vom Strahl.  Was ists, mit einem Wort, mir rund gesagt, Das
+dich aus deines Vaters Hause trieb?  Was fesselt dich an meine
+Schritte an?
+
+K�thchen.  Mein hoher Herr!  Da fragst du mich zuviel.  Und l�g ich
+so, wie ich vor dir jetzt liege, Vor meinem eigenen Bewu�tsein da:
+Auf einem goldnen Richtstuhl la� es thronen, Und alle Schrecken des
+Gewissens ihm, In Flammenr�stungen, zur Seite stehn; So spr�che
+jeglicher Gedanke noch, Auf das, was du gefragt: ich wei� es nicht.
+
+Der Graf vom Strahl.  Du l�gst mir, Jungfrau?  Willst mein Wissen
+t�uschen?  Mir, der doch das Gef�hl dir ganz umstrickt; Mir, dessen
+Blick du da liegst, wie die Rose, Die ihren jungen Kelch dem Licht
+erschlo�?--Was hab ich dir einmal, du wei�t, getan?  Was ist an Leib
+und Seel dir widerfahren?
+
+K�thchen.  Wo?
+
+Der Graf vom Strahl.  Da oder dort.
+
+K�thchen.  Wann?
+
+Der Graf vom Strahl.  J�ngst oder fr�herhin.
+
+K�thchen.  Hilf mir, mein hoher Herr.
+
+Der Graf vom Strahl.  Ja, ich dir helfen, Du wunderliches Ding.--(Er
+h�lt inne.)
+
+Besinnst du dich auf nichts?
+
+K�thchen (sieht vor sich nieder).
+
+Der Graf vom Strahl.  Was f�r ein Ort, wo du mich je gesehen, Ist dir
+im Geist, vor andern, gegenw�rtig.
+
+K�thchen.  Der Rhein ist mir vor allen gegenw�rtig.
+
+Der Graf vom Strahl.  Ganz recht.  Da eben wars.  Das wollt ich
+wissen.  Der Felsen am Gestad des Rheins, wo wir Zusammen ruhten, in
+der Mittagshitze. - Und du gedenkst nicht, was dir da geschehn?
+
+K�thchen.  Nein, mein verehrter Herr.
+
+Der Graf vom Strahl.  Nicht?  Nicht? - Was reicht ich deiner Lippe
+zur Erfrischung?
+
+K�thchen.  Du sandtest, weil ich deines Weins verschm�hte, Den
+Gottschalk, deinen treuen Knecht, und lie�est Ihn einen Trunk mir,
+aus der Grotte sch�pfen.
+
+Der Graf vom Strahl.  Ich aber nahm dich bei der Hand, und reichte
+Sonst deiner Lippe--nicht?  Was stockst du da?
+
+K�thchen.  Wann?
+
+Der Graf vom Strahl.  Eben damals.
+
+K�thchen.  Nein, mein hoher Herr.
+
+Der Graf vom Strahl.  Jedoch nachher.
+
+K�thchen.  In Stra�burg?
+
+Der Graf vom Strahl.  Oder fr�her.
+
+K�thchen.  Du hast mich niemals bei der Hand genommen.
+
+Der Graf vom Strahl.  Kathrina!
+
+K�thchen (err�tend).  Ach vergib mir; in Heilbronn!
+
+Der Graf vom Strahl.  Wann?
+
+K�thchen.  Als der Vater dir am Harnisch wirkte.
+
+Der Graf vom Strahl.  Und sonst nicht?
+
+K�thchen.  Nein, mein hoher Herr.
+
+Der Graf vom Strahl.  Kathrina!
+
+K�thchen.  Mich bei der Hand?
+
+Der Graf vom Strahl.  Ja, oder sonst, was wei� ich.
+
+K�thchen (besinnt sich).  In Stra�burg einst, erinnr' ich mich, beim
+Kinn.
+
+Der Graf vom Strahl.  Wann?
+
+K�thchen.  Als ich auf der Schwelle sa� und weinte, Und dir auf was
+du sprachst, nicht Rede stand.
+
+Der Graf vom Strahl.  Warum nicht standst du Red?
+
+K�thchen.  Ich sch�mte mich.
+
+Der Graf vom Strahl.  Du sch�mtest dich?  Ganz recht.  Auf meinen
+Antrag.  Du wardst glutrot bis an den Hals hinab.  Welch einen Antrag
+macht ich dir?
+
+K�thchen.  Der Vater, Der w�rd, sprachst du, daheim im Schwabenland,
+Um mich sich h�rmen, und befragtest mich, Ob ich mit Pferden, die du
+senden wolltest, Nicht nach Heilbronn zu ihm zur�ck begehrte?
+
+Der Graf vom Strahl (kalt).  Davon ist nicht die Rede!--Nun, wo auch,
+Wo hab ich sonst im Leben dich getroffen? - Ich hab im Stall zuweilen
+dich besucht.
+
+K�thchen.  Nein, mein verehrter Herr.
+
+Der Graf vom Strahl.  Nicht?  Katharina!
+
+K�thchen.  Du hast mich niemals in dem Stall besucht, Und noch viel
+wen'ger r�hrtest du mich an.
+
+Der Graf vom Strahl.  Was?  Niemals?
+
+K�thchen.  Nein, mein hoher Herr.
+
+Der Graf vom Strahl.  Kathrina!
+
+K�thchen (mit Affekt).  Niemals, mein hochverehrter Herr, niemals.
+
+Der Graf vom Strahl.  Nun seht, bei meiner Treu, die L�gnerin!
+
+K�thchen.  Ich will nicht selig sein, ich will verderben, Wenn du
+mich je--!
+
+Der Graf vom Strahl (mit dem Schein der Heftigkeit.)
+
+Da schw�rt sie und verflucht Sich, die leichtfertge Dirne, noch und
+meint, Gott werd es ihrem jungen Blut vergeben! - Was ist geschehn,
+f�nf Tag von hier, am Abend, In meinem Stall, als es schon dunkelte,
+Und ich den Gottschalk hie�, sich zu entfernen?
+
+K�thchen.  O!  Jesus!  Ich bedacht es nicht!--Im Stall zu Strahl, da
+hast du mich besucht.
+
+Der Graf vom Strahl.  Nun denn!  Da ists heraus?  Da hat sie nun Der
+Seelen Seligkeit sich weggeschworen!  Im Stall zu Strahl, da hab ich
+sie besucht!
+
+
+(K�thchen weint.)  (Pause.)
+
+Graf Otto.  Ihr qu�lt das Kind zu sehr.
+
+Theobald (n�hert sich ihr ger�hrt).  Komm, meine Tochter.
+
+(Er will sie an seine Brust heben.)
+
+K�thchen.  La�, la�!
+
+Wenzel.  Das nenn ich menschlich nicht verfahren.
+
+Graf Otto.  Zuletzt ist nichts im Stall zu Strahl geschehen.
+
+Der Graf vom Strahl (sieht sie an).  Bei Gott, ihr Herrn, wenn ihr
+des Glaubens seid: Ich bins!  Befehlt, so gehn wir aus einander.
+
+Graf Otto.  Ihr sollt das Kind befragen, ist die Meinung, Nicht mit
+barbarischem Triumph verh�hnen.  Seis, da� Natur Euch solche Macht
+verliehen: Ge�bt wie Ihrs tut, ist sie hassensw�rdger, Als selbst die
+H�llenkunst, der man Euch zeiht.
+
+Der Graf vom Strahl (erhebt das K�thchen vom Boden).  Ihr Herrn, was
+ich getan, das tat ich nur, Sie mit Triumph hier vor euch zu erheben!
+Statt meiner--(Auf den Boden hinzeigend.)
+
+steht mein Handschuh vor Gericht!  Glaubt ihr von Schuld sie rein,
+wie sie es ist, Wohl, so erlaubt denn, da� sie sich entferne.
+
+Wenzel.  Es scheint Ihr habt viel Gr�nde, das zu w�nschen?
+
+Der Graf vom Strahl.  Ich?  Gr�nd?  Entscheidende!  Ihr wollt sie,
+hoff ich, Nicht mit barbarschem �bermut verh�hnen?
+
+Wenzel (mit Bedeutung).  Wir w�nschen doch, erlaubt Ihrs, noch zu
+h�ren, Was in dem Stall damals zu Strahl geschehn.
+
+Der Graf vom Strahl.  Das wollt ihr Herrn noch--?
+
+Wenzel.  Allerdings!
+
+Der Graf vom Strahl (glutrot, indem er sich zum K�thchen wendet).
+
+Knie nieder!
+
+(K�thchen l��t sich auf Knieen vor ihm nieder.)
+
+Graf Otto.  Ihr seid sehr dreist, Herr Friedrich Graf vom Strahl!
+
+Der Graf vom Strahl (zum K�thchen).  So!  Recht!  Mir gibst du
+Antwort und sonst keinem.
+
+Hans.  Erlaubt!  Wir werden sie-Der Graf vom Strahl (ebenso).  Du
+r�hrst dich nicht!  Hier soll dich keiner richten, als nur der, Dem
+deine Seele frei sich unterwirft.
+
+Wenzel.  Herr Graf, man wird hier Mittel-Der Graf vom Strahl (mit
+unterdr�ckter Heftigkeit)
+
+Ich sage, nein!  Der Teufel soll mich holen, zwingt ihr sie!--Was
+wollt ihr wissen, ihr verehrten Herrn?
+
+Hans (auffahrend).  Beim Himmel!
+
+Wenzel.  Solch ein Trotz soll--!
+
+Hans.  He!  Die H�scher!
+
+Graf Otto (halblaut).  La�t, Freunde, la�t!  Verge�t nicht, wer er
+ist.
+
+Erster Richter.  Er hat nicht eben, dr�ckt Verschuldung ihn, Mit List
+sie �berh�rt.
+
+Zweiter Richter.  Das sag ich auch!  Man kann ihm das Gesch�ft wohl
+�berlassen.
+
+Graf Otto (zum Grafen vom Strahl).  Befragt sie, was geschehn, f�nf
+Tag von hier, Im Stall zu Strahl, als es schon dunkelte, Und ihr den
+Gottschalk hie�t, sich zu entfernen?
+
+Der Graf vom Strahl (zum K�thchen).  Was ist geschehn, f�nf Tag von
+hier, am Abend, Im Stall zu Strahl, als es schon dunkelte, Und ich
+den Gottschalk hie�, sich zu entfernen?
+
+K�thchen.  Mein hoher Herr!  Vergib mir, wenn ich fehlte; Jetzt leg
+ich alles, Punkt f�r Punkt, dir dar.
+
+Der Graf vom Strahl.  Gut.--Da ber�hrt ich dich und zwar--nicht?
+Freilich!  Das schon gestandst du?
+
+K�thchen.  Ja, mein verehrter Herr.
+
+Der Graf vom Strahl.  Nun?
+
+K�thchen.  Mein verehrter Herr?
+
+Der Graf vom Strahl.  Was will ich wissen?
+
+K�thchen.  Was du willst wissen?
+
+Der Graf vom Strahl.  Heraus damit!  Was stockst du?  Ich nahm, und
+herzte dich, und k��te dich, Und schlug den Arm dir--?
+
+K�thchen.  Nein, mein hoher Herr.
+
+Der Graf vom Strahl.  Was sonst?
+
+K�thchen.  Du stie�est mich mit F��en von dir.
+
+Der Graf vom Strahl.  Mit F��en?  Nein!  Das tu ich keinem Hund.
+Warum?  Weshalb?  Was hattst du mir getan?
+
+K�thchen.  Weil ich dem Vater, der voll Huld und G�te, Gekommen war,
+mit Pferden, mich zu holen, Den R�cken, voller Schrecken, wendete,
+Und mit der Bitte, mich vor ihm zu sch�tzen, Im Staub vor dir
+bewu�tlos nieder sank.
+
+Der Graf vom Strahl.  Da h�tt ich dich mit F��en weggesto�en?
+
+K�thchen.  Ja, mein verehrter Herr.
+
+Der Graf vom Strahl.  Ei, Possen, was!  Das war nur Schelmerei, des
+Vaters wegen.  Du bliebst doch nach wie vor im Schlo� zu Strahl.
+
+K�thchen.  Nein, mein verehrter Herr.
+
+Der Graf vom Strahl.  Nicht?  Wo auch sonst?
+
+K�thchen.  Als du die Peitsche, flammenden Gesichts, Herab vom Riegel
+nahmst, ging ich hinaus, Vor das bemooste Tor, und lagerte Mich
+drau�en, am zerfallnen Mauernring Wo in s��duftenden Holunderb�schen
+Ein Zeisig zwitschernd sich das Nest gebaut.
+
+Der Graf vom Strahl.  Hier aber jagt ich dich mit Hunden weg?
+
+K�thchen.  Nein, mein verehrter Herr.
+
+Der Graf vom Strahl.  Und als du wichst, Verfolgt vom Hundgeklaff,
+von meiner Grenze, Rief ich den Nachbar auf, dich zu verfolgen?
+
+K�thchen.  Nein, mein verehrter Herr!  Was sprichst du da?
+
+Der Graf vom Strahl.  Nicht?  Nicht?--Das werden diese Herren tadeln.
+
+K�thchen.  Du k�mmerst dich um diese Herren nicht.  Du sandtest
+Gottschalk mir am dritten Tage, Da� er mir sag: dein liebes K�thchen
+w�r ich; Vern�nftig aber m�cht ich sein, und gehn.
+
+Der Graf vom Strahl.  Und was entgegnetest du dem?
+
+K�thchen.  Ich sagte, Den Zeisig littest du, den zwitschernden, In
+den s��duftenden Holunderb�schen: M�chtst denn das K�thchen von
+Heilbronn auch leiden.
+
+Der Graf vom Strahl (erhebt das K�thchen).  Nun dann, so nehmt sie
+hin, ihr Herrn der Vehme, Und macht mit ihr und mir jetzt, was ihr
+wollt.
+
+(Pause.)
+
+Graf Otto (unwillig).  Der aberwitzge Tr�umer, unbekannt Mit dem
+gemeinen Zauber der Natur!--Wenn euer Urteil reif, wie meins, ihr
+Herrn, Geh ich zum Schlu�, und la� die Stimmen sammeln.
+
+Wenzel.  Zum Schlu�!
+
+Hans.  Die Stimmen!
+
+Alle.  Sammelt sie!
+
+Ein Richter.  Der Narr, der!  Der Fall ist klar.  Es ist hier nichts
+zu richten.
+
+Graf Otto.  Vehmherold, nimm den Helm und sammle sie.
+
+(Vehmherold sammelt die Kugeln und bringt den Helm, worin sie liegen,
+dem Grafen.)
+
+Graf Otto (steht auf).  Herr Friedrich Wetter Graf vom Strahl, du
+bist Einstimmig von der Vehme losgesprochen, Und dir dort, Theobald,
+dir geb ich auf, Nicht f�rder mit der Klage zu erscheinen, Bis du
+kannst bessere Beweise bringen.
+
+(Zu den Richtern.)  Steht auf, ihr Herrn! die Sitzung ist geschlossen.
+
+(Die Richter erheben sich.)
+
+Theobald.  Ihr hochverehrten Herrn, ihr sprecht ihn schuldlos?  Gott
+sagt ihr, hat die Welt aus nichts gemacht; Und er, der sie durch
+nichts und wieder nichts Vernichtet, in das erste Chaos st�rzt, Der
+sollte nicht der leidge Satan sein?
+
+Graf Otto.  Schweig, alter, grauer Tor!  Wir sind nicht da, Dir die
+verr�ckten Sinnen einzurenken.  Vehmh�scher, an dein Amt!  Blend ihm
+die Augen, Und f�hr ihn wieder auf das Feld hinaus.
+
+Theobald.  Was!  Auf das Feld?  Mich hilflos greisen Alten?  Und dies
+mein einzig liebes Kind,--?
+
+Graf Otto.  Herr Graf, Das �berl��t die Vehme Euch!  Ihr zeigtet Von
+der Gewalt, die Ihr hier �bt, so manche Besondre Probe uns; la�t uns
+noch eine, Die gr��este, bevor wir scheiden, sehn, Und gebt sie ihrem
+alten Vater wieder.
+
+Der Graf vom Strahl.  Ihr Herren, was ich tun kann, soll geschehn.
+--Jungfrau!
+
+K�thchen.  Mein hoher Herr!
+
+Der Graf vom Strahl.  Du liebst mich?
+
+K�thchen.  Herzlich!
+
+Der Graf vom Strahl.  So tu mir was zu Lieb.
+
+K�thchen.  Was willst du?  Sprich.
+
+Der Graf vom Strahl.  Verfolg mich nicht.  Geh nach Heilbronn zur�ck.
+--Willst du das tun?
+
+K�thchen.  Ich hab es dir versprochen.
+
+(Sie f�llt in Ohnmacht.)
+
+Theobald (empf�ngt sie).  Mein Kind!  Mein Einziges!  Hilf, Gott im
+Himmel!
+
+Der Graf vom Strahl (wendet sich).  Dein Tuch her, H�scher!  (Er
+verbindet sich die Augen.)
+
+Theobald.  O verflucht sei, Mordschaunder Basiliskengeist!  Mu�t ich
+Auch diese Probe deiner Kunst noch sehn?
+
+Graf Otto (vom Richtstuhl herabsteigend).  Was ist geschehn, ihr
+Herrn?
+
+Wenzel.  Sie sank zu Boden.
+
+(Sie betrachten sie.)
+
+Der Graf vom Strahl (zu den H�schern).  F�hrt mich hinweg!
+
+Theobald.  Der H�lle zu, du Satan!  La� ihre schlangenhaargen
+Pf�rtner dich An ihrem Eingang, Zauberer, ergreifen, Und dich
+zehntausend Klafter tiefer noch, Als ihre wildsten Flammen lodern,
+schleudern!
+
+Graf Otto.  Schweig Alter, schweig!
+
+Theobald (weint).  Mein Kind!  Mein K�thchen!
+
+K�thchen.  Ach!
+
+Wenzel (freudig).  Sie schl�gt die Augen auf!
+
+Hans.  Sie wird sich fassen.
+
+Graf Otto.  Bringt in des Pf�rtners Wohnung sie!  Hinweg!
+
+(Alle ab.)
+
+
+
+
+Zweiter Akt
+
+Szene: Wald vor der H�hle des heimlichen Gerichts.
+
+
+
+Erster Auftritt
+
+
+Der Graf vom Strahl (tritt auf, mit verbundenen Augen, gef�hrt von
+zwei H�schern, die ihm die Augen aufbinden, und alsdann in die H�hle
+zur�ckkehren--Er wirft sich auf den Boden nieder und weint).  Nun
+will ich hier, wie ein Sch�fer liegen und klagen.  Die Sonne scheint
+noch r�tlich durch die St�mme, auf welchen die Wipfel des Waldes ruhn;
+und wenn ich, nach einer kurzen Viertelstunde, sobald sie hinter den
+H�gel gesunken ist, aufsitze, und mich im Blachfelde, wo der Weg eben
+ist, ein wenig daran halte, so komme ich noch nach Schlo�
+Wetterstrahl, ehe die Lichter darin erloschen sind.  Ich will mir
+einbilden, meine Pferde dort unten, wo die Quelle rieselt, w�ren
+Schafe und Ziegen, die an dem Felsen kletterten, und an Gr�sern und
+bittern Gestr�uchen rissen; ein leichtes wei�es linnenes Zeug
+bedeckte mich, mit roten B�ndern zusammengebunden, und um mich her
+flatterte eine Schar muntrer Winde, um die Seufzer, die meiner, von
+Gram sehr gepre�ten, Brust entquillen, gradaus zu der guten G�tter
+Ohr empor zu tragen.  Wirklich und wahrhaftig!  Ich will meine
+Muttersprache durchbl�ttern, und das ganze, reiche Kapitel, das diese
+�berschrift f�hrt: Empfindung, dergestalt pl�ndern, da� kein
+Reimschmied mehr, auf eine neue Art, soll sagen k�nnen: ich bin
+betr�bt.  Alles, was die Wehmut R�hrendes hat, will ich aufbieten,
+Lust und in den Tod gehende Betr�bnis sollen sich abwechseln, und
+meine Stimme, wie einen sch�nen T�nzer, durch alle Beugungen hindurch
+f�hren, die die Seele bezaubern; und wenn die B�ume nicht in der Tat
+bewegt werden, und ihren milden Tau, als ob es geregnet h�tte,
+herabtr�ufeln lassen, so sind sie von Holz, und alles, was uns die
+Dichter von ihnen sagen, ein blo�es liebliches M�rchen.  O du--wie
+nenn ich dich?  K�thchen!  Warum kann ich dich nicht mein nennen?
+K�thchen, M�dchen, K�thchen!  Warum kann ich dich nicht mein nennen?
+Warum kann ich dich nicht aufheben, und in das duftende Himmelbett
+tragen, das mir die Mutter, daheim im Prunkgemach, aufgerichtet hat?
+K�thchen, K�thchen, K�thchen!  Du, deren junge Seele, als sie heut
+nackt vor mir stand, von woll�stiger Sch�nheit g�nzlich triefte, wie
+die mit �len gesalbte Braut eines Perserk�nigs, wenn sie, auf alle
+Teppiche niederregnend, in sein Gemach gef�hrt wird!  K�thchen,
+M�dchen, K�thchen!  Warum kann ich es nicht?  Du Sch�nere, als ich
+singen kann, ich will eine eigene Kunst erfinden, und dich weinen.
+Alle Phiolen der Empfindung, himmlische und irdische, will ich
+er�ffnen, und eine solche Mischung von Tr�nen, einen Ergu� so
+eigent�mlicher Art, so heilig zugleich und �ppig, zusammensch�tten,
+da� jeder Mensch gleich, an dessen Hals ich sie weine, sagen soll:
+sie flie�en dem K�thchen von Heilbronn!--Ihr grauen, b�rtigen Alten,
+was wollt ihr?  Warum verla�t ihr eure goldnen Rahmen, ihr Bilder
+meiner geharnischten V�ter, die meinen R�stsaal bev�lkern, und tretet,
+in unruhiger Versammlung, hier um mich herum, eure ehrw�rdigen
+Locken sch�ttelnd?  Nein, nein, nein!  Zum Weibe, wenn ich sie gleich
+liebe, begehr ich sie nicht; eurem stolzen Reigen will ich mich
+anschlie�en: das war beschlo�ne Sache, noch ehe ihr kamt.  Dich aber,
+Winfried, der ihn f�hrt, du Erster meines Namens, G�ttlicher mit der
+Scheitel des Zeus, dich frag ich, ob die Mutter meines Geschlechts
+war, wie diese: von jeder frommen Tugend strahlender, makelloser an
+Leib und Seele, mit jedem Liebreiz geschm�ckter, als sie?  O Winfried!
+Grauer Alter!  Ich k�sse dir die Hand, und danke dir, da� ich bin;
+doch h�ttest du sie an die st�hlerne Brust gedr�ckt, du h�ttest ein
+Geschlecht von K�nigen erzeugt, und Wetter vom Strahl hie�e jedes
+Gebot auf Erden!  Ich wei�, da� ich mich fassen und diese Wunde
+vernarben werde: denn welche Wunde vernarbte nicht der Mensch?  Doch
+wenn ich jemals ein Weib finde, K�thchen, dir gleich: so will ich die
+L�nder durchreisen, und die Sprachen der Welt lernen, und Gott
+preisen in jeder Zunge, die geredet wird.--Gottschalk!
+
+
+
+Zweiter Auftritt
+
+Gottschalk.  Der Graf vom Strahl.
+
+
+Gottschalk (drau�en).  Heda!  Herr Graf vom Strahl!
+
+Der Graf vom Strahl.  Was gibts?
+
+Gottschalk.  Was zum Henker!  Ein Bote ist angekommen von Eurer
+Mutter.
+
+Der Graf vom Strahl.  Ein Bote?
+
+Gottschalk.  Gestreckten Laufs, keuchend, mit verh�ngtem Z�gel; mein
+Seel, wenn Euer Schlo� ein eiserner Bogen und er ein Pfeil gewesen
+w�re, er h�tte nicht rascher herangeschossen werden k�nnen.
+
+Der Graf vom Strahl.  Was hat er mir zu sagen?
+
+Gottschalk.  He!  Ritter Franz!
+
+
+
+Dritter Auftritt
+
+Ritter Flammberg tritt auf.  Die Vorigen.
+
+
+Der Graf vom Strahl.  Flammberg!--Was f�hrt dich so eilig zu mir her?
+
+Flammberg.  Gn�digster Herr!  Eurer Mutter, der Gr�fin, Gebot; sie
+befahl mir den besten Renner zu nehmen, und Euch entgegen zu reiten!
+
+Der Graf vom Strahl.  Nun?  Und was bringst du mir?
+
+Flammberg.  Krieg, bei meinem Eid, Krieg!  Ein Aufgebot zu neuer
+Fehde, warm, wie sie es eben von des Herolds Lippen empfangen hat.
+
+Der Graf vom Strahl (betreten).  Wessen?--Doch nicht des Burggrafen,
+mit dem ich eben den Frieden abschlo�?  (Er setzt sich den Helm auf.)
+
+Flammberg.  Des Rheingrafen, des Junkers vom Stein, der unten am
+weinumbl�hten Neckar seinen Sitz hat.
+
+Der Graf vom Strahl.  Des Rheingrafen!--Was hab ich mit dem
+Rheingrafen zu schaffen, Flammberg?
+
+Flammberg.  Mein Seel!  Was hattet Ihr mit dem Burggrafen zu
+schaffen?  Und was wollte so mancher andere von Euch, ehe Ihr mit dem
+Burggrafen zu schaffen kriegtet?  Wenn Ihr den kleinen griechischen
+Feuerfunken nicht austretet, der diese Kriege veranla�t, so sollt Ihr
+noch das ganze Schwabengebirge wider Euch auflodern sehen, und die
+Alpen und den Hundsr�ck obenein.
+
+Der Graf vom Strahl.  Es ist nicht m�glich!  Fr�ulein
+Kunigunde-Flammberg.  Der Rheingraf fordert, im Namen Fr�ulein
+Kunigundens von Thurneck, den Wiederkauf Eurer Herrschaft Stauffen;
+jener drei St�dtlein und siebzehn D�rfer und Vorwerker, Eurem
+Vorfahren Otto, von Peter, dem ihrigen, unter der besagten Klausel,
+k�uflich abgetreten; grade so, wie dies der Burggraf von Freiburg,
+und, in fr�heren Zeiten schon ihre Vettern, in ihrem Namen getan
+haben.
+
+Der Graf vom Strahl (steht auf).  Die rasende Meg�re!  Ist das nicht
+der dritte Reichsritter, den sie mir, einem Hund gleich, auf den Hals
+hetzt, um mir diese Landschaft abzujagen!  Ich glaube, das ganze
+Reich fri�t ihr aus der Hand.  Kleopatra fand einen, und als der sich
+den Kopf zerschellt hatte, schauten die anderen; doch ihr dient alles,
+was eine Ribbe weniger hat, als sie, und f�r jeden einzelnen, den
+ich ihr zerzaust zur�cksende, stehen zehn andere wider mich auf.--Was
+f�hrt' er f�r Gr�nde an?
+
+Flammberg.  Wer?  Der Herold?
+
+Der Graf vom Strahl.  Was f�hrt' er f�r Gr�nde an?
+
+Flammberg.  Ei, gestrenger Herr, da h�tt er ja rot werden m�ssen.
+
+Der Graf vom Strahl.  Er sprach von Peter von Thurneck--nicht?  Und
+von der Landschaft ung�ltigem Verkauf?
+
+Flammberg.  Allerdings.  Und von den schw�bischen Gesetzen; mischte
+Pflicht und Gewissen, bei jedem dritten Wort, in die Rede, und rief
+Gott zum Zeugen an, da� nichts als die reinsten Absichten seinen
+Herrn, den Rheingrafen, verm�chten, des Fr�uleins Sache zu ergreifen.
+
+Der Graf vom Strahl.  Aber die roten Wangen der Dame behielt er f�r
+sich?
+
+Flammberg.  Davon hat er kein Wort gesagt.
+
+Der Graf vom Strahl.  Da� sie die Pocken kriegte!  Ich wollte, ich
+k�nnte den Nachttau in Eimern auffassen, und �ber ihren wei�en Hals
+ausgie�en!  Ihr kleines verw�nschtes Gesicht ist der letzte Grund
+aller dieser Kriege wider mich; und so lange ich den M�rzschnee nicht
+vergiften kann, mit welchem sie sich w�scht, hab ich auch vor den
+Rittern des Landes keine Ruhe.  Aber Geduld nur!--Wo h�lt sie sich
+jetzt auf?
+
+Flammberg.  Auf der Burg zum Stein, wo ihr schon seit drei Tagen
+Prunkgelage gefeiert werden, da� die Feste des Himmels erkracht, und
+Sonne, Mond und Sterne nicht mehr angesehen werden.  Der Burggraf,
+den sie verabschiedet hat, soll Rache kochen, und wenn Ihr einen
+Boten an ihn absendet, so zweifl' ich nicht, er zieht mit Euch gegen
+den Rheingrafen zu Felde.
+
+Der Graf vom Strahl.  Wohlan!  F�hrt mir die Pferde vor, ich will
+reiten.--Ich habe dieser jungen Aufwieglerin versprochen, wenn sie
+die Waffen ihres kleinen schelmischen Angesichts nicht ruhen lie�e
+wider mich, so w�rd ich ihr einen Possen zu spielen wissen, da� sie
+es ewig in einer Scheide tragen sollte; und so wahr ich diese Rechte
+aufhebe, ich halte Wort!--Folgt mir, meine Freunde!
+
+(Alle ab.)
+
+
+
+Szene: K�hlerh�tte im Gebirg.  Nacht, Donner und Blitz.
+
+Vierter Auftritt
+
+Burggraf von Freiburg und Georg von Waldst�tten treten auf.
+
+
+Freiburg (in die Szene rufend).  Hebt sie vom Pferd herunter!--(Blitz
+und Donnerschlag.)--Ei, so schlag ein wo du willst; nur nicht auf die
+Scheitel, belegt mit Kreide, meiner lieben Braut, der Kunigunde von
+Thurneck!
+
+Eine Stimme (au�erhalb).  He!  Wo seid Ihr?
+
+Freiburg.  Hier!
+
+Georg.  Habt Ihr jemals eine solche Nacht erlebt?
+
+Freiburg.  Das gie�t vom Himmel herab, Wipfel und Bergspitzen
+ers�ufend, als ob eine zweite S�ndflut heranbr�che.--Hebt sie vom
+Pferd herunter!
+
+Eine Stimme (au�erhalb).  Sie r�hrt sich nicht.
+
+Eine andere.  Sie liegt, wie tot, zu des Pferdes F��en da.
+
+Freiburg.  Ei, Possen!  Das tut sie blo�, um ihre falschen Z�hne
+nicht zu verlieren.  Sagt ihr, ich w�re der Burggraf von Freiburg und
+die echten, die sie im Mund h�tte, h�tte ich gez�hlt.--So! bringt sie
+her.
+
+(Ritter Schauermann erscheint, das Fr�ulein von Thurneck auf der
+Schulter tragend.)
+
+Georg.  Dort ist eine K�hlerh�tte.
+
+
+
+F�nfter Auftritt
+
+Ritter Schauermann mit dem Fr�ulein, Ritter Wetzlaf und die Reisigen
+des Burggrafen.  Zwei K�hler.  Die Vorigen.
+
+
+Freiburg (an die K�hlerh�tte klopfend).  Heda!
+
+Der erste K�hler (drinnen).  Wer klopfet?
+
+Freiburg.  Frag nicht' du Schlingel, und mach auf.
+
+Der zweite K�hler (ebenso).  Holla!  Nicht eher bis ich den Schl�ssel
+umgekehrt habe.  Wird doch der Kaiser nicht vor der T�r sein?
+
+Freiburg.  Halunke!  Wenn nicht der, doch einer, der hier regiert,
+und den Szepter gleich vom Ast brechen wird, ums dir zu zeigen.
+
+Der erste K�hler (auftretend, eine Laterne in der Hand).  Wer seid
+ihr?  Was wollt ihr?
+
+Freiburg.  Ein Rittersmann bin ich; und diese Dame, die hier todkrank
+herangetragen wird, das ist-Schauermann (von hinten).  Das Licht weg!
+
+Wetzlaf.  Schmei�t ihm die Laterne aus der Hand!
+
+Freiburg (indem er ihm die Laterne wegnimmt).  Spitzbube!  Du willst
+hier leuchten?
+
+Der erste K�hler.  Ihr Herren, ich will hoffen, der gr��este unter
+euch bin ich!  Warum nehmt ihr mir die Laterne weg?
+
+Der zweite K�hler.  Wer seid ihr?  Und was wollt ihr?
+
+Freiburg.  Rittersleute, du Flegel, hab ich dir schon gesagt!
+
+Georg.  Wir sind reisende Ritter, ihr guten Leute, die das Unwetter
+�berrascht hat.
+
+Freiburg (unterbricht ihn).  Kriegsm�nner, die von Jerusalem kommen,
+und in ihre Heimat ziehen; und jene Dame dort, die herangetragen wird,
+von Kopf zu Fu� in einem Mantel eingewickelt, das ist-(Ein
+Gewitterschlag.)
+
+Der erste K�hler.  Ei, so pl�rr du, da� die Wolken rei�en!--Von
+Jerusalem, sagt ihr?
+
+Der zweite K�hler.  Man kann vor dem breitm�uligen Donner kein Wort
+verstehen.
+
+Freiburg.  Von Jerusalem, ja.
+
+Der zweite K�hler.  Und das Weibsen, das herangetragen wird--?
+
+Georg (auf den Burggrafen zeigend).  Das ist des Herren kranke
+Schwester, ihr ehrlichen Leute, und begehrt-Freiburg (unterbricht
+ihn).  Das ist jenes Schwester, du Schuft, und meine Gemahlin;
+todkrank, wie du siehst, von Schlo�en und Hagel halb erschlagen, so
+da� sie kein Wort vorbringen kann: die begehrt eines Platzes in
+deiner H�tte, bis das Ungewitter vor�ber und der Tag angebrochen ist.
+
+Der erste K�hler.  Die begehrt einen Platz in meiner H�tte?
+
+Georg.  Ja, ihr guten K�hler; bis das Gewitter vor�ber ist, und wir
+unsre Reise fortsetzen k�nnen.
+
+Der zweite K�hler.  Mein Seel, da habt ihr Worte gesagt, die waren
+den Lungenodem nicht wert, womit ihr sie ausgesto�en.
+
+Der erste K�hler.  Isaak!
+
+Freiburg.  Du willst das tun?
+
+Der zweite K�hler.  Des Kaisers Hunden, ihr Herrn, wenn sie vor
+meiner T�r darum heulten.--Isaak!  Schlingel! h�rst nicht?
+
+Junge (in der H�tte).  Hei sag ich.  Was gibts?
+
+Der zweite K�hler.  Das Stroh sch�ttle auf, Schlingel, und die Decken
+dr�berhin; ein krank Weibsen wird kommen und Platz nehmen, in der
+H�tten!  H�rst du?
+
+Freiburg.  Wer spricht drin?
+
+Der erste K�hler.  Ei, ein Flachskopf von zehn Jahren, der uns an die
+Hand geht.
+
+Freiburg.  Gut.--Tritt heran, Schauermann! hier ist ein Knebel
+losgegangen.
+
+Schauermann.  Wo?
+
+Freiburg.  Gleichviel!--In den Winkel mit ihr hin, dort!--Wenn der
+Tag anbricht, werd ich dich rufen.
+
+(Schauermann tr�gt das Fr�ulein in die H�tte.)
+
+
+
+Sechster Auftritt
+
+Die Vorigen ohne Schauermann und das Fr�ulein.
+
+
+Freiburg.  Nun, Georg, alle Saiten des Jubels schlag ich an: wir
+haben sie; wir haben diese Kunigunde von Thurneck!  So wahr ich nach
+meinem Vater getauft bin, nicht um den ganzen Himmel, um den meine
+Jugend gebetet hat, geb ich die Lust weg, die mir beschert ist, wenn
+der morgende Tag anbricht!--Warum kamst du nicht fr�her von
+Waldst�tten herab?
+
+Georg.  Weil du mich nicht fr�her rufen lie�est.
+
+Freiburg.  O, Georg!  Du h�ttest sie sehen sollen, wie sie daher
+geritten kam, einer Fabel gleich, von den Rittern des Landes umringt,
+gleich einer Sonne, unter ihren Planeten!  Wars nicht, als ob sie zu
+den Kieseln sagte, die unter ihr Funken spr�hten: ihr m��t mir
+schmelzen, wenn ihr mich seht?  Thalestris, die K�nigin der Amazonen,
+als sie herabzog vom Kaukasus, Alexander den Gro�en zu bitten, da� er
+sie k�sse: sie war nicht reizender und g�ttlicher, als sie.
+
+Georg.  Wo fingst du sie?
+
+Freiburg.  F�nf Stunden, Georg, f�nf Stunden von der Steinburg, wo
+ihr der Rheingraf, durch drei Tage, schallende Jubelfeste gefeiert
+hatte.  Die Ritter, die sie begleiteten, hatten sie kaum verlassen,
+da werf ich ihren Vetter Isidor, der bei ihr geblieben war, in den
+Sand, und auf den Rappen mit ihr, und auf und davon.
+
+Georg.  Aber, Max!  Max!  Was hast du--?
+
+Freiburg.  Ich will dir sagen, Freund-Georg.  Was bereitest du dir,
+mit allen diesen ungeheuren Anstalten, vor?
+
+Freiburg.  Lieber!  Guter!  Wunderlicher!  Honig von Hybla, f�r diese
+vom Durst der Rache zu Holz vertrocknete Brust.  Warum soll dies
+wesenlose Bild l�nger, einer olympischen G�ttin gleich, auf dem
+Fu�gestell prangen, die Hallen der christlichen Kirchen von uns und
+unsersgleichen entv�lkernd?  Lieber angefa�t, und auf den Schutt
+hinaus, das Oberste zu unterst, damit mit Augen erschaut wird, da�
+kein Gott in ihm wohnt.
+
+Georg.  Aber in aller Welt, sag mir, was ists, das dich mit so
+rasendem Ha� gegen sie erf�llt?
+
+Freiburg.  O Georg!  Der Mensch wirft alles, was er sein nennt, in
+eine Pf�tze, aber kein Gef�hl.  Georg, ich liebte sie, und sie war
+dessen nicht wert.  Ich liebte sie und ward verschm�ht, Georg; und
+sie war meiner Liebe nicht wert.  Ich will dir was sagen--Aber es
+macht mich bla�, wenn ich daran denke.  Georg!  Georg!  Wenn die
+Teufel um eine Erfindung verlegen sind: so m�ssen sie einen Hahn
+fragen der sich vergebens um eine Henne gedreht hat, und hinterher
+sieht, da� sie, vom Aussatz zerfressen, zu seinem Spa�e nicht taugt.
+
+Georg.  Du wirst keine unritterliche Rache an ihr aus�ben?
+
+Freiburg.  Nein; Gott beh�t mich!  Keinem Knecht mut ich zu, sie an
+ihr zu vollziehn.--Ich bringe sie nach der Steinburg zum Rheingrafen
+zur�ck, wo ich nichts tun will, als ihr das Halstuch abnehmen: das
+soll meine ganze Rache sein!
+
+Georg.  Was!  Das Halstuch abnehmen?
+
+Freiburg.  Ja Georg; und das Volk zusammen rufen.
+
+Georg.  Nun, und wenn das geschehn ist, da willst du--?
+
+Freiburg.  Ei, da will ich �ber sie philosophieren.  Da will ich euch
+einen metaphysischen Satz �ber sie geben, wie Platon, und meinen Satz
+nachher erl�utern, wie der lustige Diogenes getan.  Der Mensch
+ist--Aber still: (Er horcht.)
+
+Georg.  Nun! der Mensch ist?-Freiburg.  Der Mensch ist, nach Platon,
+ein zweibeinigtes ungefiedertes Tier; du wei�t, wie Diogenes dies
+bewiesen; einen Hahn, glaub ich, rupft' er, und warf ihn unter das
+Volk.--Und diese Kunigunde, Freund, diese Kunigunde von Thurneck, die
+ist nach mir--Aber still!  So wahr ich ein Mann bin: dort steigt
+jemand vom Pferd!
+
+
+
+Siebenter Auftritt
+
+Der Graf vom Strahl und Ritter Flammberg treten auf.
+
+Nachher Gottschalk.--Die Vorigen.
+
+
+Der Graf vom Strahl (an die H�tte klopfend).  Heda!  Ihr wackern
+K�hlersleute!
+
+Flammberg.  Das ist eine Nacht, die W�lfe in den Kl�ften um ein
+Unterkommen anzusprechen.
+
+Der Graf vom Strahl.  Ists erlaubt, einzutreten?
+
+Freiburg (ihm in den Weg).  Erlaubt, ihr Herrn!  Wer ihr auch sein
+m�gt dort-Georg.  Ihr k�nnt hier nicht einkehren.
+
+Der Graf vom Strahl.  Nicht?  Warum nicht?
+
+Freiburg.  Weil kein Raum drin ist, weder f�r euch noch f�r uns.
+Meine Frau liegt darin todkrank, den einzigen Winkel der leer ist mit
+ihrer Bedienung erf�llend: ihr werdet sie nicht daraus vertreiben
+wollen.
+
+Der Graf vom Strahl.  Nein, bei meinem Eid!  Viel mehr w�nsche ich,
+da� sie sich bald darin erholen m�ge.--Gottschalk!
+
+Flammberg.  So m�ssen wir beim Gastwirt zum blauen Himmel �bernachten.
+
+Der Graf vom Strahl.  Gottschalk sag ich!
+
+Gottschalk (drau�en).  Hier!
+
+Der Graf vom Strahl.  Schaff die Decken her!  Wir wollen uns hier ein
+Lager bereiten, unter den Zweigen.
+
+(Gottschalk und der K�hlerjunge treten auf.)
+
+Gottschalk (indem er ihnen die Decken bringt).  Das wei� der Teufel,
+was das hier f�r eine Wirtschaft ist.  Der Junge sagt, drinnen w�re
+ein geharnischter Mann, der ein Fr�ulein bewachte: das l�ge geknebelt
+und mit verstopftem Munde da, wie ein Kalb, das man zur Schlachtbank
+bringen will.
+
+Der Graf vom Strahl.  Was sagst du?  Ein Fr�ulein?  Geknebelt und mit
+verstopftem Munde?--Wer hat dir das gesagt?
+
+Flammberg.  Jung!  Woher wei�t du das?
+
+K�hlerjunge (erschrocken).  St!--Um aller Heiligen willen!  Ihr
+Herren, was macht ihr?
+
+Der Graf vom Strahl.  Komm her.
+
+K�hlerjunge.  Ich sage: St!
+
+Flammberg.  Jung!  Wer hat dir das gesagt?  So sprich.
+
+K�hlerjunge (heimlich nachdem er sich umgesehen).  Habs geschaut, ihr
+Herren.  Lag auf dem Stroh, als sie sie hineintrugen, und sprachen,
+sie sei krank.  Kehrt ihr die Lampe zu und erschaut, da� sie gesund
+war, und Wangen hatt als wie unsre Lore.  Und wimmert' und druckt'
+mir die H�nd und blinzelte, und sprach so vernehmlich, wie ein kluger
+Hund: mach mich los, lieb B�bel, mach mich los! da� ichs mit Augen
+h�rt und mit den Fingern verstand.
+
+Der Graf vom Strahl.  Jung, du flachsk�pfiger; so tus!
+
+Flammberg.  Was s�umst du?  Was machst du?
+
+Der Graf vom Strahl.  Bind sie los und schick sie her!
+
+K�hlerjunge (sch�chtern).  St! sag ich.--Ich wollt, da� ihr zu
+Fischen w�rdet!--Da erheben sich ihrer drei schon und kommen her, und
+sehen, was es gibt?  (Er bl�st seine Laterne aus.)
+
+Der Graf vom Strahl.  Nichts, du wackrer Junge, nichts.
+
+Flammberg.  Sie haben nichts davon geh�rt.
+
+Der Graf vom Strahl.  Sie wechseln blo� um des Regens willen ihre
+Pl�tze.
+
+K�hlerjunge (sieht sich um).  Wollt ihr mich sch�tzen?
+
+Der Graf vom Strahl.  Ja, so wahr ich ein Ritter bin; das will ich.
+
+Flammberg.  Darauf kannst du dich verlassen.
+
+K�hlerjunge.  Wohlan!  Ich wills dem Vater sagen.--Schaut was ich tue,
+und ob ich in die H�tte gehe, oder nicht?  (Er spricht mit den Alten,
+die hinten am Feuer stehen, und verliert sich nachher in die H�tte.)
+
+Flammberg.  Sind das solche Kauze?  Beelzebubs-Ritter, deren
+Ordensmantel die Nacht ist?  Eheleute, auf der Landstra�e mit
+Stricken und Banden an einander getraut?
+
+Der Graf vom Strahl.  Krank, sagten sie!
+
+Flammberg.  Todkrank, und dankten f�r alle H�lfe!
+
+Gottschalk.  Nun wart!  Wir wollen sie scheiden.
+
+(Pause.)
+
+Schauermann (in der H�tte).  He! holla!  Die Bestie!
+
+Der Graf vom Strahl.  Auf, Flammberg; erhebe dich!
+
+(Sie stehen auf.)
+
+Freiburg.  Was gibts?
+
+(Die Partei des Burggrafen erhebt sich.)
+
+Schauermann.  Ich bin angebunden,!  Ich bin angebunden!
+
+(Das Fr�ulein erscheint.)
+
+Freiburg.  Ihr G�tter!  Was erblick ich?
+
+
+
+Achter Auftritt
+
+Fr�ulein Kunigunde von Thurneck im Reisekleide, mit entfesselten
+Haaren.--Die Vorigen.
+
+
+Kunigunde (wirft sich vor dem Grafen vom Strahl nieder).  Mein Retter!
+Wer Ihr immer seid!  Nehmt einer Vielfach geschm�hten und
+gesch�ndeten Jungfrau Euch an!  Wenn Euer ritterlicher Eid Den Schutz
+der Unschuld Euch empfiehlt: hier liegt sie In Staub gestreckt, die
+jetzt ihn von Euch fordert!
+
+Freiburg.  Rei�t sie hinweg, ihr M�nner!
+
+Georg (ihn zur�ckhaltend).  Max! h�r mich an.
+
+Freiburg.  Rei�t sie hinweg, sag ich; la�t sie nicht reden!
+
+Der Graf vom Strahl.  Halt dort ihr Herrn!  Was wollt ihr!
+
+Freiburg.  Was wir wollen?  Mein Weib will ich, zum Henker!--Auf!
+ergreift sie!
+
+Kunigunde.  Dein Weib?  Du L�gnerherz!
+
+Der Graf vom Strahl (streng).  Ber�hr sie nicht!  Wenn du von dieser
+Dame was verlangst, So sagst dus mir!  Denn mir geh�rt sie jetzt,
+Weil sie sich meinem Schutze anvertraut.  (Er erhebt sie.)
+
+Freiburg.  Wer bist du, �berm�tiger, da� du Dich zwischen zwei
+Verm�hlte dr�ngst?  Wer gibt Das Recht dir, mir die Gattin zu
+verweigern?
+
+Kunigunde.  Die Gattin?  B�sewicht!  Das bin ich nicht!
+
+Der Graf vom Strahl.  Und wer bist du, Nichtsw�rdiger, da� du Sie
+deine Gattin sagst, verfluchter Bube, Da� du sie dein nennst, geiler
+M�dchenr�uber, Die Jungfrau, dir vom Teufel in der H�lle, Mit Knebeln
+und mit Banden angetraut?
+
+Freiburg.  Wie?  Was?  Wer?
+
+Georg.  Max, ich bitte dich.
+
+Der Graf vom Strahl.  Wer bist du?
+
+Freiburg.  Ihr Herrn, ihr irrt euch sehr-Der Graf vom Strahl.  Wer
+bist du, frag ich?
+
+Freiburg.  Ihr Herren, wenn ihr glaubt, da� ich-Der Graf vom Strahl.
+Schafft Licht her!
+
+Freiburg.  Dies Weib hier, das ich mitgebracht, das ist-Der Graf vom
+Strahl.  Ich sage Licht herbeigeschafft!
+
+(Gottschalk und die K�hler kommen mit Fackeln und Feuerhaken.)
+
+Freiburg.  Ich bin-Georg (heimlich).  Ein Rasender bist du!  Fort!
+Gleich hinweg!  Willst du auf ewig nicht dein Wappen sch�nden.
+
+Der Graf vom Strahl.  So, meine wackern K�hler; leuchtet mir!
+
+(Freiburg schlie�t sein Visier.)
+
+Der Graf vom Strahl.  Wer bist du jetzt, frag ich?  �ffn' das
+Visier.
+
+Freiburg.  Ihr Herrn, ich bin-Der Graf vom Strahl.  �ffn' das
+Visier.
+
+Freiburg.  Ihr h�rt.
+
+Der Graf vom Strahl.  Meinst du, leichtfertger Bube, ungestraft Die
+Antwort mir zu weigern, wie ich dir?
+
+(Er rei�t ihm den Helm vom Haupt, der Burggraf taumelt.)
+
+Schauermann.  Schmei�t den Verwegenen doch gleich zu Boden!
+
+Wetzlaf.  Auf!  Zieht!
+
+Freiburg.  Du Rasender, welch eine Tat!
+
+(Er erhebt sich, zieht und haut nach dem Grafen; der weicht aus.)
+
+Der Graf vom Strahl.  Du wehrst dich mir, du Afterbr�utigam?
+
+(Er haut ihn nieder.)  So fahr zur H�lle hin, woher du kamst, Und
+feire deine Flitterwochen drin!
+
+Wetzlaf.  Entsetzen!  Schaut!  Er st�rzt, er wankt, er f�llt!
+
+Flammberg (dringt vor).  Auf jetzt, ihr Freunde!
+
+Schauermann.  Fort!  Entflieht!
+
+Flammberg.  Schlagt drein!  Jagt das Gesindel v�llig in die Flucht!
+
+(Die Burggr�flichen entweichen; niemand bleibt als Georg, der �ber
+den Burggrafen besch�ftigt ist.)
+
+Der Graf vom Strahl (zum Burggrafen).  Freiburg!  Was seh ich?  Ihr
+allm�chtgen G�tter!  Du bists?
+
+Kunigunde (unterdr�ckt).  Der undankbare H�llenfuchs!
+
+Der Graf vom Strahl.  Was galt dir diese Jungfrau, du Unsel'ger?  Was
+wolltest du mit ihr?
+
+Georg.--Er kann nicht reden.  Blut f�llt, vom Scheitel quellend, ihm
+den Mund.
+
+Kunigunde.  La�t ihn ersticken drin!
+
+Der Graf vom Strahl.  Ein Traum erscheint mirs!  Ein Mensch wie der,
+so wacker sonst, und gut. - Kommt ihm zu H�lf, ihr Leute!
+
+Flammberg.  Auf!  Greift an!  Und tragt ihn dort in jener H�tte Raum.
+
+Kunigunde.  Ins Grab!  Die Schaufeln her!  Er sei gewesen!
+
+Der Graf vom Strahl.  Beruhigt Euch!--Wie er darnieder liegt, Wird er
+auch unbeerdigt Euch nicht schaden.
+
+Kunigunde.  Ich bitt um Wasser!
+
+Der Graf vom Strahl.  F�hlt Ihr Euch nicht wohl?
+
+Kunigunde.  Nichts, nichts--Es ist--Wer hilft?--Ist hier kein Sitz? -
+Weh mir!  (Sie wankt.)
+
+Der Graf vom Strahl.  Ihr Himmlischen!  He!  Gottschalk! hilf!
+
+Gottschalk.  Die Fackeln her!
+
+Kunigunde.  La�t, la�t!
+
+Der Graf vom Strahl (hat sie auf einen Sitz gef�hrt).  Es geht
+vor�ber?
+
+Kunigunde.  Das Licht kehrt meinen tr�ben Augen wieder.-Der Graf vom
+Strahl.  Was wars, das so urpl�tzlich Euch ergriff?
+
+Kunigunde.  Ach, mein gro�m�tger Retter und Befreier, Wie nenn ich
+das?  Welch ein entsetzensvoller, Unmenschlicher Frevel war mir
+zugedacht?  Denk ich, was ohne Euch, vielleicht schon jetzt, Mir
+widerfuhr, hebt sich mein Haar empor, Und meiner Glieder jegliches
+erstarrt.
+
+Der Graf vom Strahl.  Wer seid Ihr?  Sprecht!  Was ist Euch
+widerfahren?
+
+Kunigunde.  O Seligkeit, Euch dies jetzt zu entdecken!  Die Tat, die
+Euer Arm vollbracht, ist keiner Unw�rdigen geschehen; Kunigunde,
+Freifrau von Thurneck, bin ich, da� Ihrs wi�t; Das s��e Leben, das
+Ihr mir erhieltet, Wird, au�er mir, in Thurneck, dankbar noch Ein
+ganz Geschlecht Euch von Verwandten lohnen.
+
+Der Graf vom Strahl.  Ihr seid?--Es ist nicht m�glich?  Kunigunde Von
+Thurneck?-Kunigunde.  Ja, so sagt ich!  Was erstaunt Ihr?
+
+Der Graf vom Strahl (steht auf).  Nun denn, bei meinem Eid, es tut
+mir leid, So kamt Ihr aus dem Regen in die Traufe: Denn ich bin
+Friedrich Wetter Graf vom Strahl!
+
+Kunigunde.  Was!  Euer Name?--Der Name meines Retters?-Der Graf vom
+Strahl.  Ist Friedrich Strahl, Ihr h�rts.  Es tut mir leid, Da� ich
+Euch keinen bessern nennen kann.
+
+Kunigunde (steht auf).  Ihr Himmlischen!  Wie pr�ft ihr dieses Herz?
+
+Gottschalk (heimlich).  Die Thurneck? h�rt ich recht?
+
+Flammberg (erstaunt).  Bei Gott!  Sie ists!
+
+(Pause.)
+
+Kunigunde.  Es sei.  Es soll mir das Gef�hl, das hier In diesem Busen
+sich entflammt, nicht st�ren.  Ich will nichts denken, f�hlen will
+ich nichts, Als Unschuld, Ehre, Leben, Rettung--Schutz Vor diesem
+Wolf, der hier am Boden liegt.--Komm her, du lieber, goldner Knabe,
+du, Der mich befreit, nimm diesen Ring von mir, Es ist jetzt alles,
+was ich geben kann: Einst lohn ich w�rdiger, du junger Held, Die Tat
+dir, die mein Band gel�st, die mutige, Die mich vor Schmach bewahrt,
+die mich errettet, Die Tat, die mich zur Seligen gemacht!
+
+(Sie wendet sich zum Grafen.)  Euch, mein Gebieter--Euer nenn ich
+alles, Was mein ist!  Sprecht!  Was habt Ihr �ber mich beschlossen?
+In Eurer Macht bin ich; was mu� geschehn?  Mu� ich nach Eurem
+Rittersitz Euch folgen?
+
+Der Graf vom Strahl (nicht ohne Verlegenheit).  Mein Fr�ulein--es ist
+nicht eben allzuweit.  Wenn Ihr ein Pferd besteigt, so k�nnt Ihr bei
+Der Gr�fin, meiner Mutter, �bernachten.
+
+Kunigunde.  F�hrt mir das Pferd vor!
+
+Der Graf vom Strahl (nach einer Pause).  Ihr vergebt mir, Wenn die
+Verh�ltnisse, in welchen wir-Kunigunde.  Nichts, nichts!  Ich bitt
+Euch sehr!  Besch�mt mich nicht!  In Eure Kerker klaglos w�rd ich
+wandern.
+
+Der Graf vom Strahl.  In meinen Kerker!  Was!  Ihr �berzeugt
+Euch-Kunigunde (unterbricht ihn).  Dr�ckt mich mit Eurer Gro�mut
+nicht zu Boden!--Ich bitt um Eure Hand!
+
+Der Graf vom Strahl.  He!  Fackeln!  Leuchtet!  (Ab.)
+
+
+
+Neunter Auftritt
+
+Szene: Schlo� Wetterstrahl.  Ein Gemach in der Burg.
+
+Kunigunde, in einem halb vollendeten, romantischen Anzuge, tritt auf,
+und setzt sich vor einer Toilette nieder.  Hinter ihr Rosalie und die
+alte Brigitte.
+
+
+Rosalie (zu Brigitten).  Hier, M�tterchen, setz dich!  Der Graf vom
+Strahl hat sich bei meinem Fr�ulein anmelden lassen; sie l��t sich
+nur noch die Haare von mir zurecht legen, und mag gern dein Geschw�tz
+h�ren.
+
+Brigitte (die sich gesetzt).  Also Ihr seid Fr�ulein Kunigunde von
+Thurneck?
+
+Kunigunde.  Ja M�tterchen; das bin ich.
+
+Brigitte.  Und nennt Euch eine Tochter des Kaisers?
+
+Kunigunde.  Des Kaisers?  Nein; wer sagt dir das?  Der jetzt lebende
+Kaiser ist mir fremd; die Urenkelin eines der vorigen Kaiser bin ich,
+die in verflossenen Jahrhunderten, auf dem deutschen Thron sa�en.
+
+Brigitte.  O Herr!  Es ist nicht m�glich?  Die
+Urenkeltochter-Kunigunde.  Nun ja!
+
+Rosalie.  Hab ich es dir nicht gesagt?
+
+Brigitte.  Nun, bei meiner Treu, so kann ich mich ins Grab legen: der
+Traum des Grafen vom Strahl ist aus!
+
+Kunigunde.  Welch ein Traum?
+
+Rosalie.  H�rt nur, h�rt!  Es ist die wunderlichste Geschichte von
+der Welt!--Aber sei b�ndig, M�tterchen, und spare den Eingang; denn
+die Zeit, wie ich dir schon gesagt, ist kurz.
+
+Brigitte.  Der Graf war gegen das Ende des vorletzten Jahres, nach
+einer seltsamen Schwermut, von welcher kein Mensch die Ursache
+ergr�nden konnte, erkrankt; matt lag er da, mit glutrotem Antlitz und
+phantasierte; die �rzte, die ihre Mittel ersch�pft hatten, sprachen,
+er sei nicht zu retten.  Alles, was in seinem Herzen verschlossen war,
+lag nun, im Wahnsinn des Fiebers, auf seiner Zunge: er scheide gern,
+sprach er, von hinnen; das M�dchen, das f�hig w�re, ihn zu lieben,
+sei nicht vorhanden; Leben aber ohne Liebe sei Tod; die Welt nannt er
+ein Grab, und das Grab eine Wiege, und meinte, er w�rde nun erst
+geboren werden.--Drei hintereinander folgende N�chte, w�hrend welcher
+seine Mutter nicht von seinem Bette wich, erz�hlte er ihr, ihm sei
+ein Engel erschienen und habe ihm zugerufen: Vertraue, vertraue,
+vertraue!  Auf der Gr�fin Frage: ob sein Herz sich, durch diesen
+Zuruf des Himmlischen, nicht gest�rkt f�hle? antwortete er:
+"Gest�rkt?  Nein!"--und mit einem Seufzer setzte er hinzu: "doch!
+doch, Mutter!  Wenn ich sie werde gesehen haben!"--Die Gr�fin fragt:
+und wirst du sie sehen?  "Gewi�!" antwortet er.  Wann? fragt sie.
+Wo?--"In der Silvesternacht, wenn das neue Jahr eintritt; da wird er
+mich zu ihr f�hren." Wer? fragt sie, Lieber; zu wem?  "Der Engel",
+spricht er, "zu meinem M�dchen"--wendet sich und schl�ft ein.
+
+Kunigunde.  Geschw�tz!
+
+Rosalie.  H�rt sie nur weiter.--Nun?
+
+Brigitte.  Drauf in der Silvesternacht, in dem Augenblick, da eben
+das Jahr wechselt, hebt er sich halb vom Lager empor, starrt, als ob
+er eine Erscheinung h�tte, ins Zimmer hinein, und, indem er mit der
+Hand zeigt: "Mutter!  Mutter!  Mutter!" spricht er.  Was gibts? fragt
+sie.  "Dort!  Dort!" Wo?  "Geschwind!" spricht er.--Was?--"Den Helm!
+Den Harnisch!  Das Schwert!"--Wo willst du hin? fragt die Mutter.
+"Zu ihr", spricht er, "zu ihr.  So! so! so!" und sinkt zur�ck; "Ade,
+Mutter ade!" streckt alle Glieder von sich, und liegt wie tot.
+
+Kunigunde.  Tot?
+
+Rosalie.  Tot, ja!
+
+Kunigunde.  Sie meint, einem Toten gleich.
+
+Rosalie.  Sie sagt, tot!  St�rt sie nicht.--Nun?
+
+Brigitte.  Wir horchten an seiner Brust: es war so still darin, wie
+in einer leeren Kammer.  Eine Feder ward ihm vorgehalten, seinen Atem
+zu pr�fen: sie r�hrte sich nicht.  Der Arzt meinte in der Tat, sein
+Geist habe ihn verlassen; rief ihm �ngstlich seinen Namen ins Ohr;
+reizt' ihn, um ihn zu erwecken, mit Ger�chen; reizt' ihn mit Stiften
+und Nadeln, ri� ihm ein Haar aus, da� sich das Blut zeigte; vergebens:
+er bewegte kein Glied und lag, wie tot.
+
+Kunigunde.  Nun?  Darauf?
+
+Brigitte.  Darauf, nachdem er einen Zeitraum so gelegen, f�hrt er auf,
+kehrt sich, mit dem Ausdruck der Betr�bnis, der Wand zu, und spricht:
+"Ach!  Nun bringen sie die Lichter!  Nun ist sie mir wieder
+verschwunden!"--gleichsam, als ob er durch den Glanz derselben
+verscheucht w�rde.--Und da die Gr�fin sich �ber ihn neigt und ihn an
+ihre Brust hebt und spricht: Mein Friedrich!  Wo warst du?  "Bei ihr",
+versetzt er, mit freudiger Stimme; "bei ihr, die mich liebt! bei der
+Braut, die mir der Himmel bestimmt hat!  Geh, Mutter geh, und la� nun
+in allen Kirchen f�r mich beten: denn nun w�nsch ich zu leben."
+
+Kunigunde.  Und bessert sich wirklich?
+
+Rosalie.  Das eben ist das Wunder.
+
+Brigitte.  Bessert sich, mein Fr�ulein, bessert sich, in der Tat;
+erholt sich, von Stund an, gewinnt, wie durch himmlischen Balsam
+geheilt, seine Kr�fte wieder, und ehe der Mond sich erneut, ist er so
+gesund wie zuvor.
+
+Kunigunde.  Und erz�hlte?--Was erz�hlte er nun?
+
+Brigitte.  Ach, und erz�hlte, und fand kein Ende zu erz�hlen: wie der
+Engel ihn, bei der Hand, durch die Nacht geleitet; wie er sanft des
+M�dchens Schlafk�mmerlein er�ffnet, und alle W�nde mit seinem Glanz
+erleuchtend, zu ihr eingetreten sei; wie es dagelegen, das holde Kind,
+mit nichts, als dem Hemdchen angetan, und die Augen bei seinem
+Anblick gro� aufgemacht, und gerufen habe, mit einer Stimme, die das
+Erstaunen beklemmt.  "Mariane!" welches jemand gewesen sein m�sse,
+der in der Nebenkammer geschlafen; wie sie darauf, vom Purpur der
+Freude �ber und �ber schimmernd, aus dem Bette gestiegen, und sich
+auf Knieen vor ihm niedergelassen, das Haupt gesenkt, und: mein hoher
+Herr! gelispelt; wie der Engel ihm darauf, da� es eine Kaisertochter
+sei, gesagt, und ihm ein Mal gezeigt, das dem Kindlein r�tlich auf
+dem Nacken verzeichnet war,--wie er, von unendlichem Entz�cken
+durchbebt, sie eben beim Kinn gefa�t, um ihr ins Antlitz zu schauen:
+und wie die unselige Magd nun, die Mariane, mit Licht gekommen, und
+die ganze Erscheinung bei ihrem Eintritt wieder verschwunden sei.
+
+Kunigunde.  Und nun meinst du, diese Kaisertochter sei ich?
+
+Brigitte.  Wer sonst?
+
+Rosalie.  Das sag ich auch.
+
+Brigitte.  Die ganze Strahlburg, bei Eurem Einzug, als sie erfuhr,
+wer Ihr seid, schlug die H�nde �ber den Kopf zusammen und rief: sie
+ists!
+
+Rosalie.  Es fehlte nichts, als da� die Glocken ihre Zungen gel�st,
+und gerufen h�tten: ja, ja, ja!
+
+Kunigunde (steht auf).  Ich danke dir, M�tterchen, f�r deine
+Erz�hlung.  Inzwischen nimm diese Ohrringe zum Andenken, und entferne
+dich.
+
+(Brigitte ab.)
+
+
+
+Zehnter Auftritt
+
+Kunigunde und Rosalie.
+
+
+Kunigunde (nachdem sie sich im Spiegel betrachtet, geht gedankenlos
+ans Fenster und �ffnet es.--Pause.)  Hast du mir alles dort zurecht
+gelegt, Was ich dem Grafen zugedacht, Rosalie?  Urkunden, Briefe,
+Zeugnisse?
+
+Rosalie (am Tisch zur�ck geblieben).  Hier sind sie.  In diesem
+Einschlag liegen sie beisammen.
+
+Kunigunde.  Gib mir doch--(Sie nimmt eine Leimrute, die drau�en
+befestigt ist, herein.)
+
+Rosalie.  Was, mein Fr�ulein?
+
+Kunigunde (lebhaft).  Schau, o M�dchen!  Ist dies die Spur von einem
+Fittich nicht?
+
+Rosalie (indem sie zu ihr geht).  Was habt ihr da?
+
+Kunigunde.  Leimruten, die, ich wei� Nicht wer? an diesem Fenster
+aufgestellt!--Sieh, hat hier nicht ein Fittich schon gestreift?
+
+Rosalie.  Gewi�!  Da ist die Spur.  Was wars?  Ein Zeisig?
+
+Kunigunde.  Ein Finkenh�hnchen wars, das ich vergebens Den ganzen
+Morgen schon herangelockt.
+
+Rosalie.  Seht nur dies Federchen.  Das lie� er stecken!
+
+Kunigunde (gedankenvoll).  Gib mir doch-Rosalie.  Was, mein Fr�ulein?
+Die Papiere?
+
+Kunigunde (lacht und schl�gt sie).  Schelmin!--Die Hirse will ich,
+die dort steht.
+
+(Rosalie lacht, und geht und holt die Hirse.)
+
+
+
+Eilfter Auftritt
+
+Ein Bedienter tritt auf.  Die Vorigen.
+
+Der Bediente.  Graf Wetter vom Strahl, und die Gr�fin seine Mutter!
+
+
+Kunigunde (wirft alles aus der Hand).  Rasch!  Mit den Sachen weg.
+
+Rosalie.  Gleich, gleich!  (Sie macht die Toilette zu und geht ab.)
+
+Kunigunde.  Sie werden mir willkommen sein.
+
+
+
+Zw�lfter Auftritt
+
+Gr�fin Helena, der Graf vom Strahl treten auf.  Fr�ulein Kunigunde.
+
+
+Kunigunde (ihnen entgegen).  Verehrungsw�rdge!  Meines Retters Mutter,
+Wem dank ich, welchem Umstand, das Vergn�gen, Da� ihr mir Euer
+Antlitz schenkt, da� Ihr Verg�nnt, die teuren H�nde Euch zu k�ssen?
+
+Gr�fin.  Mein Fr�ulein, Ihr dem�tigt mich.  Ich kam, Um Eure Stirn zu
+k�ssen, und zu fragen, Wie Ihr in meinem Hause Euch befindet?
+
+Kunigunde.  Sehr wohl.  Ich fand hier alles, was ich brauchte.  Ich
+hatte nichts von Eurer Huld verdient, Und Ihr besorgtet mich, gleich
+einer Tochter.  Wenn irgend etwas mir die Ruhe st�rte So war es dies
+besch�mende Gef�hl; Doch ich bedurfte nur den Augenblick, Um diesen
+Streit in meiner Brust zu l�sen.
+
+(Sie wendet sich zum Grafen.)  Wie stehts mit Eurer linken Hand, Graf
+Friedrich?
+
+Der Graf vom Strahl.  Mit meiner Hand? mein Fr�ulein!  Diese Frage,
+Ist mir empfindlicher als ihre Wunde!  Der Sattel wars, sonst nichts,
+an dem ich mich Unachtsam stie�, Euch hier vom Pferde hebend.
+
+Gr�fin.  Ward sie verwundet?--Davon wei� ich nichts.
+
+Kunigunde.  Es fand sich, als wir dieses Schlo� erreichten, Da� ihr,
+in hellen Tropfen, Blut entflo�.
+
+Der Graf vom Strahl.  Die Hand selbst, seht Ihr, hat es schon
+vergessen.  Wenns Freiburg war, dem ich im Kampf um Euch, Dies Blut
+gezahlt, so kann ich wirklich sagen: Schlecht war der Preis, um den
+er Euch verkauft.
+
+Kunigunde.  Ihr denkt von seinem Werte so--nicht ich.
+
+(Indem sie sich zur Mutter wendet.)  - Doch wie?  Wollt Ihr Euch,
+Gn�digste, nicht setzen?
+
+(Sie holt einen Stuhl, der Graf bringt die andern.  Sie lassen sich
+s�mtlich nieder.)
+
+Gr�fin.  Wie denkt Ihr, �ber Eure Zukunft, Fr�ulein?  Habt Ihr die
+Lag, in die das Schicksal Euch Versetzt, bereits erwogen?  Wi�t Ihr
+schon, Wie Euer Herz darin sich fassen wird?
+
+Kunigunde (bewegt).  Verehrungsw�rdige und gn�dge Gr�fin, Die Tage,
+die mir zugemessen, denk ich In Preis und Dank, in immer gl�hender
+Erinnrung des, was j�ngst f�r mich geschehn, In unausl�schlicher
+Verehrung Eurer, Und Eures Hauses, bis auf den letzten Odem, Der
+meine Brust bewegt, wenns mir verg�nnt ist, In Thurneck bei den
+Meinen hinzubringen.  (Sie weint.)
+
+Gr�fin.  Wann denkt Ihr zu den Euren aufzubrechen?
+
+Kunigunde.  Ich w�nsche--weil die Tanten mich erwarten, - Wenns sein
+kann, morgen,--oder mindestens--In diesen Tagen, abgef�hrt zu werden.
+
+Gr�fin.  Bedenkt ihr auch, was dem entgegen steht?
+
+Kunigunde.  Nichts mehr, erlauchte Frau, wenn Ihr mir nur Verg�nnt,
+mich offen vor Euch zu erkl�ren.
+
+(Sie k��t ihr die Hand; steht auf und holt die Papiere.)  Nehmt dies
+von meiner Hand, Herr Graf vom Strahl.
+
+Der Graf vom Strahl (steht auf).  Mein Fr�ulein!  Kann ich wissen,
+was es ist?
+
+Kunigunde.  Die Dokumente sinds, den Streit betreffend, Um Eure
+Herrschaft Stauffen, die Papiere Auf die ich meinen Anspruch gr�ndete.
+
+Der Graf vom Strahl.  Mein Fr�ulein, Ihr besch�mt mich, in der Tat!
+Wenn dieses Heft, wie Ihr zu glauben scheint, Ein Recht begr�ndet:
+weichen will ich Euch, Und wenn es meine letzte H�tte g�lte!
+
+Kunigunde.  Nehmt, nehmt, Herr Graf vom Strahl!  Die Briefe sind
+Zweideutig, seh ich ein, der Wiederkauf, Zu dem sie mich berechtigen,
+verj�hrt; Doch w�r mein Recht so klar auch, wie die Sonne, Nicht
+gegen Euch mehr kann ichs geltend machen.
+
+Der Graf vom Strahl.  Niemals, mein Fr�ulein, niemals, in der Tat!
+Mit Freuden nehm ich, wollt Ihr mir ihn schenken, Von Euch den
+Frieden an; doch, wenn auch nur Der Zweifel eines Rechts auf Stauffen
+Euer, Das Dokument nicht, das ihn Euch belegt!  Bringt Eure Sache vor,
+bei Kaiser und bei Reich, Und das Gesetz entscheide, wer sich irrte.
+
+Kunigunde (zur Gr�fin).  Befreit denn Ihr, verehrungsw�rdge Gr�fin,
+Von diesen leidgen Dokumenten mich, Die mir in H�nden brennen,
+widerw�rtig Zu dem Gef�hl, das mir erregt ist, stimmen, Und mir auf
+Gottes weiter Welt zu nichts mehr, Lebt ich auch neunzig Jahre,
+helfen k�nnen.
+
+Gr�fin (steht gleichfalls auf).  Mein teures Fr�ulein!  Eure
+Dankbarkeit F�hrt Euch zu weit.  Ihr k�nnt, was Eurer ganzen Familie
+angeh�rt, in einer fl�chtigen Bewegung nicht, die Euch ergriff,
+ver�u�ern.  Nehmt meines Sohnes Vorschlag an und la�t In Wetzlar die
+Papiere untersuchen; Versichert Euch, Ihr werdet wert uns bleiben,
+Man mag auch dort entscheiden, wie man wolle.
+
+Kunigunde (mit Affekt).  Nun denn, der Anspruch war mein Eigentum!
+Ich brauche keinen Vetter zu befragen, Und meinem Sohn vererb ich
+einst mein Herz!  Die Herrn in Wetzlar mag ich nicht bem�hn: Hier
+diese rasche Brust entscheidet so!
+
+(Sie zerrei�t die Papiere und l��t sie fallen.)
+
+Gr�fin.  Mein liebes, junges, unbesonnes Kind, Was habt Ihr da
+getan?--Kommt her, Weils doch geschehen ist, da� ich Euch k�sse.
+
+(Sie umarmt sie.)
+
+Kunigunde.  Ich will da� dem Gef�hl, das mir entflammt, Im Busen ist,
+nichts f�rder widerspreche!  Ich will, die Scheidewand soll
+niedersinken, Die zwischen mir und meinem Retter steht!  Ich will
+mein ganzes Leben ungest�rt, Durchatmen, ihn zu preisen, ihn zu
+lieben.
+
+Gr�fin (ger�hrt).  Gut, gut, mein T�chterchen.  Es ist schon gut, Ihr
+seid zu sehr ersch�ttert.
+
+Der Graf vom Strahl.--Ich will w�nschen, Da� diese Tat Euch nie
+gereuen m�ge.
+
+(Pause.)
+
+Kunigunde (trocknet sich die Augen).  Wann darf ich nun nach Thurneck
+wiederkehren?
+
+Gr�fin.  Gleich!  Wann Ihr wollt!  Mein Sohn selbst wird Euch f�hren!
+
+Kunigunde.  So seis--auf morgen denn!
+
+Gr�fin.  Gut!  Ihr begehrt es.  Obschon ich gern Euch l�nger bei mir
+s�he.  Doch heut bei Tisch noch macht Ihr uns die Freude?
+
+Kunigunde (verneigt sich).  Wenn ich mein Herz kann sammeln, wart ich
+auf.  (Ab.)
+
+
+
+Dreizehnter Auftritt
+
+Gr�fin Helena.  Der Graf vom Strahl.
+
+
+Der Graf vom Strahl.  So wahr, als ich ein Mann bin, die begehr ich
+Zur Frau!
+
+Gr�fin.  Nun, nun, nun, nun!
+
+Der Graf vom Strahl.  Was, Nicht?  Du willst, da� ich mir eine w�hlen
+soll; Doch die nicht?  Diese nicht?  Die nicht?  Was willst du?
+
+Gr�fin.  Ich sagte nicht, da� sie mir ganz mi�f�llt.
+
+Der Graf vom Strahl.  Ich will auch nicht, da� heut noch Hochzeit
+sei--Sie ist vom Stamm der alten s�chsschen Kaiser.
+
+Gr�fin.  Und der Silvesternachttraum spricht f�r sie?  Nicht?  Meinst
+du nicht?
+
+Der Graf vom Strahl.  Was soll ichs bergen: ja!
+
+Gr�fin.  La� uns die Sach ein wenig �berlegen.  (Ab.)
+
+
+
+
+Dritter Akt
+
+Szene: Gebirg und Wald.  Eine Einsiedelei.
+
+
+
+Erster Auftritt
+
+Theobald und Gottfried Friedeborn f�hren das K�thchen von einem
+Felsen herab.
+
+
+Theobald.  Nimm dich in acht, mein liebes K�thchen; der Gebirgspfad,
+siehst du, hat eine Spalte.  Setze deinen Fu� hier auf diesen Stein,
+der ein wenig mit Moos bewachsen ist; wenn ich w��te, wo eine Rose
+w�re, so wollte ich es dir sagen.--So!
+
+Gottfried.  Doch hast wohl Gott, K�thchen, nichts von der Reise
+anvertraut, die du heut zu tun willens warst?--Ich glaubte, an dem
+Kreuzweg, wo das Marienbild steht, w�rden zwei Engel kommen,
+J�nglinge, von hoher Gestalt, mit schneewei�en Fittichen an den
+Schultern, und sagen.  Ade, Theobald!  Ade, Gottfried!  Kehrt zur�ck,
+von wo ihr gekommen seid; wir werden das K�thchen jetzt auf seinem
+Wege zu Gott weiter f�hren.--Doch es war nichts; wir mu�ten dich ganz
+bis ans Kloster herbringen.
+
+Theobald.  Die Eichen sind so still, die auf den Bergen verstreut
+sind: man h�rt den Specht, der daran pickt.  Ich glaube, sie wissen,
+da� K�thchen angekommen ist, und lauschen auf das, was sie denkt.
+Wenn ich mich doch in die Welt aufl�sen k�nnte, um es zu erfahren.
+Harfenklang mu� nicht lieblicher sein, als ihr Gef�hl; es w�rde
+Israel hinweggelockt von David und seinen Zungen neue Psalter gelehrt
+haben.--Mein liebes K�thchen?
+
+K�thchen.  Mein lieber Vater!
+
+Theobald.  Sprich ein Wort.
+
+K�thchen.  Sind wir am Ziele?
+
+Theobald.  Wir sinds.  Dort in jenem freundlichen Geb�ude, das mit
+seinen T�rmen zwischen die Felsen geklemmt ist, sind die stillen
+Zellen der frommen Augustinerm�nche; und hier, der geheiligte Ort, wo
+sie beten.
+
+K�thchen.  Ich f�hle mich matt.
+
+Theobald.  Wir wollen uns setzen.  Komm, gib mir deine Hand, da� ich
+dich st�tze.  Hier vor diesem Gitter ist eine Ruhebank, mit kurzem
+und dichtem Gras bewachsen: schau her, das angenehmste Pl�tzchen, das
+ich jemals sah.
+
+(Sie setzen sich.)
+
+Gottfried.  Wie befindest du dich?
+
+K�thchen.  Sehr wohl.
+
+Theobald.  Du scheinst doch bla�, und deine Stirne ist voll Schwei�?
+
+(Pause.)
+
+Gottfried.  Sonst warst du so r�stig, konntest meilenweit wandern,
+durch Wald und Feld, und brauchtest nichts, als einen Stein, und das
+B�ndel das du auf der Schulter trugst, zum Pf�hl, um dich wieder
+herzustellen; und heut bist du so ersch�pft, da� es scheint, als ob
+alle Betten, in welchen die Kaiserin ruht, dich nicht wieder auf die
+Beine bringen w�rden.
+
+Theobald.  Willst du mit etwas erquickt sein.
+
+Gottfried.  Soll ich gehen und dir einen Trunk Wasser sch�pfen?
+
+Theobald.  Oder suchen wo dir eine Frucht bl�ht?
+
+Gottfried.  Sprich, mein liebes K�thchen!
+
+K�thchen.  Ich danke dir, lieber Vater.
+
+Theobald.  Du dankst uns.
+
+Gottfried.  Du verschm�hst alles.
+
+Theobald.  Du begehrst nichts, als da� ich ein Ende mache: hingehe
+und dem Prior Hatto,--meinem alten Freund, sage: der alte Theobald
+sei da, der sein einzig liebes Kind begraben wolle.
+
+K�thchen.  Mein lieber Vater!
+
+Theobald.  Nun gut.  Es soll geschehn.  Doch bevor wir die
+entscheidenden Schritte tun, die nicht mehr zur�ck zu nehmen sind,
+will ich dir noch etwas sagen.  Ich will dir sagen, was Gottfried und
+mir eingefallen ist, auf dem Wege hierher, und was, wie uns scheint,
+ins Werk zu richten notwendig ist, bevor wir den Prior in dieser
+Sache sprechen.--Willst du es wissen?
+
+K�thchen.  Rede!
+
+Theobald.  Nun wohlan, so merk auf, und pr�fe dein Herz wohl!--Du
+willst in das Kloster der Ursulinerinnen gehen, das tief im einsamen
+kieferreichen Gebirge seinen Sitz hat.  Die Welt, der liebliche
+Schauplatz des Lebens, reizt dich nicht mehr; Gottes Antlitz, in
+Abgezogenheit und Fr�mmigkeit angeschaut, soll dir Vater, Hochzeit,
+Kind, und der Ku� kleiner bl�hender Enkel sein.
+
+K�thchen.  Ja, mein lieber Vater.
+
+Theobald (nach einer kurzen Pause).  Wie w�rs, wenn du auf ein paar
+Wochen, da die Witterung noch sch�n ist, zu dem Gem�uer
+zur�ckkehrtest, und dir die Sache ein wenig �berlegtest?
+
+K�thchen.  Wie?
+
+Theobald.  Wenn du wieder hingingst, mein ich, nach der Strahlburg,
+unter den Holunderstrauch, wo sich der Zeisig das Nest gebaut hat, am
+Hang des Felsens, du wei�t, von wo das Schlo�, im Sonnenstrahl
+funkelnd, �ber die Gauen des Landes herniederschaut?
+
+K�thchen.  Nein, mein lieber Vater!
+
+Theobald.  Warum nicht?
+
+K�thchen.  Der Graf, mein Herr, hat es mir verboten.
+
+Theobald.  Er hat es dir verboten.  Gut.  Und was er dir verboten hat,
+das darfst du nicht tun.  Doch wie, wenn ich hinginge und ihn b�te,
+da� er es erlaubte?
+
+K�thchen.  Wie?  Was sagst du?
+
+Theobald.  Wenn ich ihn ersuchte, dir das Pl�tzchen, wo dir so wohl
+ist, zu g�nnen, und mir die Freiheit w�rde, dich daselbst mit dem,
+was du zur Notdurft brauchst, freundlich auszustatten?
+
+K�thchen.  Nein, mein lieber Vater.
+
+Theobald.  Warum nicht?
+
+K�thchen (beklemmt).  Das w�rdest du nicht tun; und wenn du es t�test,
+so w�rde es der Graf nicht erlauben; und wenn der Graf es erlaubte,
+so w�rd ich doch von seiner Erlaubnis keinen Gebrauch machen.
+
+Theobald.  K�thchen!  Mein liebes K�thchen!  Ich will es tun.  Ich
+will mich so vor ihm niederlegen, wie ich es jetzt vor dir tue, und
+sprechen: mein hoher Herr! erlaubt, da� das K�thchen unter dem Himmel,
+der �ber Eure Burg gespannt ist, wohne; reitet Ihr aus, so verg�nnt,
+da� sie Euch von fern, auf einen Pfeilschu�, folge, und r�umt ihr,
+wenn die Nacht k�mmt, ein Pl�tzchen auf dem Stroh ein, das Euren
+stolzen Rossen untergesch�ttet wird.  Es ist besser, als da� sie vor
+Gram vergehe.
+
+K�thchen (indem sie sich gleichfalls vor ihm niederlegt).  Gott im
+h�chsten Himmel; du vernichtest mich!  Du legst mir deine Worte
+kreuzweis, wie Messer, in die Brust!  Ich will jetzt nicht mehr ins
+Kloster gehen, nach Heilbronn will ich mit dir zur�ckkehren, ich will
+den Grafen vergessen, und, wen du willst, heiraten; m��t auch ein
+Grab mir, von acht Ellen Tiefe, das Brautbett sein.
+
+Theobald (der aufgestanden ist und sie aufhebt).  Bist du mir b�s,
+K�thchen?
+
+K�thchen.  Nein, nein!  Was f�llt dir ein?
+
+Theobald.  Ich will dich ins Kloster bringen!
+
+K�thchen.  Nimmer und nimmermehr!  Weder auf die Strahlburg, noch ins
+Kloster!--Schaff mir nur jetzt, bei dem Prior, ein Nachtlager, da�
+ich mein Haupt niederlege, und mich erhole; mit Tagesanbruch, wenn es
+sein kann gehen wir zur�ck.  (Sie weint.)
+
+Gottfried.  Was hast du gemacht, Alter?
+
+Theobald.  Ach!  Ich habe sie gekr�nkt!
+
+Gottfried (klingelt).  Prior Hatto ist zu Hause?
+
+Pf�rtner (�ffnet).  Gelobt sei Jesus Christus!
+
+Theobald.  In Ewigkeit, Amen!
+
+Gottfried.  Vielleicht besinnt sie sich!
+
+Theobald.  Komm, meine Tochter!  (Alle ab.)
+
+
+
+Szene: Eine Herberge.
+
+Zweiter Auftritt
+
+Der Rheingraf vom Stein und Friedrich von Herrnstadt treten auf,
+ihnen folgt: Jakob Pech, der Gastwirt.  Gefolge von Knechten.
+
+
+Rheingraf (zu dem Gefolge).  La�t die Pferde absatteln!  Stellt
+Wachen aus, auf dreihundert Schritt um die Herberge, und la�t jeden
+ein, niemand aus!  F�ttert und bleibt in den St�llen, und zeigt euch,
+so wenig es sein kann; wenn Eginhardt mit Kundschaft aus der Thurneck
+zur�ckkommt, geh ich euch meine weitern Befehle.
+
+(Das Gefolge ab.)
+
+Wer wohnt hier?
+
+Jakob Pech.  Halten zu Gnaden, ich und meine Frau, gestrenger Herr.
+
+Rheingraf.  Und hier?
+
+Jakob Pech.  Vieh.
+
+Rheingraf.  Wie?
+
+Jakob Pech.  Vieh.--Eine Sau mit ihrem Wurf, halten zu Gnaden; es ist
+ein Schweinstall, von Latten drau�en angebaut.
+
+Rheingraf.  Gut.--Wer wohnt hier?
+
+Jakob Pech.  Wo?
+
+Rheingraf.  Hinter dieser dritten T�r?
+
+Jakob Pech.  Niemand, halten zu Gnaden.
+
+Rheingraf.  Niemand?
+
+Jakob Pech.  Niemand gestrenger Herr, gewi� und wahrhaftig.  Oder
+vielmehr jedermann.  Es geht wieder aufs offne Feld hinaus.
+
+Rheingraf.  Gut.--Wie hei�est du?
+
+Jakob Pech.  Jakob Pech.
+
+Rheingraf.  Tritt ab, Jakob Pech.-(Der Gastwirt ab.)
+
+Rheingraf.  Ich will mich hier, wie die Spinne, zusammen kn�ueln, da�
+ich aussehe, wie ein H�uflein argloser Staub; und wenn sie im Netz
+sitzt, diese Kunigunde, �ber sie herfahren--den Stachel der Rache
+tief eindr�cken in ihre treulose Brust: t�ten, t�ten, t�ten, und ihr
+Gerippe, als das Monument einer Erzbuhlerin, in dem Geb�lke der
+Steinburg aufbewahren!
+
+Friedrich.  Ruhig, ruhig Albrecht!  Eginhardt, den du nach Thurneck
+gesandt hast, ist noch, mit der Best�tigung dessen, was du argwohnst,
+nicht zur�ck.
+
+Rheingraf.  Da hast du recht, Freund; Eginhardt ist noch nicht zur�ck.
+Zwar in dem Zettel, den mir die B�bin schrieb, steht: ihre
+Empfehlung voran; es sei nicht n�tig, da� ich mich f�rder um sie
+bem�he; Stauffen sei ihr von dem Grafen vom Strahl, auf dem Wege
+freundlicher Vermittlung, abgetreten.  Bei meiner unsterblichen Seele,
+hat dies irgend einen Zusammenhang, der rechtschaffen ist: so will
+ich es hinunterschlucken, und die Kriegsr�stung, die ich f�r sie
+gemacht, wieder auseinander gehen lassen.  Doch wenn Eginhardt kommt
+und mir sagt, was mir das Ger�chte schon gesteckt, da� sie ihm mit
+ihrer Hand verlobt ist: so will ich meine Artigkeit, wie ein
+Taschenmesser, zusammenlegen, und ihr die Kriegskosten wieder abjagen:
+m��t ich sie umkehren, und ihr den Betrag hellerweise aus den
+Taschen heraussch�tteln.
+
+
+
+Dritter Auftritt
+
+Eginhardt von der Wart tritt auf.  Die Vorigen.
+
+
+Rheingraf.  Nun, Freund, alle Gr��e treuer Br�derschaft �ber dich!
+--Wie stehts auf dem Schlosse zu Thurneck?
+
+Eginhardt.  Freunde, es ist alles, wie der Ruf uns erz�hlt!  Sie
+gehen mit vollen Segeln auf dem Ozean der Liebe, und ehe der Mond
+sich erneut, sind sie in den Hafen der Ehe eingelaufen.
+
+Rheingraf.  Der Blitz soll ihre Masten zersplittern, ehe sie ihn
+erreichen!
+
+Friedrich.  Sie sind miteinander verlobt?
+
+Eginhardt.  Mit d�rren Worten, glaub ich, nein; doch wenn Blicke
+reden, Mienen schreiben und H�ndedr�cke siegeln k�nnen, so sind die
+Ehepakten fertig.
+
+Rheingraf.  Wie ist es mit der Schenkung von Stauffen zugegangen?
+Das erz�hle!
+
+Friedrich.  Wann machte er ihr das Geschenk?
+
+Eginhardt.  Ei!  Vorgestern, am Morgen ihres Geburtstags, da die
+Vettern ihr ein gl�nzendes Fest in der Thurneck bereitet hatten.  Die
+Sonne schien kaum r�tlich auf ihr Lager: da findet sie das Dokument
+schon auf der Decke liegen; das Dokument, versteht mich, in ein
+Briefchen des verliebten Grafen eingewickelt, mit der Versicherung,
+da� es ihr Brautgeschenk sei, wenn sie sich entschlie�en k�nne, ihm
+ihre Hand zu geben.
+
+Rheingraf.  Sie nahm es?  Nat�rlich!  Sie stellte sich vor den
+Spiegel, knixte, und nahm es?
+
+Eginhardt.  Das Dokument?  Allerdings.
+
+Friedrich.  Aber die Hand, die dagegen gefordert ward?
+
+Eginhardt.  O die verweigerte sie nicht.
+
+Friedrich.  Was!  Nicht?
+
+Eginhardt.  Nein.  Gott beh�te!  Wann h�tte sie je einem Freier ihre
+Hand verweigert?
+
+Rheingraf.  Aber sie h�lt, wenn die Glocke geht, nicht Wort?
+
+Eginhardt.  Danach habt Ihr mich nicht gefragt.
+
+Rheingraf.  Wie beantwortete sie den Brief?
+
+Eginhardt.  Sie sei so ger�hrt, da� ihre Augen, wie zwei Quellen,
+niedertr�ufelten, und ihre Schrift ertr�nkten;--die Sprache, an die
+sie sich wenden m�sse, ihr Gef�hl auszudr�cken, sei ein Bettler.--Er
+habe, auch ohne dieses Opfer, ein ewiges Recht an ihre Dankbarkeit,
+und es sei, wie mit einem Diamanten, in ihre Brust geschrieben;--kurz,
+einen Brief voll doppelsinniger Fratzen, der, wie der Schillertaft,
+zwei Farben spielt, und weder ja sagt, noch nein.
+
+Rheingraf.  Nun, Freunde; ihre Zauberei geht, mit diesem Kunstst�ck
+zu Grabe!  Mich betrog sie, und keinen mehr; die Reihe derer, die sie
+am Narrenseil gef�hrt hat, schlie�t mit mir ab.--Wo sind die beiden
+reitenden Boten?
+
+Friedrich (in die T�r rufend).  He!
+
+
+
+Vierter Auftritt
+
+Zwei Boten treten auf.  Die Vorigen.
+
+
+Rheingraf (nimmt zwei Briefe aus dem Kollett).  Diese beiden Briefe
+nehmt ihr--diesen du, diesen du; und tragt sie--diesen hier du an den
+Dominikanerprior Hatto, verstehst du?  Ich w�rd Glock sieben gegen
+Abend kommen, und Absolution in seinem Kloster empfangen.  Diesen
+hier du an Peter Quanz, Haushofmeister in der Burg zu Thurneck;
+Schlag zw�lf um Mitternacht st�nd ich mit meinem Kriegshaufen vor dem
+Schlo�, und br�che ein.  Du gehst nicht eher in die Burg, du, bis es
+finster ist, und l�ssest dich vor keinem Menschen sehen; verstehst du
+mich?--Du brauchst das Tageslicht nicht zu scheuen.--Habt ihr mich
+verstanden?
+
+Die Boten.  Gut.
+
+Rheingraf (nimmt ihnen die Briefe wieder aus der Hand).  Die Briefe
+sind doch nicht verwechselt?
+
+Friedrich.  Nein, nein.
+
+Rheingraf.  Nicht?--Himmel und Erde!
+
+Eginhardt.  Was gibts?
+
+Rheingraf.  Wer versiegelte sie?
+
+Friedrich.  Die Briefe?
+
+Rheingraf.  Ja!
+
+Friedrich.  Tod und Verderben!  Du versiegeltest sie selbst!
+
+Rheingraf (gibt den Boten die Briefe wieder).  Ganz recht! hier,
+nehmt!  Auf der M�hle, beim Sturzbach, werd ich euch erwarten!--Kommt
+meine Freunde!
+
+(Alle ab.)
+
+
+
+F�nfter Auftritt
+
+Szene: Thurneck.  Ein Zimmer in der Burg.
+
+Der Graf vom Strahl sitzt gedankenvoll an einem Tisch, auf welchem
+zwei Lichter stehen.  Er h�lt eine Laute in der Hand, und tut einige
+Griffe darauf.  Im Hintergrunde, bei seinen Kleidern und Waffen
+besch�ftigt, Gottschalk.
+
+
+Stimme (von au�en).  Macht auf!  Macht auf!  Macht auf!
+
+Gottschalk.  Holla!--Wer ruft?
+
+Stimme.  Ich, Gottschalk, bins; ich bins, du lieber Gottschalk!
+
+Gottschalk.  Wer?
+
+Stimme.  Ich!
+
+Gottschalk.  Du?
+
+Stimme.  Ja!
+
+Gottschalk.  Wer?
+
+Stimme.  Ich!
+
+Der Graf vom Strahl (legt die Laute weg).  Die Stimme kenn ich!
+
+Gottschalk.  Mein Seel!  Ich hab sie auch schon wo geh�rt.
+
+Stimme.  Herr Graf vom Strahl!  Macht auf!  Herr Graf vom Strahl!
+
+Der Graf vom Strahl.  Bei Gott!  Das ist-Gottschalk.  Das ist, so
+wahr ich lebe-Stimme.  Das K�thchen ists!  Wer sonst!  Das K�thchen
+Das kleine K�thchen von Heilbronn!
+
+Der Graf vom Strahl (steht auf).  Wie?  Was? zum Teufel!
+
+Gottschalk (legt alles aus der Hand).  Du, M�del?  Was?  O
+Herzensm�del!  Du?
+
+(Er �ffnet die T�r.)
+
+Der Graf vom Strahl.  Ward, seit die Welt steht, so etwas--?
+
+K�thchen (indem sie eintritt).  Ich bins.
+
+Gottschalk.  Schaut her, bei Gott!  Schaut her, sie ist es selbst!
+
+
+
+Sechster Auftritt
+
+Das K�thchen mit einem Brief.  Die Vorigen.
+
+
+Der Graf vom Strahl.  Schmei� sie hinaus.  Ich will nichts von ihr
+wissen.
+
+Gottschalk.  Was!  H�rt ich recht--?
+
+K�thchen.  Wo ist der Graf vom Strahl?
+
+Der Graf vom Strahl.  Schmei� sie hinaus!  Ich will nichts von ihr
+wissen!
+
+Gottschalk (nimmt sie bei der Hand).  Wie, gn�diger Herr, verg�nnt--!
+
+K�thchen (reicht ihm den Brief).  Hier! nehmt, Herr Graf!
+
+Der Graf vom Strahl (sich pl�tzlich zu ihr wendend).  Was willst du
+hier?  Was hast du hier zu suchen?
+
+K�thchen (erschrocken).  Nichts!--Gott beh�te!  Diesen Brief hier
+bitt ich-Der Graf vom Strahl.  Ich will ihn nicht!--Was ist dies f�r
+ein Brief?  Wo kommt er her?  Und was enth�lt er mir?
+
+K�thchen.  Der Brief hier ist-Der Graf vom Strahl.  Ich will davon
+nichts wissen!  Fort!  Gib ihn unten in dem Vorsaal ab.
+
+K�thchen.  Mein hoher Herr!  La�t bitt ich, Euch bedeuten-Der Graf
+vom Strahl (wild).  Die Dirne, die landstreichend unversch�mte!  Ich
+will nichts von ihr wissen!  Hinweg, sag ich!  Zur�ck nach Heilbronn,
+wo du hingeh�rst!
+
+K�thchen.  Herr meines Lebens!  Gleich verla� ich Euch!  Den Brief
+nur hier, der Euch sehr wichtig ist, Erniedrigt Euch, von meiner Hand
+zu nehmen.
+
+Der Graf vom Strahl.  Ich aber will ihn nicht!  Ich mag ihn nicht!
+Fort!  Augenblicks!  Hinweg!
+
+K�thchen.  Mein hoher Herr!
+
+Der Graf vom Strahl (wendet sich).  Die Peitsche her!  An welchem
+Nagel h�ngt sie?  Ich will doch sehn, ob ich, vor losen M�dchen, In
+meinem Haus nicht Ruh mir kann verschaffen.
+
+(Er nimmt die Peitsche von der Wand.)
+
+Gottschalk.  O gn�dger Herr!  Was macht Ihr?  Was beginnt Ihr?  Warum
+auch wollt Ihr, den nicht sie verfa�t, Den Brief, nicht freundlich
+aus der Hand ihr nehmen?
+
+Der Graf vom Strahl.  Schweig, alter Esel, du, sag ich.
+
+K�thchen (zu Gottschalk).  La�, la�!
+
+Der Graf vom Strahl.  In Thurneck bin ich hier, wei�, was ich tue;
+Ich will den Brief aus ihrer Hand nicht nehmen! - Willst du jetzt
+gehn?
+
+K�thchen (rasch).  Ja, mein verehrter Herr!
+
+Der Graf vom Strahl.  Wohlan!
+
+Gottschalk (halblaut zu K�thchen da sie zittert).
+
+Sei ruhig.  F�rchte nichts.
+
+Der Graf vom Strahl.  So fern dich!--Am Eingang steht ein Knecht, dem
+gib den Brief, Und kehr des Weges heim, von wo du kamst.
+
+K�thchen.  Gut, gut.  Du wirst mich dir gehorsam finden.  Peitsch
+mich nur nicht, bis ich mit Gottschalk sprach.--(Sie kehrt sich zu
+Gottschalk um.)  Nimm du den Brief.
+
+Gottschalk.  Gib her, mein liebes Kind.  Was ist dies f�r ein Brief?
+Und was enth�lt er?
+
+K�thchen.  Der Brief hier ist vom Graf vom Stein, verstehst du?  Ein
+Anschlag, der noch heut vollf�hrt soll werden, Auf Thurneck, diese
+Burg, darin enthalten, Und auf das sch�ne Fr�ulein Kunigunde, Des
+Grafen, meines hohen Herren, Braut.
+
+Gottschalk.  Ein Anschlag auf die Burg?  Es ist nicht m�glich!  Und
+vom Graf Stein?--Wie kamst du zu dem Brief?
+
+K�thchen.  Der Brief ward Prior Hatto �bergeben, Als ich mit Vater
+just, durch Gottes F�gung, In dessen stiller Klause mich befand.  Der
+Prior, der verstand den Inhalt nicht, Und wollt ihn schon dem Boten
+wiedergeben; Ich aber ri� den Brief ihm aus der Hand, Und eilte
+gleich nach Thurneck her, euch alles Zu melden, in die Harnische zu
+jagen; Denn heut, Schlag zw�lf um Mitternacht, soll schon Der
+m�rderische Frevel sich vollstrecken.
+
+Gottschalk.  Wie kam der Prior Hatto zu dem Brief?
+
+K�thchen.  Lieber, das wei� ich nicht; es ist gleichviel.  Er ist, du
+siehst, an irgend wen geschrieben, Der hier im Schlo� zu Thurneck
+wohnhaft ist; Was er dem Prior soll, begreift man nicht.  Doch da� es
+mit dem Anschlag richtig ist, Das hab ich selbst gesehn; denn kurz
+und gut, Der Graf zieht auf die Thurneck schon heran: Ich bin ihm,
+auf dem Pfad hieher, begegnet.
+
+Gottschalk.  Du siehst Gespenster, T�chterchen!
+
+K�thchen.  Gespenster!--Ich sage, nein!  So wahr ich K�thchen bin!
+Der Graf liegt drau�en vor der Burg, und wer Ein Pferd besteigen will,
+und um sich schauen, Der kann den ganzen weiten Wald ringsum Erf�llt
+von seinen Reisigen erblicken!
+
+Gottschalk. - Nehmt doch den Brief, Herr Graf, und seht selbst zu.
+Ich wei� nicht, was ich davon denken soll.
+
+Der Graf vom Strahl (legt die Peitsche weg, nimmt den Brief und
+entfaltet ihn).  "Um zw�lf Uhr, wenn das Gl�ckchen schl�gt, bin ich
+Vor Thurneck.  La� die Tore offen sein.  Sobald die Flamme zuckt,
+zieh ich hinein.  Auf niemand m�nz ich es, als Kunigunden, Und ihren
+Br�utigam, den Graf vom Strahl: Tu mir zu wissen, Alter, wo sie
+wohnen."
+
+Gottschalk.  Ein H�llenfrevel!--Und die Unterschrift?
+
+Der Graf vom Strahl.  Das sind drei Kreuze.
+
+(Pause.)  Wie stark fandst du den Kriegstro�, Katharina?
+
+K�thchen.  Auf sechzig Mann, mein hoher Herr, bis siebzig.
+
+Der Graf vom Strahl.  Sahst du ihn selbst den Graf vom Stein?
+
+K�thchen.  Ihn nicht.
+
+Der Graf vom Strahl.  Wer f�hrte seine Mannschaft an?
+
+K�thchen.  Zwei Ritter, Mein hochverehrter Herr, die ich nicht kannte.
+
+Der Graf vom Strahl.  Und jetzt, sagst du, sie l�gen vor der Burg?
+
+K�thchen.  Ja, mein verehrter Herr.
+
+Der Graf vom Strahl.  Wie weit von hier?
+
+K�thchen.  Auf ein dreitausend Schritt, verstreut im Walde.
+
+Der Graf vom Strahl.  Rechts, auf der Stra�e?
+
+K�thchen.  Links, im F�hrengrunde, Wo �berm Sturzbach sich die Br�cke
+baut.
+
+(Pause.)
+
+Gottschalk.  Ein Anschlag, greuelhaft, und unerh�rt!
+
+Der Graf vom Strahl (steckt den Brief ein).  Ruf mir sogleich die
+Herrn von Thurneck her! - Wie hoch ists an der Zeit?
+
+Gottschalk.  Glock halb auf zw�lf.
+
+Der Graf vom Strahl.  So ist kein Augenblick mehr zu verlieren.
+
+(Er setzt sich den Helm auf.)
+
+Gottschalk.  Gleich, gleich; ich gehe schon!--Komm, liebes K�thchen,
+Da� ich dir das ersch�pfte Herz erquicke!--Wie gro�en Dank, bei Gott,
+sind wir dir schuldig?  So in der Nacht, durch Wald und Feld und
+Tal-Der Graf vom Strahl.  Hast du mir sonst noch, Jungfrau, was zu
+sagen?
+
+K�thchen.  Nein, mein verehrter Herr.
+
+Der Graf vom Strahl.--Was suchst du da?
+
+K�thchen (sich in den Busen fassend).  Den Einschlag, der vielleicht
+dir wichtig ist.  Ich glaub, ich hab--?  Ich glaub, er ist--?
+
+(Sie sieht sich um.)
+
+Der Graf vom Strahl.  Der Einschlag?
+
+K�thchen.  Nein, hier.
+
+(Sie nimmt das Kuvert und gibt es dem Grafen.)
+
+Der Graf vom Strahl.  Gib her!  (Er betrachtet das Papier.)
+
+Dein Antlitz speit ja Flammen!--Du nimmst dir gleich ein Tuch um,
+Katharina, Und trinkst nicht ehr, bis du dich abgek�hlt. - Du aber
+hast keins?
+
+K�thchen.  Nein-Der Graf vom Strahl (macht sich die Sch�rpe
+los--wendet sich pl�tzlich, und wirft sie auf den Tisch.)
+
+So nimm die Sch�rze.
+
+(Nimmt die Handschuh und zieht sie sich an.)  Wenn du zum Vater wieder
+heim willst kehren, Werd ich, wie sichs von selbst versteht--(Er h�lt
+inne.)
+
+K�thchen.  Was wirst du?
+
+Der Graf vom Strahl (erblickt die Peitsche).  Was macht die Peitsche
+hier?
+
+Gottschalk.  Ihr selbst ja nahmt sie!
+
+Der Graf vom Strahl (ergrimmt).  Hab ich hier Hunde, die zu schmei�en
+sind?
+
+(Er wirft die Peitsche, da� die Scherben niederklirren, durchs
+Fenster;
+
+hierauf zu K�thchen:) Pferd dir, mein liebes Kind, und Wagen geben,
+Die sicher nach Heilbronn dich heimgeleiten.--Wann denkst du heim?
+
+K�thchen (zitternd).  Gleich, mein verehrter Herr.
+
+Der Graf vom Strahl (streichelt ihre Wangen).  Gleich nicht!  Du
+kannst im Wirtshaus �bernachten.
+
+(Er weint.)  - Was glotzt er da?  Geh, nimm die Scherben auf!
+
+(Gottschalk hebt die Scherben auf.  Er nimmt die Sch�rpe vom Tisch,
+und gibt sie K�thchen.)
+
+Da!  Wenn du dich gek�hlt, gib mir sie wieder.
+
+K�thchen (sie will seine Hand k�ssen).  Mein hoher Herr!
+
+Der Graf vom Strahl (wendet sich von ihr ab).  Leb wohl!  Leb wohl!
+Leb wohl!
+
+(Get�mmel und Glockenklang drau�en.)
+
+Gottschalk.  Gott, der Allm�chtige!
+
+K�thchen.  Was ist?  Was gibts?
+
+Gottschalk.  Ist das nicht Sturm?
+
+K�thchen.  Sturm?
+
+Der Graf vom Strahl.  Auf!  Ihr Herrn von Thurneck!  Der Rheingraf,
+beim Lebendgen, ist schon da!
+
+(Alle ab.)
+
+
+
+Szene: Platz vor dem Schlo�.  Es ist Nacht.  Das Schlo� brennt.
+Sturmgel�ute.
+
+Siebenter Auftritt
+
+Ein Nachtw�chter (tritt auf und st��t ins Horn).  Feuer!  Feuer!
+Feuer!  Erwacht ihr M�nner von Thurneck, ihr Weiber und Kinder des
+Fleckens erwacht!  Werft den Schlaf nieder, der, wie ein Riese, �ber
+euch liegt; besinnt euch, ersteht und erwacht!  Feuer!  Der Frevel
+zog auf Socken durchs Tor!  Der Mord steht, mit Pfeil und Bogen,
+mitten unter euch, und die Verheerung, um ihm zu leuchten, schl�gt
+ihre Fackel an alle Ecken der Burg!  Feuer!  Feuer!  O da� ich eine
+Lunge von Erz und ein Wort h�tte, das sich mehr schreien lie�e, als
+dies: Feuer!  Feuer!  Feuer!
+
+
+
+Achter Auftritt
+
+Der Graf vom Strahl.  Die drei Herren von Thurneck.  Gefolge.  Der
+Nachtw�chter.
+
+
+Der Graf vom Strahl.  Himmel und Erde!  Wer steckte das Schlo� in
+Brand?--Gottschalk!
+
+Gottschalk (au�erhalb der Szene).  He!
+
+Der Graf vom Strahl.  Mein Schild, meine Lanze!
+
+Ritter von Thurneck.  Was ist geschehn?
+
+Der Graf vom Strahl.  Fragt nicht, nehmt was hier steht, fliegt auf
+die W�lle, k�mpft und schlagt um euch, wie angeschossene Eber!
+
+Ritter von Thurneck.  Der Rheingraf ist vor den Toren?
+
+Der Graf vom Strahl.  Vor den Toren, ihr Herrn, und ehe ihr den
+Riegel vorschiebt, drin: Verr�terei, im Innern des Schlosses, hat sie
+ihm ge�ffnet!
+
+Ritter von Thurneck.  Der Mordanschlag, der unerh�rte!--Auf!  (Ab mit
+Gefolge.)
+
+Der Graf vom Strahl.  Gottschalk!
+
+Gottschalk (au�erhalb).  He!
+
+Der Graf vom Strahl.  Mein Schwert!  Mein Schild! meine Lanze.
+
+
+
+Neunter Auftritt
+
+Das K�thchen tritt auf.  Die Vorigen.
+
+
+K�thchen (mit Schwert, Schild und Lanze).  Hier!
+
+Der Graf vom Strahl (indem er das Schwert nimmt und es sich umg�rtet).
+Was willst du?
+
+K�thchen.  Ich bringe dir die Waffen.
+
+Der Graf vom Strahl.  Dich rief ich nicht!
+
+K�thchen.  Gottschalk rettet.
+
+Der Graf vom Strahl.  Warum schickt er den Buben nicht?--Du dringst
+dich schon wieder auf?
+
+(Der Nachtw�chter st��t wieder ins Horn.)
+
+
+
+Zehnter Auftritt
+
+Ritter Flammberg mit Reisigen.  Die Vorigen.
+
+
+Flammberg.  Ei, so blase du, da� dir die Wangen bersten!  Fische und
+Maulw�rfe wissen, da� Feuer ist, was braucht es deines
+gottesl�sterlichen Gesangs, um es uns zu verk�ndigen?
+
+Der Graf vom Strahl.  Wer da?
+
+Flammberg.  Strahlburgische!
+
+Der Graf vom Strahl.  Flammberg?
+
+Flammberg.  Er selbst!
+
+Der Graf vom Strahl.  Tritt heran!--Verweil hier, bis wir erfahren,
+wo der Kampf tobt!
+
+
+
+Eilfter Auftritt
+
+Die Tanten von Thurneck treten auf.  Die Vorigen.
+
+
+Erste Tante.  Gott helf uns!
+
+Der Graf vom Strahl.  Ruhig, ruhig.
+
+Zweite Tante.  Wir sind verloren!  Wir sind gespie�t.
+
+Der Graf vom Strahl.  Wo ist Fr�ulein Kunigunde, eure Nichte?
+
+Erste Tante.  Das Fr�ulein, unsre Nichte?
+
+Kunigunde (im Schlo�).  Helft!  Ihr Menschen!  Helft!
+
+Der Graf vom Strahl.  Gott im Himmel!  War das nicht ihre Stimme?
+(Er gibt Schild und Lanze an K�thchen.)
+
+Erste Tante.  Sie rief!--Eilt, eilt!
+
+Zweite Tante.  Dort erscheint sie im Portal!
+
+Erste Tante.  Geschwind!  Um aller Heiligen!  Sie wankt, sie f�llt!
+
+Zweite Tante.  Eilt sie zu unterst�tzen!
+
+
+
+Zw�lfter Auftritt
+
+Kunigunde von Thurneck.  Die Vorigen.
+
+
+Der Graf vom Strahl (empf�ngt sie in seinen Armen).  Meine Kunigunde!
+
+Kunigunde (schwach).  Das Bild, das Ihr mir j�ngst geschenkt, Graf
+Friedrich!  Das Bild mit dem Futtral!
+
+Der Graf vom Strahl.  Was solls?  Wo ists?
+
+Kunigunde.  Im Feu'r!  Weh mir!  Helft!  Rettet!  Es verbrennt.
+
+Der Graf vom Strahl.  La�t, la�t!  Habt Ihr mich selbst nicht,
+Teuerste?
+
+Kunigunde.  Das Bild mit dem Futtral, Herr Graf vom Strahl!  Das Bild
+mit dem Futtral!
+
+K�thchen (tritt vor).  Wo liegts, wo stehts?
+
+(Sie gibt Schild und Lanze an Flammberg.)
+
+Kunigunde.  Im Schreibtisch!  Hier, mein Goldkind, ist der Schl�ssel!
+
+(K�thchen geht.)
+
+Der Graf vom Strahl.  H�r, K�thchen!
+
+Kunigunde.  Eile!
+
+Der Graf vom Strahl.  H�r, mein Kind!
+
+Kunigunde.  Hinweg!  Warum auch stellt Ihr wehrend Euch--?
+
+Der Graf vom Strahl.  Mein Fr�ulein, Ich will zehn andre Bilder Euch
+statt dessen-Kunigunde (unterbricht ihn).  Dies brauch ich, dies;
+sonst keins!--Was es mir gilt, Ist hier der Ort jetzt nicht, Euch zu
+erkl�ren.--Geh, M�dchen geh, schaff Bild mir und Futtral: Mit einem
+Diamanten lohn ichs dir!
+
+Der Graf vom Strahl.  Wohlan, so schaffs!  Es ist der T�rin recht!
+Was hatte sie an diesem Ort zu suchen?
+
+K�thchen.  Das Zimmer--rechts?
+
+Kunigunde.  Links, Liebchen; eine Treppe, Dort, wo der Altan, schau,
+den Eingang ziert!
+
+K�thchen.  Im Mittelzimmer?
+
+Kunigunde.  In dem Mittelzimmer!  Du fehlst nicht, lauf; denn die
+Gefahr ist dringend!
+
+K�thchen.  Auf!  Auf!  Mit Gott!  Mit Gott!  Ich bring es Euch!  (Ab.)
+
+
+
+Dreizehnter Auftritt
+
+Die Vorigen, ohne K�thchen.
+
+
+Der Graf vom Strahl.  Ihr Leut, hier ist ein Beutel Gold f�r den, Der
+in das Haus ihr folgt!
+
+Kunigunde.  Warum?  Weshalb?
+
+Der Graf vom Strahl.  Veit Schmidt!  Hans, du!  Karl B�ttiger!  Fritz
+T�pfer!  Ist niemand unter euch?
+
+Kunigunde.  Was f�llt Euch ein?
+
+Der Graf vom Strahl.  Mein Fr�ulein, in der Tat, ich mu�
+gestehn-Kunigunde.  Welch ein besondrer Eifer gl�ht Euch an?--Was ist
+dies f�r ein Kind?
+
+Der Graf vom Strahl.--Es ist die Jungfrau, Die heut mit so viel Eifer
+uns gedient.
+
+Kunigunde.  Bei Gott, und wenns des Kaisers Tochter w�re! - Was
+f�rchtet Ihr?  Das Haus, wenn es gleich brennt, Steht, wie ein Fels,
+auf dem Geb�lke noch; Sie wird, auf diesem Gang, nicht gleich
+verderben.  Die Treppe war noch unber�hrt vom Strahl; Rauch ist das
+einzge �bel, das sie findet.
+
+K�thchen (erscheint in einem brennenden Fenster) Mein Fr�ulein!  He!
+Hilf Gott!  Der Rauch erstickt mich! - Es ist der rechte Schl�ssel
+nicht.
+
+Der Graf vom Strahl (zu Kunigunden).  Tod und Teufel!  Warum regiert
+Ihr Eure Hand nicht besser?
+
+Kunigunde.  Der rechte Schl�ssel nicht?
+
+K�thchen (mit schwacher Stimme).  Hilf Gott!  Hilf Gott!
+
+Der Graf vom Strahl.  Komm herab, mein Kind!
+
+Kunigunde.  La�t, la�t!
+
+Der Graf vom Strahl.  Komm herab, sag ich!  Was sollst du ohne
+Schl�ssel dort?  Komm herab!
+
+Kunigunde.  La�t einen Augenblick--!
+
+Der Graf vom Strahl.  Wie?  Was, zum Teufel!
+
+Kunigunde.  Der Schl�ssel, liebes Herzens-T�chterchen, H�ngt, jetzt
+erinnr' ich michs, am Stift des Spiegels, Der �berm Putztisch
+gl�nzend eingefugt!
+
+K�thchen.  Am Spiegelstift?
+
+Der Graf vom Strahl.  Beim Gott der Welt!  Ich wollte, Er h�tte nie
+gelebt, der mich gezeichnet, Und er, der mich gemacht hat, obenein! -
+So such!
+
+Kunigunde.  Mein Augenlicht!  Am Putztisch, h�rst du?
+
+K�thchen (indem sie das Fenster verl��t).  Wo ist der Putztisch?
+Voller Rauch ist alles.
+
+Der Graf vom Strahl.  Such!
+
+Kunigunde.  An der Wand rechts.
+
+K�thchen (unsichtbar).  Rechts?
+
+Der Graf vom Strahl.  Such, sag ich!
+
+K�thchen (schwach).  Hilf Gott!  Hilf Gott!  Hilf Gott!
+
+Der Graf vom Strahl.  Ich sage, such!--Verflucht die h�ndische
+Dienstfertigkeit!
+
+Flammberg.  Wenn sie nicht eilt: das Haus st�rzt gleich zusammen!
+
+Der Graf vom Strahl.  Schafft eine Leiter her!
+
+Kunigunde.  Wie, mein Geliebter?
+
+Der Graf vom Strahl.  Schafft eine Leiter her!  Ich will hinauf.
+
+Kunigunde.  Mein teurer Freund!  Ihr selber wollt--?
+
+Der Graf vom Strahl.  Ich bitte!  R�umt mir den Platz!  Ich will das
+Bild Euch schaffen
+
+Kunigunde.  Harrt einen Augenblick noch, ich beschw�r Euch.  Sie
+bringt es gleich herab.
+
+Der Graf vom Strahl.  Ich sage, la�t mich!--Putztisch und Spiegel ist,
+und Nagelstift, Ihr unbekannt, mir nicht; ich finds heraus, Das Bild
+von Kreid und �l auf Leinewand, Und brings Euch her, nach Eures
+Herzens Wunsch.
+
+(Vier Knechte bringen eine Feuerleiter.)
+
+- Hier!  Legt die Leiter an!
+
+Erster Knecht (vorn, indem er sich umsieht).  Holla!  Da hinten!
+
+Ein anderer (zum Grafen).  Wo?
+
+Der Graf vom Strahl.  Wo das Fenster offen ist.
+
+Die Knechte (heben die Leiter auf).  Oha!
+
+Der erste (vorn).  Blitz!  Bleibt zur�ck, ihr hinten da!  Was macht
+ihr?  Die Leiter ist zu lang!
+
+Die anderen (hinten).  Das Fenster ein!  Das Kreuz des Fensters
+eingesto�en!  So!
+
+Flammberg (der mit geholfen).  Jetzt steht die Leiter fest und r�hrt
+sich nicht!
+
+Der Graf vom Strahl (wirft sein Schwert weg). - Wohlan denn!
+
+Kunigunde.  Mein Geliebter!  H�rt mich an!
+
+Der Graf vom Strahl.  Ich bin gleich wieder da!
+
+(Er setzt einen Fu� auf die Leiter.)
+
+Flammberg (aufschreiend).  Halt!  Gott im Himmel!
+
+Kunigunde (eilt erschreckt von der Leiter weg).  Was gibts?
+
+Die Knechte.  Das Haus sinkt!  Fort zur�cke!
+
+Alle.  Heiland der Welt!  Da liegts in Schutt und Tr�mmern!
+
+(Das Haus sinkt zusammen, der Graf wendet sich, und dr�ckt beide
+H�nde vor die Stirne; alles, was auf der B�hne ist, weicht zur�ck und
+wendet sich gleichfalls ab.--Pause.)
+
+
+
+Vierzehnter Auftritt
+
+K�thchen tritt rasch, mit einer Papierrolle, durch ein gro�es Portal,
+das stehen geblieben ist, auf; hinter ihr ein Cherub in der Gestalt
+eines J�nglings, von Licht umflossen, blondlockig, Fittiche an den
+Schultern und einen Palmzweig in der Hand.
+
+
+K�thchen (so wie sie aus dem Portal ist, kehrt sie sich, und st�rzt
+vor ihm nieder).  Schirmt mich, ihr Himmlischen!  Was widerf�hrt mir?
+
+Der Cherub (ber�hrt ihr Haupt mit der Spitze des Palmenzweigs, und
+verschwindet).
+
+(Pause.)
+
+
+
+F�nfzehnter Auftritt
+
+Die Vorigen ohne den Cherub.
+
+
+Kunigunde (sieht sich zuerst um).  Nun, beim lebendgen Gott, ich
+glaub, ich tr�ume!--Mein Freund!  Schaut her!
+
+Der Graf vom Strahl (vernichtet).  Flammberg!
+
+(Er st�tzt sich auf seine Schulter.)
+
+Kunigunde.  Ihr Vettern!  Tanten!  Herr Graf! so h�rt doch an!
+
+Der Graf vom Strahl (schiebt sie von sich).  Geht, geht!--Ich bitt
+Euch!
+
+Kunigunde.  Ihr Toren!  Seid ihr S�ulen Salz geworden?  Gel�st ist
+alles gl�cklich.
+
+Der Graf vom Strahl (mit abgewandtem Gesicht).  Trostlos mir!  Die
+Erd hat nichts mehr Sch�nes.  La�t mich sein.
+
+Flammberg (zu den Knechten).  Rasch, Br�der, rasch!
+
+Ein Knecht.  Herbei, mit Harken, Spaten!
+
+Ein anderer.  La�t uns den Schutt durchsuchen, ob sie lebt!
+
+Kunigunde (scharf).  Die alten, b�rtgen Gecken, die! das M�dchen, Das
+sie verbrannt zur Feuersasche glauben, Frisch und gesund am Boden
+liegt sie da, Die Sch�rze kichernd vor dem Mund, und lacht!
+
+Der Graf vom Strahl (wendet sich).  Wo?
+
+Kunigunde.  Hier!
+
+Flammberg.  Nein, sprecht!  Es ist nicht m�glich.
+
+Die Tanten.  Das M�dchen w�r--?
+
+Alle.  O Himmel!  Schaut!  Da liegt sie.
+
+Der Graf vom Strahl (tritt zu ihr und betrachtet sie).  Nun �ber dich
+schwebt Gott mit seinen Scharen!
+
+(Er erhebt sie vom Boden.)  Wo kommst du her?
+
+K�thchen.  Wei� nit, mein hoher Herr.
+
+Der Graf vom Strahl.  Hier stand ein Haus, d�nkt mich, und du warst
+drin. - Nicht?  Wars nicht so?
+
+Flammberg.--Wo warst du als es sank?
+
+K�thchen.  Wei� nit, ihr Herren, was mir widerfahren.
+
+(Pause.)
+
+Der Graf vom Strahl.  Und hat noch obenein das Bild.
+
+(Er nimmt ihr die Rolle aus der Hand.)
+
+Kunigunde (rei�t sie an sich).  Wo?
+
+Der Graf vom Strahl.  Hier.
+
+Kunigunde (erbla�t).
+
+Der Graf vom Strahl.  Nicht?  Ists das Bild nicht?--Freilich!
+
+Die Tanten.  Wunderbar!
+
+Flammberg.  Wer gab dir es?  Sag an!
+
+Kunigunde (indem sie ihr mit der Rolle einen Streich auf die Backen
+gibt).
+
+Die dumme Trine!  Hatt ich ihr nicht gesagt, das Futteral?
+
+Der Graf vom Strahl Nun, beim gerechten Gott, das mu� ich sagen - Ihr
+wolltet das Futtral?
+
+Kunigunde.  Ja und nichts anders!  Ihr hattet Euren Namen drauf
+geschrieben; Er war mir wert, ich hatts ihr eingepr�gt.
+
+Der Graf vom Strahl.  Wahrhaftig, wenn es sonst nichts war-Kunigunde.
+So? meint Ihr?  Das kommt zu pr�fen mir zu und nicht Euch.
+
+Der Graf vom Strahl.  Mein Fr�ulein, Eure G�te macht mich stumm.
+
+Kunigunde (zu K�thchen).  Warum nahmst dus heraus, aus dem Futteral?
+
+Der Graf vom Strahl.  Warum nahmst dus heraus, mein Kind?
+
+K�thchen.  Das Bild?
+
+Der Graf vom Strahl.  Ja!
+
+K�thchen.  Ich nahm es nicht heraus, mein hoher Herr.  Das Bild, halb
+aufgerollt, im Schreibtischwinkel, Den ich erschlo�, lag neben dem
+Futtral.
+
+Kunigunde.  Fort!--das Gesicht der �ffin!
+
+Der Graf vom Strahl.  Kunigunde!-K�thchen.  H�tt ichs hinein erst
+wieder ordentlich In das Futtral--?
+
+Der Graf vom Strahl.  Nein, nein, mein liebes K�thchen!  Ich lobe
+dich, du hast es recht gemacht.  Wie konntest du den Wert der Pappe
+kennen?
+
+Kunigunde.  Ein Satan leitet' ihr die Hand!
+
+Der Graf vom Strahl.  Sei ruhig!--Das Fr�ulein meint es nicht so b�s.
+--Tritt ab.
+
+K�thchen.  Wenn du mich nur nicht schl�gst, mein hoher Herr!
+
+(Sie geht zu Flammberg und mischt sich im Hintergrund unter die
+Knechte.)
+
+
+
+Sechzehnter Auftritt
+
+Die Herren von Thurneck.  Die Vorigen.
+
+
+Ritter von Thurneck.  Triumph, ihr Herrn!  Der Sturm ist abgeschlagen!
+Der Rheingraf zieht mit blutgem Sch�del heim!
+
+Flammberg.  Was!  Ist er fort?
+
+Volk.  Heil, Heil!
+
+Der Graf vom Strahl.  Zu Pferd, zu Pferd!  La�t uns den Sturzbach
+unges�umt erreichen, So schneiden wir die ganze Rotte ab!
+
+(Alle ab.)
+
+
+
+
+Vierter Akt
+
+Szene: Gegend im Gebirg, mit Wasserf�llen und einer Br�cke.
+
+
+
+Erster Auftritt
+
+Der Rheingraf vom Stein, zu Pferd, zieht mit einem Tro� Fu�volk �ber
+die Br�cke.  Ihnen folgt der Graf vom Strahl zu Pferd; bald darauf
+Ritter Flammberg mit Knechten und Reisigen zu Fu�.  Zuletzt
+Gottschalk gleichfalls zu Pferd, neben ihm das K�thchen.
+
+
+Rheingraf (zu dem Tro�).  �ber die Br�cke, Kinder, �ber die Br�cke!
+Dieser Wetter vom Strahl kracht, wie vom Sturmwind getragen, hinter
+uns drein; wir m�ssen die Br�cke abwerfen, oder wir sind alle
+verloren!  (Er reitet �ber die Br�cke.)
+
+Knechte des Rheingrafen (folgen ihm).  Rei�t die Br�cke nieder!  (Sie
+werfen die Br�cke ab.)
+
+Der Graf vom Strahl (erscheint in der Szene, sein Pferd tummelnd).
+Hinweg!--Wollt ihr den Steg unber�hrt lassen?
+
+Knechte des Rheingrafen (schie�en mit Pfeilen auf ihn).  Hei!  Diese
+Pfeile zur Antwort dir!
+
+Der Graf vom Strahl (wendet das Pferd).  Meuchelm�rder!--He!
+Flammberg!
+
+K�thchen (h�lt eine Rolle in die H�he).  Mein hoher Herr!
+
+Der Graf vom Strahl (zu Flammberg).  Die Sch�tzen her!
+
+Rheingraf (�ber den Flu� rufend).  Auf Wiedersehn, Herr Graf!  Wenn
+Ihr schwimmen k�nnt, so schwimmt; auf der Steinburg, diesseits der
+Br�cke, sind wir zu finden.  (Ab mit dem Tro�.)
+
+Der Graf vom Strahl.  Habt Dank ihr Herrn!  Wenn der Flu� tr�gt, so
+sprech ich bei euch ein!  (Er reitet hindurch.)
+
+Ein Knecht (aus seinem Tro�).  Halt! zum Henker! nehmt Euch in acht!
+
+K�thchen (am Ufer zur�ckbleibend).  Herr Graf vom Strahl!
+
+Ein anderer Knecht.  Schafft Balken und Bretter her!
+
+Flammberg.  Was! bist du ein Jud?
+
+Alle.  Setzt hindurch!  Setzt hindurch!  (Sie folgen ihm.)
+
+Der Graf vom Strahl.  Folgt!  Folgt!  Es ist ein Forellenbach, weder
+breit noch tief!  So recht!  So recht!  La�t uns das Gesindel v�llig
+in die Pfanne hauen!  (Ab mit dem Tro�.)
+
+K�thchen.  Herr Graf vom Strahl!  Herr Graf vom Strahl!
+
+Gottschalk (wendet mit dem Pferde um).  Ja, was l�rmst und schreist
+du?--Was hast du hier im Get�mmel zu suchen?  Warum l�ufst du hinter
+uns drein?
+
+K�thchen (h�lt sich an einem Stamm).  Himmel!
+
+Gottschalk (indem er absteigt).  Komm!  Sch�rz und schwinge dich!
+Ich will das Pferd an die Hand nehmen, und dich hindurch f�hren.
+
+Der Graf vom Strahl (hinter der Szene).  Gottschalk!
+
+Gottschalk.  Gleich, gn�diger Herr, gleich!  Was befehlt Ihr?
+
+Der Graf vom Strahl.  Meine Lanze will ich haben!
+
+Gottschalk (hilft das K�thchen in den Steigb�gel).  Ich bringe sie
+schon!
+
+K�thchen.  Das Pferd ist scheu.
+
+Gottschalk (rei�t das Pferd in den Z�gel).  Steh, Mordm�hre!--So zieh
+dir Schuh und Str�mpfe aus!
+
+K�thchen (setzt sich auf einen Stein).  Geschwind!
+
+Der Graf vom Strahl (au�erhalb).  Gottschalk!
+
+Gottschalk.  Gleich, gleich!  Ich bringe die Lanze schon.--Was hast
+du denn da in der Hand?
+
+K�thchen (indem sie sich auszieht).  Das Futteral, Lieber, das
+gestern--nun!
+
+Gottschalk.  Was!  Das im Feuer zur�ck blieb?
+
+K�thchen.  Freilich!  Um das ich gescholten ward.  Fr�h morgens, im
+Schutt, heut sucht ich nach und durch Gottes F�gung--nun, so!  (Sie
+zerrt sich am Strumpf.)
+
+Gottschalk.  Je, was der Teufel!  (Er nimmt es ihr aus der Hand.)  Und
+unversehrt, bei meiner Treu, als w�rs Stein!--Was steckt denn drin?
+
+K�thchen.  Ich wei� nicht.
+
+Gottschalk (nimmt ein Blatt heraus).  "Akte, die Schenkung, Stauffen
+betreffend, von Friedrich Grafen vom Strahl"--Je, verflucht!
+
+Der Graf vom Strahl (drau�en).  Gottschalk!
+
+Gottschalk.  Gleich, gn�diger Herr, gleich!
+
+K�thchen (steht auf).  Nun bin ich fertig!
+
+Gottschalk.  Nun, das mu�t du dem Grafen geben!  (Er gibt ihr das
+Futtral wieder.)  Komm, reich mir die Hand, und folg mir!  (Er f�hrt
+sie und das Pferd durch den Bach.)
+
+K�thchen (mit dem ersten Schritt ins Wasser).  Ah!
+
+Gottschalk.  Du mu�t dich ein wenig sch�rzen.
+
+K�thchen.  Nun, bei Leibe, sch�rzen nicht!  (Sie steht still.)
+
+Gottschalk.  Bis an den Zwickel nur, K�thchen!
+
+K�thchen.  Nein!  Lieber such ich mir einen Steg!  (Sie kehrt um.)
+
+Gottschalk (h�lt sie).  Bis an den Kn�chel nur, Kind! bis an die
+�u�erste, unterste Kante der Sohle!
+
+K�thchen.  Nein, nein, nein, nein; ich bin gleich wieder bei dir!
+(Sie macht sich los, und l�uft weg.)
+
+Gottschalk (kehrt aus dem Bach zur�ck, und ruft ihr nach).  K�thchen!
+K�thchen!  Ich will mich umkehren!  Ich will mir die Augen zuhalten!
+K�thchen!  Es ist kein Steg auf Meilenweite zu finden!--Ei so wollt
+ich, da� ihr der G�rtel platzte!  Da l�uft sie am Ufer entlang, der
+Quelle zu, den wei�en schroffen Spitzen der Berge; mein Seel, wenn
+sich kein F�hrmann ihrer erbarmt, so geht sie verloren!
+
+Der Graf vom Strahl (drau�en).  Gottschalk!  Himmel und Erde!
+Gottschalk!
+
+Gottschalk.  Ei, so schrei du!--Hier, gn�diger Herr; ich komme schon.
+(Er leitet sein Pferd m�rrisch durch den Bach.--Ab.)
+
+
+
+Szene: Schlo� Wetterstrahl.  Platz, dicht mit B�umen bewachsen, am
+�u�eren zerfallenen Mauernring der Burg.  Vorn ein Holunderstrauch,
+der eine Art von nat�rlicher Laube bildet, worunter von Feldsteinen,
+mit einer Strohmatte bedeckt, ein Sitz.  An den Zweigen sieht man ein
+Hemdchen und ein Paar Str�mpfe usw. zum Trocknen aufgeh�ngt.
+
+Zweiter Auftritt
+
+K�thchen liegt und schl�ft.  Der Graf vom Strahl tritt auf.
+
+
+Der Graf vom Strahl (indem er das Futteral in den Busen steckt).
+Gottschalk, der mir dies Futteral gebracht, hat mir gesagt, das
+K�thchen w�re wieder da.  Kunigunde zog eben, weil ihre Burg
+niedergebrannt ist, in die Tore der meinigen ein; da kommt er und
+spricht: unter dem Holunderstrauch l�ge sie wieder da, und schliefe;
+und bat mich, mit tr�nenden Augen, ich m�chte ihm doch erlauben, sie
+in den Stall zu nehmen.  Ich sagte, bis der alte Vater, der Theobald
+sich aufgefunden, w�rd ich ihr in der Herberge ein Unterkommen
+verschaffen; und indessen hab ich mich herabgeschlichen, um einen
+Entwurf mit ihr auszuf�hren.--Ich kann diesem Jammer nicht mehr
+zusehen.  Dies M�dchen, bestimmt, den herrlichsten B�rger von
+Schwaben zu begl�cken, wissen will ich, warum ich verdammt bin, sie
+einer Metze gleich, mit mir herum zu f�hren; wissen, warum sie hinter
+mir herschreitet, einem Hunde gleich, durch Feuer und Wasser, mir
+Elenden, der nichts f�r sich hat, als das Wappen auf seinem Schild.
+--Es ist mehr, als der blo�e sympathetische Zug des Herzens; es ist
+irgend von der H�lle angefacht, ein Wahn, der in ihrem Busen sein
+Spiel treibt.  So oft ich sie gefragt habe: K�thchen!  Warum
+erschrakst du doch so, als du mich zuerst in Heilbronn sahst? hat sie
+mich immer zerstreut angesehen, und dann geantwortet: Ei, gestrenger
+Herr!  Ihr wi�ts ja!--Dort ist sie!--Wahrhaftig, wenn ich sie so
+daliegen sehe, mit roten Backen und verschr�nkten H�ndchen, so kommt
+die ganze Empfindung der Weiber �ber mich, und macht meine Tr�nen
+flie�en.  Ich will gleich sterben, wenn sie mir nicht die Peitsche
+vergeben hat--ach! was sag ich? wenn sie nicht im Gebet f�r mich, der
+sie mi�handelte, eingeschlafen!--Doch rasch, ehe Gottschalk kommt,
+und mich st�rt.  Dreierlei hat er mir gesagt: einmal da� sie einen
+Schlaf hat, wie ein Murmeltier, zweitens, da� sie, wie ein Jagdhund,
+immer tr�umt, und drittens, da� sie im Schlaf spricht; und auf diese
+Eigenschaften hin, will ich meinen Versuch gr�nden.--Tue ich eine
+S�nde, so mag sie mir Gott verzeihen.
+
+(Er l��t sich auf Knieen vor ihr nieder und legt seine beiden Arme
+sanft um ihren Leib.--Sie macht eine Bewegung als ob sie erwachen
+wollte, liegt aber gleich wieder still.)
+
+Der Graf vom Strahl.  K�thchen!  Schl�fst du?
+
+K�thchen.  Nein, mein verehrter Herr.
+
+(Pause.)
+
+Der Graf vom Strahl.  Und doch hast du die Augenlider zu.
+
+K�thchen.  Die Augenlider?
+
+Der Graf vom Strahl.  Ja; und fest, d�nkt mich.
+
+K�thchen. - Ach, geht
+
+Der Graf vom Strahl.  Was!  Nicht?  Du h�ttst die Augen auf?
+
+K�thchen.  Gro� auf, so weit ich kann, mein bester Herr; Ich sehe
+dich ja wie du zu Pferde sitzest.
+
+Der Graf vom Strahl.  So!--Auf dem Fuchs--nicht?
+
+K�thchen.  Nicht doch!  Auf dem Schimmel.
+
+(Pause.)
+
+Der Graf vom Strahl.  Wo bist du denn, mein Herzchen?  Sag mir an.
+
+K�thchen.  Auf einer sch�nen gr�nen Wiese bin ich, Wo alles bunt und
+voller Blumen ist.
+
+Der Graf vom Strahl.  Ach, die Vergi�meinnicht!  Ach, die Kamillen!
+
+K�thchen.  Und hier die Veilchen; schaut ein ganzer Busch.
+
+Der Graf vom Strahl.  Ich will vom Pferde niedersteigen, K�thchen,
+Und mich ins Gras ein wenig zu dir setzen. - Soll ich?
+
+K�thchen.  Das tu, mein hoher Herr.
+
+Der Graf vom Strahl (als ob er riefe).  He!  Gottschalk!--Wo la� ich
+doch das Pferd;--Gottschalk!  Wo bist du?
+
+K�thchen.  Je, la� es stehn.  Die Liese l�uft nicht weg.
+
+Der Graf vom Strahl (l�chelt).  Meinst du?--Nun denn, so seis!
+
+(Pause.--Er rasselt mit seiner R�stung.)
+
+Mein liebes K�thchen!
+
+(Er fa�t ihre Hand.)
+
+K�thchen.  Mein hoher Herr!
+
+Der Graf vom Strahl.  Du bist mir wohl recht gut.
+
+K�thchen.  Gewi�!  Von Herzen.
+
+Der Graf vom Strahl.  Aber ich--was meinst du?  Ich nicht.
+
+K�thchen (l�chelnd).  O Schelm!
+
+Der Graf vom Strahl.  Was, Schelm!  Ich hoff--?
+
+K�thchen.  O geh!  Verliebt ja, wie ein K�fer, bist du mir.
+
+Der Graf vom Strahl.  Ein K�fer!  Was!  Ich glaub du bist-K�thchen.
+Was sagst du?
+
+Der Graf vom Strahl (mit einem Seufzer).  Ihr Glaub ist, wie ein Turm,
+so fest gegr�ndet!--Seis!  Ich ergebe mich darin.--Doch, K�thchen,
+Wenns ist, wie du mir sagst-K�thchen.  Nun?  Was beliebt?
+
+Der Graf vom Strahl.  Was, sprich, was soll draus werden?
+
+K�thchen.  Was draus soll werden?
+
+Der Graf vom Strahl.  Ja! hast dus schon bedacht?
+
+K�thchen.  Je, nun.
+
+Der Graf vom Strahl.--Was hei�t das?
+
+K�thchen.  Zu Ostern, �bers Jahr, wirst du mich heuern.
+
+Der Graf vom Strahl (das Lachen verbei�end).  So!  Heuern!  In der
+Tat!  Das wu�t ich nicht!  Kathrinchen, schau!--Wer hat dir das
+gesagt?
+
+K�thchen.  Das hat die Mariane mir gesagt.
+
+Der Graf vom Strahl.  So!  Die Mariane!  Ei!--Wer ist denn das?
+
+K�thchen.  Das ist die Magd, die sonst das Haus uns fegte.
+
+Der Graf vom Strahl.  Und die, die wu�t es wiederum--von wem?
+
+K�thchen.  Die sahs im Blei, das sie geheimnisvoll In der
+Silvesternacht, mir zugegossen.
+
+Der Graf vom Strahl.  Was du mir sagst!  Da prophezeite sie--?
+
+K�thchen.  Ein gro�er, sch�ner Ritter w�rd mich heuern.
+
+Der Graf vom Strahl.  Und nun meinst du so frischweg, das sei ich?
+
+K�thchen.  Ja, mein verehrter Herr.
+
+(Pause.)
+
+Der Graf vom Strahl (ger�hrt).--Ich will dir sagen, Mein Kind, ich
+glaub, es ist ein anderer.  Der Ritter Flammberg.  Oder sonst.  Was
+meinst du?
+
+K�thchen.  Nein, nein!
+
+Der Graf vom Strahl.  Nicht?
+
+K�thchen.  Nein, nein, nein!
+
+Der Graf vom Strahl.  Warum nicht?  Rede!
+
+K�thchen. - Als ich zu Bett ging, da das Blei gegossen, In der
+Silvesternacht, bat ich zu Gott, Wenns wahr w�r, was mir die Mariane
+sagte, M�cht er den Ritter mir im Traume zeigen.  Und da erschienst
+du ja, um Mitternacht, Leibhaftig, wie ich jetzt dich vor mir sehe,
+Als deine Braut mich liebend zu begr��en.
+
+Der Graf vom Strahl.  Ich w�r dir--?  Herzchen!  Davon wei� ich
+nichts. - Wann h�tt ich dich--?
+
+K�thchen.  In der Silvesternacht.  Wenn wiederum Silvester kommt,
+zwei Jahr.
+
+Der Graf vom Strahl.  Wo?  In dem Schlo� zu Strahl?
+
+K�thchen.  Nicht!  In Heilbronn; Im K�mmerlein, wo mir das Bette
+steht.
+
+Der Graf vom Strahl.  Was du da schwatzst, mein liebes Kind.--Ich lag
+Und obenein todkrank, im Schlo� zu Strahl.
+
+(Pause.--Sie seufzt, bewegt sich, und lispelt etwas.)
+
+Der Graf vom Strahl.  Was sagst du?
+
+K�thchen.  Wer?
+
+Der Graf vom Strahl.  Du!
+
+K�thchen.  Ich?  Ich sagte nichts.
+
+(Pause.)
+
+Der Graf vom Strahl (f�r sich).  Seltsam, beim Himmel!  In der
+Silvesternacht--(Er tr�umt vor sich nieder.)  - Erz�hl mir doch etwas
+davon, mein K�thchen!  Kam ich allein?
+
+K�thchen.  Nein, mein verehrter Herr.
+
+Der Graf vom Strahl.  Nicht?--Wer war bei mir?
+
+K�thchen.  Ach, so geh!
+
+Der Graf vom Strahl.  So rede!
+
+K�thchen.  Das wei�t du nicht mehr?
+
+Der Graf vom Strahl.  Nein, so wahr ich lebe.
+
+K�thchen.  Ein Cherubim, mein hoher Herr, war bei dir, Mit Fl�geln,
+wei� wie Schnee, auf beiden Schultern, Und Licht--o Herr! das
+funkelte! das gl�nzte!--Der f�hrt', an seiner Hand, dich zu mir ein.
+
+Der Graf vom Strahl (starrt sie an).  So wahr, als ich will selig
+sein, ich glaube, Da hast du recht!
+
+K�thchen.  Ja, mein verehrter Herr.
+
+Der Graf vom Strahl (mit beklemmter Stimme).  Auf einem h�rnen Kissen
+lagst du da, Das Bettuch wei�, die wollne Decke rot?
+
+K�thchen.  Ganz recht! so wars!
+
+Der Graf vom Strahl.  Im blo�en leichten Hemdchen?
+
+K�thchen.  Im Hemdchen?--Nein.
+
+Der Graf vom Strahl.  Was!  Nicht?
+
+K�thchen.  Im leichten Hemdchen?
+
+Der Graf vom Strahl.  Mariane, riefst du?
+
+K�thchen.  Mariane, rief ich!  Geschwind!  Ihr M�dchen!  Kommt doch
+her, Christine!
+
+Der Graf vom Strahl.  Sahst gro�, mit schwarzem Aug, mich an?
+
+K�thchen.  Ja, weil ich glaubt, es w�r ein Traum.
+
+Der Graf vom Strahl.  Stiegst langsam, An allen Gliedern zitternd,
+aus dem Bett, Und sankst zu F��en mir--?
+
+K�thchen.  Und fl�sterte-Der Graf vom Strahl (unterbricht sie).  Und
+fl�stertest, mein hochverehrter Herr!
+
+K�thchen (l�chelnd).  O Nun!  Siehst du wohl?--Der Engel zeigte
+dir-Der Graf vom Strahl.  Das Mal--Sch�tzt mich, ihr Himmlischen!
+Das hast du?
+
+K�thchen.  Je, freilich!
+
+Der Graf vom Strahl (rei�t ihr das Tuch ab).
+
+Wo?  Am Halse?
+
+K�thchen (bewegt sich).  Bitte, bitte.
+
+Der Graf vom Strahl.  O ihr Urewigen!--Und als ich jetzt, Dein Kinn
+erhob, ins Antlitz dir zu schauen?
+
+K�thchen.  Ja, da kam die unselige Mariane Mit Licht--und alles war
+vorbei; Ich lag im Hemdchen auf der Erde da, Und die Mariane spottete
+mich aus.
+
+Der Graf vom Strahl.  Nun steht mir bei, ihr G�tter: ich bin doppelt!
+Ein Geist bin ich und wandele zur Nacht!
+
+(Er l��t sie los und springt auf.)
+
+K�thchen (erwacht).  Gott, meines Lebens Herr!  Was widerf�hrt mir!
+
+(Sie steht auf und sieht sich um.)
+
+Der Graf vom Strahl.  Was mir ein Traum schien, nackte Wahrheit ists:
+Im Schlo� zu Strahl, todkrank am Nervenfieber, Lag ich danieder, und
+hinweggef�hrt, Von einem Cherubim, besuchte sie Mein Geist in ihrer
+Klause zu Heilbronn!
+
+K�thchen.  Himmel!  Der Graf!
+
+(Sie setzt sich den Hut auf, und r�ckt sich das Tuch zurecht.)
+
+Der Graf vom Strahl.
+
+Was tu ich jetzt?  Was la� ich?
+
+(Pause.)
+
+K�thchen (f�llt auf ihre beiden Kniee nieder).  Mein hoher Herr, hier
+lieg ich dir zu F��en, Gew�rtig dessen, was du mir verh�ngst!  An
+deines Schlosses Mauer fandst du mich, Trotz des Gebots, das du mir
+eingesch�rft; Ich schw�rs, es war ein St�ndchen nur zu ruhn, Und
+jetzt will ich gleich wieder weiter gehn.
+
+Der Graf vom Strahl.  Weh mir!  Mein Geist, von Wunderlicht geblendet,
+Schwankt an des Wahnsinns grausem Hang umher!  Denn wie begreif ich
+die Verk�ndigung, Die mir noch silbern wiederklingt im Ohr, Da� sie
+die Tochter meines Kaisers sei?
+
+Gottschalk (drau�en).  K�thchen!  He, junge Maid!
+
+Der Graf vom Strahl (erhebt sie rasch vom Boden).
+
+Geschwind erhebe dich!  Mach dir das Tuch zurecht!  Wie siehst du aus?
+
+
+
+Dritter Auftritt
+
+Gottschalk tritt auf.  Die Vorigen.
+
+
+Der Graf vom Strahl.  Gut, Gottschalk, da� du kommst!  Du fragtest
+mich, Ob du die Jungfrau in den Stall darfst nehmen; Das aber schickt
+aus manchem Grund sich nicht; Die Friedborn zieht aufs Schlo� zu
+meiner Mutter.
+
+Gottschalk.  Wie?  Was?  Wo?--Oben auf das Schlo� hinauf?
+
+Der Graf vom Strahl.  Ja, und das gleich!  Nimm ihre Sachen auf, Und
+auf dem Pfad zum Schlosse folg ihr nach.
+
+Gottschalk.  Gotts Blitz auch, K�thchen! hast du das geh�rt?
+
+K�thchen (mit einer zierlichen Verbeugung).  Mein hochverehrter Herr!
+Ich nehm es an, Bis ich werd wissen, wo mein Vater ist.
+
+Der Graf vom Strahl.  Gut, gut!  Ich werd mich gleich nach ihm
+erkundgen.
+
+(Gottschalk bindet die Sachen zusammen; K�thchen hilft ihm).
+
+Nun?  Ists geschehn?
+
+(Er nimmt ein Tuch vom Boden auf, und �bergibt es ihr.)
+
+K�thchen (err�tend).  Was!  Du bem�hst dich mir?
+
+(Gottschalk nimmt das B�ndel in die Hand.)
+
+Der Graf vom Strahl.  Gib deine Hand!
+
+K�thchen.  Mein hochverehrter Herr!
+
+(Er f�hrt sie �ber die Steine; wenn sie hin�ber ist, l��t er sie
+vorangehen und folgt.--Alle ab.)
+
+
+
+Szene: Garten.  Im Hintergrunde eine Grotte, im gotischen Stil.
+
+Vierter Auftritt
+
+Kunigunde, von Kopf zu Fu� in einen feuerfarbnen Schleier verh�llt,
+und Rosalie treten auf.
+
+
+Kunigunde.  Wo ritt der Graf vom Strahl hin?
+
+Rosalie.  Mein Fr�ulein, es ist dem ganzen Schlo� unbegreiflich.
+Drei kaiserliche Kommissarien kamen sp�t in der Nacht, und weckten
+ihn auf; er verschlo� sich mit ihnen, und heut, bei Anbruch des Tages
+schwingt er sich aufs Pferd, und verschwindet.
+
+Kunigunde.  Schlie� mir die Grotte auf.
+
+Rosalie.  Sie ist schon offen.
+
+Kunigunde.  Ritter Flammberg, h�r ich, macht dir den Hof; zu Mittag,
+wann ich mich gebadet und angekleidet, werd ich dich fragen, was
+dieser Vorfall zu bedeuten?  (Ab in die Grotte.)
+
+
+
+F�nfter Auftritt
+
+Fr�ulein Eleonore tritt auf, Rosalie.
+
+
+Eleonore.  Guten Morgen, Rosalie.
+
+Rosalie.  Guten Morgen, mein Fr�ulein!--Was f�hrt Euch so fr�h schon
+hierher?
+
+Eleonore.  Ei, ich will mich mit K�thchen, dem kleinen, holden Gast,
+den uns der Graf ins Schlo� gebracht, weil die Luft so hei� ist, in
+dieser Grotte baden.
+
+Rosalie.  Vergebt!--Fr�ulein Kunigunde ist in der Grotte.
+
+Eleonore.  Fr�ulein Kunigunde?--Wer gab euch den Schl�ssel?
+
+Rosalie.  Den Schl�ssel?--Die Grotte war offen.
+
+Eleonore.  Habt ihr das K�thchen nicht darin gefunden?
+
+Rosalie.  Nein, mein Fr�ulein.  Keinen Menschen.
+
+Eleonore.  Ei, das K�thchen, so wahr ich lebe, ist drin!
+
+Rosalie.  In der Grotte?  Unm�glich!
+
+Eleonore.  Wahrhaftig!  In der Nebenkammern eine, die dunkel und
+versteckt sind.--Sie war vorangegangen; ich sagte nur, als wir an die
+Pforte kamen, ich wollte mir ein Tuch von der Gr�fin zum Trocknen
+holen.--O Herr meines Lebens; da ist sie schon!
+
+
+
+Sechster Auftritt
+
+K�thchen aus der Grotte.  Die Vorigen.
+
+
+Rosalie (f�r sich).  Himmel!  Was seh ich dort?
+
+K�thchen (zitternd).  Eleonore!
+
+Eleonore.  Ei, K�thchen!  Bist du schon im Bad gewesen?  Schaut, wie
+das M�dchen funkelt, wie es gl�nzet!  Dem Schwane gleich, der in die
+Brust geworfen, Aus des Kristallsees blauen Fluten steigt! - Hast du
+die jungen Glieder dir erfrischt?
+
+K�thchen.  Eleonore!  Komm hinweg.
+
+Eleonore.  Was fehlt dir?
+
+Rosalie (schreckenbla�).  Wo kommst du her?  Aus jener Grotte dort?
+Du hattest in den G�ngen dich versteckt?
+
+K�thchen.  Eleonore!  Ich beschw�re dich!
+
+Kunigunde (im Innern der Grotte).  Rosalie!
+
+Rosalie.  Gleich, mein Fr�ulein!  (Zu K�thchen).  Hast sie gesehn?
+
+Eleonore.  Was gibts?  Sag an!--Du bleichst?
+
+K�thchen (sinkt in ihre Arme).  Eleonore!
+
+Eleonore.  Hilf, Gott im Himmel!  K�thchen!  Kind!  Was fehlt dir?
+
+Kunigunde (in der Grotte).  Rosalie!
+
+Rosalie (zu K�thchen).  Nun, beim Himmel!  Dir w�r besser, Du rissest
+dir die Augen aus, als da� sie Der Zunge anvertrauten, was sie sahn!
+
+(Ab in die Grotte.)
+
+
+
+Siebenter Auftritt
+
+K�thchen und Eleonore.
+
+
+Eleonore.  Was ist geschehn, mein Kind?  Was schilt man dich?  Was
+macht an allen Gliedern so dich zittern?  W�r dir der Tod, in jenem
+Haus, erschienen, Mit Hipp und Stundenglas, von Schrecken k�nnte Dein
+Busen grimmiger erfa�t nicht sein!
+
+K�thchen.  Ich will dir sagen--(Sie kann nicht sprechen.)
+
+Eleonore.  Nun, sag an!  Ich h�re.
+
+K�thchen. - Doch du gelobst mir, nimmermehr, Lenore, Wem es auch sei,
+den Vorfall zu entdecken.
+
+Eleonore.  Nein, keiner Seele; nein!  Verla� dich drauf.
+
+K�thchen.  Schau, in die Seitengrotte hatt ich mich, Durch die
+verborgne T�re eingeschlichen; Das gro�e Prachtgew�lb war mir zu hell.
+Und nun, da mich das Bad erquickt, tret ich In jene gr��re Mitte
+scherzend ein, Und denke du, du seists, die darin rauscht: Und eben
+von dem Rand ins Becken steigend, Erblickt mein Aug-Eleonore.  Nun,
+was? wen?  Sprich!
+
+K�thchen.  Was sag ich!  Du mu�t sogleich zum Grafen, Leonore, Und
+von der ganzen Sach ihn unterrichten.
+
+Eleonore.  Mein Kind!  Wenn ich nur w��te, was es w�re?
+
+K�thchen. - Doch ihm nicht sagen, nein, ums Himmels willen, Da� es
+von mir kommt.  H�rst du?  Eher wollt ich, Da� er den Greuel
+nimmermehr entdeckte.
+
+Eleonore.  In welchen R�tseln sprichst du, liebstes K�thchen?  Was
+f�r ein Greul?  Was ists, das du erschaut?
+
+K�thchen.  Ach, Leonor', ich f�hle, es ist besser, Das Wort kommt
+�ber meine Lippen nie!  Durch mich kann er, durch mich, entt�uscht
+nicht werden!
+
+Eleonore.  Warum nicht?  Welch ein Grund ist, ihm zu bergen--?  Wenn
+du nur sagtest-K�thchen (wendet sich).  Horch!
+
+Eleonore.  Was gibts?
+
+K�thchen.  Es kommt!
+
+Eleonore.  Das Fr�ulein ists, sonst niemand, und Rosalie.
+
+K�thchen.  Fort!  Gleich!  Hinweg!
+
+Eleonore.  Warum?
+
+K�thchen.  Fort, Rasende!
+
+Eleonore.  Wohin?
+
+K�thchen.  Hier fort, aus diesem Garten will ich-Eleonore.  Bist du
+bei Sinnen?
+
+K�thchen.  Liebe Leonore!  Ich bin verloren, wenn sie mich hier
+trifft!  Fort!  In der Gr�fin Arme fl�cht ich mich!  (Ab.)
+
+
+
+Achter Auftritt
+
+Kunigunde und Rosalie aus der Grotte.
+
+
+Kunigunde (gibt Rosalien einen Schl�ssel).  Hier, nimm!--Im Schubfach,
+unter meinem Spiegel; Das Pulver, in der schwarzen Schachtel, rechts,
+Sch�tt es in Wein, in Wasser oder Milch, Und sprich: komm her, mein
+K�thchen!--Doch du nimmst Vielleicht sie lieber zwischen deine Kniee?
+Gift, Tod und Rache!  Mach es, wie du willst, Doch sorge mir, da�
+sies hinunterschluckt.
+
+Rosalie.  H�rt mich nur an, mein Fr�ulein-Kunigunde.  Gift!  Pest!
+Verwesung!  Stumm mache sie und rede nicht!  Wenn sie vergiftet, tot
+ist, eingesargt, Verscharrt, verwest, zerstiebt, als Myrtenstengel,
+Vor dem, was sie jetzt sah, im Winde fl�stert; So komm und sprich von
+Sanftmut und Vergebung, Pflicht und Gesetz und Gott und H�ll und
+Teufel, Von Reue und Gewissensbissen mir.
+
+Rosalie.  Sie hat es schon entdeckt, es hilft zu nichts.
+
+Kunigunde.  Gift!  Asche!  Nacht!  Chaotische Verwirrung!  Das Pulver
+reicht, die Burg ganz wegzufressen, Mit Hund und Katzen hin!--Tu, wie
+ich sagte!  Sie buhlt mir so zur Seite um sein Herz, Wie ich vernahm,
+und ich--des Todes sterb ich, Wenn ihn das Affenangesicht nicht r�hrt;
+Fort!  In die D�nste mit ihr hin: die Welt, Hat nicht mehr Raum
+genug, f�r mich und sie!  (Ab.)
+
+
+
+
+F�nfter Akt
+
+Szene: Worms.  Freier Platz vor der kaiserlichen Burg, zur Seite ein
+Thron; im Hintergrunde die Schranken des Gottesgerichts.
+
+
+
+Erster Auftritt
+
+Der Kaiser auf dem Thron.  Ihm zur Seite der Erzbischof von Worms,
+Graf Otto von der Fl�he und mehrere andere Ritter, Herren und
+Trabanten.  Der Graf vom Strahl, im leichten Helm und Harnisch, und
+Theobald, von Kopf zu Fu� in voller R�stung; beide stehen dem Thron
+gegen�ber.
+
+
+Der Kaiser.  Graf Wetterstrahl, du hast, auf einem Zuge, Der durch
+Heilbronn dich, vor drei Monden, f�hrte, In einer T�rin Busen
+eingeschlagen; Den alten Vater j�ngst verlie� die Dirne, Und, statt
+sie heimzusenden, birgst du sie Im Fl�gel deiner v�terlichen Burg.
+Nun sprengst du, solchen Frevel zu besch�nen, Ger�chte, l�cherlich
+und gottlos, aus; Ein Cherubim, der dir zu Nacht erschienen, Hab dir
+vertraut, die Maid, die bei dir wohnt, Sei meiner kaiserlichen Lenden
+Kind.  Solch eines abgeschmackt prophetschen Gru�es Spott ich, wie
+sichs versteht, und meinethalb Magst du die Krone selbst aufs Haupt
+ihr setzen; Von Schwaben einst, begreifst du, erbt sie nichts, Und
+meinem Hof auch bleibt sie fern zu Worms.  Hier aber steht ein tief
+gebeugter Mann, Dem du, zufrieden mit der Tochter nicht, Auch noch
+die Mutter willst zur Metze machen; Denn er, sein Lebelang fand er
+sie treu, Und r�hmt des Kinds unsel'gen Vater sich.  Darum, auf seine
+schweren Klagen, riefen wir Vor unsern Thron dich her, die Schmach,
+womit Du ihre Gruft gesch�ndet, darzutun; Auf, r�ste dich, du Freund
+der Himmlischen: Denn du bist da, mit einem Wort von Stahl, Im
+Zweikampf ihren Ausspruch zu beweisen!
+
+Der Graf vom Strahl (mit dem Err�ten des Unwillens).  Mein
+kaiserlicher Herr!  Hier ist ein Arm, Von Kr�ften strotzend, markig,
+stahlgeschient, Geschickt im Kampf dem Teufel zu begegnen; Treff ich
+auf jene graue Scheitel dort, Flach schmettr' ich sie, wie einen
+Schweizerk�se, Der g�rend auf dem Brett des Sennen liegt.  Erla�, in
+deiner Huld und Gnade, mir, Ein M�rchen, aberwitzig, sinnverwirrt,
+Dir darzutun, das sich das Volk aus zwei Ereignissen, zusammen
+seltsam freilich, Wie die zwei H�lften eines Ringes, passend, Mit
+m��gem Scharfsinn, an einander setzte.  Begreif, ich bitte dich, in
+deiner Weisheit, Den ganzen Vorfall der Silvesternacht, Als ein
+Gebild des Fiebers, und so wenig Als es mich k�mmern w�rde, tr�umtest
+du, Ich sei ein Jud, so wenig k�mmre dich, Da� ich gerast, die
+Tochter jenes Mannes Sei meines hochverehrten Kaisers Kind!
+
+Erzbischof.  Mein F�rst und Herr, mit diesem Wort, f�rwahr, Kann sich
+des Kl�gers wackres Herz beruhgen.  Geheimer Wissenschaft, sein Weib
+betreffend, R�hmt er sich nicht; schau, was er der Mariane J�ngst, in
+geheimer Zwiesprach, vorgeschwatzt: Er hat es eben jetzo widerrufen!
+Straft um den Wunderbau der Welt ihn nicht, Der ihn, auf einen
+Augenblick, verwirrt.  Er gab, vor einer Stund, o Theobald, Mir seine
+Hand, das K�thchen, wenn du kommst Zu Strahl, in seiner Burg, dir
+abzuliefern; Geh hin und tr�ste dich und hole sie, Du alter Herr, und
+la� die Sache ruhn!
+
+Theobald.  Verfluchter Heuchler, du, wie kannst du leugnen, Da� deine
+Seele ganz durchdrungen ist, Vom Wirbel bis zur Sohle, von dem
+Glauben, Da� sie des Kaisers B�nkeltochter sei?  Hast du den Tag
+nicht, bei dem Kirchenspiel, Erforscht, wann sie geboren, nicht
+berechnet, Wohin die Stunde der Empf�ngnis f�llt; Nicht ausgemittelt,
+mit verruchtem Witze, Da� die erhabne Majest�t des Kaisers Vor
+sechzehn Lenzen durch Heilbronn geschweift?  Ein �berm�tiger, aus
+eines Gottes Ku�, Auf einer Furie Mund gedr�ckt, entsprungen; Ein
+glanzumflo�ner Vaterm�rdergeist, An jeder der granitnen S�ulen
+r�ttelnd, In dem urewgen Tempel der Natur; Ein Sohn der H�lle, den
+mein gutes Schwert Entlarven jetzo, oder, r�ckgewendet, Mich selbst
+zur Nacht des Grabes schleudern soll!
+
+Der Graf vom Strahl.  Nun, den Gott selbst verdamme, gifterf�llter
+Verfolger meiner, der dich nie beleidigt, Und deines Mitleids eher
+w�rdig w�re, So seis, Mordraufer, denn, so wie du willst.  Ein
+Cherubim, der mir, in Glanz ger�stet, Zu Nacht erschien, als ich im
+Tode lag, Hat mir, was leugn' ichs l�nger, Wissenschaft, Entsch�pft
+dem Himmelsbronnen, anvertraut.  Hier vor des h�chsten Gottes Antlitz
+steh ich, Und die Behauptung schmettr' ich dir ins Ohr: K�thchen von
+Heilbronn, die dein Kind du sagst, Ist meines h�chsten Kaisers dort;
+komm her, Mich von dem Gegenteil zu �berzeugen!
+
+Der Kaiser.  Trompeter, blast, dem L�sterer zum Tode!
+
+(Trompetenst��e.)
+
+Theobald (zieht).  Und w�re gleich mein Schwert auch eine Binse, Und
+einem Griffe, locker, wandelbar, Von gelbem Wachs geknetet, eingefugt,
+So wollt ich doch von Kopf zu Fu� dich spalten, Wie einen Giftpilz,
+der der Heid entbl�ht, Der Welt zum Zeugnis, Mordgeist, da� du logst!
+
+Der Graf vom Strahl (er nimmt sich sein Schwert ab und gibt es weg).
+Und w�r mein Helm gleich und die Stirn, die drunter, Durchsichtig,
+messerr�ckend�nn, zerbrechlich, Die Schale eines ausgenommnen Eis, So
+sollte doch dein Sarra�, Funken spr�hend, Abprallen, und in alle
+Ecken splittern, Als h�ttst du einen Diamant getroffen, Der Welt zum
+Zeugnis, da� ich wahr gesprochen!  Hau, und la� jetzt mich sehn, wes
+Sache rein?
+
+(Er nimmt sich den Helm ab und tritt dicht vor ihn.)
+
+Theobald (zur�ckweichend).  Setz dir den Helm auf!
+
+Der Graf vom Strahl (folgt ihm).  Hau!
+
+Theobald.  Setz dir den Helm auf!
+
+Der Graf vom Strahl (st��t ihn zu Boden).  Dich l�hmt der blo�e Blitz
+aus meiner Wimper?
+
+(Er windet ihm das Schwert aus der Hand, tritt �ber ihm
+
+und setzt ihm den Fu� auf die Brust.)  Was hindert mich, im Grimm
+gerechten Siegs, Da� ich den Fu� ins Hirn dir dr�cke?--Lebe!
+
+(Er wirft das Schwert vor des Kaisers Thron.)  Mag es die alte Sphinx,
+die Zeit, dir l�sen, Das K�thchen aber ist, wie ich gesagt, Die
+Tochter meiner h�chsten Majest�t!
+
+Volk (durcheinander).  Himmel!  Graf Wetterstrahl hat obgesiegt!
+
+Der Kaiser (erbla�t und steht auf).  Brecht auf, ihr Herrn!
+
+Erzbischof.  Wohin?
+
+Ein Ritter (aus dem Gefolge).  Was ist geschehn?
+
+Graf Otto.  Allm�chtger Gott!  Was fehlt der Majest�t?  Ihr Herren,
+folgt!  Es scheint, ihr ist nicht wohl?  (Ab.)
+
+
+
+Szene: Ebendaselbst.  Zimmer im kaiserlichen Schlo�.
+
+Zweiter Auftritt
+
+Der Kaiser (wendet sich unter der T�r).  Hinweg!  Es soll mir niemand
+folgen!  Den Burggrafen von Freiburg und den Ritter von Waldst�tten
+la�t herein; das sind die einzigen M�nner, die ich sprechen will!
+(Er wirft die T�r zu.)--Der Engel Gottes, der dem Grafen vom Strahl
+versichert hat, das K�thchen sei meine Tochter: ich glaube, bei
+meiner kaiserlichen Ehre, er hat recht!  Das M�dchen ist, wie ich
+h�re, funfzehn Jahr alt; und vor sechszehn Jahren, weniger drei
+Monaten, genau gez�hlt, feierte ich der Pfalzgr�fin, meiner Schwester,
+zu Ehren das gro�e Turnier in Heilbronn!  Es mochte ohngef�hr eilf
+Uhr abends sein, und der Jupiter ging eben, mit seinem funkelnden
+Licht, im Osten auf, als ich, vom Tanz sehr erm�det, aus dem
+Schlo�tor trat, um mich in dem Garten, der daran st��t, unerkannt,
+unter dem Volk, das ihn erf�llte, zu erlaben; und ein Stern, mild und
+kr�ftig, wie der, leuchtete, wie ich gar nicht zweifle, bei ihrer
+Empf�ngnis.  Gertrud, so viel ich mich erinnere, hie� sie, mit der
+ich mich in einem, von dem Volk minder besuchten, Teil des Gartens,
+beim Schein verl�schender Lampen, w�hrend die Musik, fern von dem
+Tanzsaal her, in den Duft der Linden nieders�uselte, unterhielt; und
+K�thchens Mutter hei�t Gertrud!  Ich wei�, da� ich mir, als sie sehr
+weinte, ein Schaust�ck, mit dem Bildnis Papst Leos, von der Brust los
+machte, und es ihr, als ein Andenken von mir, den sie gleichfalls
+nicht kannte, in das Mieder steckte; und ein solches Schaust�ck, wie
+ich eben vernehme, besitzt das K�thchen von Heilbronn!  O Himmel!
+Die Welt wankt aus ihren Fugen!  Wenn der Graf vom Strahl, dieser
+Vertraute der Auserw�hlten, von der Buhlerin, an die er gekn�pft ist,
+loslassen kann: so werd ich die Verk�ndigung wahrmachen, den Theobald,
+unter welchem Vorwand es sei, bewegen m�ssen, da� er mir dies Kind
+abtrete, und sie mit ihm verheiraten m�ssen: will ich nicht wagen,
+da� der Cherub zum zweitenmal zur Erde steige und das ganze Geheimnis,
+das ich hier den vier W�nden anvertraut, ausbringe!  (Ab.)
+
+
+
+Dritter Auftritt
+
+Burggraf von Freiburg und Georg von Waldst�tten treten auf.  Ihnen
+folgt Ritter Flammberg.
+
+
+Flammberg (erstaunt).  Herr Burggraf von Freiburg!--Seid Ihr es, oder
+ist es Euer Geist?  O eilt nicht, ich beschw�r Euch--!
+
+Freiburg (wendet sich).  Was willst du?
+
+Georg.  Wen suchst du?
+
+Flammberg.  Meinen bejammernsw�rdigen Herrn, den Grafen vom Strahl!
+Fr�ulein Kunigunde, seine Braut--o h�tten wir sie Euch nimmermehr
+abgewonnen!  Den Koch hat sie bestechen wollen, dem K�thchen Gift zu
+reichen--: Gift, ihr gestrengen Herren, und zwar aus dem
+abscheulichen, unbegreiflichen und r�tselhaften Grunde, weil das Kind
+sie im Bade belauschte!
+
+Freiburg.  Und das begreift ihr nicht?
+
+Flammberg.  Nein!
+
+Freiburg.  So will ich es dir sagen.  Sie ist eine mosaische Arbeit,
+aus allen drei Reichen der Natur zusammengesetzt.  Ihre Z�hne geh�ren
+einem M�dchen aus M�nchen, ihre Haare sind aus Frankreich
+verschrieben, ihrer Wangen Gesundheit kommt aus den Bergwerken in
+Ungarn, und den Wuchs, den ihr an ihr bewundert, hat sie einem Hemde
+zu danken, das ihr der Schmied, aus schwedischem Eisen, verfertigt
+hat.--Hast du verstanden?
+
+Flammberg.  Was!
+
+Freiburg.  Meinen Empfehl an deinen Herrn!  (Ab.)
+
+Georg.  Den meinigen auch!--Der Graf ist bereits nach der Strahlburg
+zur�ck; sag ihm, wenn er den Hauptschl�ssel nehmen, und sie in der
+Morgenstunde, wenn ihre Reize auf den St�hlen liegen, �berraschen
+wolle, so k�nne er seine eigne Bilds�ule werden und sich, zur
+Verewigung seiner Heldentat, bei der K�hlerh�tte aufstellen lassen!
+(Ab.)
+
+
+
+Szene: Schlo� Wetterstrahl.  Kunigundens Zimmer.
+
+Vierter Auftritt
+
+Rosalie, bei der Toilette des Fr�uleins besch�ftigt.  Kunigunde tritt
+ungeschminkt, wie sie aus dem Bette k�mmt, auf; bald darauf der Graf
+vom Strahl.
+
+
+Kunigunde (indem sie sich bei der Toilette niedersetzt).  Hast du die
+T�r besorgt?
+
+Rosalie.  Sie ist verschlossen.
+
+Kunigunde.  Verschlossen!  Was!  Verriegelt, will ich wissen!
+Verschlossen und verriegelt, jedesmal!
+
+(Rosalie geht, die T�r zu verriegeln; der Graf kommt ihr entgegen.)
+
+Rosalie (erschrocken).  Mein Gott!  Wie kommt Ihr hier herein, Herr
+Graf? - Mein Fr�ulein!
+
+Kunigunde (sieht sich um).  Wer?
+
+Rosalie.  Seht, bitt ich Euch!
+
+Kunigunde.  Rosalie!
+
+(Sie erhebt sich schnell, und geht ab.)
+
+
+
+F�nfter Auftritt
+
+Der Graf vom Strahl und Rosalie.
+
+
+Der Graf vom Strahl (steht wie vom Donner ger�hrt).  Wer war die
+unbekannte Dame?
+
+Rosalie.--Wo?
+
+Der Graf vom Strahl.  Die, wie der Turm von Pisa, hier
+vorbeiging?--Doch, hoff ich, nicht--?
+
+Rosalie.  Wer?
+
+Der Graf vom Strahl.  Fr�ulein Kunigunde?
+
+Rosalie.  Bei Gott, ich glaub, Ihr scherzt!  Sybille, meine
+Stiefmutter, gn�dger Herr-Kunigunde (drinnen).  Rosalie!
+
+Rosalie.  Das Fr�ulein, das im Bett liegt, ruft nach mir.--Verzeiht,
+wenn ich--!  (Sie holt einen Stuhl.)
+
+Wollt ihr Euch g�tigst setzen?
+
+(Sie nimmt die Toilette und geht ab.)
+
+
+
+Sechster Auftritt
+
+
+Der Graf vom Strahl (vernichtet).  Nun, du allm�chtger Himmel, meine
+Seele, Sie ist doch wert nicht, da� sie also hei�e!  Das Ma�, womit
+sie, auf dem Markt der Welt, Die Dinge mi�t, ist falsch; scheusel'ge
+Bosheit Hab ich f�r milde Herrlichkeit erstanden!  Wohin fl�cht ich,
+Elender, vor mir selbst?  Wenn ein Gewitter wo in Schwaben tobte,
+Mein Pferd k�nnt ich, in meiner Wut, besteigen, Und suchen, wo der
+Keil mein Haupt zerschl�gt!  Was ist zu tun, mein Herz?  Was ist zu
+lassen?
+
+
+
+Siebenter Auftritt
+
+Kunigunde, in ihrem gew�hnlichen Glanz, Rosalie und die alte Sybille,
+die schw�chlich, auf Kr�cken, durch die Mittelt�r abgeht.
+
+
+Kunigunde.  Sieh da, Graf Friederich!  Was f�r ein Anla� F�hrt Euch
+so fr�h in meine Zimmer her?
+
+Der Graf vom Strahl (indem er die Sybille mit den Augen verfolgt).
+Was!  Sind die Hexen doppelt?
+
+Kunigunde (sieht sich um).  Wer?
+
+Der Graf vom Strahl (fa�t sich).  Vergebt!  Nach Eurem Wohlsein wollt
+ich mich erkunden.
+
+Kunigunde.  Nun?--Ist zur Hochzeit alles vorbereitet?
+
+Der Graf vom Strahl (indem er n�her tritt und sie pr�ft).  Es ist,
+bis auf den Hauptpunkt, ziemlich alles-Kunigunde. (weicht zur�ck).
+Auf wann ist sie bestimmt?
+
+Der Graf vom Strahl.  Sie wars--auf morgen.
+
+Kunigunde (nach einer Pause).  Ein Tag mit Sehnsucht l�ngst von mir
+erharrt! - Ihr aber seid nicht froh, d�nkt mich, nicht heiter?
+
+Der Graf vom Strahl (verbeugt sich).  Erlaubt! ich bin der
+Gl�cklichste der Menschen!
+
+Rosalie (traurig).  Ists wahr, da� jenes Kind, das K�thchen, gestern,
+Das Ihr im Schlo� beherbergt habt--?
+
+Der Graf vom Strahl.  O Teufel!
+
+Kunigunde (betreten).  Was fehlt Euch?  Sprecht!
+
+Rosalie (f�r sich).  Verw�nscht!
+
+Der Graf vom Strahl (fa�t sich).--Das Los der Welt!  Man hat sie
+schon im Kirchhof beigesetzt.
+
+Kunigunde.  Was Ihr mir sagt!
+
+Rosalie.  Jedoch noch nicht begraben?
+
+Kunigunde.  Ich mu� sie doch im Leichenkleid noch sehn.
+
+
+
+Achter Auftritt
+
+Ein Diener tritt auf.  Die Vorigen.
+
+
+Diener.  Gottschalk schickt einen Boten, gn�dger Herr, Der Euch im
+Vorgemach zu sprechen w�nscht!
+
+Kunigunde.  Gottschalk?
+
+Rosalie.  Von wo?
+
+Der Graf vom Strahl.  Vom Sarge der Verblichnen!  La�t Euch im Putz,
+ich bitte sehr, nicht st�ren!  (Ab.)
+
+
+
+Neunter Auftritt
+
+Kunigunde und Rosalie.
+
+(Pause.)
+
+
+Kunigunde (ausbrechend) Er wei�, umsonst ists, alles hilft zu nichts,
+Er hats gesehn, es ist um mich getan!
+
+Rosalie.  Er wei� es nicht!
+
+Kunigunde.  Er wei�!
+
+Rosalie.  Er wei� es nicht!  Ihr klagt, und ich, vor Freuden m�cht
+ich h�pfen.  Er steht im Wahn, da� die, die hier gesessen, Sybille,
+meine Mutter, sei gewesen; Und nimmer war ein Zufall gl�cklicher Als
+da� sie just in Eurem Zimmer war; Schnee, im Gebirg gesammelt, wollte
+sie, Zum Waschen eben Euch ins Becken tragen.
+
+Kunigunde.  Du sahst, wie er mich pr�fte, mich erma�.
+
+Rosalie.  Gleichviel!  Er traut den Augen nicht!  Ich bin So fr�hlich,
+wie ein Eichhorn in den Fichten!  La�t sein, da� ihm von fern ein
+Zweifel kam; Da� Ihr Euch zeigtet, gro� und schlank und herrlich,
+Schl�gt seinen Zweifel v�llig wieder nieder.  Des Todes will ich
+sterben, wenn er nicht, Den Handschuh jedem hinwirft, der da zweifelt,
+Da� ihr die K�nigin der Frauen seid.  O seid nicht mutlos!  Kommt
+und zieht Euch an; Der n�chsten Sonne Strahl, was gilts begr��t Euch,
+Als Gr�fin Kunigunde Wetterstrahl!
+
+Kunigunde.  Ich wollte, da� die Erde mich verschl�nge!
+
+(Ab.)
+
+
+
+Szene: Das Innere einer H�hle mit der Aussicht auf eine Landschaft.
+
+Zehnter Auftritt
+
+K�thchen, in einer Verkleidung, sitzt traurig auf einem Stein, den
+Kopf an die Wand gelehnt.  Graf Otto von der Fl�he, Wenzel von
+Nachtheim, Hans von B�renklau, in der Tracht kaiserlicher Reichsr�te,
+und Gottschalk treten auf.  Gefolge, zuletzt der Kaiser und Theobald,
+welche in M�nteln verh�llt, im Hintergrunde bleiben.
+
+
+Graf Otto (eine Pergamentrolle in der Hand).  Jungfrau von Heilbronn!
+Warum herbergst du, Dem Sperber gleich, in dieser H�hle Raum?
+
+K�thchen (steht auf).  O Gott!  Wer sind die Herrn?
+
+Gottschalk.  Erschreckt sie nicht!--Der Anschlag einer Feindin, sie
+zu t�ten, Zwang uns, in diese Berge sie zu fl�chten.
+
+Graf Otto.  Wo ist dein Herr, der Reichsgraf, dem du dienst?
+
+K�thchen.  Ich wei� es nicht.
+
+Gottschalk.  Er wird sogleich erscheinen!
+
+Graf Otto (gibt ihr das Pergament).  Nimm diese Rolle hier; es ist
+ein Schreiben, Verfa�t von kaiserlicher Majest�t.  Durchfleuchs und
+folge mir; hier ist kein Ort, Jungfraun, von deinem Range, zu
+bewirten; Worms nimmt fortan, in seinem Schlo�, dich auf!
+
+Der Kaiser (im Hintergrund).  Ein lieber Anblick!
+
+Theobald.  O ein wahrer Engel!
+
+
+
+Eilfter Auftritt
+
+Der Graf vom Strahl tritt auf.  Die Vorigen.
+
+
+Der Graf vom Strahl (betroffen).  Reichsr�t, in festlichem Gepr�ng,
+aus Worms!
+
+Graf Otto.  Seid uns gegr��t, Herr Graf!
+
+Der Graf vom Strahl.--Was bringt Ihr mir?
+
+Graf Otto.  Ein kaiserliches Schreiben dieser Jungfrau!  Befragt sie
+selbst; sie wird es Euch bedeuten.
+
+Der Graf vom Strahl.  O Herz, was pochst du?  (Zu K�thchen.)  Kind,
+was h�ltst du da?
+
+K�thchen.  Wei� nit, mein hoher Herr.-Gottschalk.  Gib, gib, mein
+Herzchen.
+
+Der Graf vom Strahl (liest).  "Der Himmel, wisset, hat mein Herz
+gestellt, Das Wort des Auserw�hlten einzul�sen.  Das K�thchen ist
+nicht mehr des Theobalds, Des Waffenschmieds, der mir sie abgetreten,
+Das K�thchen f�rderhin ist meine Tochter, Und Katharina hei�t sie
+jetzt von Schwaben."
+
+(Er durchbl�ttert die andern Papiere.)  Und hier: "Kund sei"--Und hier:
+"das Schlo� zu Schwabach"-(Kurze Pause.)
+
+Nun m�cht ich vor der Hochgebenedeiten In Staub mich werfen, ihren
+Fu� ergreifen, Und mit des Danks gluthei�er Tr�ne waschen.
+
+K�thchen (setzt sich).  Gottschalk, hilf, steh mir bei; mir ist nicht
+wohl!
+
+Der Graf vom Strahl (zu den R�ten).  Wo ist der Kaiser?  Wo der
+Theobald?
+
+Der Kaiser (indem beide ihre M�ntel abwerfen).  Hier sind sie!
+
+K�thchen (steht auf).  Gott im hohen Himmel!  Vater!
+
+(Sie eilt auf ihn zu; er empf�ngt sie.)
+
+Gottschalk (f�r sich).  Der Kaiser!  Ei, so wahr ich bin!  Da steht
+er!
+
+Der Graf vom Strahl.  Nun, sprich du--G�ttlicher!  Wie nenn ich dich?
+- Sprich, las ich recht?
+
+Der Kaiser.  Beim Himmel, ja, das tatst du!  Die einen Cherubim zum
+Freunde hat, Der kann mit Stolz ein Kaiser Vater sein!  Das K�thchen
+ist die Erst' itzt vor den Menschen, Wie sies vor Gott l�ngst war;
+wer sie begehrt, Der mu� bei mir jetzt w�rdig um sie frein.
+
+Der Graf vom Strahl (beugt ein Knie vor ihm).  Nun, hier auf Knieen
+bitt ich: gib sie mir!
+
+Der Kaiser.  Herr Graf!  Was f�llt Ihm ein?
+
+Der Graf vom Strahl.  Gib, gib sie mir!  Welch andern Zweck ers�nn
+ich deiner Tat?
+
+Der Kaiser.  So!  Meint Er das?--Der Tod nur ist umsonst, Und die
+Bedingung setz ich dir.
+
+Der Graf vom Strahl.  Sprich!  Rede!
+
+Der Kaiser (ernst).  In deinem Haus den Vater nimmst du auf!
+
+Der Graf vom Strahl.  Du spottest!
+
+Der Kaiser.  Was! du weigerst dich?
+
+Der Graf vom Strahl.  In H�nden!  In meines Herzens H�nden nehm ich
+ihn!
+
+Der Kaiser (zu Theobald).  Nun, Alter; h�rtest du?
+
+Theobald (f�hrt ihm K�thchen zu).  So gib sie ihm!  Was Gott f�gt,
+hei�t es, soll der Mensch nicht scheiden.
+
+Der Graf vom Strahl (steht auf, und nimmt K�thchens Hand).  Nun denn,
+zum Sel'gen hast du mich gemacht!--La�t einen Ku� mich, V�ter, einen
+Ku� nur Auf ihre himmels��en Lippen dr�cken.  H�tt ich zehn Leben,
+nach der Hochzeitsnacht, Opfr' ich sie jauchzend jedem von euch hin!
+
+Der Kaiser.  Fort jetzt! da� er das R�tsel ihr erkl�re!
+
+(Ab.)
+
+
+
+Zw�lfter Auftritt
+
+Der Graf vom Strahl und das K�thchen.
+
+
+Der Graf vom Strahl (indem er sie bei der Hand nimmt, und sich setzt).
+Nun denn, mein K�thchen, komm! komm her, o M�dchen!  Mein Mund hat
+jetzt dir etwas zu vertraun.
+
+K�thchen.  Mein hoher Herr!  Sprich!  Was bedeutet mir--?
+
+Der Graf vom Strahl.  Zuerst, mein s��es Kind, mu� ich dir sagen, Da�
+ich mit Liebe dir, uns�glich, ewig, Durch alle meine Sinne zugetan.
+Der Hirsch, der von der Mittagsglut gequ�lt, Den Grund zerw�hlt, mit
+spitzigem Geweih, Er sehnt sich so begierig nicht, Vom Felsen in den
+Waldstrom sich zu st�rzen, Den rei�enden, als ich, jetzt, da du mein
+bist, In alle deine jungen Reize mich.
+
+K�thchen (schamrot).  Jesus!  Was sprichst du?  Ich versteh dich
+nicht.
+
+Der Graf vom Strahl.  Vergib mir, wenn mein Wort dich oft gekr�nkt,
+Beleidigt; meine roh mi�handelnde Geb�rde dir zuweilen weh getan.
+Denk ich, wie lieblos einst mein Herz geeifert, Dich von mir
+wegzusto�en--und seh ich gleichwohl jetzo dich So voll von Huld und
+G�te vor mir stehn, Sieh, so kommt Wehmut, K�thchen, �ber mich, Und
+meine Tr�nen halt ich nicht zur�ck.  (Er weint.)
+
+K�thchen (�ngstlich).  Himmel!  Was fehlt dir?  Was bewegt dich so?
+Was hast du mir getan?  Ich wei� von nichts.
+
+Der Graf vom Strahl.  O M�dchen, wenn die Sonne wieder scheint, Will
+ich den Fu� in Gold und Seide legen, Der einst auf meiner Spur sich
+wund gelaufen.  Ein Baldachin soll diese Scheitel schirmen, Die einst
+der Mittag hinter mir versengt.  Arabien soll sein sch�nstes Pferd
+mir schicken, Geschirrt in Gold, mein s��es Kind zu tragen, Wenn mich
+ins Feld der Klang der H�rner ruft; Und wo der Zeisig sich das Nest
+gebaut, Der zwitschernde, in dem Holunderstrauch, Soll sich ein
+Sommersitz dir auferbaun, In heitern, weitverbreiteten Gem�chern,
+Mein K�thchen, kehr ich wieder, zu empfangen.
+
+K�thchen.  Mein Friederich!  Mein angebeteter!  Was soll ich auch von
+dieser Rede denken?  Du willst?--Du sagst?--(Sie will seine Hand
+k�ssen.)
+
+Der Graf vom Strahl (zieht sie zur�ck).
+
+Nichts, nichts, mein s��es Kind.
+
+(Er k��t ihre Stirn.)
+
+K�thchen.  Nichts?
+
+Der Graf vom Strahl.
+
+Nichts.  Vergib.  Ich glaubt, es w�re morgen. - Was wollt ich doch
+schon sagen?--Ja, ganz recht, Ich wollte dich um einen Dienst
+ersuchen.
+
+(Er wischt sich die Tr�nen ab.)
+
+K�thchen (kleinlaut.)  Um einen Dienst?  Nun, welchen?  Sag nur an.
+
+(Pause.)
+
+Der Graf vom Strahl.  Ganz recht.  Das wars.--Du wei�t, ich mache
+morgen Hochzeit.  Es ist zur Feier alles schon bereitet; Am n�chsten
+Mittag bricht der Zug, Mit meiner Braut bereits zum Altar auf.  Nun
+sann ich mir ein Fest aus, s��es M�dchen, Zu welchem du die G�ttin
+spielen sollst.  Du sollst, aus Lieb zu deinem Herrn, f�r morgen Die
+Kleidung, die dich deckt, beiseite legen, Und in ein reiches
+Schmuckgewand dich werfen, Das Mutter schon f�r dich zurecht gelegt.
+- Willst du das tun?
+
+K�thchen (h�lt ihre Sch�rze vor die Augen).  Ja, ja, es soll geschehn.
+
+Der Graf vom Strahl.  Jedoch recht sch�n; h�rst du?  Schlicht aber
+pr�chtig!  Recht, wies Natur und Weis in dir erheischt.  Man wird dir
+Perlen und Smaragden reichen; Gern m�cht ich da� du alle Fraun im
+Schlo�, Selbst noch die Kunigunde �berstrahlst.--Was weinst du?
+
+K�thchen.--Ich wei� nicht, mein verehrter Herr.  Es ist ins Aug mir
+was gekommen.
+
+Der Graf vom Strahl.  Ins Auge?  Wo?
+
+(Er k��t ihr die Tr�nen aus den Augen.)  Nun komm nur fort.  Es wird
+sich schon erhellen.
+
+(Er f�hrt sie ab.)
+
+
+
+Szene: Schlo�platz, zur Rechten, im Vordergrund, ein Portal.  Zur
+Linken, mehr in der Tiefe, das Schlo�, mit einer Rampe.  Im
+Hintergrund die Kirche.
+
+Dreizehnter Auftritt
+
+Marsch.  Ein Aufzug.  Ein Herold er�ffnet ihn; darauf Trabanten.  Ein
+Baldachin von vier Mohren getragen.  In der Mitte des Schlo�platzes
+stehen der Kaiser, der Graf vom Strahl, Theobald, Graf Otto von der
+Fl�he, der Rheingraf vom Stein, der Burggraf von Freiburg und das
+�brige Gefolge des Kaisers und empfangen den Baldachin.  Unter dem
+Portal, rechts Fr�ulein Kunigunde von Thurneck im Brautschmuck, mit
+ihren Tanten und Vettern, um sich dem Zuge anzuschlie�en.  Im
+Hintergrunde Volk, worunter Flammberg, Gottschalk, Rosalie usw.
+
+
+Der Graf vom Strahl.  Halt hier, mit dem Baldachin!--Herold, tue dein
+Amt!
+
+Der Herold (ablesend).  "Kund und zu wissen sei hiermit jedermann,
+da� der Reichsgraf, Friedrich Wetter vom Strahl, heut seine
+Verm�hlung feiert, mit Katharina, Prinzessin von Schwaben, Tochter
+unsers durchlauchtigsten Herrn und Kaisers.  Der Himmel segne das
+hohe Brautpaar, und sch�tte das ganze F�llhorn von Gl�ck, das in den
+Wolken schwebt, �ber ihre teuren H�upter aus!"
+
+Kunigunde (zu Rosalie).  Ist dieser Mann besessen, Rosalie?
+
+Rosalie.  Beim Himmel!  Wenn er es nicht ist, so ist es darauf
+angelegt, uns dazu zu machen.-Burggraf von Freiburg.  Wo ist die
+Braut?
+
+Ritter von Thurneck.  Hier, ihr verehrungsw�rdigen Herren!
+
+Freiburg.  Wo?
+
+Thurneck.  Hier steht das Fr�ulein, unsere Muhme, unter diesem Portal!
+
+Freiburg.  Wir suchen die Braut des Grafen vom Strahl.--Ihr Herren,
+an euer Amt!  Folgt mir und la�t uns sie holen.
+
+(Burggraf von Freiburg, Georg von Waldst�tten und der Rheingraf vom
+Stein, besteigen die Rampe und gehen ins Schlo�.)
+
+Die Herren von Thurneck.  H�lle, Tod und Teufel!  Was haben diese
+Anstalten zu bedeuten?
+
+
+
+Vierzehnter Auftritt
+
+K�thchen im kaiserlichen Brautschmuck, gef�hrt von Gr�fin Helena und
+Fr�ulein Eleonore, ihre Schleppe von drei Pagen getragen; hinter ihr
+Burggraf von Freiburg usw. steigen die Rampe herab.
+
+
+Graf Otto.  Heil dir, o Jungfrau!
+
+Ritter Flammberg und Gottschalk.  Heil dir, K�thchen von Heilbronn,
+kaiserliche Prinzessin von Schwaben!
+
+Volk.  Heil dir!  Heil!  Heil dir!
+
+Herrnstadt und von der Wart (die auf dem Platz geblieben).  Ist dies
+die Braut?
+
+Freiburg.  Dies ist sie.
+
+K�thchen.  Ich?  Ihr hohen Herren!  Wessen?
+
+Der Kaiser.  Dessen, den dir der Cherub geworben.  Willst du diesen
+Ring mit ihm wechseln?
+
+Theobald.  Willst du dem Grafen deine Hand geben?
+
+Der Graf vom Strahl (umfa�t sie).  K�thchen!  Meine Braut!  Willst du
+mich?
+
+K�thchen.  Sch�tze mich Gott und alle Heiligen!  (Sie sinkt; die
+Gr�fin empf�ngt sie.)
+
+Der Kaiser.  Wohlan, so nehmt sie, Herr Graf vom Strahl, und f�hrt
+sie zur Kirche!
+
+(Glockenklang.)
+
+Kunigunde.  Pest, Tod und Rache!  Diesen Schimpf sollt ihr mir b��en!
+(Ab, mit Gefolge.)
+
+Der Graf vom Strahl.  Giftmischerin!
+
+(Marsch: Der Kaiser stellt sich mit K�thchen und dem Grafen vom
+Strahl unter den Baldachin; die Damen und Ritter folgen.  Trabanten
+beschlie�en den Zug.--Alle ab.)
+
+
+Ende dieses Projekt Gutenberg Etextes Das K�thchen von Heilbronn oder
+die Feuerprobe, von Heinrich von Kleist.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, DAS KAETHCHEN VON HEILBRONN ***
+
+This file should be named 6646-8.txt or 6646-8.zip
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext04 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext04
+
+Or /etext03, 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

@@ -4,7 +4,7 @@ const Promise = require("bluebird");
 const fs = require("fs");
 
 Promise.each(
-    new Array(100).fill(0).map((item, k) => {
+    new Array(1).fill(0).map((item, k) => {
         return {
             uri: `https://www.tecmundo.com.br/novidades?page=${k + 1}`,
             transform: body => {
@@ -30,52 +30,66 @@ Promise.each(
                         return rp(options).then($ => {
                             console.log(k, options.uri);
 
-                            return new Promise(resolve => {
-                                let txt = "";
-                                $(".tec--article__body")
-                                    //.find("p")
-                                    .children()
-                                    .each((i, item) => {
-                                        if ("p h2".includes(item.name)) {
-                                            const text = $(item).text();
-                                            if (
-                                                text !==
-                                                "Cupons de desconto TecMundo:"
-                                            ) {
-                                                //console.log(text);
-                                                txt += text + "\n";
-                                            }
-                                        }
-                                    });
+                            const newsTitle = $(
+                                ".tec--article__header__title"
+                            ).text();
 
-                                const filename = options.uri.split("/");
-
-                                fs.writeFile(
-                                    ".\\news\\" +
-                                        filename[filename.length - 1] +
-                                        ".txt",
-                                    txt,
-                                    err => {
-                                        console.log(err);
-
-                                        resolve();
-                                    }
-                                );
+                            return rp(
+                                `https://disqus.com/embed/comments/?base=default&f=tecmundo&t_u=${options.uri}&t_e=${newsTitle} - TecMundo&t_d=${newsTitle}&t_t=${newsTitle} - TecMundo&s_o=default&l=pt#version=96f5ca00a04502984667ea244c3ff477`
+                            ).then(aaa => {
+                                console.log(aaa);
                             });
 
-                            return;
+                            // return new Promise(resolve => {
+                            //     let txt = "";
+                            //     $(".tec--article__body")
+                            //         //.find("p")
+                            //         .children()
+                            //         .each((i, item) => {
+                            //             if ("p h2".includes(item.name)) {
+                            //                 const text = $(item).text();
+                            //                 if (
+                            //                     text !==
+                            //                     "Cupons de desconto TecMundo:"
+                            //                 ) {
+                            //                     //console.log(text);
+                            //                     txt += text + "\n";
+                            //                 }
+                            //             }
+                            //         });
 
-                            const aux = $(".tec--article__header-grid");
+                            //     const filename = options.uri.split("/");
 
-                            console.log(
-                                aux.find(".tec--article__header__title").text()
-                            );
-                            console.log(
-                                aux
-                                    .find(".tec--timestamp__item")
-                                    .first()
-                                    .text()
-                            );
+                            //     fs.writeFile(
+                            //         ".\\news\\" +
+                            //             filename[filename.length - 1] +
+                            //             ".txt",
+                            //         txt,
+                            //         err => {
+                            //             console.log(err);
+
+                            //             resolve();
+                            //         }
+                            //     );
+                            // });
+
+                            // return;
+
+                            //const aux = $("posts");
+                            //const aux = $("iframe").attr("src");
+                            //console.log(aux);
+
+                            // const aux = $(".tec--article__header-grid");
+
+                            // console.log(
+                            //     aux.find(".tec--article__header__title").text()
+                            // );
+                            // console.log(
+                            //     aux
+                            //         .find(".tec--timestamp__item")
+                            //         .first()
+                            //         .text()
+                            // );
                         });
                     })
             ).then(function(result) {

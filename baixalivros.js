@@ -2,26 +2,69 @@ const rp = require("request-promise");
 const cheerio = require("cheerio");
 const Promise = require("bluebird");
 const fs = require("fs");
-
-const arr = new Array(10).fill(0);
-
 const random_useragent = require("random-useragent");
+
+const arr = new Array(1000).fill(0);
+
+Promise.each(arr, (item, index) => {
+    index += 180;
+    return Promise.all(
+        new Array(10).fill(0).map((item, k) => {
+            return rp(`https://www.gutenberg.org/files/${index * 10 + k + 1}/`)
+                .then(body => {
+                    const $ = cheerio.load(body);
+
+                    return Promise.all(
+                        $("a")
+                            .toArray()
+                            .filter(item => {
+                                const x = $(item).attr("href");
+                                return x.includes(".txt");
+                            })
+                            .map(item => {
+                                const x = $(item).attr("href");
+                                return rp(
+                                    `https://www.gutenberg.org/files/${index *
+                                        10 +
+                                        k +
+                                        1}/${x}`
+                                ).then(body => {
+                                    console.log(index * 10 + k + 1);
+
+                                    fs.writeFileSync(
+                                        `.\\livros\\${index * 10 + k + 1}.txt`,
+                                        body
+                                    );
+                                });
+                            })
+                    );
+                })
+                .catch(err => {
+                    if (err.statusCode === 403) return;
+                    else throw new Error(err);
+                });
+        })
+    );
+});
+
+return;
 
 Promise.each(arr, (item, index) => {
     return rp(
-        `https://www.gutenberg.org/ebooks/search/?sort_order=downloads&start_index=${index *
+        `https://www.gutenberg.org/ebooks/search/?sort_order=downloads&start_index=${(index +
+            40) *
             25 +
             1}`
     )
         .then(body => {
-            console.log(index);
+            console.log((index + 40) * 25 + 1);
 
             const $ = cheerio.load(body);
 
             return Promise.each(
                 $(".booklink")
                     .toArray()
-                    .map((item, k) => {
+                    .map(item => {
                         const link = $(item)
                             .find("a")
                             .first()
@@ -48,7 +91,7 @@ Promise.each(arr, (item, index) => {
                                             //     }
                                             // }
                                         ).then(body => {
-                                            console.log(link);
+                                            console.log(index, link);
 
                                             const a = link.split("/");
 

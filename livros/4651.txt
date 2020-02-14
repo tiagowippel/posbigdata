@@ -1,0 +1,3177 @@
+The Project Gutenberg Etext of L'Ingenu
+by Voltaire
+(#7 in our series by Voltaire)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg file.
+
+Please do not remove this header information.
+
+This header should be the first thing seen when anyone starts to
+view the eBook. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the information
+needed to understand what they may and may not do with the eBook.
+To encourage this, we have moved most of the information to the end,
+rather than having it all here at the beginning.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+Information on contacting Project Gutenberg to get eBooks, and
+further information, is included below.  We need your donations.
+
+The Project Gutenberg Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+Find out about how to make a donation at the bottom of this file.
+
+
+Title: L'Ingenu
+
+Author: Voltaire
+
+Release Date: November, 2003  [Etext #4651]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on February 20, 2002]
+
+Edition: 10
+
+Language: French
+
+Character set encoding: ISO-Latin-1
+
+The Project Gutenberg Etext of L'Ingenu
+by Voltaire
+******This file should be named 4651-8.txt or 4651-8.zip******
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+The "legal small print" and other information about this book
+may now be found at the end of this file.  Please read this
+important information, as it gives you specific rights and
+tells you about restrictions in how the file may be used.
+
+***
+Produced by Carlo Traverso.
+
+We thank the Bibliotheque Nationale de France that has made available
+the image files at www://gallica.bnf.fr, authorizing the preparation
+of the etext through OCR.
+
+Nous remercions la Biblioth�que Nationale de France qui a mis �
+dispositions les images dans www://gallica.bnf.fr, et a donn�
+l'authorization � les utilizer pour preparer ce texte.
+
+
+
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE.
+
+			   TOME XXXIII
+
+	      DE L' IMPRIMERIE DE A.  FIRMIN DIDOT,
+
+			RUE JACOB, N� 24.
+
+
+
+
+			     OEUVRES
+
+			       DE
+
+			    VOLTAIRE
+
+	      PR�FACES, AVERTISSEMENTS, NOTES, ETC.
+
+			PAR  M. BEUCHOT.
+
+			  TOME XXXIII.
+
+			ROMANS.  TOME I.
+
+			    A PARIS,
+
+		     CHEZ LEF�VRE, LIBRAIRE,
+
+	 RUE DE L'�PERON, K� 6.  WERDET ET LEQUIEN FILS,
+
+		     RUE DU BATTOIR, N� 2O.
+
+			   MDCCCXXIX.
+
+
+
+
+L'ING�NU,
+
+HISTOIRE V�RITABLE
+
+TIR�E DES MANUSCRITS DU P. QUESNEL.
+
+1767.
+
+
+Pr�face de l'�diteur
+
+
+L'ING�NU, _histoire v�ritable, tir�e des manuscrits du
+P. Quesnel_, 1767, deux parties, petit in-8�, fut, dans
+quelques �ditions, intitul�: _Le Huron, ou l'Ing�nu_.
+
+L'ouvrage se vendait publiquement en septembre 1767, mais au bout
+de huit ou dix jours il fut saisi; et le prix, qui �tait de trois
+livres, monta � vingt- quatre[1].
+
+  [1]  M�moires secrets, du 13 septembre 1767.
+
+
+Trois ans apr�s, on vit para�tre _L' Ing�nue, ou l'Encensoir des
+dames, par la ni�ce � mon oncle_, Gen�ve et Paris, chez Desventes,
+1770, in-12.
+
+				------
+
+Les notes sans signature, et qui sont indiqu�es par des lettres,
+sont de Voltaire.
+
+Les notes sign�es d'un K sont des �diteurs de Kehl, MM. Condorcet
+et Decroix.  Il est impossible de faire rigoureusement la part de
+chacun.
+
+Les additions que j'ai faites aux notes de Voltaire ou aux notes
+des �diteurs de Kehl, en sont s�par�es par un--, et sont, comme
+mes notes, sign�es de l'initiale de mon nom.
+
+                                                 BEUCHOT.
+
+4 octobre 1829.
+
+
+
+
+
+L'ING�NU.
+
+
+
+
+CHAPITRE I.
+
+Comment le prieur de Notre-Dame de la Montagne et mademoiselle sa
+soeur rencontr�rent un Huron.
+
+Un jour saint Dunstan, Irlandais de nation et saint de
+profession, partit d'Irlande sur une petite montagne qui vogua
+vers les c�tes de France, et arriva par cette voiture � la baie
+de Saint-Malo.  Quand il fut � bord, il donna la b�n�diction � sa
+montagne, qui lui fit de profondes r�v�rences, et s'en retourna
+en Irlande par le m�me chemin qu'elle �tait venue.
+
+Dunstan fonda un petit prieur� dans ces quartiers-l�, et lui
+donna le nom de prieur� de la Montagne, qu'il porte encore, comme
+un chacun sait.
+
+En l'ann�e 1689, le 15 juillet au soir, l'abb� de Kerkabon,
+prieur de Notre-Dame de la Montagne, se promenait sur le bord de
+la mer avec mademoiselle de Kerkabon, sa soeur, pour prendre le
+frais.  Le prieur, d�j� un peu sur l'�ge, �tait un tr�s bon
+eccl�siastique, aim� de ses voisins, apr�s l'avoir �t� autrefois
+de ses voisines.  Ce qui lui avait donn� surtout une grande
+consid�ration, c'est qu'il �tait le seul b�n�ficier du pays qu'on
+ne f�t pas oblig� de porter dans son lit quand il avait soup�
+avec ses confr�res.  Il savait assez honn�tement de th�ologie; et
+quand il �tait las de lire saint Augustin, il s'amusait avec
+Rabelais: aussi tout le monde disait du bien de lui.
+
+Mademoiselle de Kerkabon, qui n'avait jamais �t� mari�e,
+quoiqu'elle e�t grande envie de l'�tre, conservait de la
+fra�cheur � l'�ge de quarante-cinq ans; son caract�re �tait bon
+et sensible; elle aimait le plaisir et �tait d�vote.
+
+Le prieur disait � sa soeur, en regardant la mer: H�las!  c'est
+ici que s'embarqua notre pauvre fr�re avec notre ch�re
+belle-soeur madame de Kerkabon, sa femme, sur la fr�gate
+_l'Hirondelle_, en 1669, pour aller servir en Canada.  S'il
+n'avait pas �t� tu�, nous pourrions esp�rer de le revoir encore.
+
+Croyez-vous, disait mademoiselle de Kerkabon, que notre
+belle-soeur ait �t� mang�e par les Iroquois, comme on nous l'a
+dit?  Il est certain que si elle n'avait pas �t� mang�e, elle
+serait revenue au pays.  Je la pleurerai toute ma vie; c'�tait
+une femme charmante; et notre fr�re qui avait beaucoup d'esprit
+aurait fait assur�ment une grande fortune."
+
+Comme ils s'attendrissaient l'un et l'autre � ce souvenir, ils
+virent entrer dans la baie de Rance un petit b�timent qui
+arrivait avec la mar�e: c'�taient des Anglais qui venaient vendre
+quelques denr�es de leur pays.  Ils saut�rent � terre, sans
+regarder monsieur le prieur ni mademoiselle sa soeur, qui fut
+tr�s choqu�e du peu d'attention qu'on avait pour elle.
+
+Il n'en fut pas de m�me d'un jeune homme tr�s bien fait qui
+s'�lan�a d'un saut par-dessus la t�te de ses compagnons, et se
+trouva vis-�-vis mademoiselle.  Il lui fit un signe de t�te,
+n'�tant pas dans l'usage de faire la r�v�rence.  Sa figure et son
+ajustement attir�rent les regards du fr�re et de la soeur.  Il
+�tait nu-t�te et nu-jambes, les pieds chauss�s de petites
+sandales, le chef orn� de longs cheveux en tresses, un petit
+pourpoint qui serrait une taille fine et d�gag�e; l'air martial
+et doux.  Il tenait dans sa main une petite bouteille d'eau des
+Barbades, et dans l'autre une esp�ce de bourse dans laquelle
+�tait un gobelet et de tr�s bon biscuit de mer.  Il parlait
+fran�ais fort intelligiblement.  Il pr�senta de son eau des
+Barbades � mademoiselle de Kerkabon et � monsieur son fr�re; il
+en but avec eux: il leur en fit reboire encore, et tout cela d'un
+air si simple et si naturel, que le fr�re et la soeur en furent
+charm�s.  Ils lui offrirent leurs services, en lui demandant qui
+il �tait et o� il allait.  Le jeune homme leur r�pondit qu'il
+n'en savait rien, qu'il �tait curieux, qu'il avait voulu voir
+comment les c�tes de France �taient faites, qu'il �tait venu, et
+allait s'en retourner.
+
+Monsieur le prieur jugeant � son accent qu'il n'�tait pas
+Anglais, prit la libert� de lui demander de quel pays il �tait.
+Je suis Huron, lui r�pondit le jeune homme.
+
+Mademoiselle de Kerkabon, �tonn�e et enchant�e de voir un Huron
+qui lui avait fait des politesses, pria le jeune homme � souper;
+il ne se fit pas prier deux fois, et tous trois all�rent de
+compagnie au prieur� de Notre-Dame de la Montagne.
+
+La courte et ronde demoiselle le regardait de tous ses petits
+yeux, et disait de temps en temps au prieur: Ce grand gar�on-l� a
+un teint de lis et de rose!  qu'il a une belle peau pour un
+Huron!  Vous avez raison, ma soeur, disait le prieur.  Elle
+fesait cent questions coup sur coup, et le voyageur r�pondait
+toujours fort juste.
+
+Le bruit se r�pandit bient�t qu'il y avait un Huron au prieur�.
+La bonne compagnie du canton s'empressa d'y venir souper.
+L'abb� de Saint-Yves y vint avec mademoiselle sa soeur, jeune
+basse-brette, fort jolie et tr�s bien �lev�e.  Le bailli, le
+receveur des tailles, et leurs femmes furent du souper.  On pla�a
+l'�tranger entre mademoiselle de Kerkabon et mademoiselle de
+Saint-Yves.  Tout le monde le regardait avec admiration; tout le
+monde lui parlait et l'interrogeait �-la-fois; le Huron ne s'en
+�mouvait pas.  Il semblait qu'il e�t pris pour sa devise celle de
+milord Bolingbroke, _Nihil admirari_.  Mais � la fin, exc�d� de
+tant de bruit, il leur dit avec assez de douceur, mais avec un
+peu de fermet�: Messieurs, dans mon pays on parle l'un apr�s
+l'autre; comment voulez-vous que je vous r�ponde quand vous
+m'emp�chez de vous entendre?  La raison fait toujours rentrer les
+hommes en eux-m�mes pour quelques moments: il se fit un grand
+silence.  Monsieur le bailli, qui s'emparait toujours des
+�trangers dans quelque maison qu'il se trouv�t, et qui �tait le
+plus grand questionneur de la province, lui dit en ouvrant la
+bouche d'un demi-pied: Monsieur, comment vous nommez-vous?  On
+m'a toujours appel� l'Ing�nu, reprit le Huron, et on m'a confirm�
+ce nom en Angleterre, parceque je dis toujours na�vement ce que
+je pense, comme je fais tout ce que je veux.
+
+Comment, �tant n� Huron, avez-vous pu, monsieur, venir en
+Angleterre?  C'est qu'on m'y a men�; j'ai �t� fait, dans un
+combat, prisonnier par les Anglais, apr�s m'�tre assez bien
+d�fendu; et les Anglais, qui aiment la bravoure, parcequ'ils sont
+braves et qu'ils sont aussi honn�tes que nous, m'ayant propos� de
+me rendre � mes parents ou de venir en Angleterre, j'acceptai le
+dernier parti, parceque de mon naturel j'aime passionn�ment �
+voir du pays.
+
+Mais, monsieur, dit le bailli avec son ton imposant, comment
+avez-vous pu abandonner ainsi p�re et m�re?  C'est que je n'ai
+jamais connu ni p�re ni m�re, dit l'�tranger.  La compagnie
+s'attendrit, et tout le monde r�p�tait, _Ni p�re, ni m�re!_ Nous
+lui en servirons, dit la ma�tresse de la maison � son fr�re le
+prieur: que ce monsieur le Huron est int�ressant!  L'Ing�nu la
+remercia avec une cordialit� noble et fi�re, et lui fit
+comprendre qu'il n'avait besoin de rien.
+
+Je m'aper�ois, monsieur l'Ing�nu, dit le grave bailli, que vous
+parlez mieux fran�ais qu'il n'appartient � un Huron.  Un
+Fran�ais, dit-il, que nous avions pris dans ma grande jeunesse en
+Huronie, et pour qui je con�us beaucoup d'amiti�, m'enseigna sa
+langue; j'apprends tr�s vite ce que je veux apprendre.  J'ai
+trouv� en arrivant � Plymouth un de vos Fran�ais r�fugi�s que
+vous appelez _huguenots_, je ne sais pourquoi; il m'a fait faire
+quelques progr�s dans la connaissance de votre langue; et d�s que
+j'ai pu m'exprimer intelligiblement, je suis venu voir votre
+pays, parceque j'aime assez les Fran�ais quand ils ne font pas
+trop de questions.
+
+L'abb� de Saint-Yves, malgr� ce petit avertissement, lui demanda
+laquelle des trois langues lui plaisait davantage, la hurone,
+l'anglaise, ou la fran�aise.  La hurone, sans contredit, r�pondit
+l'Ing�nu.  Est-il possible?  s'�cria mademoiselle de Kerkabon;
+j'avais toujours cru que le fran�ais �tait la plus belle de
+toutes les langues apr�s le bas-breton.
+
+Alors ce fut � qui demanderait � l'Ing�nu comment on disait en
+huron du tabac, et il r�pondait _taya_: comment on disait manger,
+et il r�pondait _essenten_.  Mademoiselle de Kerkabon voulut
+absolument savoir comment on disait faire l'amour; il lui
+r�pondit _trovander_[a]; et soutint, non sans apparence de raison,
+que ces mots-l� valaient bien les mots fran�ais et anglais qui
+leur correspondaient.  _Trovander_ parut tr�s joli � tous les
+convives.
+
+  [a] Tous ces noms sont en effet hurons.
+
+Monsieur le prieur, qui avait dans sa biblioth�que la grammaire
+hurone dont le r�v�rend P. Sagar Th�odat, r�collet, fameux
+missionnaire, lui avait fait pr�sent, sortit de table un moment
+pour l'aller consulter.  Il revint tout haletant de tendresse et
+de joie; il reconnut l'Ing�nu pour un vrai Huron.  On disputa un
+peu sur la multiplicit� des langues, et on convint que, sans
+l'aventure de la tour de Babel, toute la terre aurait parl�
+fran�ais.
+
+L'interrogant bailli, qui jusque-l� s'�tait d�fi� un peu du
+personnage, con�ut pour lui un profond respect; il lui parla avec
+plus de civilit� qu'auparavant, de quoi l'Ing�nu ne s'aper�ut
+pas.
+
+Mademoiselle de Saint-Yves �tait fort curieuse de savoir comment
+on fesait l'amour au pays des Hurons.  En fesant de belles
+actions, r�pondit-il, pour plaire aux personnes qui vous
+ressemblent.  Tous les convives applaudirent avec �tonnement.
+Mademoiselle de Saint-Yves rougit et fut fort aise.  Mademoiselle
+de Kerkabon rougit aussi, mais elle n'�tait pas si aise; elle fut
+un peu piqu�e que la galanterie ne s'adress�t pas � elle; mais
+elle �tait si bonne personne, que son affection pour le Huron
+n'en fut point du tout alt�r�e.  Elle lui demanda, avec beaucoup
+de bont�, combien il avait eu de ma�tresses en Huronie.  Je n'en
+ai jamais eu qu'une, dit l'Ing�nu; c'�tait mademoiselle Abacaba,
+la bonne amie de ma ch�re nourrice; les joncs ne sont pas plus
+droits, l'hermine n'est pas plus blanche, les moutons sont moins
+doux, les aigles moins fiers, et les cerfs ne sont pas si l�gers
+que l'�tait Abacaba.  Elle poursuivait un jour un li�vre dans
+notre voisinage, environ � cinquante lieues de notre habitation;
+un Algonquin mal �lev�, qui habitait cent lieues plus loin, vint
+lui prendre son li�vre; je le sus, j'y courus, je terrassai
+l'Algonquin d'un coup de massue, je l'amenai, aux pieds de ma
+ma�tresse, pieds et poings li�s.  Les parents d'Abacaba voulurent
+le manger, mais je n'eus jamais de go�t pour ces sortes de
+festins; je lui rendis sa libert�, j'en fis un ami.  Abacaba fut
+si touch�e de mon proc�d� qu'elle me pr�f�ra � tous ses amants.
+Elle m'aimerait encore si elle n'avait pas �t� mang�e par un
+ours: j'ai puni l'ours, j'ai port� longtemps sa peau; mais cela
+ne m'a pas consol�.
+
+Mademoiselle de Saint-Yves, � ce r�cit, sentait un plaisir secret
+d'apprendre que l'Ing�nu n'avait eu qu'une ma�tresse, et
+qu'Abacaba n'�tait plus; mais elle ne d�m�lait pas la cause de
+son plaisir.  Tout le monde fixait les yeux sur l'Ing�nu; on le
+louait beaucoup d'avoir emp�ch� ses camarades de manger un
+Algonquin.
+
+L'impitoyable bailli, qui ne pouvait r�primer sa fureur de
+questionner, poussa enfin la curiosit� jusqu'� s'informer de
+quelle religion �tait M. le Huron; s'il avait choisi la religion
+anglicane, ou la gallicane, ou la huguenote?  Je suis de ma
+religion, dit-il, comme vous de la v�tre.  H�las!  s'�cria la
+Kerkabon, je vois bien que ces malheureux Anglais n'ont pas
+seulement song� � le baptiser.  Eh!  mon Dieu, disait
+mademoiselle de Saint-Yves, comment se peut-il que les Hurons ne
+soient pas catholiques?  Est-ce que les r�v�rends p�res j�suites
+ne les ont pas tous convertis?  L'Ing�nu l'assura que dans son
+pays on ne convertissait personne; que jamais un vrai Huron
+n'avait chang� d'opinion, et que m�me il n'y avait point dans sa
+langue de terme qui signifi�t _inconstance_.  Ces derniers mots
+plurent extr�mement � mademoiselle de Saint-Yves.
+
+Nous le baptiserons, nous le baptiserons, disait la Kerkabon �
+M. le prieur; vous en aurez l'honneur, mon cher fr�re; je veux
+absolument �tre sa marraine: M. l'abb� de Saint-Yves le
+pr�sentera sur les fonts: ce sera une c�r�monie bien brillante;
+il en sera parl� dans toute la Basse-Bretagne, et cela nous fera
+un honneur infini.  Toute la compagnie seconda la ma�tresse de la
+maison; tous les convives criaient: Nous le baptiserons!
+L'Ing�nu r�pondit qu'en Angleterre on laissait vivre les gens �
+leur fantaisie.  Il t�moigna que la proposition ne lui plaisait
+point du tout, et que la loi des Hurons valait pour le moins la
+loi des Bas-Bretons; enfin il dit qu'il repartait le lendemain.
+On acheva de vider sa bouteille d'eau des Barbades, et chacun
+s'alla coucher.
+
+Quand on eut reconduit l'Ing�nu dans sa chambre, mademoiselle de
+Kerkabon et son amie mademoiselle de Saint-Yves ne purent se
+tenir de regarder par le trou d'une large serrure pour voir
+comment dormait un Huron.  Elles virent qu'il avait �tendu la
+couverture du lit sur le plancher, et qu'il reposait dans la plus
+belle attitude du monde.
+
+
+CHAPITRE II
+
+Le Huron, nomm� l'Ing�nu, reconnu de ses parents.
+
+L'Ing�nu, selon sa coutume, s'�veilla avec le soleil, au chant du
+coq, qu'on appelle en Angleterre et en Huronie _la trompette du
+jour_.  Il n'�tait pas comme la bonne compagnie, qui languit dans
+un lit oiseux jusqu'� ce que le soleil ait fait la moiti� de son
+tour, qui ne peut ni dormir ni se lever, qui perd tant d'heures
+pr�cieuses dans cet �tat mitoyen entre la vie et la mort, et qui
+se plaint encore que la vie est trop courte.
+
+Il avait d�j� fait deux ou trois lieues, il avait tu� trente
+pi�ces de gibier � balle seule, lorsqu'en rentrant il trouva
+monsieur le prieur de Notre-Dame de la Montagne et sa discr�te
+soeur, se promenant en bonnet de nuit dans leur petit jardin.  Il
+leur pr�senta toute sa chasse, et en tirant de sa chemise une
+esp�ce de petit talisman qu'il portait toujours � son cou, il les
+pria de l'accepter en reconnaissance de leur bonne r�ception.
+C'est ce que j'ai de plus pr�cieux, leur dit-il; on m'a assur�
+que je serais toujours heureux tant que je porterais ce petit
+brimborion sur moi, et je vous le donne afin que vous soyez
+toujours heureux.
+
+Le prieur et mademoiselle sourirent avec attendrissement de la
+na�vet� de l'Ing�nu.  Ce pr�sent consistait en deux petits
+portraits assez mal faits, attach�s ensemble avec une courroie
+fort grasse.
+
+Mademoiselle de Kerkabon lui demanda s'il y avait des peintres en
+Huronie.  Non, dit l'Ing�nu; cette raret� me vient de ma
+nourrice; son mari l'avait eue par conqu�te, en d�pouillant
+quelques Fran�ais du Canada qui nous avaient fait la guerre;
+c'est tout ce que j'en ai su.
+
+Le prieur regardait attentivement ces portraits; il changea de
+couleur, il s'�mut, ses mains trembl�rent.  Par Notre-Dame de la
+Montagne, s'�cria-t-il, je crois que voil� le visage de mon fr�re
+le capitaine et de sa femme!  Mademoiselle, apr�s les avoir
+consid�r�s avec la m�me �motion, en jugea de m�me.  Tous deux
+�taient saisis d'�tonnement et d'une joie m�l�e de douleur; tous
+deux s'attendrissaient; tous deux pleuraient; leur coeur
+palpitait; ils poussaient des cris; ils s'arrachaient les
+portraits; chacun d'eux les prenait et les rendait vingt fois en
+une seconde; ils d�voraient des yeux les portraits et le Huron;
+ils lui demandaient l'un apr�s l'autre, et tous deux �-la-fois,
+en quel lieu, en quel temps, comment ces miniatures �taient
+tomb�es entre les mains de sa nourrice; ils rapprochaient, ils
+comptaient les temps depuis le d�part du capitaine; ils se
+souvenaient d'avoir eu nouvelle qu'il avait �t� jusqu'au pays des
+Hurons, et que depuis ce temps ils n'en avaient jamais entendu
+parler.
+
+L'Ing�nu leur avait dit qu'il n'avait connu ni p�re ni m�re.  Le
+prieur, qui �tait homme de sens, remarqua que l'Ing�nu avait un
+peu de barbe; il savait tr�s bien que les Hurons n'en ont point.
+Son menton est cotonn�, il est donc fils d'un homme d'Europe; mon
+fr�re et ma belle-soeur ne parurent plus apr�s l'exp�dition
+contre les Hurons, en 1669: mon neveu devait alors �tre � la
+mamelle: la nourrice hurone lui a sauv� la vie et lui a servi de
+m�re.  Enfin, apr�s cent questions et cent r�ponses, le prieur et
+sa soeur conclurent que le Huron �tait leur propre neveu.  Ils
+l'embrassaient en versant des larmes; et l'Ing�nu riait, ne
+pouvant s'imaginer qu'un Huron f�t neveu d'un prieur bas-breton.
+
+Toute la compagnie descendit; M. de Saint-Yves, qui �tait grand
+physionomiste, compara les deux portraits avec le visage de
+l'Ing�nu; il fit tr�s habilement remarquer qu'il avait les yeux
+de sa m�re, le front et le nez de feu monsieur le capitaine de
+Kerkabon, et des joues qui tenaient de l'un et de l'autre.
+
+Mademoiselle de Saint-Yves, qui n'avait jamais vu le p�re ni la
+m�re, assura que l'Ing�nu leur ressemblait parfaitement.  Ils
+admiraient tous la Providence et l'encha�nement des �v�nements de
+ce monde.  Enfin on �tait si persuad�, si convaincu de la
+naissance de l'Ing�nu, qu'il consentit lui-m�me � �tre neveu de
+monsieur le prieur, en disant qu'il aimait autant l'avoir pour
+oncle qu'un autre.
+
+On alla rendre gr�ce � Dieu dans l'�glise de Notre-Dame de la
+Montagne, tandis que le Huron d'un air indiff�rent s'amusait �
+boire dans la maison.
+
+Les Anglais qui l'avaient amen�, et qui �taient pr�ts � mettre �
+la voile, vinrent lui dire qu'il �tait temps de partir.
+Apparemment, leur dit-il, que vous n'avez pas retrouv� vos oncles
+et vos tantes; je reste ici; retournez � Plymouth, je vous donne
+toutes mes hardes, je n'ai plus besoin de rien au monde, puisque
+je suis le neveu d'un prieur.  Les Anglais mirent � la voile, en
+se souciant fort peu que l'Ing�nu e�t des parents ou non en
+Basse-Bretagne.
+
+Apr�s que l'oncle, la tante, et la compagnie, eurent chant� le
+_Te Deum_; apr�s que le bailli eut encore accabl� l'Ing�nu de
+questions; apr�s qu'on eut �puis� tout ce que l'�tonnement, la
+joie, la tendresse, peuvent faire dire, le prieur de la Montagne
+et l'abb� de Saint-Yves conclurent � faire baptiser l'Ing�nu au
+plus vite.  Mais il n'en �tait pas d'un grand Huron de vingt-deux
+ans, comme d'un enfant qu'on r�g�n�re sans qu'il en sache rien.
+Il fallait l'instruire, et cela paraissait difficile; car l'abb�
+de Saint-Yves supposait qu'un homme qui n'�tait pas n� en France
+n'avait pas le sens commun.
+
+Le prieur fit observer � la compagnie que, si en effet
+M. l'Ing�nu, son neveu, n'avait pas eu le bonheur de na�tre en
+Basse-Bretagne, il n'en avait pas moins d'esprit; qu'on en
+pouvait juger par toutes ses r�ponses, et que s�rement la nature
+l'avait beaucoup favoris�, tant du c�t� paternel que du maternel.
+
+On lui demanda d'abord s'il avait jamais lu quelque livre.  Il
+dit qu'il avait lu Rabelais traduit en anglais, et quelques
+morceaux de Shakespeare qu'il savait par coeur; qu'il avait
+trouv� ces livres chez le capitaine du vaisseau qui l'avait amen�
+de l'Am�rique � Plymouth, et qu'il en �tait fort content.  Le
+bailli ne manqua pas de l'interroger sur ces livres.  Je vous
+avoue, dit l'Ing�nu, que j'ai cru en deviner quelque chose, et
+que je n'ai pas entendu le reste.
+
+L'abb� de Saint-Yves, � ce discours, fit r�flexion que c'�tait
+ainsi que lui-m�me avait toujours lu, et que la plupart des
+hommes ne lisaient gu�re autrement.  Vous avez sans doute lu la
+_Bible_?  dit-il au Huron.  Point du tout, monsieur l'abb�; elle
+n'�tait pas parmi les livres de mon capitaine; je n'en ai jamais
+entendu parler.  Voil� comme sont ces maudits Anglais, criait
+mademoiselle de Kerkabon, ils feront plus de cas d'une pi�ce de
+Shakespeare, d'un plum-pudding et d'une bouteille de rum que du
+Pentateuque.  Aussi n'ont-ils jamais converti personne en
+Am�rique.  Certainement ils sont maudits de Dieu; et nous leur
+prendrons la Jama�que et la Virginie avant qu'il soit peu de
+temps.
+
+Quoi qu'il en soit, on fit venir le plus habile tailleur de
+Saint-Malo pour habiller l'Ing�nu de pied en cap.  La compagnie
+se s�para; le bailli alla faire ses questions ailleurs.
+Mademoiselle de Saint-Yves, en partant, se retourna plusieurs
+fois pour regarder l'Ing�nu; et il lui fit des r�v�rences plus
+profondes qu'il n'en avait jamais fait[1] � personne en sa vie.
+
+  [1] Plusieurs �ditions de 1767 portent: _faites_.  B.
+
+
+Le bailli, avant de prendre cong�, pr�senta � mademoiselle de
+Saint-Yves un grand nigaud de fils qui sortait du coll�ge; mais �
+peine le regarda-t-elle, tant elle �tait occup�e de la politesse
+du Huron.
+
+
+
+CHAPITRE III.
+
+Le Huron, nomm� l'Ing�nu, converti.
+
+
+Monsieur le prieur voyant qu'il �tait un peu sur l'�ge, et que
+Dieu lui envoyait un neveu pour sa consolation, se mit en t�te
+qu'il pourrait lui r�signer son b�n�fice, s'il r�ussissait � le
+baptiser, et � le faire entrer dans les ordres.
+
+L'Ing�nu avait une m�moire excellente.  La fermet� des organes de
+Basse-Bretagne, fortifi�e par le climat du Canada, avait rendu sa
+t�te si vigoureuse, que quand on frappait dessus, � peine le
+sentait-il; et quand on gravait dedans, rien ne s'effa�ait; il
+n'avait jamais rien oubli�.  Sa conception �tait d'autant plus
+vive, et plus nette, que son enfance n'ayant point �t� charg�e
+des inutilit�s et des sottises qui accablent la n�tre, les choses
+entraient dans sa cervelle sans nuage.  Le prieur r�solut enfin
+de lui faire lire le nouveau _Testament_.  L'Ing�nu le d�vora
+avec beaucoup de plaisir; mais ne sachant ni dans quel temps ni
+dans quel pays toutes les aventures rapport�es dans ce livre
+�taient arriv�es, il ne douta point que le lieu de la sc�ne ne
+f�t en Basse-Bretagne; et il jura qu'il couperait le nez et les
+oreilles � Ca�phe et � Pilate, si jamais il rencontrait ces
+marauds-l�.
+
+Son oncle, charm� de ces bonnes dispositions, le mit au fait en
+peu de temps; il loua son z�le; mais il lui apprit que ce z�le
+�tait inutile, attendu que ces gens-l� �taient morts il y avait
+environ seize cent quatre-vingt-dix ann�es.  L'Ing�nu sut bient�t
+presque tout le livre par coeur.  Il proposait quelquefois des
+difficult�s qui mettaient le prieur fort en peine.  Il �tait
+oblig� souvent de consulter l'abb� de Saint-Yves, qui, ne sachant
+que r�pondre, fit venir un j�suite bas-breton pour achever la
+conversion du Huron.
+
+Enfin la gr�ce op�ra; l'Ing�nu promit de se faire chr�tien; il ne
+douta pas qu'il ne d�t commencer par �tre circoncis; car,
+disait-il, je ne vois pas dans le livre qu'on m'a fait lire un
+seul personnage qui ne l'ait �t�; il est donc �vident que je dois
+faire le sacrifice de mon pr�puce; le plus t�t c'est le mieux.
+Il ne d�lib�ra point: il envoya chercher le chirurgien du
+village, et le pria de lui faire l'op�ration, comptant r�jouir
+infiniment mademoiselle de Kerkabon et toute la compagnie, quand
+une fois la chose serait faite.  Le frater, qui n'avait point
+encore fait cette op�ration, en avertit la famille, qui jeta les
+hauts cris.  La bonne Kerkabon trembla que son neveu, qui
+paraissait r�solu et exp�ditif, ne se f�t lui-m�me l'op�ration
+tr�s maladroitement, et qu'il n'en r�sult�t de tristes effets,
+auxquels les dames s'int�ressent toujours par bont� d'�me.
+
+Le prieur redressa les id�es du Huron; il lui remontra que la
+circoncision n'�tait plus de mode; que le bapt�me �tait beaucoup
+plus doux et plus salutaire; que la loi de gr�ce n'�tait pas
+comme la loi de rigueur.  L'Ing�nu, qui avait beaucoup de bon
+sens et de droiture, disputa, mais reconnut son erreur; ce qui
+est assez rare en Europe aux gens qui disputent; enfin il promit
+de se faire baptiser quand on voudrait.
+
+Il fallait auparavant se confesser; et c'�tait l� le plus
+difficile.  L'Ing�nu avait toujours en poche le livre que son
+oncle lui avait donn�.  Il n'y trouvait pas qu'un seul ap�tre se
+f�t confess�, et cela le rendait tr�s r�tif.  Le prieur lui
+ferma la bouche en lui montrant, dans l'�p�tre de saint
+Jacques-le-Mineur, ces mots qui font tant de peine aux
+h�r�tiques: _Confessez vos p�ch�s les uns aux autres_.  Le Huron
+se tut, et se confessa � un r�collet.  Quand il eut fini, il tira
+le r�collet du confessionnal, et saisissant son homme d'un bras
+vigoureux, il se mit � sa place, et le fit mettre � genoux devant
+lui: Allons, mon ami, il est dit: _Confessez-vous les uns aux
+autres_; je t'ai cont� mes p�ch�s, tu ne sortiras pas d'ici que tu
+ne m'aies cont� les tiens.  En parlant ainsi, il appuyait son
+large genou contre la poitrine de son adverse partie.  Le
+r�collet pousse des hurlements qui font retentir l'�glise.  On
+accourt au bruit, on voit le cat�chum�ne qui gourmait le moine au
+nom de saint Jacques-le-Mineur.  La joie de baptiser un
+Bas-Breton huron et anglais �tait si grande, qu'on passa
+par-dessus ces singularit�s.  Il y eut m�me beaucoup de
+th�ologiens qui pens�rent que la confession n'�tait pas
+n�cessaire, puisque le bapt�me tenait lieu de tout.
+
+On prit jour avec l'�v�que de Saint-Malo, qui, flatt� comme on
+peut le croire de baptiser un Huron, arriva dans un pompeux
+�quipage, suivi de son clerg�.  Mademoiselle de Saint-Yves, en
+b�nissant Dieu, mit sa plus belle robe, et fit venir une
+coiffeuse de Saint-Malo, pour briller � la c�r�monie.
+L'interrogant bailli accourut avec toute la contr�e.  L'�glise
+�tait magnifiquement par�e; mais quand il fallut prendre le Huron
+pour le mener aux fonts baptismaux, on ne le trouva point.
+
+L'oncle et la tante le cherch�rent partout.  On crut qu'il �tait
+� la chasse, selon sa coutume.  Tous les convi�s � la f�te
+parcoururent les bois et les villages voisins: point de nouvelles
+du Huron.
+
+On commen�ait � craindre qu'il ne f�t retourn� en Angleterre.  On
+se souvenait de lui avoir entendu dire qu'il aimait fort ce
+pays-l�.  Monsieur le prieur et sa soeur �taient persuad�s qu'on
+n'y baptisait personne, et tremblaient pour l'�me de leur neveu.
+L'�v�que �tait confondu et pr�t � s'en retourner; le prieur et
+l'abb� de Saint-Yves se d�sesp�raient; le bailli interrogeait
+tous les passants avec sa gravit� ordinaire; mademoiselle de
+Kerkabon pleurait; mademoiselle de Saint-Yves ne pleurait pas,
+mais elle poussait de profonds soupirs qui semblaient t�moigner
+son go�t pour les sacrements.  Elles se promenaient tristement le
+long des saules et des roseaux qui bordent la petite rivi�re de
+Rance, lorsqu'elles aper�urent au milieu de la rivi�re une grande
+figure assez blanche, les deux mains crois�es sur la poitrine.
+Elles jet�rent un grand cri et se d�tourn�rent.  Mais la
+curiosit� l'emportant bient�t sur toute autre consid�ration,
+elles se coul�rent doucement entre les roseaux; et quand elles
+furent bien s�res de n'�tre point vues, elles voulurent voir de
+quoi il s'agissait.
+
+
+
+ CHAPITRE IV.
+
+L'Ing�nu baptis�.
+
+
+Le prieur et l'abb� �tant accourus demand�rent � l'Ing�nu ce
+qu'il fesait l�.  Eh parbleu!  messieurs, j'attends le bapt�me:
+il y a une heure que je suis dans l'eau jusqu'au cou, et il n'est
+pas honn�te de me laisser morfondre.
+
+Mon cher neveu, lui dit tendrement le prieur, ce n'est pas ainsi
+qu'on baptise en Basse-Bretagne; reprenez vos habits et venez
+avec nous.  Mademoiselle de Saint-Yves, en entendant ce discours,
+disait tout bas � sa compagne: Mademoiselle, croyez-vous qu'il
+reprenne sit�t ses habits?
+
+Le Huron cependant repartit au prieur: Vous ne m'en ferez pas
+accroire cette fois-ci comme l'autre; j'ai bien �tudi� depuis ce
+temps-l�, et je suis tr�s certain qu'on ne se baptise pas
+autrement.  L'eunuque de la reine Candace[1] fut baptis� dans un
+ruisseau; je vous d�fie de me montrer dans le livre que vous
+m'avez donn� qu'on s'y soit jamais pris d'une autre fa�on.  Je ne
+serai point baptis� du tout, ou je le serai dans la rivi�re.  On
+eut beau lui remontrer que les usages avaient chang�, l'Ing�nu
+�tait t�tu, car il �tait breton et huron.  Il revenait toujours �
+l'eunuque de la reine Candace; et quoique mademoiselle sa tante
+et mademoiselle de Saint-Yves, qui l'avaient observ� entre les
+saules, fussent en droit de lui dire qu'il ne lui appartenait pas
+de citer un pareil homme, elles n'en firent pourtant rien, tant
+�tait grande leur discr�tion.  L'�v�que vint lui-m�me lui parler,
+ce qui est beaucoup; mais il ne gagna rien: le Huron disputa
+contre l'�v�que.
+
+  [1] Dans les premi�res �ditions on avait mis: _la reine de
+  Candace_.  En corrigeant cette faute, Voltaire mit dans
+  l'_errata_ un _N. B._ en ces termes: �Comment le P. Quesnel
+  aurait-il ignor� que Candace �tait le nom des belles reines
+  d'Ethiopie, comme Pharaon on Pharou �tait le ltitre des rois
+  d'�gypte?� B.
+
+
+Montrez-moi, lui dit-il, dans le livre que m'a donn� mon oncle,
+un seul homme qui n'ait pas �t� baptis� dans la rivi�re, et je
+ferai tout ce que vous voudrez.
+
+La tante, d�sesp�r�e, avait remarqu� que la premi�re fois que son
+neveu avait fait la r�v�rence, il en avait fait une plus profonde
+� mademoiselle de Saint-Yves qu'� aucune autre personne de la
+compagnie, qu'il n'avait pas m�me salu� monsieur l'�v�que avec ce
+respect m�l� de cordialit� qu'il avait t�moign� � cette belle
+demoiselle.  Elle prit le parti de s'adresser � elle dans ce
+grand embarras; elle la pria d'interposer son cr�dit pour engager
+le Huron � se faire baptiser de la m�me mani�re que les Bretons,
+ne croyant pas que son neveu p�t jamais �tre chr�tien s'il
+persistait � vouloir �tre baptis� dans l'eau courante.
+
+Mademoiselle de Saint-Yves rougit du plaisir secret qu'elle
+sentait d'�tre charg�e d'une si importante commission.  Elle
+s'approcha modestement de l'Ing�nu, et lui serrant la main d'une
+mani�re tout-�-fait noble: Est-ce que vous ne ferez rien pour
+moi?  lui dit-elle; et en pronon�ant ces mots elle baissait les
+yeux, et les relevait avec une gr�ce attendrissante.  Ah!  tout
+ce que vous voudrez, mademoiselle, tout ce que vous me
+commanderez; bapt�me d'eau, bapt�me de feu[2], bapt�me de sang,
+il n'y a rien que je vous refuse.  Mademoiselle de Saint-Yves eut
+la gloire de faire en deux paroles ce que ni les empressements du
+prieur, ni les interrogations r�it�r�es du bailli, ni les
+raisonnements m�me de monsieur l'�v�que, n'avaient pu faire.
+Elle sentit son triomphe; mais elle n'en sentait pas encore toute
+l'�tendue.
+
+  [2] Voyez tome XXVII, page 289.  B.
+
+
+Le bapt�me fut administr� et re�u avec toute la d�cence, toute la
+magnificence, tout l'agr�ment possibles.  L'oncle et la tante
+c�d�rent � monsieur l'abb� de Saint-Yves et � sa soeur l'honneur
+de tenir l'Ing�nu sur les fonts.  Mademoiselle de Saint-Yves
+rayonnait de joie de se voir marraine.  Elle ne savait pas � quoi
+ce grand titre l'asservissait; elle accepta cet honneur sans en
+conna�tre les fatales cons�quences.
+
+Comme il n'y a jamais eu de c�r�monie qui ne f�t suivie d'un
+grand d�ner, on se mit � table au sortir du bapt�me.  Les
+goguenards de Basse-Bretagne dirent qu'il ne fallait pas baptiser
+son vin.  Monsieur le prieur disait que le vin, selon Salomon,
+r�jouit le coeur de l'homme.  Monsieur l'�v�que ajoutait que le
+patriarche Juda devait lier son �non � la vigne, et tremper son
+manteau dans le sang du raisin, et qu'il �tait bien triste qu'on
+n'en p�t faire autant en Basse-Bretagne, � laquelle Dieu avait
+d�ni� les vignes.  Chacun t�chait de dire un bon mot sur le
+bapt�me de l'Ing�nu, et des galanteries � la marraine.  Le
+bailli, toujours interrogant, demandait au Huron s'il serait
+fid�le � ses promesses.  Comment voulez-vous que je manque � mes
+promesses, r�pondit le Huron, puisque je les ai faites entre les
+mains de mademoiselle de Saint-Yves?
+
+Le Huron s'�chauffa; il but beaucoup � la sant� de sa marraine.
+Si j'avais �t� baptis� de votre main, dit-il, je sens que l'eau
+froide qu'on m'a vers�e sur le chignon m'aurait br�l�.  Le bailli
+trouva cela trop po�tique, ne sachant pas combien l'all�gorie est
+famili�re au Canada.  Mais la marraine en fut extr�mement
+contente.
+
+On avait donn� le nom d'Hercule au baptis�.  L'�v�que de
+Saint-Malo demandait toujours quel �tait ce patron dont il
+n'avait jamais entendu parler.  Le j�suite, qui �tait fort
+savant, lui dit que c'�tait un saint qui avait fait douze
+miracles.  Il y en avait un treizi�me qui valait les douze
+autres, mais dont il ne convenait pas � un j�suite de parler;
+c'�tait celui d'avoir chang� cinquante filles en femmes en une
+seule nuit.  Un plaisant qui se trouva l� releva ce miracle avec
+�nergie.  Toutes les dames baiss�rent les yeux, et jug�rent � la
+physionomie de l'Ing�nu qu'il �tait digne du saint dont il
+portait le nom.
+
+
+
+CHAPITRE V.
+
+L'Ing�nu amoureux.
+
+
+Il faut avouer que depuis ce bapt�me et ce d�ner mademoiselle de
+Saint-Yves souhaita passionn�ment que monsieur l'�v�que la f�t
+encore participante de quelque beau sacrement avec M. Hercule
+l'Ing�nu.  Cependant, comme elle �tait bien �lev�e et fort
+modeste, elle n'osait convenir tout-�-fait avec elle-m�me de ses
+tendres sentiments; mais, s'il lui �chappait un regard, un mot,
+un geste, une pens�e, elle enveloppait tout cela d'un voile de
+pudeur infiniment aimable.  Elle �tait tendre, vive, et sage.
+
+D�s que monsieur l'�v�que fut parti, l'Ing�nu et mademoiselle de
+Saint-Yves se rencontr�rent sans avoir fait r�flexion qu'ils se
+cherchaient.  Ils se parl�rent sans avoir imagin� ce qu'ils se
+diraient.  L'Ing�nu lui dit d'abord qu'il l'aimait de tout son
+coeur, et que la belle Abacaba, dont il avait �t� fou dans son
+pays, n'approchait pas d'elle.  Mademoiselle lui r�pondit, avec
+sa modestie ordinaire, qu'il fallait en parler au plus vite �
+monsieur le prieur son oncle et � mademoiselle sa tante, et que
+de son c�t� elle en dirait deux mots � son cher fr�re l'abb� de
+Saint-Yves, et qu'elle se flattait d'un consentement commun.
+
+L'Ing�nu lui r�pond qu'il n'avait besoin du consentement de
+personne, qu'il lui paraissait extr�mement ridicule d'aller
+demander � d'autres ce qu'on devait faire; que, quand deux
+parties sont d'accord, on n'a pas besoin d'un tiers pour les
+accommoder.  Je ne consulte personne, dit-il, quand j'ai envie de
+d�jeuner, ou de chasser, ou de dormir: je sais bien qu'en amour
+il n'est pas mal d'avoir le consentement de la personne � qui on
+en veut: mais, comme ce n'est ni de mon oncle ni de ma tante que
+je suis amoureux, ce n'est pas � eux que je dois m'adresser dans
+cette affaire, et, si vous m'en croyez, vous vous passerez aussi
+de monsieur l'abb� de Saint-Yves.
+
+On peut juger que la belle Bretonne employa toute la d�licatesse
+de son esprit � r�duire son Huron aux termes de la biens�ance.
+Elle se f�cha m�me, et bient�t se radoucit.  Enfin on ne sait
+comment aurait fini cette conversation, si, le jour baissant,
+monsieur l'abb� n'avait ramen� sa soeur � son abbaye.  L'Ing�nu
+laissa coucher son oncle et sa tante, qui �taient un peu fatigu�s
+de la c�r�monie et de leur long d�ner.  Il passa une partie de la
+nuit � faire des vers en langue hurone pour sa bien-aim�e; car il
+faut savoir qu'il n'y a aucun pays de la terre o� l'amour n'ait
+rendu les amants po�tes.
+
+Le lendemain son oncle lui parla ainsi apr�s le d�jeuner, en
+pr�sence de mademoiselle de Kerkabon, qui �tait tout attendrie:
+Le ciel soit lou� de ce que vous avez l'honneur, mon cher neveu,
+d'�tre chr�tien et Bas-Breton!  mais cela ne suffit pas; je suis
+un peu sur l'�ge; mon fr�re n'a laiss� qu'un petit coin de terre
+qui est tr�s peu de chose; j'ai un bon prieur�; si vous voulez
+seulement vous faire sous-diacre, comme je l'esp�re, je vous
+r�signerai mon prieur�, et vous vivrez fort � votre aise, apr�s
+avoir �t� la consolation de ma vieillesse.
+
+L'Ing�nu r�pondit: Mon oncle, grand bien vous fasse!  vivez tant
+que vous pourrez.  Je ne sais pas ce que c'est que d'�tre
+sous-diacre ni que de r�signer; mais tout me sera bon pourvu que
+j'aie mademoiselle de Saint-Yves � ma disposition.  Eh!  mon
+Dieu, mon neveu, que me dites-vous l�?  Vous aimez donc cette
+belle demoiselle � la folie?--Oui, mon oncle.--- H�las!  mon
+neveu, il est impossible que vous l'�pousiez.--Cela est tr�s
+possible, mon oncle; car non seulement elle m'a serr� la main en
+me quittant, mais elle m'a promis qu'elle me demanderait en
+mariage; et assur�ment je l'�pouserai.--Cela est impossible,
+vous dis-je, elle est votre marraine; c'est un p�ch� �pouvantable
+� une marraine de serrer la main de son filleul: il n'est pas
+permis d'�pouser sa marraine; les lois divines et humaines s'y
+opposent.--Morbleu!  mon oncle, vous vous moquez de moi:
+pourquoi serait-il d�fendu d'�pouser sa marraine, quand elle est
+jeune et jolie?  Je n'ai point vu dans le livre que vous m'avez
+donn� qu'il f�t mal d'�pouser les filles qui ont aid� les gens �
+�tre baptis�s.  Je m'aper�ois tous les jours qu'on fait ici une
+infinit� de choses qui ne sont point dans votre livre, et qu'on
+n'y fait rien de tout ce qu'il dit: je vous avoue que cela
+m'�tonne et me f�che.  Si on me prive de la belle Saint-Yves,
+sous pr�texte de mon bapt�me, je vous avertis que je l'enl�ve, et
+que je me d�baptise.
+
+Le prieur fut confondu; sa soeur pleura.  Mon cher fr�re,
+dit-elle, il ne faut pas que notre neveu se damne; notre
+saint-p�re le pape peut lui donner dispense, et alors il pourra
+�tre chr�tiennement heureux avec ce qu'il aime.  L'Ing�nu
+embrassa sa tante.  Quel est donc, dit-il, cet homme charmant qui
+favorise avec tant de bont� les gar�ons et les filles dans leurs
+amours?  Je veux lui aller parler tout-�-l'heure.
+
+On lui expliqua ce que c'�tait que le pape; et l'Ing�nu fut
+encore plus �tonn� qu'auparavant.  Il n'y a pas un mot de tout
+cela dans votre livre, mon cher oncle; j'ai voyag�, je connais la
+mer; nous sommes ici sur la c�te de l'oc�an; et je quitterais
+mademoiselle de Saint-Yves pour aller demander la permission de
+l'aimer � un homme qui demeure vers la M�diterran�e, � quatre
+cents lieues d'ici, et dont je n'entends point la langue!  cela
+est d'un ridicule incompr�hensible.  Je vais sur-le-champ chez
+monsieur l'abb� de Saint-Yves, qui ne demeure qu'� une lieue de
+vous, et je vous r�ponds que j'�pouserai ma ma�tresse dans la
+journ�e.
+
+Comme il parlait encore, entra le bailli qui, selon sa coutume,
+lui demanda o� il allait.  Je vais me marier, dit l'Ing�nu en
+courant; et au bout d'un quart d'heure il �tait d�j� chez sa
+belle et ch�re basse-brette qui dormait encore.  Ah!  mon fr�re,
+disait mademoiselle de Kerkabon au prieur, jamais vous ne ferez
+un sous-diacre de notre neveu.
+
+Le bailli fut tr�s m�content de ce voyage; car il pr�tendait que
+son fils �pous�t la Saint-Yves; et ce fils �tait encore plus sot
+et plus insupportable que son p�re.
+
+CHAPITRE VI.
+
+L'Ing�nu court chez sa ma�tresse, et devient furieux.
+
+A peine l'Ing�nu �tait arriv�, qu'ayant demand� � une vieille
+servante o� �tait la chambre de sa ma�tresse, il avait pouss�
+fortement la porte mal ferm�e, et s'�tait �lanc� vers le lit.
+Mademoiselle de Saint-Yves, se r�veillant en sursaut, s'�tait
+�cri�e: Quoi!  c'est vous!  ah!  c'est vous!  arr�tez-vous, que
+faites-vous?"  Il avait r�pondu: Je vous �pouse; et en effet il
+l'�pousait, si elle ne s'�tait pas d�battue avec toute
+l'honn�tet� d'une personne qui a de l'�ducation.
+
+L'Ing�nu n'entendait pas raillerie; il trouvait toutes ces
+fa�ons-l� extr�mement impertinentes.  Ce n'�tait pas ainsi qu'en
+usait mademoiselle Abacaba, ma premi�re ma�tresse; vous n'avez
+point de probit�; vous m'avez promis mariage, et vous ne voulez
+point faire mariage; c'est manquer aux premi�res lois de
+l'honneur; je vous apprendrai � tenir votre parole, et je vous
+remettrai dans le chemin de la vertu.
+
+L'Ing�nu poss�dait une vertu m�le et intr�pide, digne de son
+patron Hercule, dont on lui avait donn� le nom � son bapt�me; il
+allait l'exercer dans toute son �tendue, lorsqu'aux cris per�ants
+de la demoiselle plus discr�tement vertueuse, accourut le sage
+abb� de Saint-Yves, avec sa gouvernante, un vieux domestique
+d�vot, et un pr�tre de paroisse.  Cette vue mod�ra le courage de
+l'assaillant.  Eh, mon Dieu!  mon cher voisin, lui dit l'abb�,
+que faites-vous l�?  Mon devoir, r�pliqua le jeune homme; je
+remplis mes promesses, qui sont sacr�es.
+
+Mademoiselle de Saint-Yves se rajusta en rougissant.  On emmena
+l'Ing�nu dans un autre appartement.  L'abb� lui remontra
+l'�normit� du proc�d�.  L'Ing�nu se d�fendit sur les privil�ges
+de la loi naturelle, qu'il connaissait parfaitement.  L'abb�
+voulut prouver que la loi positive devait avoir tout l'avantage,
+et que, sans les conventions faites entre les hommes, la loi de
+nature ne serait presque jamais qu'un brigandage naturel.  Il
+faut, lui disait-il, des notaires, des pr�tres, des t�moins, des
+contrats, des dispenses.  L'Ing�nu lui r�pondit par la r�flexion
+que les sauvages ont toujours faite: Vous �tes donc de bien
+malhonn�tes gens, puisqu'il faut entre vous tant de pr�cautions.
+
+L'abb� eut de la peine � r�soudre cette difficult�.  Il y a,
+dit-il, je l'avoue, beaucoup d'inconstants et de fripons parmi
+nous; et il y en aurait autant chez les Hurons, s'ils �taient
+rassembl�s dans une grande ville; mais aussi il y a des �mes
+sages, honn�tes, �clair�es, et ce sont ces hommes-l� qui ont fait
+les lois.  Plus on est homme de bien, plus on doit s'y soumettre;
+on donne l'exemple aux vicieux, qui respectent un frein que la
+vertu s'est donn� elle-m�me.
+
+Cette r�ponse frappa l'Ing�nu.  On a d�j� remarqu� qu'il avait
+l'esprit juste.  On l'adoucit par des paroles flatteuses; on lui
+donna des esp�rances: ce sont les deux pi�ges o� les hommes des
+deux h�misph�res se prennent; on lui pr�senta m�me mademoiselle
+de Saint-Yves, quand elle eut fait sa toilette.  Tout se passa
+avec la plus grande biens�ance, mais, malgr� cette d�cence, les
+yeux �tincelants de l'Ing�nu Hercule firent toujours baisser ceux
+de sa ma�tresse, et trembler la compagnie.
+
+On eut une peine extr�me � le renvoyer chez ses parents.  Il
+fallut encore employer le cr�dit de la belle Saint-Yves; plus
+elle sentait son pouvoir sur lui, et plus elle l'aimait.  Elle le
+fit partir, et en fut tr�s afflig�e: enfin, quand il fut parti,
+l'abb�, qui non seulement �tait le fr�re tr�s a�n� de
+mademoiselle de Saint-Yves, mais qui �tait aussi son tuteur, prit
+le parti de soustraire sa pupille aux empressements de cet amant
+terrible.  Il alla consulter le bailli, qui, destinant toujours
+son fils � la soeur de l'abb�, lui conseilla de mettre la pauvre
+fille dans une communaut�.  Ce fut un coup terrible: une
+indiff�rente qu'on mettrait en couvent jetterait les hauts cris;
+mais une amante, et une amante aussi sage que tendre!  c'�tait de
+quoi la mettre au d�sespoir.
+
+L'Ing�nu, de retour chez le prieur, raconta tout avec sa na�vet�
+ordinaire.  Il essuya les m�mes remontrances qui firent quelque
+effet sur son esprit, et aucun sur ses sens; mais le lendemain,
+quand il voulut retourner chez sa belle ma�tresse, pour raisonner
+avec elle sur la loi naturelle et sur la loi de convention,
+monsieur le bailli lui apprit avec une joie insultante qu'elle
+�tait dans un couvent.  Eh bien!  dit-il, j'irai raisonner dans
+ce couvent.  Cela ne se peut, dit le bailli: il lui expliqua fort
+au long ce que c'�tait qu'un couvent ou un convent, que ce mot
+venait du latin _conventus_, qui signifie assembl�e; et le Huron ne
+pouvait comprendre pourquoi il ne pouvait pas �tre admis dans
+l'assembl�e.  Sit�t qu'il fut instruit que cette assembl�e �tait
+une esp�ce de prison o� l'on tenait les filles renferm�es, chose
+horrible, inconnue chez les Hurons et chez les Anglais, il devint
+aussi furieux que le fut son patron Hercule, lorsque Euryte, roi
+d'Oechalie, non moins cruel que l'abb� de Saint-Yves, lui refusa
+la belle Iole sa fille, non moins belle que la soeur de l'abb�.
+Il voulait aller mettre le feu au couvent, enlever sa ma�tresse,
+ou se br�ler avec elle.  Mademoiselle de Kerkabon, �pouvant�e,
+renon�ait plus que jamais � toutes les esp�rances de voir son
+neveu sous-diacre, et disait en pleurant qu'il avait le diable au
+corps depuis qu'il �tait baptis�.
+
+CHAPITRE VIL
+
+L'Ing�nu repousse les Anglais.
+
+L'Ing�nu, plong� dans une sombre et profonde m�lancolie, se
+promena vers le bord de la mer, son fusil � deux coups sur
+l'�paule, son grand coutelas au c�t�, tirant de temps en temps
+sur quelques oiseaux, et souvent tent� de tirer sur lui-m�me:
+mais il aimait encore la vie, � cause de mademoiselle de
+Saint-Yves.  Tant�t il maudissait son oncle, sa tante, toute la
+Basse-Bretagne, et son bapt�me; tant�t il les b�nissait,
+puisqu'ils lui avaient fait conna�tre celle qu'il aimait.  Il
+prenait sa r�solution d'aller br�ler le couvent, et il s'arr�tait
+tout court, de peur de br�ler sa ma�tresse.  Les flots de la
+Manche ne sont pas plus agit�s par les vents d'est et d'ouest que
+son coeur l'�tait par tant de mouvements contraires.
+
+Il marchait � grands pas, sans savoir o�, lorsqu'il entendit le
+son du tambour.  Il vit de loin tout un peuple dont une moiti�
+courait au rivage, et l'autre s'enfuyait.
+
+Mille cris s'�l�vent de tous c�t�s; la curiosit� et le courage le
+pr�cipitent � l'instant vers l'endroit d'o� partaient ces
+clameurs, il y vole en quatre bonds.  Le commandant de la milice,
+qui avait soup� avec lui chez le prieur, le reconnut aussit�t; il
+court � lui, les bras ouverts: Ah!  c'est l'Ing�nu, il combattra
+pour nous.  Et les milices, qui mouraient de peur, se rassur�rent
+et cri�rent aussi: C'est l'Ing�nu!  c'est l'Ing�nu!
+
+Messieurs, dit-il, de quoi s'agit-il?  pourquoi �tes-vous si
+effar�s?  a-t-on mis vos ma�tresses dans des couvents?  Alors
+cent voix confuses s'�crient: Ne voyez-vous pas les Anglais qui
+abordent?  Eh bien!  r�pliqua le Huron, ce sont de braves gens;
+ils ne m'ont point enlev� ma ma�tresse.
+
+Le commandant lui fit entendre que les Anglais venaient piller
+l'abbaye de la Montagne, boire le vin de son oncle, et peut-�tre
+enlever mademoiselle de Saint-Yves; que le petit vaisseau sur
+lequel il avait abord� en Bretagne n'�tait venu que pour
+reconna�tre la c�te; qu'ils fesaient des actes d'hostilit�, sans
+avoir d�clar� la guerre au roi de France, et que la province
+�tait expos�e.  Ah!  si cela est, ils violent la loi naturelle;
+laissez-moi faire; j'ai demeur� long-temps parmi eux, je sais
+leur langue, je leur parlerai; je ne crois pas qu'ils puissent
+avoir un si m�chant dessein.
+
+Pendant cette conversation, l'escadre anglaise approchait; voil�
+le Huron qui court vers elle, se jette dans un petit bateau,
+arrive, monte au vaisseau amiral, et demande s'il est vrai qu'ils
+viennent ravager le pays sans avoir d�clar� la guerre
+honn�tement.  L'amiral et tout son bord firent de grands �clats
+de rire, lui firent boire du punch, et le renvoy�rent.
+
+L'Ing�nu piqu� ne songea plus qu'� se bien battre contre ses
+anciens amis, pour ses compatriotes et pour monsieur le prieur.
+Les gentilshommes du voisinage accouraient de toutes parts; il se
+joint � eux: on avait quelques canons; il les charge, il les
+pointe, il les tire l'un apr�s l'autre.  Les Anglais d�barquent;
+il court � eux, il en tue trois de sa main, il blesse m�me
+l'amiral, qui s'�tait moqu� de lui.  Sa valeur anime le courage
+de toute la milice; les Anglais se rembarquent, et toute la c�te
+retentissait des cris de victoire, vive le roi, vive l'Ing�nu!
+Chacun l'embrassait, chacun s'empressait d'�tancher le sang de
+quelques blessures l�g�res qu'il avait re�ues.  Ah!  disait-il,
+si mademoiselle de Saint-Yves �tait l�, elle me mettrait une
+compresse.
+
+Le bailli, qui s'�tait cach� dans sa cave pendant le combat, vint
+lui faire compliment comme les autres.  Mais il fut bien surpris
+quand il entendit Hercule l'Ing�nu dire � une douzaine de jeunes
+gens de bonne volont�, dont il �tait entour�: Mes amis, ce n'est
+rien d'avoir d�livr� l'abbaye de la Montagne, il faut d�livrer
+une fille.  Toute cette bouillante jeunesse prit feu � ces seules
+paroles.  On le suivait d�j� en foule, on courait au couvent.  Si
+le bailli n'avait pas sur-le-champ averti le commandant, si on
+n'avait pas couru apr�s la troupe joyeuse, c'en �tait fait.  On
+ramena l'Ing�nu chez son oncle et sa tante, qui le baign�rent de
+larmes de tendresse.
+
+Je vois bien que vous ne serez jamais ni sous-diacre ni prieur,
+lui dit l'oncle; vous serez un officier encore plus brave que mon
+fr�re le capitaine, et probablement aussi gueux.  Et mademoiselle
+de Kerkabon pleurait toujours en l'embrassant, et en disant: Il
+se fera tuer comme mon fr�re; il vaudrait bien mieux qu'il f�t
+sous-diacre.
+
+L'Ing�nu, dans le combat, avait ramass� une grosse bourse remplie
+de guin�es, que probablement l'amiral avait laiss� tomber.  Il ne
+douta pas qu'avec cette bourse il ne p�t acheter toute la
+Basse-Bretagne, et surtout faire mademoiselle de Saint-Yves
+grande dame.  Chacun l'exhorta � faire le voyage de Versailles,
+pour y recevoir le prix de ses services.  Le commandant, les
+principaux officiers, le combl�rent de certificats.  L'oncle et
+la tante approuv�rent le voyage du neveu.  Il devait �tre, sans
+difficult�, pr�sent� au roi: cela seul lui donnerait un
+prodigieux relief dans la province.  Ces deux bonnes gens
+ajout�rent � la bourse anglaise un pr�sent consid�rable de leurs
+�pargnes.  L'Ing�nu disait en lui-m�me: Quand je verrai le roi,
+je lui demanderai mademoiselle de Saint-Yves en mariage, et
+certainement il ne me refusera pas.  Il partit donc aux
+acclamations de tout le canton, �touff� d'embrassements, baign�
+des larmes de sa tante, b�ni par son oncle, et se recommandant �
+la belle Saint-Yves.
+
+
+CHAPITRE VIII.
+
+L'Ing�nu va en cour.  Il soupe en chemin avec des huguenots.
+
+L'Ing�nu prit le chemin de Saumur par le coche, parcequ'il n'y
+avait point alors d'autre commodit�.  Quand il fut � Saumur, il
+s'�tonna de trouver la ville presque d�serte, et de voir
+plusieurs familles qui d�m�nageaient.  On lui dit que, six ans
+auparavant, Saumur contenait plus de quinze mille �mes, et qu'�
+pr�sent il n'y en avait pas six mille.  Il ne manqua pas d'en
+parler � souper dans son h�tellerie.  Plusieurs protestants
+�taient � table; les uns se plaignaient am�rement, d'autres
+fr�missaient de col�re, d'autres disaient en pleurant,
+
+     �......  Nos dulcia linquimus arva,
+              Nos patriam fugimus[1].�
+
+  [1]Virgile, _�clog_. I, vers 3.  B.
+
+
+L'Ing�nu, qui ne savait pas le latin, se fit expliquer ces
+paroles, qui signifient: Nous abandonnons nos douces campagnes,
+nous fuyons notre patrie.
+
+Et pourquoi fuyez-vous votre patrie, messieurs?--C'est qu'on veut
+que nous reconnaissions le pape.--Et pourquoi ne le
+reconna�triez-vous pas?  Vous n'avez donc point de marraines que
+vous vouliez �pouser?  car on m'a dit que c'�tait lui qui en
+donnait la permission.--Ah!  monsieur, ce pape dit qu'il est le
+ma�tre du domaine des rois.-- Mais, messieurs, de quelle
+profession �tes-vous? --Monsieur, nous sommes pour la plupart des
+drapiers et des fabricants.--Si votre pape dit qu'il est le
+ma�tre de vos draps et de vos fabriques, vous faites tr�s bien de
+ne le pas reconna�tre; mais pour les rois, c'est leur affaire; de
+quoi vous m�lez-vous[2]?--Alors un petit homme noir prit la
+parole, et exposa tr�s savamment les griefs de la compagnie.  Il
+parla de la r�vocation de l'�dit de Nantes avec tant d'�nergie,
+il d�plora d'une mani�re si path�tique le sort de cinquante mille
+familles fugitives et de cinquante mille autres converties par
+les dragons, que l'Ing�nu � son tour versa des larmes.  D'o�
+vient donc, disait-il, qu'un si grand roi, dont la gloire s'�tend
+jusque chez les Hurons, se prive ainsi de tant de coeurs qui
+l'auraient aim�, et de tant de bras qui l'auraient servi?
+
+  [2] C'est la r�ponse de Fontenelle � un marchand de Rouen,
+  jans�niste.  K.
+
+
+C'est qu'on l'a tromp� comme les autres grands rois, r�pondit
+l'homme noir.  On lui a fait croire que, d�s qu'il aurait dit un
+mot, tous les hommes penseraient comme lui; et qu'il nous ferait
+changer de religion, comme son musicien Lulli fait changer en un
+moment les d�corations de ses op�ra.  Non seulement il perd d�j�
+cinq � six cent mille sujets tr�s utiles, mais il s'en fait des
+ennemis; et le roi Guillaume, qui est actuellement ma�tre de
+l'Angleterre, a compos� plusieurs r�giments de ces m�mes Fran�ais
+qui auraient combattu pour leur monarque.
+
+Un tel d�sastre est d'autant plus �tonnant, que le pape r�gnant[1],
+� qui Louis XIV sacrifie une partie de son peuple, est son ennemi
+d�clar�.  Ils ont encore tous deux, depuis neuf ans, une querelle
+violente.  Elle a �t� pouss�e si loin, que la France a esp�r�
+enfin de voir briser le joug qui la soumet depuis tant de si�cles
+� cet �tranger, et surtout de ne lui plus donner d'argent; ce qui
+est le premier mobile des affaires de ce monde.  Il para�t donc
+�vident qu'on a tromp� ce grand roi sur ses int�r�ts comme sur
+l'�tendue de son pouvoir, et qu'on a donn� atteinte � la
+magnanimit� de son coeur.
+
+  [1] Innocent XI.  Vojez  tome XXII, page 280.  B.
+
+L'Ing�nu, attendri de plus en plus, demanda quels �taient les
+Fran�ais qui trompaient ainsi un monarque si cher aux Hurons.  Ce
+sont les j�suites, lui r�pondit-on; c'est surtout le P. de La
+Chaise, confesseur de sa majest�.  Il faut esp�rer que Dieu les
+en punira un jour, et qu'ils seront chass�s comme ils nous
+chassent.  Y a-t-il un malheur �gal aux n�tres?  Mons de Louvois
+nous envoie de tous c�t�s des j�suites et des dragons.
+
+Oh bien!  messieurs, r�pliqua l'Ing�nu, qui ne pouvait plus se
+contenir, je vais � Versailles recevoir la r�compense due � mes
+services; je parlerai � ce mons de Louvois: on m'a dit que c'est
+lui qui fait la guerre de son cabinet.  Je verrai le roi, je lui
+ferai conna�tre la v�rit�; il est impossible qu'on ne se rende
+pas � cette v�rit� quand on la sent.  Je reviendrai bient�t pour
+�pouser mademoiselle de Saint-Yves, et je vous prie � la noce.
+Ces bonnes gens le prirent alors pour un grand seigneur qui
+voyageait _incognito_ par le coche.  Quelques uns le prirent pour
+le fou du roi.
+
+Il y avait � table un j�suite d�guis� qui servait d'espion au
+r�v�rend P. de La Chaise.  Il lui rendait compte de tout, et le
+P. de La Chaise en instruisait mons de Louvois.  L'espion
+�crivit.  L'Ing�nu et la lettre arriv�rent presque en m�me temps
+� Versailles.
+
+
+CHAPITRE IX.
+
+Arriv�e de l'Ing�nu � Versailles.  Sa r�ception � la cour.
+
+L'Ing�nu d�barque en pot-de-chambre[a] dans la cour des cuisines.
+Il demande aux porteurs de chaise � quelle heure on peut voir le
+roi.  Les porteurs lui rient au nez, tout comme avait fait
+l'amiral anglais.  Il les traita de m�me, il les battit; ils
+voulurent le lui rendre, et la sc�ne allait �tre sanglante, s'il
+n'e�t pass� un garde du corps, gentilhomme breton, qui �carta la
+canaille.  Monsieur, lui dit le voyageur, vous me paraissez un
+brave homme; je suis le neveu de monsieur le prieur de Notre-Dame
+de la Montagne; j'ai tu� des Anglais, je viens parler au roi; je
+vous prie de me mener dans sa chambre.  Le garde, ravi de trouver
+un brave de sa province, qui ne paraissait pas au fait des usages
+de la cour, lui apprit qu'on ne parlait pas ainsi au roi, et
+qu'il fallait �tre pr�sent� par monseigneur de Louvois.--Eh bien!
+menez-moi donc chez ce monseigneur de Louvois, qui sans doute me
+conduira chez sa majest�.  Il est encore plus difficile, r�pliqua
+le garde, de parler � monseigneur de Louvois qu'� sa majest�;
+mais je vais vous conduire chez M. Alexandre, le premier commis
+de la guerre; c'est comme si vous parliez au ministre.  Ils vont
+donc chez ce M. Alexandre, premier commis, et ils ne purent �tre
+introduits; il �tait en affaire avec une dame de la cour, et il y
+avait ordre de ne laisser entrer personne.  Eh bien!  dit le
+garde, il n'y a rien de perdu; allons chez le premier commis de
+M. Alexandre; c'est comme si vous parliez � M. Alexandre
+lui-m�me.
+
+  [a] C'est une voiture de Paris � Versailles, laquelle ressemble
+  � un petit tombereau couvert.
+
+
+Le Huron tout �tonn� le suit; ils restent ensemble une demi-heure
+dans une petite antichambre.  Qu'est-ce donc que tout ceci?  dit
+l'Ing�nu; est-ce que tout le monde est invisible dans ce pays-ci?
+il est bien plus ais� de se battre en Basse-Bretagne contre des
+Anglais, que de rencontrer � Versailles les gens � qui on a
+affaire.  Il se d�sennuya en racontant ses amours � son
+compatriote.  Mais l'heure en sonnant rappela le garde du corps �
+son poste.  Ils se promirent de se revoir, le lendemain, et
+l'Ing�nu resta encore une autre demi-heure dans l'antichambre, en
+r�vant � mademoiselle de Saint-Yves, et � la difficult� de parler
+aux rois et aux premiers commis.
+
+Enfin le patron parut.  Monsieur, lui dit l'Ing�nu, si j'avais
+attendu pour repousser les Anglais aussi longtemps que vous
+m'avez fait attendre mon audience, ils ravageraient actuellement
+la Basse-Bretagne tout � leur aise.  Ces paroles frapp�rent le
+commis.  Il dit enfin au Breton: Que demandez-vous?--R�compense,
+dit l'autre; voici mes titres: il lui �tala tous ses certificats.
+Le commis lut, et lui dit que probablement on lui accorderait la
+permission d'acheter une lieutenance.--Moi!  que je donne de
+l'argent pour avoir repouss� les Anglais?  que je paie le droit
+de me faire tuer pour vous, pendant que vous donnez ici vos
+audiences tranquillement?  je crois que vous voulez rire.  Je
+veux une compagnie de cavalerie pour rien; je veux que le roi
+fasse sortir mademoiselle de Saint-Yves du couvent, et qu'il me
+la donne par mariage; je veux parler au roi en faveur de
+cinquante mille familles que je pr�tends lui rendre: en un mot je
+veux �tre utile; qu'on m'emploie et qu'on m'avance.
+
+Comment vous nommez-vous, monsieur, qui parlez si haut?  Oh!  oh!
+reprit l'Ing�nu, vous n'avez donc pas lu mes certificats?  c'est
+donc ainsi qu'on en use?  Je m'appelle Hercule de Kerkabon; je
+suis baptis�, je loge au Cadran bleu, et je me plaindrai de vous
+au roi.  Le commis conclut, comme les gens de Saumur, qu'il
+n'avait pas la t�te bien saine, et n'y fit pas grande attention.
+
+Ce m�me jour, le r�v�rend P. La Chaise, confesseur de Louis XIV,
+avait re�u la lettre de son espion, qui accusait le breton
+Kerkabon de favoriser dans son coeur les huguenots, et de
+condamner la conduite des j�suites.  M. de Louvois, de son c�t�,
+avait re�u une lettre de l'interrogant bailli, qui d�peignait
+l'Ing�nu comme un garnement qui voulait br�ler les couvents et
+enlever les filles.
+
+L'Ing�nu, apr�s s'�tre promen� dans les jardins de Versailles, o�
+il s'ennuya, apr�s avoir soup� en Huron et en Bas-Breton, s'�tait
+couch� dans la douce esp�rance de voir le roi le lendemain,
+d'obtenir mademoiselle de Saint-Yves en mariage; d'avoir au moins
+une compagnie de cavalerie, et de faire cesser la pers�cution
+contre les huguenots.  Il se ber�ait de ces flatteuses id�es,
+quand la mar�chauss�e entra dans sa chambre.  Elle se saisit
+d'abord de son fusil � deux coups et de son grand sabre.  On fit
+un inventaire de son argent comptant, et on le mena dans le
+ch�teau que fit construire le roi Charles V, fils de Jean II,
+aupr�s de la rue Saint-Antoine, � la porte des Tournelles[1].
+
+  [1] La Bastille, qui fut prise par le peuple de Paris, le 14
+  juillet 1789, puis d�molie.  B.
+
+
+Quel �tait en chemin l'�tonnement de l'Ing�nu!  je vous le laisse
+� penser.  Il crut d'abord que c'�tait un r�ve.  Il resta dans
+l'engourdissement, puis tout-�-coup transport� d'une fureur qui
+redoublait ses forces, il prend � la gorge deux de ses
+conducteurs, qui �taient avec lui dans le carrosse, les jette par
+la porti�re, se jette apr�s eux, et entra�ne le troisi�me, qui
+voulait le retenir.  Il tombe de l'effort, on le lie, on le
+remonte dans la voiture.  Voil� donc, disait-il, ce que l'on
+gagne � chasser les Anglais de la Basse-Bretagne!  Que dirais-tu,
+belle Saint-Yves, si tu me voyais dans cet �tat?
+
+On arrive enfin au g�te qui lui �tait destin�.  On le porte en
+silence dans la chambre o� il devait �tre enferm�, comme un mort
+qu'on porte dans un cimeti�re.  Cette chambre �tait d�j� occup�e
+par un vieux solitaire de Port-Royal, nomm� Gordon, qui y
+languissait depuis deux ans.  Tenez, lui dit le chef des sbires,
+voil� de la compagnie que je vous am�ne; et sur-le-champ on
+referma les �normes verrous de la porte �paisse, rev�tue de
+larges barres.  Les deux captifs rest�rent s�par�s de l'univers
+entier.
+
+
+
+CHAPITRE X.
+
+L'Ing�nu enferm� � la Bastille avec un jans�niste.
+
+
+M. Gordon �tait un vieillard frais et serein, qui savait deux
+grandes choses: supporter l'adversit�, et consoler les
+malheureux.  Il s'avan�a d'un air ouvert et compatissant vers son
+compagnon, et lui dit en l'embrassant: Qui que vous soyez, qui
+venez partager mon tombeau, soyez s�r que je m'oublierai toujours
+moi-m�me pour adoucir vos tourments dans l'ab�me infernal o� nous
+sommes plong�s.  Adorons la Providence qui nous y a conduits,
+souffrons en paix, et esp�rons.  Ces paroles firent sur l'�me de
+l'Ing�nu l'effet des gouttes d'Angleterre, qui rappellent un
+mourant � la vie, et lui font entr'ouvrir des yeux �tonn�s.
+
+Apr�s les premiers compliments, Gordon, sans le presser de lui
+apprendre la cause de son malheur, lui inspira, par la douceur de
+son entretien, et par cet int�r�t que prennent deux malheureux
+l'un � l'autre, le d�sir d'ouvrir son coeur et de d�poser le
+fardeau qui l'accablait; mais il ne pouvait deviner le sujet de
+son malheur; cela lui paraissait un effet sans cause; et le
+bon-homme Gordon �tait aussi �tonn� que lui-m�me.
+
+Il faut, dit le jans�niste au Huron, que Dieu ait de grands
+desseins sur vous, puisqu'il vous a conduit du lac Ontario en
+Angleterre et en France, qu'il vous a fait baptiser en
+Basse-Bretagne, et qu'il vous a mis ici pour votre salut.  Ma
+foi, r�pondit l'Ing�nu, je crois que le diable s'est m�l� seul de
+ma destin�e.  Mes compatriotes d'Am�rique ne m'auraient jamais
+trait� avec la barbarie que j'�prouve; ils n'en ont pas d'id�e.
+On les appelle _sauvages_; ce sont des gens de bien grossiers, et
+les hommes de ce pays-ci sont des coquins raffin�s.  Je suis, �
+la v�rit�, bien surpris d'�tre venu d'un autre monde pour �tre
+enferm� dans celui-ci sous quatre verrous avec un pr�tre; mais je
+fais r�flexion au nombre prodigieux d'hommes qui partent d'un
+h�misph�re pour aller se faire tuer dans l'autre, ou qui font
+naufrage en chemin, et qui sont mang�s des poissons: je ne vois
+pas les gracieux desseins de Dieu sur tous ces gens-l�.
+
+On leur apporta � d�ner par un guichet.  La conversation roula
+sur la Providence, sur les lettres de cachet, et sur l'art de ne
+pas succomber aux disgr�ces auxquelles tout homme est expos� dans
+ce monde.  Il y a deux ans que je suis ici, dit le vieillard,
+sans autre consolation que moi-m�me et des livres; je n'ai pas eu
+un moment de mauvaise humeur.
+
+Ah!  M. Gordon, s'�cria l'Ing�nu, vous n'aimez donc pas votre
+marraine?  Si vous connaissiez comme moi mademoiselle de
+Saint-Yves, vous seriez au d�sespoir.  A ces mots il ne put
+retenir ses larmes, et il se sentit alors un peu moins oppress�.
+Mais, dit-il, pourquoi donc les larmes soulagent-elles?  Il me
+semble qu'elles devraient faire un effet contraire.--Mon fils,
+tout est physique en nous, dit le bon vieillard; toute s�cr�tion
+fait du bien au corps; et tout ce qui le soulage soulage l'�me:
+nous sommes les machines de la Providence.
+
+L'Ing�nu, qui, comme nous l'avons dit plusieurs fois, avait un
+grand fonds d'esprit, fit de profondes r�flexions sur cette id�e,
+dont il semblait qu'il avait la semence en lui-m�me.  Apr�s quoi
+il demanda � son compagnon pourquoi sa machine �tait depuis deux
+ans sous quatre verrous.  Par la gr�ce efficace, r�pondit Gordon:
+je passe pour jans�niste; j'ai connu Arnauld et Nicole; les
+j�suites nous ont pers�cut�s.  Nous croyons que le pape n'est
+qu'un �v�que comme un autre; et c'est pour cela que le P. de La
+Chaise a obtenu du roi, son p�nitent, un ordre de me ravir, sans
+aucune formalit� de justice, le bien le plus pr�cieux des hommes,
+la libert�.  Voil� qui est bien �trange, dit l'Ing�nu; tous les
+malheureux que j'ai rencontr�s ne le sont qu'� cause du pape.
+
+A l'�gard de votre gr�ce efficace, je vous avoue que je n'y
+entends rien; mais je regarde comme une grande gr�ce que Dieu
+m'ait fait trouver dans mon malheur un homme comme vous, qui
+verse dans mon coeur des consolations dont je me croyais
+incapable.
+
+Chaque jour la conversation devenait plus int�ressante et plus
+instructive.  Les �mes des deux captifs s'attachaient l'une �
+l'autre.  Le vieillard savait beaucoup, et le jeune homme voulait
+beaucoup apprendre.  Au bout d'un mois il �tudia la g�om�trie; il
+la d�vorait.  Gordon lui fit lire la physique de Rohault, qui
+�tait encore � la mode, et il eut le bon esprit de n'y trouver
+que des incertitudes.
+
+Ensuite il lut le premier volume de la _Recherche de la v�rit�_.
+Cette nouvelle lumi�re l'�claira.  Quoi!  dit-il, notre
+imagination et nos sens nous trompent � ce point!  quoi!  les
+objets ne forment point nos id�es, et nous ne pouvons nous les
+donner nous-m�mes!  Quand il eut lu le second volume, il ne fut
+plus si content, et il conclut qu'il est plus ais� de d�truire
+que de b�tir.
+
+Son confr�re, �tonn� qu'un jeune ignorant f�t cette r�flexion,
+qui n'appartient qu'aux �mes exerc�es, con�ut une grande id�e de
+son esprit, et s'attacha � lui davantage.
+
+Votre Malebranche, lui dit un jour l'Ing�nu, me para�t avoir
+�crit la moiti� de son livre avec sa raison, et l'autre avec son
+imagination et ses pr�jug�s.
+
+Quelques jours apr�s, Gordon lui demanda: Que pensez-vous donc de
+l'�me, de la mani�re dont nous recevons nos id�es, de notre
+volont�, de la gr�ce, du libre arbitre?  Rien, lui repartit
+l'Ing�nu: si je pensais quelque chose, c'est que nous sommes sous
+la puissance de l'Etre �ternel, comme les astres et les �l�ments;
+qu'il fait tout en nous, que nous sommes de petites roues de la
+machine immense dont il est l'�me; qu'il agit par des lois
+g�n�rales, et non par des vues particuli�res; cela seul me para�t
+intelligible; tout le reste est pour moi un ab�me de t�n�bres.
+
+Mais, mon fils, ce serait faire Dieu auteur du p�ch�.--Mais,
+mon p�re, votre gr�ce efficace ferait Dieu auteur du p�ch� aussi;
+car il est certain que tous ceux � qui cette gr�ce serait refus�e
+p�cheraient; et qui nous livre au mal n'est-il pas l'auteur du
+mal?
+
+Cette na�vet� embarrassait fort le bon-homme; il sentait qu'il
+fesait de vains efforts pour se tirer de ce bourbier; et il
+entassait tant de paroles qui paraissaient avoir du sens et qui
+n'en avaient point (dans le go�t de la pr�motion physique), que
+l'Ing�nu en avait piti�.  Cette question tenait �videmment �
+l'origine du bien et du mal; et alors il fallait que le pauvre
+Gordon pass�t en revue la bo�te de Pandore, l'oeuf d'Orosmade
+perc� par Arimane[1], l'inimiti� entre Typhon et Osiris, et enfin
+le p�ch� originel; et ils couraient l'un et l'autre dans cette
+nuit profonde, sans jamais se rencontrer.  Mais enfin ce roman de
+l'�me d�tournait leur vue de la contemplation de leur propre
+mis�re, et, par un charme �trange, la foule des calamit�s
+r�pandues sur l'univers diminuait la sensation de leurs peines;
+ils n'osaient se plaindre quand tout souffrait.
+
+  [1] Voyez tome XV, pages 314-315.  B.
+
+
+Mais, dans le repos de la nuit, l'image de la belle Saint-Yves
+effa�ait dans l'esprit de son amant toutes les id�es de
+m�taphysique et de morale.  Il se r�veillait les yeux mouill�s de
+larmes; et le vieux jans�niste oubliait sa gr�ce efficace, et
+l'abb� de Saint-Cyran, et Jans�nius, pour consoler un jeune homme
+qu'il croyait en p�ch� mortel.
+
+Apr�s leurs lectures, apr�s leurs raisonnements, ils parlaient
+encore de leurs aventures; et, apr�s en avoir inutilement parl�,
+ils lisaient ensemble ou s�par�ment.  L'esprit du jeune homme se
+fortifiait de plus en plus.  Il serait surtout all� tr�s loin en
+math�matiques sans les distractions que lui donnait mademoiselle
+de Saint-Yves.
+
+Il lut des histoires, elles l'attrist�rent.  Le monde lui parut
+trop m�chant et trop mis�rable.  En effet l'histoire n'est que le
+tableau des crimes et des malheurs.  La foule des hommes
+innocents et paisibles dispara�t toujours sur ces vastes
+th��tres.  Les personnages ne sont que des ambitieux pervers.  Il
+semble que l'histoire ne plaise que comme la trag�die, qui
+languit si elle n'est anim�e par les passions, les forfaits, et
+les grandes infortunes.  Il faut armer Clio du poignard, comme
+Melpom�ne.
+
+Quoique l'histoire de France soit remplie d'horreurs, ainsi que
+toutes les autres, cependant elle lui parut si d�go�tante dans
+ses commencements, si s�che dans son milieu, si petite enfin,
+m�me du temps de Henri IV, toujours si d�pourvue de grands
+monuments, si �trang�re � ces belles d�couvertes qui ont illustr�
+d'autres nations, qu'il �tait oblig� de lutter contre l'ennui
+pour lire tous ces d�tails de calamit�s obscures resserr�es dans
+un coin du monde.
+
+Gordon pensait comme lui.  Tous deux riaient de piti� quand il
+�tait question des souverains de Fezensac[1], de Fesansaguet, et
+d'Astarac.  Cette �tude en effet ne serait bonne que pour leurs
+h�ritiers, s'ils en avaient.  Les beaux si�cles de la r�publique
+romaine le rendirent quelque temps indiff�rent pour le reste de
+la terre.  Le spectacle de Rome victorieuse et l�gislatrice des
+nations occupait son �me enti�re.  Il s'�chauffait en contemplant
+ce peuple qui fut gouvern� sept cents ans par l'enthousiasme de
+la libert� et de la gloire.
+
+  [1] Le comt� de Fezensac avait sept lieues de longueur sur cinq de
+  largeur; il avait �t�, en 1140, r�uni au comt� d'Armagnac.  Le
+  vicomte de Fesansaguet, ou petit Fezensac, fut aussi, en 1404, r�uni
+  au comt� d'Armagnac.  Le comt� d'Astarac avait environ treize lieues
+  de longueur et onze de largeur.  B.
+
+
+Ainsi se passaient les jours, les semaines, les mois; et il se
+serait cru heureux dans le s�jour du d�sespoir, s'il n'avait
+point aim�.
+
+Son bon naturel s'attendrissait encore sur le prieur de
+Notre-Dame de la Montagne, et sur la sensible Kerkabon.  Que
+penseront-ils, r�p�tait-il souvent, quand ils n'auront point de
+mes nouvelles?  Ils me croiront un ingrat.  Cette id�e le
+tourmentait; il plaignait ceux qui l'aimaient, beaucoup plus
+qu'il ne se plaignait lui-m�me.
+
+
+
+CHAPITRE XI
+
+Comment l'Ing�nu d�veloppe son g�nie.
+
+
+La lecture agrandit l'�me, et un ami �clair� la console.  Notre
+captif jouissait de ces deux avantages qu'il n'avait pas
+soup�onn�s auparavant.  Je serais tent�, dit-il, de croire aux
+m�tamorphoses, car j'ai �t� chang� de brute en homme.  Il se
+forma une biblioth�que choisie d'une partie de son argent dont on
+lui permettait de disposer.  Son ami l'encouragea � mettre par
+�crit ses r�flexions.  Voici ce qu'il �crivit sur l'histoire
+ancienne:
+
+�Je m'imagine que les nations ont �t� long-temps comme moi,
+qu'elles ne se sont instruites que fort tard, qu'elles n'ont �t�
+occup�es pendant des si�cles que du moment pr�sent qui coulait,
+tr�s peu du pass�, et jamais de l'avenir.  J'ai parcouru cinq ou
+six cents lieues du Canada, je n'y ai pas trouv� un seul
+monument; personne n'y sait rien de ce qu'a fait son bisa�eul.
+Ne serait-ce pas l� l'�tat naturel de l'homme?  L'esp�ce de ce
+continent-ci me para�t sup�rieure � celle de l'autre.  Elle a
+augment� son �tre depuis plusieurs si�cles par les arts et par
+les connaissances.  Est-ce parcequ'elle a de la barbe au menton,
+et que Dieu a refus� la barbe aux Am�ricains?  Je ne le crois
+pas; car je vois que les Chinois n'ont presque point de barbe, et
+qu'ils cultivent les arts depuis plus de cinq mille ann�es.  En
+effet, s'ils ont plus de quatre mille ans d'annales, il faut bien
+que la nation ait �t� rassembl�e et florissante depuis plus de
+cinquante si�cles.
+
+�Une chose me frappe surtout dans cette ancienne histoire de la
+Chine, c'est que presque tout y est vraisemblable et naturel.  Je
+l'admire en ce qu'il n'y a rien de merveilleux.
+
+�Pourquoi toutes les autres nations se sont-elles donn� des
+origines fabuleuses?  Les anciens chroniqueurs de l'histoire de
+France, qui ne sont pas fort anciens, font venir les Fran�ais
+d'un Francus, fils d'Hector: les Romains se disaient issus d'un
+Phrygien, quoiqu'il n'y e�t pas dans leur langue un seul mot qui
+e�t le moindre rapport � la langue de Phrygie: les dieux avaient
+habit� dix mille ans en Egypte, et les diables, en Scythie, o�
+ils avaient engendr� les Huns.  Je ne vois avant Thucydide que
+des romans semblables aux Amadis, et beaucoup moins amusants.  Ce
+sont partout des apparitions, des oracles, des prodiges, des
+sortil�ges, des m�tamorphoses, des songes expliqu�s, et qui font
+la destin�e des plus grands empires et des plus petits �tats: ici
+des b�tes qui parlent, l� des b�tes qu'on adore, des dieux
+transform�s en hommes, et des hommes transform�s en dieux.  Ah!
+s'il nous faut des fables, que ces fables soient du moins
+l'embl�me de la v�rit�!  J'aime les fables des philosophes, je
+ris de celles des enfants, et je hais celles des imposteurs.�
+
+Il tomba un jour sur une histoire de l'empereur Justinien.  On y
+lisait que des ap�deutes[1] de Constantinople avaient donn�, en
+tr�s mauvais grec, un �dit contre le plus grand capitaine du
+si�cle[2], parceque ce h�ros avait prononc� ces paroles dans la
+chaleur de la conversation: �La v�rit� luit de sa propre lumi�re,
+et on n'�claire pas les esprits avec les flammes des b�chers.�
+Les ap�deutes assur�rent que cette proposition �tait h�r�tique,
+sentant l'h�r�sie, et que l'axiome contraire �tait catholique,
+universel, et grec: � On n'�claire les esprits qu'avec la flamme
+des b�chers, et la v�rit� ne saurait luire de sa propre lumi�re.�
+Ces linostoles[3] condamn�rent ainsi plusieurs discours du
+capitaine, et donn�rent un �dit.
+
+  [1] Ignorants, gens sans �ducation.  (Note de M. Decroix.)
+
+  [2] La facult� de th�ologie d� Paris avait donn�, en mauvais
+  latin, une censure du _B�lisaire_ de Marmontel.  B.
+
+  [3] Couverts de longs habits de lin (tels que des surplis).
+  L'auteur fait ici allusion � la censure du _B�lisaire_ de
+  Marmontel par la Sorbonne.  (Note de M. Decroix.)
+
+
+Quoi!  s'�cria l'Ing�nu, des �dits rendus par ces gens-l�!  Ce ne
+sont point des �dits, r�pliqua Gordon, ce sont des contr'�dits[4]
+dont tout le monde se moquait � Constantinople, et l'empereur
+tout le premier; c'�tait un sage prince, qui avait su r�duire les
+ap�deutes linostoles � ne pouvoir faire que du bien.  Il savait
+que ces messieurs-l� et plusieurs autres pastophores[5] avaient
+lass� de contr'�dits la patience des empereurs ses pr�d�cesseurs
+en mati�re plus grave.  Il fit fort bien, dit l'Ing�nu; on doit
+soutenir les pastophores et les contenir.
+
+  [4] L'�dition encadr�e de 1775 porte: _contr'�dits_; on lit de
+  m�me dans les �ditions de Kehl.  Toutes les �ditions
+  ant�rieures � 1775 portent: _contredits_, Mais on ne doit pas
+  oublier que beaucoup d'ouvrages de Voltaire ont �t� imprim�s
+  en pays �trangers, et quelquefois loin des yeux de l'auteur.  B.
+
+  [5] V�tus de longues robes ou manteaux.  (Note de M. Decroix.)
+
+
+Il mit par �crit beaucoup d'autres r�flexions qui �pouvant�rent
+le vieux Gordon.  Quoi!  dit-il en lui-m�me, j'ai consum�
+cinquante ans � m'instruire, et je crains de ne pouvoir atteindre
+au bon sens naturel de cet enfant presque sauvage!  je tremble
+d'avoir laborieusement fortifi� des pr�jug�s; il n'�coute que la
+simple nature.
+
+Le bon-homme avait quelques uns de ces petits livres de critique,
+de ces brochures p�riodiques o� des hommes incapables de rien
+produire d�nigrent les productions des autres, o� les Vis�
+insultent aux Racine, et les Faydit aux F�nelon.  L'Ing�nu en
+parcourut quelques uns.  Je les compare, disait-il, � certains
+moucherons qui vont d�poser leurs oeufs dans le derri�re des plus
+beaux chevaux: cela ne les emp�che pas de courir.  A peine les
+deux philosophes daign�rent-ils jeter les yeux sur ces excr�ments
+de la litt�rature.
+
+Ils lurent bient�t ensemble les �l�ments de l'astronomie;
+l'Ing�nu fit venir des sph�res: ce grand spectacle le ravissait.
+Qu'il est dur, disait-il, de ne commencer � conna�tre le ciel que
+lorsqu'on me ravit le droit de le contempler!  Jupiter et Saturne
+roulent dans ces espaces immenses; des millions de soleils
+�clairent des milliards de mondes; et dans le coin de terre o� je
+suis jet�, il se trouve des �tres qui me privent, moi �tre voyant
+et pensant, de tous ces mondes o� ma vue pourrait atteindre, et
+de celui o� Dieu m'a fait na�tre!  La lumi�re faite pour tout
+l'univers est perdue pour moi.  On ne me la cachait pas dans
+l'horizon septentrional o� j'ai pass� mon enfance et ma jeunesse.
+Sans vous, mon cher Gordon, je serais ici dans le n�ant.
+
+CHAPITRE XII.
+
+Ce que l'Ing�nu pense des pi�ces de th��tre.
+
+Le jeune Ing�nu ressemblait � un de ces arbres vigoureux qui, n�s
+dans un sol ingrat, �tendent en peu de temps leurs racines et
+leurs branches quand ils sont transplant�s dans un terrain
+favorable; et il �tait bien extraordinaire qu'une prison f�t ce
+terrain.
+
+Parmi les livres qui occupaient le loisir des deux captifs, il se
+trouva des po�sies, des traductions de trag�dies grecques,
+quelques pi�ces du th��tre fran�ais.  Les vers qui parlaient
+d'amour port�rent �-la-fois dans l'�me de l'Ing�nu le plaisir et
+la douleur.  Ils lui parlaient tous de sa ch�re Saint-Yves.  La
+fable des deux Pigeons lui per�a le coeur; il �tait bien loin de
+pouvoir revenir � son colombier.
+
+Moli�re l'enchanta.  Il lui fesait conna�tre les moeurs de Paris
+et du genre humain.--A laquelle de ses com�dies donnez-vous la
+pr�f�rence?--Au _Tartufe_, sans difficult�.  Je pense comme vous,
+dit Gordon; c'est un tartufe qui m'a plong� dans ce cachot, et
+peut-�tre ce sont des tartufes qui ont fait votre malheur.
+
+Comment trouvez-vous ces trag�dies grecques?--Bonnes pour des
+Grecs, dit l'Ing�nu.  Mais quand il lut l'_Iphig�nie_ moderne,
+_Ph�dre_, _Andromaque_, _Athalie_, il fut en extase, il soupira,
+il versa des larmes, il les sut par coeur sans avoir envie de les
+apprendre.
+
+Lisez _Rodogune_, lui dit Gordon; on dit que c'est le chef-d'oeuvre
+du th��tre; les autres pi�ces qui vous ont fait tant de plaisir
+sont peu de chose en comparaison.  Le jeune homme, d�s la
+premi�re page, lui dit: Cela n'est pas du m�me auteur.--A quoi
+le voyez-vous?--Je n'en sais rien encore; mais ces vers-l� ne
+vont ni � mon oreille ni � mon coeur.--Oh!  ce n'est rien que
+les vers, r�pliqua Gordon.  L'Ing�nu r�pondit: Pourquoi donc en
+faire?
+
+Apr�s avoir lu tr�s attentivement la pi�ce, sans autre dessein
+que celui d'avoir du plaisir, il regardait son ami avec des yeux
+secs et �tonn�s, et ne savait que dire.  Enfin, press� de rendre
+compte de ce qu'il avait senti, voici ce qu'il r�pondit: Je n'ai
+gu�re entendu le commencement; j'ai �t� r�volt� du milieu; la
+derni�re sc�ne m'a beaucoup �mu, quoiqu'elle me paraisse peu
+vraisemblable: je ne me suis int�ress� pour personne, et je n'ai
+pas retenu vingt vers, moi qui les retiens tous quand ils me
+plaisent.
+
+Cette pi�ce passe pourtant pour la meilleure que nous ayons.--Si
+cela est, r�pliqua-t-il, elle est peut-�tre comme bien des gens
+qui ne m�ritent pas leurs places.  Apr�s tout, c'est ici une
+affaire de go�t; le mien ne doit pas encore �tre form�: je peux
+me tromper; mais vous savez que je suis assez accoutum� � dire ce
+que je pense, ou plut�t ce que je sens.  Je soup�onne qu'il y a
+souvent de l'illusion, de la mode, du caprice dans les jugements
+des hommes.  J'ai parl� d'apr�s la nature; il se peut que chez
+moi la nature soit tr�s imparfaite; mais il se peut aussi qu'elle
+soit quelquefois peu consult�e par la plupart des hommes.  Alors
+il r�cita des vers d'_Iphig�nie_, dont il �tait plein; et
+quoiqu'il ne d�clam�t pas bien, il y mit tant de v�rit� et
+d'onction, qu'il fit pleurer le vieux jans�niste.  Il lut ensuite
+_Cinna_; il ne pleura point, mais il admira.
+
+CHAPITRE XIII.
+
+La belle Saint-Yves va � Versailles.
+
+Pendant que notre infortun� s'�clairait plus qu'il ne se
+consolait; pendant que son g�nie, �touff� depuis si long-temps,
+se d�ployait avec tant de rapidit� et de force; pendant que la
+nature, qui se perfectionnait en lui, le vengeait des outrages de
+la fortune, que devinrent monsieur le prieur et sa bonne soeur,
+et la belle recluse Saint-Yves?  Le premier mois on fut inquiet,
+et au troisi�me on fut plong� dans la douleur; les fausses
+conjectures, les bruits mal fond�s, alarm�rent: au bout de six
+mois on le crut mort.  Enfin monsieur et mademoiselle de Kerkabon
+apprirent, par une ancienne lettre qu'un garde du roi avait
+�crite en Bretagne, qu'un jeune homme semblable � l'Ing�nu �tait
+arriv� un soir � Versailles, mais qu'il avait �t� enlev� pendant
+la nuit, et que depuis ce temps personne n'en avait entendu
+parler.
+
+H�las!  dit mademoiselle de Kerkabon, notre neveu aura fait
+quelque sottise, et se sera attir� de f�cheuses affaires.  Il est
+jeune, il est Bas-Breton, il ne peut savoir comme on doit se
+comporter � la cour.  Mon cher fr�re, je n'ai jamais vu
+Versailles ni Paris; voici une belle occasion, nous retrouverons
+peut-�tre notre pauvre neveu: c'est le fils de notre fr�re; notre
+devoir est de le secourir.  Qui sait si nous ne pourrons point
+parvenir enfin � le faire sous-diacre, quand la fougue de la
+jeunesse sera amortie?  Il avait beaucoup de dispositions pour
+les sciences.  Vous souvenez-vous comme il raisonnait sur
+l'ancien et sur le nouveau _Testament_?  Nous sommes responsables
+de son �me; c'est nous qui l'avons fait baptiser; sa ch�re
+ma�tresse Saint-Yves passe les journ�es � pleurer.  En v�rit� il
+faut aller � Paris.  S'il est cach� dans quelqu'une de ces
+vilaines maisons de joie dont on m'a fait tant de r�cits, nous
+l'en tirerons.  Le prieur fut touch� des discours de sa soeur.
+Il alla trouver l'�v�que de Saint-Malo, qui avait baptis� le
+Huron, et lui demanda sa protection et ses conseils.  Le pr�lat
+approuva le voyage.  Il donna au prieur des lettres de
+recommandation pour le P. de La Chaise, confesseur du roi, qui
+avait la premi�re dignit� du royaume, pour l'archev�que de Paris,
+Harlay, et pour l'�v�que de Meaux, Bossuet.
+
+Enfin le fr�re et la soeur partirent; mais, quand ils furent
+arriv�s � Paris, ils se trouv�rent �gar�s comme dans un vaste
+labyrinthe, sans fil et sans issue.  Leur fortune �tait m�diocre,
+et il leur fallait tous les jours des voitures pour aller � la
+d�couverte, et ils ne d�couvraient rien.
+
+Le prieur se pr�senta chez le r�v�rend P. de La Chaise; il �tait
+avec mademoiselle Du Tron, et ne pouvait donner audience � des
+prieurs.  Il alla � la porte de l'archev�que; le pr�lat[1] �tait
+enferm� avec la belle madame de Lesdigui�res pour les affaires de
+l'Eglise.  Il courut � la maison de campagne de l'�v�que de
+Meaux; celui-ci examinait, avec mademoiselle de Maul�on, l'amour
+mystique de madame Guyon.  Cependant il parvint � se faire
+entendre de ces deux pr�lats; tous deux lui d�clar�rent qu'ils ne
+pouvaient se m�ler de son neveu, attendu qu'il n'�tait pas
+sous-diacre.
+
+  [1] Fran�ois de Harlay de Chauvalon, archev�que de Paris, de
+  1670 � 1695, refusa la s�pulture � Moli�re, fit enfermer madame
+  Guyon, donna la b�n�diction nuptiale � Louis XIV et � madame de
+  Maintenon.  Il �tait connu par ses aventures galantes.  Un
+  jour'qu'il entrait dans un salon o� �taient un grand nombre de
+  belles dames, il dit:
+
+           Formosi pecoris custos;
+
+  l'une d'elles acheva le vers de Virgile en ajoutant:
+
+                                    formosior ipse. B.
+
+
+Enfin il vit le j�suite; celui-ci le re�ut � bras ouverts, lui
+protesta qu'il avait toujours eu pour lui une estime
+particuli�re, ne l'ayant jamais connu.  Il jura que la Soci�t�
+avait toujours �t� attach�e aux Bas-Bretons.  Mais, dit-il, votre
+neveu n'aurait-il pas le malheur d'�tre huguenot?--Non,
+assur�ment, mon r�v�rend p�re.--Serait-il point jans�niste?--Je
+puis assurer � votre r�v�rence qu'� peine est-il chr�tien: il y a
+environ onze mois que nous l'avons baptis�.--Voil� qui est bien,
+voil� qui est bien, nous aurons soin de lui.  Votre b�n�fice
+est-il consid�rable?--Oh! fort peu de chose, et mon neveu nous
+co�te beaucoup.--Y a-t-il quelques jans�nistes dans le voisinage?
+Prenez bien garde, mon cher monsieur le prieur, ils sont plus
+dangereux que les huguenots et les ath�es.--Mon r�v�rend p�re,
+nous n'en avons point; on ne sait ce que c'est que le jans�nisme
+� Notre-Dame de la Montagne.--Tant mieux; allez, il n'y a rien
+que je ne fasse pour vous.  Il cong�dia affectueusement le
+prieur, et n'y pensa plus.
+
+Le temps s'�coulait, le prieur et la bonne soeur se
+d�sesp�raient.
+
+Cependant le maudit bailli pressait le mariage de son grand ben�t
+de fils avec la belle Saint-Yves, qu'on avait fait sortir expr�s
+du couvent.  Elle aimait toujours son cher filleul autant qu'elle
+d�testait le mari qu'on lui pr�sentait.  L'affront d'avoir �t�
+mise dans un couvent augmentait sa passion; l'ordre d'�pouser le
+fils du bailli y mettait le comble.  Les regrets, la tendresse,
+et l'horreur, bouleversaient son �me.  L'amour, comme on sait,
+est bien plus ing�nieux et plus hardi dans une jeune fille, que
+l'amiti� ne l'est dans un vieux prieur et dans une tante de
+quarante-cinq ans pass�s.  De plus, elle s'�tait bien form�e dans
+son couvent par les romans qu'elle avait lus � la d�rob�e.  La
+belle Saint-Yves se souvenait de la lettre qu'un garde du corps
+avait �crite en Basse-Bretagne, et dont on avait parl� dans la
+province.  Elle r�solut d'aller elle-m�me prendre des
+informations � Versailles; de se jeter aux pieds des ministres,
+si son mari �tait en prison, comme on le disait, et d'obtenir
+justice pour lui.  Je ne sais quoi l'avertissait secr�tement qu'�
+la cour on ne refuse rien � une jolie fille; mais elle ne savait
+pas ce qu'il en co�tait.
+
+Sa r�solution prise, elle est consol�e, elle est tranquille, elle
+ne rebute plus son sot pr�tendu; elle accueille le d�testable
+beau-p�re, caresse son fr�re, r�pand l'all�gresse dans la maison;
+puis, le jour destin� � la c�r�monie, elle part secr�tement �
+quatre heures du matin avec ses petits pr�sents de noce, et tout
+ce qu'elle a pu rassembler.  Ses mesures �taient si bien prises,
+qu'elle �tait d�j� � plus de dix lieues lorsqu'on entra dans sa
+chambre, vers le midi.  La surprise et la consternation furent
+grandes.  L'interrogant bailli fit ce jour-l� plus de questions
+qu'il n'en avait fait dans toute la semaine; le mari resta plus
+sot qu'il ne l'avait jamais �t�.  L'abb� de Saint-Yves en col�re
+prit le parti de courir apr�s sa soeur.  Le bailli et son fils
+voulurent l'accompagner.  Ainsi la destin�e conduisait � Paris
+presque tout ce canton de la Basse-Bretagne.
+
+La belle Saint-Yves se doutait bien qu'on la suivrait.  Elle
+�tait � cheval; elle s'informait adroitement des courriers s'ils
+n'avaient point rencontr� un gros abb�, un �norme bailli, et un
+jeune ben�t, qui couraient sur le chemin de Paris.  Ayant appris
+au troisi�me jour qu'ils n'�taient pas loin, elle prit une route
+diff�rente, et eut assez d'habilet� et de bonheur pour arriver �
+Versailles, tandis qu'on la cherchait inutilement dans Paris.
+
+Mais comment se conduire � Versailles?  jeune, belle, sans
+conseil, sans appui, inconnue, expos�e � tout, comment oser
+chercher un garde du roi?  Elle imagina de s'adresser � un
+j�suite du bas �tage; il y en avait pour toutes les conditions de
+la vie: comme Dieu, disaient-ils, a donn� diff�rentes nourritures
+aux diverses esp�ces d'animaux, il avait donn� au roi son
+confesseur, que tous les solliciteurs de b�n�fices appelaient _le
+chef de l'�glise gallicane_; ensuite venaient les confesseurs des
+princesses; les ministres n'en avaient point; ils n'�taient pas
+si sots.  Il y avait les j�suites du grand commun, et surtout les
+j�suites des femmes de chambre par lesquelles on savait les
+secrets des ma�tresses; et ce n'�tait pas un petit emploi.  La
+belle Saint-Yves s'adressa � un de ces derniers, qui s'appelait
+le P. Tout-�-tous.  Elle se confessa � lui, lui exposa ses
+aventures, son �tat, son danger, et le conjura de la loger chez
+quelque bonne d�vote qui la m�t � l'abri des tentations.
+
+Le P. Tout-�-tous l'introduisit chez la femme d'un officier du
+gobelet, l'une de ses plus affid�es p�nitentes.  D�s qu'elle y
+fut, elle s'empressa de gagner la confiance et l'amiti� de cette
+femme; elle s'informa du garde breton, et le fit prier de venir
+chez elle.  Ayant su de lui que son amant avait �t� enlev� apr�s
+avoir parl� � un premier commis, elle court chez ce commis: la
+vue d'une belle femme l'adoucit, car il faut convenir que Dieu
+n'a cr�� les femmes que pour apprivoiser les hommes.
+
+Le plumitif attendri lui avoua tout.  Votre amant est � la
+Bastille depuis pr�s d'un an, et sans vous il y serait peut-�tre
+toute sa vie.  La tendre Saint-Yves s'�vanouit.  Quand elle eut
+repris ses sens, le plumitif lui dit: Je suis sans cr�dit pour
+faire du bien; tout mon pouvoir se borne � faire du mal
+quelquefois.  Croyez-moi, allez chez M. de Saint-Pouange, qui
+fait le bien et le mal, cousin et favori de monseigneur de
+Louvois.  Ce ministre a deux �mes: M. de Saint-Pouange en est
+une; madame Dufresnoy[2], l'autre; mais elle n'est pas � pr�sent �
+Versailles; il ne vous reste que de fl�chir le protecteur que je
+vous indique.  La belle Saint-Yves, partag�e entre un peu de joie
+et d'extr�mes douleurs, entre quelque esp�rance et de tristes
+craintes, poursuivie par son fr�re, adorant son amant, essuyant
+ses larmes et en versant encore, tremblante, affaiblie, et
+reprenant courage, courut vite chez M. de Saint-Pouange.
+
+  [1] Dans les �ditions ant�rieures aux �ditions de Kehl, ou lit:
+  _Madame Du Belloy_.  B.
+
+
+
+CHAPITRE XIV.
+
+Progr�s de l'esprit de l'Ing�nu.
+
+
+L'Ing�nu fesait des progr�s rapides dans les sciences, et surtout
+dans la science de l'homme.  La cause du d�veloppement rapide de
+son esprit �tait due � son �ducation sauvage presque autant qu'�
+la trempe de son �me; car, n'ayant rien appris dans son enfance,
+il n'avait point appris de pr�jug�s.  Son entendement n'ayant
+point �t� courb� par l'erreur �tait demeur� dans toute sa
+rectitude.  Il voyait les choses comme elles sont, au lieu que
+les id�es qu'on nous donne dans l'enfance nous les font voir
+toute notre vie comme elles ne sont point.  Vos pers�cuteurs sont
+abominables, disait-il � son ami Gordon.  Je vous plains d'�tre
+opprim�, mais je vous plains d'�tre jans�niste.  Toute secte me
+para�t le ralliement de l'erreur.  Dites-moi s'il y a des sectes
+en g�om�trie?  Non, mon cher enfant, lui dit en soupirant le bon
+Gordon; tous les hommes sont d'accord sur la v�rit� quand elle
+est d�montr�e, mais ils sont trop partag�s sur les v�rit�s
+obscures.--Dites sur les fausset�s obscures.  S'il y avait eu
+une seule v�rit� cach�e dans vos amas d'arguments qu'on ressasse
+depuis tant de si�cles, on l'aurait d�couverte sans doute; et
+l'univers aurait �t� d'accord au moins sur ce point-l�.  Si cette
+v�rit� �tait n�cessaire comme le soleil l'est � la terre, elle
+serait brillante comme lui.  C'est une absurdit�, c'est un
+outrage au genre humain, c'est un attentat contre l'�tre infini
+et supr�me de dire: il y a une v�rit� essentielle � l'homme, et
+Dieu l'a cach�e.  Tout ce que disait ce jeune ignorant, instruit
+par la nature, fesait une impression profonde sur l'esprit du
+vieux savant infortun�.  Serait-il bien vrai, s'�criat-il, que je
+me fusse rendu malheureux pour des chim�res?  Je suis bien plus
+s�r de mon malheur que de la gr�ce efficace.  J'ai consum� mes
+jours � raisonner sur la libert� de Dieu et du genre humain; mais
+j'ai perdu la mienne; ni saint Augustin ni saint Prosper ne me
+tireront de l'ab�me o� je suis.
+
+L'Ing�nu, livr� � son caract�re, dit enfin: Voulez-vous que je
+vous parle avec une confiance hardie?  Ceux qui se font
+pers�cuter pour ces vaines disputes de l'�cole me semblent peu
+sages; ceux qui pers�cutent me paraissent des monstres.
+
+Les deux captifs �taient fort d'accord sur l'injustice de leur
+captivit�.  Je suis cent fois plus � plaindre que vous, disait
+l'Ing�nu; je suis n� libre comme l'air; j'avais deux vies, la
+libert� et l'objet de mon amour: on me les �te.  Nous voici tous
+deux dans les fers, sans savoir la raison et sans pouvoir la
+demander.  J'ai v�cu Huron vingt ans; on dit que ce sont des
+barbares, parcequ'ils se vengent de leurs ennemis; mais ils n'ont
+jamais opprim� leurs amis.  A peine ai-je mis le pied en France,
+que j'ai vers� mon sang pour elle; j'ai peut-�tre sauv� une
+province, et pour r�compense je suis englouti dans ce tombeau des
+vivants, o� je serais mort de rage sans vous.  Il n'y a donc
+point de lois dans ce pays?  on condamne les hommes sans les
+entendre!  Il n'en est pas ainsi en Angleterre.  Ah!  ce n'�tait
+pas contre les Anglais que je devais me battre.  Ainsi sa
+philosophie naissante ne pouvait dompter la nature outrag�e dans
+le premier de ses droits, et laissait un libre cours � sa juste
+col�re.
+
+Son compagnon ne le contredit point.  L'absence augmente toujours
+l'amour qui n'est pas satisfait, et la philosophie ne le diminue
+pas.  Il parlait aussi souvent de sa ch�re Saint-Yves que de
+morale et de m�taphysique.  Plus ses sentiments s'�puraient, et
+plus il aimait.  Il lut quelques romans nouveaux; il en trouva
+peu qui lui peignissent la situation de son �me.  Il sentait que
+son coeur allait toujours au-del� de ce qu'il lisait.  Ah!
+disait-il, presque tous ces auteurs-l� n'ont que de l'esprit et
+de l'art.  Enfin le bon pr�tre jans�niste devenait insensiblement
+le confident de sa tendresse.  Il ne connaissait l'amour
+auparavant que comme un p�ch� dont on s'accuse en confession.  Il
+apprit � le conna�tre comme un sentiment aussi noble que tendre,
+qui peut �lever l'�me autant que l'amollir, et produire m�me
+quelquefois des vertus.  Enfin, pour dernier prodige, un Huron
+convertissait un jans�niste.
+
+CHAPITRE XV.
+
+La belle Saint-Yves r�siste � des propositions d�licates.
+
+La belle Saint-Yves, plus tendre encore que son amant, alla donc
+chez M. de Saint-Pouange, accompagn�e de l'amie chez qui elle
+logeait, toutes deux cach�es dans leurs coiffes.  La premi�re
+chose qu'elle vit � la porte ce fut l'abb� de Saint-Yves, son
+fr�re, qui en sortait.  Elle fut intimid�e; mais la d�vote amie
+la rassura.  C'est pr�cis�ment parcequ'on a parl� contre vous
+qu'il faut que vous parliez.  Soyez s�re que dans ce pays les
+accusateurs ont toujours raison, si on ne se h�te de les
+confondre.  Votre pr�sence d'ailleurs, ou je me trompe fort, fera
+plus d'effet que les paroles de votre fr�re.
+
+Pour peu qu'on encourage une amante passionn�e, elle est
+intr�pide.  La Saint-Yves se pr�sente � l'audience.  Sa jeunesse,
+ses charmes, ses yeux tendres mouill�s de quelques pleurs,
+attir�rent tous les regards.  Chaque courtisan du sous-ministre
+oublia un moment l'idole du pouvoir pour contempler celle de la
+beaut�.  Le Saint-Pouange la fit entrer dans un cabinet; elle
+parla avec attendrissement et avec gr�ce.  Saint-Pouange se
+sentit touch�.  Elle tremblait, il la rassura.  Revenez ce soir,
+lui dit-il; vos affaires m�ritent qu'on y pense et qu'on en parle
+� loisir; il y a ici trop de monde; on exp�die les audiences trop
+rapidement: il faut que je vous entretienne � fond de tout ce qui
+vous regarde.  Ensuite, ayant fait l'�loge de sa beaut� et de ses
+sentiments, il lui recommanda de venir � sept heures du soir.
+
+Elle n'y manqua pas; la d�vote amie l'accompagna encore, mais
+elle se tint dans le salon, et lut le _P�dagogue chr�tien_[1],
+pendant que le Saint-Pouange et la belle Saint-Yves �taient dans
+l'arri�re-cabinet.  Croiriez-vous bien, mademoiselle, lui dit-il
+d'abord, que votre fr�re est venu me demander une lettre de
+cachet contre vous?  En v�rit� j'en exp�dierais plut�t une pour
+le renvoyer en Basse-Bretagne.--H�las!  monsieur, on est donc
+bien lib�ral de lettres de cachet dans vos bureaux, puisqu'on en
+vient solliciter du fond du royaume, comme des pensions.  Je suis
+bien loin d'en demander une contre mon fr�re.  J'ai beaucoup � me
+plaindre de lui, mais je respecte la libert� des hommes; je
+demande celle d'un homme que je veux �pouser, d'un homme � qui le
+roi doit la conservation d'une province, qui peut le servir
+utilement, et qui est le fils d'un officier tu� � son service.
+De quoi est-il accus�?  comment a-t-on pu le traiter si
+cruellement sans l'entendre?
+
+  [1] Ouvrage que Voltaire appelle _Excellent livre pour les sots_
+  (voyez tome XXIX, page 119).  L'auteur est le P. Outreman.  B.
+
+
+Alors le sous-ministre lui montra la lettre du j�suite espion et
+celle du perfide bailli.--Quoi!  il y a de pareils monstres
+sur la terre!  et on veut me forcer ainsi � �pouser le fils
+ridicule d'un homme ridicule et m�chant!  et c'est sur de pareils
+avis qu'on d�cide ici de la destin�e des citoyens!  Elle se jeta
+� genoux, elle demanda avec des sanglots la libert� du brave
+homme qui l'adorait.  Ses charmes en cet �tat parurent dans leur
+plus grand avantage.  Elle �tait si belle, que le Saint-Pouange,
+perdant toute honte, lui insinua qu'elle r�ussirait si elle
+commen�ait par lui donner les pr�mices de ce qu'elle r�servait �
+son amant.  La Saint-Yves, �pouvant�e et confuse, feignit
+long-temps de ne le pas entendre; il fallut s'expliquer plus
+clairement.  Un mot l�ch� d'abord avec retenue en produisait un
+plus fort suivi d'un autre plus expressif.  On offrit non
+seulement la r�vocation de la lettre de cachet, mais des
+r�compenses, de l'argent, des honneurs, des �tablissements; et
+plus on promettait, plus le d�sir de n'�tre pas refus�
+augmentait.
+
+La Saint-Yves pleurait, elle �tait suffoqu�e, � demi renvers�e
+sur un sofa, croyant � peine ce qu'elle voyait, ce qu'elle
+entendait.  Le Saint-Pouange, � son tour, se jeta � ses genoux.
+Il n'�tait pas sans agr�ments, et aurait pu ne pas effaroucher un
+coeur moins pr�venu; mais Saint-Yves adorait son amant, et
+croyait que c'�tait un crime horrible de le trahir pour le
+servir.  Saint-Pouange redoublait les pri�res et les promesses:
+enfin la t�te lui tourna au point, qu'il lui d�clara que c'�tait
+le seul moyen de tirer de sa prison l'homme auquel elle prenait
+un int�r�t si violent et si tendre.  Cet �trange entretien se
+prolongeait.  La d�vote de l'antichambre, en lisant son _P�dagogue
+chr�tien_, disait: Mon Dieu!  que peuvent-ils faire l� depuis deux
+heures?  jamais monseigneur de Saint-Pouange n'a donn� une si
+longue audience; peut-�tre qu'il a tout refus� � cette pauvre
+fille, puisqu'elle le prie encore.
+
+Enfin sa compagne sortit de l'arri�re-cabinet, tout �perdue, sans
+pouvoir parler, r�fl�chissant profond�ment sur le caract�re des
+grands et des demi-grands, qui sacrifient si l�g�rement la
+libert� des hommes et l'honneur des femmes.
+
+Elle ne dit pas un mot pendant tout le chemin.  Arriv�e chez
+l'amie, elle �clata, elle lui conta tout.  La d�vote fit de
+grands signes de croix.  Ma ch�re amie, il faut consulter d�s
+demain le P. Tout-�-tous, notre directeur; il a beaucoup de
+cr�dit aupr�s de M. de Saint-Pouange; il confesse plusieurs
+servantes de sa maison; c'est un homme pieux et accommodant, qui
+dirige aussi des femmes de qualit�: abandonnez-vous � lui, c'est
+ainsi que j'en use; je m'en suis toujours bien trouv�e.  Nous
+autres pauvres femmes nous avons besoin d'�tre conduites par un
+homme.--Eh bien donc!  ma ch�re amie, j'irai trouver demain le
+P. Tout-�-tous.
+
+CHAPITRE XVI.
+
+Elle consulte un j�suite.
+
+D�s que la belle et d�sol�e Saint-Yves fut avec son bon
+confesseur, elle lui confia qu'un homme puissant et voluptueux
+lui proposait de faire sortir de prison celui qu'elle devait
+�pouser l�gitimement, et qu'il demandait un grand prix de son
+service; qu'elle avait une r�pugnance horrible pour une telle
+infid�lit�, et que, s'il ne s'agissait que de sa propre vie, elle
+la sacrifierait plut�t que de succomber.
+
+Voil� un abominable p�cheur!  lui dit le P. Tout-�-tous.  Vous
+devriez bien me dire le nom de ce vilain homme; c'est � coup s�r
+quelque jans�niste; je le d�noncerai � sa r�v�rence le P. de La
+Chaise, qui le fera mettre dans le g�te o� est � pr�sent la ch�re
+personne que vous devez �pouser.
+
+La pauvre fille, apr�s un long embarras et de grandes
+irr�solutions, lui nomma enfin Saint-Pouange.
+
+
+Monseigneur de Saint-Pouange!  s'�cria le j�suite; ah!  ma
+fille, c'est tout autre chose; il est cousin du plus grand
+ministre que nous ayons jamais eu, homme de bien, protecteur de
+la bonne cause, bon chr�tien; il ne peut avoir eu une telle
+pens�e; il faut que vous ayez mal entendu.--Ah!  mon p�re, je
+n'ai entendu que trop bien; je suis perdue, quoi que je fasse; je
+n'ai que le choix du malheur et de la honte; il faut que mon
+amant reste enseveli tout vivant, ou que je me rende indigne de
+vivre.  Je ne puis le laisser p�rir, et je ne puis le sauver.
+
+Le P. Tout-�-tous t�cha de la calmer par ces douces paroles:
+
+Premi�rement, ma fille, ne dites jamais ce mot _mon amant_; il y
+a quelque chose de mondain qui pourrait offenser Dieu: dites _mon
+mari_; car bien qu'il ne le soit pas encore, vous le regardez
+comme tel; et rien n'est plus honn�te.
+
+Secondement, bien qu'il soit votre �poux en id�e, en esp�rance,
+il ne l'est pas en effet: ainsi vous ne commettriez pas un
+adult�re, p�ch� �norme qu'il faut toujours �viter autant qu'il
+est possible.
+
+Troisi�mement, les actions ne sont pas d'une malice de coulpe
+quand l'intention est pure, et rien n'est plus pur que de
+d�livrer votre mari.
+
+Quatri�mement, vous avez des exemples dans la sainte antiquit�
+qui peuvent merveilleusement servir � votre conduite.  Saint
+Augustin rapporte que sous le proconsulat de Septimius Acyndinus[1],
+en l'an 340 de notre salut, un pauvre homme ne pouvant payer �
+C�sar ce qui appartenait � C�sar, fut condamn� � la mort, comme
+il est juste, malgr� la maxime, _O� il n'y a rien le roi perd ses
+droits_.  Il s'agissait d'une livre d'or; le condamn� avait une
+femme en qui Dieu avait mis la beaut� et la prudence.  Un vieux
+richard promit de donner une livre d'or, et m�me plus, � la dame,
+� condition qu'il commettrait avec elle le p�ch� immonde.  La
+dame ne crut point faire mal en sauvant son mari.  Saint Augustin
+approuve fort sa g�n�reuse r�signation.  Il est vrai que le vieux
+richard la trompa, et peut-�tre m�me son mari n'en fut pas moins
+pendu; mais elle avait fait tout ce qui �tait en elle pour sauver
+sa vie.
+
+  [1] Voyez, dans le _Dictionnaire de Bayle_, l'article
+  ACYNDINUS. B.
+
+
+Soyez s�re, ma fille, que quand un j�suite vous cite saint
+Augustin, il faut que ce saint ait pleinement raison.  Je ne vous
+conseille rien, vous �tes sage; il est � pr�sumer que vous serez
+utile � votre mari.  Monseigneur de Saint-Pouange est un honn�te
+homme, il ne vous trompera pas; c'est tout ce que je puis vous
+dire: je prierai Dieu pour vous, et j'esp�re que tout se passera
+� sa plus grande gloire.
+
+La belle Saint-Yves, non moins effray�e des discours du j�suite
+que des propositions du sous-ministre, s'en retourna �perdue chez
+son amie.  Elle �tait tent�e de se d�livrer, par la mort, de
+l'horreur de laisser dans une captivit� affreuse l'amant qu'elle
+adorait, et de la honte de le d�livrer au prix de ce qu'elle
+avait de plus cher, et qui ne devait appartenir qu'� cet amant
+infortun�.
+
+CHAPITRE XVII.
+
+Elle succombe par vertu.
+
+Elle priait son amie de la tuer; mais cette femme, non moins
+indulgente que le j�suite, lui parla plus clairement encore.
+H�las!  dit-elle, les affaires ne se font gu�re autrement dans
+cette cour si aimable, si galante, si renomm�e.  Les places les
+plus m�diocres et les plus consid�rables n'ont souvent �t�
+donn�es qu'au prix qu'on exige de vous.  Ecoutez, vous m'avez
+inspir� de l'amiti� et de la confiance; je vous avouerai que si
+j'avais �t� aussi difficile que vous l'�tes, mon mari ne jouirait
+pas du petit poste qui le fait vivre; il le sait, et loin d'en
+�tre f�ch�, il voit en moi sa bienfaitrice, et il se regarde
+comme ma cr�ature.  Pensez-vous que tous ceux qui ont �t� � la
+t�te des provinces, ou m�me des arm�es, aient d� leurs honneurs
+et leur fortune � leurs seuls services?  Il en est qui en sont
+redevables � mesdames leurs femmes.  Les dignit�s de la guerre
+ont �t� sollicit�es par l'amour, et la place a �t� donn�e au mari
+de la plus belle.
+
+Vous �tes dans une situation bien plus int�ressante; il s'agit de
+rendre votre amant au jour et de l'�pouser; c'est un devoir sacr�
+qu'il vous faut remplir.  On n'a point bl�m� les belles et
+grandes dames dont je vous parle; on vous applaudira, on dira que
+vous ne vous �tes permis une faiblesse que par un exc�s de
+vertu.--Ah!  quelle vertu!  s'�cria la belle Saint-Yves; quel
+labyrinthe d'iniquit�s!  quel pays!  et que j'apprends �
+conna�tre les hommes!  Un P. de La Chaise et un bailli ridicule
+font mettre mon amant en prison, ma famille me pers�cute, on ne
+me tend la main dans mon d�sastre que pour me d�shonorer.  Un
+j�suite a perdu un brave homme, un autre j�suite veut me perdre;
+je ne suis entour�e que de pi�ges, et je touche au moment de
+tomber dans la mis�re.  Il faut que je me tue, ou que je parle au
+roi; je me jetterai � ses pieds sur son passage, quand il ira �
+la messe ou � la com�die.
+
+On ne vous laissera pas approcher, lui dit sa bonne amie; et si
+vous aviez le malheur de parler, mons de Louvois et le r�v�rend
+P. de La Chaise pourraient vous enterrer dans le fond d'un
+couvent pour le reste de vos jours.
+
+Tandis que cette brave personne augmentait ainsi les perplexit�s
+de cette �me d�sesp�r�e, et enfon�ait le poignard dans son coeur,
+arrive un expr�s de M. de Saint-Pouange avec une lettre et deux
+beaux pendants d'oreilles.  Saint-Yves rejeta le tout en
+pleurant; mais l'amie s'en chargea.
+
+D�s que le messager fut parti, la confidente lit la lettre dans
+laquelle on propose un petit souper aux deux amies pour le soir.
+Saint-Yves jure qu'elle n'ira point.  La d�vote veut lui essayer
+les deux boucles de diamants.  Saint-Yves ne le put souffrir;
+elle combattit la journ�e enti�re.  Enfin, n'ayant en vue que son
+amant, vaincue, entra�n�e, ne sachant o� on la m�ne, elle se
+laisse conduire au souper fatal.  Rien n'avait pu la d�terminer �
+se parer des pendants d'oreilles; la confidente les apporta, elle
+les lui ajusta malgr� elle avant qu'on se m�t � table.
+Saint-Yves �tait si confuse, si troubl�e, qu'elle se laissait
+tourmenter; et le patron en tirait un augure tr�s favorable.
+Vers la fin du repas, la confidente se retira discr�tement.  Le
+patron montra alors la r�vocation de la lettre de cachet, le
+brevet d'une gratification consid�rable, celui d'une compagnie,
+et n'�pargna pas les promesses.  Ah!  lui dit Saint-Yves, que je
+vous aimerais si vous ne vouliez pas �tre tant aim�!
+
+Enfin, apr�s une longue r�sistance, apr�s des sanglots, des cris,
+des larmes, affaiblie du combat, �perdue, languissante, il fallut
+se rendre.  Elle n'eut d'autre ressource que de se promettre de
+ne penser qu'� l'Ing�nu, tandis que le cruel jouirait
+impitoyablement de la n�cessit� o� elle �tait r�duite.
+
+
+CHAPITRE XVIII.
+
+Elle d�livre son amant et un jans�niste.
+
+Au point du jour elle vole � Paris, munie de l'ordre du ministre.
+Il est difficile de peindre ce qui se passait dans son coeur
+pendant ce voyage.  Qu'on imagine une �me vertueuse et noble,
+humili�e de son opprobre, enivr�e de tendresse, d�chir�e des
+remords d'avoir trahi son amant, p�n�tr�e du plaisir de d�livrer
+ce qu'elle adore!  Ses amertumes, ses combats, son succ�s,
+partageaient toutes ses r�flexions.  Ce n'�tait plus cette fille
+simple dont une �ducation provinciale avait r�tr�ci les id�es.
+L'amour et le malheur l'avaient form�e.  Le sentiment avait fait
+autant de progr�s en elle que la raison en avait fait dans
+l'esprit de son amant infortun�.  Les filles apprennent � sentir
+plus ais�ment que les hommes n'apprennent � penser.  Son aventure
+�tait plus instructive que quatre ans de couvent.
+
+Son habit �tait d'une simplicit� extr�me.  Elle voyait avec
+horreur les ajustements sous lesquels elle avait paru devant son
+funeste bienfaiteur; elle avait laiss� ses boucles de diamants �
+sa compagne sans m�me les regarder.  Confuse et charm�e, idol�tre
+de l'Ing�nu, et se ha�ssant elle-m�me, elle arrive enfin � la
+porte de
+
+     ...  cet affreux ch�teau, palais de la vengeance,
+     Qui renferme souvent le crime et l'innocence[1].
+
+  [1] _Henriade_,, chant IV, vers 456-57.  B.
+
+
+Quand il fallut descendre du carrosse, les forces lui manqu�rent;
+on l'aida; elle entra, le coeur palpitant, les yeux humides, le
+front constern�.  On la pr�sente au gouverneur; elle veut lui
+parler, sa voix expire; elle montre son ordre en articulant �
+peine quelques paroles.  Le gouverneur aimait son prisonnier; il
+fut tr�s aise de sa d�livrance.  Son coeur n'�tait pas endurci
+comme celui de quelques honorables ge�liers ses confr�res qui, ne
+pensant qu'� la r�tribution attach�e � la garde de leurs captifs,
+fondant leurs revenus sur leurs victimes, et vivant du malheur
+d'autrui, se fesaient en secret une joie affreuse des larmes des
+infortun�s.
+
+Il fait venir le prisonnier dans son appartement.  Les deux
+amants se voient, et tous deux s'�vanouissent.  La belle
+Saint-Yves resta long-temps sans mouvement et sans vie: l'autre
+rappela bient�t son courage.  C'est apparemment l�  madame votre
+femme, lui dit le gouverneur; vous ne m'aviez point dit que vous
+fussiez mari�.  On me mande que c'est � ses soins g�n�reux que
+vous devez votre d�livrance.  Ah!  je ne suis pas digne d'�tre sa
+femme, dit la belle Saint-Yves d'une voix tremblante; et elle
+retomba encore en faiblesse.
+
+Quand elle eut repris ses sens, elle pr�senta, toujours
+tremblante, le brevet de la gratification, et la promesse par
+�crit d'une compagnie.  L'Ing�nu, aussi �tonn� qu'attendri,
+s'�veillait d'un songe pour retomber dans un autre.  Pourquoi
+ai-je �t� renferm� ici?  comment avez-vous pu m'en tirer?  o�
+sont les monstres qui m'y ont plong�?  Vous �tes une divinit� qui
+descendez du ciel � mon secours.
+
+La belle Saint-Yves baissait la vue, regardait son amant,
+rougissait, et d�tournait, le moment d'apr�s, ses yeux mouill�s
+de pleurs.  Elle lui apprit enfin tout ce qu'elle savait, et tout
+ce qu'elle avait �prouv�, except� ce qu'elle aurait voulu se
+cacher pour jamais, et ce qu'un autre que l'Ing�nu, plus
+accoutum� au monde et plus instruit des usages de la cour, aurait
+devin� facilement.
+
+Est-il possible qu'un mis�rable comme ce bailli ait eu le pouvoir
+de me ravir ma libert�?  Ah!  je vois bien qu'il en est des
+hommes comme des plus vils animaux; tous peuvent nuire.  Mais
+est-il possible qu'un moine, un j�suite confesseur du roi, ait
+contribu� � mon infortune autant que ce bailli, sans que je
+puisse imaginer sous quel pr�texte ce d�testable fripon m'a
+pers�cut�?  M'a-t-il fait passer pour un jans�niste?  Enfin,
+comment vous �tes-vous souvenue de moi?  je ne le m�ritais pas,
+je n'�tais alors qu'un sauvage.  Quoi!  vous avez pu sans
+conseil, sans secours, entreprendre le voyage de Versailles!
+Vous y avez paru, et on a bris� mes fers!  Il est donc dans la
+beaut� et dans la vertu un charme invincible qui fait tomber les
+portes de fer, et qui amollit les coeurs de bronze!
+
+A ce mot de _vertu_, des sanglots �chapp�rent � la belle
+Saint-Yves.  Elle ne savait pas combien elle �tait vertueuse dans
+le crime qu'elle se reprochait.
+
+Son amant continua ainsi: Ange, qui avez rompu mes liens, si vous
+avez eu (ce que je ne comprends pas encore) assez de cr�dit pour
+me faire rendre justice, faites-la donc rendre aussi � un
+vieillard qui m'a le premier appris � penser, comme vous m'avez
+appris � aimer.  La calamit� nous a unis; je l'aime comme un
+p�re, je ne peux vivre ni sans vous ni sans lui.
+
+Moi!  que je sollicite le m�me homme qui....--Oui, je veux
+tout vous devoir, et je ne veux devoir jamais rien qu'� vous:
+�crivez � cet homme puissant, comblez-moi de vos bienfaits,
+achevez ce que vous avez commenc�, achevez vos prodiges.  Elle
+sentait qu'elle devait faire tout ce que son amant exigeait: elle
+voulut �crire, sa main ne pouvait ob�ir.  Elle recommen�a trois
+fois sa lettre, la d�chira trois fois; elle �crivit enfin, et les
+deux amants sortirent apr�s avoir embrass� le vieux martyr de la
+gr�ce efficace.
+
+L'heureuse et d�sol�e Saint-Yves savait dans quelle maison
+logeait son fr�re; elle y alla; son amant prit un appartement
+dans la m�me maison.
+
+A peine y furent-ils arriv�s que son protecteur lui envoya
+l'ordre de l'�largissement du bon-homme Gordon, et lui demanda un
+rendez-vous pour le lendemain.  Ainsi, � chaque action honn�te et
+g�n�reuse qu'elle fesait, son d�shonneur en �tait le prix.  Elle
+regardait avec ex�cration cet usage de vendre le malheur et le
+bonheur des hommes.  Elle donna l'ordre de l'�largissement � son
+amant, et refusa le rendez-vous d'un bienfaiteur qu'elle ne
+pouvait plus voir sans expirer de douleur et de honte.  L'Ing�nu
+ne pouvait se s�parer d'elle que pour aller d�livrer un ami: il y
+vola.  Il remplit ce devoir en r�fl�chissant sur les �tranges
+�v�nements de ce monde, et en admirant la vertu courageuse d'une
+jeune fille � qui deux infortun�s devaient plus que la vie.
+
+
+
+CHAPITRE XIX.
+
+L'Ing�nu, la belle Saint-Yves, et leurs parents, sont rassembl�s.
+
+
+La g�n�reuse et respectable infid�le �tait avec son fr�re l'abb�
+de Saint-Yves, le bon prieur de la Montagne, et la dame de
+Kerkabon.  Tous �taient �galement �tonn�s; mais leur situation et
+leurs sentiments �taient bien diff�rents.  L'abb� de Saint-Yves
+pleurait ses torts aux pieds de sa soeur, qui lui pardonnait.  Le
+prieur et sa tendre soeur pleuraient aussi, mais de joie; le
+vilain bailli et son insupportable fils ne troublaient point
+cette sc�ne touchante.  Ils �taient partis au premier bruit de
+l'�largissement de leur ennemi; ils couraient ensevelir dans leur
+province leur sottise et leur crainte.
+
+Les quatre personnages, agit�s de cent mouvements divers,
+attendaient que le jeune homme rev�nt avec l'ami qu'il devait
+d�livrer.  L'abb� de Saint-Yves n'osait lever les yeux devant sa
+soeur: la bonne Kerkabon disait: Je reverrai donc mon cher neveu!
+Vous le reverrez, dit la charmante Saint-Yves, mais ce n'est plus
+le m�me homme; son maintien, son ton, ses id�es, son esprit, tout
+est chang�.  Il est devenu aussi respectable qu'il �tait na�f et
+�tranger � tout.  Il sera l'honneur et la consolation de votre
+famille: que ne puis-je �tre aussi le bonheur de la mienne!  Vous
+n'�tes point non plus la m�me, dit le prieur; que vous est-il
+donc arriv� qui ait fait en vous un si grand changement?
+
+Au milieu de cette conversation l'Ing�nu arrive, tenant par la
+main son jans�niste.  La sc�ne alors devint plus neuve et plus
+int�ressante.  Elle commen�a par les tendres embrassements de
+l'oncle et de la tante.  L'abb� de Saint-Yves se mettait presque
+aux genoux de l'Ing�nu, qui n'�tait plus l'ing�nu.  Les deux
+amants se parlaient par des regards qui exprimaient tous les
+sentiments dont ils �taient p�n�tr�s.  On voyait �clater la
+satisfaction, la reconnaissance, sur le front de l'un; l'embarras
+�tait peint dans les yeux tendres et un peu �gar�s de l'autre.
+On �tait �tonn� qu'elle m�l�t de la douleur � tant de joie.
+
+Le vieux Gordon devint en peu de moments cher � toute la famille.
+Il avait �t� malheureux avec le jeune prisonnier, et c'�tait un
+grand titre.  Il devait sa d�livrance aux deux amants, cela seul
+le r�conciliait avec l'amour; l'�pret� de ses anciennes opinions
+sortait de son coeur: il �tait chang� en homme, ainsi que le
+Huron.  Chacun raconta ses aventures avant le souper.  Les deux
+abb�s, la tante, �coutaient comme des enfants qui entendent des
+histoires de revenants, et comme des hommes qui s'int�ressaient
+tous � tant de d�sastres.  H�las!  dit Gordon, il y a peut-�tre
+plus de cinq cents personnes vertueuses qui sont � pr�sent dans
+les m�mes fers que mademoiselle de Saint-Yves a bris�s: leurs
+malheurs sont inconnus.  On trouve assez de mains qui frappent
+sur la foule des malheureux, et rarement une secourable.  Cette
+r�flexion si vraie augmentait sa sensibilit� et sa
+reconnaissance: tout redoublait le triomphe de la belle
+Saint-Yves; on admirait la grandeur et la fermet� de son �me.
+L'admiration �tait m�l�e de ce respect qu'on sent malgr� soi pour
+une personne qu'on croit avoir du cr�dit � la cour.  Mais l'abb�
+de Saint-Yves disait quelquefois: Comment ma soeur a-t-elle pu
+faire pour obtenir si t�t ce cr�dit?
+
+On allait se mettre � table de tr�s bonne heure: voil� que la
+bonne amie de Versailles arrive, sans rien savoir de tout ce qui
+s'�tait pass�; elle �tait en carrosse � six chevaux, et on voit
+bien � qui appartient l'�quipage.  Elle entre avec l'air imposant
+d'une personne de cour qui a de grandes affaires, salue tr�s
+l�g�rement la compagnie, et tirant la belle Saint-Yves � l'�cart:
+Pourquoi vous faire tant attendre?  Suivez-moi; voil� vos
+diamants que vous aviez oubli�s.  Elle ne put dire ces paroles si
+bas que l'Ing�nu ne les entend�t: il vit les diamants; le fr�re
+fut interdit; l'oncle et la tante n'�prouv�rent qu'une surprise
+de bonnes gens qui n'avaient jamais vu une telle magnificence.
+Le jeune homme, qui s'�tait form� par un an de r�flexions, en fit
+malgr� lui, et parut troubl� un moment.  Son amante s'en aper�ut;
+une p�leur mortelle se r�pandit sur son beau visage, un frisson
+la saisit, elle se soutenait � peine.  Ah!  madame, dit-elle � la
+fatale amie, vous m'avez perdue!  vous me donnez la mort!  Ces
+paroles perc�rent le coeur de l'Ing�nu; mais il avait d�j� appris
+� se poss�der; il ne les releva point, de peur d'inqui�ter sa
+ma�tresse devant son fr�re, mais il p�lit comme elle.
+
+Saint-Yves, �perdue de l'alt�ration qu'elle apercevait sur le
+visage de son amant, entra�ne cette femme hors de la chambre dans
+un petit passage, jette les diamants � terre devant elle.  Ah!
+ce ne sont pas eux qui m'ont s�duite, vous le savez; mais celui
+qui les a donn�s ne me reverra jamais.  L'amie les ramassait, et
+Saint-Yves ajoutait: Qu'il les reprenne ou qu'il vous les donne;
+allez, ne me rendez plus honteuse de moi-m�me.  L'ambassadrice
+enfin s'en retourna, ne pouvant comprendre les remords dont elle
+�tait t�moin.
+
+La belle Saint-Yves, oppress�e, �prouvant dans son corps une
+r�volution qui la suffoquait, fut oblig�e de se mettre au lit;
+mais pour n'alarmer personne elle ne parla point de ce qu'elle
+souffrait; et, ne pr�textant que sa lassitude, elle demanda la
+permission de prendre du repos; mais ce fut apr�s avoir rassur�
+la compagnie par des paroles consolantes et flatteuses, et jet�
+sur son amant des regards qui portaient le feu dans son �me.
+
+Le souper, qu'elle n'animait pas, fut triste dans le
+commencement, mais de cette tristesse int�ressante qui fournit
+de ces conversations attachantes et utiles si sup�rieures � la
+frivole joie qu'on recherche, et qui n'est d'ordinaire qu'un
+bruit importun.
+
+Gordon fit en peu de mots l'histoire et du jans�nisme et du
+molinisme, et des pers�cutions dont un parti accablait l'autre,
+et de l'opini�tret� de tous les deux.  L'Ing�nu en fit la
+critique, et plaignit les hommes qui, non contents de tant de
+discordes que leurs int�r�ts allument, se font de nouveaux maux
+pour des int�r�ts chim�riques, et pour des absurdit�s
+inintelligibles.  Gordon racontait, l'autre jugeait; les convives
+�coutaient avec �motion, et s'�clairaient d'une lumi�re nouvelle.
+On parla de la longueur de nos infortunes et de la bri�vet� de la
+vie.  On remarqua que chaque profession a un vice et un danger
+qui lui sont attach�s, et que, depuis le prince jusqu'au dernier
+des mendiants, tout semble accuser la nature.  Comment se
+trouve-t-il tant d'hommes qui, pour si peu d'argent, se font les
+pers�cuteurs, les satellites, les bourreaux des autres hommes?
+Avec quelle indiff�rence inhumaine un homme en place signe la
+destruction d'une famille, et avec quelle joie plus barbare des
+mercenaires l'ex�cutent!
+
+J'ai vu dans ma jeunesse, dit le bon-homme Gordon, un parent du
+mar�chal de Marillac, qui, �tant poursuivi dans sa province pour
+la cause de cet illustre malheureux, se cachait dans Paris sous
+un nom suppos�.  C'�tait un vieillard de soixante et douze ans.
+Sa femme, qui l'accompagnait, �tait � peu pr�s de son �ge.  Ils
+avaient eu un fils libertin qui, � l'�ge de quatorze ans, s'�tait
+enfui de la maison paternelle; devenu soldat, puis d�serteur, il
+avait pass� par tous les degr�s de la d�bauche et de la mis�re:
+enfin, ayant pris un nom de terre, il �tait dans les gardes du
+cardinal de Richelieu (car ce pr�tre, ainsi que le Mazarin, avait
+des gardes); il avait obtenu un b�ton d'exempt dans cette
+compagnie de satellites.  Cet aventurier fut charg� d'arr�ter le
+vieillard et son �pouse, et s'en acquitta avec toute la duret�
+d'un homme qui voulait plaire � son ma�tre.  Comme il les
+conduisait, il entendit ces deux victimes d�plorer la longue
+suite des malheurs qu'elles avaient �prouv�s depuis leur berceau.
+Le p�re et la m�re comptaient parmi leurs plus grandes infortunes
+les �garements et la perte de leur fils.  Il les reconnut, il ne
+les conduisit pas moins en prison, en les assurant que son
+�minence devait �tre servie de pr�f�rence � tout.  Son �minence
+r�compensa son z�le.
+
+J'ai vu un espion du P. de La Chaise trahir son propre fr�re,
+dans l'esp�rance d'un petit b�n�fice qu'il n'eut point; et je
+l'ai vu mourir, non de remords, mais de douleur d'avoir �t�
+tromp� par le j�suite.
+
+L'emploi de confesseur, que j'ai long-temps exerc�, m'a fait
+conna�tre l'int�rieur des familles; je n'en ai gu�re vu qui ne
+fussent plong�es dans l'amertume, tandis qu'au dehors, couvertes
+du masque du bonheur, elles paraissaient nager dans la joie; et
+j'ai toujours remarqu� que les grands chagrins �taient le fruit
+de notre cupidit� effr�n�e.
+
+Pour moi, dit l'Ing�nu, je pense qu'une �me noble, reconnaissante,
+et sensible, peut vivre heureuse; et je compte bien jouir d'une
+f�licit� sans m�lange avec la belle et g�n�reuse Saint-Yves; car
+je me flatte, ajouta-t-il, en s'adressant � son fr�re avec le
+sourire de l'amiti�, que vous ne me refuserez pas, comme l'ann�e
+pass�e, et que je m'y prendrai d'une mani�re plus d�cente.
+L'abb� se confondit en excuses du pass� et en protestations d'un
+attachement �ternel.
+
+L'oncle Kerkabon dit que ce serait le plus beau jour de sa vie.
+La bonne tante, en s'extasiant et en pleurant de joie, s'�criait:
+Je vous l'avais bien dit que vous ne seriez jamais sous-diacre!
+ce sacrement-ci vaut mieux que l'autre; pl�t � Dieu que j'en
+eusse �t� honor�e!  mais je vous servirai de m�re.  Alors ce fut
+� qui rench�rirait sur les louanges de la tendre Saint-Yves.
+
+Son amant avait le coeur trop plein de ce qu'elle avait fait pour
+lui, il l'aimait trop pour que l'aventure des diamants e�t fait
+sur son coeur une impression dominante.  Mais ces mots qu'il
+avait trop entendus, _vous me donnez la mort_, l'effrayaient
+encore en secret, et corrompaient toute sa joie, tandis que les
+�loges de sa belle ma�tresse augmentaient encore son amour.
+Enfin on n'�tait plus occup� que d'elle; on ne parlait que du
+bonheur que ces deux amants m�ritaient; on s'arrangeait pour
+vivre tous ensemble dans Paris; on fesait des projets de fortune
+et d'agrandissement; on se livrait � toutes ces esp�rances que la
+moindre lueur de f�licit� fait na�tre si ais�ment.  Mais
+l'Ing�nu, dans le fond de son coeur, �prouvait un sentiment
+secret qui repoussait cette illusion.  Il relisait ces promesses
+sign�es Saint-Pouange, et les brevets sign�s Louvois; on lui
+d�peignit ces deux hommes tels qu'ils �taient, ou qu'on les
+croyait �tre.  Chacun parla des ministres et du minist�re avec
+cette libert� de table, regard�e en France comme la plus
+pr�cieuse libert� qu'on puisse go�ter sur la terre.
+
+Si j'�tais roi de France, dit l'Ing�nu, voici le ministre de la
+guerre que je choisirais: je voudrais un homme de la plus haute
+naissance, par la raison qu'il donne des ordres � la noblesse.
+J'exigerais qu'il e�t �t� lui-m�me officier, qu'il e�t pass� par
+tous les grades, qu'il f�t au moins lieutenant-g�n�ral des
+arm�es, et digne d'�tre mar�chal de France; car n'est-il pas
+n�cessaire qu'il ait servi lui-m�me, pour mieux conna�tre les
+d�tails du service? et les officiers n'ob�iront-ils pas avec cent
+fois plus d'all�gresse � un homme de guerre, qui aura comme eux
+signal� son courage, qu'� un homme de cabinet qui ne peut que
+deviner tout au plus les op�rations d'une campagne, quelque
+esprit qu'il puisse avoir?  Je ne serais pas f�ch� que mon
+ministre f�t g�n�reux, quoique mon garde du tr�sor royal en f�t
+quelquefois un peu embarrass�.  J'aimerais qu'il e�t un travail
+facile, et que m�me il se distingu�t par cette ga�t� d'esprit,
+partage d'un homme sup�rieur aux affaires, qui pla�t tant � la
+nation, et qui rend tous les devoirs moins p�nibles.  Il desirait
+que ce ministre e�t ce caract�re, parcequ'il avait toujours
+remarqu� que cette belle humeur est incompatible avec la cruaut�.
+
+Mons de Louvois n'aurait peut-�tre pas �t� satisfait des souhaits
+de l'Ing�nu; il avait une autre sorte de m�rite.
+
+Mais pendant qu'on �tait � table, la maladie de cette fille
+malheureuse prenait un caract�re funeste; son sang s'�tait
+allum�, une fi�vre d�vorante s'�tait d�clar�e, elle souffrait, et
+ne se plaignait point, attentive � ne pas troubler la joie des
+convives.
+
+Son fr�re, sachant qu'elle ne dormait pas, alla au chevet de son
+lit; il fut surpris de l'�tat o� elle �tait.  Tout le monde
+accourut; l'amant se pr�sentait � la suite du fr�re.  Il �tait,
+sans doute, le plus alarm� et le plus attendri de tous; mais il
+avait appris � joindre la discr�tion � tous les dons heureux que
+la nature lui avait prodigu�s, et le sentiment prompt des
+biens�ances commen�ait � dominer dans lui.
+
+On fit venir aussit�t un m�decin du voisinage.  C'�tait un de
+ceux qui visitent leurs malades en courant, qui confondent la
+maladie qu'ils viennent de voir avec celle qu'ils voient, qui
+mettent une pratique aveugle dans une science � laquelle toute la
+maturit� d'un discernement sain et r�fl�chi ne peut �ter son
+incertitude et ses dangers.  Il redoubla le mal par sa
+pr�cipitation � prescrire un rem�de alors � la mode.  De la mode
+jusque dans la m�decine!  Cette manie �tait trop commune dans
+Paris.
+
+La triste Saint-Yves contribuait encore plus que son m�decin �
+rendre sa maladie dangereuse.  Son �me tuait son corps.  La foule
+des pens�es qui l'agitaient portait dans ses veines un poison
+plus dangereux que celui de la fi�vre la plus br�lante.
+
+
+
+CHAPITRE XX.
+
+La belle Saint-Yves meurt, et ce qui en arrive.
+
+
+On appela un autre m�decin: celui-ci, au lieu d'aider la nature,
+et de la laisser agir dans une jeune personne dans qui tous les
+organes rappelaient la vie, ne fut occup� que de contrecarrer son
+confr�re.  La maladie devint mortelle en deux jours.  Le cerveau,
+qu'on croit le si�ge de l'entendement, fut attaqu� aussi
+violemment que le coeur, qui est, dit-on, le si�ge des passions.
+
+Quelle m�canique incompr�hensible a soumis les organes au
+sentiment et � la pens�e?  comment une seule id�e douloureuse
+d�range-t-elle le cours du sang?  et comment le sang � son tour
+porte-t-il ses irr�gularit�s dans l'entendement humain?  quel est
+ce fluide inconnu et dont l'existence est certaine, qui, plus
+prompt, plus actif que la lumi�re, vole, en moins d'un clin
+d'oeil, dans tous les canaux de la vie, produit les sensations,
+la m�moire, la tristesse ou la joie, la raison ou le vertige,
+rappelle avec horreur ce qu'on voudrait oublier, et fait d'un
+animal pensant ou un objet d'admiration, ou un sujet de piti� et
+de larmes?
+
+C'�tait l� ce que disait le bon Gordon; et cette r�flexion si
+naturelle, que rarement font les hommes, ne d�robait rien � son
+attendrissement; car il n'�tait pas de ces malheureux philosophes
+qui s'efforcent d'�tre insensibles.  Il �tait touch� du sort de
+cette jeune fille, comme un p�re qui voit mourir lentement son
+enfant ch�ri.  L'abb� de Saint-Yves �tait d�sesp�r�, le prieur et
+sa soeur r�pandaient des ruisseaux de larmes.  Mais qui pourrait
+peindre l'�tat de son amant?  nulle langue n'a des expressions
+qui r�pondent � ce comble de douleurs; les langues sont trop
+imparfaites.
+
+La tante, presque sans vie, tenait la t�te de la mourante dans
+ses faibles bras; son fr�re �tait � genoux au pied du lit; son
+amant pressait sa main qu'il baignait de pleurs, et �clatait en
+sanglots; il la nommait sa bienfaitrice, son esp�rance, sa vie,
+la moiti� de lui-m�me, sa ma�tresse, son �pouse.  A ce mot
+d'�pouse elle soupira, le regarda avec une tendresse
+inexprimable, et soudain jeta un cri d'horreur; puis, dans un de
+ces intervalles o� l'accablement, et l'oppression des sens, et
+les souffrances suspendues, laissent � l'�me sa libert� et sa
+force, elle s'�cria: Moi, votre �pouse!  ah!  cher amant, ce nom,
+ce bonheur, ce prix, n'�taient plus faits pour moi; je meurs, et
+je le m�rite.  O dieu de mon coeur!  � vous que j'ai sacrifi� �
+des d�mons infernaux, c'en est fait, je suis punie, vivez
+heureux.  Ces paroles tendres et terribles ne pouvaient �tre
+comprises; mais elles portaient dans tous les coeurs l'effroi et
+l'attendrissement; elle eut le courage de s'expliquer.  Chaque
+mot fit fr�mir d'�tonnement, de douleur, et de piti�, tous les
+assistants.  Tous se r�unissaient � d�tester l'homme puissant qui
+n'avait r�par� une horrible injustice que par un crime, et qui
+avait forc� la plus respectable innocence � �tre sa complice.
+
+Qui?  vous coupable!  lui dit son amant; non, vous ne l'�tes pas;
+le crime ne peut �tre que dans le coeur, le v�tre est � la vertu
+et � moi.
+
+Il confirmait ce sentiment par des paroles qui semblaient ramener
+� la vie la belle Saint-Yves.  Elle se sentit consol�e, et
+s'�tonnait d'�tre aim�e encore.  Le vieux Gordon l'aurait
+condamn�e dans le temps qu'il n'�tait que jans�niste; mais, �tant
+devenu sage, il l'estimait, et il pleurait.
+
+Au milieu de tant de larmes et de craintes, pendant que le danger
+de cette fille si ch�re remplissait tous les coeurs, que tout
+�tait constern�, on annonce un courrier de la cour.  Un courrier!
+et de qui?  et pourquoi?  c'�tait de la part du confesseur du roi
+pour le prieur de la Montagne; ce n'�tait pas le P. de La Chaise
+qui �crivait, c'�tait le fr�re Vadbled, son valet de chambre,
+homme tr�s important dans ce temps-l�, lui qui mandait aux
+archev�ques les volont�s du r�v�rend p�re, lui qui donnait
+audience, lui qui promettait des b�n�fices, lui qui fesait
+quelquefois exp�dier des lettres de cachet.  Il �crivait � l'abb�
+de la Montagne �que sa r�v�rence �tait inform�e des aventures de
+son neveu, que sa prison n'�tait qu'une m�prise, que ces petites
+disgr�ces arrivaient fr�quemment, qu'il ne fallait pas y faire
+attention, qu'enfin il convenait que lui prieur v�nt lui
+pr�senter son neveu le lendemain, qu'il devait amener avec lui le
+bon-homme Gordon, que lui fr�re Vadbled les introduirait chez sa
+r�v�rence et chez mons de Louvois, lequel leur dirait un mot dans
+son antichambre.�
+
+Il ajoutait que l'histoire de l'Ing�nu et son combat contre les
+Anglais avaient �t� cont�s au roi, que s�rement le roi daignerait
+le remarquer quand il passerait dans la galerie, et peut-�tre
+m�me lui ferait un signe de t�te.  La lettre finissait par
+l'esp�rance dont on le flattait, que toutes les dames de la cour
+s'empresseraient de faire venir son neveu � leur toilette, que
+plusieurs d'entre elles lui diraient: Bonjour, monsieur l'Ing�nu;
+et qu'assur�ment il serait question de lui au souper du roi.  La
+lettre �tait sign�e: �Votre affectionn� Vadbled, fr�re j�suite.�
+
+Le prieur ayant lu la lettre tout haut, son neveu furieux, et
+commandant un moment � sa col�re, ne dit rien au porteur; mais se
+tournant vers le compagnon de ses infortunes, il lui demanda ce
+qu'il pensait de ce style.  Gordon lui r�pondit: C'est donc ainsi
+qu'on traite les hommes comme des singes!  on les bat et on les
+fait danser.  L'Ing�nu, reprenant son caract�re, qui revient
+toujours dans les grands mouvements de l'�me, d�chira la lettre
+par morceaux, et les jeta au nez du courrier: Voil� ma r�ponse.
+Son oncle �pouvant� crut voir le tonnerre et vingt lettres de
+cachet tomber sur lui.  Il alla vite �crire et excuser, comme il
+put, ce qu'il prenait pour l'emportement d'un jeune homme, et qui
+�tait la saillie d'une grande �me.
+
+Mais des soins plus douloureux s'emparaient de tous les coeurs.
+La belle et infortun�e Saint-Yves sentait d�j� sa fin approcher;
+elle �tait dans le calme, mais dans ce calme affreux de la nature
+affaiss�e qui n'a plus la force de combattre.  O mon cher amant!
+dit-elle d'une voix tombante, la mort me punit de ma faiblesse;
+mais j'expire avec la consolation de vous savoir libre.
+
+Je vous ai ador� en vous trahissant, et je vous adore en vous
+disant un �ternel adieu.
+
+Elle ne se parait pas d'une vaine fermet�; elle ne concevait pas
+cette mis�rable gloire de faire dire � quelques voisins: Elle est
+morte avec courage.  Qui peut perdre � vingt ans son amant, sa
+vie, et ce qu'on appelle l'_honneur_, sans regrets et sans
+d�chirements?  Elle sentait toute l'horreur de son �tat, et le
+fesait sentir par ces mots et par ces regards mourants qui
+parlent avec tant d'empire.  Enfin elle pleurait comme les autres
+dans les moments o� elle eut la force de pleurer.
+
+Que d'autres cherchent � louer les morts fastueuses de ceux qui
+entrent dans la destruction avec insensibilit�: c'est le sort de
+tous les animaux.  Nous ne mourons comme eux avec indiff�rence,
+que quand l'�ge ou la maladie nous rend semblables � eux par la
+stupidit� de nos organes.  Quiconque fait une grande perte a de
+grands regrets; s'il les �touffe, c'est qu'il porte la vanit�
+jusque dans les bras de la mort.
+
+Lorsque le moment fatal fut arriv�, tous les assistants jet�rent
+des larmes et des cris.  L'Ing�nu perdit l'usage de ses sens.
+Les �mes fortes ont des sentiments bien plus violents que les
+autres, quand elles sont tendres.  Le bon Gordon le connaissait
+assez pour craindre qu'�tant revenu � lui il ne se donn�t la
+mort.  On �carta toutes les armes; le malheureux jeune homme s'en
+aper�ut; il dit � ses parents et � Gordon, sans pleurer, sans
+g�mir, sans s'�mouvoir: Pensez-vous donc qu'il y ait quelqu'un
+sur la terre qui ait le droit et le pouvoir de m'emp�cher de
+finir ma vie?  Gordon se garda bien de lui �taler ces lieux
+communs fastidieux par lesquels on essaie de prouver qu'il n'est
+pas permis d'user de sa libert� pour cesser d'�tre quand on est
+horriblement mal, qu'il ne faut pas sortir de sa maison quand on
+ne peut plus y demeurer, que l'homme est sur la terre comme un
+soldat � son poste: comme s'il importait � l'Etre des �tres que
+l'assemblage de quelques parties de mati�re f�t dans un lieu ou
+dans un autre; raisons impuissantes qu'un d�sespoir ferme et
+r�fl�chi d�daigne d'�couter, et auxquelles Caton ne r�pondit que
+par un coup de poignard.
+
+Le morne et terrible silence de l'Ing�nu, ses yeux sombres, ses
+l�vres tremblantes, les fr�missements de son corps, portaient
+dans l'�me de tous ceux qui le regardaient ce m�lange de
+compassion et d'effroi qui encha�ne toutes les puissances de
+l'�me, qui exclut tout discours, et qui ne se manifeste que par
+des mots entrecoup�s.  L'h�tesse et sa famille �taient accourues;
+on tremblait de son d�sespoir, on le gardait � vue, on observait
+tous ses mouvements.  D�j� le corps glac� de la belle Saint-Yves
+avait �t� port� dans une salle basse, loin des yeux de son amant,
+qui semblait la chercher encore, quoiqu'il ne f�t plus en �tat de
+rien voir.
+
+Au milieu de ce spectacle de la mort, tandis que le corps est
+expos� � la porte de la maison, que deux pr�tres � c�t� d'un
+b�nitier r�citent des pri�res d'un air distrait, que des passants
+jettent quelques gouttes d'eau b�nite sur la bi�re par oisivet�,
+que d'autres poursuivent leur chemin avec indiff�rence, que les
+parents pleurent, et qu'un amant est pr�t de s'arracher la vie,
+le Saint-Pouange arrive avec l'amie de Versailles.
+
+Son go�t passager, n'ayant �t� satisfait qu'une fois, �tait
+devenu de l'amour.  Le refus de ses bienfaits l'avait piqu�.  Le
+P. de La Chaise n'aurait jamais pens� � venir dans cette maison;
+mais Saint-Pouange ayant tous les jours devant les yeux l'image
+de la belle Saint-Yves, br�lant d'assouvir une passion qui par
+une seule jouissance avait enfonc� dans son coeur l'aiguillon des
+d�sirs, ne balan�a pas � venir lui-m�me chercher celle qu'il
+n'aurait pas peut-�tre voulu revoir trois fois, si elle �tait
+venue d'elle-m�me.
+
+Il descend de carrosse; le premier objet qui se pr�sente � lui
+est une bi�re; il d�tourne les yeux avec ce simple d�go�t d'un
+homme nourri dans les plaisirs, qui pense qu'on doit lui �pargner
+tout spectacle qui pourrait le ramener � la contemplation de la
+mis�re humaine.  Il veut monter.  La femme de Versailles demande
+par curiosit� qui on va enterrer; on prononce le nom de
+mademoiselle de Saint-Yves.  A ce nom, elle p�lit et pousse[1] un
+cri affreux; Saint-Pouange se retourne; la surprise et la douleur
+remplissent son �me.  Le bon Gordon �tait l�, les yeux remplis de
+larmes.  Il interrompt ses tristes pri�res pour apprendre �
+l'homme de cour toute cette horrible catastrophe.  Il lui parle
+avec cet empire que donnent la douleur et la vertu.
+Saint-Pouange n'�tait point n� m�chant; le torrent des affaires
+et des amusements avait emport� son �me, qui ne se connaissait
+pas encore.  Il ne touchait point � la vieillesse, qui endurcit
+d'ordinaire le coeur des ministres; il �coutait Gordon, les yeux
+baiss�s, et il en essuyait quelques pleurs qu'il �tait �tonn� de
+r�pandre: il connut le repentir.
+
+  [1] Toutes les �ditions, depuis 1767 jusques et compris les
+  �ditions de Kehl et quelques unes de celles qui les ont
+  suivies, portent: _poussa_.  C'est un erratum manuscrit de feu
+  Decrois qui a propos� de mettre _pousse_.  B.
+
+Je veux voir absolument, dit-il, cet homme extraordinaire dont
+vous m'avez parl�; il m'attendrit presque autant que cette
+innocente victime dont j'ai caus� la mort.  Gordon le suit
+jusqu'� la chambre o� le prieur, la Kerkabon, l'abb� de
+Saint-Yves, et quelques voisins, rappelaient � la vie le jeune
+homme retomb� en d�faillance.
+
+J'ai fait votre malheur, lui dit le sous-ministre, j'emploierai
+ma vie � le r�parer.  La premi�re id�e qui vint � l'Ing�nu fut de
+le tuer, et de se tuer lui-m�me apr�s.  Rien n'�tait plus � sa
+place; mais il �tait sans armes et veill� de pr�s.  Saint-Pouange
+ne se rebuta point des refus accompagn�s du reproche, du m�pris,
+et de l'horreur qu'il avait m�rit�s, et qu'on lui prodigua.  Le
+temps adoucit tout.  Mons de Louvois vint enfin � bout de faire
+un excellent officier de l'Ing�nu, qui a paru sous un autre nom �
+Paris et dans les arm�es, avec l'approbation de tous les honn�tes
+gens, et qui a �t� �-la-fois un guerrier et un philosophe
+intr�pide.
+
+Il ne parlait jamais de cette aventure sans g�mir; et cependant
+sa consolation �tait d'en parler.  Il ch�rit la m�moire de la
+tendre Saint-Yves jusqu'au dernier moment de sa vie.  L'abb� de
+Saint-Yves et le prieur eurent chacun un bon b�n�fice; la bonne
+Kerkabon aima mieux voir son neveu dans les honneurs militaires
+que dans le sous-diaconat.  La d�vote de Versailles garda les
+boucles de diamants, et re�ut encore un beau pr�sent.  Le
+P. Tout-�-tous eut des bo�tes de chocolat, de caf�, de sucre
+candi, de citrons confits, avec les _M�ditations du r�v�rend
+P. Croiset_ et _la Fleur des saints_[2] reli�es en maroquin.  Le
+bon Gordon v�cut avec l'Ing�nu jusqu'� sa mort dans la plus
+intime amiti�; il eut un b�n�fice aussi, et oublia pour jamais la
+gr�ce efficace et le concours concomitant.  Il prit pour sa
+devise: _Malheur est bon � quelque chose_.  Combien d'honn�tes
+gens dans le monde ont pu dire: _Malheur n'est bon � rien!_
+
+  [1] La _Fleur des saints_ est du j�suite Ribadeneira; voyez
+  tome XXIX, page 33; et dans le tome XIV, une note du _Russe �
+  Paris_, et une du _Marseillais et le Lion_.  B.
+The Project Gutenberg Etext of L'Ingenu
+by Voltaire
+******This file should be named linge10.txt or linge10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, linge11.txt
+VERSIONS based on separate sources get new LETTER, linge10a.txt
+
+Produced by Carlo Traverso.
+
+***
+
+More information about this book is at the top of this file.
+
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/eBook03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/eBook03
+
+Or /eBook02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+The most recent list of states, along with all methods for donations
+(including credit card donations and international donations), may be
+found online at http://www.gutenberg.net/donation.html
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this header are copyright (C) 2001 by Michael S. Hart
+and may be reprinted only when these eBooks are free of all fees.]
+[Project Gutenberg is a TradeMark and may not be used in any sales
+of Project Gutenberg eBooks or other materials be they hardware or
+software or any other related product without express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+
+
+
+End of The Project Gutenberg Etext of L'Ingenu
+by Voltaire
+

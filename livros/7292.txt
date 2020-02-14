@@ -1,0 +1,4253 @@
+Project Gutenberg's Leben und Tod des Koenigs Johann, by William Shakespeare
+#14 in our series by William Shakespeare
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Leben und Tod des Koenigs Johann
+
+Author: William Shakespeare
+
+Release Date: January, 2005 [EBook #7292]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on April 7, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ISO-Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK LEBEN UND TOD DES KOENIGS JOHANN ***
+
+
+
+
+Produced by Delphine Lettau
+
+
+
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg.spiegel.de/.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verf�gung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.spiegel.de/ erreichbar.
+
+
+
+
+Leben und Tod des K�nigs Johann.
+
+William Shakespeare
+
+�bersetzt von Christoph Martin Wieland
+
+
+Personen.
+
+K�nig Johann von England.
+Prinz Heinrich, sein Sohn und Nachfolger.
+Arthur, Herzog von Bretagne, Neffe des K�nigs.
+Hubert, Vertrauter des K�nigs.
+Pembrok, Essex, Salisbury und Bigot, Englische Lords.
+Faulconbridge, nachmals Sir Richard Plantagenet, unehlicher Sohn
+K�nig Richards des Ersten.
+Robert Faulconbridge, vermeynter Bruder des Bastards.
+Jacob Gurney, Diener der Lady Faulconbridge.
+Peter von Pomfret, ein Prophet.
+Philipp, K�nig von Frankreich.
+Ludwig, der Dauphin.
+Der Herzog von �streich.
+Cardinal Pandolpho, des Pabsts Legat.
+Melun, ein Franz�sischer vom Adel.
+Chatilion, Franz�sischer Gesandter bey K�nig Johann.
+Elinor, K�nigin-Mutter von England.
+Constantia, Arthurs Mutter.
+Blanca, Tochter K�nigs Alphonso von Castilien, und Nichte des
+K�nigs Johann.
+Lady Faulconbridge, Mutter des Bastard und des Robert Faulconbridge.
+B�rger von Angiers, Herolde, Nachrichter, Boten, Soldaten und andre
+stumme Personen.
+Der Schauplaz, zuweilen in England, zuweilen in Frankreich.
+
+
+
+
+Erster Aufzug.
+
+
+
+Erste Scene.
+(Der Engl�ndische Hof.)
+(K�nig Johann, die K�nigin Elinor, Pembroke, Essex und Salisb�ry
+ mit Chatilion treten auf.)
+
+
+K�nig Johann.
+Wohlan, saget Chatilion, was will Frankreich von uns?
+
+Chatilion.
+So spricht, n�chst seinem Gru� der K�nig von Frankreich, durch mich,
+mit der Majest�t, der geborgten Majest�t von England hier--
+
+Elinor.
+Ein ausserordentlicher Eingang; geborgte Majest�t!
+
+K�nig Johann.
+Seyd ruhig, meine werthe Mutter; h�rt die Gesandtschaft.
+
+Chatilion.
+Philipp von Frankreich nimmt im Namen und in Kraft des Rechts von
+deines verstorbnen Bruders* Gottfried Sohn, Arthur's Plantagenet,
+rechtm��igen Anspruch an diese sch�ne Insel, an Irrland, Poitiers,
+Anjou, Touraine und Maine, und begehrt von dir, da� du das Schwerdt
+niederlegest, das einer unrechtm��igen Herrschaft �ber diese
+verschiednen Titel sich anmasset, und solches dem jungen Arthur
+einh�ndigest, deinem Neffen und rechtm��igen souverainen K�nig.
+
+{ed.-* (Geoffroi Plantagenette), Sohn des Grafen von Anjou, bekam
+durch seine Verm�hlung mit K�nig Heinrich des 1sten von England
+einziger Tochter und erkl�rten Erbin, Matthilde, ein Recht an die
+Crone von England, wozu sein �ltester Sohn nachmals unter dem Namen
+Heinrichs des 2ten w�rklich gelangte.  Heinrich der 2te vereinigte
+also mit der Crone von England Anjou, Poitou, Touraine und Maine,
+und durch seine Verm�hlung mit Eleonor, Erbin von Aquitanien, (die
+von ihrem ersten Gemahl (Louis le Jeune) von Frankreich, wegen
+Untreue verstossen worden,) auch das Herzogthum Aquitanien.  Seinen
+�ltesten Sohn Gottfried (von welchem hier die Rede ist), verm�hlte
+er mit Constantia, Tochter und Erbin von Conan Grafen von Bretagne;
+die Crone hingegen kam nach Heinrichs Tod an seinen j�ngern Sohn
+Richard (Coeur de Lion.) Nach dessen Abgang bemeisterte sich
+(Johannes sine Terra), dessen Geschichte dieses St�k enth�lt, zum
+Nachtheil Arthurs, des hinterla�nen Erben seines �ltern Bruders
+Gottfrieds von Bretagne, der Crone, und der von Heinrich dem 2ten
+derselben einverleibten Franz�sischen Besizungen; und der dar�ber
+zwischen ihm und dem K�nig (Philippe Auguste) entstandne Krieg
+macht den Anfang dieses Trauerspiels.}
+
+K�nig Johann.
+Und was folget, wenn wir uns dessen weigern?
+
+Chatilion.
+Der stolze Widerspruch eines blutigen Kriegs, dir mit Gewalt die
+Rechte abzudr�ngen, die du gewaltth�tiger Weise vorenth�ltst.
+
+K�nig Johann.
+Hier haben wir Krieg um Krieg, Blut um Blut und Wiederspruch um
+Wiederspruch; antwortet das dem K�nig von Frankreich.
+
+Chatilion.
+So nimm dann die Kriegs-Erkl�rung meines K�nigs aus meinem Munde,
+den lezten Auftrag meiner Gesandtschaft.
+
+K�nig Johann.
+Bring ihm die meinige zur�k, und so scheid' im Frieden; denn eh du
+berichtet haben kanst, da� ich kommen werde, soll Frankreich den
+Donner meiner Canonen h�ren.** Hinweg dann; sey du die Trompete
+unsers Zorns, und das pl�zliche Vorzeichen euers Untergangs.
+Pembrok, sorget daf�r, da� er mit einem anst�ndigen Geleit aus
+unserm Reich entlassen werde; lebe wohl, Chatilion.
+
+{ed.-** Zu Anfang des dreizehnten Seculi nemlich.}
+
+(Chatilion und Pembroke gehen ab.)
+
+Elinor.
+Wie nun, mein Sohn?  Sagt' ich nicht immer, diese ehrgeizige
+Constantia werde nicht ruhen, bis sie Frankreich und alle Welt f�r
+die Anspr�che ihres Sohns in Flammen gesezt habe?  Allem diesem
+h�tte man zuvorkommen und in der G�te beylegen k�nnen, was nun der
+blutige und gefahrvolle Kampf zweyer K�nigreiche entscheiden soll.
+
+K�nig Johann.
+Unser v�lliger Besiz, und unser Recht--
+
+Elinor.
+Wenn unser Besiz nicht kr�ftiger ist als unser Recht, so mu� es uns
+beyden �bel gehen; la�t euch mein Gewissen das ins Ohr sagen, da es
+niemand h�rt als der Himmel, ihr und ich.
+
+Essex.
+Gn�digster Herr, es ist hier eine Streitsache, die aus der Provinz
+zu Eurer Majest�t Entscheidung gebracht wird, die seltsamste, die
+ich jemals geh�rt.  Soll ich die Partheyen hereinf�hren?
+
+K�nig Johann.
+La�t sie herein kommen--Unsre Abteyen und Prioreyen sollen die
+Unkosten dieses Kriegs bezahlen--Wer seyd ihr?
+
+
+
+Zweyte Scene.
+(Robert Faulconbridge und Philipp, sein Bruder, der Bastard,
+ treten auf.)
+
+
+Philipp.
+Euer Majest�t getreuer Unterthan, ein Edelmann in Northamptonshire
+gebohren, und wie ich behaupte, der �lteste Sohn von Robert
+Faulconbridge, einem Kriegsmann, den die ehrenvolle Hand des K�nigs
+Richard (Coeur-de-Lion) im Felde zum Ritter geschlagen.
+
+K�nig Johann (zu Robert.)
+Wer bist du?
+
+Robert.
+Der Sohn und Erbe von diesem nemlichen Faulconbridge.
+
+K�nig Johann.
+Ist dieser der �ltere, und du bist der Erbe?  Ihr seyd also nicht
+von einer Mutter, scheint es?
+
+Philipp.
+Wir sind ganz gewi� von einer Mutter, m�chtiger K�nig, das ist
+jedermann bekannt, und, wie ich glaube, auch von einem Vater; doch
+wegen der Gewi�heit dieses leztern Puncts mu� ich Euer Majest�t an
+den Himmel und meine Mutter anweisen; denn davon bin ich nicht
+gewisser als alle andre Menschen-Kinder.
+
+Elinor.
+Hinweg mit dir, du ungesitteter Mensch!  Sch�mst du dich nicht,
+deiner Mutter Ehre durch diesen Zweifel zu verwunden?
+
+Philipp.
+Auch thue ich es nicht, Gn�digste Frau; ich habe keine Ursache dazu,
+das ist meines Bruders Sache, das geht mich nichts an; wenn er so
+was beweisen kan, so bringt er mich wenigstens um sch�ne
+f�nfhundert Pfund des Jahrs; der Himmel sch�ze meiner Mutter Ehre
+und mein Erbgut!
+
+K�nig Johann.
+Ein guter runder Geselle; aber warum macht er denn einen Anspruch
+an dein Erbgut, wenn er der j�ngere Bruder ist?
+
+Philipp.
+Ich wei� nicht warum, ausser da� er gerne meine G�ter h�tte; es ist
+wahr, er warf mir einmal vor, da� ich unehlich gezeugt sey, allein
+das ist eine Sache, die ich lediglich meiner Mutter �berlasse; ich
+kan nicht wissen, ob ich ehlich oder unehlich gezeugt bin; aber das
+wei� ich, da� ich eben so wohl gemacht bin als er.  (Sanft m�gen
+die Gebeine ruhen, die diese M�he f�r mich genommen haben!)
+Vergleichet unsre Gesichter, gn�digster Herr, und thut den
+Ausspruch.  Wenn der alte Sir Robert uns beyde gemacht hat, und
+dieser Sohn ihm �hnlich sieht; o alter Sir Robert, so dank ich dem
+Himmel auf meinen Knien, da� ich dir nicht �hnlich sehe.
+
+K�nig Johann.
+Ha, was f�r einen Pikelh�ring hat uns der Himmel hier zugeschikt?
+
+Elinor.
+Er hat einen Zug von (Coeur de Lion's) Gesicht, und einen �hnlichen
+Ton der Stimme; findet ihr nicht einige �hnlichkeiten mit meinem
+Sohn, in der st�mmichten Gestalt dieses jungen Menschen?
+
+K�nig Johann.
+Ich betrachte ihn schon lange de�wegen, und find' ihn durchaus
+Richard;
+
+(zu Robert.)
+
+Nun, Geselle, sage dann, was bewegt dich einen Anspruch an deines
+Bruders G�ter zu machen?
+
+Philipp.
+Weil er ein halbes Gesicht hat, wie mein Vater; um dieses halben
+Gesichts willen m�cht er gerne mein ganzes Erbgut haben; ein
+groschenm��iges Halb-Gesicht, f�nfhundert Pfund des Jahrs!
+
+Robert.
+Mein gn�digster Souverain, wie mein Vater noch lebte, brauchte der
+K�nig, euer Bruder, meinen Vater viel--
+
+
+Philipp.
+Gut, Herr, das kan euch nichts von meinen G�tern geben; ihr m��t
+sagen, wie er meine Mutter brauchte.
+
+Robert.
+--und verschikte ihn einst in einer Gesandtschaft nach Deutschland,
+wo er �ber wichtige Angelegenheiten der damaligen Zeit mit dem
+Kayser Unterhandlung pflegen sollte; der K�nig machte sich indessen
+seine Abwesenheit zu Nuze, und hielt sich die ganze Zeit �ber in
+meines Vaters Haus auf; wie er's da so weit gebracht, da� er--ich
+sch�me mich es zu sagen; allein Wahrheit ist Wahrheit; Kurz, es
+lagen Meere und L�nder zwischen meinem Vater und meiner Mutter, wie
+dieser junge Herr hier gezeugt wurde; das hab' ich aus meines
+Vaters eignem Munde.  Auf seinem Todbette vermachte er seine G�ter
+durch ein Testament mir, und blieb bis in seinen Tod dabey, da�
+dieser, meiner Mutter Sohn, nicht der seinige sey; und wenn er's
+auch w�re, so kam er volle vierzehn Wochen vor der gesezm��igen
+Zeit in die Welt: Ich bitte also Euer Majest�t mir zuzusprechen,
+was mein ist, meines Vaters G�ter, nach meines Vaters leztem Willen.
+
+K�nig Johann.
+Mein guter Kerl, euer Bruder ist in der Ehe gebohren; euers Vaters
+Weib brachte ihn w�hrend ihrem Ehestand; wenn sie untreu war, so
+ist es ihr Fehler, und ein Zufall dem alle M�nner ausgesezt sind,
+welche Weiber nehmen.  Sag mir einmal, wie, wenn mein Bruder, der
+deinem Vorgeben nach, die M�he nahm diesen Sohn zu zeugen, ihn
+deinem Vater als seinen Sohn abgefodert h�tte?  H�tte nicht dein
+Vater ein Kalb, das ihm seine Kuh gebracht, gegen die Anspr�che der
+ganzen Welt behaupten k�nnen?  Wahrhaftig, guter Freund, das h�tt'
+er k�nnen; gesezt also auch, er w�re meines Bruders Sohn, so h�tte
+doch mein Bruder keinen Anspruch an ihn machen, noch h�tt' ihn euer
+Vater de�wegen, weil er nicht sein sey, verl�ugnen k�nnen; aus
+allem diesem folgt also, da� meiner Mutter Sohn euers Vaters Erben
+zeugte, und da� euers Vaters Erbe euers Vaters G�ter haben mu�.
+
+Robert.
+Soll denn meines Vaters lezter Wille keine Kraft haben, ein Kind zu
+enterben, das nicht sein ist?
+
+Philipp.
+Von keiner gr�ssern Kraft mich zu enterben, Herr, als, denk ich,
+sein Wille mich zu zeugen war.
+
+Elinor.
+Was wolltest du lieber seyn, ein Faulconbridge, wie dieser hier, um
+deine G�ter zu haben; oder ein nat�rlicher Sohn von (Coeur de Lion),
+ein Prinz vom Gebl�te, und keine G�ter dazu?
+
+Philipp.
+Gn�digste Frau, und wenn mein Bruder meine Gestalt h�tte, und ich
+h�tte die seinige, Sir Roberts seine, wie er; und wenn meine Beine
+zwo solche Spindeln w�ren, meine Arme solch Aalhautiges Zeug, und
+mein Gesicht so d�nne, da� ich keine Rose* in mein Ohr steken
+k�nnte, ohne da� die Leute sagten: Seht, da geht Drey-Viertels-
+Pfennig--Und wenn gleich diese Gestalt Erbe von allen seinen G�tern
+w�re, so will ich nimmer von diesem Plaz kommen, wenn ich sie nicht
+von Fu� auf hingeben wollte, um dieses Gesicht zu haben; ich wollt'
+um alles in der Welt nicht Sir Nobb seyn.
+
+{ed.-* Um diese Anspielung zu verstehen mu� man wissen, da� die
+K�nigin Elisabeth unter allen Beherrschern von England die erste
+und lezte war, die Drey-Halb-Pfenninge, und Drey-Viertels-Pfenninge
+schlagen lie�, auf denen sich ihr Bildni� bald mit bald ohne die
+Rose, befand.  Theobald.}
+
+Elinor.
+Du gef�llst mir; willt du dein Erbtheil vergessen, ihm deine G�ter
+�berlassen und mir folgen?  Ich bin ein Soldat, und im Begriff
+wider Frankreich Dienste zu thun.
+
+Philipp.
+Bruder, nimm du meine G�ter, und la� mir mein Gesicht, das deinig'
+hat dir f�nfhundert Pfund j�hrlich erworben; aber wenn du es f�r
+f�nf Pfenning verkauffen kanst, so glaube du habest wohl gel��t.
+Gn�digste Frau, ich bin bereit, euch bis in den Tod zu folgen.
+
+Elinor.
+Was das betrift, so will ich lieber da� ihr mir voran geht.
+
+Philipp.
+In unsrer Provinz erfordert die H�flichkeit, da� man die Vornehmern
+zuerst gehen lasse.
+
+K�nig Johann.
+Wie nennst du dich?
+
+Philipp.
+Philipp, Gn�digster Souverain, so ward ich genennt; Philipp, des
+guten alten Sir Roberts seiner Frauen �ltester Sohn.
+
+K�nig Johann.
+Von nun trage den Namen von dem, dessen Gestalt du tr�gst; knie
+nieder, Philipp, um gr�sser aufzustehen.
+
+(Er schl�gt ihn zum Ritter.)
+
+Steh als Sir Richard Plantagenet auf.
+
+Philipp.
+Bruder von m�tterlicher Seite, gebt mir eure Hand; mein Vater gab
+mir Ehre, der eure giebt euch Land.  Nun, gesegnet sey die Stunde,
+es mag Nacht oder Tag gewesen seyn, da ich gezeugt und Sir Robert
+abwesend war.
+
+Elinor.
+Der echte Geist der Plantagenet's.  Ich bin deine Gro�mutter,
+Richard, nenne mich so.
+
+Philipp.
+Durch einen Zufall, Gn�digste Frau, nicht in der Ordnung; doch was
+thut das?  Ob man zum Fenster hinein kommt oder zur Th�re, wenn man
+nur drinn ist; n�her oder weiter vom Ziel, wohl getroffen ist wohl
+geschossen, und ich bin ich, ich mag gezeugt seyn wie ich will.
+
+K�nig Johann.
+Geh, Faulconbridge, du hast nun was du w�nschtest; ein g�terloser
+Ritter macht dich zu einem beg�terten Junker.  Kommt, Madam; komm,
+Richard, wir m�ssen nach Frankreich eilen, nach Frankreich, es ist
+h�chste Zeit.
+
+Philipp.
+Bruder, leb wohl; ich w�nsche dir viel Gl�ks, denn du bist mit
+Erlaubni� der Geseze auf die Welt gekommen.
+
+(Alle gehen ab, bis auf Philipp.)
+
+
+
+Dritte Scene.
+
+
+Philipp.
+Meine Ehre steht nun auf einem bessern Fu� als zuvor, aber mein
+Verm�gen hat sich um manchen Fu� Landes verschlimmert.  Sey es dann;
+izt kan ich doch ein jedes Gretchen zu einer Lady machen--"Guten
+Tag, Sir Richard"--Grossen Dank, Camerad--und wenn er G�rge hei�t,
+kan ich ihn Peter nennen; denn neugebakner Adel vergi�t der Leute
+Nahmen; man w�rde zuviel vergeben, wenn man noch auf solche
+Kleinigkeiten acht haben wollte, und solche Leute sind nicht fein
+genug f�r eure Gesellschaft.  Izt ist der gerei�te Mann* meiner
+Gnaden Tisch-Genosse, er und sein Zahnstocher; und wenn mein
+ritterlicher Magen angef�llt ist, nun dann saug' ich an meinen
+Z�hnen, und catechisire meinen Spizbart aus fremden L�ndern--
+(Mein werther Herr), (so fang ich auf meinen Ellenbogen gest�zt an,)
+(darf ich euch bitten)--das ist nun die Frage; und dann kommt
+gleich die Antwort wie ein ABC-Buch: (O mein Herr,) sagt die Antwort,
+(ich bin g�nzlich zu euerm Befehl, zu euern Diensten, ganz der
+Eurige, mein Herr--Nein, mein Herr,)sagt die Frage, (ich, mein
+werthester Herr, bin der Eurige;)und so, eh die Antwort recht
+geh�rt hat was die Frage will, wartet sie euch schon mit einem
+Dialogus von Complimenten auf, spricht dann von Alpen und Apenninen,
+von den Pyren�en und dem Flusse Po, und wei� das Gespr�ch so lange
+hinaus zu ziehen, bis es vom Abend-Essen abgebrochen wird.  Das ist
+polite Gesellschaft, die sich f�r einen emporstrebenden Geist, wie
+der meinige, schikt!  Denn der ist nur ein Bastard der Zeit, der
+die Kunst nicht versteht sich beliebt zu machen, und nicht nur in
+seiner �usserlichen Gestalt, in seinem Aufzug und in seinen
+Manieren, dem Geschmak seiner Zeit schmeichelt; sondern auch aus
+einer innerlichen Quelle den s�ssen, s�ssen, s�ssen Gift, der den
+Gaumen der Leute so reizend k�zelt, von sich zu geben wei�.  Eine
+Kunst, die ich zwar nicht aus�ben will, um andre zu betr�gen, aber
+die ich zu lernen gedenke, damit ich von andern nicht betrogen
+werde.  Sie soll die Stuffen meiner Erh�hung mit Blumen bestreuen.
+Aber wer kommt hier so eilfertig, in Reit-Kleidern?  Was f�r ein
+weiblicher Courier ist di�?  Hat sie keinen Mann, der die M�h
+nehmen mag, ein Horn vor ihr her zu blasen?  Himmel, es ist meine
+Mutter!  Nun, meine werthe Lady, was bringt euch so eilfertig nach
+Hofe?
+
+{ed.-* Es ist bekannt, da� damals alle Welt auf Abentheuer
+ausgieng, und gerei�te Leute in gr��tem Ansehn stuhnden, und, wie
+bey unsern Nachbarn die (Beaux-Esprits), das Recht hatten, sich bey
+grossen Herren zu Gaste zu laden.}
+
+
+
+Vierte Scene.
+(Lady Faulconbridge, und Jacob Gurney treten auf.)
+
+
+Lady.
+Wo ist der Sclave, dein Bruder; wo ist er, der sich erfrecht meine
+Ehre �ffentlich anzutasten?
+
+Philipp.
+Mein Bruder Robert, des alten Sir Roberts Sohn, Colbrand, der Riese,
+der nemliche gewaltige Mann; ist es Sir Robert's Sohn, den ihr
+sucht?
+
+Lady.
+Sir Roberts Sohn?  Ja, du unehrerbietiger Junge, Sir Roberts Sohn;
+warum spottest du �ber Sir Roberten?
+
+Philipp.
+Jacob Gurney, willt du so gut seyn, und uns ein wenig allein lassen?
+
+Gurney.
+Von Herzen gerne, mein lieber Philipp.
+
+Philipp.
+Philipp!--Verschone mich, Jacob; es sind kurzweilige Dinge heraus
+gekommen; hernach ein mehrers davon.
+
+(Jacob geht ab.)
+
+Gn�dige Frau, ich war nie des alten Sir Roberts Sohn; Sir Robert
+h�tte seinen Theil an mir an einem Charfreytag essen k�nnen, ohne
+da� er seine Fasten gebrochen h�tte.  Sir Robert war ein ganz
+wakrer Mann; aber, meiner Treu, bekennt die Wahrheit!  H�tt' er
+mich machen k�nnen?  Das konnte Sir Robert nicht; wir kennen seine
+Arbeit.  Sagt mir also, liebe Mutter, wem bin ich f�r diese Figur
+verpflichtet?  Sir Robert konnte nimmermehr so ein Bein machen
+helfen?
+
+Lady.
+Hast du dich auch mit deinem Bruder wider mich verschworen?  Du,
+der um deines eignen Vortheils willen meine Ehre vertheidigen
+sollte?  Was soll dieses Gesp�tte bedeuten, du h�chst unbesonnener
+Bube?
+
+Philipp.
+Ritter, Ritter, liebe Mutter--und Basilisco* �hnlich.  Wie?  ich
+bin zum Ritter geschlagen; ich hab es auf meiner Schulter.  Aber
+Mutter, ich bin nicht Sir Roberts Sohn; ich hab auf Sir Robert und
+meine G�ter Verzicht gethan; ehliche Geburt, Name, alles ist hin;
+la� mich also, liebe Mutter, la� mich meinen Vater kennen; irgend
+ein wakrer Mann, hoff ich; wer war es, Mutter?
+
+{ed.-* Eine Anspielung auf den Beynamen (Coeur de Lion), den K�nig
+Richard f�hrte.  (Cor Leonis), ein Fixstern von der ersten Gr�sse
+im L�wen, wird auch Basilisco genennt.  Warb�rton.}
+
+Lady.
+Hast du dem Namen Faulconbridge entsagt?
+
+Philipp.
+So herzlich, als ich dem Teufel entsage.
+
+Lady.
+K�nig Richard, (Coeur de Lion), war dein Vater; durch langwieriges
+und heftiges Zusezen ward ich endlich verf�hrt, in meines Ehmanns
+Bette Plaz f�r ihn zu machen.  Der Himmel vergebe mir meine
+�bertretung!  Aber du bist die Frucht meiner schweren S�nde, zu
+der ich so stark gereizt wurde, da� ich nicht l�nger wiederstehen
+konnte.
+
+Philipp.
+Nun, bey diesem Tageslicht, wenn ich wieder gezeugt werden sollte,
+Madame, wollt' ich mir keinen bessern Vater w�nschen.  Einige
+S�nden tragen ihre Lossprechung auf Erden mit sich; Euer Fehler
+entsprang nicht aus eurer Thorheit; ihr mu�tet nothgedrungen euer
+Herz als einen Tribut f�r gebietende Liebe, demjenigen ausliefern,
+gegen dessen Wuth und unbezwingbare St�rke der unerschrokne L�we
+selbst keinen Kampf wagen durfte, noch sein k�nigliches Herz vor
+Richards Hand sch�zen konnte.  Wer einem L�wen mit Gewalt das Herz
+aus dem Leibe reissen kan, mag leicht ein weibliches Herz gewinnen.
+Ja, meine Mutter, von ganzem Herzen dank ich dir f�r meinen Vater.
+Wenn jemand lebt, der sich erfrecht zu sagen, da� du nicht recht
+thatest, wie ich gezeugt ward, dessen Seele will ich zur H�lle
+schiken.  Komm, Lady, ich will dich meinen Anverwandten vorstellen,
+und sie sollen sagen, wie Richard mich zeugte, w�r es S�nde gewesen
+wenn du Nein gesagt h�ttest.
+
+(Sie gehen ab.)
+
+
+
+
+Zweyter Aufzug.
+
+
+
+Erste Scene.
+(Vor den Mauern der Stadt Angiers.)
+(Philipp-August, K�nig von Frankreich, Ludwig der Dauphin, der
+ Herzog von �streich, Constantia und Arthur.)
+
+
+Ludwig.
+Willkommen vor Angiers, dapfrer Herzog!--Arthur, dein grosser Oheim,
+Richard, der den L�wen seines Herzens beraubte, und die heiligen
+Kriege in Pal�stina ausfocht, kam durch diesen dapfern Herzog vor
+der Zeit ins Grab.  Nun ist er, um seiner Nachkommenschaft
+Erstattung de�halb zu thun, auf unsre Einladung gekommen, seine
+Fahnen f�r deine Sache auszuspreiten, und deinen unnat�rlichen
+Oheim, Johann von England, aus dem ungerechten Besiz deiner
+Erbl�nder vertreiben zu helfen.  Umarm' ihn, Prinz, lieb' ihn, und
+hei�' ihn willkommen.
+
+Arthur.
+Gott wird euch (Coeur de Lion's) Tod desto eher verzeihen, da ihr
+seinem Neffen das Leben gebet, und sein verfolgtes Recht mit den
+Fl�geln eurer Kriegs-Macht umschattet.  Mit einer unm�chtigen Hand
+hei�' ich euch willkommen, aber mit einem Herzen voll
+unverf�lschter Liebe; willkommen, Herzog, vor den Mauern von
+Angiers.
+
+Ludwig.
+Ein edler Junge!  Wer wollte dir nicht zu deinem Recht helfen?
+
+�streich.
+Diesen z�rtlichen Ku� leg' ich auf deine Wange, als das Siegel
+meines feyrlichen Versprechens, da� ich nicht eher in meine Heimath
+zur�k kehren will, bis Angiers und die gerechten Anspr�che die du
+in Frankreich hast, zugleich mit dieser blassen wei�-ufrichten
+Insel, deren Fu� die heulenden Wellen des Oceans zur�k st��t, und
+ihre Einwohner von andern L�ndern abschneidet, bis dieses von der
+See umz�unte England, dieses von Wasser gemauerte Bollwerk, dessen
+stolze Sicherheit allen ausw�rtigen Anf�llen Troz bietet, bis
+dieser �usserste Winkel von Westen selbst dich als seinen K�nig
+gr�ssen wird; bis zu diesem Augenblik, sch�ner Knabe, will ich
+nicht an meine Heimath denken, sondern den Waffen folgen.
+
+Constantia.
+O nehmet seiner Mutter Dank an, Dank einer armen Wittwe, bis euer
+starker Arm ihm zu der Macht helfen wird, eure Freundschaft besser
+erwiedern zu k�nnen.
+
+�streich.
+Der Friede des Himmels ruhet auf denjenigen, die ihre Schwerdter in
+einem so gerechten und wohlth�tigen Krieg entbl�ssen.
+
+K�nig Philipp.
+Wohlan dann, an die Arbeit; unsre Maschinen sollen gegen die Stirne
+dieser widerspenstigen Stadt gerichtet werden; ruffet unsern Kriegs-
+Obersten, um den Plan zum vortheilhaftesten Angriff zu machen.
+Entweder wollen wir unsre k�niglichen Gebeine vor diesen Mauern
+niederlegen, oder wenn wir gleich in franz�sischem Blut auf den
+Markt-Plaz watten m��ten, Angiers diesem jungen Prinzen unterw�rfig
+machen.
+
+Constantia.
+Wartet noch auf die Antwort, die euer Abgesandter bringen wird; ihr
+k�nntet sonst eure Schwerdter zu voreilig mit Blute besudeln.
+Vielleicht bringt Milord Chatilion aus England eine friedliche
+Abtretung dieses Rechts, welches ihr durch Krieg erzwingen wollet;
+und wenn dieses gesch�he, w�rden wir einen jeden Tropfen Bluts
+bereuen, den eine zu rasche Hize so unzeitig vergossen h�tte.
+(Chatilion zu den Vorigen.)
+
+K�nig Philipp.
+Ein Wunder, Madam!  Seht, auf euern Wunsch ist unser Gesandter,
+Chatilion, angelangt; meld uns in K�rze, werther Lord, was England
+uns zur Antwort giebt; wir warten hier m��ig auf dich.  Rede,
+Chatilion.
+
+Chatilion.
+So wendet also eure Macht von dieser armseligen Belagerung, und
+spornet sie zu einem wichtigern Gesch�ft auf.  England, voll
+Unwillens �ber unsre gerechte Forderungen, hat sich in Waffen
+gestellt; die widrigen Winde, die meine R�kreise verz�gerten, haben
+ihm Zeit gegeben, alle seine Legionen zugleich mit mir ans Land zu
+sezen.  Er r�kt mit eilfertigen M�rschen gegen diese Stadt an;
+seine St�rke ist gro�, und seine Krieger voller Muth.  Mit ihm
+kommt die K�nigin-Mutter, eine Ate, die ihn zu Zwietracht und
+Blutvergiessen anhezt; mit ihr, ihre Nichte, die Infantin Blanca
+von Spanien; mit ihnen ein nat�rlicher Sohn des abgelebten K�nigs,
+und mit ihm alle unb�ndigen K�pfe des Landes.  Rasche, feurige,
+tollk�hne Freywillige, mit Frauenzimmer-Gesichtchen und Drachen-
+Herzen, haben ihre angestammten G�ter verkauft, und tragen ihr
+Erbtheil zuversichtlich auf dem R�ken, um hier ein neues Gl�k zu
+suchen.  Kurz, eine auserlesnere Schaar unerschrokner Geister, als
+der englische Boden diesesmal �bergew�lzt hat, schwamm niemals �ber
+die schwellende Fluth, um Unheil und Verw�stung in der Christenheit
+anzurichten.  Das z�rnende Get�se ihrer Trummeln unterbricht eine
+umst�ndliche Nachricht; sie sind im Anzug.  Bereitet euch also zu
+einer Unterhandlung oder zum Gefecht.
+
+(Man h�rt Trummeln.)
+
+K�nig Philipp.
+Wie schlecht sind wir auf eine solche Expedition versehen!
+
+�streich.
+Je unerwarteter sie ist, desto eifriger m�ssen wir uns zur
+Gegenwehr stellen; Unser Muth soll mit der Gefahr steigen.  La�t
+sie denn willkommen seyn, wir sind ger�stet.
+
+
+
+Zweyte Scene.
+(Der K�nig von England, Faulconbridge, Elinor, Blanca, Pembroke
+ und andre zu den Vorigen.)
+
+
+K�nig Johann.
+Friede sey mit Frankreich, wenn Frankreich im Frieden unsern
+rechtm��igen Einzug in unsre Stadt gestattet; wo nicht, so blute
+Frankreich, und der Friede schwinge sich gen Himmel, inde� da� wir,
+Gottes grimmvoller Sachwalter, den stolzen �bermuth z�chtigen, der
+seinen Frieden in den Himmel zur�k treibt.
+
+K�nig Philipp.
+Friede sey mit England, wenn dieser Krieg aus Frankreich nach
+England zur�kkehrt, um dort im Frieden zu leben.  Wir lieben
+England, und nur um Englands willen, schwizen wir hier unter der
+Last der Waffenr�stung.  Diese unsre Arbeit sollte dein
+freywilliges Werk seyn.  Aber du bist so weit entfernt, England zu
+lieben, da� du seinen rechtm��igen K�nig unterdr�kt, die Erbfolge
+aufgehoben, die Kindheit des gesezm��igen Erben mi�braucht, und an
+der jungfr�ulichen Ehre der Crone Gewalt ver�bt hast.  Schaue hier
+auf deines Bruders Gottfrieds Gesicht!  Diese Augen, diese Stirne,
+sind nach den seinigen abgedrukt; in diesem kleinen Inbegriff ist
+die vollst�ndige Form enthalten, die in Gottfried verstarb, und die
+Hand der Zeit wird diese verj�ngte Gestalt in einen eben so grossen
+Format ausdehnen.  Dieser Gottfried war von Geburt dein �ltrer
+Bruder, und dieser hier ist sein Sohn.  England war Gottfrieds
+Recht, und dieser hat es von Gottfried ererbt; wie kommt es dann,
+um Gottes willen!  da� du ein K�nig genennt wirst, so lange
+lebendiges Blut in diesen Schl�fen schl�gt, die einen Anspruch an
+die Crone haben, welche du zur Ungeb�hr tr�gst?
+
+K�nig Johann.
+Von wem hast du diesen grossen Auftrag, Frankreich, mich zur
+Antwort auf deine Fragst�ke zu ziehen?
+
+K�nig Philipp.
+Von diesem obersten Richter, der in k�niglichen Seelen den edlen
+Gedanken erwekt, gewaltth�tigen und ungerechten Thaten nachzufragen.
+Dieser Richter hat mich zum Besch�zer dieses Knabens gemacht;
+unter seinem Schuze klag' ich deine Ungerechtigkeit an, und mit
+seinem Beystand hoff' ich sie zu bestraffen.
+
+K�nig Johann.
+Du massest dich eines Ansehens an, das dir nicht zukommt.
+
+K�nig Philipp.
+Entschuldige es; es geschieht, um ungerechte Anmassung
+niederzuschlagen.
+
+Elinor.
+Wer ist der, den du einer unrechtm��igen Anmassung beschuldigest?
+
+Constantia.
+La�t mich die Antwort geben: Der anma�liche K�nig, dein Sohn.
+
+Elinor.
+Hinweg, Unversch�mte; dein Bastard soll K�nig seyn, damit du eine
+K�nigin seyn, und die ganze Welt hofmeistern k�nnest!
+
+Constantia.
+Mein Bette war deinem Sohn immer so getreu, als das deinige deinem
+Gemahl; und dieser Knabe sieht seinem Vater Gottfried gleicher als
+Johann dir, ob ihr gleich an Sitten einander so gleich seyd als der
+Regen dem Wasser, und der Teufel seiner Mutter.  Mein Sohn ein
+Bastard!  Bey meiner Seele, ich glaube nimmermehr, da� sein Vater
+so �cht war als er ist; es kann nicht seyn, wenn gleich du seine
+Mutter w�rest.
+
+Elinor.
+Das ist eine feine Mutter, Junge, die deinen Vater beschimpft.
+
+Constantia.
+Das ist eine feine Gro�mutter, Junge, die dich beschimpfen will.
+
+�streich.
+Stille!
+
+Faulconbridge.
+Horcht dem Ausruffer.
+
+�streich.
+Wer Teufel bist du?
+
+Faulconbridge.
+Einer der den Teufel mit euch spielen will, Herr, sobald er euch
+und euern �berzug* allein zu paken kriegen kan.  Ihr seyd der Hase
+im Spr�chwort, der todte L�wen beym Bart zupft; ich will euch das
+Fell einschmauchen, wenn ich euch kriege; nehmt euch in acht; in
+der That, ich will, in der That.
+
+{ed.-* Um diese und verschiedne andre in einer der folgenden Scenen
+vorkommenden Sp�ttereyen und Grobheiten, die Faulconbridge dem
+Herzog von �streich sagt, zu verstehen, mu� man wissen, da� dieser
+Herzog mit einer L�wenhaut umh�llt auf der B�hne erscheinen mu�.
+K�nig Richard hatte, wie man sagt, w�hrend seinem ber�hmten
+Kreuzzug, worinn er seine pers�nliche Herzhaftigkeit und St�rke
+durch eine Menge ritterlicher Thaten bewies, auch einen
+ausserordentlich grossen L�wen bezwungen, und die Haut desselben,
+zum Zeichen dieses Siegs, nachher allezeit getragen oder bey sich
+gef�hrt.  Dieser Haut bem�chtigte sich der Herzog von �streich,
+nachdem er, wie bekannt ist, den K�nig Richard, durch Hinterlist
+und Betrug in seine Gewalt bekommen; und soll, aus einer allerdings
+l�cherlichen Pralerey, selbige, als eine Beute, die er einem so
+grossen Helden wie Richard abgenommen, nach dessen Tod allezeit
+getragen haben.}
+
+Blanca.
+O wie wohl stuhnd dem dieser L�wen-Rok an, der dem L�wen diesen Rok
+abzog!
+
+Faulconbridge.
+Er ligt so stattlich auf seinem R�ken, als des grossen Alcides
+L�wenhaut auf dem R�ken eines Esels; aber, Esel, ich will euch
+diese Last von euerm R�ken abnehmen, oder euch noch eine auflegen,
+davon euch die Schultern krachen sollen.
+
+Herzog.
+Was f�r ein Schw�rmer ist das, der unsre Ohren mit einem solchen
+�bermaa� von vergeblichem Athem bet�ubt?  K�nig Philipp,
+entschliesset euch ohne l�ngeres Zaudern, was wir thun wollen.
+
+K�nig Philipp.
+Weiber und Narren, brecht eure Conferenz ab.  K�nig Johann, hier
+ist mein Vortrag in wenig Worten: England, Irrland, Anjou, Touraine
+und Maine fordre ich im Namen des jungen Arthurs von dir; willt du
+sie abtreten, und die Waffen niederlegen?
+
+K�nig Johann.
+Eher mein Leben--Ich biete dir Troz de�halb, Frankreich.  Arthur
+von Bretagne, begieb dich in meinen Schuz, und ich will dir aus
+Liebe mehr geben, als der feige Arm von Frankreich jemals f�r dich
+gewinnen kan.  Ergieb dich, Junge.
+
+Elinor.
+Komm zu deiner Gro�-Mama, Kind.
+
+Constantia (indem sie eine kindische Art zu reden affectirt.)
+Thu's, Kind, geh zu Gro�-Mama, Kind.  Gieb Gro�-Mama K�nigreich,
+und Gro�-Mama giebt dem Kind ein Zukerchen, eine Kirsche, eine
+Feige; es ist eine gute Gro�-Mama.
+
+Arthur.
+Meine liebe Mutter, gebt euch zufrieden.  Ich wollt', ich l�ge tief
+in meinem Grab; ich bin nicht werth, da� man soviel Lerms
+meinetwegen mache.
+
+Elinor.
+Seine Mutter besch�mt ihn so, der arme Junge, er weint.
+
+Constantia.
+Das Unrecht, das ihm seine Gro�mutter zuf�gt, nicht die Schande die
+ihm seine Mutter macht, zieht diese den Himmel r�hrenden Perlen aus
+seinen armen Augen, die der Himmel als ein Schuzgeld annehmen wird;
+ja mit diesen Thr�nen wird sich der Himmel gewinnen lassen, sich
+seines Rechts anzunehmen, und euch zur Straffe zu ziehen.
+
+Elinor.
+Ungeheuer, scheuest du dich nicht, Himmel und Erde zu l�stern?
+
+Constantia.
+Ungeheuer, scheust du dich nicht, Himmel und Erde zu beleidigen?
+Wie kanst du mich anklagen, da� ich l�stre?  Du und die deinigen
+usurpiren die L�nder, Regalien und Gerechtsame dieses unterdrukten
+Waysen; es ist der Sohn deines �ltesten Sohns, und in nichts
+ungl�klich als darinn, da� er von dir abstammt.  Deine S�nden
+werden an diesem armen Kinde heimgesucht; der Ausspruch des Gesezes
+ligt auf ihm, da er nur im dritten Glied von deinem
+S�ndempfangenden Leib entfernt ist.
+
+K�nig Johann.
+Tollh�uslerin, h�rt auf!
+
+Constantia.
+Ich habe nur das noch zu sagen, da� er nicht nur um ihrer S�nde
+willen gestraft wird, sondern Gott hat ihre S�nde und sie zur
+Strafe dieses entfernten Abk�mmlings gemacht, der um ihrentwillen
+gestraft wird, und mit ihrer Strafe ihre S�nde; sein Unrecht, ihr
+Unrecht, der B�ttel ihrer S�nde, alles in der Person dieses Kindes
+gestraft, und alles um ihrentwillen; da� sie die Pest!**
+
+{ed.-** Dieses Ungeheuer von einer aller Sprach- und Vernunftlehre
+trozbietenden Rede, hat man, da ihr ohnehin nicht zu helfen ist,
+von Wort zu Wort geben wollen, wie sie der Autor giebt; Deutschen
+Unsinn f�r Englischen Unsinn.}
+
+Elinor.
+Du unverst�ndiges L�stermaul, ich kan ein Testament aufweisen, das
+deines Sohnes Recht entkr�ftet.
+
+Constantia.
+So, wer zweifelt daran?  Ein Testament?--Ein falsches Testament,
+ein Weiber-Testament, einer unnat�rlichen Gro�mutter Testament.
+
+K�nig Philipp.
+Stille, Lady; schweigt oder m��igt euch; es schikt sich �bel f�r
+diese Versammlung diesen euern �belt�nenden Wiederholungen immer
+Halt zu ruffen.  La�t eine Trompete diese Leute von Angiers auf die
+Mauern fordern; sie sollen sich erkl�ren, wessen Recht sie gelten
+lassen wollen, Arthur's oder Johann's.
+
+(Trompeten.)
+
+
+
+Dritte Scene.
+(Ein B�rger von Angiers kommt auf die Mauern.)
+
+B�rger.
+Wer ist der, der uns auf die Mauern hervorgeruffen hat?
+
+K�nig Philipp.
+Es ist Frankreich, im Namen Englands.
+
+K�nig Johann.
+England in seinem eignen Namen.  Ihr M�nner von Angiers, und meine
+lieben Unterthanen--
+
+K�nig Philipp.
+Ihr werthen M�nner von Angiers, Arthurs Unterthanen, unsre Trompete
+rief euch zu dieser g�tlichen Unterredung--
+
+K�nig Johann.
+In Betreff unsrer gerechten Sache; h�ret uns also zuerst; diese
+Franz�sischen Fahnen, die hier, so nah' an eurer Stadt, vor euern
+Augen sich verbreiten, sind zu euerm Verderben hieher gezogen; der
+Bauch ihrer Canonen ist mit Grimm angef�llt, sie sind schon
+gerichtet, ihren eisernen Zorn gegen eure Mauern auszuspeyen; diese
+Franzosen stellen sich mit allen Zur�stungen zu einer blutigen
+Belagerung und einem unbarmherzigen Verfahren vor die Augen eurer
+Stadt und vor eure verschlo�nen Thore; und, ohne unsre Ann�herung,
+w�rden diese schlafenden Steine, die euch umg�rten, durch den Sto�
+ihrer Maschinen aus ihrem ruhigen Leim-Bette gerissen, und der
+blutigen Gewalt ein gr��licher Ruin gemacht worden seyn, auf euern
+Frieden einzust�rmen; aber, auf unsern Anblik, euers rechtm��igen
+K�nigs, (der, des Ungemachs verdoppelter M�rsche nichts achtend,
+herbey geeilt ist, einen m�chtigen Entsaz vor eure Thore zu bringen,
+und die bedr�uten Wangen eurer Stadt unzerkrazt zu erhalten,) seht,
+die best�rzten Franzosen selbst eine Unterredung antragen, und nun,
+f�r in Feuer gekleidete Kugeln, die ein sch�ttelndes Fieber in
+euern Mauern machen sollten, sanfte in Rauch eingeh�llte Worte
+losschiessen, um eure Ohren durch ein betr�gliches Get�ne zu
+beth�ren; aber glaubet ihnen, wie sie es verdienen, werthe B�rger,
+und lasset uns, euern K�nig ein, dessen m�de Lebensgeister, von
+dieser �bertriebnen Eile abgemattet, Herberge innert euren
+Stadtmauern suchen.
+
+K�nig Philipp.
+Wenn ich gesprochen habe, so antwortet uns beyden.  Seht!  an
+dieser rechten Hand, deren Schuz durch die heiligsten Gel�bde dem
+Rechte dessen, den sie h�lt, geweyhet ist, steht der junge
+Plantagenet, Sohn von dem �ltern Bruder dieses Mannes, und K�nig
+�ber ihn und alles, was er inne hat.  Um seines zu Boden getretnen
+Rechts willen treten wir in kriegrischem Marsch diese gr�nen Ebnen
+vor eurer Stadt, ohne einigen Vorsaz einer Feindseligkeit gegen
+euch, ausser wozu uns, von eurer Widerspenstigkeit gereizt, ein
+mildth�tiger Eifer zur Erhaltung dieses unterdr�kten Kindes, in
+unserm Gewissen n�thiget.  Weigert euch also nicht, eine Pflicht zu
+erstatten, die ihr demjenigen unleugbar schuldig seyd, der sie zu
+fordern berechtigt ist, nemlich, diesem jungen Prinzen; so soll
+unsern Waffen, gleich einem bemaulkorbten B�ren, sicher anzusehen,
+alle Beleidigung verboten seyn, die Bosheit unsrer Canonen gegen
+die unverwundbaren Wolken des Himmels ausgelassen werden, und mit
+einem friedsamen und ungest�rten R�kzug, mit ungebrauchten
+Schwerdtern und unversehrten Helmen, wollen wir dieses muthige Blut
+wieder heimtragen, welches wir gegen eure Mauern auszuspeyen
+gekommen waren, und eure Weiber, Kinder und euch im Frieden lassen.
+Solltet ihr aber so th�richt seyn, dieses unser zuvorkommendes
+Anerbieten auszuschlagen, so bildet euch nicht ein, da� diese alten
+Mauern euch gegen unsre Kriegs-Abgesandten sch�zen werden, wenn
+gleich alle diese Engl�nder mit ihrer Macht in ihrem rauhen Umkreis
+gelagert w�ren.  Sagt uns also, will eure Stadt uns im Namen
+desjenigen, f�r welchen wir euch dazu auffordern, als ihren Herrn
+erkennen; oder sollen wir das Zeichen zum Angriff geben, und in
+Blut wattend in unser Eigenthum einziehen?
+
+B�rger.
+Unsre Antwort ist kurz: Wir sind des K�nigs von England Unterthanen;
+f�r ihn und kraft seines Rechts, haben wir diese Stadt inne.
+
+K�nig Johann.
+So erkennet dann euern K�nig, und lasset mich ein.
+
+B�rger.
+Das k�nnen wir nicht; demjenigen der es bewei�t, da� er K�nig ist,
+wollen wir uns als getreue Unterthanen beweisen; so lange aber
+dieses nicht geschehen seyn wird, sollen unsre Thore gegen die
+ganze Welt verriegelt bleiben.
+
+K�nig Johann.
+Bewei�t nicht die Crone von England den K�nig?  Und wenn dieses
+nicht genug ist, so bring ich euch Zeugen, zweymal f�nfzehntausend
+Herzen voll von Englischem Blut--
+
+Faulconbridge.
+(Hurens�hne und andre.)
+
+K�nig Johann.
+Die bereit sind, unser Recht mit ihrem Leben zu beweisen.
+
+K�nig Philipp.
+Eben so viele, und von so gutem Blut als jene--
+
+Faulconbridge.
+(Die Hurens�hne auch mitgez�hlt.)
+
+K�nig Philipp.
+Stehen hier, ihm seine Fordrung ins Angesicht zu widersprechen.
+
+B�rger.
+Bi� ihr ausgemacht haben werdet, wessen Recht das vorz�glichste ist,
+halten wir f�r den Vorz�glichsten das Recht von beyden zur�k.
+
+K�nig Johann.
+So vergebe dann Gott die S�nden aller der Seelen, die zum
+furchtbaren Erweis unsers K�niglichen Titels, noch eh der Abendthau
+fallen wird, in ihre ewige Wohnung geflohen seyn werden!
+
+K�nig Philipp.
+Amen, Amen!--Zu Pferde, ihr Ritter, zu den Waffen!
+
+Faulconbridge.
+Sanct Georg, der den Lindwurm trillte, und seither immer zu Pferd
+vor meiner Wirthin Th�re sizt, helf uns aus diesem Handel!
+
+(Zu �streich.)
+
+Kerl, w�r ich daheim in eurer H�le, Kerl, bey eurer L�win, ich
+wollt euch einen Ochsen-Kopf auf eure L�wenhaut sezen, und ein
+Ungeheuer aus euch machen.
+
+�streich.
+Still, nichts mehr!
+
+Faulconbridge.
+O zittre, du h�rst den L�wen br�llen.
+
+K�nig Johann (zu Faulconbridge.)
+Wir wollen weiter in die Ebne vorr�ken, um unsre Regimenter besser
+ausbreiten und stellen zu k�nnen.
+
+Faulconbridge.
+So macht fein geschwinde, da� ihr den Vortheil des Plazes gewinnt.
+
+K�nig Philipp (zu �streich, mit dem er vorher leise gesprochen.)
+Gut; die �brigen la�t auf dem andern H�gel sich sezen.  Gott und
+unser Recht!
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Man bla�t zum Angriff; beyde Armeen werden handgemein, Gefecht;
+ endlich tritt der Herold von Frankreich mit Trompeten vor das Stadt-
+ Thor.)
+
+
+Franz�sischer Herold.
+Ihr M�nner von Angiers, �ffnet eure Thore weit, und la�t den jungen
+Arthur, Herzog von Bretagne, ein, der durch Frankreichs Hand an
+diesem Tag manchen Englischen M�ttern Stoff zu Thr�nen gegeben hat;
+ihre S�hne ligen auf dem blutigen Grunde verzettelt, und mancher
+Wittwe Mann kr�mmt sich im Staub, und umfa�t mit kalten Armen die
+blutgef�rbte Erde; inde� da� der wohlfeil-erkaufte Sieg um die
+tanzenden Paniere der Franzosen scherzt, die in triumphierender
+Unordnung bey der Hand sind, als Sieger einzuziehen, und Arthur von
+Bretagne zu Englands und euerm K�nig auszuruffen.
+
+(Ein Englischer Herold tritt mit Trompeten auf.)
+
+Englischer Herold.
+Freuet euch, ihr M�nner von Angiers, l�utet eure Gloken; K�nig
+Johann, euer und Englands K�nig, ist im Anzug, als Meister von
+diesem heissen blutigen Tage.  Die R�stungen derer, die diesen
+Morgen in so hellem Silberglanz vor euch vorbeyzogen, kehren alle
+in Franz�sischem Blute verg�ldet zur�k; nicht ein einziger
+Federbusch, der auf einem Englischen Helme winkte, ist von einem
+Franz�sischen Speer abgeschlagen worden; unsre Fahnen kommen in den
+nemlichen H�nden wieder, die sie entfalteten als wir auszogen, und
+gleich einem lustigen Truppen J�ger, kommen unsre fr�lichen
+Engl�nder, alle mit bepurpurten H�nden zur�k, in dem Lebensblut
+ihrer sterbenden Feinde gef�rbt.  �ffnet eure Thore, und la�t die
+Sieger einziehen.
+
+B�rger.
+Ihr Herolde, wir haben von unsern Th�rmen euerm ganzen Gefecht, vom
+Angriff bis zum Abzug zusehen k�nnen; unsre sch�rfsten Augen haben
+keinen Vorzug oder Vortheil auf einen von beyden Partheyen entdeken
+k�nnen; Blut hat Blut erkauft, und Streiche haben Streichen
+geantwortet; St�rke, Muth, Dapferkeit und Gl�k waren auf beyden
+Seiten gleich.  So sind auch wir gegen beyde, bis einer der
+Gr�sseste bleibt; so lange sie so im Gleichgewicht stehen, halten
+wir unsre Stadt f�r keinen, sondern f�r beyde.
+
+
+
+F�nfte Scene.
+(Die beyden K�nige mit ihrem Heer treten auf verschiednen Seiten
+ auf.)
+
+
+K�nig Johann.
+Frankreich, hast du noch mehr Blut wegzuwerfen?  Sprich, willt du
+dem Strom unsers Rechts seinen friedfertigen Lauf lassen; oder soll
+er von dir gest�rt, aus seinem nat�rlichen Canal hervorschwellen,
+und deine angrenzenden Ufer �berstr�men?
+
+K�nig Philipp.
+England, du hast in diesem hizigen Wettkampf nicht einen einzigen
+Tropfen Bluts mehr zur�kgebracht als wir; eher hast du mehr
+verlohren.  Und ich schw�re bey dieser Hand, die diesen
+weitgrenzenden Erdstrich beherrschet; eh wir diese gerechten Waffen
+niederlegen, wollen wir dich, gegen den wir sie tragen, in den
+Staub niederlegen, oder selbst die Zahl der Todten mit einem
+k�niglichen Schatten vermehren!
+
+Faulconbridge.
+Ha!  Majest�t!--Wie hoch steigt dein Stolz, wenn das goldne Blut
+der K�nige in Feuer gesezt wird!  Oh, nun f�ttert der Tod seine
+morschen Kinnbaken mit Stahl, Schlachtschwerdter sind seine Z�hne
+und Griffe, und nun schmau�t er und fri�t sich, inde� da� die
+K�nige hadern, an Menschenfleisch satt.  Warum stehen diese
+k�niglichen Linien so unbeweglich?  Ruft zum Angriff, ihr K�nige;
+zur�k in das blutbeflekte Feld, ihr gleichm�chtigen F�rsten, ihr
+Feuer-sprudelnden Geister!  La�t die Niederlage des einen Theils
+den Frieden des andern bekr�ftigen.  Bis dahin Streiche, Blut und
+Tod!
+
+K�nig Johann.
+F�r wessen Parthey erkl�ren sich nun die Leute in der Stadt?
+
+K�nig Philipp.
+Sprecht, ihr B�rger; wen erkennt ihr f�r euern K�nig?
+
+B�rger.
+Den K�nig von England, sobald wir ihn kennen.
+
+K�nig Philipp.
+Erkennt ihn in Uns, die wir hier sein Recht verfochten haben.
+
+K�nig Johann.
+In Uns, die wir unser eigner grosser Abgeordneter sind, und im
+Besiz unsrer eignen Person uns hier befinden, Herr von unsrer
+Gegenwart, von Angiers, und von euch.
+
+B�rger.
+Eine gr�ssere Macht, als die eurige, widerspricht all dieses, und
+bis sie ausser allem Zweifel ist, schliessen wir unsre erste
+Bedenklichkeit in unsre stark verrigelte Thore ein.  K�nige sind
+unsre Furcht, so lange bis unsre Furcht von einem gewissen K�nige
+aufgel�st, gereinigt und ausgetrieben seyn wird.
+
+Faulconbridge.
+Diese unversch�mten Gesellen von Angiers spotten eurer, ihr K�nige,
+und stehen sicher auf ihren Zinnen, wo sie wie auf einem
+Amphitheater, unsern arbeitvollen Todes-Scenen und Aufz�gen mit
+weitoffnen Augen und richtendem Blik zusehen.  La�t euch von mir
+rathen, ihr K�nige; seyd gleich den Aufr�hrern von Jerusalem eine
+Weile Freunde, und vereinigst eure �usserste Macht wider diese
+Stadt.  La�t Frankreich von Osten, und England von Westen ihre bis
+an die M�ndung gef�llte Canonen wider sie richten, bis ihr Seele-
+schrekendes Geschrey die steinernen Rippen dieser trozigen Stadt zu
+Boden geklafft hat; ich wollte unverz�glich auf diese Schindm�hren
+spielen, bis die Verw�stung ihnen keine andre Schuzwehr als die
+umgebende Luft �brig liesse.  Wenn dieses geschehen ist, dann
+trennt eure vereinbarte Macht wieder, sondert eure vermengten
+Fahnen ab, und sezet Antliz gegen Antliz, und Schwerdt gegen
+Schwerdt.  Dann wird Fortuna in einem Augenblik aus einem von
+beyden Theilen ihren gl�klichen G�nstling ausw�hlen, dem sie die
+Ehre dieses Tages zuwenden, und den sie mit einem glorreichen Siege
+k�ssen wird.  Wie gef�llt euch dieser wilde Rath, m�chtige F�rsten?
+Schmekt er nicht ein wenig nach der Politik?
+
+K�nig Johann.
+Nun bey dem Himmel, der �ber unsern H�uptern h�ngt, er gef�llt mir.
+Frankreich, la�t uns unsre Kr�fte vereinbaren, und dieses Angiers
+dem Erdboden gleich machen; dann wollen wir erst durch die Waffen
+ausmachen, wer K�nig davon seyn soll?
+
+Faulconbridge (zu Frankreich.)
+Und wenn du anders die Empfindlichkeit eines K�nigs hast, so richte,
+da du eben so sehr als wir selbst von dieser halsstarrigen Stadt
+beleidigt worden bist, den Rachen deiner Artillerie, wie wir der
+unsrigen, gegen diese trozigen Mauern; und wenn wir sie zu Boden
+geschmettert haben, nun, dann k�nnt ihr's mit einander aufnehmen,
+und einander, wie es kommt, gen Himmel oder in die H�lle schiken.
+
+K�nig Philipp.
+So wollen wir's machen; saget, wo wollt ihr angreiffen?
+
+K�nig Johann.
+Wir wollen von Westen Zerst�rung in den Busen dieser Stadt senden.
+
+�streich.
+Ich von Norden.
+
+K�nig Philipp.
+Unser Donner soll von S�den einen Hagel von Kugeln auf diese Stadt
+regnen.
+
+Faulconbridge (leise.)
+Eine weise Einrichtung!  Von Norden zu S�den; �streich und
+Frankreich werden einander ins Gesicht schiessen.  Ich will sie
+dazu aufreizen;
+
+(laut;)
+
+kommt, hinweg, hinweg!
+
+B�rger.
+H�rt uns, grosse K�nige; la�t euch gefallen noch einen Augenblik zu
+verweilen, und ich will euch einen Vorschlag zum Frieden und zu
+einem annehmlichen Verglich thun.  Gewinnet lieber diese Stadt ohne
+Wunden, und lasset diese Kriegsm�nner, die als Schlachtopfer auf
+den Wahlplaz hieher gekommen sind, ihr Leben wieder nach Hause
+tragen, und in ihren Betten sterben.  Verharret nicht auf euerm
+Vorsaz, sondern h�ret mich, grosse K�nige.
+
+K�nig Johann.
+Redet, wir erlauben es, und wollen h�ren.
+
+B�rger.
+Diese Infantin von Spanien, Lady Blanca, ist nahe mit England
+verwandt; betrachtet den jungen Ludwig, den Dauphin, und dieses
+liebensw�rdige M�dchen.  Wenn woll�stige Liebe auf die Jagd der
+Sch�nheit ausgehen wollte, wo k�nnte sie solche sch�ner finden, als
+in Lady Blanca?  Wenn keusche Liebe gehen wollte, die Tugend
+aufzusuchen, wo k�nnte sie solche reiner finden, als in Lady
+Blanca?  Wenn ehrs�chtige Liebe ein B�ndni� mit hohem Stande machen
+will, in welchen Adern rinnt ein edler Blut als in Lady Blanca's?
+So wie sie an Sch�nheit, Tugend und Geburt ist, so vollkommen ist
+der junge Dauphin, in jedem St�ke; soll er nicht vollkommen seyn, o,
+so sagt nur, er ist nicht sie; so wie ihr nichts anders mangelt,
+(wenn das ein Mangel heissen kan,) als da� sie nicht er ist.  Er
+ist die Helfte eines vollkommnen Mannes, bestimmt, durch eine
+solche Sie vollendet zu werden; und sie eine sch�ne getheilte
+Vortreflichkeit, deren vollst�ndige Vollkommenheit in ihm ligt.  O!
+zween solche Silberstr�me, wenn sie sich vereinigen, machen die
+Ufer worinn sie zusammenfliessen, zu Paradiesen.  Diese Vereinigung
+soll mehr �ber unsre festverschlo�nen Thore verm�gen als Batterien;
+denn sobald ihr dieses B�ndni� beschlossen haben werdet, soll sich
+der Mund des Zugangs, schneller als der Bliz des Pulvers ihn mit
+Gewalt er�ffnen k�nnte, von freyen St�ken weit aufthun, euch
+einzulassen; aber ohne dieses B�ndni�, ist die ergrimmte See nicht
+halb so taub, sind L�wen nicht halb so unerschroken, und Berge und
+Felsen so unbeweglich; nein, der Tod selbst ist in seiner
+verderblichen Wuth nicht halb so unerbittlich, als wir, diese Stadt
+zu behaupten.
+
+Faulconbridge.
+Das ist ein Redner, der das faule Gerippe des Todes aus seinen
+Lumpen heraussch�ttelt.  Das ist ein grosses Maul, in der That, das
+Tod und Berge, Felsen und Seen ausspeyt, und von br�llenden L�wen
+so vertraulich spricht, als M�dchen von dreyzehn Jahren von
+Schoo�h�ndchen.  Was f�r ein Constabel zeugte dieses lustige Blut?
+Er spricht lauter Canonen-Feuer, Rauch und Knall; er giebt Pr�gel-
+Suppe mit seiner Zunge; unsre Ohren kriegen Stokschl�ge; er sagt
+nicht ein Wort, das nicht eine derbere Maulschelle giebt als eine
+Franz�sische Faust.  Zum Henker!  Ich bin nie so mit Worten
+abgepl�ut worden, seit ich meines Bruders Vater Papa genennt habe.
+
+Elinor (zu K�nig Johann, leise.)
+Sohn, gieb diesem Vorschlag Geh�r, geh dieses B�ndni� ein, und gieb
+ihnen mit unsrer Nichte eine Morgengabe, womit sie zufrieden seyn
+k�nnen; denn durch dieses Band kanst du dein izt wankendes Recht an
+die Crone so feste machen, da� jener gr�ne Bube keine Sonne haben
+wird, um die Bl�the zu zeitigen, die eine m�chtige Frucht
+verspricht.  Ich sehe Nachgiebigkeit in Frankreichs Bliken; sieh,
+wie sie einander zufl�stern; fasse sie bey diesem Augenblik, da
+ihre Seelen f�hig sind, sich durch die Hoffnung einer vergr�sserten
+Macht bestechen zu lassen, sonst m�cht' ihr Eifer f�r Arthurs Sache,
+der izt durch den lauen Athem von sanften Bitten, Mitleiden und
+Bedenklichkeiten aufgeschmelzt worden, wieder erkalten, und zu der
+vorigen H�rte gefrieren.
+
+B�rger.
+Was antworten Eure Majest�ten auf den g�tlichen Vorschlag unsrer
+bedr�uten Stadt?
+
+K�nig Philipp.
+Sprecht zuerst, England, da ihr der erste waret, der seinen Antrag
+an diese Stadt machte; was ist eure Gesinnung?
+
+K�nig Johann.
+Wofern der hier gegenw�rtige Dauphin, dein k�niglicher Sohn, in
+diesem Buche der Sch�nheit lesen kan, ich liebe; so soll ihre
+Mitgift soviel w�gen als eine K�nigin; denn Anjou, und das sch�ne
+Touraine, Maine, Poitou, und alles, was (diese belagerte Stadt hier
+ausgenommen,) auf dieser Seite des Meers unsrer Crone einverleibt
+ist, soll ihr Braut-Bette verg�lden, und sie an Titeln, W�rden und
+G�tern so reich machen, als sie an Geburt, Erziehung und Sch�nheit,
+jeder andern Prince�in in der Welt die Wage h�lt.
+
+K�nig Philipp.
+Was sagst du denn, Junge?  Sieh der Prince�in ins Gesicht.
+
+Ludwig.
+Ich thu es, Sire, und ich find' in ihren Augen ein Wunderwerk, oder
+doch eine wunderbare Erscheinung, meinen eignen Schatten in ihren
+Augen abgebildet, der, ob er gleich nur der Schatten euers Sohnes
+ist, eine Sonne wird, und euern Sohn zu einem Schatten macht.  Ich
+versichre euch, ich liebte mich selbst noch nie bis izt, da ich
+mich selbst in der schmeichelnden Tafel ihres Auges abgerissen
+finde.
+
+Blanca (zu Ludwig.)
+Meines Oheims Wille ist in dieser Sache der meinige; was er nur
+immer an euch sehen mag, das ihm gef�llt, dieses Etwas, das ihm
+gef�llt, kan ich ohne M�he zu meinem Willen �bertragen; oder, um
+eigentlicher zu reden, wenn ihr wollt, kan ich es leicht meiner
+Liebe aufn�thigen.  Milord, ohne euch �ber alles was ich
+liebensw�rdiges an euch sehe, zu schmeicheln, will ich nur soviel
+sagen, da� ich nichts an euch sehe, was, wenn gleich die Tadelsucht
+selbst Richter seyn sollte, einiges Hasses w�rdig w�re.
+
+K�nig Johann.
+Was sagen diese jungen Leute?  Was sagt ihr, meine Nichte?
+
+Blanca.
+Da� ihre Ehre sie verbindet, alles zu thun, was eurer Klugheit ihr
+zu befehlen belieben wird.
+
+K�nig Johann.
+Redet dann, Prinz Dauphin, k�nnt ihr diese Lady lieben?
+
+Ludwig.
+Fragt mich vielmehr, ob es mir m�glich sey, sie nicht zu lieben;
+denn ich liebe sie im h�chsten Grade.
+
+K�nig Johann.
+So geb' ich dir also Volquessen, Touraine, Maine, Poitiers und
+Anjou, diese f�nf Provinzen, mit ihr; und �ber dieses noch die
+volle Summe von drey�igtausend Mark Englischen Geldes.  Philipp von
+Frankreich, wenn du damit zufrieden bist, so befiehl deinem Sohn
+und deiner Tochter einander die H�nde zu geben.
+
+K�nig Philipp.
+Wir sind es vollkommen zufrieden, ihr jungen Prinzen, vereinigst
+eure H�nde.
+
+�streich.
+Und eure Lippen dazu; denn ich erinnre michs noch wohl da� ich es
+so machte, wie ich das erstemal versprochen wurde.
+
+K�nig Philipp.
+Nun, ihr B�rger von Angiers, �ffnet eure Thore, um die Freundschaft
+einzulassen die ihr gestiftet habt, damit ohne Verzug diese
+Verm�hlung in St.  Martins Capelle sollennisirt werden k�nne.  Ist
+die Lady Constantia nicht in dieser Gesellschaft?  Doch sie kan
+nicht hier seyn; ihre Gegenwart w�rde diesem neugeschlo�nen
+Verglich ein starkes Hinderni� in den Weg gelegt haben.  Wo ist sie,
+und ihr Sohn, wer kan es mir sagen?
+
+Ludwig.
+Sie sizt voll Traurigkeit und Unwillen in Eurer Majest�t Gezelt.
+
+K�nig Philipp.
+Bey meiner Ehre, dieses B�ndni� das wir getroffen haben, wird ihrer
+Schwermuth wenig Lindrung geben.  Bruder von England, wie k�nnen
+wir diese F�rstliche Wittwe zufrieden stellen?  Zu Behauptung ihres
+Rechts sind wir gekommen, und nun haben wir uns, Gott wei� es, zu
+unserm eignen Vortheil, auf eine andre Seite gedreht.
+
+K�nig Johann.
+Wir wollen alles gut machen; denn wir wollen den jungen Arthur zum
+Herzog von Bretagne und Grafen von Richmond ernennen, und ihn
+�berdi� zum Herrn dieser sch�nen reichen Stadt machen.  Ruffet die
+Lady Constantia; ladet sie eilfertig zu unsrer Feyrlichkeit ein;
+wenn wir gleich nicht das ganze Maa� ihres Willens erf�llen, so
+werden wir sie doch in gewissem Maasse befriedigen, und wenigstens
+ihren Ausruffungen den Mund stopfen.  Izt la�t uns zu Vollziehung
+dieser unvorgesehnen und unvorbereiteten Solennit�t keine Zeit
+verliehren.
+
+(Alle gehen ab, bis auf Faulconbridge.)
+
+
+
+Sechste Scene.
+
+
+Faulconbridge.
+N�rrische Welt!  n�rrische K�nige!  n�rrisches Zeug zusammen!
+Johann, um Arthurn sein Recht zum Ganzen zu benehmen, begiebt sich
+freiwillig eines Theils; und Frankreich, dem das Gewissen seine
+R�stung angeschnallt, den Eifer und Christliche Liebe als Gottes
+eignen Waffentr�ger ins Feld gef�hrt, l��t sich nun von diesem
+Vorsaz-�ndrer entwafnen, diesem schlauen Teufel, diesem M�kler,
+der immer der Treue den Hals bricht, diesem t�glichen Eidbrecher,
+der alle Menschen verf�hrt, K�nige, Bettler, Alte, Junge, und der
+die M�dchen selbst, die sonst nichts �usserliches zu verliehren
+haben als das Wort M�dchen, die armen Dinger auch um das betr�gt;
+diesem glattmaulichten Stuzer, diesem kizelnden Schmeichler,
+Interesse--Interesse, der die ganze Welt aus ihrem ebnen
+nat�rlichen Lauf heraushebt, und ohne alle gerade Richtung, Absicht
+und Regel forttreibt.  Und eben dieses Interesse, diese Kupplerin,
+dieser M�kler, dieser allesverwandelnde Zauberer, auf das Auge des
+wankelm�thigen Philipps geplakt, hat ihn von seinem festgesezten
+Endzwek, von einem beschlo�nen und ehrenvollen Krieg, zu einem
+h�chst schimpflichen und niedertr�chtigen Frieden gezogen--Und
+warum ziehe ich wider dieses Interesse los, als weil es noch bisher
+nicht um mich gebuhlt hat; nicht, weil ich die St�rke h�tte die
+Hand zuzuschliessen, wenn seine sch�nen Engel mir die ihrige
+darreichen w�rden; sondern weil meine Hand, die noch immer leer
+gelassen worden, gleich einem armen Bettler �ber die Reichen
+schm�hlt.  Wohl dann, so lang ich ein Bettler bin, will ich �ber
+die Reichen schm�hlen, und sagen, es sey keine gr�ssere S�nde als
+reich seyn: Und wenn ich reich bin, dann soll meine Tugend darinn
+bestehen, da� ich behaupte, es sey kein Laster als D�rftigkeit.
+Wenn K�nige selbst ihren Eid aus Eigennuz brechen, so sey du mein
+Gott, Gewinnst; denn dir allein will ich dienen.
+
+(Er geht ab.)
+
+
+
+
+Dritter Aufzug.
+
+
+
+Erste Scene.
+(Des Franz�sischen K�nigs Gezelt.)
+(Constantia, Arthur und Salisb�ry, treten auf.)
+
+
+Constantia.
+Gegangen, um sich zu verm�hlen?  Um einen Frieden zu schw�ren?
+Treuloses Blut mit treulosem Blut vereinigt!  Gegangen, um Freunde
+zu seyn?  Ludwig soll Blanca haben, und Blanca diese Provinzen?  Es
+ist nicht so, du hast dich verredet, du hast nicht recht geh�rt; es
+kan nicht seyn, du sagst nur, es sey so; ich bin versichert da� du
+nicht die Wahrheit sagst, denn dein Wort ist nur der eitle Athem
+eines gemeinen Mannes.  Glaube mir, Mann, ich glaube dir nicht, ich
+habe den Eid eines K�nigs f�r das Gegentheil; du sollt daf�r
+gestraft werden, da� du mich so erschrekt hast; denn ich bin krank,
+und leicht in Furcht zu sezen; mi�handelt und unterdr�kt, und also
+voller Furcht; eine Wittwe ohne Mann, ohne Besch�zer, also der
+Furcht unterworffen; ein Weibsbild, von Natur zur Furchtsamkeit
+gebohren; und wenn du izt gleich bekennen w�rdest, da� du nur
+gescherzt habest, so k�nnte ich doch meine in Unordnung gebrachten
+Lebensgeister nicht sogleich wieder beruhigen, sondern sie werden
+diesen ganzen Tag zittern und schaudern.  Was soll dieses
+Kopfsch�tteln bedeuten?  Warum siehst du meinen Sohn so traurig an?
+Warum legst du die Hand auf deine Brust?  Warum diese Thr�nen, die
+wie ein aufgeschwollner Bach �ber ihre Ufer st�rzen?  Sind diese
+schwerm�thigen Seufzer Bekr�ftigungen deiner Worte?  So sprich noch
+einmal, nicht deine vorige Erz�hlung, sondern nur di� einzige Wort,
+ob deine Erz�hlung wahr ist oder nicht?
+
+Salisbury.
+So wahr als ihr Ursache habt, diejenige f�r falsch zu halten,
+welche schuld an der Wahrheit meiner Aussage sind.
+
+Constantia.
+Oh, wenn du mich lehrst diese kummervolle Zeitung zu glauben, so
+lehre diese kummervolle Zeitung wie sie mich t�dten soll, damit ihr
+Glaube und mein Leben so an einander stossen, wie die Wuth von
+zween ergrimmten M�nnern, die in dem Augenblik da sie auf einander
+treffen, fallen und sterben.  Ludwig verm�hlt sich mit Blanca?  O
+Junge, was bist dann du?  Frankreich, Freund von England?  Was wird
+dann aus mir?  Geh, Mann, ich kan deinen Anblik nicht ausstehen
+diese Zeitung hat dich zu einem abscheulichen Mann gemacht.
+
+Salisbury.
+Was habe ich dann �bels gethan, gute Lady, als das �bel
+anzuzeigen, das andre gethan haben?
+
+Constantia.
+Welches aber an sich selbst so scheu�lich ist, da� es alle die nur
+davon reden abscheulich macht.
+
+Arthur.
+Ich bitte euch, Mutter, gebt euch zufrieden.
+
+Constantia.
+Wenn du, der mich zufrieden seyn hei�t, h��lich w�rest, ungestalt,
+und deiner Mutter Leibe schimpflich, voller Fleken und ekelhafter
+Finnen, lahm, albern, buklicht, krummbeinicht, ungeheuer, und mit
+Kr�ze und Eiterbeulen �berdekt; dann wollt' ich mich nicht
+bek�mmern, dann wollt' ich mich zufrieden geben; denn alsdann w�rd'
+ich dich nicht lieben, nein, noch w�rdest du deiner hohen Geburt
+werth seyn, und eine Crone verdienen.  Aber du bist sch�n, und
+Natur und Gl�k haben bey deiner Geburt, du theurer Knabe, sich
+vereiniget, dich gro� zu machen.  Wie die Natur dich begabt hat,
+kanst du mit Lilien und halb entfalteten Rosen um den Vorzug
+streiten.  Aber das Gl�k!  oh sie ist treulos worden, sie ist von
+dir abgefallen, h�lt st�ndlich mit deinem Oheim zu, und hat mit
+ihrer goldnen Hand Frankreich an sich gerissen, und dahin gebracht,
+die Ehre der unumschr�nkten Herrschaft in den Staub zu treten, und
+seine Majest�t zu ihrer Kupplerin zu machen.  Frankreich ist eine
+Kupplerin zwischen dem Gl�k und Johann, dem Gl�k, dieser ehrlosen
+Meze, und diesem r�uberischen Johann.  Sag mir, Bursche, ist
+Frankreich nicht meineidig?  Vergift' ihn mit Worten, oder geh
+deines Weges, und la� mich allein bey diesen Kr�nkungen, die ich
+allein tragen mu�.
+
+Salisbury.
+Verzeihet mir, Madam, ich darf nicht ohne euch zu den K�nigen zur�k
+kommen.
+
+Constantia.
+Du darfst, du sollst, ich will nicht mit dir gehen; ich will meinen
+Schmerz lehren stolz zu seyn; denn Schmerz ist stolz, und macht
+seinen Besizer eigensinnig.  Zu mir, und zu dem Hofstaat meines
+grossen Kummers m�gen die K�nige sich versammeln; denn mein Kummer
+ist so gro�, da� nichts als die unbewegliche gigantische Erde ihn
+unterst�zen kan; hier siz' ich und mein Schmerz; hier ist mein
+Thron, sage den K�nigen, da� sie kommen und sich vor ihm b�ken.
+
+(Sie sezt sich auf den Boden.)
+
+
+
+Zweyte Scene.
+(K�nig Johann, K�nig Philipp, Ludwig, Blanca, Elinor,
+ Faulconbridge und �streich.)
+
+
+K�nig Philipp.
+Es ist wahr, sch�ne Tochter; und dieser gesegnete Tag soll auf ewig
+in Frankreich festlich seyn.  Diesen Tag feyrlicher zu machen, h�lt
+die glorreiche Sonne in ihrem Lauf inne, und spielt den Alchymisten,
+indem sie durch den Glanz ihres funkelnden Auges die magre
+klumpichte Erde in schimmerndes Gold verwandelt.  Der j�hrliche
+Kreislauf, der diesen Tag wiederbringt, soll ihn nie anders als
+einen Fest-Tag sehen.
+
+Constantia (indem sie aufsteht.)
+Ein ungl�klicher Tag, und nicht ein Fest-Tag!  Was hat dieser Tag
+verdient?  Was hat er gethan, da� er mit goldnen Buchstaben unter
+die heiligen Zeiten in den Calender gesezt werden soll?  Nein,
+sto�t ihn vielmehr aus der Woche aus, diesen Tag der Schande, der
+Unterdr�kung und des Meineids; oder wenn er ja stehen bleiben mu�,
+so la�t schwangre Frauen beten, da� sie ihrer B�rde nicht an diesem
+Tag entbunden werden; la�t, ausser an diesem Tag, den Seefahrer
+keinen Schiffbruch f�rchten, und keinen Vertrag gebrochen werden,
+der nicht an diesem Tage gemacht worden; ja, alles was an diesem
+Tage angefangen wird, nehm' ein ungl�kliches Ende, und die Treue
+selbst verwandle an ihm sich in Falschheit und Betrug!
+
+K�nig Philipp.
+Beym Himmel, Lady, ihr habt keine Ursache die freudigen Begegnisse
+dieses Tages zu verw�nschen; hab ich euch nicht meine Majest�t zum
+Unterpfand gegeben?
+
+Constantia.
+Ihr habt mich mit einer nachgemachten Majest�t betrogen, die,
+sobald sie auf den Probstein gestrichen worden, sich falsch
+befunden hat; ihr seyd meineidig, meineidig seyd ihr; ihr kam't in
+Waffen, meiner Feinde Blut zu vergiessen, und vermischet und
+verst�rket es nun mit dem eurigen.  Freundschaft und geschminkter
+Friede haben den Plaz der k�hnen Streitbegierde und des edeln
+kriegrischen Zorns genommen, und unsre Unterdr�kung ist zum Sigel
+dieses Bundes gemacht worden.  Waffnet, waffnet euch, ihr
+himmlischen M�chte, wider diese meineidigen K�nige; eine Wittwe
+ruft: Sey mein Gemahl, o Himmel!  La� diesen Ung�ttlichen Tag sich
+nicht im Frieden schliessen; sondern sende, eh die Sonne
+untergegangen seyn wird, bewaffnete Zwietracht zwischen diese
+treulosen K�nige.  H�re mich, o h�re mich!
+
+�streich.
+Lady Constantia, gebt euch zufrieden.
+
+Constantia.
+Krieg, Krieg, keinen Frieden; Frieden ist Krieg f�r mich.  O
+Lymoges, o �streich!  du sch�ndest diesen edeln Raub, womit du
+pralest!  du Sclave, du Elender, du Memme, du kleiner Hasenritter,
+in nichts gro� als in Niedertr�chtigkeit, und nie herzhaft als wenn
+du dich hinter die st�rkste Parthey verbergen kanst; du Ritter der
+Fortuna, der nie ficht, wenn dieses wetterl�unische Fr�ulein nicht
+neben dir steht, und dir B�rge f�r deine Sicherheit ist; du bist
+auch meineidig, und schmeichelst den Grossen.  Was f�r ein Narr
+bist du, f�r ein kriechender Narr, zu pralen und zu stampfen und zu
+schw�ren, da� du meine Parthey halten wollest; du kaltherziger
+Sclave, hast du nicht wie ein Donner an meiner Seite gesprochen?
+Geschworen, da� du die Waffen f�r mich f�hren wollest, und mich
+ermahnet, mich deinem Gl�ke und deiner St�rke anzuvertrauen?  Und
+nun trittst du auch zu meinen Feinden �ber?  du, eine L�wen-Haut
+tragen?  herab damit, wenn du noch eine Schaam in dir hast, und
+h�ng' ein Kalbsfell um diese ehrlosen Schultern.
+
+�streich.
+O da� ein Mann mir das sagte!
+
+Faulconbridge.
+Und h�ng' ein Kalbsfell um diese ehrlosen Schultern.
+
+�streich.
+Untersteh dich das zu sagen, Schurke, wenn dir dein Leben lieb ist.
+
+Faulconbridge.
+Und h�ng' ein Kalbsfell um diese treulosen Schultern.
+
+�streich.
+Mich d�ucht, Richards Stolz und Richards Fall sollt' eine Warnung
+f�r euch seyn, Herr.
+
+Faulconbridge.
+Was f�r Worte sind das?  Wie schwanken meine Sehnen!  Meines Vaters
+Feind in meines Vaters Raub geh�llt!  Wie fl�stert mir Alecto ins
+Ohr: Z�gre nicht, Richard, schlage den nichtsw�rdigen Kerl zu Boden,
+zieh ihm dieses unvergleichliche Ehrenzeichen ab, das Denkmal des
+Triumphs deines Vaters �ber die Wilden--Nun bey seiner Seele
+schw�re ich, bey meines Vaters Seele, ich will nicht zweymal die
+Sonne aufgehen sehen, bis ich dieses Siegeszeichen von deinem R�ken
+gezogen, und dir das Herz davor zerschmettert habe, da� du dich
+unterstanden es zu tragen.
+
+K�nig Johann.
+H�re auf, du mi�f�llst uns mit solchen Reden, und vergissest dich
+selbst.
+
+
+
+Dritte Scene.
+(Pandolph zu den Vorigen.)
+
+
+K�nig Philipp.
+Hier kommt der heilige Legat des Papsts.
+
+Pandolph.
+Heil euch, ihr gesalbten Stadthalter des Himmels!  An dich, K�nig
+Johann, geht meine heilige Gesandtschaft.  Ich, Pandolph, Cardinal
+Erz-Bischof von Meiland, und Legat des Papsts Innocentius allhier,
+frage dich in seinem Namen auf dein Gewissen, warum du gegen die
+Vorrechte der Kirche, unsrer heiligen Mutter, den erw�hlten Erz-
+Bischof von Canterb�ry, Stephan Langton, so vorsezlicher und
+gewaltth�tiger Weise von diesem heiligen Stuhl zur�kstossest?
+Dieses ists, was in unsers vorbesagten heiligsten Vaters, Papsts
+Innocentius, Namen, ich dich fragen soll.
+
+K�nig Johann.
+Was f�r ein irdischer Name kan den freyen Athem geheiligter K�nige
+zu Fragst�ken anhalten?  Du kanst keinen schlechtern, unw�rdigern
+und l�cherlichern Namen erdenken, Cardinal, um mich zu einer
+Antwort zu verm�gen, als des Papsts seinen.  Sag ihm das, und seze
+noch dieses aus Englands Mund hinzu, da� wir nicht gestatten werden,
+da� ein Itali�nischer Priester Zehnden oder Zoll in unsern
+Gebieten einziehe; sondern, so wie wir in unsern Reichen, unter dem
+Himmel das oberste Haupt sind, so wollen wir auch unter ihm, diesem
+grossen Oberherrn, allein und ohne Beyh�lf einer sterblichen Hand,
+dieses unser Ansehen behaupten.  Sagt das dem Papst, mit
+Beyseitsezung aller Ehrfurcht gegen ihn und seine anma�liche
+Autorit�t.
+
+K�nig Philipp.
+Bruder von England, ihr l�stert indem ihr so sprecht.
+
+K�nig Johann.
+Ob gleich ihr und alle K�nige der Christenheit euch von diesem
+unruhigen Priester auf eine grobe Art hintergehen la�t, da� ihr
+einen Fluch f�rchtet, der sich mit Geld abkauffen l��t, und durch
+das Verdienst von absch�zigem Gold, Quark, Staub, verf�lschten
+Abla� von einem Menschen erkauft, der bey diesem Handel den Abla�
+sich selber abkauft, ob gleich ihr und alle �brigen, euch so grob
+betr�gen la�t, diesen heiligen Taschenspieler mit Eink�nften zu
+�berh�uffen; so hab ich doch Muth, ich allein, mich dem Papst
+entgegenzusezen, und halte seine Freunde f�r meine Feinde.
+
+Pandolph.
+So sey dann du, kraft der rechtm��igen Gewalt die ich habe, mit dem
+Fluch und Bann der Kirche belastet; und gesegnet soll der seyn, der
+sich wider seine Lehenspflicht gegen einen Kezer emp�rt; und
+verdienstlich soll die Hand genennt werden, canonisirt und als
+heilig verehrt, die, durch was f�r ein Mittel es auch sey, dir dein
+verfluchtes Leben nimmt.
+
+Constantia.
+O la� es erlaubt seyn, da� mir Rom eine Weile Plaz mache, ihm zu
+fluchen.  Guter Vater Cardinal, sprich du Amen zu meinen Fl�chen;
+denn ohne eine Kr�nkung, wie die meinige, ist keine Zunge, die
+Gewalt hat, ihm recht zu fluchen.
+
+Pandolph.
+Hier, Lady, ist die gesezm��ige Vollmacht, die meinen Fluch
+rechtm��ig macht.
+
+Constantia.
+Ist es der meinige minder?  Wenn das Gesez kein Recht thun kan, so
+la�t rechtm��ig seyn, da� das Gesez kein Unrecht hindre; das Gesez
+kan meinem Kinde hier sein K�nigreich nicht geben; denn der, der
+von seinem K�nigreich Meister ist, ist Meister vom Gesez; da nun
+das Gesez selbst vollkommnes Unrecht ist, wie kan das Gesez meiner
+Zunge verbieten zu fluchen?
+
+Pandolph.
+Philipp von Frankreich, wenn du nicht selbst in den Bann fallen
+willst, so la� die Hand dieses Erz-Kezers fahren, und biete die
+ganze Macht von Frankreich wider ihn auf, es w�re dann, da� er sich
+unter Rom dem�thigte.
+
+Elinor.
+Wirst du bla�, Frankreich?  La� deine Hand nicht gehen.
+
+Constantia.
+Habe Sorge, Teufel, damit Frankreich sich nicht �ndre, und durch
+Zur�kziehung seiner Hand die H�lle eine Seele verliehre.
+
+�streich.
+K�nig Philipp, gieb dem Cardinal Geh�r.
+
+Faulconbridge.
+Und h�ng' ein Kalbsfell um seine ehrlosen Schultern.
+
+�streich.
+Gut, Galgenschwengel, ich mu� diese Beleidigungen einsteken, weil--
+
+Faulconbridge.
+deine Hosen weit genug dazu sind, sie zu tragen.
+
+K�nig Johann.
+K�nig Philipp, was sagst du zu dem Cardinal?
+
+Constantia.
+Was kan er anders sagen, als wie der Cardinal.
+
+Ludwig.
+Bedenket euch, Vater; die Frage ist, ob ihr euch den schweren Fluch
+von Rom, oder den leichten Verlust von Englands Freundschaft
+zuziehen wollt; w�hlet das leichteste �bel.
+
+Blanca.
+Das ist Rom's Fluch.
+
+Constantia.
+Ludwig, halte fest; der Teufel versucht dich hier in Gestalt einer
+schmuken jungen Braut.
+
+K�nig Johann.
+Der K�nig ist unruhig, und giebt keine Antwort.
+
+Constantia (zu Philipp.)
+O entfernt euch von ihm, und antwortet recht.
+
+�streich.
+Thut das, K�nig Philipp, h�ngt nicht l�nger im Zweifel.
+
+Faulconbridge.
+H�ng nichts als ein Kalbsfell, du allerangenehmste Laus.
+
+K�nig Philipp.
+Ich bin ganz in Verwirrung, und wei� nicht was ich sagen soll.
+
+Pandolph.
+Die Verwirrung w�rde noch gr�sser seyn, wenn du exkomunicirt und
+verflucht w�rdest.
+
+K�nig Philipp.
+Guter ehrw�rdiger Vater, sezet euch an meine Stelle, und saget mir,
+was ihr thun w�rdet?  Diese k�nigliche Hand und die meinige sind
+nur erst zusammengef�gt, und eine innerliche Vereinigung unsrer
+Seelen durch ein feyrliches B�ndni� und die ganze St�rke
+geheiligter Eydschw�re unaufl�slich gemacht worden.  Der lezte
+Athem, den unsre Lippen zu Worten bildeten, war festgeschworne
+Treue, Friede, Freundschaft und aufrichtige Liebe zwischen uns und
+unsern K�nigreichen.  Und unmittelbar vor diesem Friedenschlu�,
+nicht l�nger als da� wir zu Beschw�rung desselben die H�nde waschen
+konnten, waren sie, der Himmel wei� es, mit neuvergo�nem Blut
+beflekt.  Und sollen nun diese H�nde, die nur erst davon gereiniget,
+nur erst in Freundschaft zusammengef�gt worden, sich wieder
+trennen, die beschworne Treue brechen, und des Himmels spotten?
+Sollen wir so unbest�ndige Kinder aus uns selbst machen, einen
+Augenblik darauf wieder unsre H�nde zur�kzuziehen?  Soll die
+beschworne Treue wieder abgeschworen, und das Brautbette des
+l�chelnden Friedens von blutigem Krieg zertreten werden?  O
+heiliger Mann, mein ehrw�rdiger Vater, la�t es nicht so seyn!
+Erfindet, rathet, schlaget einen gelindern Weg vor, und wir wollen
+uns gl�klich sch�zen, euch zu willfahren und Freunde zu bleiben.
+
+Pandolph.
+Alle Form ist unf�rmlich, und jeder Weg ein Irrweg, der nicht der
+Freundschaft mit England entgegensteht.  Zu den Waffen also; sey
+der Verfechter unsrer Kirche, oder die Kirche unsre Mutter wird
+ihren Fluch �ber dich aussprechen, den Fluch einer Mutter �ber
+einen rebellischen Sohn.  Frankreich, es w�re dir besser eine
+Schlange bey ihrer Zunge, einen ergrimmten L�wen bey seiner
+m�rdrischen Taze, einen hungernden Tyger bey seinen Z�hnen zu
+halten, als in Freundschaft diese Hand zu halten, die du h�ltst.
+
+K�nig Philipp.
+Ich kan wohl meine Hand aber nicht meinen Eyd zur�k ziehen.
+
+Pandolph.
+Du machst also die Pflicht zu einem Feind der Pflicht und sezest,
+wie in einem B�rger-Krieg, Eyd gegen Eyd, und Versprechen gegen
+Versprechen.  Hast du nicht dein erstes Gel�bde dem Himmel gethan,
+nemlich ein Besch�zer unsrer Kirche zu seyn, und mu� dieses nicht
+zuerst erf�llt werden?  Was du seitdem geschworen hast, ist wieder
+dich selbst geschworen, und kan nicht von dir vollzogen werden;
+denn wenn du geschworen hast unrecht zu thun, so besteht das
+Unrecht darinn, wenn du deinen Schwur h�ltst; und wenn du ihn nicht
+h�ltst, wofern ihn zu halten unrecht ist, so kanst du deine Pflicht
+nicht besser halten, als wenn du ihn nicht h�ltst.  In diesem Fall
+ist das Rechtm��igste, zweymal Unrecht zu thun; es scheint unrecht,
+aber das Unrecht wird dadurch wieder recht, und Untreue heilt
+Untreue, wie Feuer in den ger�steten Adern eines Menschen, der
+verbrennt wird, das Feuer k�hlt.  Die Religion ist es, was
+beschworne Gel�bde halten macht; allein du hast wider die Religion
+geschworen; du schw�rst bey etwas, wider welches du schw�rst, und
+machst einen Eid zur Sicherheit deiner Treue, gegen einen Eid,
+dessen Treue du dadurch unsicher machst.  Wenn man schw�rt, so
+schw�rt man ja allein, da� man nicht meineidig seyn soll; was f�r
+ein Gesp�tte w�r' es sonst zu schw�ren?  Du aber schw�rst allein,
+um falsch zu schw�ren; und bist meineidig, wenn du h�ltst was du
+geschworen hast.* Dein lezter Eid, den du gegen deinen ersten
+geschworen hast, ist also in dir selbst eine Emp�rung gegen dich
+selbst.  Und du kanst nimmermehr einen bessern Sieg davon tragen,
+als wenn du dein be�res Selbst gegen diese eiteln schwindlichten
+Eingebungen waffnest; wozu unser Gebet, wenn du es annehmen willst,
+dir beystehen soll.  Wo nicht, so wisse, da� unsre Fl�che so heftig
+auf dich blizen sollen, da� du nicht verm�gend seyn wirst sie
+abzusch�tteln, sondern unter ihrer schwarzen Last in Verzweiflung
+sterben wirst.
+
+{ed.-* In dieser langen Rede l��t Shakespeareden Legaten seine
+Geschiklichkeit in der Casuistik zeigen; und das abentheurliche
+Gemengsal von Wortspielen und Non-sens, woraus sie besteht, soll,
+nach seiner Absicht die Scholastische Dialectik l�cherlich machen.
+Wenn der Legat, wie im Verfolg des St�ks geschieht, als ein
+Staatsmann redet, spricht er aus einem ganz andern Ton; und ich
+vermuthe, die Absicht war zu zeigen, da� die R�mischen H�flinge
+ungleich bessere Politici als Theologi seyen.  Warb�rton.}
+
+�streich.
+Rebellion, offenbare Rebellion--
+
+Faulconbridge.
+Kan es denn nicht seyn?  Ist denn kein Kalbsfell da, das dir dein
+Maul stopfen kan?
+
+Ludwig.
+Vater, zu den Waffen.
+
+Blanca.
+An deinem Hochzeit-Tage?  Wider das Blut, mit dem du dich verm�hlt
+hast?  Wie?  Sollen erschlagne Menschen unserm Fest beywohnen?
+Sollen brausende Trompeten und lautlermende Trummeln, den Tact zu
+unserm hochzeitlichen Gepr�nge geben?  O h�re mich, mein Gemahl, (o
+Himmel!  wie neu ist dieses Wort in meinem Munde!) um dieses Namens
+willen, den meine Zunge izt zum erstenmal ausspricht, auf meinen
+Knien, bitt' ich dich, ergreiffe die Waffen nicht gegen meinen
+Oheim.
+
+Constantia.
+O, auf meinen Knien bitte ich dich, und sollt ich so lange knien,
+bis sie hart w�rden, du tugendhafter Dauphin, wende die vom Himmel
+zugedachte Rache nicht ab.
+
+Blanca.
+Izt ist die Gelegenheit, da du mir deine Liebe beweisen kanst; was
+f�r ein Beweggrund kan mehr bey dir gelten, als der Name einer
+Gemahlin?
+
+Constantia.
+Das was ihn und dich aufrecht erh�lt, seine Ehre.  O deine Ehre,
+Ludwig, deine Ehre!--
+
+Ludwig.
+Ich erstaunen wie Euer Majest�t so kalt seyn kan, da so wichtige
+Betrachtungen auf sie w�rken.
+
+Pandolph.
+Ich will den Fluch �ber sein Haupt aussprechen.
+
+K�nig Philipp.
+Du sollst es nicht n�thig haben.  England, ich falle von dir ab.
+
+Constantia.
+O edle Wiederkehr der verbannten Majest�t!
+
+Elinor.
+O sch�ndliche Emp�rung der Franz�sischen Unbest�ndigkeit!
+
+K�nig Johann.
+Frankreich, du sollst diese Stunde noch in dieser Stunde bereuen.
+
+Blanca.
+So mu� die Sonne in Blut untergehen.  Sch�ner Tag, fahr' wohl!  Wo
+ist die Parthey mit der ich gehen mu�?  Ich stehe zwischen beyden,
+jede Armee hat eine Hand, und indem ich beyde halte, reissen sie
+sich in ihrer Wuth von einander, und zerst�ken mich.  Gemahl, ich
+kan nicht beten, da� du gewinnen m�gest; Oheim, ich bin gezwungen
+zu beten, da� du verliehrest; Vater, ich kan das Gl�k nicht auf
+deine Seite w�nschen; Gro�mutter, ich will nicht w�nschen, da�
+deine W�nsche erh�rt werden; keine Parthey kan gewinnen, ohne da�
+ich auf der andern verliehre.
+
+Ludwig.
+Folget mir, Madame, euer Gl�k h�ngt nun von dem meinigen ab.
+
+Blanca.
+Wo mein Gl�k lebt, stirbt mein Leben.
+
+K�nig Johann.
+Vetter, geh und ziehe unsre V�lker zusammen.
+
+(Faulconbridge geht ab.)
+
+Frankreich, ich bin von einem Grimm entflammt, dessen Hize nichts
+als Blut, das Blut, das kostbarste Blut von Frankreich l�schen kan.
+
+K�nig Philipp.
+Deine Wuth soll dich aufzehren, und du sollt in Asche
+zusammenfallen, eh unser Blut di� Feuer l�schen soll.  Sieh zu dir
+selbst, du wagest viel.
+
+K�nig Johann.
+Nicht mehr als der so mir dr�uet.  Zun Waffen!  hinweg!
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Verwandelt sich in das Schlachtfeld.)
+(Lerm; Gefecht; Faulconbridge mit �streichs Kopf, tritt auf.)
+
+
+Faulconbridge.
+Nun bey meinem Leben, dieser Tag wird entsezlich hei�; irgend ein
+feuriger Teufel br�tet in der Luft, und sch�ttet Unheil herab.
+Hier lig du, �streichs Kopf,--So hat K�nig Richards Sohn sich
+seines Gel�bds entlediget, und der unsterblichen Seele seines
+Vaters �streichs Blut zum Todten-Opfer gebracht.  (K�nig Johann,
+Arthur und Hubert treten auf.)
+
+K�nig Johann.
+Hier Hubert, bring diesen Knaben in Verwahrung--Richard, ermuntre
+dich; meine Mutter wird in ihrem Gezelt best�rmt, und ist, wie ich
+besorge, gefangen.
+
+Faulconbridge.
+Ich befreyte sie, Gn�digster Herr; ihre Hoheit ist in Sicherheit,
+besorget nichts.  Aber zur�k, mein K�nig; noch ein wenig Arbeit
+wird diesen Tag zu einem gl�klichen Ende bringen.
+
+(Sie gehen ab.)
+
+
+
+F�nfte Scene.
+(Lermen; Gefecht; Flucht; K�nig Johann, Elinor, Arthur,
+ Faulconbridge, Hubert und Lords treten wieder auf.)
+
+
+K�nig Johann.
+So soll es seyn;
+
+(zu seiner Mutter.)
+
+Euer Gnaden soll unter einer starken Bedekung zur�kbleiben;
+
+(zu Arthur.)
+
+Vetter, sieh nicht so traurig aus; deine Gro�mama hat dich lieb,
+und dein Oheim will deines Vaters Stelle bey dir vertreten.
+
+Arthur.
+O di� wird meine Mutter vor Schmerz sterben machen.
+
+K�nig Johann (zu Faulconbridge.)
+Vetter, auf, nach England; eile voran, und siehe, da� du noch vor
+unsrer Ankunft unsre reichen �bte sch�ttelst; sez du ihre
+gefangnen Engel in Freyheit; der hungrige Krieg mu� an den fetten
+Ribben des Friedens zehren.  Vollziehe unsern Auftrag mit dem
+�ussersten Nachdruk.
+
+Faulconbridge.
+Gloke, Buch und Kerze sollen mich nicht zur�ktreiben, wo Gold und
+Silber mich einladen einen Besuch zu machen.  Ich verlasse Eu.
+Majest�t; Gro�mutter, wenn mir anders einmal einf�llt fromm zu seyn,
+will ich f�r eure Wohlfahrt beten; und hiemit k��' ich euch die
+Hand.
+
+Elinor.
+Lebe wohl, mein lieber Vetter.
+
+K�nig Johann.
+Vetter, lebe wohl.
+
+(Faulconbridge geht ab.)
+
+Elinor.
+Komm zu mir, kleiner Vettermann--auf ein paar Worte--
+
+(Sie nimmt den Arthur auf die eine Seite des Theaters.)
+
+K�nig Johann (zu Hubert auf der andern Seite.)
+Komm hieher, Hubert.  O mein lieber Hubert, wir sind dir sehr
+verbunden; in diesen Mauern von Fleisch ist eine Seele die dein
+Schuldner ist, und deine Liebe mit Wucher zu bezahlen gedenkt.
+Glaube mir, mein guter Freund, der freywillige Eid, womit du dich
+zu meinem Dienst verbunden hast, lebt in diesem Busen und wird
+theuer geachtet.  Gieb mir deine Hand, ich wollte dir etwas sagen--
+aber ich will es auf eine gelegnere Zeit versparen.  Beym Himmel,
+Hubert, ich bin recht besch�mt, wenn ich denke, wie grosse
+Verbindlichkeiten ich dir habe.
+
+Hubert.
+Ich bin es, der Euer Majest�t unendlich verpflichtet ist.
+
+K�nig Johann.
+Mein guter Freund, du hast noch keine Ursache das zu sagen--Aber du
+sollt bekommen--und so langsam die Zeit auch kriechen mag, so soll
+sie doch kommen, da� ich dir Gutes thun kan.  Ich hatte dir was zu
+sagen--Aber, la� es gehen: Die Sonne ist am Himmel, und der stolze
+Tag, von den Freuden der Welt umgeben, ist zu �ppig, zu voll von
+Lustbarkeiten, um mir Geh�r zu geben.  Wenn die mittern�chtliche
+Gloke mit ihrer ehernen Zunge �ber die schlaftrunkne Gesch�pfe der
+Nacht Eins erschallen liesse; wenn dieser Plaz wo wir stehn, ein
+Kirchhof w�re, und du vom Gef�hl von tausend Beleidigungen besessen
+w�rst; oder wenn der saure Geist der Melancholie dein Blut, das izt
+k�zlend in deinen Adern auf- und ab rollt, so dik wie Leim gemacht
+h�tte; oder wenn du sehen k�nntest ohne Augen, h�ren k�nntest ohne
+Ohren, und mir antworten ohne Zunge; wenn du, ohne Augen, ohne
+Ohren, ohne den beleidigenden Schall von Worten, durch blosse
+Gedanken mit mir reden k�nntest; denn wollt' ich, troz dem
+gro�augichten wachtsamen Tag meine Gedanken in deinen Busen
+aussch�tten--Aber so, will ich nicht--Und doch liebe ich dich sehr,
+und bey meiner Treue, ich denke, du liebest mich auch.
+
+Hubert.
+So sehr, da� ich, ich schw�r es beym Himmel, alles unternehmen will,
+was Euer Majest�t mir befehlen kan, wenn gleich der Tod mit der
+That verkn�pft w�re.
+
+K�nig Johann.
+Wei� ich nicht, da� du es thun w�rdest?  Guter Hubert, Hubert,
+Hubert, wirf dein Auge auf jenen Knaben; ich will dir was sagen,
+Freund; er ist eine rechte Schlange in meinem Wege, und wohin ich
+den Fu� sezen will, ligt er vor mir.  Verstehst du mich?  Du bist
+sein H�ter.
+
+Hubert.
+Und ich will ihn so h�ten, da� er Eu.  Majest�t nimmer in den Weg
+kommen soll.
+
+K�nig Johann.
+Tod.
+
+(leise.)
+
+Hubert.
+Gn�digster Herr.
+
+K�nig Johann.
+Ein Grab.
+
+Hubert.
+Er soll nicht leben.
+
+K�nig Johann.
+Genug, nun k�nnt' ich aufger�umt seyn.  Hubert, ich habe dich lieb.
+Gut, ich will nicht sagen, was ich f�r dich thun will; Vergi� es
+nicht--
+
+(indem er zu Elinor zur�kgeht.)
+
+Madame, lebet wohl, ich will Euer Majest�t die bewu�ten Truppen
+zusenden.
+
+Elinor.
+Mein Segen geht mit euch.
+
+K�nig Johann (zu Arthur.)
+Izt nach England, Vetter; Hubert soll euer Mann seyn, und euch mit
+aller schuldigen Ehrerbietung zu Diensten stehen, auf, nach Calais,
+hinweg!
+
+(Sie gehen ab.)
+
+
+
+Sechste Scene.
+(Verwandelt sich in den Franz�sischen Hof.)
+(K�nig Philipp, Ludwig, Pandolpho, und Gefolge treten auf.)
+
+
+K�nig Philipp.
+So wird durch ein heulendes Ungewitter auf dem Meer eine ganze
+Armade von vereinbarten Segeln zerstreut und von einander
+verschlagen.*
+
+{ed.-*Dieses Gleichni�, das an sich selbst an diesem Ort nicht zur
+Sache pa�t, ist, wie viele andere Stellen in diesem St�ke, eine
+Anspielung auf die spanische Invasion im Jahr 1588, und die
+damalige Zeit-Umst�nd; indem dieses Schauspiel l�ngstens einen oder
+zween Winter darnach zum erstenmal aufgef�hrt wurde.  Warburton.}
+
+Pandolph.
+Nur guten Muth gefa�t, alles soll noch gut gehen.
+
+K�nig Philipp.
+Was kan gut gehen, wenn es uns so �bel geht?  Sind wir nicht
+geschlagen?  Ist nicht Angiers verlohren?  Arthur gefangen?
+Verschiedne von unsern besten Freunden erschlagen?  Und unser
+blutiger Gegner, mit ver�chtlichem Troz nach England zur�kgegangen?
+
+Ludwig.
+Was er gewonnen hat, hat er befestiget: So kluge Entw�rfe, mit
+einem solchen Feuer ausgef�hrt, eine so gute Ordnung, in einem so
+ungest�men Lauf ist ohne Exempel; wer hat jemals von einer Action
+wie diese ist, gelesen oder geh�rt?
+
+K�nig Philipp.
+Ich k�nnte es nach wohl ertragen, da� England dieses Lob erhielte,
+wenn ich nur wenigstens ein Beyspiel, f�r unsre Schande kennte.
+(Constantia zu den Vorigen.) Sehet, wer kommt hier?  Das Grab einer
+Seele, das den unsterblichen Geist wider seinen Willen in der
+verha�ten Gefangenschaft eines gequ�lten Athems h�lt.  Ich bitte
+dich, Lady, komm mit mir hinweg.
+
+Constantia.
+Seht, seht, das ist nun der Ausgang euers Friedens.
+
+K�nig Philipp.
+Geduld, gute Lady; guten Muth, theure Constantia.
+
+Constantia.
+Nein, ich biete allem Rath, aller Hoffnung Troz, ausser dem was
+allem Rath und aller Hoffnung ein Ende macht.  Tod, Tod; o
+angenehmer liebensw�rdiger Tod!  du wohlriechender Gestank, du
+gesunde F�ulni�, steh auf aus deinem Lager einer ewigen Nacht, du
+Abscheu und Schreken des Gl�ks; und ich will deine ekelhaften
+Knochen k�ssen, und meine Augen in deine holen Augen-L�cher steken,
+und diese Finger mit den W�rmern, die in dir hausen, umwinden, und
+diesen Mund mit deinem vermoderten Staub verstopfen, und ein
+scheusliches Gerippe werden, wie du.  Komm, grinse mich an, und ich
+will denken du l�chelst, und dich wie dein Weib umarmen; o du
+Liebling des Elends, komm, komm zu mir!
+
+K�nig Philipp.
+O sch�ne Bek�mmerni�, stille!
+
+Constantia.
+Nein, nein, ich will nicht, so lang ich noch Athem habe zu schreyen;
+o, da� meine Zunge im Munde des Donners st�ke, damit ich mit
+meinem Schmerz die ganze Welt ersch�ttern, und dieses entfleischte
+faule Gerippe vom Schlaf aufweken k�nnte, das die Anrufung einer
+schwachen weiblichen Stimme nicht h�ren will.
+
+Pandolph.
+Lady, ihr sto�t Unsinn aus, nicht Schmerz.
+
+Constantia.
+Du vers�ndigest dich, das du das glaubst; ich bin nicht unsinnig;
+dieses Haar das ich ausrauffe, ist mein; mein Nam ist Constantia,
+ich war Gottfrieds Weib; der junge Arthur ist mein Sohn, und er ist
+verlohren!  Ich bin nicht unsinnig; wollte Gott, ich w�r' es!  denn
+alsdann k�nnt' ich vergessen, wer ich bin.  O wenn ich es k�nnte,
+was f�r einen Schmerz w�rd' ich vergessen!  Predige irgend eine
+Philosophie, die mich unsinnig mache, und du sollt canonisirt
+werden, Cardinal.  Denn, weil ich nicht unsinnig bin, sondern
+meinen Schmerz f�hle, so arbeitet mein vern�nftiger Theil, wie ich
+mich von diesem Jammer befreyen m�ge, und lehrt mich, da� ich mich
+erstechen oder erh�ngen soll.  Wenn ich unsinnig w�re, w�rd' ich
+meinen Sohn vergessen, oder in meinem Wahnwiz denken, das n�chste
+Wikel-Kind sey mein Sohn; ich bin nicht unsinnig; zu gut, allzugut
+f�hl ich die eigene Quaal jedes besondern Jammers.
+
+K�nig Philipp.
+Bindet diese fliegenden Loken auf; O was f�r Liebe seh ich in
+dieser sch�nen Menge ihrer Haare; wohin nur von ungefehr ein
+Silbertropfe gefallen ist, eben zu diesem Tropfen dr�ngen sich
+zehntausend feurige Freunde in geselligem Schmerz zusammen, gleich
+wahren unzertrennlichen, getreuen Liebhabern, die mit einander im
+Ungl�k ausharren.
+
+Constantia.
+Nach England, wenn ihr wollt.--
+
+K�nig Philipp.
+Bindet eure Haare auf
+
+Constantia.
+Ja, das will ich; und warum will ich es thun?  Ich ri� sie aus
+ihren Fesseln, und rief.  O da� diese H�nde meinem Sohne so die
+Freyheit geben k�nnten, wie sie diesen Haaren ihre Freyheit gegeben
+haben!  Aber nun beneid' ich ihre Freyheit, und will sie wieder in
+ihre Fesseln schliessen, weil mein armes Kind ein Gefangner ist.
+Und Vater Cardinal, ich hab' euch sagen geh�rt, wir werden unsre
+Freunde im Himmel wieder kennen.  Wenn das ist, so werd ich meinen
+Jungen nimmer wieder sehen.  Denn seit der Geburt Cains, des ersten
+m�nnlichen Kindes bis zu dem, der erst gestern seufzte, ist keine
+anmuthigere Creatur gebohren worden.  Aber nun wird der Krebs des
+Kummers meine Rosenknospe fressen, und die angebohrne Sch�nheit von
+seinen Wangen jagen; er wird aus holen Augen wie ein Gespenst
+schauen, so d�ster und hager wie ein vom Fieber ausgezehrter
+Kranker, und so wird er sterben und wenn er so wieder aufersteht,
+und ich ihn in dem himmlischen Hofe wieder antreffe, so werd' ich
+ihn nicht kennen; und also werd ich meinen holdseligen Arthur
+nimmer, nimmer wieder sehen.
+
+Pandolph.
+Ihr �berla�t euch euerm Schmerz zu sehr.
+
+Constantia.
+Das sagt mir einer, der niemals einen Sohn hatte--
+
+K�nig Philipp.
+Ihr liebet euern Schmerz, wie ihr euer Kind liebt.
+
+Constantia.
+Mein Schmerz f�llt den Plaz meines abwesenden Kindes aus, ligt in
+meinem Bette, geht mit mir auf und ab, zeigt mir seine anmuthigen
+Blike, wiederholt seine Worte, erinnert mich an alle seine
+liebreizenden Eigenschaften; ich hab' also Ursache meinen Schmerz
+zu lieben.  Gehabt ihr euch wohl; h�ttet ihr einen solchen Verlust
+erlidten wie ich, so k�nnte ich bessern Trost geben als ihr thut.
+Ich will diesen Prunk nicht auf meinem Kopf leiden,
+
+(Sie rei�t ihren Kopfzeug ab.)
+
+da eine solche Unordnung in meinem Verstand ist.  O Gott, mein
+Kind, mein Arthur, mein sch�ner Sohn!  Mein Leben, meine Freude,
+meine Nahrung, mein Alles in der Welt!  Mein Trost, die einzige
+Lindrung meines Kummers!  Mein Sohn!  Mein Sohn!
+
+(Sie geht ab.)
+
+K�nig Philipp.
+Ich besorge, es entsteht noch ein Ungl�k; ich will ihr folgen.
+
+
+
+Siebende Scene.
+
+
+Ludwig.
+Es ist nichts in der Welt, das mir mehr Vergn�gen geben kan; das
+Leben ist mir so ekelhaft als ein zweymal erz�hltes M�hrchen, das
+die schlaffen Ohren eines schl�frigen Menschen plagt.  Eine bittre
+Schmach hat den angenehmen Geschmak der Welt verderbt, so da� sie
+izt nach lauter Schande und Bitterkeit schmekt.
+
+Pandolph.
+Eh eine heftige Krankheit geheilt wird, unmittelbar vor dem
+Augenblik der wiederkehrenden Gesundheit, ist der Ansto� am
+heftigsten; scheidende �bel scheinen am schlimmsten, indem sie
+verschwinden.  Was habt ihr denn durch den Verlust dieses Tages
+verlohren?
+
+Ludwig.
+Alle ruhmvollen, frohen, gl�klichen Tage meines Lebens.
+
+Pandolph.
+Glaubet mir, dann h�ttet ihr verlohren, wenn ihr diesen Tag
+gewonnen h�ttet.  Nein, nein; wenn's das Gl�k am besten mit den
+Menschen meynt, so sieht es sie mit einem dr�uenden Auge an.  Es
+ist unglaublich, wie viel K�nig Johann gerade dadurch verlohren hat,
+was er f�r klaren Gewinn rechnet.  Schmerzt es euch nicht, da�
+Arthur sein Gefangner ist?
+
+Ludwig.
+So herzlich, als er sich freut da� er ihn hat.
+
+Pandolph.
+Euer Verstand ist noch so jung als euer Blut.  Nun h�re mich aus
+einem prophetischen Geiste reden; der blosse Athem der Worte die
+ich reden werde, soll jeden Staub, jeden Strohhalm, jedes kleine
+Hinderni� aus dem Wege wehen, der deinen Fu� gerade zu Englands
+Thron f�hren wird; h�re also!  Johann hat sich Arthurs bem�chtiget,
+und es ist unm�glich, da�, so lange warmes Leben in seinen jungen
+Adern spielt, Johann, der seinen Thron usurpirt, eine Stunde, ein
+Minute, ja nur einen Augenblik ruhig athmen k�nnte.  Ein Scepter
+der mit einer unrechtm��igen Hand gef�hrt wird, mu� so gewaltth�tig
+erhalten werden, als er gewonnen worden; und wer auf einem
+schl�pfrigen Plaz steht, ist nicht so z�rtlich, da� ihm etwas zu
+garstig seyn sollte, woran er sich halten kan.  Damit Johann stehen
+k�nne, mu� Arthur fallen; und so sey es, da es nicht anders seyn
+kan.
+
+Ludwig.
+Aber was kan ich durch Arthurs Fall gewinnen?
+
+Pandolph.
+Verm�ge des Rechts eurer Gemalin Blanca, k�nnt ihr alsdann in alle
+Anspr�che Arthurs eintreten.
+
+Ludwig.
+Und Anspr�che, Leben und alles verliehren, wie Arthur.
+
+Pandolph.
+Wie gr�n und jung ihr in dieser alten Welt noch seyd!  K�nig Johann
+thut das wichtigste f�r euch; die Umst�nde conspiriren mit euch,
+und der, so in Vergiessung des rechtm��igen Bluts seine Sicherheit
+sucht, wird nichts als eine blutige und unsichre Sicherheit finden.
+Diese �belthat wird die Herzen seines ganzen Volks erk�lten, und
+ihren Eifer f�r ihn so sehr gefrieren machen, da� sie den
+schlechtesten Anlas, seiner Regierung ein Ende zu machen, mit
+Freuden ergreiffen werden.  Es wird keine nat�rliche Ausd�nstung in
+der Luft seyn, kein Mi�griff der Natur, kein Wetter-Tag, kein
+gemeiner Sturmwind, keine gew�hnliche Naturbegebenheit, denen sie
+nicht eine �bernat�rliche Ursache geben, die sie nicht Meteore,
+Wunderzeichen, Mi�geburten und Vorbedeutungen, kurz, Zungen des
+Himmels nennen werden, die �berlaut wider Johann um Rache schreyen.
+
+Ludwig.
+Es ist aber m�glich, da� er dem jungen Arthur das Leben l��t, und
+sich begn�gt, ihn in einer ewigen Gefangenschaft zu halten.
+
+Pandolph.
+O Prinz, wenn er von eurer Ann�herung h�ren wird, und Arthur nicht
+schon fort ist, so stirbt er denselben Augenblik: Und dann werden
+die Herzen aller seiner Unterthanen sich wider ihn emp�ren, sich
+nach Ver�nderung sehnen, und von dieser blutigen That Anlas zu
+Aufruhr und Krieg nehmen.  Mich d�ucht, ich sehe diesen Lermen
+schon vor meinen F�ssen; und o!  was kan f�r euch gl�klichers
+gebr�tet werden, als was ich gesagt habe!--Der Bastard
+Faulconbridge ist nun in England, brandsch�zet die Kirche, und �bet
+unchristliche Gewaltth�tigkeit aus.  Wenn nur zw�lf bewehrte
+Franzosen dort w�ren, sie w�rden wie ein Zusammenruf seyn, und in
+einem Augenblik zehntausend Engl�nder an ihrer Seite sehen; oder
+wie ein kleiner Schneeball, der sich herabw�lzt und ein Berg wird.
+Edler Dauphin, folge mir zum K�nige; es ist erstaunlich, was f�r
+Folgen aus ihrem Mi�verst�ndni� gezogen werden k�nnen.  Izt, da
+ihre Seelen von Unwillen bis oben an gef�llet sind, izt England zu;
+ich will an dem K�nige treiben.
+
+Ludwig.
+Grosse Beweggr�nde zeugen grosse Thaten; wir wollen gehen; wenn ihr
+Ja sagt, wird der K�nig gewi� nicht Nein sagen.
+
+(Sie gehen ab.)
+
+
+
+
+Vierter Aufzug.
+
+
+
+Erste Scene.
+(Verwandelt sich in England.)
+(Ein Gef�ngni�.)
+
+(Hubert und zween Nachrichter treten auf.)
+
+
+Hubert.
+Macht mir diese Eisen gl�hend, und, du dort, bleibe hinter den
+Tapeten stehen; und wenn ich mit dem Fu� stampfe, so rausch hervor
+und binde den Knaben, den du bey mir finden wirst, fest an den
+Lehnstuhl: Gieb wol Acht; hinweg und wache.
+
+Nachrichter
+Ich hoffe, euer Befehl werde die That verantworten.
+
+Hubert.
+Unn�thige Bedenklichkeiten!  F�rchtet nichts, habt Sorge--Junger
+Herr, kommt hervor, ich hab' euch was zu sagen.  (Arthur tritt auf.)
+
+Arthur.
+Guten Morgen, Hubert.
+
+Hubert.
+Guten Morgen, kleiner Prinz.
+
+Arthur.
+Mit einem grossen Anspruch ein so kleiner Prinz als einer seyn mag.
+Ihr seyd traurig.
+
+Hubert.
+In der That, ich bin schon lustiger gewesen!
+
+Arthur.
+Der Himmel sey mir gn�dig!  Mich d�ucht, niemand sollte traurig
+seyn als ich; doch erinnre ich mich, wie ich noch in Frankreich war,
+an junge Leute, die aus lauter Muthwillen so traurig waren, wie
+die Nacht.  So wahr ich ein Christ bin, w�r ich nur aus dem
+Gef�ngni� und h�tete Schaafe, ich wollte so fr�lich seyn als der
+Tag lang ist.  Und das wollt' ich auch hier seyn, wenn ich nicht
+von meinem Oheim noch mehr b�ses besorgte.  Ist es mein Fehler, da�
+ich Gottfrieds Sohn worden bin?  In der That, es ist nicht; und
+wollte Gott ich w�re euer Sohn, so w�rdet ihr mich lieben, Hubert.
+
+Hubert (vor sich.)
+Wenn ich mit ihm rede, so wird er durch sein unschuldiges Geschw�ze
+mein erstorbnes Mitleiden aufweken.  Ich will also eilen, und
+meinen Auftrag vollziehen.
+
+Arthur.
+Seyd ihr krank, Hubert!  Ihr seht heute so bla� aus; gewi�lich, ich
+wollt' ihr w�ret ein wenig krank, damit ich die ganze Nacht neben
+euch sizen und mit euch wachen k�nnte.  Ach!  ich liebe euch mehr,
+als ihr mich lieb habt.
+
+Hubert.
+Seine Reden dringen mir ins Herz.
+
+(Er zeigt ihm ein Papier.)
+
+Lie� hier, junger Arthur--
+
+(Bey Seite.)
+
+Wie nun, n�rrisches Wasser, must du mein gefrohrnes Mitleiden
+aufthauen!  Ich mu� es kurz machen, oder mein Entschlu� vertr�pfelt
+in weibischen Thr�nen aus meinen Augen--K�nnt' ihr's nicht lesen?
+Ist es nicht sch�n geschrieben?
+
+Arthur.
+Nur zu sch�n Hubert, zu einer so h��lichen Absicht.  So m��t ihr
+meine beyden Augen mit Eisen ausbrennen.
+
+Hubert.
+Ich mu�, junger Herr.
+
+Arthur.
+Und ihr wollt es?
+
+Hubert.
+Und ich will.
+
+Arthur.
+Habt ihr das Herz dazu?  wenn euch nur der Kopf weh that, so band
+ich euch mein Schnupftuch um die Stirne; (mein bestes das ich hatte,
+eine Prince�in hatt' es mir gestikt;) und ich fordert' es niemals
+wieder von euch; und des Nachts hielt' ich euch mit meiner Hand den
+Kopf, und wachte bey euch die ganze Nacht durch, und fragte alle
+Minuten: was fehlt euch?  oder, wo thut's euch weh?  oder, was kan
+ich euch zu liebe thun?  Manches armen Manns Sohn w�rde still
+gelegen seyn, und nicht ein einziges freundliches Wort zu euch
+gesagt haben, und ihr hattet einen Prinzen zum Krankenw�rter--Doch
+nein, ihr k�nnt denken, meine Liebe zu euch sey nur verstellt und
+eigenn�zig gewesen.  Thut es, wenn ihr wollt; wenn es dem Himmel so
+gef�llt, da� ihr �bel mit mir umgehen sollt, nun dann, so m��t ihr--
+wollt ihr mir die Augen ausreissen, die euch niemals nur einen
+sauern Blik gaben, und es auch niemals thun sollen?
+
+Hubert.
+Ich habe geschworen, da� ich es thun wolle, und ich mu� sie mit
+gl�henden Eisen ausbrennen.
+
+Arthur.
+Ach, niemand, als in dieser eisernen Zeit, w�rde das thun.  Das
+Eisen selbst, obgleich feuerroth von Hize, w�rde, wenn es an diese
+Augen k�me, meine Thr�nen trinken, und in ihrem unschuldigen Wasser
+seine feurige Wuth l�schen.  Seyd ihr h�rter als Eisen?  O!  wenn
+ein Engel zu mir gekommen w�re und h�tte mir gesagt, Hubert werde
+mir die Augen ausstossen, ich h�tt' es ihm nicht geglaubt; keiner
+andern Zunge w�rd' ichs glauben, als deiner eignen.
+
+Hubert (stampft auf den Boden, und die M�nner kommen herein.)
+Hervor, thut wie ich euch befehle.
+
+Arthur (erschroken.)
+O Hubert, rette mich!  Meine Augen sind schon aus, nur von den
+grimmigen Bliken dieser blutigen M�nner.
+
+Hubert.
+Gebt mir das Eisen sag ich, und bindet ihn hieher.
+
+Arthur.
+O Gott, wozu habt ihr n�thig so ungest�m-rauh zu seyn?  Ich will
+mich nicht str�uben, ich will wie ein Stein still halten.  Um des
+Himmels willen, Hubert, la�t mich nicht binden!  Nein, h�re mich,
+Hubert, treibe diese M�nner weg, und ich will ruhig still sizen wie
+ein Lamm.  Ich will mich nicht regen, nicht wimpern, kein Wort
+reden, und das Eisen nicht zornig ansehen: Schiket nur diese M�nner
+fort, und ich will euch vergeben, was ihr mir auch f�r Marter
+anthun m�get.
+
+Hubert.
+Geht, bleibt vor aussen, la�t mich allein mit ihm.
+
+Nachrichter.
+Es ist mir lieber, weit von einer solchen That zu seyn.
+
+(Sie gehen ab.)
+
+Arthur.
+Ach, so hab ich meinen Freund weggetrieben; er hat einen
+erschreklichen Blik, aber ein mitleidiges Herz; la�t ihn wieder
+herein kommen, damit sein Mitleiden das eurige aufweke.
+
+Hubert.
+Komm, Junge, bereite dich.
+
+Arthur.
+Ist denn kein Mittel?
+
+Hubert.
+Keines, als deine Augen zu verliehren.
+
+Arthur.
+O Himmel!  da� doch nur ein St�ubchen, ein Splitterchen, eine M�ke,
+ein irrendes Haar in den eurigen w�re; wenn ihr f�hltet, was f�r
+Ungemach die kleinsten Dinge in diesem kostbaren Sinn anrichten,
+euer grausames Vorhaben m��t' euch entsezlich vorkommen.
+
+Hubert.
+Ist di� dein Versprechen; komm her, schweig und r�hre dich nicht--
+
+Arthur.
+Hubert, du willt mir nicht erlauben, da� ich um meine Augen jammere;
+ach, heisse mich nicht schweigen, Hubert, heisse mich's nicht;
+oder schneide mir die Zunge aus, wenn du willt, und la� mich nur
+meine Augen behalten.  Sieh, bey meiner Treu, das Eisen ist kalt,
+und w�rde mir kein Leid thun.
+
+Hubert.
+Ich kan es wieder hei� machen, Junge.
+
+Arthur.
+Nein, in rechtem Ernst, das Feuer ist vor Schmerz todt, da� es, zum
+Trost der Menschen erschaffen, zu einer solchen Grausamkeit
+gebraucht werden soll.  Seht nur selbst, diese brennenden Kohlen
+haben keine Kraft mehr; der Athem des Himmels hat sie ausgel�scht,
+und mit reuiger Asche �berstreut.
+
+Hubert.
+Aber ich kan sie mit meinem Athem wieder anblasen.
+
+Arthur.
+Und wenn ihr's thut, Hubert, so werdet ihr sie nur err�then, und
+�ber euer Verfahren vor Schaam gl�hen machen; ja, vielleicht werden
+sie euch in die Augen funkeln, wie ein Hund, der zum Angreiffen
+gen�thigt wird, nach seinem Meister schnappt, der ihn anhezt.  Alle
+Dinge, die ihr gebrauchen k�nnt mir �bels zu thun, versagen ihren
+Dienst; ihr allein habt nicht einmal so viel Erbarmen mit mir, als
+Feuer und Eisen, Gesch�pfe, die doch zu den unbarmherzigsten
+Verrichtungen gebraucht werden.
+
+Hubert.
+Wohlan dann, sieh und lebe; ich will deine Augen nicht anr�hren,
+wenn mir gleich dein Oheim alle seine Sch�ze geben wollte.  Und
+doch hab' ich geschworen; und ich war entschlossen, mit diesem
+Eisen hier sie auszubrennen.
+
+Arthur.
+O!  nun seht ihr wieder wie Hubert aus.  Alle diese Weile war't ihr
+verlarvt.
+
+Hubert.
+Stille, nichts weiter.  Adieu; euer Oheim darf nichts anders wissen,
+als da� ihr todt seyd.  Ich will diese h�ndische Auflaurer mit
+falschen Nachrichten anf�llen; und du, holdseliges Kind, schlaffe
+ruhig, und sicher, da� Hubert, um die ganze Welt, dir nichts Leides
+thun wollte.
+
+Arthur.
+O Himmel!  ich danke euch, Hubert.
+
+Hubert.
+Stille, nichts weiter; geh' sachte mit mir hinein; ich seze mich
+keiner kleinen Gefahr um deinetwillen aus.
+
+(Sie ziehen ab.)
+
+
+
+Zweyte Scene.
+(Verwandelt sich in den Hof von England.)
+(K�nig Johann, Pembroke, Salisbury, und andre Lords treten auf.)
+
+
+K�nig Johann.
+So sizen wir dann noch einmal wieder hier, noch einmal gekr�nt, und,
+wie ich hoffe, mit gewognen Augen angesehen.
+
+Pembroke.
+Dieses noch einmal, war, mit Euer Hoheit Erlaubni�, �berfl��ig; ihr
+seyd vorher schon gekr�nt worden, und dieser k�nigliche Schmuk ist
+euch niemals abgerissen, niemals die euch zugeschworne Treue durch
+Emp�rung gebrochen worden.  Kein Verlangen nach Ver�nderungen hat
+das Land beunruhiget, und niemand hat sich, in Hoffnung sein Gl�k
+zu verbessern, nach neuen Staats-Auftritten gel�sten lassen.
+
+Salisbury.
+Dieser doppelte Pomp einen Titel zu befestigen, der vorhin schon
+sicher war, ist eben soviel als feines Gold �berg�lden, die Lilie
+wei� f�rben, die Viole parfumiren, das Eis gl�tten, den Regenbogen
+mit einer neuen Farbe bereichern, und dem sch�nen Auge des Himmels
+durch ein Fakel-Licht einen h�hern Glanz geben wollen; es ist
+vergebliche Verschwendung und l�cherlicher �berflu�.
+
+Pembroke.
+Allein, da euer k�niglicher Wille erf�llt werden mu�te, so ist
+dieser Actus nun ein neu-erz�hltes altes M�hrchen; jedoch, weil
+eine ungelegne Zeit dazu genommen worden, bey der lezten
+Wiederholung, widrig und �bel aufgenommen.
+
+Salisbury.
+Das graue und wohlbekannte Angesicht des alten �chten Herkommens
+ist dadurch sehr entstellt; es giebt, gleich einem unversehns sich
+drehenden Winde, dem Lauf der Gedanken einen neuen Schwung, schrekt
+die stuzende �berlegung auf, und macht gesunde Gesinnungen krank,
+und Wahrheit verd�chtig, da es in einer so neuzugeschnittnen
+Kleidung aufzieht.
+
+Pembroke.
+Wenn Handwerksleute sich bem�hen noch besser zu machen als gut, so
+bringt ihr Flei� Mi�geburten hervor; und die Entschuldigung eines
+Fehlers macht oft den Fehler desto schlimmer, weil die
+Entschuldigung ein neuer Fehler ist; wie Lappen, die auf einen
+kleinen Ri� gesezt werden, ein Gewand durch die Verbergung des
+Risses mehr entstellen, als der Ri� that, eh er so geflikt war.
+
+Salisbury.
+Aus diesen Betrachtungen mi�riethen wir diese neue Kr�nung eh sie
+vollzogen wurde; allein es gefiel Eu.  Hoheit dar�ber hinaus zu
+gehen, und wir lassens uns alle wol gefallen; indem alles und jedes,
+was wir wollen k�nnten, vor Eu.  Hoheit Willen Halte machen mu�.
+
+K�nig Johann.
+Einige Ursachen von dieser doppelten Kr�nung hab' ich euch schon
+er�ffnet, und ich halte sie f�r stark.  Noch weit st�rkere werd'
+ich euch zu seiner Zeit entdeken, und ich bin also dieses Puncts
+wegen ohne Furcht.  Inzwischen zeiget nur an, was ihr gerne
+verbessert h�ttet, und ihr sollt erfahren, wie bereitwillig ich
+eure Bitten anh�ren und erf�llen will.
+
+Pembroke.
+Erlaubet also, Gn�digster Herr, da� ich, als derjenige, der die
+Zunge von diesen allen ist, und die Gedanken ihres Herzens
+ausspricht, (f�r Sie sowol als mich selbst, am meisten aber f�r
+eure eigne Sicherheit, f�r welche wir alle unsre besten Bem�hungen
+anwenden) angelegenst um die Befreyung des jungen Arthur bitten;
+dessen Einsperrung die murmelnden Lippen des Mi�vergn�gens in
+gef�hrliche Reden auszubrechen reizt.  Wenn ihr das, was ihr in
+Ruhe besizt, auch mit Recht besizt, warum soll die Furcht (die, wie
+man sagt, sonst nur den Fu�tritt des Unrechts begleitet,) euch
+bewegen, euern jungen Neffen einzusperren, ihn in einer
+barbarischen Unwissenheit zu lassen, und seiner Jugend alle
+Vortheile einer guten Erziehung zu versagen?  La�t euch also
+gefallen, damit die �belgesinnten keinen Vorwand haben, dessen sie
+bey Gelegenheit sich bedienen k�nnten, uns eine Bitte zu gew�hren,
+wozu Ihr selbst uns aufgemuntert habet, und ihm seine Freyheit zu
+schenken, um die wir nicht anders zu unserm besten bitten, als weil
+unser bestes von dem Eurigen abh�ngt.  (Hubert zu den Vorigen.)
+
+K�nig Johann.
+Ich bin es zufrieden, und vertraue seine Jugend eurer Aufsicht an--
+Hubert, was bringt ihr Neues?
+
+Pembroke (zu Salisbury.)
+Das ist der Mann, der die blutige That thun sollte, er zeigte einem
+von meinen Freunden, den Befehl den er dazu hatte.  Das Bild einer
+gr��lichen �belthat lebt in seinem Auge; sein betretnes und
+gezwungnes Aussehen verr�th ein sehr beunruhigtes Herz, und mir ist
+bange, die That m�chte schon geschehen seyn, die ihm befohlen
+worden.
+
+Salisbury.
+Der K�nig ver�ndert die Farbe alle Augenblike, sie kommt und geht
+von seinem Vorhaben zu seinem Gewissen, und von diesem zu jenem,
+wie Herolde zwischen zwey f�rchterlichen Schlacht-Ordnungen; seine
+Gem�thsbewegung schwillt so sehr an, da� sie nothwendig aufbrechen
+mu�.
+
+Pembroke.
+Und wenn sie aufbricht, so f�rcht ich, es wird nichts anders
+herauskommen, als der sch�ndliche Eiter von eines holdseligen
+Kindes Tod.
+
+K�nig Johann.
+Wir k�nnen der m�chtigen Hand des Todes keinen Einhalt thun.  Er
+sagt uns, Arthur sey diese Nacht gestorben.
+
+Salisbury.
+In der That, wir besorgten, seine Krankheit m�chte unheilbar seyn.
+
+Pembroke.
+In der That, wir h�rten, wie nah er dem Tode war, eh das Kind
+selbst f�hlte da� es krank war.  Daf�r mu� Rede und Antwort gegeben
+werden, hier oder anderswo.
+
+K�nig Johann.
+Warum heftet ihr so feyrliche Blike auf mich?  Denkt ihr, ich trage
+die Scheere der G�ttin des Schiksals?  Hab' ich �ber den Puls des
+Lebens zu befehlen?
+
+Salisbury.
+Es ist augenscheinlich, da� es nicht richtig zugegangen; und es ist
+sch�ndlich, da� Gr�sse es auf eine so grobe Art zu erkennen giebt.
+Wie gut ihr euer Spiel dadurch gemacht habt, wird sich zeigen, und
+hiemit gehabt euch wohl.
+
+Pembroke.
+Warte noch, Lord Salisbury, ich will mit dir gehen, und das
+Erbtheil dieses armen Kindes, sein kleines K�nigreich von einem
+gewaltsamen Grabe suchen.  Dieses Blut, das ein Recht an alles was
+auf dieser Insel athmet, hatte, schlie�t nun ein Raum von drey
+Schuhen ein.  Es ist izt eine schlimme Welt!  Aber das mu� nicht so
+gelidten werden; dieses kan, und in kurzem, allen unsern
+Beschwerden zum Ausbruch helfen.
+
+(Sie gehen ab.)
+
+
+
+Dritte Scene.
+(Ein Courier zu den Vorigen.)
+
+
+K�nig Johann (f�r sich.)
+Sie brennen vor Unwillen; es reuet mich; es ist kein sichrer Grund
+der auf Blut gelegt wird, und das Leben wird durch eines andern Tod
+schlecht gesichert.
+
+(Zum Courier.)
+
+Du siehst erschroken aus!  Wo ist das Blut, das ich sonst in
+deinen Wangen wohnen gesehen habe?  Ein tr�ber Himmel erheitert
+sich nicht ohne einen Sturm; sch�tte dein Ungewitter herab; wie
+geht es in Frankreich?
+
+Courier.
+Niemals ist in einem Land eine so f�rchterliche Kriegszur�stung
+gemacht worden als in Frankreich, zu einem Einfall in England.  Sie
+haben uns die Eilfertigkeit abgelernt; denn da euch berichtet
+werden sollte, da� sie sich r�sten, kommt die Zeitung schon, da�
+sie gel�ndet haben.
+
+K�nig Johann.
+In was f�r einer Trunkenheit haben denn unsre Freunde geschlafen?
+Wo ist unsrer Mutter Sorgfalt?  da� eine solche Armee in Frankreich
+aufgestellt werden soll, und wir nicht einmal etwas davon h�ren?
+
+Courier.
+Gn�digster Herr, ihre Ohren sind mit Staub verstopft; den ersten
+April starb eure edle Mutter, und wie ich h�re, ist drey Tage
+vorher auch die Lady Constantia in Raserey verstorben.  Doch dieses
+habe ich nur von einem schw�rmenden Ger�chte; ob es wahr oder
+falsch ist, wei� ich nicht.
+
+K�nig Johann.
+Hemme deine Geschwindigkeit, gefahrvolle Zeit; o!  mach einen
+Waffenstillstand mit mir, bis ich meine mi�vergn�gten Pairs
+befriedigst habe.  Wie?  Meine Mutter todt?  Wie �bel mu� es also
+in meinen Franz�sischen Staaten gehen!--Unter wessen Anf�hrung
+haben diese V�lker aus Frankreich, die du mir ank�ndigest, hier
+gel�ndet?
+
+Courier.
+Unter dem Dauphin.  (Faulconbridge und Peter von Pomfret zu den
+Vorigen.)
+
+K�nig Johann.
+Du hast mich mit diesen b�sen Zeitungen ganz schwindlicht gemacht--
+
+(Zu Faulconbridge.)
+
+Nun, was sagt die Welt zu unserm Verfahren?  Stopfe mir nicht noch
+mehr solche schlimme Neuigkeiten in den Kopf, er ist schon voll.
+
+Faulconbridge.
+Wenn ihr euch f�rchtet das schlimmste zu h�ren, so m��t ihr das
+schlimmste ungeh�rt �ber euern Kopf einst�rzen lassen.
+
+K�nig Johann.
+Habe Geduld mit mir, Vetter; ich war einen Augenblik bet�ubt; aber
+izt athme ich wieder frey, und kan alles h�ren, was mir irgend eine
+Zunge sagen kan.
+
+Faulconbridge.
+Wie ich mit der Geistlichkeit zu Werke gegangen bin, k�nnen die
+Summen die ich zusammen gebracht am besten sagen.  Allein indem ich
+das Land, um hieher zu kommen, durchreiset bin, find' ich das Volk
+in einem seltsamen Ansto� von Schw�rmerey, von Rumoren besessen und
+voll wunderlicher Tr�ume, voller Furcht und Schreken, ohne zu
+wissen, was sie f�rchten; und hier ist ein Prophet, den ich von den
+Strassen von Pomfret, wo ihm ein unz�hliches Volk nachlief,
+weggenommen, und mit mir gebracht habe.  Er sang ihnen in rauhen
+hartklingenden Reimen, da� vor n�chstem Auffahrts-Tag, mittags, Eu.
+Hoheit die Crone niederlegen w�rden.
+
+K�nig Johann.
+Du eitler Tr�umer, warum thatest du das?
+
+Peter.
+Weil ich vorher wei�, da� es geschehen wird.
+
+K�nig Johann.
+Hubert, hinweg mit ihm, ins Gef�ngni�, und auf den Tag, mittags,
+wenn ich, wie er sagt, die Crone niederlegen soll, la� ihn
+aufh�ngen.  Bring ihn in sichre Verwahrung und komm wieder, denn
+ich habe dich n�thig.
+
+(Hubert geht mit Peter ab.) (Zu Faulconbridge.)
+
+O mein liebster Vetter, h�rst du die Zeitung, die sich von einer
+Landung ausbreitet?
+
+Faulconbridge.
+Jedermanns Mund ist voll davon; �berdas traf ich den Lord Bigot und
+den Lord Salisbury an, mit Augen so roth wie frisch angeblasenes
+Feuer, und noch viele andre, welche giengen Arthurs Grab zu suchen,
+der, wie sie sagen, diese Nacht auf euer Anstiften ermordet worden
+sey.
+
+K�nig Johann.
+Mein lieber Vetter, geh, wage dich in ihre Gesellschaft; ich hab'
+einen Weg ihre Liebe wieder zu gewinnen; bringe sie vor mich.
+
+Faulconbridge.
+Ich will sie aufsuchen.
+
+K�nig Johann.
+Aber eile; du kanst nicht zu sehr eilen.  O la�t mich keine
+einheimische Feinde haben, wenn ausw�rtige Gegner meine St�dte mit
+dem furchtbaren Pomp eines trozigen Einfalls schreken!  Sey mein
+Mercurius, seze Fl�gel an deine F�sse, und fliege, wie ein Gedanke,
+von ihnen zu mir zur�k.
+
+Faulconbridge.
+Der Geist der Zeit soll mich eilen lehren.
+
+(Er geht ab.)
+
+K�nig Johann.
+Das ist gesprochen, wie ein muntrer junger Edelmann sprechen soll.
+Folg ihm; vielleicht hat er einen Courier zwischen mir und den
+Pairs n�thig; du taugst am besten dazu.
+
+Courier.
+Von Herzen gerne, mein Gebieter.
+
+(Geht ab.)
+
+K�nig Johann.
+Meine Mutter todt!
+
+
+
+Vierte Scene.
+(Hubert tritt auf.)
+
+
+Hubert.
+Gn�digster Herr, man sagt, es haben sich diese Nacht f�nf Monde
+sehen lassen; viere seyen stille gestanden, und der f�nfte habe
+sich mit einer erstaunlichen Geschwindigkeit um die andern vier
+herumgedreht.
+
+K�nig Johann.
+F�nf Monde?
+
+Hubert.
+Alte M�nner und alte M�tterchen, auf den Strassen, machen
+gef�hrliche Propheceyungen hier�ber; des jungen Arthurs Tod ist
+immer in ihrem Mund, und wenn sie von ihm reden, so sch�tteln sie
+die K�pfe und wispern einander ins Ohr; und der so redt, fa�t den
+H�rer bey der Hand, indem der, so zuh�rt, Gebehrden des Entsezens
+macht, die Stirne r�mpft, den Kopf sch�ttelt und die Augen verdreht.
+Ich sah einen Schmidt mit seinem Hammer, der, inde� da� sein
+Eisen auf dem Ambos erkaltete, mit ofnem Maul die Zeitungen eines
+Schneiders einschlang, der mit seinem Ellstab und seiner Scheer in
+der Hand, in halbangezognen Schuhen, in die er vor Eilfertigkeit
+den unrechten Fu� gestekt hatte, von viel tausend tapfern Franzosen
+erz�hlte, die in Kent in Schlachtordnung st�nden; bis ein andrer
+hagrer, ungewaschner Handwerksmann seiner Erz�hlung ein Ende machte,
+und von Arthurs Tod redte.
+
+K�nig Johann.
+Warum suchst du mich durch dergleichen Schrekbilder zu beunruhigen?
+Warum wiederholst du Arthurs Tod so oft?  Deine Hand ist sein
+M�rder gewesen; ich hatte Ursachen seinen Tod zu w�nschen, du
+hattest keine.
+
+Hubert.
+Ich hatte keine, Sire?  Wie?  Reiztet ihr mich nicht dazu an?
+
+K�nig Johann.
+Es ist ein Fluch der K�nige, Sclaven um sich zu haben, die ihre
+Launen f�r Befehle nehmen; die einen blossen Wink des Herrn f�r ein
+Gesez halten, das sie zu jeder blutigen That berechtigt, und die
+Gedanken der gef�hrlichen Majest�t zu befolgen glauben, wenn sie
+vielleicht mehr aus einem Ansto� von schlimmem Humor als aus
+�berlegter Absicht sauer sieht.
+
+Hubert.
+Hier ist eure Hand, und euer Sigel, f�r das was ich that.
+
+K�nig Johann.
+O, wann die lezte Rechnung zwischen Himmel und Erde gemacht werden
+wird, dann wird diese Hand und di� Sigel wider uns zeugen!  Wie oft
+wird eine �belthat nur darum gethan, weil wir die Mittel, sie zu
+thun, vor uns sehen!  W�rest du nicht bey der Hand gewesen, ein
+Geselle, den die Hand der Natur zu Ausf�hrung einer Schandthat
+ausgezeichnet hat, dieser Mord w�re mir niemals in den Sinn
+gekommen.  Dein grelles Aussehen, die Geschiklichkeit, die
+Willigkeit zu gef�hrlichen Dingen und blutigen Bubenst�ken, die ich
+an dir fand, versuchte mich--Und du, um dich einem K�nig beliebt zu
+machen, machtest dir kein Gewissen, einen Prinzen zu ermorden.
+
+Hubert.
+Gn�digster Herr--
+
+K�nig Johann.
+H�ttest du nur deinen Kopf gesch�ttelt, nur eine Pause gemacht, da
+ich dir einen dunkeln Wink von meinem Vorhaben gab, nur einen
+bedenklichen zweifelhaften Blik auf mich geworffen, oder mich
+gebeten, da� ich deutlich reden sollte; die Schaam w�rde mich stumm
+gemacht und deine Furcht auch in mir Furcht erwekt haben.  Aber du
+verstuhndest mich aus blossen Zeichen, und antwortetest auch durch
+blosse Zeichen; ja, ohne einen Augenblik zu stoken, liessest du
+dein Herz einwilligen, und dem zufolge deine rauhe Hand die That
+vollbringen, die beyder Zungen zu nennen sich scheuten--Hinweg aus
+meinem Gesicht, la� dich nimmer vor mir sehen.  Meine Edeln
+verlassen mich, mein Reich wird �berfallen, und die feindlichen
+Heere stehen schon vor meinen Thoren gelagert; und ach!  in diesem
+K�nigreich meiner Seele, in diesen Grenzen von Blut und Athem,
+herrscht Feindseligkeit und b�rgerlicher Aufruhr zwischen meinem
+Gewissen und meines Neffen Tod.
+
+Hubert.
+Waffnet euch gegen eure andern Feinde, ich will zwischen euch und
+euerm Gewissen Friede machen.  Der junge Arthur lebt noch; diese
+meine Hand ist noch eine jungfr�uliche, unschuldige Hand, und von
+Blut unbeflekt.  Noch niemals ist in diesen Busen ein
+meuchelm�rdrischer Gedanke gekommen, und ihr habt durch euer
+Urtheil von meinem Aussehen die Natur verleumdet.  So rauh es
+scheinen mag, so bedekt es doch ein Gem�th, das zu edel ist, der
+Henker eines unschuldigen Kindes zu seyn.
+
+K�nig Johann.
+Lebt Arthur noch?  O so eile zu den Pairs, giesse diese Nachricht
+auf ihren flammenden Grimm, und z�hme sie zu ihrer Schuldigkeit.
+Vergieb der Auslegung, die meine Leidenschaft �ber deine Gestalt
+gemacht hat, denn meine Wuth war blind; und Augen, in denen meine
+Einbildung eine Blutschuld funkeln sah, stellten dich mir
+gr��licher dar als du bist.  O, antworte mir nicht, sondern bringe
+mir die erz�rnten Lords mit der �ussersten Geschwindigkeit in mein
+Cabinet.  Ich beschw�re dich nur langsam; renne noch eilfertiger.
+
+(Sie gehen ab.)
+
+
+
+F�nfte Scene.
+(Eine Strasse vor einem Gef�ngni�.)
+(Arthur tritt verkleidet an die Mauer desselben.)
+
+
+Arthur.
+Die Mauer ist hoch, und doch will ich herunter springen.  Guter
+Boden, sey mitleidig und thu mir kein Leid.  Es kennt mich hier
+niemand, und wenn man mich auch kennte, so macht mich diese Gestalt
+eines Schifferjungens v�llig unerkenntlich.  Ich f�rchte mich, und
+doch will ich es wagen.  Wenn ich herunter komme, und unbesch�digt
+bleibe, will ich tausend Mittel finden, davon zu kommen; es ist
+eben so gut mein Leben zu wagen, indem ich zu entkommen suche, als
+mein Leben zu verliehren, wenn ich bleibe.
+
+(Er springt herab.)
+
+Weh mir, meines Oheims Geist ist in diesen Steinen!  Himmel, nimm
+meine Seele auf, und England meine Gebeine.
+
+(Er stirbt.)
+
+(Pembrok, Salisbury und Bigot treten auf.)
+
+Salisbury.
+Lords, ich will ihm zu St.  Edmondsbury entgegen kommen; es ist f�r
+uns das sicherste; wir k�nnen in den gef�hrlichen Umst�nden, worinn
+wir sind, dieses freundliche Anerbieten nicht ausschlagen.
+
+Pembrok.
+Wer �berbrachte diesen Brief von dem Cardinal?
+
+Salisbury.
+Der Graf von Melun, ein Franz�sischer Edelmann, dessen m�ndliche
+Erz�hlung von des Dauphins guter Gesinnung gegen uns mir noch weit
+mehr gesagt hat, als dieser Brief
+
+Bigot.
+So wollen wir ihm dann morgen fr�h entgegen gehen.
+
+Salisbury.
+Oder vielmehr uns auf den Weg machen, denn wir werden zween lange
+Tagreisen haben, eh wir bey ihm eintreffen werden.  (Faulconbridge
+zu den Vorigen.)
+
+Faulconbridge.
+Ich freue mich, euch noch einmal anzutreffen, Milords; der K�nig
+ersucht durch mich um eure unverz�gliche Gegenwart.
+
+Salisbury.
+Der K�nig hat sich selbst aus unserm Besiz gesezt; wir wollen
+seinen d�nnen besudelten Rok nicht mit unsrer reinen Ehre f�ttern,
+noch den Fu� begleiten, der, wohin er tritt, blutige Fu�stapfen
+zur�k l��t.  Kehrt zur�k, und sagt ihm das; wir wissen das �rgste.
+
+Faulconbridge.
+Was ihr auch denken m�get, so w�ren gute Worte, wie ich glaube, das
+beste.
+
+Salisbury.
+Sir, Sir, Ungeduld hat ein Privilegium.
+
+Faulconbridge.
+Es ist wahr, seinem Besizer zu schaden, und sonst niemandem.
+
+Pembroke.
+Hier ist das Gef�ngni�; wer ligt hier?
+
+(Indem er Arthur gewahr wird.)
+
+Salisbury.
+O Tod, stolz auf die Zerst�rung dieser reinen und f�rstlichen
+Sch�nheit.  Die Erde hat keine Grube, diese That zu verbergen.
+
+Bigot.
+Der Meuchelmord, als ob er selbst verabscheute, was er gethan hat,
+legt sie offenbar zur Schau aus, um die Rache aufzureizen.
+
+Salisbury.
+Sir Richard, was denkt ihr?  Habt ihr jemals so etwas gesehen, oder
+gelesen, oder geh�rt, oder euch vorstellen k�nnen, als ihr hier
+sehet; ja, k�nnt ihr es begreiffen, ob ihr's gleich sehet?  K�nnte
+die Denkungs-Kraft, ohne einen solchen Gegenstand, eine solche
+Vorstellung hervorbringen?  Es ist der Gipfel, die h�chste Spize,
+das �usserste von dem �ussersten was der Meuchelmord wagen kan;
+es ist die blutigste Schandthat, die wildeste Unmenschlichkeit, der
+niedertr�chtigste Streich, den jemals die starr-augichte Wuth den
+Thr�nen des sanften Mitleidens dargestellt hat.
+
+Pembrok.
+Alle Mordthaten die jemals geschehen sind, werden durch diese
+entschuldiget; sie ist so einzig, so mit keiner andern zu
+vergleichen, da� sie die noch ungebohrnen S�nden der Zukunft rein
+und heilig, und einen jeden Menschen-Mord zu einem blossen Scherz
+macht, in Vergleichung mit diesem abscheulichen Spektakel.
+
+Faulconbridge.
+Es ist eine verfluchte That, eine gottlose That einer m�rdrischen
+Hand, wenn es anders die That irgend einer Hand ist.
+
+Salisbury.
+Wenn es die That irgend einer Hand ist?  Wir hatten eine Art von
+Licht, was erfolgen w�rde.  Es ist die sch�ndliche That von Huberts
+Hand, die hierinn das Werkzeug zu dem Willen des K�nigs gewesen ist.
+Und hier, schw�re ich meine Seele von allem Gehorsam gegen ihn
+los, hier vor dem Ruin dieses anmuthigen Lebens kniend, und athme
+zu dieser athemlosen Vortreflichkeit den Weyhrauch eines Gel�bdes,
+eines heiligen Gel�bdes, da� ich eher von keinem Vergn�gen des
+Lebens kosten, eher keiner Freude und keiner Ruhe den Zutritt zu
+mir lassen will, bis ich diese ermordete Unschuld durch die
+feyrlichste Rache vers�hnt haben werde.
+
+Pembrok.  Bigot.
+Unsre Seelen bekr�ftigen dein heiliges Gel�bde!
+
+
+
+Sechste Scene.
+(Hubert zu den Vorigen.)
+
+
+Hubert.
+Milords, ich suche euch allenthalben mit feurigster Eile; Arthur
+lebt, und der K�nig sendet nach euch.
+
+Salisbury.
+O, er ist k�hn und err�thet nicht zu todt; hinweg, du verabscheuter
+Lasterbube, aus meinem Gesicht!
+
+Hubert.
+Ich bin kein Lasterbube.
+
+Salisbury.
+Mu� ich dem Gesez zuvorkommen?
+
+(Er zieht seinen Degen.)
+
+Faulconbridge.
+Euer Schwerdt ist gl�nzend, Sir, stekt es wieder ein.
+
+Salisbury.
+Nicht eher, bis ich ihm eines M�rders Haut zur Scheide gemacht habe.
+
+Hubert.
+Zur�k, Lord Salisbury; zur�k, sag ich; beym Himmel, mein Degen ist
+so scharf als der eurige; ich m�chte nicht, Lord, da� ihr euch
+selbst verg�sset, oder die Gefahr meiner abgen�thigten Gegenwehr
+reiztet; oder ich m�chte, von eurer Wuth aufgefodert, euern Werth,
+euern Adel und eure Gr�sse vergessen.
+
+Bigot.
+Hinweg, Misthaufe, unterstehst du dich einem Edelmann zu trozen?
+
+Hubert.
+Nicht f�r mein Leben; aber meine Unschuld untersteh ich mich gegen
+einen Kayser zu vertheidigen.
+
+Salisbury.
+Du bist ein M�rder.
+
+Hubert.
+Zwingt mich nicht es zu werden; izt, bin ich noch keiner; Wessen
+Zunge falsch redet, redt nicht wahr, und wer nicht wahr redt, l�gt.
+
+Pembroke.
+Haut ihn in St�ken.
+
+Faulconbridge.
+Halte Frieden, sag ich.
+
+Salisbury.
+Auf die Seite, Faulconbridge, oder ich will dir die Haut abziehen.
+
+Faulconbridge.
+Du w�rdest leichter dem Teufel die Haut abziehen, Salisbury.  Wenn
+du dich erk�hnst mich nur sauer anzusehen, nur deinen Fu�
+vorzusezen, oder ein unanst�ndiges Wort gegen mich auszustossen, so
+schlag ich dich tod nieder.  Steke deinen Degen bey Zeiten ein,
+oder ich will dich und deinen Bratspie� so zusammenpleuen, da� du
+denken sollst, der Teufel aus der H�lle sey �ber dich gekommen.
+
+Bigot.
+Was willt du thun, ruhmvoller Faulconbridge?  Einem B�sewicht
+beystehen, einem M�rder?
+
+Hubert.
+Lord Bigot, ich bin keiner.
+
+Bigot.
+Wer ermordete diesen Prinzen?
+
+Hubert.
+Es ist noch keine Stunde seit ich ihn gesund verlassen habe; ich
+ehrt' ihn, ich liebt' ihn, und ich will mein lebenlang den Verlust
+seines s�ssen Lebens beweinen.
+
+Salisbury.
+Trauet nicht diesem heuchelnden Wasser in seinen Augen; ein
+B�sewicht kan auch weinen, und eine lange �bung macht, da� seine
+erzwungene Z�hren Str�me des Mitleidens und der Unschuld scheinen.
+Folget mir alle, deren Seelen den unreinen Geruch eines
+Schlachthauses verabscheuen; ich erstike in den Ausd�nstungen
+dieser Schandthat.
+
+Bigot.
+Hinweg nach Edmondsbury, zu dem Dauphin.
+
+Pembrok.
+Saget dem K�nig, dort k�nn' er uns erfragen.
+
+(Die Lords gehen ab.)
+
+
+
+Siebende Scene.
+
+
+Faulconbridge.
+Das ist eine feine Welt; wi�t ihr was um diese saubre Arbeit?
+Hubert, wann du diese That gethan hast, so reicht eine grenzenlose
+G�te nicht zu, dir zu vergeben.
+
+Hubert.
+H�rt mich nur an, Sir.
+
+Faulconbridge.
+Ha!  ich will dir was sagen; du bist verdammt, so schwarz--Nein,
+nichts ist so schwarz, tiefer verdammt als Lucifer; es ist kein so
+scheu�licher Teufel in der H�lle wie du seyn wirst, wenn du di�
+Kind umgebracht hast.
+
+Hubert.
+Bey meiner Seele--
+
+Faulconbridge.
+Wenn du nur deinen Willen zu dieser Unmenschlichkeit gegeben hast,
+so verzweifle; und wenn du keinen Strik hast, so wird der d�nnste
+Faden, den jemals eine Spinne aus ihrem Leib gezogen hat, stark
+genug werden, dich zu erdrosseln; ein Rohr wird ein Balken werden,
+dich daran zu h�ngen; oder wenn du dich ers�uffen willt, so gie�
+nur ein wenig Wasser in einen L�ffel, und es wird soviel seyn als
+der ganze Ocean, zureichend, einen solchen B�sewicht zu erstiken.
+Du bist mir �usserst verd�chtig.
+
+Hubert.
+Wenn ich durch That, Einwilligung oder nur durch die S�nde eines
+Gedankens an dem Raub dieses anmuthsvollen Lebens schuldig bin, so
+m�ge die H�lle selbst neue Qualen n�thig haben mich zu martern.  Er
+war wohl da ich ihn verlie�.
+
+Faulconbridge.
+Geh, trag' ihn in deinen Armen fort.  Ich bin ganz bet�ubt, d�ucht
+mich, und verliehre meinen Weg unter den Dornen und Gefahren dieser
+Zeit--Wie wenig M�he brauchst du, ganz England aufzuheben!  Aus
+diesem kleinen zerbrochnen Geh�use der rechtm��igen K�nigs-W�rde
+ist das Leben, der Friede, die Treue von diesem ganzen K�nigreich
+gen Himmel geflogen; und das verla�ne England als ein Ding, das
+keinen rechtm��igen Eigenth�mer hat, ist dem �berlassen, der es
+zuerst zu paken kriegt.  Der h�ndische Krieg str�ubt nun, um den
+halbabgenagten Knochen der Majest�t, seinen z�rnenden Kamm, und
+bl�kt die Z�hne gegen die freundlichen Augen des Friedens.  Nun
+stossen ausw�rtige Kriegsschaaren und einheimische Mi�vergn�gte in
+gerader Linie auf einander, und �de Verw�stung laurt, wie ein Rabe
+auf ein angestektes und gefallenes St�k Vieh, auf den st�rzenden
+Fall des �berw�ltigten Pomps.  Nun ist derjenige gl�klich, den sein
+Priester-Rok und sein G�rtel vor diesem Ungewitter zu Hause bewahrt--
+Tragt das Kind hinweg, und folget mir unverz�glich; ich gehe zu
+dem K�nig; tausend Gesch�fte warten auf uns, und der Himmel selbst
+schie�t einen z�rnenden Blik auf dieses Land.
+
+(Sie gehen ab.)
+
+
+
+
+F�nfter Aufzug.
+
+
+
+Erste Scene.
+(Der Englische Hof.)
+(K�nig Johann, Pandolph und Gefolge treten auf.)
+
+
+K�nig Johann.
+Hiemit �bergeb ich in eure Hand diesen Cirkel meiner K�nigs-W�rde.
+
+(Er giebt ihm die Crone.)
+
+Pandolph.
+Empfanget wieder aus dieser meiner Hand, als ein Lehen des Papsts,
+eure k�nigliche Gr�sse und Autorit�t.
+
+K�nig Johann.
+Und nun haltet euer geheiligtes Wort; gehet den Franzosen entgegen,
+und bedienet euch aller Gewalt, die ihr von Sr.  Heiligkeit habt,
+ihnen, eh sie unser ganzes Reich in Flammen sezen, die Grenzen zu
+versperren.  Unsre mi�vergn�gten Grafschaften lehnen sich auf,
+unser Volk str�ubt sich gegen seine Pflicht, und schw�rt einem
+fremden Blute Treue und Unterw�rfigkeit.  Dieser Schwall einer
+fieberhaften Schw�rmerey kan von euch allein bes�nftiget werden.
+S�umet also nicht; denn die gegenw�rtige Zeit ist so krank, da� sie,
+ohne die H�lfe schleuniger Arzneymittel, gar bald unheilbare
+Folgen nach sich z�ge.
+
+Pandolph.
+Mein Athem war es, der wegen euers halsstarrigen Bezeugens gegen
+den Papst, dieses Ungewitter erregte; nachdem ihr euch aber auf
+eine so gl�kliche Art ver�ndert habt, so soll eben dieser Athem,
+diesen Sturm des Kriegs wieder hinweg hauchen, und sch�nes Wetter
+in euerm ersch�tterten Lande machen.  An diesem Auffahrts-Tage,
+erinnert euch dessen wol, geh ich, auf den Eid hin so ihr zum
+Dienst des Papsts geschworen habt, die Franzosen zu verm�gen, da�
+sie die Waffen niederlegen.
+
+(Er geht ab.)
+
+K�nig Johann.
+Ist heute Auffahrts-Tag?  Sagte nicht der Prophet: An diesem Tage,
+zu Mittag, sollt ich meine Crone niederlegen?  Was hab ich gethan;
+ich meynte, es sollte durch Gewalt geschehen, aber dem Himmel sey
+Dank, es geschah blo� freywillig.  (Faulconbridge tritt auf.)
+
+Faulconbridge.
+Ganz Kent hat sich ergeben; nichts h�lt sich noch als Dover-Castle;
+London hat wie ein freundlicher Wirth den Dauphin und sein
+Kriegsheer aufgenommen; eure Edeln wollen euch nicht h�ren, sondern
+sind im Begriff, ihre Dienste euerm Feind anzubieten; und die
+kleine Zahl eurer wankenden Freunde treibt wilde Bet�ubung hin und
+her.
+
+K�nig Johann.
+War die Nachricht, da� Arthur lebe, nicht verm�gend, meine Lords
+zur Wiederkehr zu mir zu bewegen?
+
+Faulconbridge.
+Sie haben ihn todt auf die Strasse geworffen gefunden; ein leeres
+K�stchen, woraus der Juweel so darinn verschlossen war, das Leben,
+von irgend einer verdammten Hand weggestohlen worden.
+
+K�nig Johann.
+Der nichtsw�rdige Bube Hubert sagte mir, er lebe.
+
+Faulconbridge.
+Ich wollte f�r ihn schw�ren da� er nichts anders wu�te--aber warum
+seyd ihr so niedergeschlagen?  Warum seht ihr so traurig?  Seyd
+gro� in Thaten, wie ihr es in Entschliessungen gewesen seyd.  La�t
+die Welt keine Furcht, kein banges Mi�trauen in einem k�niglichen
+Auge lesen; seyd unternehmend, wie die Gelegenheit die euch
+auffordert.  Sezet dem Feuer Feuer entgegen, drohet dem Dr�uer und
+trozet der r�mpfenden Stirne der pralenden Gefahr; so werden eure
+Anh�nger, die ihre Auff�hrung von ihrem Oberhaupt borgen, durch
+euer Beyspiel gro� werden, und einen unerschroknen Muth fassen.
+Hinweg, und schimmert wie der Kriegs-Gott, wenn er dem Sieg
+entgegenzieht; zeigt K�hnheit und Vertrauen auf euch selbst und
+euer Gl�k!  Wie, sollen sie den L�wen in seiner H�le aufsuchen, und
+sie sollen ihn da erschreken, ihn zittern machen?  O!  la�t das
+nicht gesagt werden.  Geht dem Feind herzhaft auf den Leib, und
+ringet mit ihm, eh er in das Herz euers Landes eindringt.
+
+K�nig Johann.
+Der Legat des Papsts ist bey mir gewesen, und ich habe Frieden mit
+ihm gemacht, und er hat mir versprochen, den Dauphin wieder heim zu
+schiken.
+
+Faulconbridge.
+O unr�hmliches B�ndni�!  Fremde sollen in unser Land einfallen, und
+wir sollen kein anders Mittel haben, als Unterhandlungen, Compromi�
+und erbettelten Waffenstillstand, um sie uns vom Halse zu schaffen?
+Ein unb�rtiger Junge, ein verz�rtelter seidener Stuzer soll
+�berm�thig �ber unsre Felder einherziehn, seinen Muthwillen auf
+einem kriegerischen Boden herumtummeln, der Luft mit dem bunten
+Gepr�nge seiner flatternden Fahnen spotten, und keinen Widerstand
+finden?  Zu den Waffen, mein K�niglicher Herr; vielleicht erh�lt
+der Cardinal seine Absicht nicht; und wenn er sie auch erh�lt, so
+la�t doch wenigstens von uns gesagt werden, da� wir in der
+Verfassung gewesen, uns wehren zu k�nnen.
+
+K�nig Johann.
+Ich �bertrage dir die Gewalt, alles anzuordnen und zu thun, was du
+in unsern gegenw�rtigen Umst�nden n�thig findest.
+
+Faulconbridge.
+Auf dann, und guten Muth gefa�t; ich bin gewi�, da� unsre Parthey
+im Stande w�re, einem st�rkern Feind entgegen zu gehen.
+
+(Sie gehen ab.)
+
+
+
+Zweyte Scene.
+(Das Lager des Dauphins.)
+(Ludwig, Salisbury, Melun, Pembrok, Bigot und Soldaten, treten in
+ Waffenr�stung auf.)
+
+
+Ludwig.
+Mein Herr von Melun, la�t eine Copey hievon genommen, und zu unsrer
+Erinnerung wol aufgehoben werden; den gegenw�rtigen Aufsaz aber
+gebt diesen Lords zur�k, damit sie auch eine schriftliche Erkl�rung
+unsers geneigten Willens haben, und wir sowol als sie, wenn wir
+diese Papiere �berlesen, uns erinnern worauf wir geschworen haben,
+und unser Wort fest und unverbr�chlich halten.
+
+Salisbury.
+Auf unsrer Seite soll es niemals gebrochen werden.  Und ob wir
+gleich, edler Dauphin, euer Betragen gegen uns durch Zuschw�rung
+einer freywilligen Ergebenheit und unerzwungnen Treue erwiedern; so
+glaubet mir doch, Prinz, ich bin nicht erfreut, da� ein solches
+Geschw�r der gegenw�rtigen Zeit bey der verachteten Rebellion ein
+Pflaster suchen, und den eingewurzelten Krebs einer Wunde durch
+viele heilen mu�.  O, es kr�nkt meine Seele, da� ich dieses Metall
+von meiner Seite ziehen mu�, um ein Wittwen-Macher zu seyn, und
+dieses in einem Lande, wo r�hmlicher Widerstand und rechtm��ige
+Gegenwehr �ber den Namen Salisbury schreyen!  Aber so ist die
+verpestete Krankheit dieser Zeit beschaffen, da� wir unser Recht zu
+heilen, gezwungen sind die Hand des k�hnen Unrechts und der
+regellosen Gewaltth�tigkeit anzuruffen.  Und sollt es uns nicht
+schmerzen, o meine tiefgekr�nkten Freunde, da� wir, die S�hne und
+Kinder dieser Insel, gebohren seyn sollen, die Stunde zu sehen, da
+wir, zu einem ausl�ndischen Kriegsheer gesellt, �ber ihren sch�nen
+Busen einhertreten, und die Linien ihrer Feinde ausf�llen; (ich mu�
+mich wegwenden, und die Schmach dieser traurigen Nothwendigkeit
+beweinen) die Stunde zu sehen, da wir das Volk eines entfernten
+Landes wider unser eignes unterst�zen, und unbekannten Fahnen hier
+folgen m�ssen?  Wie, hier?  O mein Volk, m�chtest du dich
+zur�kziehen k�nnen!  M�chte Neptun, der dich ringsumfa�t, dich in
+seinen Armen aus dem Schoo� deines m�tterlichen Bodens hinweg an
+irgend ein Heidnisches Ufer tragen, wo diese Christlichen Heere das
+Blut des Hasses in eine Ader des Friedens zusammenlegten k�nnten,
+anstatt es hier so unnachbarlich zu vergiessen.
+
+Ludwig.
+Du zeigst hierinn eine edle Sinnesart; und der grosse Trieb, der in
+deinem Busen k�mpft, verursacht ein Erdbeben von edeln Empfindungen
+in dir.  Oh was f�r einen edeln Kampf zwischen Nothwendigkeit und
+Liebe zum Vaterland hast du gek�mpft!  La� mich diesen ehrw�rdigen
+Thau abwischen, der wie fliessendes Silber �ber deine Wangen rollt.
+Mein Herz ist schon von den Thr�nen eines Frauenzimmers
+zerschmolzen, die doch eine gew�hnliche �berschwemmung sind; aber
+dieser Ausbruch von m�nnlichen Thr�nen, dieser von dem Ungewitter
+einer grossen Seele zusammengetriebne Regen, macht mein Auge
+starren, und sezt mich in ein gr�sseres Erstaunen, als wenn ich das
+ganze Gew�lbe des Himmels auf einmal mit brennenden Meteoren
+�berw�lzt s�he.  Heitre deine Stirne auf, ruhmvoller Salisbury, und
+treibe durch ein grosses Herz diesen Sturm hinweg.  �berla� diese
+Thr�nen jenen S�uglings-Augen, die niemals die riesengleiche Welt
+in Wuth gesehen, und das Gl�k nirgends als bey Lustbarkeiten und
+�ppigen Schm�usen kennen gelernt haben.  Komm, komm, du sollt deine
+Hand so tief in den Beutel des reichen Wohlstands steken als Ludwig
+selbst; so, Milords, sollt ihr alle, die ihre Sehnen an die St�rke
+der meinigen ankn�pfen.
+
+
+
+Dritte Scene.
+(Pandolph zu den Vorigen.)
+
+
+Ludwig.
+Wie, hier eilet, d�ucht mich, ein Engel auf uns zu; sehet, der
+heilige Legat kommt, uns Verhaltungs-Befehle vom Himmel zu bringen,
+und unsern Unternehmungen durch seinen Beyfall das Sigel des Rechts
+aufzudr�ken.
+
+Pandolph.
+Heil dir, edler Prinz von Frankreich; das n�chste ist dieses: K�nig
+Johann hat sich mit Rom ausges�hnt; windet also diese dr�uenden
+Fahnen auf, und z�hmet den grimmigen Geist des wilden Kriegs, damit
+er, gleich einem L�wen der im Hause zahm aufgezogen worden,
+freundlich zu den F�ssen des Friedens lige, und ausser durch sein
+Ansehen ferner keinen Schaden thue.
+
+Ludwig.
+Mit Euer Gnaden Erlaubni�, ich werde nicht zur�k gehen.  Ich bin
+nicht gebohren, um mir befehlen zu lassen, und irgend eines
+Souverains in der Welt Diener und Werkzeug zu seyn.  Euer Athem
+blies zuerst die todte Kohle des Kriegs zwischen mir und diesem
+gez�chtigten K�nigreich an, und legte Materie zu, dieses Feuer zu
+n�hren; allein nun ist es schon zu heftig, um von eben dem
+schwachen Winde, der es anfachte, wieder ausgeblasen zu werden.
+Ihr lehrtet mich meine Bef�gnisse und Anspr�che an dieses Land
+kennen, ihr allein legtet diese Unternehmung in mein Herz; und izt
+kommt ihr, und sagt mir, Johann habe Frieden mit Rom gemacht!  Was
+geht mich sein Friede an?  Kraft des Rechts so ich durch meine
+Verm�hlung erhalten, spreche ich, da Arthur todt ist, dieses Land
+als mein Eigenthum an; und nun da es halb erobert ist, soll ich
+zur�k gehen, weil Johann seinen Frieden mit Rom gemacht hat?  Bin
+ich Roms Sclave?  Was f�r Subsidien hat Rom zu dieser Unternehmung
+hergegeben, was f�r Volk, oder was f�r Kriegs-Vorrath?  Bin ichs
+nicht allein, der die Last derselben tr�gt?  Wer anders als ich,
+und diejenigen die meinen gerechten Anspruch unterst�zen, schwizt
+in diesem Gesch�ft und f�hrt diesen Krieg?  Hab ich nicht diese
+Insulaner mir zujauchzen geh�rt, (vive le Roi!) wie ich gegen ihre
+St�dte angezogen bin?  Hab' ich hier nicht die besten Carten, um
+dieses Spiel zu gewinnen, das um eine Crone gespielt wird?  Und nun
+soll ich es aufgeben, da ich den Saz schon in H�nden habe?  Nein,
+bey meiner Seele, das will ich nicht thun.
+
+Pandolph.
+Ihr seht nur auf das �usserliche dieses Gesch�fts.
+
+Ludwig.
+�usserlich oder innerlich, ich will nicht wieder heimgehen, bis
+ich mein Vorhaben auf eine so glorreiche Art ausgef�hrt haben werde,
+als ich zu hoffen von euch selbst aufgemuntert worden bin--
+
+(Man h�rt eine Trompete.)
+
+Was f�r eine muntre Trompete fordert uns hier auf?
+
+
+
+Vierte Scene.
+(Faulconbridge zu den Vorigen.)
+
+
+Faulconbridge.
+Verg�nnet mir, nach dem Gebrauch gesitteter V�lker, ein ruhiges
+Geh�r: ich bin von dem K�nig abgeschikt, um von euch, mein heiliger
+Lord von Meiland, zu vernehmen, wie ihr ihm euer Wort gehalten
+habet; und nachdem eure Antwort beschaffen seyn wird, wird es die
+Erkl�rung seyn, zu der meine Zunge bevollm�chtiget ist.
+
+Pandolph.
+Der Dauphin will sich durch meine Vorstellungen nicht bewegen
+lassen, und sagt rund heraus, er wolle die Waffen nicht niederlegen.
+
+Faulconbridge.
+Bey allem dem Blut, das jemals von m�nnlicher Wuth gekocht hat, der
+J�ngling sagt recht.  H�ret izt unsern Engl�ndischen K�nig: Denn so
+spricht seine Majest�t durch mich; er ist vorbereitet, und die
+Ursache davon ist, weil er es seyn soll.  Auf diesen po�ierlichen
+Affenzug, auf diese geharnischte Mummerey, und unbesonnenes
+Spiegelgefecht, auf dieses l�ppische Kriegsheer von sauersehenden
+Knaben, l�chelt der K�nig herab; und ist in guter Verfassung,
+diesen Zwergen-Krieg, diese Pygm�en-Waffen aus dem Umfang seines
+Gebiets hinaus zu peitschen.  Sollte diese Hand, welche St�rke
+genug hatte, euch vor euern Hausth�ren zu pr�geln, und zu machen,
+da� ihr, gleich Wasserk�beln, euch in gemaurte Brunnen t�uchen,
+unter die Schindeln eurer St�lle klettern, wie Pf�nder in K�sten
+und Kuffern eingeschlossen ligen, und euch zu euern Schweinen
+verkriechen mu�tet; da� ihr euere Sicherheit in Kellern und
+Gef�ngnissen suchtet, und schon schaudertet und vor Angst zittertet,
+wenn ihr nur einen Englischen Hahn kr�hen h�rtet, in der
+Einbildung, es sey die Stimme eines bewaffneten Engl�nders; diese
+siegreiche Hand sollte hier entkr�ftet hangen, nachdem sie euch in
+euern Kammern gez�chtiget hat?  Nein; wi�t, der dapfre Monarch ist
+in Waffen, und schwebt gleich einem Adler �ber seinen Horst, um
+jeden Unfall, der sich seinem Neste n�hert, wegzuscheuchen.  Und
+ihr ausgeartete, ihr undankbare Rebellen, ihr blutigen Neronen, die
+den Leib ihrer theuren Mutter England aufreissen, err�thet vor
+Schaam; denn eure eignen Frauen und bla�-wangichte T�chter, kommen,
+gleich Amazonen, hinter Trummeln hertrippelnd, vertauschen ihre
+Fingerh�te um eiserne Handschuhe, ihre Nadeln um Lanzen, und ihre
+sanftm�thigen Herzen um Grimm und Blutdurst--
+
+Ludwig.
+Hier mache deiner Pralerey ein Ende, und kehr im Frieden heim; wir
+gestehen dir zu, da� du besser schimpfen kanst als wir; gehab dich
+wohl; wir sch�zen unsre Zeit zu hoch, sie mit einem solchen
+Plauderer zu verderben.
+
+Pandolph.
+La�t mich izt auch reden--
+
+Faulconbridge.
+Nein, ich will reden.
+
+Ludwig.
+Ich will keinen von beyden anh�ren, r�hrt die Trummeln, und la�t
+die Zunge des Kriegs f�r unsre Sache reden.
+
+Faulconbridge.
+In der That, eure Trummeln wenn sie geschlagen werden, werden
+schreyen, und so werdet ihr thun, wenn ihr geschlagen seyd; weke
+nur ein Echo mit dem Geschrey deiner Trummel auf, und du wirst
+sogleich eine andre h�ren, die bey der Hand ist, so laut
+zur�kzuschallen als die deinige; schlage noch eine, und wieder eine
+andre, soll, so laut als die deinige, in die Ohren des Firmaments
+rasseln, und dem holen Gebr�ll des Donners Troz bieten.  Denn, ohne
+sich auf diesen hinkenden Legaten zu verlassen, den er mehr zum
+Scherz als aus Noth gebraucht hat, ist der tapfre K�nig Johann in
+der N�he, und ein Tod mit nakten Rippen sizt auf seiner Stirne;
+dessen Amt an diesem Tage ist, die Franzosen bey tausenden
+aufzufressen.
+
+Ludwig.
+R�hrt die Trummeln, um diese Gefahr aufzusuchen.
+
+Faulconbridge.
+Du sollt sie finden, Dauphin, zweifle nicht.
+
+(Sie gehen ab.)
+
+
+
+F�nfte Scene.
+(Verwandelt sich in ein Schlachtfeld.)
+(Alarm.  K�nig Johann und Hubert treten auf.)
+
+
+K�nig Johann.
+Wie gehts uns an diesem Tag?  O sag es mir, Hubert.
+
+Hubert.
+�bel, f�rchte ich; wie befindet sich Euer Majest�t?
+
+K�nig Johann.
+Dieses Fieber, das mich so lange schon plagt, sezt mir gewaltig zu;
+o mein Herz ist krank!  (Ein Bote tritt auf.)
+
+Bote.
+Gn�digster Herr, euer dapfrer Vetter, Faulconbridge, bittet Euer
+Majest�t, das Feld zu verlassen, und ihn wissen zu lassen, welchen
+Weg ihr nehmet.
+
+K�nig Johann.
+Sag ihm in die Abtey bey Swinstead.
+
+Bote.
+Ich bring gute Zeitungen; der grosse Succurs, den der Dauphin
+erwartete, hat vor drey N�chten auf den Sandb�nken von Godwin
+gestrandet; Richard hat diese Neuigkeit so eben erfahren; die
+Franzosen wehren sich nur noch schwach, und fangen schon an sich
+zur�k zu ziehen.
+
+K�nig Johann.
+Ach!  ach!  dieses tyrannische Fieber brennt mich aus, und l��t
+mich dieser guten Zeitung nicht froh werden.  Auf, nach Swinstead
+zu; meinen Tragsessel her; ich kan es nicht l�nger aushalten; ich
+bin ganz schwach.
+
+(Gehen ab.)
+
+
+
+Sechste Scene.
+(Verwandelt sich in das Franz�sische Lager.)
+(Salisbury, Pembrok und Bigot, treten auf.)
+
+
+Salisbury.
+Ich glaubte nicht, da� der K�nig noch so viel Freunde h�tte.
+
+Pembroke.
+So auf einmal; sprecht den Franzosen Muth ein; wenn sie ungl�klich
+sind, sind wir verlohren.
+
+Salisbury.
+Der mi�gezeugte Teufel, Faulconbridge, ist, troz allem Widerstand,
+die einzige Ursach, da� wir diesen Tag verliehren.
+
+Pembroke.
+Man sagt, K�nig Johann habe sich sehr krank aus der Schlacht
+wegbegeben.
+
+(Melun wird verwundet herbeygef�hrt.)
+
+Melun.
+F�hret mich zu den Englischen Rebellen.
+
+Salisbury.
+Wie wir gl�klich waren, hatten wir andre Namen.
+
+Pembroke.
+Es ist der Graf von Melun.
+
+Salisbury.
+Auf den Tod verwundet.
+
+Melun.
+Flieht, ihr edeln Engl�nder, ihr seyd gekauft und bezahlt.  Ruft
+die entlassene Treue wieder zur�k, suchet euern K�nig auf, und
+fallet ihm zu Fu�; denn wenn Ludwig von diesem Tage Meister wird,
+so gedenkt er euch die M�he, die ihr nehmet, dadurch zu belohnen,
+da� er euch die K�pfe abschlagen lassen will; das hat er geschworen,
+und ich mit ihm, und viele andre mit mir, auf eben dem Altar zu St.
+Edmondsbury, wo wir euch Freundschaft und ewige Liebe schwuren.
+
+Salisbury.
+Ist das m�glich?  Kan das wahr seyn?
+
+Melun.
+Hab ich nicht den scheuslichen Tod im Antliz?  Blutet nicht das
+wenige Leben, so ich noch habe, von Augenblik zu Augenblik weg, wie
+ein Bild von Wachs im Feuer dahinschmilzt?  Was in der Welt k�nnte
+mich bewegen, izt zu betr�gen, da aller Nuzen des Betrugs aufh�rt?
+Wie k�nnt ich noch falsch seyn, da es wahr ist, da� ich sterben mu�,
+und nur durch Wahrheit jenseits des Grabes leben kan?  Ich sag es
+noch einmal: wenn Ludwig diesen Tag gewinnt, so ist er meineydig,
+wenn diese eure Augen noch einen Tag in Osten aufgehen sehen;
+sondern in eben dieser Nacht, deren schwarzer anstekender Athem
+albereit den brennenden Kamm der alten, matten, erm�deten Sonne
+anhaucht; in dieser Nacht, sollt ihr zum leztenmal athmen, und f�r
+die willkommne Verr�therey den gew�hnlichen Lohn der Verr�ther
+bekommen.  Empfehlet mich einem gewissen Hubert, der bey euerm
+K�nig ist; meine Liebe zu ihm, und die Erinnerung, da� mein
+Gro�vater ein Engl�nder war, wekte mein Gewissen zu diesem
+Bekenntni� auf.  Bringet mich nun, ich bitte euch, daf�r aus dem
+Get�mmel des Feldes an einen Ort, wo ich den Rest meiner Gedanken
+in Ruhe ausdenken, und unter and�chtigen Betrachtungen und Seufzern
+meine Seele von diesem Leibe trennen kan.
+
+Salisbury.
+Wir glauben dir, und, auf meine Seele, ich bin erfreut �ber diese
+g�nstige Gelegenheit, zu unsrer Schuldigkeit und zu unserm K�nige
+zur�k zu kehren.  Mein Arm soll dir beystehen, dich von hier hinweg
+zu tragen, denn ich seh den ringenden Tod in deinen Augen.  Hinweg,
+meine Freunde, und von neuem auf die Flucht; doch gl�kliche Flucht,
+die uns zu unsrer Pflicht zur�k bringt!
+
+(Sie gehen ab, und tragen Melun hinweg.)
+
+
+
+Siebende Scene.
+(Verwandelt sich in einen andern Theil des Franz�sischen Lagers.)
+(Ludwig und sein Gefolge treten auf.)
+
+
+Ludwig.
+Die Sonne d�uchte mich, wollte heute nicht untergehen, sondern
+blieb stehn, und machte die westlichen Wolken err�then, da die
+Engl�nder in muthlosem Weichen ihren eignen Boden zur�kmassen; o
+wir beschlossen den Tag auf eine r�hmliche Art, da wir ihnen mit
+einer vollen Ladung unsers, zwar unn�thigen, Gesch�zes, nach einer
+so blutigen Arbeit, gute Nacht sagten, und unsre zerfezten Fahnen
+ruhig aufwanden, die lezten im Felde, und allerdings Meister davon--
+
+(Ein Bote zu den Vorigen.)
+
+Bote.
+Wo ist mein Prinz, der Dauphin.
+
+Ludwig.
+Hier; was bringst du Neues?
+
+Bote.
+Der Graf von Melun ist erschlagen; die Englischen Lords sind durch
+seine Vorstellungen zum Abfall bewogen worden; und die Verst�rkung,
+die ihr so lange gew�nscht habt, ist auf den Sandb�nken zu Godwin
+zu Grunde gegangen.
+
+Ludwig.
+O schlimme, verdrie�liche Zeitungen!  So verdrie�lich dacht' ich
+diese Nacht nicht zu seyn, als ich es izt bin.  Wer war der,
+welcher sagte, K�nig Johann sey geflohen, eine oder zwo Stunden, eh
+die Nacht beyde Armeen schied?
+
+Bote.
+Wer es auch gesagt hat, hat die Wahrheit gesagt, Gn�digster Herr.
+
+Ludwig.
+Gut; haltet gute Wache diese Nacht �ber; der Tag soll nicht so
+schnell seyn als ich, um es morgen noch einmal zu wagen.
+
+(Sie gehen ab.)
+
+
+
+Achte Scene.
+(Ein freyer Plaz, unweit der Abtey zu Swinstead.)
+(Faulconbridge und Hubert treten von verschiednen Seiten auf.)
+
+
+Hubert.
+Wer ist hier?  Sprich!  he!  Rede augenbliklich, oder ich gebe
+Feuer.
+
+Faulconbridge.
+Ein Freund.  Wer bist du?
+
+Hubert.
+Von der Englischen Parthey.
+
+Faulconbridge.
+Und wohin gehst du?
+
+Hubert.
+Was geht das dich an?  Frag ich dich denn nach deinen Verrichtungen,
+da� du nach den meinigen fragst?
+
+Faulconbridge.
+Ich denke, du bist Hubert.
+
+Hubert.
+Du denkst richtig; ich will nun, auf alle Gefahr hin, glauben, du
+seyest mein Freund, da du meine Stimme so gut kennest.  Wer bist du?
+
+Faulconbridge.
+Was du willt; wenn du magst, so kanst du mir die Ehre anthun, und
+denken, da� ich gewisser Maassen ein Plantagenet bin.
+
+Hubert.
+Ha!  da� ich dich mi�kennen konnte!  Du und die augenlose Nacht
+haben mich besch�mt; tapfrer Kriegsheld, vergieb mir, da� der
+wohlbekannte Ton deiner Stimme meinem Ohr fremde klingen konnte.
+
+Faulconbridge.
+Kommt, kommt, (sans compliment;) was giebt es Neues?
+
+Hubert.
+Ich war im Begriff, euch aufzusuchen.
+
+Faulconbridge.
+So mach' es kurz; was hast du Neues?
+
+Hubert.
+O mein werther Herr, eine Zeitung, die sich f�r die Nacht schikt,
+schwarz, gefahrvoll, trostlos und schreklich.
+
+Faulconbridge.
+Zeige mir ohne Umst�nde die Wunde deiner schlimmen Zeitung; ich bin
+kein Weibsbild, ich will nicht dar�ber in Unmacht fallen.
+
+Hubert.
+Der K�nig ist, wie ich besorge, von einem M�nchen vergiftet worden;
+ich verlie� ihn beynahe sprachlos, und eilte sogleich fort, um euch
+von diesem Unfall zu benachrichtigen; damit ihr euch desto besser
+auf die Folgen desselben gefa�t machen k�nnet, als wenn ihr zu sp�t
+von ihm �berraschet w�rdet.
+
+Faulconbridge.
+Wie bekam er das Gift?  Wer credenzte ihm?
+
+Hubert.
+Ein M�nch, wie ich euch sagte; ein entschlossener B�sewicht, dem
+die Ged�rme sogleich davon geborsten sind.  Doch der K�nig kan noch
+reden, und vielleicht wieder zurecht kommen.
+
+Faulconbridge.
+Wen liessest du seiner Majest�t zur Aufwartung?
+
+Hubert.
+Wie?  wi�t ihr nicht, da� die Lords alle wieder zu ihm zur�k
+gefallen sind, und den Prinzen Heinrich mit sich gebracht haben,
+auf dessen F�rbitte der K�nig sie begnadiget hat.  Sie alle sind
+gegenw�rtig bey seiner Majest�t.
+
+Faulconbridge.
+Halt deinen Zorn zur�k, m�chtiger Himmel!  Und leg' uns nicht mehr
+auf, als wir tragen k�nnen!  Ich mu� dir sagen, Hubert, da� die
+Helfte meiner Armee, indem ich diese Nacht �ber diese Untieffen
+sezte, von der Fluth ergriffen worden; diese Lincoln-S�mpfe haben
+sie verschlungen, und ich selbst, obgleich wohl beritten, bin mit
+Noth davon gekommen.  La� uns eilen; f�hre mich zum K�nige; ich
+besorge, er m�chte schon verschieden seyn, eh ich ihn sehe.
+
+(Sie gehen ab.)
+
+
+
+Neunte Scene.
+(Verwandelt sich in einen Garten der Abtey zu Swinstead.)
+(Prinz Heinrich, Salisbury und Bigot treten auf.)
+
+
+Heinrich.
+Es ist zu sp�te; sein ganzes Blut ist vom Gift angestekt, und sein
+sonst so gesundes Gehirn, (welches einige f�r das zerbrechliche
+Wohnhaus der Seele halten) k�ndigt uns durch die unordentlichen
+Phantasien, die es hervordr�ngt, das Ende der Sterblichkeit an.
+(Pembroke zu den Vorigen.)
+
+Pembroke.
+Der K�nig redet noch, und glaubt, wenn er in die freye Luft
+gebracht w�rde, so k�nnte sie die brennende Hize des Giftes lindern,
+das ihn verzehrt.
+
+Heinrich.
+La�t ihn hieher in den Garten tragen.  Phantasirt er noch?
+
+Pembrok.
+Er ist ruhiger als ihr ihn verlassen habt; eben izt sang er.
+
+Heinrich.
+Dieses giebt uns wenig Hoffnung.  �bel, die aufs �usserste
+gekommen sind, f�hlen sich selbst nicht mehr.  Wenn der Tod einmal
+die �usserlichen Theile benagt hat, l��t er sie unempfindlich, und
+greift alsdann das Gem�th an, welches er durch ganze Legionen von
+seltsamen Einbildungen anf�llt und verwundet, die in ihrem Gedr�nge,
+bey diesem lezten Sturm, sich selbst untereinander aufreiben; wie
+wunderbar, da� der Tod singen soll--Doch es ist das traurige
+Sterbelied dieses bleichen verschmachtenden Schwans, der aus der
+Orgelpfeiffe der Sterblichkeit seine Seele und seinen Leib in die
+ewige Ruhe singt.
+
+Salisbury.
+Seyd guten Muthes, Prinz, denn ihr seyd dazu gebohren, das was er
+so roh und ungestalt zur�ckl��t, zu formen und zur Vollkommenheit
+zu bringen.
+
+(K�nig Johann wird herbeygetragen.)
+
+K�nig Johann.
+Ah, wohl, nun hat meine Seele freyen Pa�; sie wollte nicht zum
+Fenster oder zur Th�re hinaus.  Es ist ein so heisser Sommer in
+meinem Busen, da� sich alle meine Eingeweide zu Staub zerkr�mmeln.
+Ich bin eine Figur, die mit einer Feder auf Pergament gezogen
+worden, und schrumpfe an diesem Feuer zusammen.
+
+Heinrich.
+Wie befindet sich Eu.  Majest�t?
+
+K�nig Johann.
+Vergiftet, todt, vergessen; und keiner von euch will dem Winter
+befehlen, da� er komme, und seine beei�ten Finger in meinen Schlund
+steke; noch machen, da� die Str�me meines K�nigreichs ihren Lauf
+durch meinen brennenden Busen nehmen; noch dem Nord sagen, da�
+seine kalten Winde meine ausged�rrten Lippen k�ssen, und mich
+abk�hlen sollen.  Ich verlange ja nichts als einen kalten Trost,
+und ihr seyd so unbarmherzig, so undankbar, und schlagt ihn mir ab.
+
+Heinrich.
+O!  da� doch in meinen Thr�nen eine Kraft seyn m�chte, euch
+Lindrung zu verschaffen!
+
+K�nig Johann.
+Das Salz darinn ist hei�.  Ich habe die H�lle in mir, und das Gift
+ist der Teufel, der darinn eingesperrt ist, mein ohne Hoffnung
+verdammtes Blut zu peinigen.
+
+
+
+Zehnte Scene.
+(Faulconbridge zu den Vorigen.)
+
+
+Faulconbridge.
+Oh!  ich bin athemlos und ganz abgebr�ht, vor �usserster
+Eilfertigkeit Eu.  Majest�t zu sehen.
+
+K�nig Johann.
+Vetter, du kommst eben recht, mir die Augen zuzudr�ken; das
+Takelwerk meines Herzens ist zerrissen und verbrannt, und alle die
+Thaue, womit mein Leben segeln sollte, sind bis auf einen einzigen
+Faden, ein armes kleines Haar abgenuzt; mein Herz h�ngt nur noch an
+einem einzigen schwachen Zwirn, der nur so lange halten wird, bis
+du deine Zeitungen gesagt hast; und dann ist alles was du siehst,
+nur ein Kloz und Model von zerst�rter Majest�t.
+
+Faulconbridge.
+Der Dauphin r�stet sich, hieher vorzudringen, und der Himmel wei�,
+wie wir ihm begegnen sollen; denn ich habe in einer Nacht, da ich
+mich mit Vortheil zur�kziehen wollte, meine besten Truppen in den
+Mor�sten von Lincoln verlohren, alle, ohne Rettung, von der
+unerwarteten Fluth verschlungen.
+
+(Der K�nig stirbt.)
+
+Salisbury.
+Ihr athmet diese t�dtlichen Zeitungen in ein todtes Ohr--Mein
+Gebieter, mein K�nig--doch--kaum ein K�nig, izt di�.
+
+Heinrich.
+Eben so mu� ich nun lauffen, und eben so stille stehn.  Was f�r
+Sicherheit, was f�r Hoffnung, kan uns diese Welt geben, wenn das,
+was eben izt ein K�nig war, so bald ein Erdklo� ist.
+
+Faulconbridge.
+Bist du dahin?  O!  ich bleibe nur zur�k, das Amt der Rache statt
+deiner zu vollziehen; und dann soll meine Seele dir im Himmel
+aufwarten, wie sie dir auf Erden immer gedient hat--
+
+(Zu den Lords.)
+
+Nun, nun, ihr Sterne, die ihr in eure Kreise zur�kgetreten seyd,
+wo sind eure V�lker?  Beweiset nun eure wiedergekehrte Treue und
+eilet unverz�glich wider mit mir zur�k, um ausl�ndische Verw�stung
+und ewige Schmach aus der schwachen Th�re unsers unm�chtigen Landes
+auszutreiben.  La�t uns den Feind eilends aufsuchen, oder wir
+werden von ihm gesucht werden.  Der Dauphin w�thet beynahe an
+unsern Fersen.
+
+Salisbury.
+So scheint es also, ihr wisset nicht so viel als wir.  Der Cardinal
+Pandolph ist hier, und ruhet drinnen aus, indem er nur vor einer
+halben Stunde von dem Dauphin mit solchen Friedens-Vorschl�gen
+hieher gekommen, die wir mit Ehre und Vortheil, zu Endigung des
+gegenw�rtigen Kriegs, annehmen k�nnen.
+
+Faulconbridge.
+Er wird desto geneigter zum Frieden seyn, wenn er uns zur
+Vertheidigung gefa�t sehen wird.
+
+Salisbury.
+Die Sache ist gewisser massen schon in Richtigkeit; denn er hat
+schon den gr�sten Theil seiner Kriegsger�thschaft nach der K�ste
+abgeschikt, und dem Cardinal Vollmacht gegeben, den Frieden zu
+machen; und wenn ihr es gut befindet, so wollen wir, ihr, ich
+selbst und die �brigen Lords uns diesen Nachmittag mit ihm auf den
+Weg machen, um dieses Gesch�fte gl�klich zu Ende zu bringen.
+
+Faulconbridge.
+La�t es so seyn; und ihr, mein edler Prinz, mit den �brigen F�rsten,
+die am besten geschont werden k�nnen, bleibet zur�k, euers Vaters
+Leichenbeg�ngni� zu besorgen.
+
+Heinrich.
+Zu Worcester soll, verm�ge seines lezten Willens, sein Leichnam
+beerdiget werden.
+
+Faulconbridge.
+Er soll also dahin gebracht werden, und gl�klich m�ge Euer
+theurstes Selbst die Erbfolge und den glorreichen Scepter dieses
+Landes �bernehmen, als welchem ich hier, mit aller Unterw�rfigkeit,
+auf meinen Knien, meine getreuen Dienste und immerw�hrenden
+Gehorsam angelobe.
+
+Salisbury.
+Eben dieses Gel�bde thut unsre z�rtliche Liebe, welche auf ewig
+ohne einigen Fleken dauern soll.
+
+Heinrich.
+Meine ger�hrte Seele w�nscht euch danken zu k�nnen, und wei� es
+nicht anders zu thun als durch Thr�nen.
+
+Faulconbridge.
+La�t uns einem �bel, welches wir so lange zum voraus bejammert
+haben, nur n�thige Trauer bezahlen--So lag England niemals, und
+soll k�nftig nie zu eines Erobrers F�ssen ligen, als wenn es sich
+vorher durch seine eigne H�nde verwundet hat.  Nun, da diese seine
+F�rsten wieder heimgekehrt sind, nun la�t drey Theile der Welt in
+Waffen herkommen, und wir sind stark genug, sie abzutreiben.  So
+lange England sich selbst getreu bleibt, ist nichts das uns
+erschreken kan!
+
+
+Leben und Tod des K�nigs Johann, von William Shakespeare
+(�bersetzt von Christoph Martin Wieland).
+
+
+
+
+
+End of the Project Gutenberg EBook of Leben und Tod des Koenigs Johann
+by William Shakespeare
+
+*** END OF THE PROJECT GUTENBERG EBOOK LEBEN UND TOD DES KOENIGS JOHANN ***
+
+This file should be named 7292-8.txt or 7292-8.zip
+
+Produced by Delphine Lettau
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

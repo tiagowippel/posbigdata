@@ -1,0 +1,7008 @@
+The Project Gutenberg EBook of Richard III, by William Shakespeare
+(#04 in our series by William Shakespeare)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Richard III
+
+Author: William Shakespeare
+
+Release Date: November, 2004  [EBook #6924]
+[This file was first posted on February 11, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ISO Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK, RICHARD III ***
+
+
+
+
+Thanks are given to Delphine Lettau for finding a huge collection of ancient
+
+German books in London.
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verf�gung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+RICHARD III
+
+William Shakespeare
+
+Entstanden wahrscheinlich 1592/93
+
+�bersetzt von August Wilhelm von Schlegel
+
+
+PERSONEN:
+
+K�nig Eduard der Vierte
+Eduard, Prinz von Wales, nachmals K�nig Eduard der F�nfte
+S�hne des K�nigs
+George, Herzog von Clarence
+Richard, Herzog von Gloster, nachmals K�nig Richard der Dritte
+Br�der des K�nigs
+Eduard Plantagenet, ein junger Sohn des Clarence
+Heinrich, Graf von Richmond, nachmals K�nig Heinrich der Siebente
+Kardinal Bourchier, Erzbischof von Canterbury
+Thomas Rotherham, Erzbischof von York
+John Morton, Bischof von Ely
+Herzog von Buckingham
+Herzog John von Norfolk
+Graf Thomas von Surrey, sein Sohn
+Graf Rivers, vormals Sir Anton Woodville,
+  Bruder der Gemahlin K�nig Eduards
+Marquis von Dorset und Lord Grey, ihre S�hne aus erster Ehe
+Lord Scales, des Grafen Rivers �ltester Sohn
+Graf von Oxford
+Sir William Brandon
+Lord William Hastings
+Lord Stanley
+Lord Lovel
+Sir Thomas Vaughan
+Sir Richard Ratcliff
+Sir William Catesby
+Sir James Tyrrel
+Sir James Blunt
+Sir Walter Herbert
+Sir Robert Brakenbury, Kommandant des Towers
+Tressel und Berkeley, Edelleute im Gefolge der Prinzessin Anna
+Christopher Urswick und Sir John, Priester
+Zwei Bisch�fe
+Der Lord Mayor von London
+Der Sheriff von Wiltshire
+Elisabeth, Gemahlin K�nig Eduards des Vierten
+Margaretha, Witwe K�nig Heinrichs des Sechsten
+Herzogin von York, Mutter K�nig Eduards des Vierten,
+  Clarences und Glosters
+Anna, Witwe Eduards, des Prinzen von Wales,
+  Sohnes K�nig Heinrich des Sechsten; nachmals mit Gloster verm�hlt
+Margaretha Plantagenet, eine junge Tochter des Clarence
+
+
+
+
+ERSTER AUFZUG
+
+
+
+ERSTE SZENE
+
+
+London.  Eine Stra�e.
+
+(Gloster tritt auf.)
+
+
+Gloster.
+Nun ward der Winter unsers Mi�vergn�gens
+Glorreicher Sommer durch die Sonne Yorks;
+Die Wolken all, die unser Haus bedr�ut,
+Sind in des Weltmeers tiefem Scho� begraben.
+Nun zieren unsre Brauen Siegeskr�nze,
+Die schart'gen Waffen h�ngen als Troph�'n;
+Aus rauhem Feldl�rm wurden muntre Feste,
+Aus furchtbarn M�rschen holde Tanzmusiken.
+Der grimm'ge Krieg hat seine Stirn entrunzelt,
+Und statt zu reiten das geharn'schte Ro�,
+Um drohnder Gegner Seelen zu erschrecken,
+H�pft er behend in einer Dame Zimmer
+Nach �ppigem Gefallen einer Laute.
+Doch ich, zu Possenspielen nicht gemacht,
+Noch um zu buhlen mit verliebten Spiegeln;
+Ich, roh gepr�gt, entbl��t von Liebesmajest�t
+Vor leicht sich dreh'nden Nymphen mich zu br�sten;
+Ich, um dies sch�ne Ebenma� verk�rzt,
+Von der Natur um Bildung falsch betrogen,
+Entstellt, verwahrlost, vor der Zeit gesandt
+In diese Welt des Atmens, halb kaum fertig
+Gemacht, und zwar so lahm und ungeziemend,
+Da� Hunde bellen, hink ich wo vorbei;
+Ich nun, in dieser schlaffen Friedenszeit,
+Wei� keine Lust, die Zeit mir zu vertreiben,
+Als meinen Schatten in der Sonne sp�hn
+Und meine eigne Mi�gestalt er�rtern;
+Und darum, weil ich nicht als ein Verliebter
+Kann k�rzen diese fein beredten Tage,
+Bin ich gewillt, ein B�sewicht zu werden
+Und feind den eitlen Freuden dieser Tage.
+Anschl�ge macht' ich, schlimme Einleitungen,
+Durch trunkne Weissagungen, Schriften, Tr�ume,
+Um meinen Bruder Clarence und den K�nig
+In Todfeindschaft einander zu verhetzen.
+Und ist nur K�nig Eduard treu und echt,
+Wie ich verschmitzt, falsch und verr�terisch,
+So mu� heut Clarence eng verhaftet werden,
+F�r eine Weissagung, die sagt, da� G
+Den Erben Eduards nach dem Leben steh'.
+Taucht unter, ihr Gedanken!  Clarence kommt.
+
+(Clarence kommt mit Wache und Brakenbury.)
+
+Mein Bruder, guten Tag!  Was soll die Wache
+Bei Euer Gnaden?
+
+Clarence.
+Seine Majest�t, Besorgt um meine Sicherheit, verordnet
+Mir dies Geleit, mich nach dem Turm zu schaffen.
+
+Gloster.
+Aus welchem Grund?
+
+Clarence.
+Weil man mich George nennt.
+
+Gloster.
+Ach, Mylord, das ist Euer Fehler nicht,
+Verhaften sollt' er darum Eure Paten.
+Oh, vielleicht hat Seine Majest�t im Sinn,
+Umtaufen Euch zu lassen dort im Turm.
+Doch was bedeutet's, Clarence?  Darf ich's wissen?
+
+
+Clarence.
+Ja, Richard, wann ich's wei�: denn ich beteure,
+Noch wei� ich's nicht; nur dies hab ich geh�rt,
+Er horcht auf Weissagungen und auf Tr�ume,
+Streicht aus dem Alphabet den Buchstab G
+Und spricht, ein Deuter sagt' ihm, da� durch G
+Enterbung �ber seinen Stamm ergeh';
+Und weil mein Name George anf�ngt mit G,
+So denkt er, folgt, da� es durch mich gescheh'.
+Dies, wie ich h�r, und Grillen, diesen gleich,
+Bewogen Seine Hoheit zum Verhaft.
+
+Gloster.
+So geht's, wenn Weiber einen Mann regieren.
+�s ist Eduard nicht, der in den Turm Euch schickt;
+Mylady Grey, sein Weib, Clarence, nur sie
+Reizt ihn zu diesem harten �u�ersten.
+War sie es nicht und jener Mann der Ehren,
+Ihr guter Bruder, Anton Wondeville,
+Die in den Turm Lord Hastings schicken lie�en,
+Von wo er eben heute losgekommen?
+Wir sind nicht sicher, Clarence, sind nicht sicher.
+
+Clarence.
+Beim Himmel, niemand ist es, als die Sippschaft
+Der K�nigin und n�chtliche Herolde,
+Des K�nigs Botenl�ufer zu Frau Shore.
+H�rtet Ihr nicht, wie sich dem�tig flehend
+Lord Hastings um Befreiung an sie wandte?
+
+Gloster.
+Dem�tig klagend ihrer G�ttlichkeit
+Ward der Herr Oberk�mmerer befreit.
+H�rt an, ich denk, es w�r' die beste Art,
+Wenn wir in Gunst beim K�nig bleiben wollen,
+Bei ihr zu dienen und Livrei zu tragen.
+Die eifers�cht'ge abgenutzte Witwe
+Und jene, seit mein Bruder sie geadelt,
+Sind m�chtige Gevatterfrau'n im Reich.
+
+Brakenbury.
+Ich ersuch Eu'r Gnaden beide zu verzeihn,
+Doch Seine Majest�t hat streng befohlen,
+Da� niemand, welches Standes er auch sei,
+Soll sprechen insgeheim mit seinem Bruder.
+
+Gloster.
+Ja so!  Beliebt's Eu'r Edeln, Brakenbury,
+So h�rt nur allem, was wir sagen, zu:
+Es ist kein Hochverrat, mein Freund.  Wir sagen,
+Der K�nig sei so weis' als tugendsam,
+Und sein verehrtes Ehgemahl an Jahren
+Ansehnlich, sch�n und ohne Eifersucht;
+Wir sagen, Shores Weib hab' ein h�bsches F��chen,
+Ein Kirschenm�ndchen, �ugelein und wunders��e Zunge,
+Und da� der K�n'gin Sippschaft adlig worden.
+Was sagt Ihr, Herr?  ist alles das nicht wahr?
+
+Brakenbury.
+Mylord, ich bin bei allem dem nichts nutz.
+
+Gloster.
+Nichtsnutzig bei Frau Shore?  H�r an, Gesell:
+Ist wer bei ihr nichtsnutzig, als der eine,
+Der t�t' es besser insgeheim, alleine.
+
+Brakenbury.
+Als welcher eine, Mylord?
+
+Gloster.
+Ihr Mann, du Schuft; willst du mich fangen?
+
+Brakenbury.
+Ich ersuch Eu'r Gnaden zu verzeihn, wie auch
+Nicht mehr zu sprechen mit dem edlen Herzog.
+
+Clarence.
+Wir kennen deinen Auftrag, Brakenbury,
+Und wolln gehorchen.
+
+Gloster.
+Wir sind die Verworfnen
+Der K�nigin und m�ssen schon gehorchen.
+Bruder, lebt wohl!  Ich will zum K�nig gehn,
+Und wozu irgend Ihr mich brauchen wollt,
+M��t' ich auch Eduards Witwe Schwester nennen,
+Ich will's vollbringen, um Euch zu befrein.
+Doch diese tiefe Schmach der Br�derschaft
+R�hrt tiefer mich, als Ihr Euch denken k�nnt.
+
+Clarence.
+Ich wei� es, sie gef�llt uns beiden nicht.
+
+Gloster.
+Wohl, Eu'r Verhaft wird nicht von Dauer sein:
+Ich mach Euch frei, sonst lieg ich selbst f�r Euch.
+Indessen habt Geduld.
+
+Clarence.
+Ich mu�; leb wohl!
+
+(Clarence mit Brakenbury und der Wache ab.)
+
+Gloster.
+Geh nur des Wegs, den du nie wiederkehrst,
+Einf�lt'ger Clarence!  So sehr lieb ich dich,
+Ich sende bald dem Himmel deine Seele,
+Wenn er die Gab' aus unsrer Hand will nehmen.
+Doch wer kommt da?  der neubefreite Hastings?
+
+(Hastings tritt auf.)
+
+Hastings.
+Vergn�gten Morgen meinem gn�d'gen Herrn!
+
+Gloster.
+Das gleiche meinem lieben K�mmerer!
+Seid sehr willkommen in der freien Luft.
+Wie fand Eu'r Gnaden sich in den Verhaft?
+
+Hastings.
+Geduldig, edler Herr, wie man wohl mu�;
+Doch hoff ich denen Dank einst abzustatten,
+Die schuld gewesen sind an dem Verhaft.
+
+Gloster.
+Gewi�, gewi�!  und das wird Clarence auch:
+Die Eure Feinde waren, sind die seinen
+Und haben Gleiches wider ihn vermocht.
+
+Hastings.
+Ja, leider wird der Adler eingesperrt,
+Und Gei'r und Habicht rauben frei indes.
+
+Gloster.
+Was gibt es Neues drau�en?
+
+Hastings.
+So Schlimmes drau�en nichts, als hier zu Haus.
+Der F�rst ist kr�nklich, schwach und melancholisch,
+Und seine �rzte f�rchten ungemein.
+
+Gloster.
+Nun, bei Sankt Paul!  die Neuigkeit ist schlimm.
+Oh, er hat lange schlecht Di�t gehalten
+Und seine f�rstliche Person verzehrt.
+Es ist ein Herzeleid, wenn man's bedenkt.
+Sagt, h�tet er das Bett?
+
+Hastings.
+Er tut's.
+
+Gloster.
+Geht nur voran, ich folge bald Euch nach.
+(Hastings ab.)
+Er kann nicht leben, hoff ich; darf nicht sterben,
+Eh' George mit Extrapost gen Himmel f�hrt.
+Ich will hinein und ihn auf Clarence hetzen
+Mit wohlgest�hlten L�gen, trift'gen Gr�nden;
+Und wenn mein tiefer Plan mir nicht mi�lingt,
+Hat Clarence weiter keinen Tag zu leben.
+Dann nehme Gott in Gnaden K�nig Eduard
+Und lasse mir die Welt zu hausen drin.
+Denn dann heirat ich Warwicks j�ngste Tochter.
+Ermordet' ich schon ihren Mann und Vater,
+Der schnellste Weg, der Dirne g'nugzutun,
+Ist, da� ich selber werd ihr Mann und Vater.
+Das will ich denn, aus Liebe nicht sowohl
+Als andrer tief versteckter Zwecke halb,
+Die diese Heirat mir erreichen mu�.
+Doch mach ich noch die Rechnung ohne Wirt;
+Noch atmet Clarence, Eduard herrscht und thront:
+Sind sie erst hin, dann wird die M�h' belohnt.
+
+(Ab.)
+
+
+
+ZWEITE SZENE
+
+
+London.  Eine andre Stra�e.
+
+(K�nig Heinrichs des Sechsten Leiche wird in einem offnen
+Sarge hereingetragen, Tressel, Berkeley und Edelleute mit
+Hellebarden begleiten sie; hierauf Prinzessin Anna als
+Leidtr�gerin.)
+
+
+Anna.
+Setzt nieder eure ehrenwerte Last--
+Wofern sich Ehre senkt in einen Sarg--,
+Indessen ich zur Leichenfeier klage
+Den fr�hen Fall des frommen Lancaster.
+Du eiskalt Bildnis eines heil'gen K�nigs!
+Des Hauses Lancaster erblichne Asche!
+Blutloser Rest des k�niglichen Bluts!
+Verg�nnt sei's, aufzurufen deinen Geist,
+Da� er der armen Anna Jammer h�re,
+Die Eduards Weib war, deines Sohns, erw�rgt
+Von jener Hand, die diese Wunden schlug.
+In diese Fenster, die sich aufgetan,
+Dein Leben zu entlassen, tr�ufl' ich, sieh!
+Hilflosen Balsam meiner armen Augen.
+Verflucht die Hand, die diese Risse machte!
+Verflucht das Herz, das Herz hatt', es zu tun!
+Verflucht das Blut, das dieses Blut entlie�!
+Heilloser Schicksal treffe den Elenden,
+Der elend uns gemacht durch deinen Tod,
+Als ich kann w�nschen Nattern, Spinnen, Kr�ten
+Und allem giftigen Gew�rm, das lebt.
+Hat er ein Kind je, so sei's mi�geboren,
+Verwahrlost und zu fr�h ans Licht gebracht,
+Des greulich unnat�rliche Gestalt
+Den Blick der hoffnungsvollen Mutter schrecke;
+Und das sei Erbe seines Mi�geschicks!
+Hat er ein Weib je, nun, so m�ge sie
+Sein Tod um vieles noch elender machen,
+Als mich mein junger Ehgemahl und du!--
+Kommt nun nach Chertsey mit der heil'gen Last,
+Die von Sankt Paul wir zur Bestattung holten,
+Und immer, wenn ihr m�de seid, ruht aus,
+Derweil ich klag um K�nig Heinrichs Leiche.
+
+(Die Tr�ger nehmen die Leiche auf und gehen weiter.)
+
+(Gloster tritt auf.)
+
+Gloster.
+Halt!  ihr der Leiche Tr�ger, setzt sie nieder!
+
+Anna.
+Welch schwarzer Zaubrer bannte diesen B�sen
+Zur St�rung frommer Liebesdienste her?
+
+Gloster.
+Schurken, die Leiche nieder!  Bei Sankt Paul,
+Zur Leiche mach ich den, der nicht gehorcht!
+
+ErsterEdelmann.
+Mylord, weicht aus und la�t den Sarg vorbei.
+
+Gloster.
+Schamloser Hund!  steh du, wenn ich's befehle;
+Senk die Hellbarde nicht mir vor die Brust,
+Sonst, bei Sankt Paul, streck ich zu Boden dich
+Und trete, Bettler, dich f�r deine Keckheit.
+
+(Die Tr�ger setzen den Sarg nieder.)
+
+Anna.
+Wie nun?  ihr zittert, ihr seid all erschreckt?
+Doch ach!  ich tadl' euch nicht: ihr seid ja sterblich,
+Und es ertr�gt kein sterblich Aug' den Teufel.--
+Heb dich hinweg, du grauser H�llenbote!
+Du hattest Macht nur �ber seinen Leib,
+Die Seel' erlangst du nicht: drum mach dich fort.
+
+Gloster.
+Sei christlich, s��e Heil'ge!  fluche nicht--!
+
+Anna.
+Um Gottes Willen, schn�der Teufel, fort,
+Und st�r uns ferner nicht!  Du machtest ja
+Zu deiner H�lle die begl�ckte Erde,
+Erf�llt mit Fluchgeschrei und tiefem Weh.
+Wenn deine grimm'gen Taten dich erg�tzen,
+Sieh diese Probe deiner Metzgerei'n.--.
+Ihr Herrn, seht, seht!  des toten Heinrichs Wunden
+�ffnen den starren Mund und bluten frisch.--
+Err�te, Klumpe schn�der Mi�gestalt!
+Denn deine Gegenwart haucht dieses Blut
+Aus Adern, kalt und leer, wo kein Blut wohnt;
+Ja deine Tat, unmenschlich, unnat�rlich,
+Ruft diese Flut hervor, so unnat�rlich.--
+Du schufst dies Blut, Gott: r�che seinen Tod!
+Du trinkst es, Erde: r�che seinen Tod!
+La�, Himmel, deinen Blitz den M�rder schlagen!
+G�hn, Erde, weit, und schling ihn lebend ein,
+Wie jetzo dieses guten K�nigs Blut,
+Den sein der H�ll' ergebner Arm gew�rgt!
+
+Gloster.
+Herrin, Ihr kennt der Liebe Vorschrift nicht,
+Mit Gutem B�ses, Fluch mit Segen lohnen.
+
+Anna.
+Bube, du kennst kein g�ttlich, menschlich Recht;
+Das wildste Tier kennt doch des Mitleids Regung.
+
+Gloster.
+Ich kenne keins, und bin daher kein Tier.
+
+Anna.
+O  Wunder, wenn ein Teufel Wahrheit spricht!
+
+Gloster.
+Mehr Wunder, wenn ein Engel zornig ist!--
+Geruhe, g�ttlich Urbild eines Weibes,
+Von der vermeinten Schuld mir zu erlauben,
+Gelegentlich bei dir mich zu befrein.
+
+Anna.
+Geruhe, gift'ger Abschaum eines Manns,
+F�r die bekannte Schuld mir zu erlauben,
+Gelegentlich zu fluchen dir Verfluchtem.
+
+Gloster.
+Du, sch�ner als ein Mund dich nennen kann!
+Verleih geduld'ge Frist, mich zu entschuld'gen.
+
+Anna.
+Du, schn�der als ein Herz dich denken kann!
+F�r dich gilt kein Entschuld'gen, als dich h�ngen.
+
+Gloster.
+Verzweifelnd so, verklagt' ich ja mich selbst.
+
+Anna.
+Und im Verzweifeln w�rest du entschuldigt,
+Durch �bung w�rd'ger Rache an dir selbst,
+Der du unw�rd'gen Mord an andern �btest.
+
+Gloster.
+Setz, ich erschlug sie nicht.
+
+Anna.
+So w�ren sie nicht tot;
+Doch tot sind sie und, H�llenknecht, durch dich.
+
+Gloster.
+Ich schlug nicht Euren Gatten.
+
+Anna.
+Nun wohl, so lebt er noch.
+
+Gloster.
+Nein, er ist tot, und ihn schlug Eduards Hand.
+
+Anna.
+Du l�gst in deinen Hals; Margretha sah
+In seinem Blut dein m�rdrisch Messer dampfen,
+Das du einst wandtest gegen ihre Brust,
+Nur deine Br�der schlugen es beiseit.
+
+Gloster.
+Ich war gereizt von ihrer L�sterzunge,
+Die jener Schuld legt' auf mein schuldlos Haupt.
+
+Anna.
+Du warst gereizt von deinem blut'gen Sinn,
+Der nie von anderm tr�umt' als Metzgerein.
+Hast du nicht diesen K�nig umgebracht?
+
+Gloster.
+Ich geb es zu.
+
+Anna.
+Zu gibst du's, Igel?  Nun, so geb' auch Gott,
+Da� du verdammt seist f�r die b�se Tat!
+Oh, er war g�tig, mild und tugendsam.
+
+Gloster.
+So taugt er, bei des Himmels Herrn zu wohnen.
+
+Anna.
+Er ist im Himmel, wo du niemals hinkommst.
+
+Gloster.
+Er danke mir, der ihm dahin verholfen:
+Er taugte f�r den Ort, nicht f�r die Erde.
+
+Anna.
+Du taugst f�r keinen Ort als f�r die H�lle.
+
+Gloster.
+Ja, einen noch, wenn ich ihn nennen darf.
+
+Anna.
+Ein Kerker.
+
+Gloster.
+Euer Schlafzimmer.
+
+Anna.
+Verbannt sei Ruh' vom Zimmer, wo du liegst.
+
+Gloster.
+Das ist sie, Herrin, bis ich bei Euch liege.
+
+Anna.
+Ich hoff es.
+
+Gloster.
+Ich wei� es.--Doch, liebe Lady Anna,
+Um aus dem raschen Anlauf unsres Witzes
+In einen mehr gesetzten Ton zu fallen:
+Ist, wer verursacht den zu fr�hen Tod
+Der zwei Plantagenets, Heinrich und Eduard,
+So tadelnswert als der Vollzieher nicht?
+
+Anna.
+Du warst die Ursach' und verfluchte Wirkung.
+
+Gloster.
+Eu'r Reiz allein war Ursach' dieser Wirkung,
+Eu'r Reiz, der heim mich sucht' in meinem Schlaf,
+Von aller Welt den Tod zu unternehmen
+F�r eine Stund' an Eurem s��en Busen.
+
+Anna.
+D�cht' ich das, M�rder, diese N�gel sollten
+Von meinen Wangen rei�en diesen Reiz.
+
+Gloster.
+Dies Auge kann den Reiz nicht tilgen sehn;
+Ihr t�tet ihm kein Leid, st�nd' ich dabei.
+Wie alle Welt sich an der Sonne labt,
+So ich an ihm: er ist mein Tag, mein Leben.
+
+Anna.
+Nacht schw�rze deinen Tag und Tod dein Leben.
+
+Gloster.
+Fluch, hold Gesch�pf, dir selbst nicht: du bist beides.
+
+Anna.
+Ich wollt', ich w�r's, um mich an dir zu r�chen.
+
+Gloster.
+Es ist ein Handel wider die Natur,
+Dich r�chen an dem Manne, der dich liebt.
+
+Anna.
+Es ist ein Handel nach Vernunft und Recht,
+Mich r�chen an dem M�rder meines Gatten.
+
+Gloster.
+Der dich beraubte, Herrin, deines Gatten,
+Tat's, dir zu schaffen einen bessern Gatten.
+
+Anna.
+Ein be�rer atmet auf der Erde nicht.
+
+Gloster.
+Es lebt wer, der Euch besser liebt als er.
+
+Anna.
+Nenn ihn.
+
+Gloster.
+Plantagenet.
+
+Anna.
+So hie� ja er.
+
+Gloster.
+Derselbe Name, doch bei be�rer Art.
+
+Anna.
+Wo ist er?
+
+Gloster.
+Hier.
+
+(Sie speit nach ihm.)
+
+Warum speist du mich an?
+
+Anna.
+W�r' es doch t�dlich Gift, um deinethalb!
+
+Gloster.
+Niemals kam Gift aus solchem s��en Ort.
+
+Anna.
+Niemals hing Gift an einem schn�dern Molch.
+Aus meinen Augen fort!  du steckst sie an.
+
+Gloster.
+Dein Auge, Herrin, hat meins angesteckt.
+
+Anna.
+O  w�r's ein Basilisk, dich totzublitzen!
+
+Gloster.
+Ich wollt' es selbst, so st�rb' ich auf einmal,
+Denn jetzo gibt es mir lebend'gen Tod.
+Dein Aug' erpre�te meinen salze Tr�nen,
+Besch�mt' ihr Licht mit kind'scher Tropfen F�lle,
+Die Augen, nie benetzt von Mitleidstr�nen:
+Nicht als mein Vater York und Eduard weinten
+Bei Rutlands bangem Jammer, da sein Schwert
+Der schwarze Clifford z�ckte wider ihn;
+Noch als dein tapfrer Vater wie ein Kind
+Kl�glich erz�hlte meines Vaters Tod
+Und zehnmal innehielt zu schluchzen, weinen,
+Da�, wer dabeistand, na� die Wangen hatte
+Wie Laub im Regen: in der traur'gen Zeit
+Verwarf mein m�nnlich Auge niedre Tr�nen,
+Und was dies Leid ihm nicht entsaugen konnte,
+Das tat dein Reiz und macht' es blind vom Weinen.
+Ich flehte niemals weder Freund noch Feind,
+Nie lernte meine Zunge Schmeichelworte:
+Doch nun dein Reiz mir ist gesetzt zum Preis,
+Da fleht mein stolzes Herz und lenkt die Zunge.
+
+(Sie sieht ihn ver�chtlich an.)
+
+Nein, lehr nicht deine Lippen solchen Hohn:
+Zum Ku� geschaffen, Herrin, sind sie ja.
+Kann nicht verzeihn dein rachbegierig Herz,
+So biet ich, sieh!  dies scharfgespitzte Schwert;
+Birg's, wenn du willst, in dieser treuen Brust
+Und la� die Seel' heraus, die dich verg�ttert:
+Ich lege sie dem Todesstreiche blo�
+Und bitt, in Demut kniend, um den Tod.
+
+(Er entbl��t seine Brust, sie zielt mit dem Degen nach ihm.)
+
+Nein, z�gre nicht: ich schlug ja K�nig Heinrich,
+Doch deine Sch�nheit reizte mich dazu.
+Nur zu!  Denn ich erstach den jungen Eduard:
+
+(Sie zielt wieder nach seiner Brust.)
+
+Jedoch dein himmlisch Antlitz trieb mich an.
+
+(Sie l��t den Degen fallen.)
+
+Nimm auf den Degen, oder nimm mich auf.
+
+Anna.
+Steh, Heuchler, auf!  W�nsch ich schon deinen Tod,
+So will ich doch nicht sein Vollstrecker sein.
+
+Gloster.
+So hei� mich selbst mich t�ten, und ich will's.
+
+Anna.
+Ich tat es schon.
+
+Gloster.
+Das war in deiner Wut.
+Sag's noch einmal, und gleich soll diese Hand,
+Die deine Lieb' aus Lieb' erschlug zu dir,
+Weit treuere Liebe dir zulieb' erschlagen;
+Du wirst an beider Tod mitschuldig sein.
+
+Anna.
+Kennt' ich doch nur dein Herz!
+
+Gloster.
+Auf meiner Zunge wohnt's.
+
+Anna.
+Vielleicht sind beide falsch.
+
+Gloster.
+Dann meint es niemand treu.
+
+Anna.
+Nun wohl, steckt ein das Schwert.
+
+Gloster.
+Gew�hrst du Frieden mir?
+
+Anna.
+Das sollt Ihr k�nftig sehn.
+
+Gloster.
+Darf ich in Hoffnung leben?
+
+Anna.
+Ich hoffe, jeder tut's.
+
+Gloster.
+Tragt diesen Ring von mir.
+
+Anna.
+Annehmen ist nicht geben.
+
+(Sie steckt den Ring an.)
+
+Gloster.
+Sieh, wie der Ring umfasset deinen Finger,
+So schlie�t dein Busen ein mein armes Herz;
+Trag beide, denn sie sind ja beide dein.
+Und wenn dein treuster Diener eine Gunst
+Erbitten darf von deiner gn�d'gen Hand,
+So sicherst du sein Gl�ck ihm zu f�r immer.
+
+Anna.
+Was ist es?
+
+Gloster.
+Da� Ihr dies traur'ge Werk dem �berla�t,
+Der gr��re Ursach' leidzutragen hat,
+Und Euch sogleich nach Crosby-Hof begebt;
+Wo ich, nachdem ich feierlich bestattet
+In Chertsey-M�nster diesen edlen K�nig
+Und reuevoll sein Grab genetzt mit Tr�nen,
+Mit aller schuld'gen Ehr' Euch will besuchen.
+Aus mancherlei geheimen Gr�nden bitt ich,
+Gew�hrt mir dies.
+
+Anna.
+Von ganzem Herzen, und es freut mich sehr,
+Zu sehn, da� Ihr so reuig worden seid.--
+Wessel und Berkeley, kommt, begleitet mich.
+
+Gloster.
+Sagt mir Lebwohl.
+
+Anna.
+�s ist mehr als Ihr verdient,
+Doch weil Ihr, Euch zu schmeicheln, mich gelehrt,
+So denkt, ich sagte schon Euch Lebewohl.
+
+(Prinzessin Anna mit den beiden Edelleuten ab.)
+
+Gloster.
+Nehmt auf die Leich', ihr Herrn.
+
+ZweiterEdelmann.
+Nach Chertsey, edler Lord?
+
+Gloster.
+Nein, zu den Karmelitern; dort erwartet mich.
+
+(Der Zug mit der Leiche ab.)
+
+Ward je in dieser Laun' ein Weib gefreit?
+Ward je in dieser Laun' ein Weib gewonnen?
+Ich will sie haben, doch nicht lang behalten.
+Wie?  ich, der M�rder ihres Manns und Vaters,
+In ihres Herzens Abscheu sie zu fangen,
+Im Munde Fl�che, Tr�nen in den Augen,
+Der Zeuge ihres Hasses blutend da;
+Gott, ihr Gewissen, all dies wider mich,
+Kein Freund, um mein Gesuch zu unterst�tzen,
+Als Heuchlerblicke und der bare Teufel,
+Und doch sie zu gewinnen!  Alles gegen nichts!  Ha!
+Entfiel so bald ihr jener wackre Prinz,
+Eduard, ihr Gatte, den ich vor drei Monden
+Zu Tewkesbury in meinem Grimm erstach?
+Solch einen holden liebensw�rd'gen Herrn,
+In der Verschwendung der Natur gebildet,
+Jung, tapfer, weis' und sicher k�niglich,
+Hat nicht die weite Welt mehr aufzuweisen:
+Und will sie doch ihr Aug' auf mich erniedern,
+Der dieses Prinzen goldne Bl�te brach
+Und sie verwitwet im betr�bten Bett?
+Auf mich, der nicht dem halben Eduard gleichkommt?
+Auf mich, der hinkt und mi�geschaffen ist?
+Mein Herzogtum f�r einen Bettlerpfennig,
+Ich irre mich in mir die ganze Zeit:
+So wahr ich lebe, kann ich's gleich nicht finden,
+Sie find't, ich sei ein wunderh�bscher Mann.
+Ich will auf einen Spiegel was verwenden
+Und ein paar Dutzend Schneider unterhalten,
+Um Trachten auszusinnen, die mir stehn.
+Da ich bei mir in Gunst gekommen bin,
+So will ich's auch mich etwas kosten lassen.
+Doch schaff ich den Gesellen erst ins Grab
+Und kehre jammernd dann zur Liebsten um.
+Komm, holde Sonn', als Spiegel mir zustatten
+Und zeige, wenn ich geh, mir meinen Schatten.
+
+(Ab.)
+
+
+
+DRITTE SZENE
+
+
+Ebendaselbst.  Ein Zimmer im Palast.
+
+(K�nigin Elisabeth, Lord Rivers, Marquis von Dorset
+und Lord Grey treten auf.)
+
+
+Rivers.
+Seid ruhig, F�rstin: bald wird Seine Majest�t
+Sich wieder im erw�nschten Wohlsein finden.
+
+Grey.
+Es macht ihn schlimmer, da� Ihr's �bel tragt:
+Um Gottes willen also, seid getrost
+Und muntert ihn mit frohen Worten auf.
+
+Elisabeth.
+Was w�rde mir begegnen, w�r' er tot?
+
+Grey.
+Kein ander Leid, als solches Herrn Verlust.
+
+Elisabeth.
+Solch eines Herrn Verlust schlie�t jedes ein.
+
+Grey.
+Der Himmel schenkt' Euch einen wackern Sohn,
+Wenn er dahin ist, Tr�ster Euch zu sein.
+
+Elisabeth.
+Ach!  er ist jung, und bis zur M�ndigkeit
+F�hrt �ber ihn die Sorge Richard Gloster,
+Ein Mann, der mich nicht liebt, noch wen von euch.
+
+Rivers.
+Ist's ausgemacht, da� er Protektor wird?
+
+Elisabeth.
+Es ist beschlossen, noch nicht ausgemacht:
+Allein es mu� sein, wenn der K�nig abgeht.
+
+(Buckingham und Stanley treten auf.)
+
+Grey.
+Da sind die Lords von Buckingham und Stanley.
+
+Buckingham.
+Eu'r k�niglichen Gnaden Heil und Gl�ck!
+
+Stanley.
+Gott m�g' Eu'r Majest�t erfreun wie ehmals!
+
+Elisabeth.
+Die Gr�fin Richmond, lieber Mylord Stanley,
+Sagt auf Eu'r gut Gebet wohl schwerlich Amen.
+Doch, Stanley, ob sie Euer Weib schon ist
+Und mich nicht liebt, seid, bester Lord, versichert,
+Ich ha� Euch nicht um ihren �bermut.
+
+Stanley.
+Me�t, ich ersuch Euch, keinen Glauben bei
+Den L�sterungen ihrer falschen Kl�ger;
+Und w�rde sie auf g�lt'gen Grund verklagt,
+Tragt ihre Schw�che, die gewi� entsteht
+Aus kranken Grillen, nicht bedachter Bosheit.
+
+Elisabeth.
+Saht Ihr den K�nig heute, Mylord Stanley?
+
+Stanley.
+Wir kommen, Herzog Buckingham und ich,
+Nur eben jetzt von Seiner Majest�t.
+
+Elisabeth.
+Was ist f�r Anschein seiner Be�rung, Lords?
+
+Buckingham.
+Die beste Hoffnung, Eu'r Gemahl spricht munter.
+
+Elisabeth.
+Gott geb' ihm Heil!  Bespracht Ihr Euch mit ihm?
+
+Buckingham.
+Ja, gn�d'ge Frau: er w�nscht den Herzog Gloster
+Mit Euren Br�dern wieder auszus�hnen
+Und diese mit dem Oberk�mmerer
+Und hie� vor Seiner Hoheit sie erscheinen.
+
+Elisabeth.
+W�r' alles gut!  Doch das wird nimmer sein:
+Ich f�rchte, unser Gl�ck hat seine H�h'.
+
+(Gloster und Hastings.)
+
+Gloster.
+Sie tun mir Unrecht, und ich will's nicht dulden.
+Wer sind sie, die beim K�nig sich beklagen,
+Ich sei, man denke, hart und lieb' sie nicht?
+Beim heil'gen Paul, der liebt ihn obenhin,
+Wer so sein Ohr mit Zankger�chten anf�llt.
+Weil ich nicht schmeicheln und beschwatzen kann,
+Zulachen, streicheln, hintergehn und kriechen,
+Fuchsschw�nzend wie ein Franzmann und ein Aff',
+So h�lt man mich f�r einen h�m'schen Feind.
+Kann denn ein schlichter Mann nicht harmlos leben,
+Da� nicht sein redlich Herz mi�handelt w�rde
+Von seidnen, schlauen, schmeichlerischen Gecken?
+
+Grey.
+Mit wem in diesem Kreis spricht Euer Gnaden?
+
+Gloster.
+Mit dir, der weder Tugend hat noch Gnade.
+Wann kr�nkt' ich dich?  wann tat ich dir zu nah?
+Und dir?  und dir?  Wann einem eurer Rotte?
+Die Pest euch allen!  Unser gn�d'ger F�rst--
+Den Gott erhalte, besser als ihr w�nscht!--
+Kann kaum ein Atemholen ruhig sein,
+Da� ihr ihn nicht mit w�sten Klagen st�rt.
+
+Elisabeth.
+Bruder von Gloster, Ihr mi�nehmt die Sache.
+Der K�nig hat, auf eignen h�chsten Antrieb
+Und nicht bewogen durch ein fremd Gesuch,
+Vielleicht vermutend Euren innern Ha�,
+Der sich in Eurem �u�ern Tun verr�t,
+Auf meine Kinder, Br�der und mich selbst,
+Zu Euch gesandt, damit er so erfahre
+Die Ursach' Eures Grolls und weg sie schaffe.
+
+Gloster.
+Ich wei� es nicht--die Welt ist so verderbt,
+Zaunk�n'ge hausen, wo's kein Adler wagt.
+Seit jeder Hans zum Edelmanne ward,
+So wurde mancher edle Mann zum Hans.
+
+Elisabeth.
+Schon gut!  man kennt die Meinung, Bruder Gloster:
+Ihr neidet mein und meiner Freunde Gl�ck.
+Gott gebe, da� wir nie Euch n�tig haben!
+
+Gloster.
+Gott gibt indes, da� wir Euch n�tig haben;
+Denn unser Bruder ist durch Euch verhaftet,
+Ich selbst in Ungnad', und der Adel preis
+Der Schmach gegeben, da man hohe Posten
+T�glich verleiht, mit Ehren die zu kr�nen,
+Die gestern keine Kron' im Beutel hatten.
+
+Elisabeth.
+Bei dem, der mich zu banger H�h' erhob,
+Von dem zufriednen Los, das ich geno�!
+Ich reizte niemals Seine Majest�t
+Wider den Herzog Clarence, war vielmehr
+Ein Anwalt, welcher eifrig f�r ihn sprach.
+Mylord, Ihr tut mir schm�hlich Unrecht an,
+Da Ihr mich falsch in solchen Argwohn bringt.
+
+Gloster.
+Ihr k�nnt auch leugnen, da� Ihr Schuld gehabt
+An Mylord Hastings neulichem Verhaft.
+
+Rivers.
+Sie kann's, Mylord; denn--
+
+Gloster.
+Sie kann's, Lord Rivers?  Ei, wer wei� das nicht?
+Sie kann noch mehr als dieses leugnen, Herr:
+Sie kann Euch helfen zu manch sch�nem Posten,
+Dann leugnen ihre Hand im Spiel dabei
+Und alles nennen des Verdienstes Lohn.
+Was kann sie nicht?  Sie kann--ja traun!  sie kann
+�-
+
+Rivers.
+Was kann sie, traun?
+
+Gloster.
+Was kann sie traun?  Mit einem K�nig traun,
+Und der ein Junggesell, ein h�bscher Bursch!
+Hat Eure Gro�mama so gut gefreit?
+
+Elisabeth.
+Mylord von Gloster, allzu lang ertrug ich
+Eu'r plumpes Schelten und Eu'r bittres Schm�hn.
+Ich melde Seiner Majest�t, beim Himmel,
+Den groben Hohn, den ich so oft erlitt.
+Ich w�re lieber eine Bauermagd
+Als gro�e K�nigin mit der Bedingung,
+Da� man mich so verachtet und best�rmt.
+Ich habe wenig Freud' auf Englands Thron.
+
+(K�nigin Margaretha erscheint im Hintergrunde.)
+
+Margaretha.
+Das Wen'ge sei verringert, Gott, so fleh ich!
+Denn mir geb�hrt dein Rang und Ehrensitz.
+
+Gloster.
+Was?  droht Ihr mir, dem K�nig es zu sagen?
+Sagt's ihm und schont nicht; seht, was ich gesagt,
+Behaupt ich in des K�nigs Gegenwart.
+Ich wag es drauf, in Turm geschickt zu werden.
+�s ist Redens Zeit: man denkt nicht meiner Dienste.
+
+Margaretha.
+Fort, Teufel!  Ihrer denk ich allzu wohl.
+Du brachtest meinen Gatten um im Turm,
+Und meinen armen Sohn zu Tewkesbury.
+
+Gloster.
+Eh' Ihr den Thron bestiegt und Eu'r Gemahl,
+War ich das Packpferd seines gro�en Werks,
+Ausrotter seiner stolzen Widersacher,
+Freigebiger Belohner seiner Freunde;
+Sein Blut zu f�rsten, hab ich meins vergossen.
+
+Margaretha.
+Ja, und viel be�res Blut als seins und deins.
+
+Gloster.
+In all der Zeit war't Ihr und Grey, Eu'r Mann,
+Parteiisch f�r das Haus von Lancaster;
+Ihr, Rivers, war't es auch.--Fiel Euer Mann
+Nicht zu Sankt Albans in Margrethas Schlacht?
+Erinnern mu� ich Euch, wenn Ihr's verge�t,
+Was Ihr zuvor gewesen und nun seid;
+Zugleich, was ich gewesen und noch bin.
+
+Margaretha.
+Ein m�rderischer Schurk', und bist es noch.
+
+Gloster.
+Verlie� nicht Clarence seinen Vater Warwick,
+Ja, und brach seinen Eid--vergeb' ihm Jesus!�-
+
+Margaretha.
+Bestraf' ihn Gott!
+
+Gloster.
+Um neben Eduard f�r den Thron zu fechten?
+Zum Lohn sperrt man den armen Prinzen ein.
+W�r' doch mein Herz steinhart wie Eduard seins,
+Wo nicht, seins weich und mitleidsvoll wie meins!
+Ich bin zu kindisch t�richt f�r die Welt.
+
+Margaretha.
+So fahr zur H�lle und verla� die Welt,
+Du Kakod�mon!  Dort ist ja dein Reich.
+
+Rivers.
+Mylord von Gloster, in der hei�en Zeit,
+Woran Ihr mahnt, der Feindschaft uns zu zeihn,
+Da hielten wir an unserm Herrn und K�nig,
+Wie wir an Euch es t�ten, wenn Ihr's w�rdet.
+
+Gloster.
+Wenn ich es w�rde?  Lieber ein Hausierer!
+Fern meinem Herzen sei's, es nur zu denken.
+
+Elisabeth.
+So wenig Freude, Mylord, als Ihr denkt,
+Da� Ihr gen��t als dieses Landes K�nig:
+So wenig Freude m�gt Ihr denken auch,
+Da� ich genie� als dessen K�nigin.
+
+Margaretha.
+Ja, wenig Freud' hat dessen K�nigin:
+Ich bin es, und bin g�nzlich freudenlos.
+Ich kann nicht l�nger mich geduldig halten.--
+
+(Sie tritt vor.)
+
+H�rt mich, Piraten, die ihr hadernd zankt,
+Indem ihr teilt, was ihr geraubt von mir!
+Wer von euch zittert nicht, der auf mich schaut?
+Beugt euch der K�nigin als Untertanen,
+Sonst bebt vor der Entsetzten als Rebellen.--
+Ha, lieber Schurke!  wende dich nicht weg!
+
+Gloster.
+Was schaffst du, schn�de Hexe, mir vor Augen?
+
+Margaretha.
+Nur Wiederholung des, was du zerst�rt;
+Das will ich schaffen, eh' ich gehn dich lasse.
+
+Gloster.
+Bist du bei Todesstrafe nicht verbannt?
+
+Margaretha.
+Ich bin's, doch gr��te Pein find ich in meinem Bann,
+Als mir der Tod kann bringen, weil ich blieb.
+Den Gatten und den Sohn bist du mir schuldig--
+Und du das K�nigreich--ihr alle, Dienstpflicht;
+Dies Leiden, das ich habe, kommt euch zu,
+Und alle Lust, die ihr euch anma�t, mir.
+
+Gloster.
+Der Fluch, den dir mein edler Vater gab,
+Als mit Papier die Heldenstirn du kr�ntest
+Und h�hnend B�ch' aus seinen Augen zogst,
+Und reichtest, sie zu trocknen, ihm ein Tuch,
+Getaucht ins reine Blut des holden Rutland:
+Die Fl�ch', aus seiner Seele Bitterkeit
+Dir da verk�ndigt, sind auf dich gefallen,
+Und Gott, nicht wir, straft deine blut'ge Tat.
+
+
+Elisabeth.
+Ja, so gerecht ist Gott zum Schutz der Unschuld.
+
+Hastings.
+Oh, es war die schn�dste Tat, das Kind zu morden,
+Die unbarmherzigste, die je geh�rt ward!
+
+Rivers.
+Tyrannen weinten, als man sie erz�hlte.
+
+Dorset.
+Kein Mensch war, der nicht Rache prophezeite.
+
+Buckingham.
+Northumberland, der �s ansah, weinte drum.
+
+Margaretha.
+Wie?  fletschtet ihr die Z�hne, wie ich kam,
+Bereit schon, bei der Gurgel euch zu packen,
+Und kehrt ihr nun all euren Ha� auf mich?
+Galt Yorks ergrimmter Fluch so viel im Himmel,
+Da� Heinrichs Tod, des s��en Eduards Tod,
+Des Reichs Verlust, mein wehevoller Bann,
+Genugtut blo� f�r das verzogne B�bchen?
+Dringt denn ein Fluch die Wolken durch zum Himmel?
+Wohl!  trennt die schweren Wolken, rasche Fl�che!--
+Wo nicht durch Krieg, durch Prassen sterb' eu'r K�nig,
+Wie Mord des unsern ihn gemacht zum K�nig!
+Eduard, dein Sohn, der jetzo Prinz von Wales,
+Statt Eduard, meines Sohns, sonst Prinz von Wales,
+Sterb' in der Jugend, vor der Zeit, gewaltsam!
+Du, K�nigin statt meiner, die ich's war,
+Gleich mir Elenden �berleb dein Los!
+Lang lebe, deine Kinder zu bejammern!
+Sieh eine andre, wie ich jetzo dich,
+Gekleidet in dein Recht, wie du in meins!
+Lang sterbe deines Gl�ckes Tag vor dir,
+Und nach viel langen Stunden deines Grams
+Stirb, weder Mutter, Weib, noch K�nigin!
+Rivers und Dorset, ihr saht zu dabei--
+Auch du, Lord Hastings--, als man meinen Sohn
+Erstach mit blut'gen Dolchen: Gott, den fleh ich,
+Da� euer keiner sein nat�rlich Alter
+Erreich' und pl�tzlich werde weggerafft!
+
+Gloster.
+Schlie� deinen Spruch, verschrumpfte b�se Hexe!
+
+Margaretha.
+Und lie�' dich aus?  Bleib, Hund, du mu�t mich h�ren.
+Bewahrt der Himmel eine schwere Plage,
+Die �bertrifft, was ich dir wei� zu w�nschen,
+O spar' er sie, bis deine S�nden reif,
+Dann schleudr' er seinen Grimm herab auf dich,
+Den Friedensst�rer dieser armen Welt!
+Dich nage rastlos des Gewissens Wurm!
+Argw�hne stets die Freunde wie Verr�ter,
+Und Erzverr�ter acht als Busenfreunde!
+Dein t�dlich Auge schlie�e nie der Schlaf,
+Es sei denn, weil ein peinigender Traum
+Dich schreckt mit einer H�lle grauser Teufel!
+Du Mi�geburt voll M�ler!  w�hlend Schwein!
+Du, der gestempelt ward bei der Geburt
+Der Sklave der Natur, der H�lle Sohn!
+Du Schandfleck f�r der Mutter schweren Scho�!
+Du ekler Spr��ling aus des Vaters Lenden!
+Du Lump der Ehre!  du mein Abscheu--
+
+Gloster.
+Margaretha.
+
+Margaretha.
+Richard.
+
+Gloster.
+He?
+
+Margaretha.
+Ich rief dich nicht.
+
+Gloster.
+So bitt ich um Verzeihung; denn ich dachte,
+Du riefst mir all die bittern Namen zu.
+
+Margaretha.
+Das tat ich auch, doch Antwort wollt' ich nicht.
+O  la� zum Schlu� mich bringen meinen Fluch!
+
+Gloster.
+Ich tat's f�r dich: er endigt in Margretha.
+
+Elisabeth.
+So hat Eu'r Fluch sich auf Euch selbst gewandt.
+
+Margaretha.
+Gemalte K�n'gin!  Scheinbild meines Gl�cks!
+Was streust du Zucker auf die bauch'ge Spinne,
+Die dich mit t�dlichem Geweb' umstrickt?
+T�rin!  du sch�rfst ein Messer, das dich w�rgt;
+Es kommt der Tag, wo du herbei mich w�nschest
+Zum Fluchen auf den giftgeschwollnen Molch.
+
+Hastings.
+Schlie�, Wahnprophetin, deinen tollen Fluch,
+Ersch�pf nicht, dir zum Schaden, die Geduld.
+
+Margaretha.
+Schand' �ber euch!  Ihr all ersch�pftet meine.
+
+Rivers.
+Beratet Euch und lernet Eure Pflicht.
+
+Margaretha.
+Mich zu beraten, m��t ihr Pflicht mir leisten.
+Lehrt K�nigin mich sein, euch Untertanen;
+Beratet mich, und lernet diese Pflicht.
+
+Dorset.
+O  streitet nicht mit ihr, sie ist verr�ckt.
+
+Margaretha.
+Still, Meister Marquis!  Ihr seid naseweis,
+Eu'r neugepr�gter Rang ist kaum in Umlauf.
+Oh, da� Eu'r junger Adel f�hlen k�nnte,
+Was ihn verlieren hei�t und elend sein.
+Wer hoch steht, den kann mancher Windsto� treffen,
+Und wenn er f�llt, so wird er ganz zerschmettert.
+
+Gloster.
+Traun, guter Rat!  Marquis, nehmt ihn zu Herzen.
+
+Dorset.
+Er geht Euch an, Mylord, so sehr als mich.
+
+Gloster.
+Ja, und weit mehr: Doch ich bin hochgeboren;
+In Zedernwipfeln nistet unsre Brut
+Und t�ndelt mit dem Wind und trotzt der Sonne.
+
+Margaretha.
+Und h�llt die Sonn' in Schatten--weh!  ach weh!
+Das zeugt mein Sohn, im Todesschatten jetzt;
+Des strahlend lichten Schein dein wolk'ger Grimm
+Mit ew'ger Finsternis umzogen hat.
+In unsrer Jungen Nest baut eure Brut.
+O Gott, der du es siehest, duld es nicht!
+Was Blut gewann, sei auch so eingeb��t!
+
+Buckingham.
+Still, still!  aus Scham, wo nicht aus Christenliebe.
+
+Margaretha.
+R�ckt Christenliebe nicht, noch Scham mir vor.
+Unchristlich seid ihr mit mir umgegangen,
+Und schamlos w�rgtet ihr mir jede Hoffnung.
+Wut ist mein Lieben, Leben meine Schmach;
+Stets leb' in meiner Schmach des Leidens Wut.
+
+Buckingham.
+H�rt auf!  h�rt auf!
+
+Margaretha.
+O  Buckingham, ich k�sse deine Hand
+Zum Pfand der Freundschaft und des Bunds mit dir.
+Dir geh' es wohl und deinem edlen Haus!
+Dein Kleid ist nicht befleckt mit unserm Blut,
+Und du nicht im Bezirke meines Fluchs.
+
+Buckingham.
+Auch keiner sonst; nie �berschreiten Fl�che
+Die Lippen des, der in die Luft sie haucht.
+
+Margaretha.
+Ich glaube doch, sie steigen himmelan
+Und wecken Gottes sanft entschlafnen Frieden.
+O Buckingham, weich aus dem Hunde dort!
+Sieh, wann er schmeichelt, bei�t er; wann er bei�t,
+So macht sein gift'ger Zahn zum Tode wund.
+Hab nichts mit ihm zu schaffen, weich ihm aus!
+Tod, S�nd' und H�lle haben ihn gezeichnet,
+Und ihre Diener all umgeben ihn.
+
+Gloster.
+Was sagt sie da, Mylord von Buckingham?
+
+Buckingham.
+Nichts, das ich achte, mein gewogner Herr.
+
+Margaretha.
+Wie?  h�hnst du mich f�r meinen treuen Rat
+Und hegst den Teufel da, vor dem ich warne?
+O denke des auf einen andern Tag,
+Wenn er dein Herz mit Gram zerrei�t, und sage:
+Die arme Margaretha war Prophetin.
+Leb' euer jeder, seinem Ha� zum Ziel,
+Und er dem euren, und ihr alle Gottes!
+
+(Ab.)
+
+Hastings.
+Mir str�ubt das Haar sich, fluchen sie zu h�ren.
+
+Rivers.
+Mir auch; es wundert mich, da� man so frei sie l��t.
+
+Gloster.
+Ich schelte nicht sie, bei der Mutter Gottes!
+Sie hat zu viel gelitten, und mich reut
+Mein Teil daran, was ich ihr angetan.
+
+Elisabeth.
+Ich tat ihr nie zu nah, soviel ich wei�.
+
+Gloster.
+Doch habt Ihr allen Vorteil ihres Leids.
+Ich war zu hitzig, jemand wohlzutun,
+Der nun zu kalt ist, mir es zu gedenken.
+Mein Treu, dem Clarence wird es gut vergolten:
+Man m�stet ihn f�r seine M�h' im Kofen.
+Verzeih Gott denen, welche schuld dran sind!
+
+Rivers.
+Ein tugendhafter christlicher Beschlu�,
+F�r die zu beten, die uns B�ses tun!
+
+Gloster.
+Das tu ich immer, weislich so belehrt:--
+
+(Beiseit.)
+
+Denn flucht' ich jetzt, h�tt' ich mich selbst verflucht.
+
+(Catesby tritt auf.)
+
+Catesby.
+F�rstin, Euch fordert Seine Majest�t;--
+Eu'r Gnaden auch--und Euch, Ihr edlen Lords.
+
+Elisabeth.
+Ich komme, Catesby.--Geht Ihr mit mir, Lords?
+
+Rivers.
+Wir sind zu Euer Gnaden Dienst.
+
+(Alle ab, au�er Gloster.)
+
+Gloster.
+Ich tu das B�s' und schreie selbst zuerst.
+Das Unheil, das ich heimlich angestiftet,
+Leg ich den andern dann zur schweren Last.
+Clarence, den ich in Finsternis gelegt,
+Bewein ich gegen manchen bl�den Tropf,
+Ich meine Stanley, Hastings, Buckingham,
+Und sage, da� die K�n'gin und ihr Anhang
+Den K�nig wider meinen Bruder reizen.
+Nun glauben sie's und stacheln mich zugleich
+Zur Rache gegen Rivers, Vaughan, Grey;
+Dann seufz ich, und nach einem Spruch der Bibel
+Sag ich, Gott hei�e Gutes tun f�r B�ses;
+Und so bekleid ich meine nackte Bosheit
+Mit alten Fetzen, aus der Schrift gestohlen,
+Und schein ein Heil'ger, wo ich Teufel bin.
+
+(Zwei M�rder kommen.)
+
+Doch still!  da kommen meine Henkersknechte.--
+Nun, meine wackern, t�chtigen Gesellen,
+Geht ihr anjetzt, den Handel abzutun?
+
+ErsterM�rder.
+Ja, gn�d'ger Herr, und kommen um die Vollmacht,
+Damit man uns einlasse, wo er ist.
+
+Gloster.
+Ganz wohl bedacht!  Ich habe hier sie bei mir;
+
+(Gibt ihnen die Vollmacht.)
+
+Wann ihr's vollbracht habt, kommt nach Crosby-Hof.
+Doch seid mir schleunig bei der Ausf�hrung,
+Zugleich verh�rtet euch, h�rt ihn nicht an;
+Denn Clarence ist beredt und kann vielleicht
+Das Herz euch r�hren, wenn ihr auf ihn achtet.
+
+ErsterM�rder.
+Pah, gn�d�ger Herr!  Wir schwatzen nicht erst lang;
+Wer Worte macht, tut wenig: seid versichert,
+Die H�nde brauchen wir und nicht die Zungen.
+
+Gloster.
+Ihr weint M�hlsteine, wie die Narren Tr�nen;
+Ich hab euch gerne, Burschen: frisch ans Werk!
+Geht!  geht!  macht zu!
+
+ErsterM�rder.
+Wir wollen's, edler Herr.
+
+(Alle ab.)
+
+
+
+VIERTE SZENE
+
+
+Ein Zimmer im Turm.
+
+(Clarence und Brakenbury treten auf.)
+
+
+Brakenbury.
+Wie sieht Eu'r Gnaden heut so traurig aus?
+
+Clarence.
+Oh, ich hatt' eine j�mmerliche Nacht,
+Voll banger Tr�ume, scheu�licher Gesichte!
+So wahr als ich ein frommer gl�ub'ger Christ,
+Ich br�chte nicht noch eine Nacht so zu,
+G�lt' es auch eine Welt begl�ckter Tage:
+So voll von grausem Schrecken war die Zeit.
+
+Brakenbury.
+Was war Eu'r Traum, Mylord?  Ich bitt Euch, sagt mir.
+
+Clarence.
+Mir deucht', ich war entsprungen aus dem Turm
+Und eingeschifft, hin�ber nach Burgund,
+Und mich begleitete mein Bruder Gloster.
+Der lockt' aus der Kaj�te mich, zu gehn
+Auf dem Verdeck; von da sahn wir nach England
+Und f�hrten tausend schlimme Zeiten an
+Vom Kriege zwischen York und Lancaster,
+Die uns betroffen.  Wie wir schritten so
+Auf des Verdeckes schwindlichtem Get�fel,
+Schien mir's, da� Gloster strauchelt' und im Fallen
+Mich, der ihn halten wollte, �ber Bord
+In das Gew�hl der Meereswogen ri�.
+O Gott!  wie qualvoll schien mir's, zu ertrinken!
+Welch grauser L�rm des Wassers mir im Ohr!
+Welch scheu�lich Todesschauspiel vor den Augen!
+Mir deucht', ich s�h' den Graus von tausend Wracken,
+S�h' tausend Menschen, angenagt von Fischen;
+Goldklumpen, gro�e Anker, Perlenhaufen,
+Stein' ohne Preis, unsch�tzbare Juwelen,
+Zerstreuet alles auf dem Grund der See.
+In Sch�deln lagen ein'ge; in den H�hlen,
+Wo Augen sonst gewohnt, war eingenistet,
+Als wie zum Spotte, blinkendes Gestein,
+Das buhlte mit der Tiefe schlamm'gem Grund
+Und h�hnte die Gerippe ringsumher.
+
+Brakenbury.
+Ihr hattet Mu�' im Augenblick des Todes,
+Der Tiefe Heimlichkeiten auszusp�hn?
+
+Clarence.
+Mir deuchte so, und oft strebt' ich den Geist
+Schon aufzugeben: doch die neid'sche Flut
+Hielt meine Seel' und lie� sie nicht heraus,
+Die weite, leere, freie Luft zu suchen;
+Sie w�rgte mir sie im beklommnen Leib,
+Der fast zerbarst, sie in die See zu spein.
+
+Brakenbury.
+Erwachtet Ihr nicht von der Todesangst?
+
+Clarence.
+O nein, mein Traum fuhr nach dem Leben fort:
+Oh, da begann erst meiner Seele Sturm!
+Mich setzte �ber die betr�bte Flut
+Der grimme F�hrmann, den die Dichter singen,
+In jenes K�nigreich der ew'gen Nacht.
+Zum ersten gr��te da die fremde Seele
+Mein Schwiegervater, der ber�hmte Warwick.
+Laut schrie er: "Welche Gei�el f�r Verrat
+Verh�ngt dies d�stre Reich dem falschen Clarence?"
+Und so verschwand er.  Dann vor�ber schritt
+Ein Schatte wie ein Engel, helles Haar
+Mit Blut besudelt, und er schrie laut auf:
+"Clarence ist da, der eidverge�ne Clarence,
+Der mich im Feld bei Tewkesbury erstach!
+Ergreift ihn, Furien!  nehmt ihn auf die Folter!"
+Somit umfing mich eine Legion
+Der argen Feind' und heulte mir ins Ohr
+So gr��liches Geschrei, da� von dem L�rm
+Ich bebend aufwacht' und noch l�ngst nachher
+Nicht anders glaubt', als ich sei in der H�lle:
+So schrecklich eingepr�gt war mir der Traum.
+
+Brakenbury.
+Kein Wunder, Herr, da� Ihr Euch drob entsetzt;
+Mir bangt schon, da ich's Euch erz�hlen h�re.
+
+Clarence.
+O  Brakenbury, ich tat alles dies,
+Was jetzo wider meine Seele zeugt,
+Um Eduards halb:--und sieh, wie lohnt er's mir!
+O Gott, kann dich mein innig Flehn nicht r�hren,
+Und willst du r�chen meine Missetaten,
+So �be deinen Grimm an mir allein!
+schon mein schuldlos Weib, die armen Kinder!--
+Ich bitt dich, lieber W�rter, bleib bei mir:
+Mein Sinn ist tr�b, und gerne m�cht ich schlafen.
+
+Brakenbury.
+Ich will's, Mylord; Gott geb' Euch gute Ruh'!
+
+(Clarence setzt sieh zum Schlafen in einen Lehnstuhl.)
+
+Leid bricht die Zeiten und der Ruhe Stunden,
+Schafft Nacht zum Morgen und aus Mittag Nacht.
+Nur Titel sind der Prinzen Herrlichkeiten,
+Ein �u�rer Glanz f�r eine innre Last;
+F�r ungef�hlte Einbildungen f�hlen
+Sie eine Welt rastloser Sorgen oft.
+So da� von ihren Titeln niedern Rang
+Nichts unterscheidet als des Ruhmes Klang.
+
+(Die beiden M�rder kommen.)
+
+ErsterM�rder.
+He!  wer ist da?
+
+Brakenbury.
+Was willst du, Kerl?  wie bist du hergekommen?
+
+ErsterM�rder.
+Ich will Clarence sprechen, und ich bin auf meinen Beinen
+hergekommen.
+
+Brakenbury.
+Wie?  so kurz ab?
+
+ZweiterM�rder.
+O  Herr, besser kurz ab als langweilig.--
+Zeige ihm unsern Auftrag, la� dich nicht weiter ein.
+
+(Sie �berreichen dem Brakenbury ein Papier, welches er
+liest.)
+
+Brakenbury.
+Ich werde hier befehligt, euren H�nden
+Den edlen Herzog Clarence auszuliefern.
+Ich will nicht gr�beln, was hiemit gemeint ist,
+Denn ich will schuldlos an der Meinung sein.
+Hier sind die Schl�ssel, dorten schl�ft der Herzog.
+Ich will zum K�nig, um ihm kundzutun,
+Da� ich mein Amt so an euch abgetreten.
+
+ErsterM�rder.
+Das m�gt Ihr, Herr; es wird weislich getan sein.  Gehabt Euch
+wohl.
+
+(Brakenbury ab.)
+
+ZweiterM�rder.
+Wie?  sollen wir ihn so im Schlaf erstechen?
+
+ErsterM�rder.
+Nein, er wird sagen, das war feige von uns, wenn er aufwacht.
+
+ZweiterM�rder.
+Wenn er aufwacht!  Ei, Narr, er wacht gar nicht wieder auf bis zum
+gro�en Gerichtstag.
+
+ErsterM�rder.
+Ja, dann wird er sagen, wir haben ihn im Schlaf erstochen.
+
+ZweiterM�rder.
+Die Erw�hnung des Wortes Gerichtstag hat eine Art Gewissensbi� in
+mir erregt.
+
+ErsterM�rder.
+Was?  du f�rchtest dich?
+
+ZweiterM�rder.
+Nicht, ihn umzubringen, dazu hab ich ja die Vollmacht;
+Aber verdammt daf�r zu werden, wovor mich keine Vollmacht
+sch�tzen kann.
+
+ErsterM�rder.
+Ich dachte, du w�rst entschlossen.
+
+ZweiterM�rder.
+Das bin ich auch, ihn leben zu lassen.
+
+ErsterM�rder.
+Ich gehe wieder zum Herzog von Gloster und sage es ihm.
+
+ZweiterM�rder.
+Nicht doch, ich bitte dich, wart ein Weilchen.
+Ich hoffe, diese fromme Laune soll �bergehn:
+Sie pflegt bei mir nicht l�nger anzuhalten, als derweil man etwa
+zwanzig z�hlt.
+
+ErsterM�rder.
+Wie ist dir jetzt zumute?
+
+ZweiterM�rder.
+Mein Treu, es steckt immer noch ein gewisser Bodensatz von
+Gewissen in mir.
+
+ErsterM�rder.
+Denk an unsern Lohn, wenn's getan ist.
+
+ZweiterM�rder.
+Recht!  Er ist des Todes.  Den Lohn hatt' ich vergessen.
+
+ErsterM�rder.
+Wo ist dein Gewissen nun?
+
+ZweiterM�rder.
+Im Beutel des Herzogs von Gloster.
+
+ErsterM�rder.
+Wenn er also seinen Beutel aufmacht, uns den Lohn zu zahlen, so
+fliegt dein Gewissen heraus.
+
+ZweiterM�rder.
+Es tut nichts, la� es laufen; es mag's ja doch beinahe kein
+Mensch hegen.
+
+ErsterM�rder.
+Wie aber, wenn sich's wieder bei dir einstellt?
+
+ZweiterM�rder.
+Ich will nichts damit zu schaffen haben, es ist ein gef�hrlich
+Ding, es macht einen zur Memme.  Man kann nicht stehlen, ohne da� es
+einen anklagt; man kann nicht schw�ren, ohne da� es einen zum
+Stocken bringt; man kann nicht bei seines Nachbars Frau liegen, ohne
+da� es einen verr�t.  �s ist ein versch�mter bl�der Geist, der einem
+im Busen Aufruhr stiftet; es macht einen voller Schwierigkeiten; es
+hat mich einmal dahin gebracht, einen Beutel voll Gold wieder
+herzugeben, den ich von ungef�hr gefunden hatte; es macht jeden zum
+Bettler, der es hegt; es wird aus St�dten und Flecken vertrieben als
+ein gef�hrlich Ding, und jedermann, der gut zu leben denkt, verl��t
+sich auf sich selbst und lebt ohne Gewissen.
+
+ErsterM�rder.
+Sapperment, es sitzt mir eben jetzt im Nacken und will mich
+�berreden, den Herzog nicht umzubringen.
+
+ZweiterM�rder.
+Halt den Teufel fest im Gem�t und glaub ihm nicht: es will sich
+nur bei dir eindr�ngen, um dir Seufzer abzuzwingen.
+
+ErsterM�rder.
+Ich habe eine starke Natur, es kann mir nichts anhaben.
+
+ZweiterM�rder.
+Das hei�t gesprochen wie ein t�chtiger Kerl, der seinen guten
+Namen werth�lt.  Komm, wollen wir ans Werk gehn?
+
+ErsterM�rder.
+Gib ihm eins mit dem Degengriff �bern Hirnkasten, und dann
+schmei� ihn in das Malvasierfa� im n�chsten Zimmer.
+
+ZweiterM�rder.
+Oh, herrlich ausgedacht!  und mache ihn so zur Tunke.
+
+ErsterM�rder.
+Still!  er wacht auf.
+
+ZweiterM�rder.
+Schlag zu!
+
+ErsterM�rder.
+Nein, la� uns erst mit ihm reden.
+
+Clarence.
+Wo bist du, W�rter?  Einen Becher Weins!
+
+ErsterM�rder.
+Ihr sollt Wein genug haben, Herr, im Augenblick.
+
+Clarence.
+Im Namen Gottes, wer bist du?
+
+ErsterM�rder.
+Ein Mensch, wie Ihr seid.
+
+Clarence.
+Doch nicht, wie ich bin, k�niglich.
+
+ErsterM�rder.
+Noch Ihr, wie wir sind, b�rgerlich.
+
+Clarence.
+Dein Ruf ist Donner, doch dein Blick voll Demut.
+
+ErsterM�rder.
+Des K�nigs ist mein Ruf, mein Blick mein eigen.
+
+Clarence.
+Wie dunkel und wie t�dlich sprichst du doch!
+Eu'r Auge droht mir: warum seht ihr bleich?
+Wer hat euch hergesandt?  weswegen kommt ihr?
+
+Beide.
+Um, um, um
+
+Clarence.
+Mich zu ermorden?
+
+Beide.
+Ja, ja.
+
+Clarence.
+Ihr habt, mir das zu sagen, kaum das Herz
+Und k�nnt drum, es zu tun, das Herz nicht haben.
+Was, meine Freunde, tat ich euch zu nah?
+
+ErsterM�rder.
+Dem K�nig tatet Ihr zu nah, nicht uns.
+
+Clarence.
+Ich s�hne mich noch wieder aus mit ihm.
+
+ZweiterM�rder.
+Niemals, Mylord, drum schickt Euch an zum Tod.
+
+Clarence.
+Erlas man euch aus einer Welt von Menschen
+Zum Mord der Unschuld?  Was ist mein Vergehn?
+Wo ist das Zeugnis, welches mich verklagt?
+Was f�r Geschworne reichten ihr Gutachten
+Dem finstern Richter ein?  Den bittern Spruch,
+Wer f�llt' ihn zu des armen Clarence Tod?
+Eh' mich der Lauf des Rechtes �berf�hrt,
+Ist, mir den Tod zu drohn, h�chst widerrechtlich.
+Ich sag euch, wo ihr hofft auf die Erl�sung
+Durch Christi teures Blut, f�r uns vergossen:
+Begebt euch weg, und legt nicht Hand an mich!
+Die Tat, die ihr im Sinn habt, ist verdammlich.
+
+ErsterM�rder.
+Was wir tun wollen, tun wir auf Befehl.
+
+ZweiterM�rder.
+Und er, der so befahl, ist unser K�nig.
+
+Clarence.
+Mi�leiteter Vasall!  Der gro�e K�nig
+Der K�n'ge spricht in des Gesetzes Tafel:
+"Du sollt nicht t�ten." Willst du sein Gebot
+Denn h�hnen und ein menschliches vollbringen?
+Gib acht!  Er h�lt die Rach' in seiner Hand
+Und schleudert sie aufs Haupt der �bertreter.
+
+ZweiterM�rder.
+Und selb'ge Rache schleudert er auf dich,
+F�r falschen Meineid und f�r Mord zugleich.
+Du nahmst das Sakrament darauf, zu fechten
+Im Streite f�r das Haus von Lancaster.
+
+ErsterM�rder.
+Und als Verr�ter an dem Namen Gottes
+Brachst du den Eid, und dein verr�trisch Eisen
+Ri� auf den Leib dem Sohne deines Herrn.
+
+ZweiterM�rder.
+Dem du geschworen hattest Lieb' und Schutz.
+
+ErsterM�rder.
+Wie h�ltst du Gottes furchtbar Wort uns vor,
+Das du gebrochen in so hohem Ma�?
+
+Clarence.
+Ach!  wem zulieb' tat ich die �ble Tat?
+F�r Eduard, meinen Bruder, ihm zulieb'.
+Er schickt euch nicht, um daf�r mich zu morden;
+Denn diese Schuld dr�ckt ihn so schwer wie mich.
+Wenn Gott gerochen sein will f�r die Tat,
+o dennoch, wi�t, er tut es �ffentlich:
+Nehmt nicht die Sach' aus seinem m�cht'gen Arm;
+Er braucht nicht krumme, unrechtm��'ge Wege,
+Um die, so ihn beleidigt, wegzur�umen.
+
+ErsterM�rder.
+Was machte dich zum blut'gen Diener denn,
+Als, hold erwachsend, jener F�rstenspro�,
+Plantagenet, von dir erschlagen ward?
+
+Clarence.
+Die Bruderliebe, Satan, und mein Grimm.
+
+ErsterM�rder.
+Dein Bruder, unsre Pflicht und dein Vergehn
+Berufen jetzt uns her, dich zu erw�rgen.
+
+Clarence.
+Ist euch mein Bruder lieb, so ha�t mich nicht:
+Ich bin sein Bruder, und ich lieb ihn treu.
+Seid ihr um Lohn gedungen, so kehrt um
+Und wendet euch an meinen Bruder Gloster;
+Der wird euch besser lohnen f�r mein Leben
+Als Eduard f�r die Zeitung meines Todes.
+
+ZweiterM�rder.
+Ihr irrt Euch sehr, Eu'r Bruder Gloster ha�t Euch.
+
+Clarence.
+O  nein!  Er liebt mich und er h�lt mich wert.
+Geht nur von mir zu ihm.
+
+Beide.
+Das woll'n wir auch.
+
+Clarence.
+Sagt ihm, als unser edler Vater York
+Uns drei gesegnet mit siegreichem Arm
+Und herzlich uns beschworen, uns zu lieben,
+Gedacht' er wenig der getrennten Freundschaft.
+Mahnt Glostern daran nur, und er wird weinen.
+
+ErsterM�rder.
+M�hlsteine, ja, wie er uns weinen lehrte.
+
+Clarence.
+O  nein!  verleumd ihn nicht, denn er ist mild.
+
+ErsterM�rder.
+Recht!  Wie Schnee der Frucht.  Geht, Ihr betr�gt Euch selbst:
+Er ist's, der uns gesandt, Euch zu vertilgen.
+
+Clarence.
+Es kann nicht sein: er weinte um mein Ungl�ck,
+Schlo� in die Arme mich und schwor mit Schluchzen,
+Mir eifrig meine Freiheit auszuwirken.
+
+ErsterM�rder.
+Das tut er ja, da aus der Erde Knechtschaft
+Er zu des Himmels Freuden Euch erl�st.
+
+ZweiterM�rder.
+Herr, s�hnt Euch aus mit Gott, denn Ihr m��t sterben.
+
+Clarence.
+Hast du die heil'ge Regung in der Seele,
+Da� du mit Gott mich auszus�hnen mahnst,
+Und bist der eignen Seele doch so blind,
+Da� du, mich mordend, Gott bekriegen willst?
+Ach Leute!  denkt, da�, der euch angestiftet,
+Die Tat zu tun, euch um die Tat wird hassen.
+
+ZweiterM�rder.
+Was soll'n wir tun?
+
+Clarence.
+Bereut, und schafft eu'r Heil.
+Wer von euch, w�r' er eines F�rsten Sohn,
+Vermauert von der Freiheit, wie ich jetzt,
+Wofern zwei solche M�rder zu ihm k�men,
+B�t' um sein Leben nicht?  So wie ihr b�tet,
+W�rt ihr in meiner Not--
+
+ErsterM�rder.
+Bereun?  Das w�re memmenhaft und weibisch.
+
+Clarence.
+Nicht zu bereun ist viehisch, wild und teuflisch.
+Mein Freund, ich sp�he Mitleid dir im Blick:
+Wofern dein Auge nicht ein Schmeichler ist,
+So tritt auf meine Seit' und bitt f�r mich.
+R�hrt jeden Bettler nicht ein Prinz, der bittet?
+
+ZweiterM�rder.
+Seht hinter Euch, Mylord.
+
+ErsterM�rder.  (ersticht ihn).
+Nehmt das und das; reicht alles noch nicht hin,
+So tauch ich Euch ins Malvasierfa� drau�en.
+
+(Mit der Leiche ab.)
+
+ZweiterM�rder.
+O  blut'ge Tat, verzweiflungsvoll ver�bt!
+Gern, wie Pilatus, w�sch' ich meine H�nde
+Von diesem h�chst verruchten s�nd'gen Mord.
+
+(Der erste M�rder kommt zur�ck.)
+
+ErsterM�rder.
+Wie nun?  was denkst du, da� du mir nicht hilfst?
+Bei Gott, der Herzog soll dein Z�gern wissen.
+
+ZweiterM�rder.
+W��t' er, da� ich gerettet seinen Bruder!
+Nimm du den Lohn und meld ihm, was ich sage;
+Denn mich gereut am Herzog dieser Mord.
+
+(Ab.)
+
+ErsterM�rder.
+Nicht ich; geh, feige Memme, die du bist!--
+Ich will in einem Loch die Leiche bergen,
+Bis da� der Herzog sie begraben l��t;
+Und hab ich meinen Sold, so will ich fort:
+Dies kommt heraus, drum meid ich diesen Ort.  (Ab.)
+
+
+
+
+ZWEITER AUFZUG
+
+
+
+ERSTE SZENE
+
+
+London.  Ein Zimmer im Palast.
+
+(K�nig Eduard wird krank herein gef�hrt; K�nigin
+Elisabeth, Dorset, Rivers, Hastings, Buckingham, Grey und andre
+treten auf.)
+
+
+Eduard.
+So recht!  ich schafft' ein gutes Tagewerk.--
+Ihr Pairs, verharrt in diesem ein'gen Bund!
+Ich warte jeden Tag auf eine Botschaft,
+Da� mein Erl�ser mich erl�st von hier;
+Die Seele scheidet friedlich nun zum Himmel,
+Da ich den Freunden Frieden gab auf Erden.
+Rivers und Hastings, reichet euch die H�nde,
+Hegt nicht verstellten Ha�, schw�rt Lieb' euch zu.
+
+Rivers.
+Beim Himmel, meine Seel' ist rein von Groll,
+Die Hand besiegelt meine Herzensliebe.
+
+Hastings.
+So geh's mir wohl, wie ich dies wahrhaft schw�re.
+
+Eduard.
+Gebt acht!  treibt keinen Scherz vor eurem K�nig!
+Auf da� der h�chste K�nig aller K�n'ge
+Die Falschheit nicht zuschanden mach' und jeden
+Von euch erseh', des andern Tod zu sein.
+
+Hastings.
+M�g' ich gedeihn, wie echte Lieb' ich schw�re!
+
+Rivers.
+Und ich, wie ich von Herzen Hastings liebe!
+
+Eduard.
+Gemahl, Ihr seid hier selbst nicht ausgenommen;--
+Noch Eu'r Sohn Dorset;--Buckingham, noch ihr;--
+Ihr waret widerw�rtig miteinander.
+Frau, liebe Hastings, la� die Hand ihn k�ssen,
+Und was du tust, das tue unverstellt.
+
+Elisabeth.
+Hier, Hastings!  Nie des vor'gen Hasses denk ich:
+So m�g' ich samt den Meinigen gedeihn!
+
+Eduard.
+Dorset, umarm ihn.--Liebt den Marquis, Hastings.
+
+Dorset.
+Ja, dieser Tausch der Lieb', erkl�r ich, soll
+Von meiner Seite unverletzlich sein.
+
+Hastings.
+Das schw�r auch ich.
+
+(Er umarmt Dorset.)
+
+Eduard.
+Nun siegle, edler Buckingham, dies B�ndnis:
+Umarm auch du die N�chsten meiner Frau,
+Und mach in eurer Eintracht mich begl�ckt.
+
+Buckingham.  (zur K�nigin)
+Wenn Buckingham je wendet seinen Ha�
+Auf Eure Hoheit, nicht mit schuld�ger Liebe
+Euch und die Euren hegt, so straf� mich Gott
+Mit Ha�, wo ich am meisten Lieb' erwarte!
+Wann ich am meisten einen Freund bedarf,
+Und sichrer bin als je, er sei mein Freund:
+Dann grundlos, hohl, verr�trisch, voll Betrug
+M�g� er mir sein!  Vom Himmel bitt ich dies,
+Erkaltet meine Lieb� Euch und den Euren.
+
+(Er umarmt Rivers und die �brigen.)
+
+Eduard.
+Ein st�rkend Labsal, edler Buckingham,
+Ist meinem kranken Herzen dies dein Wort.
+Nun fehlt nur unser Bruder Gloster hier
+Zu dieses Friedens segensreichem Schlu�.
+
+Buckingham.
+Zur guten Stunde kommt der edle Herzog.
+
+Gloster.  (tritt auf).
+Guten Morgen meinem hohen F�rstenpaar!
+Und, edle Pairs, euch einen frohen Tag!
+
+Eduard.
+Froh, in der Tat, verbrachten wir den Tag.
+Bruder, wir schafften hier ein christlich Werk,
+Aus Feindschaft Frieden, milde Lieb� aus Ha�,
+Bei diesen hitzig aufgereizten Pairs.
+
+Gloster.
+Gesegnetes Bem�hn, mein hoher Herr!
+Wenn jemand unter dieser edeln Schar
+Auf falschen Argwohn oder Eingebung
+Mich h�lt f�r seinen Feind;
+Wenn ich unwissend oder in der Wut
+Etwas begangen, das mir irgendwer,
+Hier gegenw�rtig, nachtr�gt: so begehr ich,
+In Fried� und Freundschaft mich ihm auszus�hnen.
+In Feindschaft stehen, ist mein Tod; ich ha� es,
+Und w�nsche aller guten Menschen Liebe.--
+Erst, gn�d'ge Frau, erbitt ich wahren Frieden
+Von Euch, den schuld�ger Dienst erkaufen soll;--
+Von Euch, mein edler Vetter Buckingham,
+Ward jemals zwischen uns ein Groll beherbergt;--
+Von Euch, Lord Rivers--und, Lord Grey, von Euch:
+Die all ohn� Ursach� scheel auf mich gesehn;--
+Von Euch, Lord Woodville--und, Lord Seales, von Euch;-
+Herz�ge, Grafen, Edle--ja, von allen.
+Nicht einen wei� ich, der in England lebt,
+Mit dem mein Sinn den mindsten Hader h�tte,
+Mehr als ein heute nacht gebornes Kind.
+Ich danke meinem Gott f�r meine Demut.
+
+Elisabeth.
+Ein Festtag wird dies k�nftig f�r uns sein:
+Gott gebe, jeder Zwist sei beigelegt!
+Mein hoher Herr, ich bitt Eu�r Hoheit, nehmt
+Zu Gnaden unsern Bruder Clarence an.
+
+Gloster.
+Wie?  bot ich darum Liebe, gn�d�ge Frau,
+Da� man mein spott� in diesem hohen Kreis?
+Wer wei� nicht, da� der edle Herzog tot ist?
+
+(Alle fahren zur�ck.)
+
+Zur Ungeb�hr verh�hnt Ihr seine Leiche.
+
+Eduard.
+Wer wei� nicht, da� er tot ist?  Ja, wer wei� es?
+
+Elisabeth.
+Allseh�nder Himmel, welche Welt ist dies!
+
+Buckingham.
+Seh ich so bleich, Lord Dorset, wie die andern?
+
+Dorset.
+Ja, bester Lord; und niemand hier im Kreis,
+Dem nicht die R�te von den Wangen wich.
+
+Eduard.
+Starb Clarence?  Der Befehl war widerrufen.
+
+Gloster.
+Der Arme starb auf Euer erst Gehei�,
+Und das trug ein gefl�gelter Merkur.
+Ein lahmer Bote trug den Widerruf,
+Der allzusp�t, ihn zu begraben, kam.
+Geb� Gott, da� andre, minder treu und edel,
+N�her durch blut�gen Sinn, nicht durch das Blut,
+Nicht mehr verschulden als der arme Clarence
+Und dennoch frei umhergehn von Verdacht!
+
+(Stanley tritt auf.)
+
+Stanley.
+Herr, eine Gnade f�r getanen Dienst!
+
+Eduard.
+O  la� mich, meine Seel� ist voller Kummer.
+
+Stanley.
+Ich will nicht aufstehn, bis mein F�rst mich h�rt.
+
+Eduard.
+So sag mit eins, was dein Begehren ist.
+
+Stanley.
+Herr, das verwirkte Leben meines Dieners,
+Der einen wilden Junker heut erschlug,
+Vormals in Diensten bei dem Herzog Norfolk.
+
+Eduard.
+Sprach meine Zunge meines Bruders Tod
+Und spr�ch nun eines Knechts Begnadigung?
+Kein Mord, Gedanken waren sein Vergehn,
+Und doch war seine Strafe bittrer Tod.
+Wer bat f�r ihn?  wer kniet� in meinem Grimm
+Zu F��en mir und hie� mich �berlegen?
+Wer sprach von Bruderpflicht?  wer sprach von Liebe?
+Wer sagte mir, wie diese arme Seele
+Vom m�cht'gen Warwick lie� und f�r mich focht?
+Wer sagte mir, wie er zu Tewkesbury
+Mich rettet�, als mich Oxford niederwarf,
+Und sprach: "Leb, und sei K�nig, lieber Bruder"?
+Wer sagte mir, als wir im Felde lagen,
+Fast totgefroren, wie er mich geh�llt
+In seinen Mantel und sich selber preis,
+Ganz nackt und blo�, der starren Nachtluft gab?
+Dies alles r�ckte viehisch wilde Wut
+Mir s�ndhaft aus dem Sinn, und euer keiner
+War so gewissenhaft, mich dran zu mahnen.
+Wenn aber eure K�rrner, eu�r Gesinde
+Totschlag im Trunk ver�bt und ausgel�scht
+Das edle Bildnis unsers teuern Heilands,
+Dann seid ihr auf den Knien um Gnade, Gnade,
+Und ich mu� ungerecht es zugestehn.
+F�r meinen Bruder wollte niemand sprechen,
+Noch sprach ich selbst mir f�r die arme Seele,
+Verstockter!  zu.  Der Stolzeste von euch
+Hatt� ihm Verpflichtungen in seinem Leben,
+Doch wollte keiner rechten f�r sein Leben.
+o Gott!  ich f�rchte, dein Gericht vergilt's
+An mir und euch, den Meinen und den Euren.--
+Komm, Hastings, hilf mir in mein Schlafgemach.
+O armer Clarence!
+
+(Der K�nig, die K�nigin, Hastings, Rivers, Dorset und Grey ab.)
+
+Gloster.
+Das ist die Frucht des J�hzorns!--Gabt ihr acht,
+Wie bleich der K�n�gin schuldige Verwandte
+Aussahn, da sie von Clarence� Tode h�rten?
+Oh, immer setzten sie dem K�nig zu!
+Gott wird es r�chen.  Wollt ihr kommen, Lords,
+Da� wir mit unserm Zuspruch Eduard tr�sten?
+
+Buckingham.
+Zu Euer Gnaden Dienst.
+
+(Alle ab.)
+
+
+
+ZWEITE SZENE
+
+
+Ebendaselbst.
+
+(Die Herzogin von York tritt auf mit des Clarence
+Sohn und Tochter.)
+
+
+Sohn.
+Gro�mutter, sagt uns, ist der Vater tot?
+
+Herzogin.
+Nein, Kind.
+
+Tochter.
+Was weint Ihr denn so oft und schlagt die Brust?
+Und ruft: "O  Clarence!  Ungl�cksel�ger Sohn!"
+
+Sohn.
+Was seht Ihr so und sch�ttelt Euren Kopf
+Und nennt uns arme, ausgesto�ne Waisen,
+Wenn unser edler Vater noch am Leben?
+
+Herzogin.
+Ihr art�gen Kinder mi�versteht mich ganz.
+Des K�nigs Krankheit jammr� ich, sein Verlust
+Macht Sorge mir; nicht eures Vaters Tod:
+Verloren w�r� der Gram um den Verlornen.
+
+Sohn.
+So wi�t Ihr ja, Gro�mutter, er sei tot.
+Mein Ohm, der K�nig, ist darum zu schelten;
+Gott wird es r�chen: ich will in ihn dringen
+Mit eifrigem Gebet um einzig dies.
+
+Tochter.
+Das will ich auch.
+
+Herzogin.
+Still, Kinder, still!  Der K�nig hat euch lieb;
+Unschuldige, harmlose Kleinen ihr,
+In eurer Einfalt k�nnt ihr nicht erraten,
+Wer eures Vaters Tod verschuldet hat.
+
+Sohn.
+Gro�mutter, doch!  Vom guten Oheim Gloster
+Wei� ich, der K�nig, von der K�nigin
+Gereizt, sann Klagen aus, ihn zu verhaften.
+Und als mein Oheim mir das sagte, weint' er,
+Bedau'rte mich und k��te meine Wange,
+Hie� mich auf ihn vertraun als einen Vater,
+Er wolle lieb mich haben als sein Kind.
+
+Herzogin.
+Ach, da� der Trug so holde Bildung stiehlt
+Und Bosheit mit der Tugend Larve deckt!
+Er ist mein Sohn, und hierin meine Schmach,
+Doch sog er nicht an meiner Brust den Trug.
+
+Sohn.
+Denkt Ihr, mein Oheim verstellte sich, Gro�mutter?
+
+Herzogin.
+Ja, Kind.
+
+Sohn.
+Ich kann's nicht denken.  Horch, was f�r ein L�rm?
+
+(K�nigin Elisabeth tritt auf, au�er sich; Rivers und Dorset
+folgen ihr.)
+
+Elisabeth.
+Wer will zu weinen mir und jammern wehren,
+Mein Los zu schelten und mich selbst zu plagen?
+Best�rmen mit Verzweiflung meine Seele
+Und selber meine Feindin will ich sein.
+
+Herzogin.
+Wozu der Auftritt wilder Ungeduld?
+
+Elisabeth.
+Zu einem Aufzug trag'schen Ungest�ms:
+Der K�nig, mein Gemahl, dein Sohn, ist tot.
+Was bl�hn die Zweige, wenn der Stamm verging?
+Was welkt das Laub nicht, dem sein Saft gebricht?
+Wollt ihr noch leben?  Jammert!  Sterben?  Eilt!
+Da� unsre Seelen seiner nach sich schwingen,
+Ihm folgend wie ergebne Untertanen
+Zu einem neuen Reich der ew'gen Ruh'.
+
+Herzogin.
+Ach, so viel Teil hab ich an deinem Leiden
+Als Anspruch sonst an deinem edlen Gatten.
+Ich weint' um eines w�rd'gen Gatten Tod,
+Und lebt' im Anblick seiner Ebenbilder;
+Nun sind zwei Spiegel seiner hohen Z�ge
+Zertr�mmert durch den b�sgesinnten Tod,
+Mir bleibt zum Troste nur ein falsches Glas,
+Worin ich meine Schmach mit Kummer sehe.
+Zwar bist du Witwe, doch du bist auch Mutter,
+Und deiner Kinder Trost ward dir gelassen:
+Mir ri� der Tod den Gatten aus den Armen
+Und dann zwei Kr�cken aus den schwachen H�nden,
+Clarence und Eduard.  Oh, wie hab ich Grund,
+Da deins die H�lfte meines Leids nur ist,
+Dein Wehgeschrei durch meins zu �bert�uben!
+
+Sohn.
+Ach, Muhm', Ihr weintet nicht um unsern Vater:
+Wie h�lfen wir Euch mit verwandten Tr�nen?
+
+Tochter.
+Blieb unsre Waisennot doch unbeklagt;
+Sei unbeweint auch Euer Witwengram.
+
+Elisabeth.
+O  steht mir nicht mit Jammerklagen bei,
+Ich bin nicht unfruchtbar, sie zu geb�ren.
+In meine Augen str�men alle Quellen,
+Da� ich, hinfort vom feuchten Mond regiert,
+Die Welt in Tr�nenf�lle m�g' ertr�nken.
+Ach, weh um meinen Gatten, meinen Eduard!
+
+DieKinder.
+Um unsern Vater, unsern teuern Clarence!
+
+Herzogin.
+Um beide, beide mein, Eduard und Clarence!
+
+Elisabeth.
+Wer war mein Halt als Eduard?  Er ist hin.
+
+DieKinder.
+Wer unser Halt als Clarence?  Er ist hin.
+
+Herzogin.
+Wer war mein Halt als sie?  Und sie sind hin.
+
+Elisabeth.
+Nie keine Witwe b��te so viel ein.
+
+DieKinder.
+Nie keine Waise b��te so viel ein.
+
+Herzogin.
+Nie keine Mutter b��te so viel ein.
+Weh mir!  ich bin die Mutter dieser Leiden:
+Vereinzelt ist ihr Weh, meins allgemein.
+Sie weint um einen Eduard, und ich auch;
+Ich wein um einen Clarence, und sie nicht;
+Die Kinder weinen Clarence, und ich auch;
+Ich wein um einen Eduard, und sie nicht.
+Ach, gie�t ihr drei auf mich dreifach geschlagne
+All eure Tr�nen: W�rterin des Grams,
+Will ich mit Jammern reichlich ihn ern�hren.
+
+Dorset.
+Mut, liebe Mutter!  Gott ist ungehalten,
+Da� Ihr sein Tun mit Undank so empfangt.
+In Weltgesch�ften nennt man's undankbar,
+Mit tr�gem Widerwillen Schulden zahlen,
+Die eine milde Hand uns freundlich lieh;
+Viel mehr, dem Himmel so sich widersetzen,
+Weil er von Euch die k�nigliche Schuld
+Zur�cke fordert, die er Euch geliehn.
+
+Rivers.
+Bedenkt als treue Mutter, gn�d'ge Frau,
+Den Prinzen, Euren Sohn; schickt gleich nach ihm
+Und la�t ihn kr�nen.  In ihm lebt Euer Trost:
+Das Leid senkt in des toten Eduard Grab,
+Die Last baut auf des bl�hnden Eduard Thron.
+
+(Gloster, Buckingham, Stanley, Hastings, Ratcliff und andre
+treten auf.)
+
+Gloster.
+Fa�t, Schwester, Euch; wir alle haben Grund,
+Um die Verdunklung unsers Sterns zu jammern:
+Doch niemand heilt durch Jammern seinen Harm.
+Ich bitt Euch um Verzeihung, gn�d'ge Mutter,
+Ich sah Eu'r Gnaden nicht.  Dem�tig auf den Knien
+Bitt ich um Euren Segen.
+
+Herzogin.
+Gott segne dich!  und fl��e Milde dir,
+Gehorsam, Lieb' und echte Treu' ins Herz!
+
+Gloster.
+Amen!
+Und lass' als guten alten Mann mich sterben!--
+
+(Beiseit.)
+
+Das ist das Hauptziel eines Muttersegens:
+Mich wundert, da� Ihr' Gnaden das verga�.
+
+Buckingham.
+Umw�lkte Prinzen, herzbeklemmte Pairs,
+Die diese schwere Last des Jammers dr�ckt!
+Hegt all in eurer Lieb' einander nun.
+Ist unsre Ernt' an diesem K�nig hin,
+So werden wir des Sohnes Ernte sammeln.
+Der Zwiespalt eurer hochgeschwollnen Herzen,
+Erst neulich eingerichtet und gefugt,
+Mu� sanft bewahrt, gepflegt, geh�tet werden.
+Mir deucht es gut, da� gleich ein klein Gefolg
+Von Ludlow her den jungen Prinzen hole,
+Als K�nig hier in London ihn zu kr�nen.
+
+Rivers.
+Warum ein klein Gefolg, Mylord von Buckingham?
+
+Buckingham.
+Ei, Mylord, da� ein gro�er Haufe nicht
+Des Grolles neugeheilte Wunde reize;
+Was um sO  mehr gef�hrlich w�rde sein,
+Je mehr der Staat noch wild und ohne F�hrer,
+Wo jedes Ro� den Z�gel ganz beherrscht
+Und seinen Lauf nach Wohlgefallen lenkt.
+Sowohl des Unheils Furcht als wirklich Unheil
+Mu�, meiner Meinung nach, verh�tet werden.
+
+Gloster.
+Der K�nig schlo� ja Frieden mit uns allen,
+Und der Vertrag ist fest und treu in mir.
+
+Rivers.
+So auch in mir, und so, denk ich, in allen;
+Doch weil er noch so frisch ist, sollte man
+Auf keinen Anschein eines Bruchs ihn wagen,
+Den viel Gesellschaft leicht bef�rdern k�nnte.
+Drum sag ich mit dem edlen Buckingham,
+Da� wen'ge nur den Prinzen holen m�ssen.
+
+Hastings.
+Das sag ich auch.
+
+Gloster.
+So sei es denn; und gehn wir, zu entscheiden,
+Wer schnell sich auf nach Ludlow machen soll.--
+F�rstin, und Ihr, Frau Mutter, wollt Ihr gehn,
+Um mitzustimmen in der wicht'gen Sache?
+
+(Alle ab, au�er Buckingham und Gloster.)
+
+Buckingham.
+Mylord, wer auch zum Prinzen reisen mag,
+Um Gottes willen, bleiben wir nicht aus:
+Denn unterwegs schaff ich Gelegenheit,
+Als Eingang zu dem j�ngst besprochnen Handel,
+Der K�nigin hochm�t'ge Vetterschaft
+Von der Person des Prinzen zu entfernen.
+
+Gloster.
+Mein andres Selbst!  Du meine Ratsversammlung,
+Orakel und Prophet.  Mein lieber Vetter,
+Ich folge deiner Leitung wie ein Kind.
+Nach Ludlow denn!  Wir bleiben nicht zur�ck.
+
+(Beide ab.)
+
+
+
+DRITTE SZENE
+
+
+Eine Stra�e.
+
+(Zwei B�rger begegnen sich.)
+
+
+ErsterB�rger.
+Guten Morgen, Nachbar!  wohin so in Eil'?
+
+ZweiterB�rger.
+Ich wei� es selber kaum, beteur' ich Euch.
+Ihr wi�t die Neuigkeit?
+
+ErsterB�rger.
+Ja, da� der K�nig tot ist.
+
+ZweiterB�rger.
+Schlimme Neuigkeit,
+Bei Unsrer Frauen!  Selten kommt was Be�res;
+Ich f�rcht, ich f�rcht, es geht die Welt rundum.
+
+(Ein andrer B�rger kommt.)
+
+DritterB�rger.
+Gott gr��' euch, Nachbarn!
+
+ErsterB�rger.
+Geb' Euch guten Tag!
+
+DritterB�rger.
+Best�tigt sich des guten K�nigs Tod?
+
+ZweiterB�rger.
+Ja, �s ist nur allzuwahr: Gott steh' uns bei!
+
+DritterB�rger.
+Dann, Leut', erwartet eine st�rm'sche Welt.
+
+ErsterB�rger.
+Nein, nein!  Sein Sohn herrscht nun durch Gottes Gnaden.
+
+DritterB�rger.
+Weh' einem Lande, das ein Kind regiert!
+
+ZweiterB�rger.
+Bei ihm ist Hoffnung auf das Regiment,
+Da� in der Minderj�hrigkeit sein Rat,
+Und, wann er reif an Jahren ist, er selbst,
+Dann und bis dahin gut regieren werden.
+
+ErsterB�rger.
+So stund der Staat auch, als der sechste Heinrich,
+Neun Monat alt, gekr�nt ward in Paris.
+
+DritterB�rger.
+Stund der Staat so?  Nein, nein!  Gott wei�, ihr Freunde!
+Denn dieses Land war damals hoch begabt
+Mit w�rd'ger Staatskunst; und der K�nig hatte
+Oheime voll Verdienst zur Vormundschaft.
+
+ErsterB�rger.
+Die hat er auch vom Vater wie der Mutter.
+
+DritterB�rger.
+Viel besser war s, sie waren blo� vom Vater,
+Oder es w�r' vom Vater ihrer keiner.
+Denn Eifersucht, der N�chste nun zu sein,
+Tritt uns gesamt zu nah, wenn's Gott nicht wendet.
+Oh!  sehr gef�hrlich ist der Herzog Gloster,
+Der K�n'gin S�hn' und Br�der frech und stolz;
+Und w�rden sie beherrscht und herrschten nicht,
+Dies kranke Land gediehe noch wie sonst.
+
+ErsterB�rger.
+Geht, geht!  wir zagen: alles wird noch gut.
+
+DritterB�rger.
+Wann Wolken ziehn, nimmt man den Mantel um,
+Wann Bl�tter fallen, ist der Winter nah;
+Wer harrt der Nacht nicht, wann die Sonne sinkt?
+Unzeit'ge St�rme k�nden Teurung an.
+Noch kann es gut gehn: doch, wenn's Gott so lenkt,
+Ist's mehr als ich erwart und wir verdienen.
+
+ZweiterB�rger.
+Wahrlich, der Menschen Herzen sind voll Furcht,
+Ihr k�nnt nicht reden fast mit einem Mann,
+Der nicht bedenklich aussieht und voll
+Schrecken.
+
+DritterB�rger.
+So ist es immer vor des Wechsels Tagen.
+Auf h�hern Antrieb mi�traun die Gem�ter
+Der kommenden Gefahr; so sehn wir ja
+Die Wasser schwellen vor dem w�sten Sturm.
+Doch lassen wir das Gotte.  Wohin geht's?
+
+ZweiterB�rger.
+Die Richter haben beid' uns rufen lassen.
+
+DritterB�rger.
+Mich auch; so will ich euch Gesellschaft leisten.
+
+(Alle ab.)
+
+
+
+VIERTE SZENE
+
+
+Ein Zimmer im Palast.
+
+(Der Erzbischof von York, der junge Herzog von York,
+K�nigin Elisabeth und die Herzogin von York treten auf.)
+
+
+Erzbischof.
+Sie lagen, h�r ich, nachts zu Northampton;
+Zu Stony Stratford soll'n sie heute sein
+Und morgen oder �bermorgen hier.
+
+Herzogin.
+Von Herzen sehr verlangt mich nach dem Prinzen.
+Seit ich ihn sah, ist er gewachsen, hoff ich.
+
+Elisabeth.
+Ich h�re, nein: sie sagen, mein Sohn York
+Hat fast in seinem Wuchs ihn eingeholt.
+
+York.
+Ja, Mutter; doch ich wollt', es w�r' nicht so.
+
+Herzogin.
+Warum, mein Enkel?  Wachsen ist ja gut.
+
+York.
+Gro�mutter, einmal speisten wir zu Nacht,
+Da sprach mein Oheim Rivers, wie ich w�chse
+Mehr als mein Bruder; "Ja", sagt' Oheim Gloster,
+"Klein Kraut ist fein, gro� Unkraut hat Gedeihn."
+Seitdem nun macht ich nicht mit Wachsen eilen,
+Weil Unkraut schie�t und s��e Blumen weilen.
+
+Herzogin.
+F�rwahr!  f�rwahr!  das Sprichwort traf nicht zu
+Bei ihm, der selbiges dir vorger�ckt.
+Er war als Kind das j�mmerlichste Ding,
+Er wuchs so langsam und so sp�t heran,
+Da�, w�r' die Regel wahr, er m��te fromm sein.
+
+Erzbischof.
+Auch zweifl' ich nicht, das ist er, gn�d'ge Frau.
+
+Herzogin.
+Ich hoff, er ist's; doch la�t die Mutter zweifeln.
+
+York.
+Nun, meiner Treu, h�tt' ich es recht bedacht,
+So konnt' ich auch dem gn�d'gen Oheim sticheln
+Auf seinen Wachstum, mehr als er auf meinen.
+
+Herzogin.
+Wie, junger York?  Ich bitte, la� mich's h�ren.
+
+York.
+Ei, wie sie sagen, wuchs mein Ohm so schnell,
+Da� er, zwei Stunden alt, schon Rinden nagte;
+Zwei volle Jahre hatt' ich keinen Zahn.
+Gro�mutter, bei�end w�r' der Spa� gewesen.
+
+Herzogin.
+Mein art'ger York, wer hat dir das gesagt?
+
+York.
+Gro�mutter, seine Amme.
+
+Herzogin.
+Ei, die war tot, eh' du geboren warst.
+
+York.
+Wenn sie's nicht war, so wei� ich es nicht mehr.
+
+Elisabeth.
+Ein kecker Bursch!  Geh, du bist zu durchtrieben.
+
+Erzbischof.
+Z�rnt nicht mit einem Kinde, gn�d'ge Frau
+
+Elisabeth.
+Die Kr�ge haben Ohren.
+
+(Ein Bote tritt auf.)
+
+Erzbischof.
+Da kommt ein Bote, seht.--Was gibt es Neues?
+
+Bote.
+Mylord, was anzumelden mich betr�bt.
+
+Elisabeth.
+Was macht der Prinz?
+
+Bote.
+Er ist gesund und wohl.
+
+Herzogin.
+Was bringst du sonst?
+
+Bote.
+Lord Rivers und Lord Grey sind fort nach Pomfret,
+Benebst Sir Thomas Vaughan, als Gefangne.
+
+Herzogin.
+Und wer hat sie verhaftet?
+
+Bote.
+Die m�cht'gen Herzoge, Gloster und Buckingham.
+
+Elisabeth.
+F�r welch Vergehn?
+
+Bote.
+Was ich nur wei� und kann, er�ffnet' ich.
+Warum, wof�r die Herrn verhaftet sind,
+Ist g�nzlich unbekannt mir, gn�d'ge F�rstin.
+
+Elisabeth.
+Weh mir!  ich sehe meines Hauses Sturz.
+Der Tiger hat das zarte Reh gepackt;
+Verwegne Tyrannei beginnt zu st�rmen
+Auf den harmlosen, ungescheuten Thron.
+Willkommen, Blut, Zerst�rung, Metzelei!
+Ich seh, wie im Abri�, schon das Ende.
+
+Herzogin.
+Verfluchte Tage unruhvollen Zanks!
+Wie manchen euer sah mein Auge schon!
+Mein Gatte lie� sein Leben um die Krone,
+Und meine S�hne schwankten auf und ab,
+Gewinn, Verlust gab Freude mir und Weh.
+Nun, da sie eingesetzt, und B�rgerzwist
+Ganz wegger�umt, bekriegen selber sie,
+Die Sieger selber sich; Bruder mit Bruder,
+Blut mit Blut, Selbst gegen Selbst.--O  du verkehrte
+Wahnsinn'ge Wut, la� den verruchten Grimm,
+Sonst la� mich sterben, nicht den Tod mehr schaun!
+
+Elisabeth.
+Komm, komm, mein Kind, wir suchen heil'ge Zuflucht.  Gehabt euch
+wohl.
+
+Herzogin.
+Bleibt noch, ich gehe mit.
+
+Elisabeth.
+Ihr habt nicht Ursach'.
+
+Erzbischof.  (zur K�nigin).
+Gn�d'ge F�rstin, geht,
+Und nehmet Euren Schatz und G�ter mit.
+F�r mein Teil geb ich mein vertrautes Siegel
+Eu'r Hoheit ab; und m�g' es wohl mir gehn,
+Wie ich Euch wohl will und den Euren allen!
+Kommt, ich geleit Euch zu der heil' gen Zuflucht.
+
+(Alle ab.)
+
+
+
+
+DRITTER AUFZUG
+
+
+
+ERSTE SZENE
+
+
+London.  Eine Stra�e.
+
+(Trompeten.  Der Prinz von Wales, Gloster,
+Buckingham, Kardinal Bourchier, Catesby und andre.)
+
+
+Buckingham.
+Willkommen, bester Prinz, in London, Eurer Kammer!
+
+Gloster.
+Willkommen, Vetter, meines Sinnes F�rst!--
+Der Reis' Erm�dung macht' Euch melancholisch.
+
+Prinz.
+Nein, Oheim; der Verdru� nur unterwegs
+Hat sie mir schwer gemacht, langweilig, widrig.
+Ich misse hier noch Onkel zum Empfang.
+
+Gloster.
+Mein Prinz, die reine Tugend Eurer Jahre
+Ergr�ndete noch nicht der Welt Betrug.
+Ihr unterscheidet nichts an einem Mann
+Als seinen �u�ern Schein; und der, wei� Gott,
+Stimmt selten oder niemals mit dem Herzen.
+Gef�hrlich sind die Onkel, die Ihr mi�t;
+Eu'r Hoheit lauschte ihren Honigworten
+Und merkte nicht auf ihrer Herzen Gift.
+Bewahr' Euch Gott vor solchen falschen Freunden!
+
+Prinz.
+Vor falschen Freunden: ja!  Sie waren keine.
+
+Gloster.
+Mein F�rst, der Schulz von London kommt zum Willkomm.
+
+(Der Lord Mayor und sein Zug treten auf.)
+
+Mayor.
+Gott segn' Eu'r Hoheit mit begl�ckten Tagen!
+
+Prinz.
+Ich dank Euch, bester Lord--und dank Euch allen.
+
+(Der Lord Mayor mir seinem Zuge ab.)
+
+Viel fr�her, dacht' ich, w�rde meine Mutter
+Und Bruder York uns unterweges treffen.--
+Pfui, welche Schneck' ist Hastings!  da� er uns
+Nicht meldet, oh sie kommen oder nicht.
+
+(Hastings tritt auf.)
+
+Buckingham.
+So eher recht kommt der erhitzte Lord.
+
+Prinz.
+Willkommen, Mylord!  Nun, kommt unsre Mutter?
+
+Hastings.
+Auf welchen Anla�, das wei� Gott, nicht ich,
+Nahm Eure Mutter und Eu'r Bruder York
+Zuflucht im Heiligtum.  Der zarte Prinz
+H�tt' Eure Hoheit gern mit mir begr��t,
+Doch seine Mutter hielt ihn mit Gewalt.
+
+Buckingham.
+Pfui!  welch verkehrtes eigensinn'ges Tun
+Ist dies von ihr?--Wollt Ihr, Lord Kardinal,
+Die K�nigin bereden, seinem Bruder,
+Dem Prinzen, gleich den Herzog York zu senden?
+Verweigert sie's--Lord Hastings, geht Ihr mit,
+Entrei�t ihn ihrem eifers�cht'gen Arm.
+
+Kardinal.
+Mylord, wenn meine schwache Redekunst
+Der Mutter kann den Herzog abgewinnen,
+Erwartet gleich ihn hier.  Allein ist sie verh�rtet
+F�r milde Bitten, so verh�te Gott,
+Da� wir das teure Vorrecht kr�nken sollten
+Der heil'gen Zuflucht!  Nicht um all dies Land
+Wollt' ich so schwerer S�nde schuldig sein.
+
+Buckingham.
+Ihr seid zu sinnlos eigenwillig, Mylord,
+Zu altherk�mmlich und zu feierlich.
+Erw�gt es nach der Gr�blichkeit der Welt,
+Ihn greifen bricht die heil'ge Zuflucht nicht.
+Derselben Gunst wird dem stets zugestanden,
+Der durch sein Tun verdienet solchen Platz
+Und Witz hat, zu begehren solchen Platz.
+Der Prinz hat ihn begehrt nicht, noch verdient
+Und kann also, wie mich d�nket, ihn nicht haben.
+Wenn Ihr von da ihn wegf�hrt, der nicht da ist,
+Brecht Ihr kein Vorrecht, keinen Freiheitsbrief.
+Oft h�rt' ich schon von kirchenfl�cht'gen M�nnern;
+Von kirchenfl�cht'gen Kindern nie bis jetzt.
+
+Kardinal.
+Mylord, Ihr sollt mich diesmal �berstimmen.--
+Wohlan, Lord Hastings, wollt Ihr mit mir gehn?
+
+Hastings.
+Ich gehe, Mylord.
+
+Prinz.
+Betreibt dies, liebe Herrn, in aller Eil'.
+
+(Der Kardinal und Hastings ab.)
+
+Sagt, Oheim Gloster, wenn mein Bruder kommt,
+Wo sollen wir verbleiben bis zur Kr�nung?
+
+Gloster.
+Wo's gut d�nkt Eurer f�rstlichen Person.
+Wenn ich Euch raten darf, belieb' Eu'r Hoheit
+Sich ein paar Tage auszuruhn im Turm;
+Dann wo Ihr wollt und es am besten scheint
+F�r Euer Wohlsein und Gem�tserg�tzung.
+
+Prinz.
+Der Turm mi�f�llt mir wie kein Ort auf Erden.--
+Hat Julius C�sar ihn gebaut, Mylord?
+
+Gloster.
+Er hat, mein gn�d'ger F�rst, den Ort gestiftet,
+Den dann die Folgezeiten neu erbaut.
+
+Prinz.
+Hat man es schriftlich, oder �berliefert
+Von Zeit auf Zeiten nur, da� er ihn baute?
+
+Buckingham.
+Schriftlich, mein gn�d'ger F�rst.
+
+Prinz.
+Doch setzt, Mylord, es w�r' nicht aufgezeichnet:
+Mich d�nkt, die Wahrheit sollte immer leben,
+Als w�r' sie aller Nachwelt ausgeteilt
+Bis auf den letzten Tag der Welt.
+
+Gloster (beiseit).
+Klug allzubald, sagt man, wird nimmer alt.
+
+Prinz.
+Was sagt Ihr, Oheim?
+
+Gloster.
+Ich sage, Mut wird ohne Schriften alt.--
+(Beiseit.)  So, wie im Fastnachtspiel die S�ndlichkeit,
+Deut ich zwei Meinungen aus einem Wort.
+
+Prinz.
+Der Julius C�sar war ein gro�er Mann:
+Womit sein Mut begabte seinen Witz,
+Das schrieb sein Witz, dem Mute Leben schaffend,
+Der Tod besiegte diesen Sieger nicht,
+Er lebt im Ruhm noch, obwohl nicht im Leben.--
+Wollt Ihr was wissen, Vetter Buckingham?
+
+Buckingham.
+Was, mein gn�d'ger F�rst?
+
+Prinz.
+Werd ich ein Mann je, so gewinn ich wieder
+In Frankreich unser altes Recht; wo nicht,
+Sterb ich als Krieger, wie ich lebt' als K�nig.
+
+Gloster (beiseit).
+Auf zeit'gen Fr�hling w�hrt der Sommer wenig.
+
+(York, Hastings und der Kardinal treten auf.)
+
+Buckingham.
+Da kommt zu rechter Zeit der Herzog York.
+
+Prinz.
+Richard von York!--Wie lebt mein lieber Bruder?
+
+York.
+Gut, strenger Herr; so mu� ich nun Euch nennen.
+
+Prinz.
+Ja, Bruder, mir zum Grame, sowie Euch:
+Er starb ja kaum, der diesen Titel f�hrte,
+Des Tod ihm viel an Majest�t benahm.
+
+Gloster.
+Wie geht es unserm edlen Vetter York?
+
+York.
+Ich dank Euch, lieber Oheim.  Ha, Mylord,
+Ihr sagtet, unn�tz Kraut, das wachse schnell:
+Der Prinz, mein Bruder, wuchs mir �bern Kopf.
+
+Gloster.
+Ja wohl, Mylord.
+
+York.
+Und ist er darum unn�tz?
+
+Gloster.
+O  bester Vetter, das m�cht ich nicht sagen.
+
+York.
+Dann ist er Euch ja mehr als ich verpflichtet.
+
+Gloster.
+Er hat mir zu befehlen, als mein F�rst,
+Doch Ihr habt Recht an mir als ein Verwandter.
+
+York.
+Ich bitt Euch, Oheim, gebt mir diesen Dolch.
+
+Gloster.
+Den Dolch, mein kleiner Vetter?  Herzlich gern.
+
+Prinz.
+Ein Bettler, Bruder?
+
+York.
+Beim guten Oheim, der gewi� mir gibt,
+Und um eine Kleinigkeit, die man ohn' Arges gibt.
+
+Gloster.
+Wohl Gr��res will ich meinem Vetter geben.
+
+York.
+Wohl Gr��res?  Oh, das ist das Schwert dazu.
+
+Gloster.
+Ja, lieber Vetter, w�r's nur leicht genug.
+
+York.
+Dann seh ich wohl, Ihr schenkt nur leichte Gaben,
+Bei Dingen von Gewicht sagt Ihr dem Bettler: nein!
+
+Gloster.
+Es hat zu viel Gewicht, f�r Euch zu tragen.
+
+York.
+F�r mich hat's kein Gewicht, und w�r's noch schwerer.
+
+Gloster.
+Wie?  wollt Ihr meine Waffen, kleiner Lord?
+
+York.
+Ja, und mein Dank soll sein, wie Ihr mich nennt.
+
+Gloster.
+Wie?
+
+York.
+Klein.
+
+Prinz.
+Mylord von York ist stets in Reden keck:
+Oheim, Eu'r Gnaden wei� ihn zu ertragen.
+
+York.
+Ihr meint, zu tragen, nicht mich zu ertragen.--
+Oheim, mein Bruder spottet mein und Euer;
+Er denkt, weil ich nur klein bin, wie ein Aff',
+Ihr solltet mich auf Euren Schultern tragen.
+
+Buckingham.
+Mit welchem scharf versehnen Witz er redet!
+Den Spott zu mildern wider seinen Oheim,
+Verh�hnt er selbst sich artig und geschickt.
+So schlau und noch so jung, ist wunderbar.
+
+Gloster.
+Mein gn�d'ger F�rst, beliebt es Euch zu gehn?
+Ich und mein guter Vetter Buckingham,
+Wir woll'n zu Eurer Mutter und sie bitten,
+Da� sie im Turm Euch trifft und Euch bewillkommt.
+
+York.
+Wie?  denkt Ihr in den Turm zu gehn, Mylord?
+
+Prinz.
+Mylord Protektor will es so durchaus.
+
+York.
+Ich schlafe sicher nicht mit Ruh' im Turm.
+
+Gloster.
+Warum?  was k�nnt Ihr f�rchten?
+
+York.
+Ei, meines Oheims Clarence zorn'gen Geist;
+Gro�mutter sagt, er wurde da ermordet.
+
+Prinz.
+Ich f�rchte keinen toten Oheim.
+
+Gloster.
+Auch keine, hoff ich, die am Leben sind.
+
+Prinz.
+Sind sie's, so hab ich nichts zu f�rchten, hoff ich.
+Doch kommt, Mylord, und mit beklommnem Herzen,
+Ihrer gedenkend, geh ich in den Turm.
+
+(Der Prinz, York, Hastings, Kardinal und Gefolge ab.)
+
+
+Buckingham.
+Glaubt ihr, Mylord, den kleinen Schw�tzer York
+Nicht aufgereizt von seiner schlauen Mutter,
+So schimpflich Euch zu necken und verspotten?
+
+Gloster.
+Gewi�, gewi�: oh,,s ist ein schlimmer Bursch!
+Keck, rasch, verst�ndig, altklug und geschickt;
+Die Mutter ganz vom Wirbel bis zur Zeh'.
+
+Buckingham.
+Gut, la�t das sein.--Komm hieher, Catesby Du schwurst
+So gr�ndlich auszurichten unsre Zwecke,
+Als heimlich zu bewahren unsre Winke;
+Du h�rtest unsre Gr�nde unterwegs:
+Was meinst du?  sollt' es nicht ein leichtes sein,
+William Lord Hastings unsers Sinns zu machen
+F�r die Erhebung dieses edlen Herzogs
+Auf dieser weltber�hmten Insel Thron?
+
+Catesby.
+Er liebt den Prinzen so des Vaters halb,
+Er l��t zu nichts sich wider ihn gewinnen.
+
+Buckingham.
+Was denkst du denn vom Stanley?  l��t nicht der?
+
+Catesby.
+Der wird in allem ganz wie Hastings tun.
+
+Buckingham.
+Nun wohl, nichts mehr als dies: geh, lieber Catesby,
+Und wie von fern erforsche du Lord Hastings,
+Wie er gesinnt ist gegen unsre Absicht;
+Und lad ihn ein auf morgen in den Turm,
+Der Kr�nung wegen mit zu Rat zu sitzen.
+Wenn du f�r uns geschmeidig ihn versp�rst,
+So muntr' ihn auf und sag ihm unsre Gr�nde.
+Doch ist er bleiern, frostig, kalt, unwillig,
+So sei du's auch: brich das Gespr�ch so ab,
+Und gib uns Nachricht �ber seine Neigung.
+Denn morgen halten wir besondern Rat,
+Worin wir h�chlich dich gebrauchen wollen.
+
+Gloster.
+Empfiehl mich dem Lord William: sag ihm, Catesby,
+Da� seiner Todfeind' alte Rotte morgen
+In Pomfret-Schlo� zur Ader wird gelassen;
+Hei�' meinen Freund, f�r diese Neuigkeit
+Frau Shore ein K��chen mehr aus Freuden geben.
+
+Buckingham.
+Geh, guter Catesby, richt es t�chtig aus.
+
+Catesby.
+Ja, werte Lords, mit aller Achtsamkeit.
+
+Gloster.
+Wird man von Euch vor Schlafengehn noch h�ren?
+
+Catesby.
+Gewi�, Mylord.
+
+Gloster.
+In Crosby-Hof, da findet Ihr uns beide.
+
+(Catesby ab.)
+
+Buckingham.
+Nun, Mylord, was soll'n wir tun, wenn wir versp�ren,
+Da� Hastings unsern Planen sich nicht f�gt?
+
+Gloster.
+Den Kopf ihm abhaun, Freund:--was mu� geschehn.
+Und wenn ich K�nig bin, dann fordre du
+Die Grafschaft Hereford und alles fahrende Gut,
+Was sonst der K�nig, unser Bruder, hatte.
+
+Buckingham.
+Ich will mich auf Eu'r Hoheit Wort berufen.
+
+Gloster.
+Es soll dir freundlichst zugestanden werden.
+Komm, speisen wir zu Abend, um hernach
+In unsern Anschlag Gestalt zu bringen.
+
+(Beide ab.)
+
+
+
+ZWEITE SZENE
+
+
+Vor Lord Hastings' Hause.
+
+(Ein Bote tritt auf.)
+
+
+Bote (klopft).
+Mylord!  Mylord!
+
+Hastings (von innen).
+Wer klopft?
+
+Bote.
+Jemand von Lord Stanley.
+
+Hastings (von innen).
+Was ist die Uhr?
+
+Bote.
+Vier auf den Schlag.
+
+(Hastings tritt auf.)
+
+Hastings.
+Kann nicht dein Herr die langen N�chte schlafen?
+
+Bote.
+So scheint's, nach dem, was ich zu sagen habe.
+Zuerst empfiehlt er sich Eu'r Herrlichkeit.
+
+Hastings.
+Und dann?
+
+Bote.
+Und dann l��t er Euch melden, da� ihm tr�umte,
+Der Eber sto�e seinen Helmbusch ab.
+Auch, sagt er, werde doppelt Rat gehalten,
+Und da� man leicht beschlie�en k�nn' im einen,
+Was ihn und Euch bek�mmern k�nnt' im andern.
+Drum schickt er, Eu'r Belieben zu erfahren,
+Ob Ihr sogleich mit ihm aufsitzen wollt
+Und ohne S�umen nach dem Norden jagen,
+Um die Gefahr zu meiden, die ihm schwant.
+
+Hastings.
+Geh, geh, Gesell, zur�ck zu deinem Herrn,
+Hei�' ihn nicht f�rchten den getrennten Rat:
+Sein' Edeln und ich selbst sind bei dem einen,
+Catesby, mein guter Freund, ist bei dem andern,
+Woselbst nichts vorgehn kann, was uns betrifft,
+Wovon mir nicht die Kundschaft w�rd' erteilt.
+Sag ihm, die Furcht sei albern, sonder Anla�;
+Und wegen seines Traums, da wundr' es mich,
+Wie er doch nur so t�richt k�nne sein,
+Zu traun der Neckerei unruh'gen Schlummers.
+Den Eber fliehn, bevor der Eber nachsetzt,
+Das hie�' den Eber reizen, uns zu folgen
+Und Jagd zu machen, wo er's nicht gemeint.
+Hei�' deinen Herrn aufstehn und zu mir kommen,
+Dann wollen wir zusammen hin zum Turm,
+Wo, du sollst sehn, der Eber freundlich sein wird.
+
+Bote.
+Ich geh, Mylord, und will ihm das bestellen.
+
+(Ab.)
+
+(Catesby tritt auf.)
+
+Catesby.
+Vielmals guten Morgen meinem edlen Lord!
+
+Hastings.
+Guten Morgen, Catesby!  Ihr seid fr�h bei Wege.
+Was gibt's, was gibt's in unserm Wankestaat?
+
+Catesby.
+Die Welt ist schwindlicht, in der Tat, Mylord,
+Und, glaub ich, wird auch niemals aufrecht stehn,
+Bevor nicht Richard tr�gt des Reiches Kranz.
+
+Hastings.
+Wieso?  des Reiches Kranz?  meinst du die Krone?
+
+Catesby.
+Ja, bester Lord.
+
+Hastings.
+Man soll das Haupt mir schlagen von den Schultern,
+Eh' ich die Krone seh so schn�d entwandt.
+Doch kannst du raten, da� er darnach zielt?
+
+Catesby.
+So wahr ich lebe, und er hofft Euch wirksam
+F�r ihn zu finden, selb'ge zu gewinnen;
+Und hierauf schickt er Euch die gute Botschaft,
+Da� Eure Feinde diesen selben Tag,
+Der K�nigin Verwandt', in Pomfret sterben.
+
+Hastings.
+Um diese Nachricht traur' ich eben nicht,
+Denn immer waren sie mir Widersacher.
+Doch da� ich stimmen sollt' auf Richards Seite,
+Den echten Erben meines Herrn zum Nachteil,
+Gott wei�, das tu ich nicht bis in den Tod.
+
+Catesby.
+Gott sch�tz' Eu'r Gnaden bei dem frommen Sinn!
+
+Hastings.
+Doch das belach ich wohl noch �bers Jahr,
+Da� ich erlebe deren Trauerspiel,
+Die mich bei meinem Herrn verha�t gemacht.
+H�r, Catesby, eh' ein vierzehn Tag' ins Land gehn,
+Schaff ich noch ein'ge fort, die's jetzt nicht denken.
+
+Catesby.
+Ein h��lich Ding, zu sterben, gn�d'ger Herr,
+Unvorbereitet und sich nichts versehend.
+
+Hastings.
+O  greulich!  greulich!  Und so geht es nun
+Mit Rivers, Vaughan, Grey; und wird so gehn
+Mit andern noch, die sich so sicher d�nken
+Wie du und ich, die dem durchlauchten Richard
+Und Buckingham doch wert sind, wie du wei�t.
+
+Catesby.
+Die Prinzen beide achten Euch gar hoch.--
+(Beiseit.)  Sie achten seinen Kopf schon auf der Br�cke.
+
+Hastings.
+Ich wei� es wohl und hab's um sie verdient.
+
+(Stanley tritt auf.)
+
+Wohlan, wohlan!  Wo ist Eu'r Jagdspie�, Freund?
+Ihr scheut den Eber und geht unger�stet?
+
+Stanley.
+Mylord, guten Morgen!  guten Morgen, Catesby!
+Ihr m�gt nur spa�en, doch, beim heil'gen Kreuz,
+Ich halte nichts von dem getrennten Rat,
+
+Hastings.
+Mylord, Mein Leben halt ich wert wie Ihr das Eure,
+Und nie in meinem Leben, schw�r ich Euch,
+War es mir kostbarer als eben jetzt.
+Denkt Ihr, w��t' ich nicht unsre Lage sicher,
+Ich w�r' so triumphierend, wie ich bin?
+
+Stanley.
+Die Lords zu Pomfret ritten wohlgemut
+Aus London, glaubten ihre Lage sicher
+Und hatten wirklich keinen Grund zum Mi�traun:
+Doch seht Ihr, wie der Tag sich bald bew�lkt.
+Ich f�rchte diesen raschen Streich des Grolls;
+Gott gebe, da� ich notlos zaghaft sei!
+Nun, wollen wir zum Turm?  Der Tag vergeht.
+
+Hastings.
+Kommt, kommt, seid ruhig!  Wi�t Ihr was, Mylord?
+Heut werden die erw�hnten Lords enthauptet.
+
+Stanley.
+F�r Treu' st�nd' ihnen besser wohl ihr Haupt,
+Als manchen, die sie angeklagt, ihr Hut.
+Kommt, Mylord, la�t uns gehn.
+
+(Ein Heroldsdiener tritt auf.)
+
+Hastings.
+Geht nur voran,
+Ich will mit diesem wackern Manne reden.
+
+(Stanley und Catesby ab.)
+
+He, Bursch, wie steht's mit dir?
+
+Heroldsdiener.
+Um desto besser,
+Weil Eure Herrlichkeit geruht zu fragen.
+
+Hastings.
+Ich sag dir, Freund, mit mir steht's besser jetzt,
+Als da du neulich eben hier mich trafst.
+Da ging ich als Gefangner in den Turm
+Auf Antrieb von der K�nigin Partei;
+Nun aber sag ich dir (bewahr's f�r dich),
+Heut werden meine Feinde hingerichtet,
+Und meine Lag' ist besser als zuvor.
+
+Heroldsdiener.
+Erhalt' sie Gott nach Euer Gnaden Wunsch!
+
+Hastings.
+Gro�en Dank, Bursche!  Trink das auf mein Wohl.
+
+(Wirft ihm seinen Beutel zu.)
+
+Heroldsdiener.
+Ich dank Eu'r Gnaden.  (Ab.)
+
+(Ein Priester tritt auf.)
+
+Priester.
+Mylord, mich freut's, Eu'r Gnaden wohl zu sehn.
+
+Hastings.
+Ich danke dir von Herzen, mein Sir John.
+Ich bin Eu'r Schuldner f�r die letzte �bung;
+Kommt n�chsten Sabbat, und ich will's verg�ten.
+
+(Buckingham tritt auf.)
+
+Buckingham.
+Ihr sprecht mit Priestern, wie, Herr K�mmerer?
+Den Priester brauchen Eure Freund' in Pomfret,
+Eu'r Gnaden hat mit Beichten nichts zu tun.
+
+Hastings.
+F�rwahr, da ich den w�rd'gen Mann hier sah,
+Da fielen die, wovon Ihr sprecht, mir ein.
+Sagt, geht Ihr in den Turm?
+
+Buckingham.
+Ja, Mylord, doch ich kann nicht lang da bleiben,
+Ich geh vor Euer Edeln wieder fort.
+
+Hastings.
+Vielleicht, weil ich zum Mittagessen bleibe.
+
+Buckingham (beiseit).
+Zum Abendessen auch, wei�t du's schon nicht.--
+Kommt, wollt Ihr gehn?
+
+Hastings.
+Eu'r Gnaden aufzuwarten.
+
+(Ab.)
+
+
+
+DRITTE SZENE
+
+
+Zu Pomfret, vor der Burg.
+
+
+(Ratcliff tritt auf mir einer Wache, welche Rivers,
+Vaughan und Grey zur Hinrichtung f�hrt.)
+
+
+Ratcliff.
+Kommt, f�hrt die Gefangnen vor.
+
+Rivers.
+Sir Richard Ratcliff, la� dir sagen dies:
+Heut wirst du einen Untertan sehn sterben,
+Den Treu' und Pflicht und Biederkeit
+verderben.
+
+Grey.
+Gott sch�tz' den Prinzen nur vor eurer Rotte!
+Verdammter Hauf' ihr alle von Blutsaugern!
+
+Vaughan.
+Ihr, die ihr lebt, wehklagt hierum noch k�nftig.
+
+Ratcliff.
+Macht fort, denn eures Lebens Ziel ist da.
+
+Rivers.
+O  Pomfret!  Pomfret!  O  du blut'ger Kerker,
+Verh�ngnisvoll und t�dlich edlen Pairs!
+Im s�nd'gen Umfang deiner Mauern ward
+Richard der Zweite hier zu Tod gehaun;
+Und deinem grausen Sitz zu fernerm Schimpf
+Gibt man dir unser schuldlos Blut zu trinken.
+
+Grey.
+Nun f�llt Margrethas Fluch auf unser Haupt,
+Ihr Racheschrei, weil Hastings, Ihr und ich
+Zusahn, als Richard ihren Sohn erstach.
+
+Rivers.
+Da fluchte sie Hastings, da fluchte sie Buckingham,
+Da fluchte sie Richard: Gott, gedenke des!
+H�r ihr Gebet f�r sie, wie jetzt f�r uns!
+F�r meine Schwester und f�r ihre Prinzen
+Gen�g' unser treues Blut dir, teurer Gott,
+Das ungerecht, du wei�t's, vergossen wird!
+
+Ratcliff.
+Eilt euch, die Todesstund' ist abgetan.
+
+Rivers.
+Komm, Grey!  komm, Vaughan!  umarmen wir uns hier:
+Lebt wohl, bis wir uns wiedersehn im Himmel.
+
+(Alle ab.)
+
+
+
+VIERTE SZENE
+
+
+London.  Ein Zimmer im Turm.
+
+(Buckingham, Stanley, Hastings, der Bischof von Ely,
+Lovel und andre, an einer Tafel sitzend; Ratsbediente hinter ihnen
+stehend.)
+
+
+Hastings.
+Nun, edle Pairs, was uns versammelt, ist,
+Die Kr�nung festzusetzen: in Gottes Namen,
+Sprecht denn, wann ist der k�nigliche Tag?
+
+Buckingham.
+Ist alles fertig f�r dies K�nigsfest?
+
+Stanley.
+Ja, und es fehlt die Anberaumung nur.
+
+Ely.
+So acht' ich morgen einen guten Tag.
+
+Buckingham.
+Wer kennt des Lord Protektors Sinn hierin?
+Wer ist Vertrautester des edlen Herzogs?
+
+Ely.
+Eu'r Gnaden kennt wohl seinen Sinn am ersten.
+
+Buckingham.
+Wir kennen von Gesicht uns: doch die Herzen,
+Da kennt er meins nicht mehr, als Eures ich;
+Noch seines ich, Mylord, als meines Ihr.--
+Lord Hastings, Ihr und er seid nah vereint.
+
+Hastings.
+Ich wei�, er will mir wohl, Dank Seiner Gnaden.
+Doch �ber seine Absicht mit der Kr�nung
+Hab ich ihn nicht erforscht, noch er darin
+Sein gn�d'ges Wohlgefallen mir er�ffnet.
+Ihr m�gt, mein edler Lord, die Zeit wohl nennen,
+Und ich will stimmen an des Herzogs Statt,
+Was, wie ich hoff, er nicht ver�beln wird.
+
+(Gloster tritt auf.)
+
+Ely.
+Zu rechter Zeit kommt da der Herzog selbst.
+
+Gloster.
+Ihr edlen Lords und Vetter, guten Morgen!
+Ich war ein Langeschl�fer; doch ich hoffe,
+Mein Absein hat kein gro� Gesch�ft vers�umt,
+Das meine Gegenwart beschlossen h�tte.
+
+Buckingham.
+Kamt Ihr auf Euer Stichwort nicht, Mylord,
+So sprach William Lord Hastings Eure Rolle:
+Gab Eure Stimme, mein ich, f�r die Kr�nung.
+
+Gloster.
+Niemand darf dreister sein als Mylord Hastings;
+Sein' Edeln kennt mich wohl und will mir wohl.--
+Mylord von Ely, j�ngst war ich in Holborn
+Und sah in Eurem Garten sch�ne Erdbeern:
+La�t etliche mir holen, bitt ich Euch.
+
+Ely.
+Das will ich, Mylord, und von Herzen gern.  (Ab.)
+
+Gloster.
+Vetter von Buckingham, ein Wort mit Euch.
+
+(Er nimmt ihn beiseit.)
+
+Catesby hat Hastings �ber unsern Handel
+Erforscht und findt den starren Herrn so hitzig,
+Da� er den Kopf daran wagt, eh' er leidet,
+Da� seines Herrn Sohn, wie er's ehrsam nennt,
+An Englands Thron das Erbrecht soll verlieren.
+
+Buckingham.
+Entfernt ein Weilchen Euch, ich gehe mit.
+
+(Gloster und Buckingham ab.)
+
+Stanley.
+Noch Setzten wir dies Jubelfest nicht an;
+Auf morgen, wie mich d�nkt, das w�r' zu pl�tzlich,
+Denn ich bin selber nicht so wohl versehn,
+Als ich es w�r', wenn man den Tag versch�be.
+
+(Der Bischof von Ely kommt zur�ck.)
+
+Ely.
+Wo ist der Lord Protektor?
+Ich sandt' aus Nach diesen Erdbeern.
+
+Hastings.
+Heut sieht Sein' Hoheit mild und heiter aus:
+Ihm liegt etwas im Sinn, das ihm behagt,
+Wenn er sO  munter guten Morgen bietet.
+Ich denke, niemand in der Christenheit
+Kann minder bergen Lieb' und Ha� wie er;
+Denn sein Gesicht verr�t Euch gleich sein Herz.
+
+Stanley.
+Was nahmt Ihr im Gesicht vom Herzen wahr,
+Durch irgendeinen Anschein, den er wies?
+
+Hastings.
+Ei, da� er wider niemand hier was hat,
+Denn, w�re das, er zeigt' es in den Mienen.
+
+(Gloster und Buckingham treten auf.)
+
+Gloster.
+Ich bitt euch alle, sagt, was die verdienen,
+Die meinen Tod mit Teufelsr�nken suchen
+Verdammter Hexerei und meinen Leib
+Mit ihrem h�llischen Zauber �bermannt?
+
+Hastings.
+Die Liebe, die ich zu Eu'r Hoheit trage,
+Dr�ngt mich in diesem edlen Kreis vor allen
+Die Schuld'gen zu verdammen; wer sie sei'n,
+Ich sage, Mylord, sie sind wert des Tods.
+
+Gloster.
+Sei denn eu'r Auge ihres Unheils Zeuge:
+Seht nur, wie ich behext bin!  Schaut, mein Arm
+Ist ausgetrocknet wie ein welker Spro�.
+Und das ist Eduards Weib, die arge Hexe,
+Verb�ndet mit der schandbarn Metze Shore,
+Die so mit Hexenk�nsten mich gezeichnet.
+
+Hastings.
+Wenn sie die Tat getan, mein edler Herr--
+
+Gloster.
+Wenn!  Du Besch�tzer der verdammten Metze!
+Kommst du mit Wenn mir?  Du bist ein Verr�ter.--
+Den Kopf ihm ab!  Ich schw�re bei Sankt Paul,
+Ich will nicht speisen, bis ich den gesehn.--
+Lovel und Catesby, sorgt, da� es geschieht;--
+Und wer mich liebt, steh' auf und folge mir!
+
+(Der Staatsrat mit Gloster und Buckingham ab.)
+
+Hastings.
+Weh, weh um England!  Keineswegs um mich.
+Ich Tor, ich h�tte dies verh�ten k�nnen:
+Denn Stanley tr�umte, da� der Eber ihm
+Den Helmbusch abstie�, aber nur gering
+Hab ich's geachtet und vers�umt zu fliehn.
+Dreimal gestrauchelt hat mein Leibpferd heute
+Und hat gescheut, wie es den Turm erblickt,
+Als tr�g' es ungern in das Schlachthaus mich.
+Oh!  jetzt brauch ich den Priester, den ich sprach;
+Jetzt reut es mich, da� ich dem Heroldsdiener
+Zu triumphierend sagte, meine Feinde
+In Pomfret w�rden blutig heut geschlachtet,
+Derweil ich sicher w�r' in Gnad' und Gunst.
+O jetzt, Margretha, trifft dein schwerer Fluch
+Des armen Hastings ungl�cksel'gen Kopf.
+
+Catesby.
+Macht fort, Mylord!  Der Herzog will zur Tafel;
+Beichtet nur kurz: ihm ist's um Euren Kopf.
+
+Hastings.
+O  fl�cht'ge Gnade sterblicher Gesch�pfe,
+Wonach wir trachten vor der Gnade Gottes!
+Wer Hoffnung baut in L�ften eurer Blicke,
+Lebt wie ein trunkner Schiffer auf dem Mast,
+Bereit, bei jedem Ruck hinabzutaumeln
+In der verderbenschwangern Tiefe Scho�.
+
+Lovel.
+Wohlan, macht fort!,s ist fruchtlos weh zu rufen.
+
+Hastings.
+O  blut'ger Richard!  Ungl�cksel'ges England!
+Ich prophezeie grause Zeiten dir,
+Wie die bedr�ngte Welt sie nie gesehn.--
+Kommt, f�hrt mich hin zum Block!  bringt ihm mein Haupt!
+Bald wird, wer meiner spottet, hingeraubt.
+
+(Alle ab.)
+
+
+
+F�NFTE SZENE
+
+
+Innerhalb der Mauern des Turms.
+
+(Gloster und Buckingham in rostigem Harnisch und
+einem sehr entstellenden Aufzuge.)
+
+
+Gloster.
+Komm, Vetter, kannst du zittern, Farbe wechseln?
+Mitten im Worte deinen Atem w�rgen,
+Dann wiederum beginnen, wieder stocken,
+Wie au�er dir und irr im Geist vor Schrecken?
+
+Buckingham.
+Pah!  ich tu's dem Trag�dienspieler nach,
+Red und seh hinter mich und sp�h umher,
+Beb und fahr auf, wenn sich ein Strohhalm r�hrt,
+Als tiefen Argwohn hegend; grause Blicke
+Stehn zu Gebot mir, wie erzwungnes L�cheln,
+Und beide sind bereit in ihrem Dienst
+Zu jeder Zeit zugunsten meiner R�nke.
+Doch sag, ist Catesby fort?
+
+Gloster.
+Ja, und sieh da, er bringt den Schulzen mit.
+
+(Der Lord Mayor und Catesby treten auf.)
+
+Buckingham.
+La�t mich allein ihn unterhalten.--Lord Mayor
+
+Gloster.
+Gebt auf die Zugbr�ck' acht.
+
+Buckingham.
+Horch!  eine Trommel.
+
+Gloster.
+Catesby, schau von der Mauer.
+
+Buckingham.
+Lord Mayor, der Grund, warum wir nach Euch sandten-�
+
+Gloster.
+Sieh um dich, wehr dich, es sind Feinde hier.
+
+Buckingham.
+Bewahr' und schirm' uns Gott und unsre Unschuld!
+
+(Ratcliff und Lovel treten auf mit Hastings
+Kopfe.)
+
+Gloster.
+Sei ruhig!  Freunde sind's, Ratcliff und Lovel.
+
+Lovel.
+Hier ist der Kopf des sch�ndlichen Verr�ters,
+Des t�ckischen und unverd�cht'gen Hastings.
+
+Gloster.
+Ich war so gut ihm, da� ich weinen mu�.
+Ich hielt ihn f�r das redlichste Gesch�pf,
+Das lebt' auf Erden unter Christenseelen;
+Macht' ihn zum Buch, in welches meine Seele
+Die heimlichsten Gedanken niederschrieb.
+So glatt bet�ncht' er mit dem Schein der Tugend
+Sein Laster, da�, bis auf sein offenbares
+Vergehn, den Umgang mein ich mit Shores Weib,
+Er rein sich hielt von jeglichem Verdacht.
+
+Buckingham.
+Ja, ja, er war der schleichendste Verr�ter,
+Der je gelebt.--Seht Ihr, Mylord Mayor,
+Solltet Ihr's denken oder glauben selbst,
+Falls wir nicht wunderbar errettet lebten,
+Es zu bezeugen, da� der Erzverr�ter
+Heut angezettelt hatt', im Saal des Rats
+Mich und den guten Herzog zu ermorden?
+
+Mayor.
+Wie?  hatt' er das?
+
+Gloster.
+Was?  denkt Ihr, wir sei'n T�rken oder Heiden
+Und w�rden, wider alle Form des Rechts
+So rasch verfahren mit des Schurken Tod,
+Wo nicht die dringende Gefahr des Falls,
+Der Frieden Englands, unsre Sicherheit
+Uns diese Hinrichtung h�tt' abgen�tigt?
+
+Mayor.
+Ergeh's Euch wohl!  Erbat den Tod verdient,
+Und beid' Eu'r Gnaden haben wohl getan,
+Verr�ter vor dergleichen Tun zu warnen.
+Ich habe nie mir Guts von ihm versehn,
+Seit er sich einmal einlie� mit Frau Shore.
+
+Buckingham.
+Doch war nicht unsre Absicht, da� er st�rbe,
+Bis Euer Edeln k�m', es anzusehn;
+Was dieser unsrer Freund' ergebne Eil'
+In etwas gegen unsern Sinn, verhindert.
+Wir wollten, Mylord, da� Ihr den Verr�ter
+Selbst h�rtet reden und verzagt bekennen
+Die Weis' und Absicht der Verr�terei,
+Auf da� Ihr selb'ge wohl erkl�ren m�chtet
+Der B�rgerschaft, die uns vielleicht hierin
+Mi�deutet und bejammert seinen Tod.
+
+Mayor.
+Doch, bester Herr, mir gilt Eu'r Gnaden Wort,
+Als h�tt' ich ihn gesehn und reden h�ren;
+Und zweifelt nicht, erlauchte Prinzen beide,
+Ich will der treuen B�rgerschaft berichten
+All Eu'r gerecht Verfahren bei dem Fall.
+
+Gloster.
+Wir w�nschten zu dem End' Eu'r Edeln her,
+Dem Tadel zu entgehn der schlimmen Welt.
+
+Buckingham.
+Doch weil zu sp�t Ihr kamt f�r unsern Zweck
+Bezeugt nur, was Ihr h�rt, da� wir bezielt;
+Und somit, wertester Lord Mayor, lebt wohl.
+
+(Der Lord Mayor ab.)
+
+Gloster.
+Geh, folg ihm, folg ihm, Vetter Buckingham.
+Der Schulz geht eiligst nun aufs Gildehaus:
+Daselbst, wie's dann die Zeit am besten gibt,
+Dring auf die Unechtheit von Eduards Kindern.
+Stell ihnen vor, wie Eduard einen B�rger
+Am Leben strafte, blo� weil er gesagt,
+Er wolle seinen Sohn zum Erben machen
+Der Krone, meinend n�mlich seines Hauses,
+Das so nach dessen Schilde ward benannt.
+Auch schildre seine schn�de �ppigkeit
+Und viehisches Gel�st nach stetem Wechsel,
+Das ihre M�gde, T�chter, Weiber traf,
+Wo nur sein l�stern Aug' und wildes Herz
+Ohn' Einhalt w�hlen mochte seinen Raub.
+Ja, wenn es not tut, r�ck mir selbst noch n�her
+Und sag, als meine Mutter schwanger war
+Mit diesem nie zu s�ttigenden Eduard,
+Da habe mein erlauchter Vater York
+In Frankreich Krieg gef�hrt und bei Berechnung
+Der Zeit gefunden, da� das Kind nicht sein;
+Was auch in seinen Z�gen kund sich gab,
+Als keineswegs dem edlen Herzog �hnlich.
+Doch das ber�hrt nur schonend, wie von fern,
+Weil meine Mutter, wie Ihr wi�t, noch lebt.
+
+Buckingham.
+Sorgt nicht, Mylord: ich will den Redner spielen,
+Als ob der goldne Lohn, um den ich rechte,
+Mir selbst bestimmt w�r'; und somit lebt wohl.
+
+Gloster.
+Wenn's Euch gelingt, bringt sie nach Baynards-Schlo�,
+Wo Ihr mich finden sollt, umringt vom Kreis
+Gelahrter Bisch�f' und ehrw�rd'ger V�ter.
+
+Buckingham.
+Ich geh, und gegen drei bis vier erwartet
+Das Neue, was vom Gildehause kommt.
+
+(Buckingham ab.)
+
+Gloster.
+Geh, Lovel, unges�umt zum Doktor Shaw;--
+
+(Zu Catesby.)
+
+Geh du zum Pater Penker;--hei�t sie beide
+In einer Stund' in Baynards-Schlo� mich treffen.
+
+(Lovel und Catesby ab.)
+
+Nun will ich hin, um heimlich zu verf�gen,
+Wie man des Clarence B�lge schafft beiseit;
+Und anzudeuten, da� keine Art Personen
+Je zu den Prinzen Zutritt haben soll.
+
+(Ab.)
+
+
+
+SECHSTE SZENE
+
+
+Eine Stra�e.
+
+(Ein Kanzellist tritt auf.)
+
+
+Kanzellist.
+Hier ist die Klagschrift wider den Lord Hastings,
+Den wackern Mann, in sauberer Kopei,
+Um in Sankt Paul sie heute zu verlesen.
+Nun merke man, wie fein das h�ngt zusammen:
+Elf Stunden bracht' ich zu, sie abzuschreiben,
+Denn Catesby schickte sie mir gestern abend;
+Die Urschrift war nicht minder lang in Arbeit,
+Und vor f�nf Stunden lebte Hastings doch
+Noch unbescholten, unverh�rt, in Freiheit.
+Das ist eine sch�ne Welt!--Wer ist so bl�de
+Und sieht nicht diesen greiflichen Betrug?
+Und wer so k�hn und sagt, da� er ihn sieht?
+Schlimm ist die Welt, sie mu� zugrunde gehn,
+Wenn man mu� schweigend solche R�nke sehn.
+
+(Ab.)
+
+
+
+SIEBENTE SZENE
+
+
+Der Hof in Baynards-Schlo�.
+
+(Gloster und Buckingham begegnen einander.)
+
+
+Gloster.
+Wie steht's?  wie steht's?  Was sagt die B�rgerschaft?
+
+Buckingham.
+Nun, bei der heil'gen Mutter unsers Herrn!
+Die B�rgerschaft ist stockstill, sagt kein Wort.
+
+Gloster.
+Spracht ihr von Unechtheit der Kinder Eduards?
+
+Buckingham.
+Ja, nebst dem Ehvertrag mit Lady Lucy
+Und dem in Frankreich, den er schlo� durch Vollmacht;
+Der Uners�ttlichkeit in seinen L�sten
+Und Vergewaltigung der B�rgerfrau'n;
+Von seiner Tyrannei um Kleinigkeiten,
+Von seiner eignen Unechtheit, als der
+Erzeugt ward, da Eu'r Vater au�er Lands,
+Und der an Bildung nicht dem Herzog glich.
+Dann hielt ich ihnen Eure Z�ge vor,
+Als Eures Vaters rechtes Ebenbild,
+Wie an Gestalt, so auch an edlem Sinn;
+Legt ihnen dar all Eure Sieg' in Schottland,
+Die strenge Zucht im Krieg, Weisheit im Frieden,
+Auch Eure G�te, Tugend, fromme Demut;
+Lie� in der Tat nichts, dienlich f�r den Zweck,
+Im Sprechen unber�hrt, noch leicht behandelt.
+Und als die Redekunst zu Ende ging,
+Sagt' ich: Wer seinem Lande wohl will, rufe:
+"Gott sch�tze Richard, Englands gro�en K�nig!"
+
+Gloster.
+Und taten sie's?
+
+Buckingham.
+Nein, helf mir Gott, sie sagten nicht ein Wort.
+Wie stumme Bilder, unbelebte Steine,
+So sahn sie starr sich an und totenbleich.
+Dies sehend schalt ich sie und frug den Mayor,
+Was dies verstockte Schweigen nur bedeute.
+Seine Antwort war, das Volk sei nicht gewohnt,
+Da� sonst wer als der Sprecher zu ihm rede.
+Gedrungen mu�t' er nun mich wiederholen:
+"So sagt der Herzog, gibt der Herzog an";
+Doch sagt' er nichts, es zu best�t'gen, selbst.
+Als er geschlossen, schwenkten ein'ge Leute
+Von meinem Tro�, am andern End' des Saals,
+Die M�tzen um den Kopf, ein Dutzend Stimmen
+Erhoben sich: "Gott sch�tze K�nig Richard!"
+Ich nahm den Vorteil dieser wen'gen wahr;
+"Dank, lieben Freund' und B�rger!" fiel ich ein,
+"Der allgemeine frohe Beifallsruf
+Gibt Weisheit kund und Lieb' in euch zu Richard";
+Und damit brach ich ab und ging davon.
+
+Gloster.
+Die stummen Bl�cke!  wollten sie nicht sprechen?
+Kommt denn der Mayor mit seinen Br�dern nicht?
+
+Buckingham.
+Der Mayor ist hier nah' bei.  Stellt Euch besorgt,
+La�t Euch nicht sprechen, als auf dringend Bitten,
+Und nehmt mir ein Gebetbuch in die Hand,
+Und habt, Mylord, zween Geistliche zur Seite,
+Denn daraus zieh ich heil'ge Nutzanwendung.
+La�t das Gesuch so leicht nicht Eingang finden,
+Tut m�dchenhaft, sagt immer nein, und nehmt.
+
+Gloster.
+Ich geh, und wenn du wei�t f�r sie zu sprechen,
+Wie ich dir nein f�r mich zu sagen wei�,
+So bringen wir's gewi� nach Wunsch zu Ende.
+
+Buckingham.
+Geht, geht, auf den Altan!  Der Lord Mayor klopft.
+
+(Gloster ab.  Der Lord Mayor, Alderm�nner und B�rger
+treten auf.)
+
+Buckingham.
+Willkommen, Mylord!  Ich wart umsonst hier auf:
+Der Herzog, scheint's, will sich nicht sprechen lassen.
+
+(Catesby kommt aus dem Schlo�.)
+
+Nun, Catesby?  was sagt Eu'r Herr auf mein Gesuch?
+
+Catesby.
+Er bittet Euer Gnaden, edler Lord,
+Kommt morgen wieder oder �bermorgen.
+Er ist mit zwei ehrw�rd'gen V�tern drinnen,
+Vertieft in geistliche Beschaulichkeit,
+Kein weltliches Gesuch m�cht' ihn bewegen,
+Ihn von der heil'gen �bung abzuziehn.
+
+Buckingham.
+Geh, guter Catesby, noch zum gn�d'gen Herzog;
+Sag ihm, da� ich, der Mayor und Alderm�nner
+In trift'ger Absicht, Sachen von Gewicht,
+Betreffend minder nicht als aller Wohl,
+Hier sind um ein Gespr�ch mit Seiner Gnaden.
+
+Catesby.
+Ich geh sogleich, ihm solches anzumelden.  (Ab.)
+
+Buckingham.
+Ha, Mylord, dieser Prinz, das ist kein Eduard!
+Den findt man nicht auf �pp'gem Ruhbett lehnend,
+Nein, auf den Knieen liegend in Betrachtung;
+Nicht scherzend mit einem Paar von Buhlerinnen,
+Nein, mit zwei ernsten Geistlichen betrachtend;
+Nicht schlafend, seinen tr�gen Leib zu m�sten,
+Nein, betend, seinen wachen Sinn zu n�hren.
+Begl�ckt w�r' England, wenn der fromme Prinz
+Desselben Oberherrschaft auf sich n�hme;
+Allein ich f�rcht, er ist nicht zu bewegen.
+
+Mayor.
+Ei, Gott verh�te, da� uns Seine Gnaden
+Nein sollte sagen!
+
+Buckingham.
+Ich f�rcht, er wird es.  Da kommt Catesby wieder.
+
+(Catesby kommt zur�ck.)
+
+Nun, Catesby, was sagt Seine Gnaden?
+
+Catesby.
+Ihn wundert, zu was End' Ihr solche Haufen
+Von B�rgern habt versammelt, herzukommen,
+Da Seine Gnaden dessen nicht gew�rtig.
+Er sorgt, Mylord, Ihr habt nichts Guts im Sinn.
+
+Buckingham.
+Mich kr�nkt der Argwohn meines edlen Vetters,
+Als h�tt' ich wider ihn nichts Guts im Sinn.
+Beim Himmel!  ganz wohlmeinend kommen wir;
+Geh wieder hin und sag das Seiner Gnaden.
+
+(Catesby ab.)
+
+Wenn fromm~and�cht'ge M�nner einmal sind
+Beim Rosenkranz, so zieht man schwer sie ab:
+So s�� ist br�nstige Beschaulichkeit.
+
+(Gloster erscheint auf einem Altan zwischen zwei
+Bisch�fen; Catesby kommt zur�ck.)
+
+Mayor.
+Seht, Seine Gnaden zwischen zwei Bisch�fen!
+
+Buckingham.
+Zwei Tugendpfeilern f�r ein christlich Haupt,
+Ihn vor dem Fall der Eitelkeit zu st�tzen.
+Und, seht nur, ein Gebetbuch in der Hand,
+Die wahre Zier, woran man Fromme kennt.--
+Gro�er Plantagenet, erlauchter Prinz,
+Leih unserem Gesuch ein g�nstig Ohr,
+Und woll' die Unterbrechung uns verzeihn
+Der Andacht und des christlich frommen Eifers.
+
+Gloster.
+Mylord, es braucht nicht der Entschuldigung,
+Vielmehr ersuch ich Euch, mir zu verzeihn,
+Der ich, im Dienste meines Gottes eifrig,
+Vers�ume meiner Freunde Heimsuchung.
+Doch, das beiseite, was beliebt Eu'r Gnaden?
+
+Buckingham.
+Was, hoff ich, Gott im Himmel auch beliebt
+Und den rechtschaffnen M�nnern insgesamt,
+So dieses unregierte Eiland hegt.
+
+Gloster.
+Ich sorg, ich hab in etwas mich vergangen,
+Das widrig in der B�rger Aug' erscheint;
+Und da� Ihr kommt, um mein Versehn zu schelten.
+
+Buckingham.
+Das habt Ihr, Mylord: wollt' Eu'r Gnaden doch
+Auf unsre Bitten Euren Fehl verbessern!
+
+Gloster.
+Weswegen lebt' ich sonst in Christenlanden?
+
+Buckingham.
+Wi�t denn, Eu'r Fehl ist, da� Ihr �berla�t
+Den h�chsten Sitz, den majest�t'schen Thron,
+Dies Eurer Ahnen szepterf�hrend Amt,
+Des Rangs Geb�hr, den Anspruch der Geburt,
+Den Erbruhm Eures k�niglichen Hauses,
+An die Verderbnis eines falschen Spr��lings;
+Weil bei so schl�friger Gedanken Milde,
+Die wir hier wecken zu des Landes Wohl,
+Dies edle Eiland seiner Glieder mangelt,
+Entstellt sein Antlitz von der Schande Narben,
+Sein F�rstenstamm geimpft mit schlechten Zweigen
+Und fast verschlemmt im niederziehnden Sumpf
+Der tiefsten n�chtlichsten Vergessenheit.
+Dies abzustellen, gehn wir dringend an
+Eu'r gn�dig Selbst, das h�chste Regiment
+Von diesem Eurem Land auf Euch zu laden,
+Nicht als Protektor, Anwalt, Stellvertreter,
+Noch dienender Verwalter fremden Guts,
+Nein, als der Folge nach, von Glied zu Glied,
+Eu'r Erbrecht, Euer Reich, Eu'r Eigentum.
+Deshalb, gemeinsam mit der B�rgerschaft,
+Die ehrerbietigst Euch ergeben ist,
+Und auf ihr ungest�mes Dringen komm ich,
+F�r dies Gesuch Eu'r Gnaden zu bewegen.
+
+Gloster.
+Ich wei� nicht, ob stillschweigend wegzugehn,
+Ob bitterlich mit Reden Euch zu schelten,
+Mehr meiner Stell' und Eurer Fassung ziemt.
+Antwort' ich nicht, so d�chtet Ihr vielleicht,
+Verschwiegner Ehrgeiz will'ge stumm darein,
+Der Oberherrschaft goldnes Joch zu tragen,
+Das Ihr mir t�richt auferlegen wollt.
+Doch schelt ich Euch f�r dieses Eu'r Gesuch,
+Durch Eure treue Liebe so gew�rzt,
+Dann, andrerseits, versehr ich meine Freunde.
+Um jenes drum zu meiden und zu reden,
+Und nicht in dies beim Reden zu verfallen,
+Antwort ich Euch entschiednerma�en so.
+Dankwert ist Eure Liebe; doch mein Wert,
+Verdienstlos, scheut Eu'r allzu hoch Begehren.
+Erst, w�re jede Hindrung wegger�umt,
+Und w�r' geebnet meine Bahn zum Thron,
+Als heimgefallnem Rechte der Geburt:
+Dennoch, so gro� ist meine Geistesarmut,
+So m�chtig und so vielfach meine M�ngel,
+Da� ich mich eh' verb�rge vor der Hoheit,
+Als Kahn, der keine m�cht'ge See vertr�gt,
+Eh' ich von meiner Hoheit mich verbergen,
+Von meines Ruhmes Dampf ersticken lie�e.
+Doch, Gott sei Dank!  es tut nicht not um mich;
+Und w�r sagt; t�t' vieles not mir, Euch zu helfen.
+Der k�nigliche Baum lie� Frucht uns nach,
+Die 'durch der Zeiten leisen Gang gereift'
+Wohl zieren wird den Sitz der Majest�t,
+Und des Regierung uns gewi� begl�ckt.
+Auf ihn leg ich, was Ihr mir auferlegt,
+Das Recht und Erbteil seiner guten Sterne,
+Was Gott verh�te, da� ich's ihm entrisse.
+
+Buckingham.
+Mylord, dies zeigt Gewissen in Eu�r Gnaden,
+Doch seine Gr�nde sind gering und nichtig,
+Wenn man jedweden Umstand wohl erw�gt.
+Ihr saget, Eduard ist Eu'r Bruderssohn;
+Wir sagen's auch, doch nicht von Eduards Gattin.
+Denn erst war er verlobt mit Lady Lucy,
+Noch lebt des Eides Zeugin, Eure Mutter;
+Und dann war ihm durch Vollmacht Bona, Schwester
+Des K�niges von Frankreich, angetraut.
+Doch beide wurden sie hintangesetzt
+Zugunsten einer armen Supplikantin,
+Der abgeh�rmten Mutter vieler S�hne,
+Der reizverfallnen und bedr�ngten Witwe,
+Die, schon in ihrer Bl�hzeit Nachmittag,
+Sein �ppig Aug' erwarb als einen Raub
+Und seines Sinnes h�chsten Schwung verf�hrte
+Zu niederm Fall und schn�der Doppeleh'.
+Aus diesem unrechtm��'gen Bett erzeugt
+Ward Eduard, Prinz aus H�flichkeit genannt.
+Ich k�nnt' es bittrer f�hren zu Gem�t,
+Nur da�, aus Achtung ein'ger, die noch leben,
+Ich schonend meiner Zunge Schranken setze.
+Drum, bester Herr, nehm' Euer f�rstlich Selbst
+Der W�rde dargebornes Vorrecht an:
+Wo nicht zu unserm und des Landes Segen,
+Doch um Eu'r edles Haus hervorzuziehn
+Aus der Verderbnis der verkehrten Zeit,
+Zu erblicher und echter Folgereihe.
+
+Mayor.
+Tut, bester Herr, was Eure B�rger bitten.
+
+Buckingham.
+Weist, hoher Herr, nicht ab den Liebesantrag.
+
+Catesby.
+O  macht sie froh, gew�hrt ihr bill�ges Flehn!
+
+Gloster.
+Ach, warum diese Sorgen auf mich laden?
+Ich tauge nicht f�r Rang und Majest�t.
+Ich bitt Euch, legt es mir nicht �bel aus:
+Ich kann und will Euch nicht willf�hrig sein.
+
+Buckingham.
+Wenn Ihr es weigert, Lieb' und Eifers halb,
+Das Kind, den Bruderssohn, nicht zu entsetzen
+Wie uns bekannt ist Eures Herzens Milde
+Und Euer sanftes, weichliches Erbarmen,
+Das wir in Euch f�r Anverwandte sehn,
+Ja, gleicherma�en auch f�r alle St�nde:
+So wi�t, ob Ihr uns willfahrt oder nicht,
+Doch soll Eu'r Bruderssohn uns nie beherrschen;
+Wir pflanzen jemand anders auf den Thron
+Zum Schimpf und Umsturz Eures ganzen Hauses.
+Und, so entschlossen, lassen wir Euch hier.--
+Kommt, B�rger, l�nger wollen wir nicht bitten.
+
+(Buckingham mit den B�rgern ab.)
+
+Catesby.
+Ruft, lieber Prinz, sie wieder und gew�hrt es!
+Wenn Ihr sie abweist, wird das Land es b��en.
+
+Gloster.
+Zwingt ihr mir eine Welt von Sorgen auf?
+Wohl, ruf sie wieder!
+(Catesby ab.)  Ich bin ja nicht von Stein,
+Durchdringlich Eurem freundlichen Ersuchen,
+Zwar wider mein Gewissen und Gem�t.
+
+(Buckingham und die �brigen kommen zur�ck.)
+
+Vetter von Buckingham und weise M�nner,
+Weil Ihr das Gl�ck mir auf den R�cken schnallt,
+Die Last zu tragen, willig oder nicht,
+So mu� ich in Geduld sie auf mich nehmen.
+Wenn aber schwarzer Leumund, frecher Tadel
+Erscheinet im Gefolge Eures Auftrags,
+So spricht mich Euer f�rmlich N�t'gen los
+Von jeder Makel, jedem Fleck derselben.
+Denn das wei� Gott, das seht Ihr auch zum Teil,
+Wie weit entfernt ich bin, dies zu begehren.
+
+Mayor.
+Gott segn' Eu'r Gnaden!  Wir sehn's und wollen's sagen.
+
+Gloster.
+Wenn Ihr es sagt, so sagt Ihr nur die Wahrheit.
+
+Buckingham.
+Dann gr�� ich Euch mit diesem F�rstentitel:
+Lang lebe Richard, Englands w�rd'ger K�nig!
+
+Alle.
+Amen!
+
+Buckingham.
+Beliebt's Euch, da� die Kr�nung morgen sei?
+
+Gloster.
+Wann's Euch beliebt, weil Ihr's so haben wollt.
+
+Buckingham.
+So warten wir Eu'r Gnaden morgen auf,
+Und nehmen hiemit voller Freuden Abschied.
+
+Gloster (zu den Bisch�fen).
+Kommt, gehn wir wieder an das heil'ge Werk;--
+Lebt wohl, mein Vetter!  lebt wohl, werte Freunde!
+
+(Alle ab.)
+
+
+
+
+VIERTER AUFZUG
+
+
+
+ERSTE SZENE
+
+
+Vor dem Turm.
+
+(Von der einen Seite treten auf K�nigin Elisabeth,
+die Herzogin von York, und der Marquis von Dorset;
+von der andern Anna, Herzogin von Gloster, mit Lady
+Margaretha Plantagenet, Clarence' kleiner Tochter,
+an der Hand.)
+
+
+Herzogin.
+Wen treff ich hier?  Enklin Plantagenet,
+An ihrer guten Muhme Gloster Hand?
+So wahr ich lebe, sie will auch zum Turm
+Aus Herzensliebe zu dem zarten Prinzen.--
+Tochter, ich freue mich, Euch hier zu treffen.
+
+Anna.
+Gott geb' Eu'r Gnaden beiden frohe Zeit!
+
+Elisabeth.
+Euch gleichfalls, gute Schwester!  Wohin geht's?
+
+Anna.
+Nicht weiter als zum Turm, und, wie ich rate,
+In gleicher frommer Absicht wie Ihr selbst,
+Daselbst die holden Prinzen zu begr��en.
+
+Elisabeth.
+Dank, liebe Schwester!  Gehn wir all hinein;
+Und da kommt eben recht der Kommandant.--
+
+(Brakenbury tritt auf.)
+
+Herr Kommandant, ich bitt Euch, mit Verlaub,
+Was macht der Prinz und York, mein j�ngrer Sohn?
+
+Brakenbury.
+Wohl sind sie, gn�d'ge Frau; doch wollt verzeihn,
+Ich darf nicht leiden, da� Ihr sie besucht:
+Der K�nig hat es scharf mir untersagt.
+
+Elisabeth.
+Der K�nig?  wer?
+
+Brakenbury.
+Der Herr Protektor, mein ich.
+
+Elisabeth.
+Der Herr besch�tz' ihn vor dem K�nigstitel!
+So hat er Schranken zwischen mich gestellt
+Und ihre Liebe?  Ich bin ihre Mutter:
+Wer will den Zutritt mir zu ihnen wehren?
+
+Herzogin.
+Ich ihres Vaters Mutter, die sie sehn will.
+
+Anna.
+Ich bin nur ihre Muhme nach den Rechten,
+Doch Mutter nach der Liebe; f�hre denn
+Mich vor sie: tragen will ich deine Schuld
+Und dir dein Amt abnehmen auf mein Wort.
+
+Brakenbury.
+Nein, gn�d'ge Frau, so darf ich es nicht lassen:
+Ein Eid verpflichtet mich, deshalb verzeiht.
+
+(Brakenbury ab.  Stanley tritt auf.)
+
+Stanley.
+Tr�f' ich Euch, edle Frau'n, ein St�ndchen sp�ter,
+So k�nnt' ich Euer Gnaden schon von York
+Als w�rd'ge Mutter und Begleiterin
+Von zweien holden K�niginnen gr��en.
+
+(Zur Herzogin von Gloster.)
+
+Kommt, F�rstin, Ihr m��t gleich nach Westminster:
+Dort kr�nt man Euch als Richards Eh'gemahl.
+
+Elisabeth.
+Ach!  l�ftet mir die Schn�re,
+Da� mein beklemmtes Herz Raum hat zu schlagen,
+Sonst sink ich um bei dieser Todesbotschaft.
+
+Anna.
+Verha�te Nachricht!  Unwillkommne Botschaft!
+
+Dorset.
+Seid gutes Muts!  Mutter, wie geht's Eu'r Gnaden?
+
+Elisabeth.
+O Dorset, sprich nicht mit mir!  mach dich fort!
+Tod und Verderben folgt dir auf der Ferse;
+Verh�ngnisvoll ist deiner Mutter Name.
+Willst du dem Tod entgehn, fahr �bers Meer,
+Bei Richmond Ich, entr�ckt der H�lle Klau'n.
+Geh, eil aus dieser M�rdergrube fort,
+Da� du die Zahl der Toten nicht vermehrst
+Und unter Margarethas Fluch ich sterbe,
+Noch Mutter, Weib, noch K�nigin geachtet.
+
+Stanley.
+Voll weiser Sorg' ist dieser Euer Rat.--
+Nehmt jeder Stunde schnellen Vorteil wahr;
+Ich geb Euch Briefe mit an meinen Sohn
+Empfehl es ihm, entgegen Euch zu eilen:
+La�t Euch nicht fangen durch unweises Weilen.
+
+Herzogin.
+O schlimm zerstreu'nder Wind des Ungemache!--
+O mein verfluchter Scho�, des Todes Bett!
+Du hecktest einen Basilisk der Welt,
+Des unvermiednes Auge m�rdrisch ist.
+
+Stanley.
+Kommt, F�rstin, kommt!  Ich ward in Eil' gesandt.
+
+Anna.
+Mit h�chster Abgeneigtheit will ich gehn.--
+O wollte Gott, es w�r' der Zirkelreif
+Von Gold, der meine Stirn umschlie�en soll,
+Rotgl�hnder Stahl und sengte mein Gehirn!
+Mag t�dlich Gift mich salben, da� ich sterbe,
+Eh' wer kann rufen: Heil der K�nigin!
+
+Elisabeth.
+Geh, arme Seel', ich neide nicht dein Gl�ck;
+Mir zu willfahren, w�nsche dir kein Leid.
+
+Anna.
+Wie sollt' ich nicht?  Als er, mein Gatte jetzt,
+Hinzutrat, wie ich Heinrichs Leiche folgte,
+Als er die H�nde kaum vom Blut gewaschen,
+Das dir entflo�, mein erster Engel-Gatte,
+Und jenem toten Heil�gen, den ich weinte;
+Oh, als ich da in Richards Antlitz schaute,
+War dies mein Wunsch: Sei du, sprach ich, verflucht,
+Der mich, so jung, so alt als Witwe macht!
+Und wenn du freist, umlagre Gram dein Bett,
+Und sei dein Weib (ist eine so verr�ckt)
+Elender durch dein Leben, als du mich
+Durch meines teuren Gatten Tod gemacht!
+Und sieh, eh' ich den Fluch kann wiederholen,
+In solcher Schnelle ward mein Weiberherz
+Gr�blich bestrickt von seinen Honigworten
+Und unterw�rfig meinem eignen Fluch,
+Der stets seitdem mein Auge wach erhielt:
+Denn niemals eine Stund' in seinem Bett
+Geno� ich noch den goldnen Tau des Schlafe,
+Da� seine bangen Tr�ume nicht mich schreckten.
+Auch ha�t er mich um meinen Vater Warwick
+Und wird mich sicherlich in kurzem los.
+
+Elisabeth.
+Leb wohl, du armes Herz!  Mich dau'rt dein Klagen.
+
+Anna.
+Nicht mehr, als Eur's mich in der Seele
+schmerzt.
+
+Dorset.
+Leb wohl, die du mit Weh die Hoheit gr��est!
+
+Anna.
+Leb, arme Seele, wohl, die von ihr scheidet!
+
+Herzogin (zu Dorset).
+Geh du zu Richmond: gutes Gl�ck geleite dich!--
+
+(Zu Anna.)
+
+Geh du zu Richard: gute Engel schirmen dich!--
+
+(Zu Elisabeth.)
+
+Geh du zur Freistatt: guter Trost erf�lle dich!--
+Ich in mein Grab, wo Friede mit mir ruhe!
+Mir wurden achtzig Leidensjahr' geh�uft
+Und Stunden Lust in Wochen Grams ers�uft.
+
+Elisabeth.
+Verweilt noch, schaut mit mir zur�ck zum Turm.--
+Erbarmt euch, alte Steine, meiner Knaben,
+Die Neid in euren Mauern eingekerkert!
+Du rauhe Wiege f�r so holde Kinder!
+Felsstarre Amme!  finstrer Spielgesell
+F�r zarte Prinzen!  Pflege meine Kleinen!
+So sagt mein t�richt Leid Lebwohl den Steinen.
+
+(Alle ab.)
+
+
+
+ZWEITE SZENE
+
+
+Ein Staatszimmer im Palast.
+
+(Trompetensto�.  Richard als K�nig auf seinem Thron,
+Buckingham, Catesby, ein Edelknabe und andre.)
+
+
+Richard.
+Steht alle seitw�rts.--Vetter Buckingham--
+
+Buckingham.
+Mein gn�d'ger F�rst?
+
+Richard.
+Gib mir die Hand.  So hoch, durch deinen Rat
+Und deinen Beistand, sitzt nun K�nig Richard.
+Doch soll der Glanz uns einen Tag bekleiden,
+Wie, oder dauern und wir sein uns freun?
+
+Buckingham.
+Stets leb' er, m�ge dauern immerdar!
+
+Richard.
+Ah, Buckingham!  den Pr�fstein spiel ich jetzt,
+Ob du dich wohl als echtes Gold bew�hrst.
+Der junge Eduard lebt: rat, was ich meine.
+
+Buckingham.
+Sprecht weiter, bester Herr.
+
+Richard.
+Ei, Buckingham, ich m�chte K�nig sein.
+
+Buckingham.
+Das seid Ihr ja, mein hochber�hmter F�rst.
+
+Richard.
+Ha!  bin ich K�nig?  Wohl, doch Eduard lebt.
+
+Buckingham.
+Wahr, edler Prinz.
+
+Richard.
+O  bittre Folgerung!
+Da� Eduard stets noch lebt: "Wahr, edler Prinz."--
+Vetter, du warst ja sonst so bl�de nicht.
+Sag ich's heraus?  Die Buben w�nsch ich tot
+Und wollt', es w�rde schleunig ausgef�hrt.
+Was sagst du nun?  Sprich schleunig, fa� dich kurz.
+
+Buckingham.
+Eu'r Hoheit kann verfahren nach Belieben.
+
+Richard.
+Pah, pah!  Du bist wie Eis; dein Eifer friert.
+Sag, bist du es zufrieden, da� sie sterben?
+
+Buckingham.
+La�t mich ein Weilchen Atem sch�pfen, Herr,
+Eh' ich bestimmt in dieser Sache rede.
+Ich geb Eu'r Hoheit alsobald Bescheid.
+
+(Buckingham ab.)
+
+Catesby (beiseit).
+Der K�nig ist erz�rnt, er bei�t die Lippe.
+
+Richard (steigt vom Thron).
+Ich will mit eisenk�pf'gen Narrn verhandeln,
+Mit unbedachten Burschen; keiner taugt mir,
+Der mich mit �berlegtem Blick ersp�ht.
+Der hochgestiegne Buckingham wird schwierig.--
+He, Bursch!
+
+Edelknabe.
+Mein F�rst?
+
+Richard.
+Wei�t du mir keinen, den bestechend Gold
+Wohl zu verschwiegnem Todeswerk versuchte?
+
+Edelknabe.
+Ich kenne einen mi�vergn�gten Mann,
+Des niedrer Gl�cksstand seinem Stolz versagt.
+Gold w�r' so gut bei ihm wie zwanzig Redner
+Und wird gewi� zu allem ihn versuchen.
+
+Richard.
+Wie ist sein Name?
+
+Edelknabe.
+Herr, sein Nam' ist Tyrrel.
+
+Richard.
+Ich kenne schon den Mann; geh, Bursche, hol ihn her.--
+
+(Edelknabe ab.)
+
+Der tiefbed�cht'ge schlaue Buckingham
+Soll nicht mehr Nachbar meines Rates sein.
+Hielt er so lang mir unerm�det aus
+Und mu� nun Atem sch�pfen?  Wohl, es sei.--
+
+(Stanley tritt auf.)
+
+Lord Stanley, nun?  was gibt es Neues?
+
+Stanley.
+Wi�t, gewogner Herr,
+Der Marquis Dorset, h�r ich, ist entflohn
+Zum Richmond, in die Lande, wo er lebt.
+
+Richard.
+Catesby, komm her.  Bring ein Ger�cht herum,
+Gef�hrlich krank sei Anna, mein Gemahl;
+Ich sorge schon, zu Hause sie zu halten.
+Find einen Mann von schlechter Herkunft aus,
+Dem ich zur Frau des Clarence Tochter gebe;--
+Der Jung' ist t�rlich, und ich f�rcht ihn nicht.
+Sieh, wie du tr�umst!  Ich sag's nochmal: streu aus,
+Anna, mein Weib, sei krank und wohl zum Sterben.
+Ans Werk!  Mir liegt zu viel dran, jede Hoffnung
+Zu hemmen, deren Wachstum schaden kann.--
+
+(Catesby ab.)
+
+Heiraten mu� ich meines Bruders Tochter,
+Sonst steht mein K�nigreich auf d�nnem Glas.
+Erst ihre Br�der morden, dann sie frein!
+Unsichrer Weg ~ Doch wie ich einmal bin,
+So tief im Blut, rei�t S�nd' in S�nde hin.
+Betr�ntes Mitleid wohnt nicht mir im Auge.--
+(Der Edelknabe kommt mit Tyrrel zur�ck.)
+Dein Nam' ist Tyrrel?
+
+Tyrrel.
+James Tyrrel, Eu'r ergebner Untertan.
+
+Richard.
+Bist du das wirklich?
+
+Tyrrel.
+Pr�ft mich, gn�d'ger Herr.
+
+Richard.
+Schl�gst du wohl einen meiner Freunde tot?
+
+Tyrrel.
+Wie's Euch beliebt; doch lieber noch zwei Feinde.
+
+Richard.
+Da triffst du's eben, zwei Erzfeinde sind's,
+Verst�rer meiner Ruh' und s��en Schlafs,
+An denen ich dir gern zu schaffen g�be.
+Tyrrel, ich mein im Turm die Bastardbuben.
+
+Tyrrel.
+Gebt mir zu ihnen offnen Zutritt nur,
+So seid Ihr bald der Furcht vor ihnen los.
+
+Richard.
+Du singst mir s��en Ton.  Hieher komm, Tyrrel:
+Geh, auf dies Unterpfand--Steh auf und leih dein Ohr.
+
+(Fl�stert ihm zu.)
+
+Nichts weiter braucht es.  Sag, es sei geschehn,
+Und lieben und bef�rdern will ich dich.
+
+Tyrrel.
+Ich will es gleich vollziehn.  (Ab.)
+
+(Buckingham kommt zur�ck.)
+
+Buckingham.
+Mein F�rst, ich hab erwogen im Gem�t
+Den Wunsch, um den Ihr eben mich befragtet.
+
+Richard.
+La� gut sein.  Dorset ist geflohn zum Richmond.
+
+Buckingham.
+Ich h�re so, mein F�rst.
+
+Richard.
+Stanley, er ist Eu'r Stiefsohn.--Wohl, gebt acht.
+
+Buckingham.
+Mein F�rst, ich bitt um mein versprochnes Teil,
+Wof�r Ihr Treu' und Ehre mir verpf�ndet;
+Die Grafschaft Hereford und ihr fahrend Gut,
+Die ich, wie Ihr verspracht, besitzen soll.
+
+Richard.
+Stanley, gebt acht auf Eure Frau: bef�rdert
+Sie Brief' an Richmond, steht Ihr daf�r ein.
+
+Buckingham.
+Was sagt Eu'r Hoheit auf die bill'ge Fordrung?
+
+Richard.
+Es ist mir noch im Sinn, Heinrich der Sechste
+Weissagte, Richmond w�rde K�nig werden,
+Da er ein klein verzognes B�bchen war.
+K�nig!--vielleicht--
+
+Buckingham.
+Mein F�rst--
+
+Richard.
+Wie kam's, da� der Prophet nicht damals mir,
+Der ich dabeistand, sagt', ich w�rd' ihn t�ten?
+
+Buckingham.
+Mein F�rst, die mir versprochne Grafschaft--
+
+Richard.
+Richmond!--Ich war letzthin in Exeter,
+Da wies der Schulz verbindlich mir das Schlo�
+Und nannt' es Rougemont; bei dem Namen stutzt' ich,
+Weil mir ein Bard' aus Irland einst gesagt,
+Nicht lange lebt' ich, wenn ich Richmond s�he.
+
+Buckingham.
+Mein F�rst--
+
+Richard.
+Was ist die Uhr?
+
+Buckingham.
+Ich bin so dreist, Eu'r Hoheit zu erinnern
+An was Ihr mir verspracht.
+
+Richard.
+Gut, doch was ist die Uhr?
+
+Buckingham.
+Zehn auf den Schlag.
+
+Richard.
+Nun gut, so la� es schlagen.
+
+Buckingham.
+Warum es schlagen lassen?  Richard.
+
+Richard.
+Weil zwischen deiner Bitt' und meinem Denken
+Du wie ein Glockenhans den Hammer h�ltst.
+Ich bin nicht in der Gebelaune heut.
+
+Buckingham.
+Nun, so erkl�rt Euch, ob Ihr wollt, ob nicht.
+
+Richard.
+Du st�rst mich nur; ich bin nicht in der Laune.
+
+(Richard mit seinem Gefolge ab.)
+
+Buckingham.
+So steht's?  Bezahlt er meine wicht'gen Dienste
+Mit Hohn?  Macht' ich zum K�nig dazu ihn?
+O la� mich Hastings warnen und, derweilen
+Dies bange Haupt noch steht, nach Brecknock eilen!
+
+(Ab.)
+
+
+
+DRITTE SZENE
+
+
+Ebendaselbst.
+
+(Tyrrel tritt auf.)
+
+
+Tyrrel.
+Geschehn ist die tyrannisch blut'ge Tat,
+Der �rgste Greuel j�mmerlichen Mords,
+Den jemals noch dies Land verschuldet hat.
+Dighton und Forrest, die ich angestellt
+Zu diesem Streich ruchloser Schlachterei,
+Zwar eingefleischte Schurken, blut'ge Hunde,
+Vor Z�rtlichkeit und mildem Mitleid schmelzend,
+Weinten wie Kinder bei der Trau'rgeschichte.
+"O  so", sprach Dighton, "lag das zarte Paar";
+"So, so", sprach Forrest, "sich einander g�rtend
+Mit den unschuld'gen Alabasterarmen:
+Vier Rosen eines Stengels ihre Lippen,
+Die sich in ihrer Sommersch�nheit k��ten.
+Und ein Gebetbuch lag auf ihrem Kissen,
+Das wandte fast", sprach Forrest, "meinen Sinn;
+Doch oh!  der Teufel"--dabei stockt' der Bube,
+Und Dighton fuhr sofort: "Wir w�rgten hin
+Das v�lligst s��e Werk, so die Natur
+Seit Anbeginn der Sch�pfung je gebildet."--
+Drauf gingen beide voll Gewissensbisse,
+Die sie nicht sagen konnten, und ich lie� sie,
+Dem blut'gen K�nig den Bericht zu bringen.
+
+(Richard tritt auf.)
+
+Hier kommt er eben.--Heil, mein hoher Herr!
+
+Richard.
+Freund Tyrrel, macht mich deine Zeitung gl�cklich?
+
+Tyrrel.
+Wenn das vollbracht zu wissen, was Ihr mir
+Befohlen, Euch begl�ckt, so seid denn gl�cklich:
+Es ist geschehn.
+
+Richard.
+Doch sahst du selbst sie tot?
+
+Tyrrel.
+Ja, Herr.
+
+Richard.
+Und auch begraben, lieber Tyrrel?
+
+Tyrrel.
+Der Kapellan im Turm hat sie begraben;
+Wo, wei� ich nicht, die Wahrheit zu gestehn.
+
+Richard.
+Komm zu mir, Tyrrel, nach dem Abendessen,
+Da sagst du mir den Hergang ihres Tods.
+Denk drauf, was ich zulieb dir k�nnte tun,
+Und dein Begehren f�llt sogleich dir zu.
+Leb wohl indes.
+
+Tyrrel.
+Zu Gnaden Euch empfohlen.  (Ab.)
+
+Richard.
+Den Sohn des Clarence hab ich eingesperrt,
+Die Tochter in geringem Stand verehlicht;
+Im Scho� des Abraham ruhn Eduards S�hne,
+Und Anna sagte gute Nacht der Welt.
+Nun wei� ich, der Bretagner Richmond trachtet
+Nach meiner jungen Nicht' Elisabeth
+Und blickt, stolz auf dies Band, zur Kron' empor:
+Drum will ich zu ihr, als ein muntrer Freier.
+
+(Catesby tritt auf.)
+
+Catesby.
+Herr--
+
+Richard.
+Gilt es gute oder schlimme Zeitung,
+Da� du so grad' hereinst�rmst?
+
+Catesby.
+Herr, schlimme Zeitung: Morton floh zum Richmond,
+Und Buckingham, verst�rkt mit tapfern W�l'schen,
+R�ckt in das Feld, und seine Macht nimmt zu.
+
+Richard.
+Ely samt Richmond dr�ngen n�her mich
+Als Buckinghams schnell aufgeraffte Macht.
+Komm, denn ich lernte, b�ngliches Erw�gen
+Sei schl�frigen Verzuges blei'rner Diener;
+Verzug f�hrt Bettelei im lahmen Schneckenschritt.
+Sei denn mein Fl�gel, feur'ge Schnelligkeit,
+Zum K�nigsherold und Merkur bereit!
+Geh, mustre Volk: mein Schild ist jetzt mein Rat;
+Verr�tertrotz im Felde ruft zur Tat.
+
+(Beide ab.)
+
+
+
+VIERTE SZENE
+
+
+Vor dem Palast.
+
+(K�nigin Margaretha tritt auf.)
+
+
+Margaretha.
+So, jetzo wird der Wohlstand �berreif
+Und f�llt in den verfaulten Schlund des Todes.
+Hier in der N�he hab ich schlau gelauscht,
+Um meiner Feinde Schwinden abzuwarten.
+Von einem grausen Vorspiel war ich Zeugin
+Und will nach Frankreich, hoffend, der Erfolg
+Werd' auch so bitter, schwarz und tragisch sein.
+Ungl�ckliche Margretha, fort!  Wer kommt?
+
+(K�nigin Elisabeth und die Herzogin von York treten auf.)
+
+Elisabeth.
+Ach, arme Prinzen!  meine zarten Knaben!
+Unaufgebl�hte Knospen!  s��e Keime!
+Fliegt eure holde Seel' in L�ften noch,
+Und h�lt sie nicht ein Spruch auf ewig fest,
+So schwebet um mich mit den luft'gen Fl�geln
+Und h�rt die Wehklag' eurer Mutter an!
+
+Margaretha.
+Schwebt um sie, sagt, da� Recht um Recht gehandelt
+Der Kindheit Fr�h' in alte Nacht euch wandelt.
+
+Herzogin.
+So manches Elend brach die Stimme mir,
+Die jammerm�de Zung' ist still und stumm.
+Eduard Plantagenet, so bist du tot?
+
+Margaretha.
+Plantagenet vergilt Plantagenet;
+Eduard um Eduard zahlt sein Totenbett.
+
+Elisabeth.
+Entziehst du dich, o Gott, so holden L�mmern
+Und schleuderst in den Rachen sie dem Wolf?
+Wann schliefst du sonst bei solchen Taten schon.
+
+Margaretha.
+Als Heinrich starb, der Heil'ge, und mein Sohn.
+
+Herzogin.
+Erstorbnes Leben!  blindes Augenlicht!
+Du armes irdisch-lebendes Gespenst!
+Des Wehes Schauplatz, Schande dieser Welt!
+Des Grabs Geb�hr, vom Leben vorenthalten!
+Auszug und Denkschrift l�stig langer Tage!
+La� deine Unruh' ruhn auf Engellands
+Rechtm��'ger Erde, die so unrechtm��ig
+Berauschst worden von unschuld'gem Blut.
+
+(Setzt sich nieder.)
+
+Elisabeth.
+Ach, wolltest du ein Grab so bald gew�hren,
+Als einen schwermutsvollen Sitz du beutst:
+Dann b�rg ich mein Gebein hier, ruht' es nicht.
+Ach, wer hat Grund zu trauern, au�er uns?
+
+(Setzt sich zu ihr.)
+
+Margaretha.
+Wenn alter Gram um so ehrw�rd'ger ist,
+Gesteht der Jahre Vorrang meinem zu,
+Und w�lke sich mein Kummer obenan.
+
+(Setzt sich neben sie.)
+
+Und wenn der Gram Gesellschaft dulden mag,
+Z�hlt eure Leiden nach, auf meine schauend.
+Mein war ein Eduard, doch ein Richard schlug ihn;
+Mein war ein Gatte4s, doch ein Richard schlug ihn;
+Dein war ein Eduard, doch ein Richard schlug ihn;
+Dein war ein Richard, doch ein Richard schlug ihn.
+
+Herzogin.
+Mein war ein Richard auch, und du erschlugst ihn;
+Mein war ein Rutland auch, du halfst ihn schlagen.
+
+Margaretha.
+Dein war ein Clarence auch, und Richard schlug ihn.
+Aus deines Scho�es H�hle kroch hervor
+Ein H�llenhund, der all uns hetzt zu Tod.
+Den Hund, der eh' als Augen Z�hne hatte,
+Gebi�ner L�mmer frommes Blut zu lecken;
+Der Gotteswerke sch�ndlichen Verderber;
+Den trefflich gro�en W�terich der Erde,
+In wunden Augen armer Seelen herrschend,
+Lie� los dein Scho�, um uns ins Grab zu jagen.
+O redlich ordnender, gerechter Gott!
+Wie dank ich dir, da� dieser Metzgerhund
+In seiner Mutter Leibesfr�chten schwelgt
+Und macht sie zur Gesellin fremder Klagen.
+
+Herzogin.
+O juble, Heinrichs Weib, nicht um mein Weh!
+Gott zeuge mir, da� ich um deins geweint.
+
+Margaretha.
+Ertrage mich: ich bin nach Rache hungrig
+Und s�tt'ge nun an ihrem Anblick mich.
+Tot ist dein Eduard, M�rder meines Eduards;
+Dein andrer Eduard tot f�r meinen Eduard;
+Der junge York war Zutat: beid' erreichten
+Nicht meines Eingeb��ten hohen Preis.
+Tot ist dein Clarence, Meuchler meines Eduards,
+Und die Zuschauer dieses Trauerspiels,
+Der falsche Hastings, Rivers, Vaughan, Grey,
+Sind vor der Zeit versenkt ins dumpfe Grab.
+Richard nur lebt, der H�lle schwarzer Sp�rer,
+Als M�kler aufbewahrt, der Seelen kauft
+Und hin sie sendet: aber bald, ja bald
+Erfolgt sein kl�glich, unbeklagtes Ende.
+Die Erde g�hnt, die H�lle brennt,
+Die Teufel br�llen, Heil'ge beten,
+Auf da� er schleunig werde weggerafft.
+Vernichte, lieber Gott, ich fleh dich an,
+Den Pfandschein seines Lebens, da� ich noch
+Dies Wort erleben mag: der Hund ist tot!
+
+Elisabeth.
+Oh, du hast prophezeit, es k�m' die Zeit,
+Wo ich herbei dich w�nscht', um mitzufluchen
+Der bauch'gen Spinne, dem geschwollnen Molch.
+
+Margaretha.
+Da nannt' ich dich ein Scheinbild meines Gl�cks,
+Da nannt' ich dich gemalte K�nigin;
+Die Vorstellung nur dessen, was ich war;
+Ein schmeichelnd Inhaltsblatt zu grausem Schauspiel;
+So hoch erhoben, tief gest�rzt zu werden;
+Zwei holder Knaben blo� ge�ffte Mutter;
+Ein Traum des, was du warst; ein bunt Panier,
+Zum Ziel gestellt f�r jeden droh'nden Schu�;
+Ein Schild der W�rde, eine Blas', ein Hauch,
+K�n'gin zum Spa�, die B�hne nur zu f�llen.
+Wo ist dein Gatte nun?  wo deine Br�der?
+Wo deine beiden S�hne?  Was noch freut dich?
+Wer kniet und sagt nun: Heil der K�nigin?
+Wo sind die Pairs, die schmeichelnd sich dir b�ckten?
+Wo die gedr�ngten Haufen, die dir folgten?
+Geh all dies durch, und sieh, was bist du jetzt.
+Statt gl�cklich Eh'weib, h�chst bedr�ngte Witwe;
+Statt frohe Mutter, jammernd bei dem Namen;
+Statt angefleht, dem�tig Flehende;
+Statt K�nigin, mit Not gekr�nte Sklavin;
+Statt da� du mich verh�hnt, verh�hnt von mir;
+Statt allgef�rchtet, einen f�rchtend nun;
+Statt allgebietend, nun gehorcht von keinem.
+So bat des Rechtes Lauf sich umgew�lzt
+Und dich der Zeit zum rechten Raub gelassen;
+Nur der Gedanke blieb dir, was du warst,
+Auf da� dich's mehr noch foltre, was du bist.
+Du ma�test meinen Platz dir an: und f�llt
+Nicht meiner Leiden richtig Ma� dir zu?
+Halb tr�gt dein stolzer Nacken nun mein Joch,
+Und hier entzieh ich ihm das m�de Haupt
+Und lasse dessen B�rde ganz auf dir.
+Leb wohl, Yorks Weib, des Ungl�cks K�nigin!
+In Frankreich labt mir Englisch Weh den Sinn.
+
+Elisabeth.
+O  du in Fl�chen wohl Erfahrne, weile
+Und lehre mich, zu fluchen meinen Feinden!
+
+Margaretha.
+Versag dir nachts den Schlaf, und faste tags;
+Vergleiche totes Gl�ck lebend'gem Weh;
+Denk deine Knaben holder, als sie waren,
+Und schn�der, als er ist, den, der sie schlug:
+Mit dem Verlust mu� sich der Abscheu mehren;
+Dies �berdenken, wird dich fluchen lehren.
+
+Elisabeth.
+O  sch�rfe meine stumpfen Wort' an deinen!
+
+Margaretha.
+Dein Weh wird scharf sie machen, gleich den meinen.
+
+(Ab.)
+
+Herzogin.
+Warum doch ist Bedr�ngnis reich an Worten?
+
+Elisabeth.
+Wind'ge Sachwalter ihrer Leidparteien!
+Luft'ge Beerber unbewillter Freuden!
+Des Elends arme hingehauchte Redner!
+G�nnt ihnen Raum: obschon, was sie gewu�t,
+Auch sonst nicht hilft, doch lindert es die Brust.
+
+Herzogin.
+Ist das, so binde deine Zunge nicht:
+Geh mit mir, und im Hauche bittrer Worte
+Sei mein verdammter Sohn von uns erstickt,
+Der deine beiden s��en S�hn' erstickte.
+
+(Trommeln hinter der Szene.)
+
+Ich h�re Trommeln; spar nicht dein Geschrei.
+
+(Richard mit seinem Zuge, auf dem Marsch.)
+
+Richard.
+Wer h�lt in meinem Zuge hier mich auf?
+
+Herzogin.
+O  sie, die dich m�cht aufgehalten haben,
+In ihrem fluchbeladnen Scho� dich w�rgend,
+Eh' du, Elender, all den Mord ver�bt.
+
+Elisabeth.
+Birgst du die Stirn mit einer goldnen Krone,
+Wo, g�b's ein Recht, gebrandmarkt sollte stehn
+Der Mord des Prinzen, des die Krone war,
+Und meiner S�hn' und Br�der grauser Tod?
+Du b�b'scher Knecht, sag, wo sind meine Kinder?
+
+Herzogin.
+Du Molch, du Molch, wo ist dein Bruder Clarence
+Und Ned Plantagenet, sein kleiner Sohn?
+
+Elisabeth.
+Wo ist der wackre Rivers, Vaughan, Grey?
+
+Herzogin.
+Wo ist der gute Hastings?
+
+Richard.
+Ein Tusch, Trompeten!  Trommeln, schlaget L�rm!
+Der Himmel h�re nicht die Schnischnackweiber
+Des Herrn Gesalbten l�stern: schlagt, sag ich!
+
+(Tusch.  L�rmtrommeln.)
+
+Geduldig seid und gebt mir gute Worte,
+Sonst in des Krieges l�rmendem Get�se
+Ers�uf ich eure Ausrufungen so.
+
+Herzogin.
+Bist du mein Sohn?
+
+Richard.
+Ja, Gott gedankt sei's, Euch und meinem Vater.
+
+Herzogin.
+So h�r geduldig meine Ungeduld.
+
+Richard.
+Ich habe eine Spur von Eurer Art, Frau Mutter,
+Die nicht den Ton des Vorwurfs dulden kann.
+
+Herzogin.
+O  la� mich reden!
+
+Richard.
+Tut's, doch h�r ich nicht.
+
+Herzogin.
+Ich will in meinen Worten milde sein.
+
+Richard.
+Und, gute Mutter, kurz!  Denn ich hab Eil'.
+
+Herzogin.
+Bist du so eilig?  Ich hab dein gewartet,
+Gott wei�, in Marter und in Todesangst.
+
+Richard.
+Doch kam ich endlich nicht zu Eurem Trost?
+
+Herzogin.
+Nein, bei dem heil'gen Kreuz!  Zur Welt gebracht,
+Hast du die Welt zur H�lle mir gemacht.
+Eine schwere B�rde war mir die Geburt;
+Launisch und eigensinnig deine Kindheit;
+Die Schulzeit schreckhaft, heillos, wild und w�tig;
+Dein Jugendlenz verwegen, dreist und tollk�hn;
+Dein reifres Alter stolz, fein, schlau und blutig,
+Zwar milder, aber schlimmer, sanft im Ha�.
+Welch eine frohe Stunde kannst du nennen,
+Die je in deinem Beisein mich begnadigt?
+
+Richard.
+Find ich so wenig Gnad' in Euren Augen,
+So la�t mich weiterziehn und Euch nicht �rgern.--
+Trommel ger�hrt!
+
+Herzogin.
+Ich bitt dich, h�r mich reden.
+
+Richard.
+Ihr redet allzu bitter.
+
+Herzogin.
+H�r ein Wort,
+Denn niemals wieder werd ich mit dir reden.
+
+Richard.
+Wohl!
+
+Herzogin.
+Du stirbst entweder durch des Himmels F�gung,
+Eh' du aus diesem Krieg als Sieger kommst;
+Oder ich vergeh vor Gram und hohem Alter,
+Und niemals werd ich mehr dein Antlitz sehn.
+Drum nimm mit dir den allerschwersten Fluch,
+Der mehr am Tag der Schlacht dich m�g' erm�den
+Als all die volle R�stung, die du tr�gst!
+F�r deine Gegner streitet mein Gebet,
+Und dann der Kinder Eduards kleine Seelen,
+Sie fl�stern deiner Feinde Geistern zu
+Und angeloben ihnen Heil und Sieg.
+Blutig, das bist du; blutig wirst du enden:
+Wie du dein Leben, wird dein Tod dich sch�nden.  (Ab.)
+
+Elisabeth.
+Zwar weit mehr Grund zum Fluchen wohnt mir bei,
+Doch minder Mut: drum sag ich Amen nur.
+
+(Will gehen.)
+
+Richard.
+Bleibt, gn�d'ge Frau: ich mu� ein Wort Euch sagen.
+
+Elisabeth.
+Nicht mehr der S�hn' aus k�niglichem Blut
+F�r dich zum Morden, Richard, hab ich ja.
+Und meine T�chter, nun, die sollen beten
+Als Nonnen, nicht als K�niginnen weinen:
+Und also steh nach ihrem Leben nicht.
+
+Richard.
+Ein' Eurer T�chter hei�t Elisabeth,
+Ist tugendsam und sch�n, f�rstlich und fromm.
+
+Elisabeth.
+Und bringt ihr das den Tod?  O  la� sie leben,
+Und ihre Sitten will ich selbst verderben,
+Beflecken ihre Sch�nheit, mich verleumden,
+Als w�r' ich treulos Eduards Bett gewesen,
+Der Schande Schleier werfen �ber sie:
+So sie den blut'gen Streichen nur entrinnt,
+Bekenn ich gern, sie sei nicht Eduards Kind.
+
+Richard.
+Ehrt ihre Abkunft, sie ist k�niglich.
+
+Elisabeth.
+Ich leugn' es ab, das Leben ihr zu sichern.
+
+Richard.
+Ihr Leben sichert die Geburt zumeist.
+
+Elisabeth.
+Dadurch gesichert starben ihre Br�der.
+
+Richard.
+Weil gute Sterne der Geburt gemangelt.
+
+Elisabeth.
+Nein, weil ihr Leben �ble Freunde hatte.
+
+Richard.
+Nicht umzukehren ist des Schicksals Spruch.
+
+Elisabeth.
+Ja, wenn verkehrter Sinn das Schicksal macht.
+Den Kindern war ein sch�nrer Tod beschieden,
+H�ttst du ein sch�nres Leben dir erkoren.
+
+Richard.
+Ihr sprecht, als h�tt' ich meine Vetter umgebracht.
+
+Elisabeth.
+Wohl umgebracht!  Du brachtest sie um alles:
+Um Freude, Reich, Verwandte, Freiheit, Leben.
+Wes Hand die zarten Herzen auch durchbohrt,
+Dein Kopf, mit krummen Wegen, gab die Richtung;
+Stumpf war gewi� das m�rderische Messer,
+Bis es, gewetzt an deinem harten Herzen,
+In meiner L�mmer Eingeweiden w�hlte.
+Den wilden Gram macht die Gewohnheit zahm,
+Sonst nennte meine Zunge deinen Ohren
+Nicht meine Knaben eh', als meine N�gel
+In deinen Augen schon geankert h�tten,
+Und ich, in so heilloser Todesbucht,
+Gleichwie ein Boot, beraubt der Tau' und Segel,
+Zerscheitert w�r' an deiner Felsenbrust.
+
+Richard.
+So gl�ck' es mir bei meinem Unternehmen
+Und blut'gen Kriegs gef�hrlichem Erfolg,
+Als ich mehr Guts gedenk Euch und den Euren,
+Als ich je Leids Euch und den Euren tat.
+
+Elisabeth.
+Welch Gut, bedeckt vom Angesicht des Himmels,
+Ist zu entdecken, das mir Gutes schaffte?
+
+Richard.
+Erhebung Eurer Kinder, werte Frau.
+
+Elisabeth.
+Zum Blutger�st, ihr Haupt da zu verlieren.
+
+Richard.
+Nein, zu der H�h' und W�rdigkeit des Gl�cks,
+Dem hehren Vorbild ird'scher Herrlichkeit.
+
+Elisabeth.
+Schmeichle mein Leid mit dem Bericht davon.
+Sag, welchen Gl�ckstand, welche W�rd' und Ehre
+Kannst du auf eins von meinen Kindern bringen?
+
+Richard.
+Was ich nur habe; ja, mich selbst und alles
+Will ich an deiner Kinder eins verschenken,
+So du im Lethe deines zorn'gen Muts
+Die tr�b' Erinnrung dessen willst ertr�nken,
+Was, wie du meinst, ich dir zu nah getan.
+
+Elisabeth.
+Sei kurz, der Antrag deiner Freundschaft m�chte
+Sonst l�nger dauern als die Freundschaft
+selbst.
+
+Richard.
+So wiss', von Herzen lieb ich deine Tochter.
+
+Elisabeth.
+Im Herzen denkt es meiner Mutter Tochter.
+
+Richard.
+Was denket Ihr?
+
+Elisabeth.
+Da� du vom Herzen meine Tochter liebst.
+So liebtest du vom Herzen ihre Br�der,
+Und ich, vom Herzen, danke dir daf�r.
+
+Richard.
+Verwirret meine Meinung nicht so rasch.
+Ich meine, herzlich lieb ich deine Tochter
+Und mache sie zur K�nigin von England.
+
+Elisabeth.
+Wohl, doch wer meinst du, soll ihr K�nig sein?
+
+Richard.
+Nun, der zur K�nigin sie macht.  Wer sonst?
+
+Elisabeth.
+Wie?  du?
+
+Richard.
+Ich, eben ich: was d�nkt Euch, gn�d'ge Frau?
+
+Elisabeth.
+Wie kannst du um sie frein?
+
+Richard.
+Das m�cht ich lernen
+Von Euch, die ihren Sinn am besten kennt.
+
+Elisabeth.
+Und willst du's von mir lernen?
+
+Richard.
+Herzlich gern.
+
+Elisabeth.
+Schick durch den Mann, der ihre Br�der schlug,
+Ihr ein paar blut'ge Herzen; grabe drein:
+Eduard und York; dann wird sie etwa weinen,
+Drum biet ihr (wie Margretha deinem Vater
+Weiland getan, getaucht in Rutlands Blut)
+Ein Schnupftuch, das den Purpursaft, so sag ihr,
+Aus ihrer s��en Br�der Leibe sog,
+Und hei�' damit ihr weinend Aug' sie trocknen.
+R�hrt diese Lockung nicht zur Liebe sie,
+Send einen Brief von deinen edlen Taten:
+Sag ihr, du r�umtest ihren Oheim Clarence
+Und Rivers weg; ja, halfest ihrethalb
+Der guten Tante Anna schleunig fort.
+
+Richard.
+Ihr spottet, gn�d'ge Frau: sie zu gewinnen
+Ist das der Weg nicht.
+
+Elisabeth.
+Keinen andern gibt's,
+Kannst du dich nicht in andre Bildung kleiden
+Und nicht der Richard sein, der all dies tat.
+
+Richard.
+Setzt, da� ich's nur aus Liebe zu ihr tat.
+
+Elisabeth.
+Ja, dann f�rwahr mu� sie durchaus dich hassen,
+Der Lieb' erkauft um solchen blut'gen Raub.
+
+Richard.
+Seht, was geschehn, steht jetzo nicht zu �ndern.
+Der Mensch geht manchmal unbedacht zu Werk,
+Was ihm die Folge Zeit l��t zu bereun.
+Nahm Euren S�hnen ich das K�nigreich,
+So geb ich's zum Ersatz nun Eurer Tochter.
+Bracht' ich die Fr�chte Eures Scho�es um,
+Um Eu'r Geschlecht zu mehren, will ich mir
+Aus Eurem Blute Leibeserben zeugen.
+Gro�mutter hei�en ist kaum minder lieb
+Als einer Mutter innig s��er Name.
+Sie sind wie Kinder, nur eine Stufe tiefer,
+Von Eurer Kraft, von Eurem echten Blut,
+Ganz gleicher M�h' bis auf eine Nacht des St�hnens,
+Von der geduldet, f�r die Ihr sie littet.
+Plag' Eurer Jugend waren Eure Kinder,
+Trost Eures Alters sollen meine sein.
+Was Ihr verlort, war nur ein Sohn als K�nig,
+Daf�r wird Eure Tochter K�nigin.
+Ich kann nicht, wie ich wollt', Ersatz Euch schaffen,
+Drum nehmt, was ich in G�te bieten kann.
+Dorset, Eu'r Sohn, der mi�vergn�gte Schritte
+Mit banger Seel' auf fremdem Boden lenkt,
+Wird durch dies holde B�ndnis schleunig heim
+Zu gro�er W�rd' und hoher Gunst gerufen.
+Der K�nig, der die sch�ne Tochter Gattin nennt,
+Wird traulich deinen Dorset Bruder nennen.
+Ihr werdet wieder Mutter eines K�nigs,
+Und alle Sch�den drangsalvoller Zeiten
+Zwiefach ersetzt mit Sch�tzen neuer Lust.
+Ei, wir erleben noch viel wackre Tage!
+Die hellen Tr�nentropfen kommen wieder,
+Die ihr vergo�t, in Perlen umgewandelt,
+Das Darlehn Euch verg�tend, mit den Zinsen
+Von zehnfach doppeltem Gewinn des Gl�cks.
+Geh, meine Mutter, geh zu deiner Tochter:
+Erfahrung mach' ihr sch�chtern Alter dreist;
+Bereit ihr Ohr auf eines Freiers Lied;
+Leg in ihr zartes Herz die k�hne Flamme
+Der goldnen Hoheit; lehre die Prinzessin
+Der Ehefreuden s�� verschwiegne Stunden:
+Und wenn der Arm hier jenen Zwergrebellen,
+Den ungehirnten Buckingham gez�chtigt,
+Dann komm ich prangend im Triumpheskranz
+Und f�hr ins Bett des Siegers deine Tochter;
+Ihr liefr' ich die Erobrung wieder ab,
+Und sie sei einzig Sieg'rin, C�sars C�sar.
+
+Elisabeth.
+Wie soll ich sagen?  Ihres Vaters Bruder
+Will ihr Gemahl sein?  Oder sag ich, Oheim?
+Oder, der Oheim' ihr erschlug und Br�der?
+Auf welchen Namen w�rb' ich wohl f�r dich,
+Den Gott, Gesetz, meine Ehr' und ihre Liebe
+Den zarten Jahren lie�' gef�llig sein?
+
+Richard.
+Zeig Englands Frieden ihr in diesem B�ndnis.
+
+Elisabeth.
+Den sie erkaufen wird mit stetem Krieg.
+
+Richard.
+Sag ihr, der K�nig, sonst gebietend, bitte.
+
+Elisabeth.
+Das von ihr, was der K�n'ge Herr verbeut.
+
+Richard.
+Sag, sie werd' eine m�cht'ge K�nigin.
+
+Elisabeth.
+Den Titel zu bejammern, sowie ich.
+
+Richard.
+Sag, immerw�hrend lieben woll' ich sie.
+
+Elisabeth.
+Wie lang wird wohl dies W�rtchen immer w�hren?
+
+Richard.
+Bis an das Ende ihres holden Lebens.
+
+Elisabeth.
+Wie lang wird wohl dies s��e Leben w�hren?
+
+Richard.
+So lang Natur und Himmel es verl�ngt.
+
+Elisabeth.
+So lang's die H�ll' und Richard leiden mag.
+
+Richard.
+Sag, ich, ihr Herrscher, sei ihr Untertan.
+
+Elisabeth.
+Zwar Untertanin, ha�t sie solche Herrschaft.
+
+Richard.
+Zu meinem Besten sei beredt bei ihr.
+
+Elisabeth.
+Ein redlich Wort macht Eindruck, schlicht gesagt.
+
+Richard.
+So sag ihr meine Lieb' in schlichten Worten.
+
+Elisabeth.
+Schlicht und nicht redlich lautet allzu rauh.
+
+Richard.
+Zu seicht und lebhaft sind mir Eure Gr�nde.
+
+Elisabeth.
+Nein, meine Gr�nde sind zu tief und tot;
+Zu tief und tot im Grab die armen Kinder.
+
+Richard.
+R�hrt nicht die Saite mehr: das ist vorbei.
+
+Elisabeth.
+Ich will sie r�hren, bis das Herz mir springt.
+
+Richard.
+Bei meinem George, dem Knieband und der Krone-�
+
+Elisabeth.
+Entweiht, entehrt, die dritte angema�t!
+
+Richard.
+Schw�r ich--
+
+Elisabeth.
+Bei nichts; denn dieses ist kein Schwur.
+Der George, entehrt, verlor die heil'ge Ehre;
+Befleckt, das Knieband seine Rittertugend;
+Geraubt, die Krone ihren F�rstenglanz.
+Willst du was schw�ren, das man glauben mag,
+So schw�r bei etwas, das du nicht gekr�nkt.
+
+Richard.
+Nun, bei der Welt--
+
+Elisabeth.
+Voll deines schn�den Unrechts.
+
+Richard.
+Bei meines Vaters Tod--
+
+Elisabeth.
+Dein Leben schm�ht ihn.
+
+Richard.
+Dann bei mir selbst--
+
+Elisabeth.
+Dein Selbst ist selbstgesch�ndet.
+
+Richard.
+Beim Himmel--
+
+Elisabeth.
+Gottes Kr�nkung ist die �rgste.
+H�ttst du gescheut, den Schwur bei ihm zu brechen,
+Die Einigkeit, die mein Gemahl gestiftet,
+W�r' nicht zerst�rt, mein Bruder nicht erschlagen.
+H�ttst du gescheut, den Schwur bei ihm zu brechen,
+Dies hehre Gold, umzirkelnd nun dein Haupt,
+Es zierte meines Kindes zarte Schl�fen
+Und beide Prinzen w�ren atmend hier,
+Die nun, im Staub zwei zarte Bettgenossen,
+Dein treulos Tun zum Raub der W�rmer machte.
+Wobei nun kannst du schw�ren?
+
+Richard.
+Bei der k�nft'gen Zeit.
+
+Elisabeth.
+Die kr�nktest du in der Vergangenheit.
+Mit Tr�nen mu� ich selbst die Zukunft waschen,
+F�r die Vergangenheit, gekr�nkt durch dich.
+Die Kinder, deren Eltern du ermordet,
+In unberatner Jugend leben sie
+Und m�ssen es bejammern noch im Alter.
+Die Eltern, deren Kinder du geschlachtet,
+Als unfruchtbare Pflanzen leben sie
+Und m�ssen es bejammern schon im Alter.
+Schw�r bei der Zukunft nicht, so mi�verwandelt
+Durch die vergangne Zeit, die du mi�handelt.
+
+Richard.
+So wahr ich sinn auf Wohlfahrt und auf Reu'!
+So geh's mir wohl im mi�lichen Versuch
+Feindsel'ger Waffen!  Schlag ich selbst mich selbst!
+Himmel und Gl�ck entzieh' mir frohe Stunden!
+Tag, weigre mir dein Licht!  Nacht, deine Ruh'!
+Sei'n alle Gl�cksplaneten meinem Tun
+Zuwider!  wo ich nicht mit Herzensliebe,
+Mit makelloser Andacht, heil'gem Sinn
+Um deine sch�n' und edle Tochter werbe!
+Auf ihr beruht mein Gl�ck und deines auch:
+Denn ohne sie erfolgt f�r mich und dich,
+Sie selbst, das Land und viele Christenseelen
+Tod und Verw�stung, Fall und Untergang.
+Es steht nicht zu vermeiden, als durch dies;
+Es wird auch nicht vermieden, als durch dies.
+Drum, liebe Mutter (so mu� ich Euch nennen),
+Seid meiner Liebe Anwalt: stellt ihr vor
+Das, was ich sein will, nicht, was ich gewesen;
+Nicht mein Verdienst, nein, was ich will verdienen;
+Dringt auf die Notdurft und den Stand der Zeiten,
+Und seid nicht launenhaft in gro�en Sachen.
+
+Elisabeth.
+Soll ich vom Teufel so mich locken lassen?
+
+Richard.
+Ja, wenn der Teufel dich zum Guten lockt.
+
+Elisabeth.
+Soll ich denn selbst vergessen meiner selbst?
+
+Richard.
+Wenn Eurer selbst gedenken selbst Euch schadet.
+
+Elisabeth.
+Du brachtest meine Kinder um.
+
+Richard.
+In Eurer Tochter Scho� begrab ich sie;
+Da, in dem Nest der W�rz', erzeugen sie
+Sich selber neu, zu Eurer Wiedertr�stung.
+
+Elisabeth.
+Soll ich die Tochter zu gewinnen gehn?
+
+Richard.
+Und seid begl�ckte Mutter durch die Tat.
+
+Elisabeth.
+Ich gehe; schreibt mir allern�chstens,
+Und Ihr vernehmt von mir, wie sie gesinnt.
+
+Richard.
+Bringt meinen Liebesku� ihr, und lebt wohl.
+
+(K��t sie.  Elisabeth ab.)
+
+Nachgieb'ge T�rin!  wankelm�tig Weib!
+Nun?  was gibt's Neues?
+
+(Ratcliff tritt auf, und Catesby folgt ihm.)
+
+Ratcliff.
+Gewalt'ger F�rst, im Westen l�ngs der K�ste
+Wogt eine m�cht'ge Flotte; hin zum Strand
+Dr�ngt sich ein Haufe hohlgeherzter Freunde,
+Wehrlos und ohn' Entschlu�, sie wegzutreiben.
+Man meinet, Richmond sei ihr Admiral.
+Sie liegen da, die Hilfe Buckinghams
+Erwartend nur, am Strand sie zu empfangen.
+
+Richard.
+Ein flinker Freund soll hin zum Herzog Norfolk:
+Du, Ratcliff; oder Catesby: wo ist er?
+
+Catesby.
+Hier, bester Herr.
+
+Richard.
+Catesby, flieg hin zum Herzog.
+
+Catesby.
+Das will ich, Herr, mit aller n�t'gen Eil'.
+
+Richard.
+Ratcliff, komm her.  Reit hin nach Salisbury:
+Wenn du dahin kommst--
+(Zu Catesby.)  Unachtsamer Schurke,
+Was s�umst du hier, und gehst nicht hin zum Herzog?
+
+Catesby.
+Erst, hoher Herr, erkl�rt die gn�d'ge Meinung,
+Was ich von Euer Hoheit ihm soll melden.
+
+Richard.
+Wahr, guter Catesby!  Gleich aufbringen soll er
+Die gr��te Macht und Mannschaft, die er kann,
+Und treffe mich alsbald zu Salisbury.
+
+Catesby.
+Ich gehe.  (Ab.)
+
+Ratcliff.
+Was soll ich, wenn's beliebt, zu Salisbury?
+
+Richard.
+Ei, was hast du zu tun da, eh' ich komme?
+
+Ratcliff.
+Eu'r Hoheit sagte mir, vorauszureiten.
+
+(Stanley tritt auf.)
+
+Richard.
+Ich bin itzt andern Sinns.--Stanley, was bringst
+du Neues?
+
+Stanley.
+Nichts Gutes, Herr, da� Ihr es gerne h�rtet,
+Noch auch so schlimm, da� man's nicht melden d�rfte.
+
+Richard.
+Heida, ein R�tsel!  weder gut noch schlimm!
+Was brauchst du so viel Meilen umzugehn,
+Statt grades Weges deinen Spruch zu sprechen?
+Nochmal, was gibt's?
+
+Stanley.
+Richmond ist auf der See.
+
+Richard.
+Vers�nk' er da, und w�r' die See auf ihm!
+Landl�ufer ohne Herz, was tut er da?
+
+Stanley.
+Ich wei� nicht, m�cht'ger F�rst, und kann nur raten.
+
+Richard.
+Nun, und Ihr ratet?
+
+Stanley.
+Gereizt von Dorset, Buckingham und Morton,
+Kommt er nach England und begehrt die Krone.
+
+Richard.
+Ist der Stuhl ledig?  ungef�hrt das Schwert?
+Ist tot der K�nig?  herrenlos das Reich?
+Sind Erben Yorks am Leben, au�er mir?
+Und wer ist Englands K�nig, als Yorks Erbe?
+Drum sage mir, was tut er auf der See?
+
+Stanley.
+Es sei denn dazu, Herr, kann ich's nicht raten.
+
+Richard.
+Es sei denn, da� er komm', Eu'r F�rst zu sein,
+K�nnt Ihr nicht raten, was der W�l'sche will!
+Ich f�rcht, Ihr fallt mir ab und flieht zu ihm.
+
+Stanley.
+Nein, m�cht'ger F�rst; mi�traut mir also nicht.
+
+Richard.
+Wo ist dein Volk denn, ihn zur�ckzuschlagen?
+Wo hast du deine Leut' und Lehnsvasallen?
+Sind sie nicht an der K�st' im Westen jetzt,
+Geleit zum Landen den Rebellen gehend?
+
+Stanley.
+Nein, meine Freunde sind im Norden, bester Herr.
+
+Richard.
+Mir kalte Freunde: was tun die im Norden,
+Da sie ihr F�rst zum Dienst im Westen braucht?
+
+Stanley.
+Sie waren nicht befehligt, gro�er K�nig.
+Geruht Eu'r Majest�t mich zu entlassen,
+So mustr' ich meine Freund' und treff Eu'r Gnaden,
+Wo es und wann Eu'r Majest�t beliebt.
+
+Richard.
+Ja, ja, du m�chtest gern zu Richmond sto�en:
+Ich will Euch, Herr, nicht traun.
+
+Stanley.
+Gewalt'ger F�rst,
+Ihr habt an meiner Freundschaft nicht zu zweifeln;
+Ich war und werde nimmer treulos sein.
+
+Richard.
+Geht denn, mustert Volk.  Doch, h�rt Ihr, la�t zur�ck
+George Stanley, Euren Sohn; und wankt Eu'r Herz,
+Gebt acht, so steht sein Kopf nicht allzu fest.
+
+Stanley.
+Verfahrt mit ihm, wie ich mich treu bew�hre.
+
+(Stanley ab.  Ein Bote tritt auf.)
+
+Bote.
+Mein gn�d'ger F�rst, es sind in Devonshire,
+Wie ich von Freunden wohl berichtet bin,
+Sir Eduard Courtney und der stolze Kirchherr,
+Bischof von Exeter, sein �ltrer Bruder,
+Samt vielen Mitverb�ndeten in Waffen.
+
+(Ein andrer Bote tritt auf.)
+
+Zweiter Bote.
+Mein F�rst, in Kent die Guilfords sind in Waffen,
+Und jede Stunde str�men den Rebellen
+Mitwerber zu, und ihre Macht wird stark.
+(Noch ein andrer Bote tritt auf.)
+
+Dritter Bote.
+Mein F�rst, das Heer des gro�en Buckingham--
+
+Richard.
+Fort mit euch Uhus!  Nichts als Todeslieder?
+
+(Er schl�gt den Boten.)
+
+Da, nimm das, bis du be�re Zeitung bringst.
+
+Dritter Bote.
+Was ich Eu'r Majest�t zu melden habe,
+Ist, da� durch j�he Flut und Wolkenbr�che
+Buckinghams Heer zerstreut ist und versprengt
+Und da� er selbst allein sich fortgemacht;
+Wohin, wei� niemand.
+
+Richard.
+Oh, ich bitt, entschuldigt!
+Da ist mein Beutel, um den Schlag zu heilen.
+Lie� nicht ein wohlberatner Freund Belohnung
+Ausrufen dem, der den Verr�ter greift?
+
+Dritter Bote.
+Ein solcher Ausruf ist geschehn, mein F�rst.
+
+(Ein vierter Bote tritt auf.)
+
+Vierter Bote.
+Sie Thomas Lovel und der Marquis Dorset
+Sind, Herr, wie's hei�t, in Yorkshire in den Waffen.
+Doch diesen guten Trost bring ich Eu'r Hoheit:
+Vom Sturm zerstreut ist die Bretagner Flotte;
+Richmond sandt' an die K�st' in Dorsetshire
+Ein Boot aus, die am Ufer zu befragen,
+Ob sie mit ihm es hielten oder nicht.
+Sie k�men, sagten sie, vom Buckingham
+Zu seinem Beistand; doch er traute nicht,
+Zog Segel auf, und steur'te nach Bretagne.
+
+Richard.
+Ins Feld!  ins Feld!  weil wir in Waffen sind:
+Wo nicht zu fechten mit ausw�rt'gen Feinden,
+Zu D�mpfung der Rebellen hier zu Haus.
+
+(Catesby tritt auf.)
+
+Catesby.
+Der Herzog Buckingham, Herr, ist gefangen:
+Das ist die beste Zeitung; da� Graf Richmond
+Mit gro�er Macht gelandet ist zu Milford,
+Klingt minder gut, doch will's gemeldet sein.
+
+Richard.
+Wohlauf nach Salisbury!  Indes wir schwatzen,
+K�nnt' eine Hauptschlacht schon entschieden sein.
+Trag einer Sorge, Buckingham zu schaffen
+Nach Salisbury; ihr andern zieht mit mir.
+
+(Alle ab.)
+
+
+
+F�NFTE SZENE
+
+
+Ein Zimmer in Stanleys Hause.
+
+(Stanley und Sir Christopher Urswick, ein Priester,
+treten auf.)
+
+
+Stanley.
+Sir Christopher, sagt Richmond dies von mir:
+Im Kofen des blutd�rst'gen Ebers sei
+Mein Sohn, George Stanley, eingestallt in Haft;
+Und fall ich ab, so fliegt des Knaben Kopf.
+Die Furcht h�lt meinen Beistand noch zur�ck.
+Doch sagt, wo ist der edle Richmond jetzt?
+
+Urswick.
+Zu Pembroke, oder Ha'rford-West, in Wales.
+
+Stanley.
+Wer h�lt sich zu ihm von namhaften M�nnern?
+
+Urswick.
+Sir Walter Herbert, ein ber�hmter Krieger;
+Sir Gilbert Talbot, Sir William Stanley;
+Oxford, der m�cht'ge Pembroke, Sir James Blunt,
+Und Rice ap Thomas, mit beherzter Schar,
+Und viele mehr von gro�em Ruf und Wert;
+Und hin nach London richten sie den Zug,
+Wenn sie kein Angriff hindert unterwegs.
+
+Stanley.
+Wohl, eil zu deinem Herrn: empfiehl mich ihm,
+Sag ihm, die K�nigin woll' ihre Tochter
+Elisabeth ihm herzlich gern verm�hlen.
+Die Briefe hier er�ffnen ihm das Weitre.
+Leb wohl.
+
+(Er gibt ihm Papiere.  Beide ab.)
+
+
+
+
+F�NFTER AUFZUG
+
+
+
+ERSTE SZENE
+
+
+Salisbury.  Ein offner Platz.
+
+(Der Sheriff und die Wache, mit Buckingham, der zur
+Hinrichtung gef�hrt wird.)
+
+
+Buckingham.
+Will K�nig Richard sich nicht sprechen lassen?
+
+Sheriff.
+Nein, bester Herr; drum fa�t Euch in Geduld.
+
+Buckingham.
+Hastings und Eduards Kinder, Rivers, Grey,
+Du heil'ger Heinrich und dein holder Sohn,
+Vaughan, und alle, die Ihr seid gest�rzt
+Durch heimliche, verderbte, schn�de R�nke:
+Wenn Eure finstern, mi�vergn�gten Seelen
+Die Wolken durch, die jetz'ge Stunde schaun,
+So r�cht Euch nur und spottet meines Falls!--
+Ist heut nicht Allerseelentag, ihr Leute?
+
+Sheriff.
+Ja, Mylord.
+
+Buckingham.
+Nun, Allerseelentag ist meines Leibs Gerichtstag.
+Dies ist der Tag, den w�nscht' ich �ber mich
+In K�nig Eduards Zeit, wofern ich falsch
+An seinem Weib und Kindern w�rd' erfunden;
+Auf diesen Tag w�nscht' ich mir meinen Fall,
+Durch dessen Falschheit, dem zumeist ich traute;
+ja dieser, dieser Allerseelentag
+Ist meiner armen Seele S�ndenfrist.
+Der hoh' Allsehende, mit dem ich Spiel trieb,
+Wandt' auf mein Haupt mein heuchelndes Gebet
+Und gab im Ernst mir, was ich bat im Scherz.
+So wendet er den Schwertern b�ser Menschen
+Die eigne Spitz' auf ihrer Herren Brust.
+Schwer f�llt Margrethas Fluch auf meinen Nacken:
+"Wenn er", sprach sie, "dein Herz mit Gram zerrei�t,
+Gedenke, Margaretha war Prophetin."--
+Kommt, da� ihr mich zum Block der Schande f�hrt;
+Unrecht will Unrecht, Schuld, was ihr geb�hrt.
+
+(Sie f�hren ihn ab.)
+
+
+
+ZWEITE SZENE
+
+
+Ebne bei Tamworth.
+
+(Mit fliegenden Fahnen und klingendem Spiel treten
+auf Richmond, Oxford, Sir James Blunt, Sir Walter Herbert
+und andre, mit Truppen auf dem Marsch.)
+
+
+Richmond.
+Ihr Waffenbr�der und geliebte Freunde,
+Zermalmet unterm Joch der Tyrannei!
+So weit ins Innerste des Landes sind
+Wir fortgezogen ohne Hindernis;
+Und hier von unserm Vater Stanley kommen
+Uns Zeilen tr�stlicher Ermutigung.
+Der greulich blut'ge, r�uberische Eber,
+Der Eure Weinberg' umw�hlt, Eure Saaten,
+Eu'r warm Blut s�uft wie Sp�licht, Eure Leiber
+Ausweidet sich zum Trog: dies w�ste Schwein
+Liegt jetzt in dieses Eilands Mittelpunkt,
+Nah bei der Stadt Leicester, wie wir h�ren;
+Von Tamworth bis dahin ist nur ein Tag.
+Frisch auf, in Gottes Namen, mut'ge Freunde,
+Die Frucht best�nd'gen Friedens einzuernten
+Durch eine blut'ge Probe scharfen Kriegs.
+O xford.  Jeglich Gewissen ist wie tausend Schwerter,
+Zu fechten mit dem blut'gen B�sewicht.
+
+Herbert.
+Ganz sicher fallen seine Freund' uns zu.
+
+Blunt.
+Erbat nur Freunde, die aus Furcht es sind;
+Die werden ihn in tiefster Not verlassen.
+
+Richmond
+Dies alles mir zugunsten.  Auf, mit Gott!
+Hoffnung ist schnell und fliegt mit Schwalbenschwingen;
+Aus K�n'gen macht sie G�tter, K�n'ge aus Geringen.
+
+(Alle ab.)
+
+
+
+DRITTE SZENE
+
+
+Das Feld bei Bosworth.
+
+(K�nig Richard mit Mannschaft; Herzog von Norfolk,
+Graf von Surrey und andre.)
+
+
+Richard.
+Hier schlagt die Zelt' auf, hier im Feld bei Bosworth.--
+Mylord von Surrey, warum seht Ihr tr�be?
+
+Surrey.
+Mein Herz ist zehnmal heitrer als mein Blick.
+
+Richard.
+Mylord von Norfolk--
+
+Norfolk.
+Hier, mein gn�d'ger F�rst.
+
+Richard.
+Norfolk, hier gilt es Schl�ge?  Ha, nicht wahr?
+
+Norfolk.
+Man gibt und nimmt sie, mein gewogner Herr.
+
+Richard.
+Schlagt auf mein Zelt: hier will ich ruhn zu Nacht.
+
+(Soldaten fangen an, des K�nigs Zelt aufzuschlagen.)
+
+Doch morgen wo?  Gut, es ist alles eins.--
+Wer sp�hte der Verr�ter Anzahl aus?
+
+Norfolk.
+Sechs, sieben Tausend ist die ganze Macht.
+
+Richard.
+Ei, unser Heer verdreifacht den Belauf.
+Auch ist des K�nigs Nam' ein fester Turm,
+Woran der feindlichen Partei es fehlt.--
+Schlagt mir das Zelt auf.--Kommt, Ihr edlen Herrn,
+La�t uns der Lage Vorteil �berschaun.--
+Ruft ein'ge M�nner von bew�hrtem Rat.
+La�t Zucht uns halten und nicht l�ssig ruhn,
+Denn, Lords, auf morgen gibt's vollauf zu tun.
+
+(Richard mit den �brigen ab.)
+
+(An der andern Seite des Feldes treten auf Richmond,
+Sir William Brandon, Oxford und andre Herren.  Einige Soldaten
+schlagen Richmonds Zelt auf.)
+
+Richmond
+Die m�de Sonne ging so golden unter,
+Und nach des Feuerwagens lichter Spur
+Verhei�t sie einen sch�nen Tag auf morgen.--
+Sir William Brandon, Ihr tragt mir mein Banner.--
+Gebt mir Papier und Tinte in mein Zelt.--
+Ich will der Schlachtordnung Gestalt entwerfen,
+Jedwedem F�hrer seinen Stand begrenzen
+Und recht verteilen unsre kleine Macht.
+Mylord von Oxford--Ihr, Sir William Brandon--
+Und Ihr, Sir Walter Herbert, bleibt bei mir;--
+Der Graf von Pembroke f�hrt sein Regiment;
+Bringt, Hauptmann Blunt, ihm gute Nacht von mir,
+Und um die zweite Stunde fr�h ersucht
+Den Grafen, mich in meinem Zelt zu sprechen.
+Doch eins noch, guter Hauptmann, tut f�r mich:
+Wo hat Lord Stanley sein Quartier?  Ihr wi�t es?
+
+Blunt.
+Wenn ich mich nicht in seinen Fahnen irrte
+
+(Was ich versichert bin, da� nicht geschehn),
+
+So liegt sein Regiment eine halbe Meile
+Gen S�den von des K�nigs gro�em Heer.
+
+Richmond
+Ist's ohn' Gef�hrde m�glich, lieber Blunt,
+So findet Mittel aus, mit ihm zu sprechen,
+Und gebt von mir ihm dies h�chst n�t'ge Blatt.
+
+Blunt.
+Bei meinem Leben, Herr, ich unternehm's;
+Und somit geb' Euch Gott geruh'ge Nacht.
+
+Richmond
+Gut' Nacht, mein guter Hauptmann Blunt.
+Kommt, Herrn, La�t uns das morgende Gesch�ft beraten.
+Ins Zelt hinein, die Luft ist rauh und kalt.
+
+(Sie begeben sich in das Zelt.)
+
+(K�nig Richard geht zu seinem Zelte mit Norfolk,
+Ratcliff und Catesby.)
+
+Richard.
+Was ist die Uhr?
+
+Catesby.
+Nachtessenszeit, mein F�rst:
+Es ist neun Uhr.
+
+Richard.
+Ich will zu Nacht nicht essen.--
+Gebt mir Papier und Tinte.
+Nun, ist mein Sturmhut leichter, als er war?
+Und alle R�stung mir ins Zelt gelegt?
+
+Catesby.
+Ja, gn�d'ger Herr; �s ist alles in Bereitschaft.
+
+Richard.
+Mach, guter Norfolk, dich auf deinen Posten,
+Halt strenge Wache, w�hle sichre W�chter.
+
+Norfolk.
+Ich gehe, Herr.
+
+Richard.
+Sei mit der Lerche munter, lieber Norfolk.
+
+Norfolk.
+Verla�t Euch drauf, mein F�rst.  (Ab.)
+
+Richard.
+Ratcliff--
+
+Ratcliff.
+Mein F�rst?
+
+Richard.
+Send einen Waffenherold
+Zu Stanleys Regiment; hei� ihn sein Volk
+Vor Sonnenaufgang bringen, oder sein Sohn George
+F�llt in die blinde H�hle ew'ger Nacht.--
+F�llt einen Becher Weins; gebt mir ein Nachtlicht.--
+Sattelt den Schimmel Surrey fr�h zur Schlacht.
+Da� meine Sch�fte fest und nicht zu schwer sind.--
+Ratcliff--
+
+Ratcliff.
+Mein F�rst?
+
+Richard.
+Sahst du den melanchol'schen Lord Northumberland?
+
+Ratcliff.
+Er selbst und Thomas Graf von Surrey gingen,
+Im ersten Zwielicht eben, durch das Heer,
+Von Schar zu Schar ermunternd unsre Leute.
+
+Richard.
+Das gen�gt mir.  Gebt mir einen Becher Weins.--
+Ich habe nicht die R�stigkeit des Geistes,
+Den frischen Mut, den ich zu haben pflegte.--
+So, setzt ihn hin.--Papier und Tint' ist da?
+
+Ratcliff.
+Ja, gn�d'ger Herr.
+
+Richard.
+Hei�t meine Schildwacht munter sein; verla�t mich.
+Wenn halb die Nacht vorbei ist, kommt ins Zelt
+Und helft mich waffnen.--Verla�t mich, sag ich.
+
+(Richard zieht sich in sein Zelt zur�ck.  Ratcliff
+und Catesby ab.)
+
+(Richmonds Zelt �ffnet sieh, man sieht ihn und seine
+Offiziere usw. Stanley tritt auf.)
+
+Stanley.
+Gl�ck und Triumph bekr�ne deinen Helm!
+
+Richmond
+Was nur f�r Trost die dunkle Nacht gestattet,
+Das sei dein Teil, mein edler Pflegevater!
+Sag mir, wie geht es unsrer teuren Mutter?
+
+Stanley.
+Ich segne dich aus Vollmacht deiner Mutter,
+Die im Gebet verharrt f�r Richmonds Wohl.
+So viel hievon.--Die leisen Stunden fliehn,
+Und streifig Dunkel bricht im Osten sich.
+Kurz, denn uns so zu fassen heischt die Zeit,
+Bereite deine Schlachtordnung fr�hmorgens
+Und stelle der Entscheidung blut'ger Streiche
+Und t�dlich dr�u'nden Kriegs dein Gl�ck anheim.
+Ich, wie ich kann (ich kann nicht, wie ich wollte),
+Gewinne schlau der Zeit den Vorteil ab
+Und steh dir bei im zweifelhaften Sturm.
+Allein ich darf f�r dich nicht allzuweit gehn,
+Denn sieht man's, wird dein zarter Bruder George
+Vor seines Vaters Augen hingerichtet.
+Leb wohl!  Die Mu�e und die bange Zeit
+Bricht ab der Liebe feierliche Schw�re
+Und langen Wechsel herzlichen Gespr�chs,
+Der l�ngst getrennte Freunde sollt' erfreun.
+Gott geb' uns Mu�e zu der Liebe Br�uchen!
+Nochmals leb wohl!  Sei tapfer und begl�ckt!
+
+Richmond
+Geleitet ihn zu seinem Regiment,
+Ihr lieben Lords; ich, mit verst�rtem Sinn,
+Will unterdessen einzunicken trachten,
+Da� blei'rner Schlaf nicht morgen auf mir laste,
+Wann ich auf Siegesfl�geln steigen soll.
+Gut' Nacht, noch einmal, liebe Lords und Herrn.
+
+(Alle �brigen mit Stanley ab.)
+
+O du, f�r dessen Feldherrn ich mich achte,
+Sieh deine Scharen an mit gn�d'gem Blick!
+Reich ihrer Hand des Grimms zermalmend Eisen,
+Da� sie mit schwerem Falle niederschmettern
+Die trotz'gen Helme unsrer Widersacher!
+Mach uns zu Dienern deiner Z�chtigung,
+Auf da� wir preisen dich in deinem Sieg!
+Dir anbefehl ich meine wache Seele,
+Eh' ich der Augen Fenster schlie�e zu.
+Schlafend und wachend, schirme du mich stets.
+
+(Schl�ft ein.)
+
+(Der Geist des Prinzen Eduard, Sohnes Heinrichs
+des Sechsten, steigt zwischen den beiden Zelten auf.)
+
+Geist (zu K�nig Richard).
+Schwer m�g' ich morgen deine Seele lasten!
+Denk, wie du mich erstachst in meiner Bl�te,
+Zu Tewkesbury: verzweifle drum und stirb!--
+
+(Zu Richmond.)
+
+Sei freudig, Richmond, denn gekr�nkte Seelen
+Erw�rgter Prinzen streiten dir zum Schutz:
+Dich tr�stet, Richmond, K�nig Heinrichs Sohn.
+
+(Der Geist K�nig Heinrichs des Sechsten steigt auf.)
+
+Geist (zu K�nig Richard).
+Du bohrtest mir, da ich noch sterblich war,
+Voll Todeswunden den gesalbten Leib;
+Denk an den Turm und mich; verzweifl' und stirb!
+Heinrich der Sechste ruft: verzweifl' und stirb!
+
+(Zu Richmond.)
+
+Heilig und tugendhaft, sei Sieger du!
+Heinrich, der prophezeit, du werdest K�nig,
+Kommt, dich im Schlaf zu tr�sten: leb und bl�he!
+
+(Der Geist des Clarence steigt auf.)
+
+Geist (zu K�nig Richard).
+Schwer m�g' ich morgen deine Seele lasten!
+Ich, totgebadet einst in ekelm Wein,
+Der arme Clarence, den dein Trug verriet!
+Denk in der Schlacht an mich, und fallen la�
+Dein abgestumpftes Schwert!  Verzweifl' und stirb!
+
+(Zu Richmond.)
+
+Du Spr��ling aus dem Hause Lancaster,
+Es beten f�r dich Yorks gekr�nkte Erben.
+Dich schirm' ein guter Engel!  Leb und bl�he!
+
+(Die Geister des Rivers, Grey und Vaughan steigen auf.)
+
+Rivers (zu K�nig Richard).
+Schwer m�g' ich morgen deine Seele lasten,
+Rivers, der starb zu Pomfret!  Verzweifl' und stirb!
+
+Grey (zu K�nig Richard).
+Gedenk an Grey, und la� die Seel'
+verzweifeln!
+
+Vaughan (zu K�nig Richard).
+Gedenk an Vaughan, und la� die Lanze fallen
+Vor schuldbewu�ter Furcht!  Verzweifl' und
+stirb!
+
+Alledrei (zu Richmond).
+Erwach, und denk, f�r dich k�mpf' unser Leiden
+In Richards Brust!  Ewach und sieg im Feld!
+
+(Der Geist des Hastings steigt auf.)
+
+Geist (zu K�nig Richard).
+Blutig und schuldvoll, wache schuldvoll auf,
+Und ende deine Tag' in blut'ger Schlacht!
+Denk an Lord Hastings, und verzweifl� und stirb!
+
+(Zu Richmond.)
+
+In Frieden ruh'nde Seel', erwach, erwache,
+Und k�mpf und sieg in unsers Englands Sache!
+
+(Die Geister der beiden jungen Prinzen steigen auf.)
+
+Geister.
+Von deinen Vettern tr�um, erw�rgt im Turm;
+Und sei'n wir Blei in deinem Busen, Richard,
+Ziehn nieder dich in Unfall, Schmach und Tod!
+Die Seelen deiner Neffen rufen dir:
+Verzweifl' und stirb!
+
+(Zu Richmond.)
+
+Schlaf friedlich, Richmond, und erwach voll Mut!
+Dich schirm' ein Engel vor des Ebers Wut!
+Leb, und erzeug ein reiches K�nigshaus!
+Dich hei�en Eduards arme S�hne bl�hen.
+
+(Der Geist der Prinzessin Anna steigt auf.)
+
+Geist.
+Richard, dein Weib, Anna, dein elend Weib,
+Die keine ruh'ge Stunde schlief bei dir,
+F�llt deinen Schlaf jetzt mit Verst�rungen.
+Denk in der Schlacht an mich und fallen la�
+Dein abgestumpftes Schwert!  Verzweifl' und stirb!
+
+(Zu Richmond.)
+
+Schlaf, ruh'ge Seele, schlaf geruh'gen Schlaf!
+Dir zeige Gl�ck und Sieg im Traume sich:
+Es betet deines Gegners Weib f�r dich.
+
+(Buckinghams Geist steigt auf.)
+
+Geist (zu K�nig Richard).
+Der erste war ich, der zum Thron dir half;
+Der letzte f�hlt' ich deine Tyrannei:
+oh, in der Schlacht gedenk an Buckingham,
+Und stirb im Schrecken �ber deine Schuld!
+Tr�um weiter, tr�um von Tod und von Verderben:
+Du sollst verzweifeln und verzweifelnd sterben.
+
+(Zu Richmond.)
+
+Ich starb um Hoffnung, eh' ich Hilfe bot:
+Doch st�rk dein Herz und habe keine Not.
+Gott samt den Engeln ficht zu Richmonds Schutz,
+Und Richard f�llt in seinem h�chsten Trotz.
+
+(Die Geister verschwinden.  K�nig Richard f�hrt aus
+seinen Tr�umen auf.)
+
+Richard.
+Ein andres Pferd!  verbindet meine Wunden!
+Erbarmen, Jesus!--Still, ich tr�umte nur.
+O feig Gewissen, wie du mich bedr�ngst!--
+Das Licht brennt blau.  Ist's nicht um Mitternacht?
+Mein schauerndes Gebein deckt kalter Schwei�.
+Was f�rcht ich denn?  mich selbst?  Sonst ist hier niemand.
+Richard liebt Richard: das hei�t, Ich bin Ich.
+Ist hier ein M�rder?  Nein.--Ja, ich bin hier.
+So flieh.--Wie?  vor dir selbst?  Mit gutem Grund:
+Ich m�chte r�chen.  Wie?  mich an mir selbst?
+Ich liebe ja mich selbst.  Wof�r?  f�r Gutes,
+Das je ich selbst h�tt' an mir selbst getan?
+O  leider, nein!  Vielmehr ha� ich mich selbst,
+Verha�ter Taten halb, durch mich ver�bt.
+Ich bin ein Schurke--doch ich l�g, ich bin's nicht.
+Tor, rede gut von dir!  Tor, schmeichle nicht!
+Hat mein Gewissen doch viel tausend Zungen,
+Und jede Zunge bringt verschiednes Zeugnis,
+Und jedes Zeugnis straft mich einen Schurken.
+Meineid, Meineid, im allerh�chsten Grad,
+Mord, grauser Mord, im f�rchterlichsten Grad,
+Jedwede S�nd', in jedem Grad ge�bt,
+St�rmt an die Schranken, rufend: Schuldig!  schuldig!
+Ich mu� verzweifeln.--Kein Gesch�pfe liebt mich,
+Und sterb ich, wird sich keine Seel' erbarmen.
+Ja, warum sollten's andre?  Find ich selbst
+In mir doch kein Erbarmen mit mir selbst.
+Mir schien's, die Seelen all, die ich ermordet,
+K�men ins Zelt, und ihrer jede drohte
+Mit Rache morgen auf das Haupt des Richard.
+
+(Ratcliff tritt auf.)
+
+Ratcliff.
+Mein F�rst--
+
+Richard.
+Wer ist da?
+
+Ratcliff.
+Ratcliff, mein F�rst; ich bin's.  Der fr�he
+Hahn des Dorfs Tat zweimal Gru� dem Morgen;
+Eure Freunde Sind auf und schnallen ihre R�stung an.
+
+Richard.
+O  Ratcliff, ich hatt' einen furchtbarn Traum!--
+Was denkst du?  halten alle Freunde stand?
+
+Ratcliff.
+Gewi�, mein F�rst.
+
+Richard.
+O  Ratcliff!  ich f�rcht, ich f�rchte--
+
+Ratcliff.
+Nein, bester Herr, entsetzt Euch nicht vor Schatten.
+
+Richard.
+Bei dem Apostel Paul!  es warfen Schatten
+Zu Nacht mehr Schrecken in die Seele Richards,
+Als wesentlich zehntausend Krieger k�nnten,
+In Stahl und angef�hrt vom flachen Richmond.
+Noch wird's nicht Tag.  Komm, geh mit mir,
+Ich will den Horcher bei den Zelten spielen,
+ob irgendwer von mir zu weichen denkt.
+
+(K�nig Richard und Ratcliff ab.)
+
+(Richmond erwacht.  Oxford und andre treten auf.)
+
+Lords.
+Guten Morgen, Richmond.
+
+Richmond
+Bitt um Verzeihung, Lords und wache Herrn,
+Da� Ihr einen tr�gen S�umer hier ertappt.
+
+Lords.
+Wie schliefet Ihr, Mylord?
+
+Richmond
+Den s��'sten Schlaf und Tr�ume sch�nster Ahndung,
+Die je gekommen in ein m�des Haupt,
+Hab ich gehabt, seit wir geschieden, Lords.
+Mir schien's, die Seelen, deren Leiber Richard
+Gemordet, k�men in mein Zelt und riefen:
+Wohlauf!  zum Sieg!  Glaubt mir, mein Herz ist freudig
+In der Erinnrung solchen holden Traums.
+Wie weit schon ist's am Morgen, Lords?
+
+Lords.
+Auf den Schlag vier.
+
+Richmond
+So ist es Zeit, da� man sich r�st' und ordne.
+
+(Er tritt vor zu den Truppen.)
+
+Mehr als ich sagte, teure Landsgenossen,
+Verbietet darzulegen mir die Mu�e
+Und Dringlichkeit der Zeit.  Jedoch bedenkt:
+Gott und die gute Sache ficht f�r uns;
+Gebete Heil'ger und gekr�nkter Seelen,
+Wie hohe Schanzen, stehn vor unserm Antlitz;
+Die, gegen die wir fechten, bis auf Richard,
+S�hn lieber siegen uns, als dem sie folgen.
+Was ist er, dem sie folgen?  Wahrlich, Herrn,
+Ein blutiger Tyrann und Menschenm�rder;
+Erh�ht durch Blut und auch durch Blut befestigt;
+Der, was er hat, auf krummem Weg erlangt'
+Und die erw�rgt, die ihm dazu verholfen;
+Ein schlechter Stein, erhoben durch die Folie
+Von Englands Stuhl, betr�glich drein gesetzt;
+Ein Mensch, der stets gewesen Gottes Feind.
+Nun, fechtet ihr denn wider Gottes Feind,
+So schirmt euch billig Gott als seine Krieger;
+Vergie�t ihr Schwei�, den Dr�nger zu erlegen,
+So schlaft ihr friedlich, wenn der Dr�nger fiel;
+F�hrt ihr den Streit mit eures Landes Feinden,
+So wird des Landes Fett die M�h' euch zahlen;
+F�hrt ihr den Streit zur Obhut eurer Weiber,
+So gr��en eure Weiber euch als Sieger;
+Befreit ihr eure Kinder von dem Schwert,
+So lohnen's Kindeskinder euch im Alter.
+In Gottes Namen denn und dieser Rechte,
+Schwingt eure Banner, zieht eu'r willig Schwert.
+Mein L�segeld f�r diese k�hne Tat
+Sei diese kalte Leich' auf kalter Erde;
+Doch wenn's gelingt, soll am Gewinn der Tat
+Sein Teil auch dem Geringsten eurer werden.
+Schallt, Trommeln und Trompeten, froh zum Krieg!
+Gott und Sankt George!  Richmond und Heil und Sieg!
+
+(Alle ab.)
+
+(K�nig Richard und Ratcliff kommen zur�ck mit
+Gefolge und Truppen.)
+
+Richard.
+Was hat Northumberland gesagt vom Richmond?
+
+Ratcliff.
+Er sei nicht auferzogen bei den Waffen.
+
+Richard.
+Er sagte wahr.  Was sagte Surrey drauf?
+
+Ratcliff.
+Er l�chelte und sprach: Um desto besser.
+
+Richard.
+Er hatte recht, so ist es in der Tat.
+
+(Die Glocke schl�gt.)
+
+Z�hlt da die Glocke.--Gebt mir den Kalender.
+Wer sah die Sonne heut?
+
+Ratcliff.
+Ich nicht, mein F�rst.
+
+Richard.
+So weigert sie den Schein, denn nach dem Buch
+M��t' sie im Ost schon eine Stunde prangen.
+Dies wird ein schwarzer Tag f�r jemand werden.--
+Ratcliff--
+
+Ratcliff.
+Mein F�rst?
+
+Richard.
+Die Sonne l��t sich heut nicht sehn;
+Der Himmel w�lkt sich finster unserm Heer.
+Die tau'gen Tr�nen m�cht ich weg vom Boden.--
+Nicht scheinen heut!  Ei nun, was gilt das mir
+Mehr als dem Richmond?  Denn derselbe Himmel,
+Der mir sich w�lkt, sieht tr�b herab auf ihn.
+
+(Norfolk tritt auf.)
+
+Norfolk.
+Auf, auf, mein F�rst!  Der Feind stolziert im Feld.
+
+Richard.
+Kommt, tummelt, tummelt euch!  Mein Pferd gez�umt!--
+Ruft Stanley auf, hei�t seine Schar ihn bringen.--
+Ich f�hre meine Truppen in die Ebne,
+Und so soll meine Schlacht geordnet sein:
+Die Vorhut soll sich in die L�nge dehnen,
+Aus Reitern und aus Knechten gleich gemischt;
+Die Sch�tzen sollen in der Mitte stehn;
+John, Herzog Norfolk, Thomas, Graf von Surrey
+Soll'n dieser Knecht' und Reiter F�hrer sein.
+Die so geordnet, woll'n wir folgen
+Mit unserm Hauptheer, das auf beiden Fl�geln
+Verst�rken soll der Kern der Reiterei.
+Dies, und Sankt George dazu!--Was meinst du, Norfolk?
+
+Norfolk.
+Eine gute Ordnung, kriegrischer Monarch.
+Dies fand ich heut in meinem Zelt.
+
+(Gibt ihm einen Zettel.)
+
+Richard (liest).
+"Hans von Norfolk, la� kl�glich dir raten!
+Richerz dein Herr ist verkauft und verraten."
+Das ist ein St�ck, vom Feinde ausgedacht.--
+Nun geht, ihr Herrn, auf seinen Posten jeder.
+La�t plauderhafte Tr�um' uns nicht erschrecken;
+Gewissen ist ein Wort f�r Feige nur,
+Zum Einhalt f�r den Starken erst erdacht:
+Uns ist die Wehr Gewissen, Schwert Gesetz.
+R�ckt vor!  dringt ein!  recht in des Wirrwarrs V�lle!
+Wo nicht zum Himmel, Hand in Hand zur H�lle!
+Was hab ich mehr euch vorzuhalten noch?
+
+Bedenkt, mit wem ihr euch zu messen habt:
+Ein Schwarm Landl�ufer, Schelme, Vagabunden,
+Bretagner Abschaum, niedre Bauernknechte,
+Die ausgespien ihr �bers�ttigt Land
+Zu tollen Abenteuern, sicherm Untergang.
+Ihr schlieft in Ruh': sie bringen Unruh' euch;
+Ihr seid mit Land, mit sch�nen Frau'n gesegnet:
+Sie wollen jenes einziehn, diese sch�nden.
+Wer f�hrt sie als ein kahler Bursch, seit lange
+Von unsrer Mutter in Bretagn' ern�hrt?
+Ein Milchbart, einer, der sich lebenslang
+Nicht �ber seine Schuh' in Schnee gewagt?
+Peitscht dies Gesinde!  �bers Meer zur�ck!
+St�upt fort dies freche Lumpenpack aus Frankreich,
+Die Bettler, hungrig, ihres Lebens m�de,
+Die schon geh�ngt sich h�tten, arme Ratzen,
+W�r' nicht der Traum von dieser l�pp'schen Fahrt!
+Soll'n wir besiegt sein, nun, so sei's durch M�nner,
+Und nicht durch die Bastarde von Bretagnern,
+Die unsre V�ter oft in ihrem Lande
+Geschlagen, durchgedroschen und gewalkt
+Und sie der Schand' urkundlich preisgegeben.
+Solln diese unsre L�nderei'n besitzen?
+Bei unsern Weibern liegen?  unsre T�chter
+Bew�lt'gen?--Horcht!  ich h�re ihre Trommeln.
+
+(Trommeln in der Ferne.)
+
+K�mpft, Englands Edle!  k�mpft, beherzte Sassen!
+Zieht, Sch�tzen, zieht die Pfeile bis zum Kopf!
+Spornt eure stolzen Ross' und reit't im Blut!
+Erschreckt das Firmament mit Lanzensplittern!--
+
+(Ein Bote tritt auf.)
+
+Was sagt Lord Stanley?  bringt er seine Schar?
+
+Bote.
+Mein F�rst, er weigert sich zu kommen.
+
+Richard.
+Herunter mit dem Kopfe seines Sohns.
+
+Norfolk.
+Mein F�rst, der Feind ist schon den Moor her�ber;
+Erst nach dem Treffen la�t George Stanley sterben.
+
+Richard.
+Wohl tausend Herzen schwellen mir im Busen:
+Voran die Banner!  setzet an den Feind!
+Und unser altes Wort des Muts, Sankt George,
+Beste!' uns mit dem Grimme feur�ger Drachen!
+Ein auf sie!  Unsre Helme kr�nt der Sieg.  (Alle ab.)
+
+
+
+VIERTE SZENE
+
+
+Ein andrer Teil des Feldes.
+
+(Get�mmel.  Angriffe.  Norfolk kommt mit Truppen; zu
+ihm Catesby)
+
+
+Catesby.
+Rettet, Mylord von Norfolk, rettet, rettet!
+Der K�nig tut mehr Wunder als ein Mensch
+Und trotzt auf Tod und Leben, wer ihm steht;
+Ihm fiel sein Pferd, und doch ficht er zu Fu�
+Und sp�ht nach Richmond in des Todes Schlund.
+O rettet, Herr, sonst ist das Feld verloren!
+
+(Get�mmel.  K�nig Richard tritt auf.)
+
+Richard.
+Ein Pferd!  ein Pferd!  mein K�nigreich f�r ein Pferd!
+
+Catesby.
+Herr, weicht zur�ck!  Ich helf Euch an ein Pferd.
+
+Richard.
+Ich setzt' auf einen Wurf mein Leben, Knecht,
+Und will der W�rfel Ungef�hr bestehn.
+Ich denk, es sind sechs Richmonds hier im Feld:
+F�nf schlug ich schon an seiner Stelle tot.
+Ein Pferd!  ein Pferd!  mein K�nigreich f�r ein Pferd!
+
+(Alle ab.)
+
+(Get�mmel.  K�nig Richard und Richmond treten auf.
+Sie fechten, Richard f�llt.  R�ckzug und Tusch.  Hierauf kommen
+Richmond, Stanley mit der Krone, verschiedne andre
+Lords und Truppen.)
+
+Richmond
+Preis Gott und euren Waffen, Freunde, Sieger!
+Das Feld ist unser und der Bluthund tot.
+
+Stanley.
+Wohl hast du dich gel�st, beherzter Richmond.
+Sieh hier, dies lang geraubte K�nigskleinod
+Hab ich von des Elenden toten Schl�fen
+Gerissen, deine Stirn damit zu zieren.
+Trag es, genie� es, bring es hoch damit.
+
+Richmond
+Zu allem spreche Gott im Himmel Amen.
+Doch sag mir, lebt der junge Stanley noch?
+
+Stanley.
+Er lebt und ist in Sicherheit in Leicester,
+Wohin wir uns, mein F�rst, begeben k�nnten,
+Wenn's Euch beliebt.
+
+Richmond
+Was f�r namhafte M�nner
+Sind in der Schlacht gefallen beiderseits?
+
+Stanley.
+John, Herzog Norfolk, Walter Lord Ferrers,
+Sir Robert Brakenbury und Sir William Brandon.
+
+Richmond
+Beerdigt sie, wie's ihrem Rang geb�hrt.
+Ruft Gnade aus f�r die gefloh'ne Mannschaft,
+Die unterw�rfig zu uns wiederkehrt;
+Und dann, worauf das Sakrament wir nahmen
+Vereinen wir die wei�' und rote Rose.
+Der Himmel l�chle diesem sch�nen Bund,
+Der lang auf ihre Feindschaft hat gez�rnt!
+Wer w�r' Verr�ter g'nug und spr�ch' nicht Amen?
+England war lang im Wahnsinn, schlug sich selbst:
+Der Bruder, blind, vergo� des Bruders Blut;
+Der Vater w�rgte rasch den eignen Sohn;
+Der Sohn, gedrungen, ward des Vaters Schl�chter;
+All dies entzweiten York und Lancaster,
+Entzweiet selbst in greulicher Entzweiung.--
+Nun m�gen Richmond und Elisabeth,
+Die echten Erben jedes K�nigshauses,
+Durch Gottes sch�ne F�gung sich vereinen!
+M�g' ihr Geschlecht (wenn es dein Will' ist, Gott!)
+Die Folgezeit mit mildem Frieden segnen,
+Mit lachendem Gedeihn und heitern Tagen!
+Zerbrich der B�sen Waffe, gn�d'ger Gott,
+Die diese Tage m�chten wiederbringen,
+Da� England weinen m��t' in Str�men Bluts!
+Der lebe nicht und schmeck� des Landes Frucht,
+Der heim des sch�nen Landes Frieden sucht!
+Getilgt ist Zwist, gestreut des Friedens Samen:
+Da� er hier lange bl�he, Gott, sprich Amen!
+
+(Alle ab.)
+
+
+Ende dieses Projekt Gutenberg Etextes RICHARD III, von
+William Shakespeare (�bersetzt von August Wilhelm von Schlegel).
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, RICHARD III ***
+
+This file should be named 6924-8.txt or 6924-8.zip
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext04 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext04
+
+Or /etext03, 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

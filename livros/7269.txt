@@ -1,0 +1,4239 @@
+The Project Gutenberg EBook of Macbeth, by William Shakespeare
+#34 in our series by William Shakespeare
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Macbeth
+
+Author: William Shakespeare
+
+Release Date: January, 2005 [EBook #7269]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on April 4, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ISO-Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK MACBETH ***
+
+
+
+
+Produced by Delphine Lettau
+
+
+
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg.spiegel.de/.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verf�gung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.spiegel.de/ erreichbar.
+
+
+
+
+Macbeth.
+
+William Shakespeare
+
+�bersetzt von Christoph Martin Wieland
+
+Das Trauerspiel
+
+
+Personen.
+
+Duncan, K�nig von Schottland.
+Malcolm und Donalbain, S�hne des K�nigs.
+Macbeth und Banquo, Feldherren �ber das K�nigliche Kriegsheer.
+Lenox, Macduff, Rosse, Menteth, Angus und Cathne�, Thans oder
+Baronen von Schottland.
+Fleance, Banquo's Sohn.
+Siward, Feldherr �ber das Engl�ndische Heer.
+Der junge Siward, sein Sohn.
+Seyton, ein Vertrauter des Macbeth.
+Macduffs Sohn.
+Ein Arzt.
+Lady Macbeth.
+Lady Macduff.
+Cammer-Frauen der Lady Macbeth.
+Hecate, und drey andre Hexen.
+Herren, Officianten, Kriegs-Knechte und Bediente, als stumme
+Personen.
+Der Geist des Banquo, und verschiedne andre Erscheinungen.
+
+Der Schauplaz ligt zu Ende des vierten Aufzugs in England, durch
+das ganze �brige Schauspiel in Schottland, und meistens in Macbeths
+Burg.
+
+
+
+
+Erster Aufzug.
+
+
+
+Erste Scene.
+(Ein offner Plaz.)
+(Donner und Bliz.  Die drei Hexen treten auf.)
+
+
+1. Hexe.
+Wenn kommen wir drey uns wieder entgegen,
+In Donner, Blizen oder Regen?
+
+2. Hexe.
+Wenn das Mordget�mmel schweigt,
+Und der Sieg den Aufruhr beugt*.
+
+{ed.-* Aller Zeit und M�he ungeachtet, die man auf diese
+abentheurliche Hexen-Scenen verschwendet hat, ist es doch nicht
+m�glich gewesen, das Unf�rmliche, Wilde und Hexenm��ige des
+Originals v�llig zu erreichen, zumal da der Reim nothwendig
+beybehalten werden mu�te.  So hat man z.  Ex.  hier in diesen zwo
+Zeilen sich begn�gen m�ssen, den blossen Sinn der Worte
+auszudr�ken; denn wer wollte den Ausdruk und Schwung dieser Verse
+deutsch machen k�nnen:
+
+When the hurly-burly's done,
+When the battle's lost and Won.}
+
+3. Hexe.
+Also, eh der Tag sich neigt.
+
+1. Hexe.
+Nennt den Ort!
+
+2. Hexe.
+Die Heide dort.
+
+3. Hexe.
+Dort gehn wir Macbeths wegen hin.
+
+1. Hexe.
+Ich komm, ich komme, Grimalkin--
+
+2. Hexe.
+Padok ruft--wir kommen schon.
+
+Alle.
+Auf, und durch die Nebel-Luft davon!
+
+
+
+Zweyte Scene.
+(Verwandelt sich in den Palast zu Foris.)
+(Der K�nig, Malcoln, Donalbain, Lenox, und Gefolge, die einen
+ blutenden Officier antreffen.)
+
+
+K�nig.
+Was f�r ein blutender Mann ist das?  Seinem Aussehn nach kan er uns
+von dem neuesten Zustand der Rebellion Nachricht geben.
+
+Malcoln.
+Es ist eben der wakre Officier, dessen heroische Verwegenheit mich
+aus den H�nden der Feinde ri�.  Heil dir, braver Freund; sage dem
+K�nig, in was f�r Umst�nden du das Treffen verlassen hast.
+
+Officier.
+Lange war es zweifelhaft, wie der Kampf von zween Schwimmern, die,
+mit einander ringend, Kunst und St�rke an einander messen.  Der
+unerbittliche Macdonell, (w�rdig ein Rebell zu seyn; so gro� ist
+die Menge angebohrner Laster, die ihn dazu bestimmen) wurde durch
+Kernen und Gallo-Glassen*, aus den westlichen Inseln unterst�zt,
+und das Gl�k, das seiner verdammten Unternehmung l�chelte, schien
+eines Rebellen Hure geworden zu seyn.  Aber das alles half ihn
+nichts; der heldenm�thige Macbeth (wohl verdient er diesen Namen)
+hieb mit edler Verachtung des Gl�ks, mit seinem von blutiger Arbeit
+rauchenden Schwerdt, wie ein wahrer Liebling der Tapferkeit, sich
+seinen Weg bis unter die Augen des Sclaven durch; und lie� nicht
+eher von ihm ab, bis er ihn vom Wirbel bis zum Kinn aufgespaltet,
+und seinen Kopf als ein Siegeszeichen vor den Augen unsrer Schaaren
+aufgestekt hatte.
+
+{ed.-* Das leicht bewehrte Fu�volk der alten Hibernier wurde Kernen,
+und das schwer bewaffnete Gallo-Glassen genennt--(Waraei Antiqu.
+Hibern.  c.  6:) Warburton.}
+
+K�nig.
+O!  tapfrer Vetter!  w�rdiger Edelmann!
+
+Cap.
+Allein, gleichwie von eben dem Osten, woher die Sonne ihren
+gl�nzenden Lauf beginnt, schifbrechende St�rme und schrekliche
+Donner-Wetter hervorbrechen; so entsprang aus dem Schoo�e des
+Sieges eine neue Gefahr des Verderbens.  H�re, K�nig von Schottland,
+h�re; kaum hatte die Gerechtigkeit mit Tapferkeit bewafnet diese
+schnellf��igen Kernen gen�thigt, ihr Heil ihren Fersen zu vertrauen;
+so begann seinen Vortheil ersehend, der Norwegische K�nig mit
+hellgeschliffnen Waffen und einer Verst�rkung von frischen V�lkern,
+einen neuen Angriff.
+
+K�nig.
+Erschrekte das nicht unsre Feldherren, Macbeth und Banquo?
+
+Cap.
+Wie Sperlinge, Adler; oder der Hase, den L�wen.  Wenn ich die
+Wahrheit sagen soll, so mu� ich sagen, sie waren Canonen die mit
+einer doppelten Ladung �berladen sind, so verdoppelte Streiche
+f�hrten sie auf den Feind; es war nicht anders als ob sie sich in
+rauchendem Blute baden, oder ein andres Golgatha machen wollten--
+Das ist alles was ich davon sagen kan, denn ich bin ganz matt;
+meine Wunden schreyen um H�lfe.
+
+K�nig.
+Deine Worte und deine Wunden machen beyde dir Ehre; geht, hohlt
+Wund�rzte f�r ihn--
+(Rosse und Angus zu den Vorigen.) Aber wer kommt hier?
+
+Malcoln.
+Der w�rdige Than von Rosse.
+
+Lenox.
+Was f�r ein Hast aus seinen Augen schaut!  So mu� derjenige
+aussehen, der ausserordentliche Dinge zu sagen hat.
+
+Rosse.
+Gott erhalte den K�nig!
+
+K�nig.
+Woher kommst du, ehrenvoller Than?
+
+Rosse.
+Von Fife, grosser K�nig, wo die Norwegischen Fahnen stolz an die
+Wolken anzuschlagen, und unsern V�lkern kalte Schreknisse zuzuwehen
+schienen.  Norwegen, selbst durch seine Anzahl furchtbar, und von
+diesem treulosen Verr�ther, dem Grafen von Cawdor unterst�zt,
+begann ein zweifelhaftes Gefecht; bis da� Bellonens Br�utigam, mit
+seiner unbezwingbaren Tapferkeit bewafnet, ihm seinen Mann zeigte,
+und Spize gegen Spize, Arm gegen Arm, seinen �berm�thigen Geist
+d�mpfte.  Mit einem Wort, der Sieg fiel auf unsre Seite.
+
+K�nig.
+Ein grosses Gl�k!
+
+Rosse.
+Nun macht Sweno, Norwegens K�nig, Friedens Vorschl�ge: aber wir
+gestatteten ihm nur nicht das Begr�bni� seiner Leute, bis er, auf
+der St.  (Colmes-)Kill-Insel zehntausend Thaler in Eu.  Hoheit
+Schazkammer bezahlt hatte.
+
+K�nig.
+Nicht l�nger soll dieser Than von Cawdor unser Vertrauen
+mi�brauchen; geht, sprecht ihm das Todes-Urtheil, und gr�sset
+Macbeth mit seinem ehmaligen Titel.
+
+Rosse.
+Ich will es besorgen.
+
+K�nig.
+Was er verlohr, hat der edle Macbeth gewonnen.
+
+(Sie gehen ab.)
+
+
+
+Dritte Scene.
+(Verwandelt sich in die Heide.)
+(Donner und Bliz.  Die drey Hexen treten auf.)
+
+
+1. Hexe.
+Wo bist du gewesen, Schwester?
+
+2. Hexe.
+Ich brachte Schweine um.
+
+3. Hexe.
+Schwester, wo du?
+
+1. Hexe.
+Ein Schiffers-Weib fand ich, das sa�,
+Und hatte Castanien im Schoo�,
+Und fra� und schmazt' und fra�;
+Gieb mir auch, sagt ich;
+Pak dich, Hexe, pak dich--
+Schrie das voll-wampige Aas.
+Ihr Mann ist nach Aleppo gefahren,
+Allein den Weg will ich ihm ersparen;
+In einem Sieb, in Razengestalt,
+Doch ohne Schwanz, erreich ich ihn bald!
+Das thu' ich, das thu' ich, das thu' ich.
+
+2. Hexe.
+Das thu!
+Ich geb' dir einen Wind dazu.
+
+1. Hexe.
+Ich danke dir.
+
+3. Hexe.
+Und ich den andern.
+
+1. Hexe.
+Ich habe selbst schon alle andern,
+Und wenn und wie ein jeder weht,
+Woher er kommt, wohin er geht;
+Das mu� mir keine Carte sagen.
+Neunmal neun die Zeit von sieben Tagen
+Will ich ihn durch alle Meere jagen.
+D�rr wie Heu will ich ihn machen;
+Angst und Kummer,
+Ohne Rast und ohne Schlummer,
+Soll auf seinem Augdach wachen,
+Nacht und Tag, und Tag und Nacht;
+Und so soll er in der Acht
+Siech und elend sich verzehren;
+Und ists gleich in meiner Willkuhr nicht,
+Sein Schiff an Klippen zu zerst�ren;
+So soll's doch �bel zugericht
+Von Sturm und Wetter wiederkehren.
+Sieh, was ich habe--
+
+2. Hexe.
+Zeig es mir.
+
+1. Hexe.
+Sieh eines Schiffers Daumen hier;
+Ich brach sein Schiff nicht weit vom Land,
+Und lie� ihn hingestrekt im Sand.
+
+3. Hexe.
+Trummeln, Trummeln!  Macbeth kommt!
+
+Alle.
+Die Schiksals-Schwestern*, Hand in Hand,
+Schw�rmen �ber See und Land,
+Drehen so im Cirkel sich
+Dreymal f�r dich,
+Und dreymal f�r mich;
+Und dreymal, da� es neune macht.
+Halt!  der Zauber ist vollbracht.
+
+{ed.-* Allem Ansehen nach sollen diese Hexen diejenige Art von
+eingebildeten h�hern Wesen vorstellen, welche in der alten
+Theologie der Nordischen V�lker die Parzen vorstellten.  (H�
+nominantur Valkyrie, quas quodvis ad pr�lium Odinus mittit.
+H� viros morti destinant, & victoriam gubernant; Gunna, &
+Rotha & Parcarum minima Sculda: Per a�ra & maria equitant semper
+ad morituros eligendos, & c�des in potestate habent.  Bartholin.
+de Causis contempt� a Danis adhuc gentilibus mortis.) �brigens
+ist das beste, was man von diesen Hexen-Scenen, worinn Shakespear
+den Glauben der �ltesten Normannen mit Griechischem und R�mischem
+Aberglauben vermischt; und, zu Vermehrung des Wunderbaren, noch
+eine gute Dosin von dem popularen Aberglauben seiner Zeit, als
+B�rte, Kazen, Ofengabeln und dergl. hinzugethan; zum Vortheil
+unsers Autors sagen kan, von dem (Spectator) bereits gesagt
+worden; und Dr. Warburton selbst versichert, da� mit allen
+diesen Extravaganzien das Schauspiel vom Macbeth die Macht gehabt,
+das Publicum, von der K�nigin Elisabeth Zeiten an bis auf den
+heutigen Tag, zu bezaubern.}
+
+
+
+Vierte Scene.
+(Macbeth und Banquo, mit Soldaten und Gefolge.)
+
+
+Macbeth.
+Einen solchen Tag, so schlimm und so sch�n zugleich, hab' ich noch
+nie gesehn.
+
+Banquo.
+Wie weit ist es noch nach Foris?--Wer sind diese hier, so grau von
+Haaren, und so wild in ihrem Anzug?  Sie sehen keinen Einwohnern
+unsrer Erde gleich, und sind doch da.  Lebt ihr, oder seyd ihr
+etwas, dem ein Sterblicher Fragen vorlegen kan?  Ihr scheint mich
+zu verstehen, indem jede zugleich ihren verk�rzten Finger an ihre
+hautigen Lippen legt--Ihr solltet Weibsbilder seyn, und doch
+verbieten mir eure B�rte, euch daf�r zu halten.
+
+Macbeth.
+Redet, wenn ihr k�nnt; wer seyd ihr?
+
+1. Hexe.
+Heil dir, Macbeth!  Heil dir, Than von Glamis!
+
+2. Hexe.
+Heil dir, Macbeth; Heil dir, Than von Cawdor!
+
+3. Hexe.
+Heil dir, Macbeth; der einst K�nig seyn wird!
+
+Banquo.
+Warum bebt ihr so zur�k, und scheint euch vor Dingen zu entsezen,
+die so sch�n klingen?--
+
+(Zu den Hexen.)
+
+Beym Namen der Wahrheit, redet!  Seyd ihr Geister, oder w�rklich
+das, was ihr von aussen scheint?  Ihr gr��t meinen edeln Gef�hrten,
+mit gegenw�rtigem Gl�k und grossen Weissagungen von edler
+Bef�rdrung und von k�niglicher Hoffnung, wovon er ganz ausser sich
+selbst gesezt scheint; zu mir sagt ihr nichts.  Wenn ihr in die
+Saat der Zeit schauen, und sagen k�nnt, welches Saamen-Korn wachsen
+wird, und welches nicht; so redet zu mir, der weder um eure Gunst
+bittet, noch euern Ha� f�rchtet.
+
+1. 2. und 3. Hexe, (eine nach der andern:)
+Heil dir!
+
+1. Hexe.
+Kleiner als Macbeth, und gr�sser!
+
+2. Hexe.
+Nicht so gl�klich, aber weit gl�kseliger.
+
+3. Hexe.
+Du wirst kein K�nig seyn, aber K�nige zeugen, und so, Heil euch,
+Macbeth und Banquo!
+
+1. Hexe.
+Banquo und Macbeth, Heil euch!
+
+Macbeth.
+Harret, ihr geheimnisvolle Sprecher, und sagt mir mehr; durch
+Sinels Tod* (di� wei� ich) bin ich Than von Glamis; aber wie von
+Cawdor?  Der Than von Cawdor lebt, und lebt im Schoos des Gl�ks;
+und da� ich einst K�nig seyn werde, ist eben so unglaublich.  Sagt,
+von wem habt ihr diese wunderbare Vorhersicht?  Oder warum haltet
+ihr auf dieser d�rren Heide unsre Reise durch solche prophetische
+Gr�sse auf?--Redet, ich beschw�re euch!
+
+{ed.-* Sinel war Macbeths Vater.  Pope.}
+
+(Die Hexen verschwinden.)
+
+Banquo.
+Die Erde hat Blasen, wie das Wasser, und diese sind welche davon;
+wo sind sie hingekommen?
+
+Macbeth.
+In die Luft; und was k�rperlich schien, zerflo� wie Athem, in den
+Wind--Ich wollte, sie w�ren noch da.
+
+Banquo.
+Waren diese Dinge w�rklich hier, wovon wir reden; oder haben wir
+von der tollen Wurzel gegessen, die die Vernunft gefangen nimmt?
+
+Macbeth.
+Eure Kinder sollen K�nige werden--
+
+
+Banquo.
+Ihr selbst sollt K�nig seyn!
+
+Macbeth.
+Und Than von Cawdor dazu; hie� es nicht so?
+
+Banquo.
+Das waren ihre Worte--Wer kommt hier?
+
+
+
+F�nfte Scene.
+(Rosse und Angus zu den Vorigen.)
+
+
+Rosse.
+Der K�nig hat, o Macbeth, die gl�kliche Nachricht von deinen Siegen
+erhalten--Die Gr�sse der Thaten, die du im Gefecht mit den Rebellen
+geh�uft hast, schien in seinen bewundernden Augen das Ziel des
+menschlichen Ruhms--Aber kaum hatte er, erm�det von deinem Lobe,
+den Mund geschlossen, als er h�rte, da� du gegen die unb�ndigen
+Norwegischen Schaaren dich selbst �bertroffen habest.  So dik wie
+Hagel kam Zeitung auf Zeitung, jede mit deinen Thaten, dem
+m�chtigen Schuz dieses K�nigreichs, beladen, und sch�ttete dein Lob
+vor ihm aus.
+
+Angus.
+Wir sind abgeschikt, dir den Dank unsers K�niglichen Herrn zu
+bringen; allein, dich als Herolde bey ihm aufzuf�hren, nicht dich
+zu belohnen.
+
+Rosse.
+Und um dir ein Pfand der gr�ssern Ehren, so er dir zugedacht hat,
+zu geben, befahl er mir, dich Than von Cawdor zu gr�ssen; und in
+diesem neuen Titel, Heil dir, w�rdigster Than!
+
+Banquo (vor sich.)
+Wie?  Kan der Teufel wahrsagen?
+
+Macbeth.
+Der Than von Cawdor lebt; wie kleidet ihr mich also in seinen
+geborgten Schmuk?
+
+Angus.
+Er lebt noch, der es einst war; aber nur so lange, bis das �ber ihn
+ausgesprochene Urtheil des Todes vollzogen seyn wird.  Ob er mit
+Norwegen in geheimem Verst�ndni� war, oder die Rebellen durch
+Aufmunterungen und Vorschub unterst�zte, oder ob er mit beyden am
+Untergang seines Vaterlands arbeitete, wei� ich nicht; aber gewi�
+ist, da� erwiesner und von ihm selbst bekannter Hochverrath ihn
+gest�rzt hat.
+
+Macbeth (bey Seite.)
+Glamis und Than von Cawdor!  Das Gr�sseste ist noch zur�k.
+
+(Zu Angus.)
+
+Ich danke euch f�r eure Bem�hung.
+
+(Zu Banquo.)
+
+Hoft ihr nun nicht, da� eure Kinder K�nige seyn werden; da
+diejenigen, die mir den Than von Cawdor gaben, ihnen nicht weniger
+verhiessen?
+
+Banquo.
+Wenn es zuverl��ig w�re, so m�chte es euch reizen, den Than von
+Cawdor zu vergessen, und die Crone selbst zu suchen--Es ist
+wunderbar!  und oftmals, um uns zu unserm Verderben zu gewinnen,
+sagen uns die Werkzeuge der Finsterni� Wahrheiten; bestechen uns
+mit unschuldigen Kleinigkeiten, um uns zu Verbrechen von den
+schreklichsten Folgen zu verleiten.
+
+(Zu Ro� und Angus.)
+
+Vettern, ein Wort mit euch, wenn ich bitten darf.
+
+(Sie gehen auf die Seite.)
+
+Macbeth (vor sich.)
+Zwo Wahrheiten sind gesagt, als gl�kliche Prologi zu dem erhabnen
+Aufzug von K�niglichem Inhalt.  Ich danke euch, meine Herren--
+Dieser �bernat�rliche Unterricht kan nicht b�se seyn--und kan auch
+nicht gut seyn.  Ist er b�se, warum gab er mir durch Erf�llung der
+ersten Verheissung ein Pfand der andern?  Ich bin Than von Cawdor.
+Ist er gut, warum �berf�llt mich diese Versuchung, vor deren
+scheu�licher Vorstellung sich mein Haar emporstr�ubt, und mein
+sonst festes Herz an meine Rippen schl�gt?--Die That selbst ist
+weniger entsezlich, als die Vorstellung der geschrekten
+Einbildungskraft.  Dieser Gedanke, dessen Mord doch nur ein
+Hirngespenste ist, ersch�ttert meine ganz innerliche Welt so heftig,
+da� alle andre Arbeit meiner Lebenskr�fte still steht, und mir
+nichts zu seyn scheint als was nicht ist.
+
+Banquo.
+Seht, wie unser Gef�hrte verz�kt ist!
+
+Macbeth.
+Wenn das Schiksal will da� ich K�nig sey, nun, so mag mich das
+Schiksal kr�nen, ohne da� ich darnach strebe.
+
+Banquo (zu den andern.)
+Die neuen Ehren, womit er bekleidet worden, sind wie fremde
+Kleidungen, die uns nicht recht anpassen, bis wir sie durch �fters
+Tragen gewohnt sind.
+
+Macbeth (vor sich.)
+Komme, was kommen mag--Die Zeit rennt mit ihrem Stundenglas durch
+den raschesten Tag.
+
+Banquo.
+W�rdiger Macbeth, wir warten, bis es euch gelegen ist--
+
+
+Macbeth.
+Vergebet mir!  mein tolles Gehirn arbeitete verge�ne Dinge hervor--
+Edle Freunde, eure Bem�hungen sind da eingetragen, wo ich jeden Tag
+das Blatt umschlage, sie zu lesen--La�t uns zum K�nig eilen;
+
+(zu Banquo.)
+
+Denkt an das was begegnet ist, und wenn wir's inde� besser erwogen
+haben, la� uns aus offnem Herzen uns davon besprechen.
+
+Banquo.
+Sehr gerne.
+
+Macbeth.
+Bis dahin, genug hievon: Kommt, Freunde.
+
+(Sie gehen ab.)
+
+
+
+Sechste Scene.
+(Verwandelt sich in den Palast.)
+(Trompeten.  Der K�nig, Malcolm, Donalbain, Lenox und Gefolge
+ treten auf.)
+
+
+K�nig.
+Ist das Urtheil an Cawdor schon vollzogen?  Oder sind unsre
+Commissarien noch nicht zur�kgekommen?
+
+Malcolm.
+Gn�digster Herr, sie sind noch nicht zur�k.  Aber ich habe mit
+einem gesprochen, der ihn sterben sah; der mir sagte, da� er seine
+Verr�thereyen sehr aufrichtig bekannt, Eure Hoheit um Vergebung
+gebeten, und eine tiefe Reue bliken gelassen.  Das sch�nste in
+seinem Leben war die Art wie er's verlie�: Er starb wie einer der
+auf seinen Tod studiert hat, um das kostbarste was er besa� so
+gleichg�ltig wegzuwerfen, als ob es die schlechteste Kleinigkeit
+w�re.
+
+K�nig.
+Sein Beyspiel �berf�hrt mich, da� es keine Kunst giebt, die innere
+Gestalt des Gem�ths in einem Gesicht zu lesen: Er war ein Mann, auf
+den ich mein ganzes Vertrauen baute.  (Macbeth, Banquo, Rosse und
+Angus zu den Vorigen.) O verdienstvoller Vetter!  Die S�nde meiner
+Undankbarkeit lag nur eben schwer auf mir.  Du bist so weit voraus,
+da� der schnelleste Fl�gel der Belohnung zu langsam ist, dich
+einzuholen.  Ich w�nschte, du h�ttest weniger verdient, damit es
+mir m�glich w�re dich nach W�rden zu belohnen.  Nun bleibt mir
+nichts �brig als zu bekennen, da� ich dir mehr schuldig bin als
+alles, was ich habe, bezahlen kan.
+
+Macbeth.
+Die Dienste, die ich geleistet, sind nicht gr�sser als meine
+Pflicht und belohnen sich selbst.  Eurer Hoheit kommt es zu, unsre
+Dienste zu erhalten; sie sind Kinder und Diener des Throns und des
+Staats, die, wenn sie alles gethan, nur ihre Schuldigkeit gethan
+haben, da sie durch Lehenspflicht euerm Leben und eurer Crone
+verpflichtet sind.
+
+K�nig.
+Sey willkommen: Ich habe angefangen, dich zu pflanzen, und ich will
+mir angelegen seyn lassen, dein Wachsthum zu bef�rdern.  Edler
+Banquo, du hast nicht weniger verdient, und es soll erkannt werden;
+la� mich dich umarmen, und an mein Herz dich halten!
+
+Banquo.
+Wenn ich da wachse, so ist der Herbst euer.
+
+K�nig.
+Meine Freude ist so gro�, da� sie mir Thr�nen erpre�t.  S�hne,
+Vettern, Thans, und ihr, deren Pl�ze mir die n�chsten sind, wisset,
+da� wir unsern �ltesten Sohn Malcolm zu unserm Thronfolger bestimmt
+haben, und ihn von nun an zum Prinzen von Cumberland ernennen:
+Dieser einzige Vorzug soll ihn aus den Verdienstvollen M�nnern
+kennbar machen, die mit gl�nzenden Zeichen des Adels geschm�kt, wie
+Sterne unsern Thron umschimmern werden--Izt nach Inverne�; und
+fahret fort, uns euch verbunden zu machen.
+
+Macbeth.
+Das �brige ist eine Arbeit, die nicht f�r Eu.  Hoheit gemacht ist;
+ich will selbst der Wirth seyn, und mein Weib mit der Nachricht von
+eurer Ankunft erfreuen; und so nehm' ich dem�thig meinen Abschied.
+
+K�nig.
+Mein w�rdiger Cawdor!
+
+Macbeth (im Weggehen vor sich.)
+Prinz von Cumberland!--Das ist eine Stuffe, auf der ich fallen,
+oder die ich �berspringen mu�, denn sie ligt mir im Wege.  Sterne,
+verh�llt euer Feuer!  La�t selbst die Nacht nicht sehen, was f�r
+schwarze Gedanken sich tief aus meiner Brust empor arbeiten--
+
+(Er geht ab.)
+
+K�nig.
+In der That, w�rdiger Banquo; er ist ein Held, und ich kann mich
+nicht ers�ttigen, ihn zu loben.  Wir wollen ihm folgen, da seine
+Sorgfalt vorangegangen ist uns zu empfangen; er ist ein
+unvergleichlicher Mann.
+
+(Sie gehen ab.)
+
+
+
+Siebende Scene.
+(Verwandelt sich in ein Zimmer in Macbeths Schlo� zu Inverne�.)
+(Lady Macbeth tritt mit einem Brief in der Hand auf.)
+
+
+Lady (lie�t.)
+"Sie begegneten mir am Tage des Siegs, und aus der Erf�llung ihrer
+ersten Weissagung sah ich, da� sie mehr als Sterbliche wissen.  Da
+ich vor Begierde brannte, mehr von ihnen zu erfahren, verschwanden
+sie.  Ich stuhnd noch vor Erstaunen ausser mir, als Abgeordnete vom
+K�nig ankamen, die mich Than von Cawdor gr��ten, mit dem nemlichen
+Titel, womit zuvor diese Zauber-Schwestern mich begr��t, und durch
+einen dritten Gru� mir noch angezeigt hatten, da� ich dereinst
+K�nig seyn sollte.  Dieses hab ich n�thig erachtet, dir zu entdeken,
+theureste Geno�in meiner Gr�sse, damit du deinen Antheil an meiner
+Freude nicht verliehrest, wenn du l�nger unwissend w�rest, was f�r
+eine Gr�sse dir versprochen ist.  Leg' es an dein Herz, und lebe
+wohl."--Glamis bist du und Cawdor--und sollst seyn, was dir
+versprochen worden.  Und doch f�rcht ich deine Gem�thsart, es ist
+zuviel Milch, zuviel mildes Wesen darinn, um den n�chsten Weg
+einzuschlagen.  Du bist nicht ohne Ehrgeiz; du m�chtest gro� seyn;
+aber nicht durch schlimme Mittel.  Du m�chtest gewinnen was dir
+nicht geh�rt, und doch nicht falsch spielen; du w�nschest nicht da�
+es ungethan bleibe, aber du scheuest dich es selbst zu thun.  Eile,
+eile herbey, damit ich meinen Geist in dein Ohr giessen, und durch
+die Tapferkeit meiner Zunge alle diese Gedanken von dir abtreiben
+k�nne, die dich von dem goldnen Zirkel zur�kscheuchen, womit das
+Schiksal und �bernat�rliche M�chte dich gerne bekr�nen m�chten.
+(Ein Courier tritt auf.) Was bringt ihr f�r Nachrichten?
+
+Courier.
+Der K�nig kommt auf diese Nacht hieher.
+
+Lady.
+Du bist nicht klug, das zu sagen; ist dein Herr nicht bey ihm?  und
+w�rd' er, wenn es so w�re, nicht, der Anstalten wegen, hieher
+geschikt haben?
+
+Courier.
+Mit Euer Gnaden Erlaubni�, es ist wie ich sage; unser Than ist im
+Anzug; er hat einen von meinen Cameraden vorausgeschikt, der,
+beynahe athemlo�, kaum noch soviel hatte, da� er seinen Auftrag
+ausrichten konnte.
+
+Lady.
+Sorgt f�r ihn; er bringt eine grosse Zeitung.
+
+(Der Courier geht ab.)
+
+Der Rabe selbst w�rde mir lieblich singen, der mir Duncans fatale
+Ankunft unter meine Zinnen kr�hen w�rde.  Kommt izt, ihr Geister
+alle, deren Gesch�ft es ist t�dliche Gedanken einzuhauchen, kommt
+und entweibet mich hier; f�llt mich vom Wirbel bis zum Zehen
+Topfeben mit Grausamkeit an; macht mein Blut dik, verstopft die
+Zug�nge der Reue, da� keine Stiche der wiederkehrenden Natur mein
+gr��liches Vorhaben ersch�ttern, noch zwischen den Gedanken und
+seine Vollziehung treten!  Kommt in meine weiblichen Br�ste, und
+macht meine Milch zu Galle, ihr m�rdrischen Geister, wo ihr immer
+in unsichtbaren Gestalten auf das Verderben der Menschen laurt--
+Komm, dike Nacht!  und h�lle dich in den schw�rzesten Dampf der
+H�lle, damit mein scharfer Dolch die Wunde nicht sehe, die er macht,
+noch der Himmel durch den Vorhang der Finsterni� guke, und ruffe:
+Halt, halt! --
+(Macbeth tritt auf.) Grosser Glamis!  w�rdiger Cawdor!
+
+(Sie umarmt ihn.)
+
+Gr�sser als beydes durch den Gru� der auf diese folgte!  Dein
+Schreiben hat mich aus dieser armseligen Zeit hinwegger�kt, und ich
+f�hle im Gegenw�rtigen schon das K�nftige.
+
+Macbeth.
+Theurste Liebe, Duncan kommt diese Nacht hieher.
+
+Lady.
+Und wenn geht er wieder?
+
+Macbeth.
+Morgen, wie er sich vorgesezt hat.
+
+Lady.
+O nimmer soll die Sonne diesen Morgen sehn!  Euer Gesicht, mein
+Than, ist wie ein Buch, worinn man gef�hrliche Dinge lesen k�nnte.
+Hei�t euer Gesicht aussehen, wie es die Zeit erfordert; traget
+freundlichen Willkomm in euern Augen, auf eurer Zunge, in eurer
+Hand; seht wie die unschuldige Blume, aber seyd die Schlange unter
+ihr.  Geht, und sorget f�r die Aufnahme dessen der kommen soll, und
+�berlasset meiner Sorge das grosse Gesch�fte dieser Nacht, welches
+allen unsern k�nftigen Tagen und N�chten die ungetheilte und
+unumschr�nkte Herrschaft geben soll.
+
+Macbeth.
+Wir wollen mehr davon reden.
+
+Lady.
+Seht nur heiter aus; Furcht ist immer ein Hinderni� des Gl�ks;
+�berla�t alles andre mir.
+
+(Sie gehen ab.)
+
+
+
+Achte Scene.
+(Vor Macbeths Schlo�-Thor.)
+(Hautbois und Fakeln.  Der K�nig, Malcolm, Donalbain, Banquo,
+ Lenox, Macduff, Rosse und Angus, samt Gefolge treten auf.)
+
+
+K�nig.
+Dieses Schlo� hat eine angenehme Lage, die Luft empfiehlt sich
+durch ihre Feinheit und Milde unserm allgemeinen Sinn.
+
+Banquo.
+Dieser Gast des Sommers, die Tempel-bewohnende Mauer-Schwalbe,
+beweist durch seine Liebe zu diesem Aufenthalt, da� des Himmels
+Athem hier lieblich schmekt.  Ich sehe keine hervorragende Friesen,
+keine Verzahnung und keinen Strebe-Pfeiler hier, wo dieser Vogel
+nicht sein hangendes Bette, die Wiege f�r seine Jungen, gemacht
+h�tte; und ich habe bemerkt, da� an den Orten, wo sie sich am
+liebsten aufhalten, die Luft allemal vorz�glich mild ist.  (Lady
+Macbeth zu den Vorigen.)
+
+K�nig.
+Seht hier unsre edle Wirthin!  Die Liebe die uns folgt, macht uns
+zuweilen Unruh, aber wir danken ihr doch, weil es Liebe ist.  La�t
+euch dieses zum Beweggrund dienen, uns gerne zu haben, ob wir euch
+gleich Unruhe machen.
+
+Lady.
+Alle unsre Dienste, in jedem St�k zweymal verdoppelt, w�ren noch
+immer arm und unverm�gend, die grosse Ehre zu erkennen, womit Eu.
+Majest�t unser Haus begnadigt.  Es bleibt uns nichts �brig, als f�r
+die alten Gnaden-Bezeugungen sowol, als die neuen, die �ber jene
+aufgeh�uft worden, eure armen F�rbitter zu bleiben.
+
+K�nig.
+Wo ist der Than von Cawdor?  Wir folgten ihm an den Fersen nach,
+und nahmen uns vor, seinen Haus-Meister zu machen: Aber er reitet
+gut, und seine Liebe zu uns hat ihm so schnelle Fl�gel angesezt,
+da� er vor uns angekommen ist.  Sch�ne und edle Wirthin, wir sind
+euer Gast auf diese Nacht.
+
+Lady.
+Eure Majest�t hat �ber ihre Diener und alles was ihr ist, als �ber
+ihr Eigenthum zu befehlen; wir k�nnen nichts geben, das wir nicht
+von ihr empfangen h�tten.
+
+K�nig.
+Gebt mir eure Hand, und f�hrt mich zu meinem Wirth; wir lieben ihn
+h�chlich, und was wir bisher f�r ihn gethan haben, ist nur ein
+Anfang der Beweise unsrer Huld, die wir ihm vorbehalten.  Mit eurer
+Erlaubni�, Wirthin--
+
+
+(Sie gehen ab.)
+
+
+
+Neunte Scene.
+(Ein Zimmer in Macbeths Schlo�.)
+(Hautbois, Fakeln.  Verschiedene Bediente gehen mit Tellern und
+Speisen �ber den Schauplaz.  Nach einer Weile erscheint Macbeth.)
+
+Macbeth (allein.)
+Wenn* alles vorbey w�re, wenn es gethan ist, so w�r's gut, wenn's
+schnell gethan w�rde; wenn der Meuchelmord zugleich die Folgen
+auffischen k�nnte, und dieser einzige Streich hier alles enden
+w�rde--so m�chten wir Muth haben hier auf diesem Sandbank der Zeit
+�ber das k�nftige Leben wegzuspringen.  Aber in solchen F�llen
+empfangen wir gemeiniglich unser Urtheil schon hier, indem wir
+andern einen blutigen Unterricht geben, der zulezt auf des
+Erfinders eignen Kopf zur�k f�llt.  Die gleich-messende
+Gerechtigkeit n�thigt uns, die Hefen unsers eignen Gift-Kelchs
+auszutrinken--Er sollte gedoppelt sicher seyn; einmal weil ich sein
+Verwandter und Vasall bin, beydes starke Beweggr�nde gegen die That:
+Hernach als sein Wirth, der, anstatt den Streich selbst zu f�hren,
+die Th�re vor seinem M�rder verschliessen sollte.  �berdem hat
+dieser Duncan so milde regiert, hat sein grosses Amt so untadelich
+verwaltet, da� seine Tugenden, wie Engel, mit Trompeten-Zungen
+tiefe Verdammni� �ber seine Wegraffung ausruffen werden; und
+Mitleiden, gleich einem nakten neugebohrnen Kind, oder wie des
+Himmels Cherubim, auf den unsichtbaren Rossen der Luft reitend, die
+entsezliche That in jedes Antliz blasen wird, bis Thr�nen den Wind
+ers�uffen--Ich habe keinen Sporn, der den Lauf meines Vorhabens
+treibt, als allein den Ehrgeiz, der sich selbst �berspringt, und
+auf einen andern einst�rzt--
+
+{ed.-* Der erste Theil dieser Rede ist auch nach einer Restauration,
+die wir Popen zu danken haben, eine der dunkelsten in unserm Autor.}
+
+
+
+Zehnte Scene.
+(Lady Macbeth tritt auf.)
+
+
+Macbeth.
+Wie steht's?  Was giebt's Neues?
+
+Lady.
+Er hat beynahe abgespeist; warum habt ihr das Zimmer verlassen?
+
+Macbeth.
+Fragte er nach mir?
+
+Lady.
+Ich dachte, man h�tt' es euch gesagt.
+
+Macbeth.
+Wir wollen nicht weiter in dieser Sache gehen.  Er hat mich
+k�rzlich mit Ehren-Zeichen �berh�uft; und ich habe goldne Meynungen
+von allen Arten von Leuten gekauft, die nun in ihrem neuesten Glanz
+getragen, und nicht so fr�h bey Seite geworfen seyn wollen.
+
+Lady.
+War die Hoffnung trunken, die euch vor kurzem so entschlossen
+machte?  Hat sie seitdem geschlaffen, und erwachte sie nun, um so
+bleich und gr�n beym Anblik dessen, was sie vorher liebte
+auszusehen?  Wie?  f�rchtest du derjenige in der That zu seyn, der
+du zu seyn w�nschest?  Strebest du nach dem, was du f�r die Zierde
+des Lebens ansiehst, und willst in deinen eignen Augen als eine
+Memme leben?--Ich habe das Herz nicht, (armseliger Gedanke!) ob ich
+gleich gerne wollte; gleich der armen Kaze im Spr�chwort, (die
+gerne Fische fienge, wenn sie nur die F�sse nicht na� machen m��te.)
+
+Macbeth.
+Ich bitte dich, halt ein.  Ich habe zu allem Muth, was einem Mann
+anst�ndig ist; wer mehr hat, ist keiner.
+
+Lady.
+Was f�r ein Thier war denn das, das euch antrieb, mir die erste
+Er�ffnung von diesem Vorhaben zu thun?  Als ihr den Muth hattet es
+auszuf�hren, da war't ihr ein Mann; und wenn ihr mehr w�ret was ihr
+waret, so w�rdet ihr um so viel mehr Mann seyn.  Damals bot sich
+euch weder Zeit noch Ort an, und ihr wolltet beyde machen; sie
+haben sich selbst gemacht, und ihre Bereitwilligkeit schrekt euch
+ab--Ich habe Kinder ges�ugt, und wei� wie z�rtlich die Liebe zu dem
+S�ugling ist, der an meiner Brust trinkt; aber ich wollte--ja
+Macbeth!  indem er mich liebkosend angel�chelt h�tte, wollt' ich
+meine Warze aus seinem beinlosen Kiefer gezogen, und ihm das Hirn
+ausgeschlagen haben, wenn ich es so geschworen h�tte, wie ihr das
+geschworen habt.
+
+Macbeth.
+Wenn es uns mi�l�nge--
+
+Lady.
+Mi�lingen?  F�hrt es nur mit Standhaftigkeit aus, so kan es nicht
+mi�lingen.  Wenn Duncan schl�ft, (und die starke Tagreise wird
+seinen Schlaf bef�rdern;) so will ich seine beyden Kammer-Herren
+mit Wein und Gesundheiten so zurichten, da� ihr Ged�chtni�, der
+W�chter des Gehirns, ein Dunst seyn soll, und ihre Vernunft ein
+blosser Distillier-Kolbe; wenn in schweinischem Schlaf ihre
+ertr�nkten Kr�fte wie im Tode ligen, was k�nnen nicht ihr und ich
+mit dem unbewachten Duncan anfangen?  Was k�nnen wir nicht seinen
+vollen Bedienten thun, welche die Schuld unsrer That tragen sollen?
+
+Macbeth.
+Welch ein Weib!  bringe mir keine T�chter!  aus deinem Metall
+m�ssen nur M�nner gebildet werden!--Glaubst du nicht, sie werden
+f�r die Th�ter angesehen werden, wenn wir sie, indem sie schlafen,
+mit Blute beschmieren, und ihre eigne Dolche zu der That gebrauchen?
+
+Lady.
+Wer wird, bey dem Geschrey und Wehklagen, das wir erheben wollen,
+sich unterstehen anders zu denken?
+
+Macbeth.
+Ich bin entschlossen, Weib, und alle meine Sehnen strengen zu
+dieser furchtbaren That sich an.  Komm, und la� uns unser Vorhaben
+unter die sch�nste Larve verbergen!
+
+(Sie gehen ab.)
+
+
+
+
+Zweyter Aufzug.
+
+
+
+Erste Scene.
+(Ein Saal in Macbeths Schlosse.)
+(Banquo und Fleance, der ihm eine Fakel vortr�gt.)
+
+
+Banquo.
+Wie weit ists schon in der Nacht?  Junge?
+
+Fleance.
+Der Mond ist unter: ich habe die Gloke nicht geh�rt.
+
+Banquo.
+Sie geht auf Zw�lfe.
+
+Fleance.
+Ich denk' es ist sp�ter, Gn�diger Herr.
+
+Banquo.
+Hier, nimm mein Schwert.  Man ist h�uslich im Himmel; ihre Lichter
+sind alle aus--Nimm das auch dazu.  Eine schwere Schl�frigkeit ligt
+wie Bley auf mir, und doch m�cht ich nicht gerne schlafen.  Ihr
+wohlth�tigen M�chte!  entfernt die b�sen Gedanken von mir, denen
+die schlummernde Natur wehrlos ausgesezt ist--
+(Macbeth und ein Bedienter mit einer Fakel.) Gieb mir mein Schwert--
+Wer ist hier?
+
+Macbeth.
+Ein Freund.
+
+Banquo.
+Wie, Sir, noch nicht zu Bette?  Der K�nig ruht schon.  Er ist diese
+Nacht ausserordentlich fr�lich gewesen, und hat euern Haus-
+Officianten grosse Geschenke gemacht; diesen Diamant sandte er
+eurer Gemalin, die er seine angenehmste Wirthin gr�ssen lie�, und
+zog sich �ber die massen vergn�gt in sein Schlafgemach zur�k.
+
+Macbeth.
+Da wir keine Zeit hatten, Zubereitungen zu machen, so sind wir kaum
+verm�gend gewesen, unsern guten Willen zu zeigen--
+
+
+Banquo.
+Es war alles wohl.  Vergangne Nacht tr�umte mir von den drey Zauber-
+Schwestern: Euch haben sie doch etwas Wahres gesagt.
+
+Macbeth.
+Ich denke nicht an sie; und doch, wenn wir eine gelegne Stunde
+finden k�nnten, so m�chte ich ein paar Worte von dieser Sache mit
+euch reden.  Nennet nur die Zeit.
+
+Banquo.
+Nach eurer Gelegenheit.
+
+Macbeth.
+Wenn ihr meine Maa�nehmungen, nachdem ich sie bey mir selbst
+festgesezt haben werde, unterst�zen wollt, so sollt ihr Ehre dabey
+gewinnen.
+
+Banquo.
+In so fern ich sie nicht verliere, indem ich sie zu vermehren suche,
+und mein Herz und meine Pflicht dabey frey behalte, so bin ich zu
+euern Diensten.
+
+Macbeth.
+Gute Nacht indessen.
+
+Banquo.
+Ich danke euch, Sir; ebenm��ig--
+
+(Banquo und Fleance gehen ab.)
+
+Macbeth (zum Bedienten.)
+Geh, sage deiner Gebieterin, wenn mein Trank fertig sey, solle sie
+die Gloke ziehen lassen, und geh zu Bette--Ist di� ein Dolch was
+ich vor mir seh, der Griff gegen meine Hand gekehrt?  Komm, la�
+mich dich fassen.  Ich habe dich nicht, und sehe dich doch immer.
+Bist du, fatales Gesichte, nicht eben so f�hlbar wie du sichtbar
+bist?  Oder bist du nur ein Dolch meiner Seele, ein t�uschendes
+Gesch�pfe des fiebrisch-erhizten Gehirns?  Immer seh ich dich, in
+eben so k�rperlicher Gestalt als dieser den ich hier ziehe.  Du
+zeigst mir den Weg den ich gehen wollte, und ein solches Werkzeug
+wie du bist, wollt' ich gebrauchen.  Entweder sind meine Augen die
+Narren meiner �brigen Sinne, oder die andern alle werth--Ich seh
+dich immer, und auf deiner Klinge Bluts-Tropfen, die zuvor noch
+nicht waren--Es ist nichts w�rkliches--es ist das blutige Werk
+meiner Seele, das sich so in meinen Augen mahlt--Izt scheint auf
+der H�lfte der Welt die Natur todt, und schlimme Tr�ume mi�brauchen
+den eingeh�llten Schlaf; izt begeht die Zauberey den furchtbaren
+Dienst der blassen Hecate, und der gr��liche Mord, (von seinem
+heulenden W�chter, dem Wolf, aufgewekt,) geht mit Tarquins
+r�uberischem Schritte, wie ein Gespenste, seinem Werk entgegen.  Du
+feste, unbewegliche Erde, h�re meine Tritte nicht, wohin sie gehen,
+damit nicht deine Steine selbst dieses schrekliche Stillschweigen
+unterbrechen, das sich so wol zu meinem Vorhaben schikt, und
+verrathen, warum Macbeth wacht--Ich drohe hier, und er lebt
+indessen--
+
+(Die Gloke schl�gt an.)
+
+Ich gehe, und es ist gethan; die Gloke ruft mir.  H�re sie nicht,
+Duncan, denn es ist die Gloke, die dich gen Himmel oder zur H�lle
+citiert.
+
+(Er geht ab.)
+
+
+
+Dritte* Scene.
+(Lady Macbeth tritt auf.)
+
+{ed.-* Der �bersetzer hat die erste mit der zweiten Scene
+zusammengefa�t.}
+
+
+Lady.
+Das, was sie trunken machte, hat mich k�hn gemacht; was ihr Feuer
+ausl�schte, fachte das meinige an.  Horch!  Stille!  es war eine
+Eule, die schrie, der fatale Nachtw�chter, der uns die gr��lichste
+gute Nacht giebt--Er hat es vollbracht--die Th�ren sind offen, und
+die �berf�llten K�mmerer spotten ihres Amts mit Schnarchen.  Ich
+habe ihnen einen so kr�ftigen Schlaftrunk zubereitet, da� Tod und
+Natur sich um sie zanken, ob sie leben oder gestorben seyen.
+(Macbeth tritt auf.)
+
+Macbeth.
+Wer ist hier?--he!
+
+Lady.
+O weh!  ich f�rchte, sie sind aufgewacht, und es ist nicht gethan;
+der Vorsaz, nicht die That wird uns zu Grunde richten--horch!  ich
+legte ihre Dolche neben sie, er mu�te sie finden--H�tte er nicht,
+wie ich ihn schlaffen sah, meinem Vater gleich gesehen, ich h�tt'
+es selbst gethan--Mein Gemahl!
+
+Macbeth.
+Sie ist gethan, die That!--H�rtest du kein Get�se?
+
+Lady.
+Ich h�rte die Eule heulen, und die Feldgrillen schreyen--Sagtet ihr
+nicht was?
+
+Macbeth.
+Wenn?
+
+Lady.
+Eben izt.
+
+Macbeth.
+Wie ich herab kam?
+
+Lady.
+Ja.
+
+Macbeth.
+Horcht!  wer ligt im andern Zimmer?
+
+Lady.
+Donalbain.
+
+Macbeth (sieht seine H�nde an.)
+Das ist ein trauriger Anblik!
+
+Lady.
+Ein n�rrischer Gedanke, es einen traurigen Anblik zu heissen.
+
+Macbeth.
+Der eine lachte in seinem Schlaf, und einer schrie: M�rder!  Sie
+wekten einander auf; und ich stuhnd und h�rte ihnen zu; aber sie
+sagten ihr Nacht-Gebett her, und schlieffen wieder ein.
+
+Lady.
+Es sind zween, die beysammen ligen.
+
+Macbeth.
+Der eine schrie: Gott helf uns!  und Amen; der andre, wie sie mich
+mit diesen Henkers-H�nden sahen: Ich h�rte zu, aber ich konnte
+nicht Amen!  sagen, wie sie sagten: Gott helf uns!
+
+Lady.
+Denkt ihm nicht so tief nach.
+
+Macbeth.
+Aber warum konnt' ich nicht Amen!  sagen?  Es war als ob es mir im
+Hals steken bliebe--
+
+Lady.
+Man mu� solchen Thaten nicht auf eine solche Art nachdenken; das
+w�rde uns unsinnig machen.
+
+Macbeth.
+Es war mir auch nicht anders, als h�rte ich eine Stimme, die dem
+Schlafenden zurief.  Schlafe nicht l�nger!  Macbeth ermordet den
+Schlaf, den unschuldigen Schlaf; den Schlaf, der die Stirne des
+Kummers entrunzelt, die Geburt von jedes folgenden Tages Leben, den
+Balsam verwundeter Gem�ther, die heilsamste Erquikung der Natur,
+und die nahrhafteste Speise im Gastmahl des Lebens--
+
+Lady.
+Was wollt ihr mit allem dem?
+
+Macbeth.
+Es war immer als ob es im ganzen Hause schreye: Wacht auf, schlaft
+nicht mehr; Glamis hat den Schlaf ermordet, und daf�r soll Cawdor
+nicht mehr schlafen; Macbeth soll nicht mehr schlaffen!
+
+Lady.
+Wer rief denn so?  Wie, mein edler Than, was f�r fieberhafte, euers
+Helden-Muths unw�rdige Einbildungen sind das?  Geht, nehmt ein
+wenig Wasser, und waschet diese garstige Zeugschaft von euern
+H�nden.  Warum brachtet ihr diese Dolche mit euch; sie m�ssen dort
+ligen bleiben.  Geht, tragt sie wieder hin, und beschmiert die
+schlaffenden K�mmerer mit Blut.
+
+Macbeth.
+Ich gehe nicht; ich erschreke vor dem Gedanken was ich gethan habe;
+seht ihr dazu, ich habe das Herz nicht.
+
+Lady.
+Schwache Seele!  Gebt mir die Dolche; Schlaffende und Todte sind
+nur Gem�hlde; nur Kinder f�rchten sich vor einem gemahlten Teufel.
+Wenn er blutet, so will ich die Gesichter der K�mmerlinge damit
+�berg�lden; denn sie m�ssen f�r die Th�ter angesehen werden.
+
+(Sie geht ab.)
+(Man h�rt ein Klopfen hinter der Scene.)
+
+Macbeth (auffahrend.)
+Woher dieses Klopfen!--Was wird aus mir werden, wenn jeder Laut mir
+zu ruffen scheint: Was f�r H�nde sind das?  Ha!  Sie reissen mir
+meine Augen aus!  Kan des grossen Neptuns ganzer Ocean dieses Blut
+von meiner Hand waschen?  Nein, eh w�rde diese meine Hand deine
+unerme�liche See zu Purpur machen--
+(Lady Macbeth kommt zur�k.)
+
+Lady.
+Meine H�nde haben die Farbe der eurigen, aber ich sch�me mich, ein
+so weisses Herz zu tragen--
+
+(Ein Klopfen.)
+
+Ich h�r' ein Klopfen, von der s�dlichen Pforte her.  Wir wollen
+uns in unser Gemach zur�k ziehn; ein wenig Wasser wird uns von
+dieser That reinigen.  Wie leicht ist sie also?  Eure
+Standhaftigkeit hat euch ganz verlassen--Horcht, es klopft schon
+wieder!  Geht und h�llt euch in euern Schlafrok ein, sonst m�cht'
+uns die Gelegenheit ruffen, und zeigen da� wir gewacht haben;
+verliehrt euch nicht so armselig in euern Gedanken.
+
+Macbeth.
+Wollte der Himmel, ich k�nnte das Bewu�tseyn dieser That oder
+meiner selbst verliehren!  Erwache, Duncan, von diesem Klopfen: Wie
+wollt' ich, du k�nntest!
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Ein Th�rh�ter tritt auf.)
+(Man h�rt klopfen.)
+
+
+Th�rh�ter.
+Das hei�t Klopfen, in der That: wenn einer Pf�rtner am Thor der
+H�lle w�re, man k�nnt' ihm's nicht �rger machen--
+
+(Man h�rt klopfen.)
+
+Knak!  Knak!  Knak!  Wer ist da, in Beelzebubs Namen?--ein Pachter,
+der sich vor Verdru� da� er nicht reicher werden konnte aufhieng--
+Nur herein, aber es wird gut seyn, wenn ihr euch mit Handt�chern
+versehen habt, denn hier werdet ihr daf�r schwizen.
+
+(Abermaliges Klopfen.)
+
+Knak!  Knak!  Wer ist hier, ins T..  Namen?  Mein Treu!  ein
+J*s**t, der vermittelst einer Distinction oder einer doppelten
+Meynung Ja und Nein beschw�ren kan, der Verr�thereyen genug um
+Gottes willen begangen hat, und mit allen seinen Subtilit�ten sich
+doch nicht hat in den Himmel hineinl�gen k�nnen.
+
+(Ein Klopfen.)
+
+Knak!  Knak!  Knak!  Wer ist da?--Sapperment, hier ist ein
+Englischer Schneider, der hieher geschikt worden ist, weil er aus
+einer Franz�sischen Hose gestohlen hat: Nur herein Schneider, ihr
+k�nnt hier eure G�nse braten--
+
+(Ein Klopfen.)
+
+Knak!  Knak!  wird das immer so fortmachen?  Aber f�r eine H�lle
+ist es hier zu kalt; ich will nicht l�nger den Teufels-Pf�rtner
+machen: ich dachte, ich wollte nach und nach alle Profe�ionen
+hereingelassen haben, die den breiten Rosen-Weg zum ewigen Freuden-
+Feuer wandeln.
+
+(Ein Klopfen.)
+
+Noch einmal; noch einmal; ich bitte euch, verge�t den Pf�rtner
+nicht.
+
+(Er macht auf.)
+
+(Macduff und Lenox treten auf.)
+
+Macduff.
+Seyd ihr so sp�t zu Bette gegangen, da� ihr so lange liegt?
+
+Pf�rtner.
+In der That, Sir, wir zechten bis zum zweyten Hahnen-Ruf; und
+Trinken, Sir, ist ein grosser Bef�rderer von drey Dingen.
+
+Macduff.
+Was f�r drey Dinge, zum Exempel, bef�rdert das Trinken?
+
+Pf�rtner.
+Sapperment, Sir, rothe Nasen, Schlaf und Urin.  Was die Unzucht
+betrift, Sir, diese bef�rdert es und bef�rdert es auch nicht; es
+reizt die Begierde, aber es verhindert die Vollbringung.  De�wegen
+kan man sagen, da� ein Rausch in diesem St�k den Doppel-Sinner
+mache; er spornt an, und schrekt ab; er �berredet, und nimmt den
+Muth; er wigelt auf, und schl�gt nieder; bis sich das Spiel zulezt
+damit endet, da� er einen zu Boden legt, f�r todt ligen l��t, und
+davon geht.
+
+(Hier mu� man etliche Zeiten �berh�pfen, die in Wortspielen
+bestehen.)
+
+Macduff.
+Ist dein Herr schon auf?  Unser Klopfen hat ihn aufgewekt, hier
+kommt er.  (Macbeth zu den Vorigen.)
+
+Lenox.
+Guten Morgen, edler Sir.
+
+Macbeth.
+Ich w�nsche beyden einen guten Morgen.
+
+Macduff.
+Ist der K�nig schon erwacht, edler Than?
+
+Macbeth.
+Noch nicht.
+
+Macduff.
+Er befahl mir, ich sollt' ihn fr�hzeitig weken lassen, und es ist
+w�rklich fast um eine Stunde sp�ter.
+
+Macbeth.
+Ich will euch zu ihm f�hren.
+
+Macduff.
+Ich wei�, da� es euch eine angenehme M�he w�re, aber es ist doch
+eine M�he.
+
+Macbeth.
+Eine Arbeit, die uns angenehm ist, heilt ihre M�he; hier ist die
+Th�re.
+
+Macduff.
+Ich will so frey seyn, und ruffen; denn das erlaubt mir mein Amt.
+
+(Macduff geht ab.)
+
+Lenox.
+Reist der K�nig heute wieder ab?
+
+Macbeth.
+So bestellte er's.
+
+Lenox.
+Diese Nacht war eine unruhige Nacht; in dem Gemach, wo wir lagen,
+wurde das Camin herunter geweht; und, wie sie sagen, so h�rte man
+ein kl�gliches Geschrey in der Luft, und gr��liche Todes-Stimmen.
+F�rchterliche Propheten (im Ohr des Aberglaubens) von Verwirrung,
+Staats-Ver�nderungen, Fall, und Untergang.  Die Eule schrie die
+ganze Nacht durch, und einige sagen, die Erde selbst habe in
+fieberhaftem Schauer gezittert.
+
+Macbeth.
+Es war eine ungest�me Nacht.
+
+Lenox.
+Ich bin nicht alt genug, mich einer �hnlichen erinnern zu k�nnen.
+(Macduff zu den Vorigen.)
+
+Macduff.
+O!  Entsezlich, Entsezlich!  Entsezlich!  Keine Zunge, kein Herz
+kan es fassen noch aussprechen.
+
+Macbeth und Lenox.
+Was ist's dann?
+
+Macduff.
+Der Frevel hat sein Meisterst�k gemacht; eine gottesvergessne
+M�rder-Hand hat den geweyhten Tempel des Herrn aufgebrochen, und
+das geheiligte Leben daraus gestohlen.
+
+Macbeth.
+Was wollt ihr damit sagen?  das Leben?
+
+Lenox.
+Meynt ihr seine Majest�t?
+
+Macduff.
+Geht hinein, und erstarret vor einer neuen Gorgone--Verlangt nicht,
+da� ich es aussprechen soll; seht, und dann redet selbst:
+
+(Macbeth und Lenox gehen ab)
+
+Erwacht!  Erwacht!  Schlagt die Sturmgloke!--Mord und Hochverrath!
+Banquo!  Donalbain!  Malcolm!  Erwacht!  Sch�ttelt diesen
+pflaumichten Schlaf ab, des Todes Ebenbild, und seht den Tod selbst--
+Auf, auf, und seht das Vorspiel des grossen Gerichts!--Malcolm!
+Banquo!  Steht wie aus euern Gr�bern auf, und schreitet wie Geister
+daher, die entsezliche Scene anzuschauen--
+
+
+
+F�nfte Scene.
+(Man l�utet die Gloke.)
+(Lady Macbeth tritt auf.)
+
+
+Lady.
+Was ist die Ursache, da� eine so f�rchterliche Trompete die
+Schl�fer des Hauses auffordert?  Redet!
+
+Macduff.
+Sch�ne Lady, es taugt nicht f�r euch zu h�ren, was ich sagen kan.
+Ein weibliches Ohr damit zu schreken, w�rde ein zweyter Mord seyn--
+O Banquo!  Banquo!  (Banquo zu den Vorigen.) Unser K�nig und Herr
+ist ermordet.
+
+Lady.
+Hilf Himmel!  Was, in unserm Hause?
+
+Banquo.
+Entsezlich genug, wo es seyn m�chte.  Macduff, ich bitte dich,
+widersprich dir selbst, und sag, es sey nicht so.  (Macbeth, Rosse
+und Lenox zu den Vorigen.)
+
+Macbeth.
+O!  w�r ich nur eine Stunde vor diesem Unfall gestorben, so h�tt
+ich gl�klich gelebt!  Denn, von diesem Augenblik an, ist nichts
+sch�zbares mehr in der Sterblichkeit; alles ist nur Puppen-Werk;
+Ehre und Gnade sind todt; der Wein des Lebens ist abgezogen, und
+die blosse Hefen ist in dieser Cloak der Welt zur�kgeblieben--
+(Malcolm und Donalbain treten auf.)
+
+Donalbain.
+Was f�r ein Ungl�k ist dann begegnet?
+
+Macbeth.
+Ihr seyd verlohren, und wi�t es nicht; die Quelle euers Bluts ist
+verstopft--
+
+Macduff.
+Euer K�niglicher Vater ist ermordet.
+
+Malcolm.
+Oh!  von wem?
+
+Lenox.
+Seine K�mmerlinge, wie es scheint, sind die Th�ter; ihre H�nde und
+Gesichter waren �berall mit Blute beschmiert; so waren auch ihre
+Dolche, die wir unabgewischt, auf ihren K�ssen fanden, sie sahen
+wild aus, und waren nicht bey sich selber, es getraute sich niemand
+ihnen nahe zu kommen.
+
+Macbeth.
+O, izt reut es mich, da� ich sie in meiner ersten Wuth umgebracht
+habe--
+
+Macduff.
+Warum thatet ihr das?
+
+Macbeth.
+Wer kan in dem nehmlichen Augenblike weise und verwirrt, ruhig und
+rasend, getreu und gleichg�ltig seyn?  Niemand.  Die W�rkung meiner
+heftigen Liebe �berrannte die zaudernde Vernunft.  Hier lag Duncan;
+seine Silber-Haut mit seinem goldnen Blut verbr�mt, und seine
+weitofnen Wunden wie L�ken in der Natur, wodurch das Verderben
+einbricht; hier, die M�rder, in die Farbe ihres Handwerks gekleidet,
+ihre Messer unm�nnlich mit geronnenem Blute bemahlt--Welcher, der
+ein Herz f�r seinen K�nig hatte, und in diesem Herzen Muth, diese
+Liebe zu beweisen, h�tte sich da zur�khalten k�nnen?
+
+Lady Macbeth.
+Helft mir von hier, oh!--
+
+(Sie thut als ob sie ohnm�chtig werde.)
+
+Macduff.
+Habt auf die Lady acht--
+
+Malcolm.
+Warum schweigen wir, wir, die dieses Trauerspiel am n�chsten angeht?
+
+Donalbain.
+Was l��t sich hier sagen, wo unser Verderben, in einem Bohrer-Loch
+verborgen, alle Augenblike hervorst�rmen und uns fassen kan.
+Hinweg von hier, es ist izt keine Zeit zu Thr�nen.
+
+Banquo.
+Sorget f�r die Lady--
+
+(Sie wird hinweggef�hrt.)
+
+Und wenn wir erst unsre nakte Gebrechlichkeit verborgen haben,
+dann la�t uns wieder zusammenkommen, und dieser gr��lichen
+Blutschuld genauer nachfragen.  Furcht und Zweifel ersch�ttern uns.
+Hier in Gottes grosser Hand steh ich, und erkl�re mich von da den
+unvers�hnlichen Gegner des verh�llten Th�ters dieser ungeheuern
+That.
+
+Macbeth.
+Das thue ich auch.
+
+Alle.
+Das thun wir alle.
+
+Macbeth.
+Sobald wir angekleidet und bewafnet sind, wollen wir in der Halle
+zusammenkommen.
+
+Alle.
+Wir sind's zufrieden.
+
+(Sie gehen ab.)
+
+Malcolm.
+Was habt ihr im Sinn?  Ich halt' es nicht vor rathsam, uns ihnen
+anzuvertrauen.  Einen Schmerz zu zeigen, den man nicht f�hlt, ist
+eine Pflicht, die dem Unredlichen nicht schwer ankommt.  Ich will
+nach England.
+
+Donalbain.
+Ich, nach Irland.  Getrennt werden wir beyde sichrer seyn; wo wir
+sind, seh ich lauter Dolche, unter freundlichem L�cheln verstekt,
+in jedem Antliz; je n�her am Blut, je gef�hrlicher.
+
+Malcolm.
+Dieser m�rdrische Wurfpfeil, der unsern Vater traf, wird noch immer
+geschwungen; und das sicherste ist, ihm auszuweichen.  Also, zu
+Pferde; la� uns keine Zeit mit Abschiednehmen verliehren; es ist
+erlaubt sich selbst wegzustehlen, wo der kleinste Verzug den Tod
+bringen kan.
+
+(Sie gehen ab.)
+
+
+
+Sechste Scene.
+(Ein Plaz vor Macbeths Schlosse.)
+(Rosse, mit einem alten Mann, tritt auf.)
+
+
+Der alte Mann.
+Von Siebenzig Jahren her kan ich mich noch wohl besinnen, und in
+dieser langen Zeit hab ich f�rchterliche Stunden gesehen, und
+seltsame Dinge: aber diese schrekliche Nacht hat alles was ich
+vormals gekannt habe, zu Kleinigkeiten gemacht.
+
+Rosse.
+Ach, guter Vater, du siehst, die Himmel hangen dr�uend �ber diesen
+blutigen Schauplaz herab; der Gloke nach ist's Tag, und doch d�mpft
+finstre Nacht die wandernde Lampe; Macht es die �bermacht der
+Nacht, oder die Schaam des Tages, da� dieses n�chtliche Dunkel das
+Antliz der Erde begr�bt, wann lebendes Licht es k�ssen sollte?
+
+Alter Mann.
+Es ist unnat�rlich, wie die That, die gethan ist.  Lezten Dienstag
+ward ein Falke, der im Stolz seines Geschlechts thurmhoch
+daherschwebte, von einer mausenden Eule angefallen und get�dtet.
+
+Rosse.
+Und Duncans Pferde, (die Sache ist so gewi� als sie wunderbar ist!)
+diese sch�nen Thiere, die Zierde ihrer Gattung, wurden pl�zlich
+wild, brachen aus ihren St�llen, schossen w�tend umher, und
+k�mpften unb�ndig dem Gehorsam entgegen, als ob sie einen Krieg mit
+dem Menschen fuhren wollten.
+
+Alter Mann.
+Man sagt, sie h�tten einander ausgefressen.
+
+Rosse.
+Das thaten sie; kaum traute ich meinen eignen Augen, aber ich sah
+es selbst.  (Macduff zu den Vorigen.) Hier kommt der wakere Macduff.
+Wie geht die Welt, Sir?
+
+Macduff.
+Wie, seht ihr's nicht?
+
+Rosse.
+Wei� man, wer die That gethan hat?
+
+Macduff.
+Sie, die Macbeth erschlug.
+
+Rosse.
+G�tter!  was f�r einen Vortheil konnten sie davon erwarten?
+
+Macduff.
+Sie waren bestochen; Malcolm und Donalbain, des K�nigs S�hne, sind
+heimlich entflohen, und haben sich dadurch der That verd�chtig
+gemacht.
+
+Rosse.
+Immer wider die Natur--Unselige Herschsucht, da� du gegen den
+Ursprung deines eignen Lebens dich emp�ren kanst!--also wird
+vermuthlich die Crone auf Macbeth fallen.
+
+Macduff.
+Er ist w�rklich ausgerufen, und zur Cr�nung nach Scone abgegangen.
+
+Rosse.
+Wo ist Duncans Leiche?
+
+Macduff.
+Nach Colmes-Hill gebracht, der geheiligten Gruft, wo die Gebeine
+seiner V�ter ruhen.
+
+Rosse.
+Geht ihr nach Scone?
+
+Macduff.
+Nein, Vetter, ich will nach Fife.
+
+Rosse.
+Gut, so will ich dahin.
+
+Macduff.
+Wohl, ich w�nsche, da� ihr die Sachen dort nach Wunsch antreffet;
+lebet wohl!  Leicht k�nnen uns unsre alten R�ke bequemer gesessen
+haben, als die neuen!
+
+Rosse.
+Lebet wohl, Vater.
+
+Alter Mann.
+Gottes Segen geh mit euch, und mit allen, die gern aus B�sem Gutes,
+und aus Feinden Freunde machten!
+
+(Sie gehen ab.)
+
+
+
+
+Dritter Aufzug.
+
+
+
+Erste Scene.
+(Ein Zimmer im Palast.)
+(Banquo tritt auf.)
+
+
+Banquo.
+So hast du's also?  Glamis, Cawdor, K�nig, alles was dir die
+Zauberinnen versprochen haben; ich f�rchte sehr, du bist auf keine
+gute Art dazu gekommen; und doch wurde gesagt, es sollte nicht bey
+deinen Nachkommen bleiben, sondern ich selbst sollte die Wurzel und
+der Stammvater vieler K�nige seyn.  Wenn Wahrheit von ihnen kommen
+kan, (wie ihre Anrede an dich, Macbeth, zu beweisen scheint) warum
+k�nnen sie nicht eben so wohl meine Orakel seyn, und mich zu
+Hoffnung anfrischen?--Doch stille!  nichts mehr hievon.  (Trompeten.
+Macbeth als K�nig, Lady Macbeth, Lenox, Rosse, Lords und
+Hofdiener.)
+
+Macbeth.
+Hier ist unser vornehmster Gast.
+
+Lady.
+Wenn er vergessen worden w�re, so h�tte es wie eine g�hnende L�ke
+in unserm Fest ausgesehen, und alles andre entstellt.
+
+Macbeth.
+Wir haben auf die Nacht ein festliches Gastmal, Sir, und ersuchen
+euch um eure Gegenwart.
+
+Banquo.
+Nach eurer Hoheit Befehl; an deren jeden meine Pflicht durch ein
+unaufl��liches Band auf ewig gekn�pft ist.
+
+Macbeth.
+Ihr verreiset diesen Nachmittag?
+
+Banquo.
+Ja, mein gn�digster Herr.
+
+Macbeth.
+Wir wollten uns sonst euren guten Rath (der allezeit weise und
+gl�klich war) in der heutigen Raths-Versammlung ausgebetten haben,
+doch es ist morgen fr�h genug dazu.  Geht die Reise weit?
+
+Banquo.
+So weit, da� ich die ganze Zeit zwischen izt und dem Nachtessen
+dazu gebrauchen werde.  Wenn mein Pferd nicht das beste thut, so
+werd' ich noch eine oder zwoo dunkle Stunden von der Nacht
+entlehnen m�ssen.
+
+Macbeth.
+Bleibet ja nicht von unserm Gastmal aus.
+
+Banquo.
+Mein gebietender Herr, ich will nicht fehlen.
+
+Macbeth.
+Wir h�ren, unsre blutigen Vettern haben sich nach England und
+Irland gemacht, l�ugnen ihren grausamen Vater-Mord, erf�llen ihre
+H�rer mit seltsamen Erfindungen--Doch, hievon morgen, mit andern
+Angelegenheiten, die den Staat betreffen, und unsre vereinigte
+Aufmerksamkeit fodern.  Geht ihr zu Pferde!  Adieu, bis auf die
+Nacht.  Geht Fleance mit euch?
+
+Banquo.
+Ja, gn�digster Herr, wir k�nnen nicht l�nger verweilen--
+
+Macbeth.
+Ich w�nsche euern Pferden schnelle und sichre F�sse, und hiemit
+empfehl' ich euch ihrem R�ken.  Lebet wohl.
+
+(Banquo geht ab.)
+
+La�t bis Abends um sieben Uhr, jedermann Meister von seiner Zeit
+seyn; das Vergn�gen der Gesellschaft desto besser zu schmeken,
+wollen wir selbst bis zum Abendessen allein seyn; bis dahin, sey
+Gott mit euch!
+
+(Lady Macbeth und Lords gehen ab.)
+
+
+
+Zweyte Scene.
+(Macbeth und ein Bedienter bleiben.)
+
+
+Macbeth.
+Camerad, ein Wort mit dir; sind diese M�nner bey der Hand, die wir
+foderten?
+
+Bedienter.
+Gn�digster Herr, sie warten bey der Schlo�-Pforte.
+
+Macbeth.
+F�hre sie vor uns--
+
+(Der Bediente geht ab.)
+
+Das zu seyn, ist noch nichts; aber es mit Sicherheit zu seyn--Wir
+haben grosse Ursachen, diesen Banquo zu f�rchten; es herrscht ein
+Etwas in seiner K�niglichen Seele, das gef�rchtet werden will.
+Sein Muth reicht weit, und zu dieser unerschroknen St�hlung seines
+Gem�ths, besizt er eine Klugheit, die seinen Muth regiert, und
+seinen Unternehmungen Sicherheit giebt.  Er ist der einzige, dessen
+Daseyn ich f�rchte.  In seiner Gegenwart allein wird mein Genius
+ged�mpft, wie man erz�hlt, da� Antons seiner es vor C�sars war.  Er
+redte die Schwestern trozig an, da sie zum erstenmal den K�nigs-
+Titel auf mich legten, und befahl ihnen, zu ihm zu reden; und dann
+gr��ten sie ihn, prophetisch, den Vater einer Reyhe von K�nigen.
+Auf mein Haubt sezten sie eine unfruchtbare Crone, und gaben mir
+einen d�rren Scepter in meine Hand, damit er von einer fremden Hand
+mir einst entwunden werde.  Ist es so, so hab ich f�r Banquos
+Nachk�mmlinge meine Seele beflekt, f�r sie den huldreichen Duncan
+ermordet; f�r sie auf ewig den Frieden meines Herzens verlohren,
+und mein unverg�ngliches Kleinod dem allgemeinen Feind der Menschen
+verkauft, um sie zu K�nigen zu machen--die Nachkommen des Banquo zu
+K�nigen: Eh di� seyn soll, eh komme der Tod in die Schranken, und
+fordre mich zum Kampf aufs Leben heraus!--Wer ist hier?  (Der
+Bediente kommt mit zween M�rdern zur�k.) Geh vor die Th�re, und
+warte dort, bis wir ruffen.  War es nicht gestern, als wir mit
+einander sprachen?
+
+M�rder.
+Es war so, Gn�digster Herr.
+
+Macbeth.
+Wohlan dann, habt ihr meinen Reden nachgedacht?  Ihr wi�t nun, da�
+er es war, der in vergangnen Zeiten das Gl�k euch so ungeneigt
+machte; ihr bildtet euch ein, da� es unser unschuldiges Selbst w�re;
+aber, es ist euch in unsrer lezten Unterredung bewiesen worden,
+wie man mit euch umgegangen ist; was f�r Kunstgriffe man gebraucht,
+wer die Werkzeuge dazu waren, wer sie in Bewegung sezte, kurz,
+solche Umst�nde, die einer halben Seele und dem schw�chsten Begriff
+sagen mu�ten: das that Banquo.
+
+1. M�rder.
+In der That, wir wurden �berzeugt.
+
+Macbeth.
+Nunmehr komm' ich auf den andern Punct.  Findet ihr eine so
+�berm��ige Geduld in eurer Natur, da� ihr das so gehen lassen
+k�nnt?  Seyd ihr so gar fromm, da� ihr f�r diesen wakern Mann und
+seine Nachkommen beten k�nnt--f�r den, der euch bis ans Grab
+niedergebeugt, und auf immer zu Bettlern gemacht hat?
+
+1. M�rder.
+Wir sind M�nner, mein Gn�digster Oberherr.
+
+Macbeth.
+Ja, ja, in der allgemeinen Cla�ification geht ihr unter diesem
+Namen, so wie Windhunde, Wachtelhunde, Pudel, M�pse, Bullen-Beisser,
+Sch�ferhunde, alle unter dem allgemeinen Namen Hund begriffen
+werden; die besondere Bestimmung unterscheidet den schnellen, den
+langsamen, den schlauen, den Haush�ter, den J�ger, einen jeden
+durch eine gewisse Gabe der g�tigen Natur, die seiner Art eigen ist,
+und ihn aus der allgemeinen Gattung auszeichnet.  So ist es auch
+mit den Menschen.  Nun, wenn ihr dann M�nner seyd, und in der Reyhe
+der verschiednen Arten an �chter Mannheit nicht die allerlezten, so
+sagt es, und ich will ein Gesch�ft in euern Busen legen, dessen
+Ausf�hrung euch von einem Feinde befreyen und zugleich an unser
+eignes Herz anklammern wird; indem sein Tod allein uns eine
+vollkommne Zufriedenheit gew�hren kan.
+
+2. M�rder.
+Ich bin einer, den die Streiche und Mi�handlungen der Welt
+dermassen aufgebracht haben, da� ich bereit bin, ihr zu Troz alles
+zu unternehmen.
+
+1. M�rder.
+Und ich ein andrer, der es so �berdr��ig ist, sich, immer zu seinem
+Nachtheil, mit dem Gl�k herumzubalgen, da� ich alle Augenblike
+bereit bin, mein Leben auf das ungewisseste Spiel zu sezen, und es
+zu verbessern, oder seiner gar lo� zu werden.
+
+Macbeth.
+Ihr wisset beyde, da� Banquo euer Feind war--
+
+M�rder.
+Ja, Gn�digster Herr.
+
+Macbeth.
+Er ist auch der meinige, und mit einem so blutigen Hasse, da� eine
+jede Minute, die sein Daseyn verl�ngert, das meinige in Gefahr sezt;
+und ob ich gleich Macht genug h�tte, ihn �ffentlich aus meinem
+Gesicht wegzutilgen, so mag ich's doch um gewisser Freunde willen
+nicht thun, die auch die seinigen sind, und deren Zuneigung ich
+nicht gerne verscherzte; die Klugheit fordert, da� ich den Fall
+desjenigen beweine, den ich selbst zu Boden geschlagen habe; und
+daher kommt es, da� ich euern Beystand n�thig habe, um die Sache,
+aus besondern wichtigen Ursachen, vor dem �ffentlichen Auge zu
+verbergen.
+
+2. M�rder.
+Gn�digster Herr, wir sind zu allem entschlossen, was ihr uns
+befehlen k�nnt.
+
+1. M�rder.
+Wenn gleich unser Leben--
+
+Macbeth.
+Eure Geister scheinen durch euch hervor.  Binnen einer Stund', aufs
+l�ngste, will ich euch �ber Zeit, Ort und Augenblik den n�hern
+Unterricht geben, denn es mu� bey Nacht gethan werden, und in
+einiger Entfernung von dem Palast--aber das mu� noch genauer
+bestimmt werden--und mit ihm soll, um reine Arbeit zu machen, auch
+Fleance, sein Sohn, der ihm Gesellschaft leistet, und dessen
+Hinwegr�umung mir nicht weniger wichtig ist, als seines Vaters, das
+Schiksal dieser finstern Stunde theilen.  Bedenket euch nun allein,
+ich will gleich wieder zu euch kommen.
+
+M�rder.
+Wir sind schon entschlossen, Gn�digster Herr.
+
+Macbeth.
+Gut, so will ich euch wieder ruffen lassen; geht inde� auf die
+Seite--
+
+(die M�rder gehen ab.)
+
+Es ist beschlossen--Banquo, wenn deine Seele dem Himmel zufliegen
+will, so mu� sie ihn in dieser Nacht ausfindig machen.
+
+
+
+Dritte Scene.
+(Ein andres Zimmer im Palast.)
+(Lady Macbeth und ein Bedienter.)
+
+
+Lady.
+Ist Banquo schon abgereist?
+
+Bedienter.
+Ja, Gn�digste Frau, aber er kommt auf die Nacht wieder zur�k.
+
+Lady.
+Sage dem K�nige, ich m�chte, wenn's ihm gelegen ist, ein paar Worte
+mit ihm sprechen.
+
+(Der Bediente geht.)
+
+Alles ist verlohren, und nichts gewonnen, wenn wir das Ziel unsrer
+W�nsche nicht mit unsrer Zufriedenheit erkauft haben--
+(Macbeth tritt auf.) Wie steht's, Milord?  warum so viel allein?
+wozu soll es dienen, da� ihr die verdrieslichsten Einbildungen zu
+eurer Gesellschaft macht, und euch mit Gedanken unterhaltet, die
+mit denen, an welche sie denken, gestorben seyn sollten?  An Dinge
+die nicht zu �ndern sind, sollt' auch nicht gedacht werden; was
+gethan ist, ist gethan.
+
+Macbeth.
+Wir haben die Schlange zerst�kt, nicht get�dtet--Sie wird wieder
+zusammenwachsen, und sie selbst seyn; inde� da� unsre arme
+einf�ltige Bo�heit der Gefahr ihrer vorigen Z�hne ausgesezt bleibt.
+Aber ehe sollen beyde Welten aus ihren Angeln fallen, und alle
+Wesen unter ihrem Gewicht zertr�mmern, eh wir unser Brod mit
+Zittern essen, und in der Be�ngstigung dieser schreklichen Tr�ume
+schlafen wollen, die uns bey n�chtlicher Weil' ersch�ttern.  Besser
+bey dem Todten seyn, (den wir, diesen Plaz zu erhalten, in seine
+Ruhe gesandt haben,) als auf dieser Folter des Gem�ths in rastloser
+Pein zu ligen--Duncan ligt in seinem Grabe; auf das unruhvolle
+Fieber des Lebens, schl�ft er wohl; Verr�therey hat ihr �rgstes
+gethan; nun kan weder Gift, noch Stahl, weder einheimische Bo�heit,
+noch ausw�rtiger Anfall, nichts kan ihn mehr ber�hren.
+
+Lady.
+Kommt, kommt, mein liebster Lord, heitert diese finstern Blike auf;
+seyd munter und Jovialisch, unter euern G�sten, auf die Nacht.
+
+Macbeth.
+Das will ich, meine Liebe, und ich bitte, seyd es auch.
+Sonderheitlich habt eine immer gesch�ftige Achtung f�r Banquo; thut
+ihm mit Bliken und Worten, alle ersinnliche Ehre an; noch erheischt
+es die Zeit, da� wir unsre W�rde vergessen, uns zu Schmeicheleyen
+herablassen, und unsre Gesichter zu l�chelnden Masken unsrer Herzen
+machen.
+
+Lady.
+Denkt nicht an das.
+
+Macbeth.
+O, mein Gem�th ist mit Scorpionen angef�llt, theures Weib!  du
+wei�t, da� Banquo und sein Fleance leben!
+
+Lady.
+Aber in beyden ist der Abdruk der Natur nicht unsterblich.
+
+Macbeth.
+Das ist noch der Trost, da� sie zerst�rbar sind; also, sey du gutes
+Muths.  Eh noch die Fledermaus ihren einsiedlerischen Flug beginnen
+wird, eh auf der schwarzen Hecate Ruf, der Scherben-gebohrne K�fer,
+mit seinem schl�frigen Sumsen die g�hnende Nacht einl�utet, soll
+eine That von furchtbarem Inhalt gethan seyn.
+
+Lady.
+Was soll dann geschehen?
+
+Macbeth.
+Sey lieber unwissend, mein liebstes H�hnchen, bis du der
+vollbrachten That zujauchzen kanst.  Komm, blendende Nacht,
+schliesse das z�rtliche Auge des mitleidigen Tags, durchstreiche
+mit deiner blutigen und unsichtbaren Hand, und zerrei� in St�ken
+diesen grossen Schuldbrief, der mich so bleich aussehen macht.--Die
+Nacht wird diker, und die Kr�he fliegt dem dohlen-vollen Geh�lze zu;
+alle guten Tag-Gesch�pfe fangen an zu niken und einzuschlummern,
+inde� da� die schwarzen Hausgenossen der Nacht auf ihren Raub
+ausgehen.  Du erstaunst �ber meine Reden; aber sey ruhig; Dinge,
+die einen b�sen Anfang haben, k�nnen nur durch �belthaten
+fortgef�hrt werden.  Begn�ge dich hiemit, und folge mir.
+
+(Sie gehen ab.)
+
+
+
+Vierte Scene.
+(Verwandelt sich in einen Parc; in einiger Entfernung von dem
+ Schlosse.)
+(Drey M�rder treten auf.)
+
+
+1. M�rder.
+Aber wer befahl dir, zu uns zu stossen?
+
+3. M�rder.
+Macbeth.
+
+2. M�rder.
+Wir haben keine Ursache, Mi�trauen in ihn zu sezen, da er dasjenige
+was wir zu thun haben, an den rechten Mann berichten wird.
+
+1. M�rder.
+So stehe zu uns.  Der Westen schimmert noch von einigen verlohrnen
+Stralen; der versp�tete Wandrer verdoppelt izt die Schritte, um
+zeitig in die Herberge zu kommen, und der Gegenstand unsrer Wache
+n�hert sich.
+
+3. M�rder.
+Horcht, ich h�re Pferde.
+
+Banquo (hinter der Scene.)
+Gebt uns Licht, hier, he!
+
+2. M�rder.
+So ist ers: die andern, die erwartet wurden, sind alle schon bey
+Hofe.
+
+1. M�rder.
+Seine Pferde machen einen Umweg.
+
+3. M�rder.
+Schier um eine halbe Stunde: aber er und fast jedermann pflegt den
+Weg von hier bis zur Schlo�pforte zu nehmen, weil er durch den Park
+angenehmer ist.  (Banquo und Fleance treten auf, mit einer Fakel.)
+
+2. M�rder.
+Ein Licht, ein Licht.
+
+3. M�rder.
+Er ist's.
+
+1. M�rder.
+Macht euch fertig.
+
+Banquo.
+Es giebt einen Regen auf die Nacht.
+
+1. M�rder.
+La� ihn nur fallen.
+
+(Sie fallen �ber Banquo her.)
+
+Banquo.
+O, Verr�therey!  Flieh, Fleance, flieh, flieh, flieh; du kanst mein
+R�cher seyn.  O!  Sclave.
+
+(Banquo stirbt, Fleance entflieht.)
+
+3. M�rder.
+Wer l�schte das Licht aus?
+
+3. M�rder.
+Es ist nur eins gethan, der Sohn ist entwischt.
+
+2. M�rder.
+Wir haben die be�re H�lfte unsers Gesch�fts verlohren.
+
+1. M�rder.
+Gut, wir wollen gehn, und sagen, was gethan ist.
+
+(ab.)
+
+
+
+F�nfte Scene.
+(Verwandelt sich in einen pr�chtigen Saal im Schlosse.)
+(Eine aufger�stete Tafel, mit Speisen.  Macbeth, Lady Macbeth,
+ Rosse, Lenox, Lords und Gefolge treten auf.)
+
+
+Macbeth.
+Ihr kennt euren Rang, Milords, sezt euch, alle, vom ersten zum
+lezten, herzlich willkommen!
+
+Lords.
+Wir danken Eu.  Majest�t.
+
+Macbeth.
+Wir wollen uns selbst bald hier bald da unter die Gesellschaft
+mischen, und den aufwartsamen Gastwirth machen; Unsre Wirthin
+scheint ihre Rolle zu vergessen, aber wir wollen sie bey
+Gelegenheit ersuchen, ihre G�ste willkommen zu heissen.
+
+(Sie sezen sich.)
+
+Lady.
+Thut Ihr's an meiner Statt, Sir, gegen alle unsre Freunde; mein
+Herz wenigstens hei�t sie alle willkommen.
+
+(Der erste M�rder kommt an die Th�re.)
+
+Macbeth.
+Sieh, wie ihre dankbaren Herzen dir entgegen wallen!  Beyde Seiten
+sind besezt; hier will ich mich in die Mitte sezen; seyd munter,
+wir wollen bald den Becher rund um die Tafel gehen lassen--
+
+(er erblikt den M�rder, geht gegen die Th�re zu, und sagt leise:)
+
+Es ist Blut in deinem Gesicht--
+
+M�rder.
+So ist es Banquo's.
+
+Macbeth.
+Ist er geliefert?
+
+M�rder.
+Gn�digster Herr, ich erspart' ihm die M�he, sich die Gurgel selbst
+abzuschneiden.
+
+Macbeth.
+Du bist der Erste unter allen Gurgel-Abschneidern; und der n�chste
+an dir ist, der dem Fleance das nehmliche that; Wenn du der w�rst,
+so hast du deines gleichen nicht.
+
+M�rder.
+K�niglicher Herr, Fleance ist entronnen.
+
+Macbeth.
+So kommt mein Fieber wieder; sonst w�r' ich vollkommen gesund
+gewesen; ganz wie Marmor, gegr�ndet wie ein Fels, unumschr�nkt und
+allgemein, wie die umgebende Luft: Nun bin ich eingeschlossen,
+angebunden, und meinen alten Zweifeln und Besorgnissen �berliefert.
+Aber Banquo ist doch sicher?
+
+M�rder.
+Ja, mein Gn�digster Herr: Denn er ligt in einem Graben, mit zwanzig
+tiefen Wunden in seinem Kopfe, wovon die kleinste t�dtlich war.
+
+Macbeth.
+Ich danke dir; hier liegt die erwachsne Schlange; der Wurm, der
+entflohen ist, hat die F�higkeit, mit der Zeit Gift zu zeugen, aber
+keine Z�hne f�r die dermalige.  Geh du izt, morgen wollen wir's
+noch einmal h�ren.
+
+(Der M�rder geht ab.)
+
+Lady.
+Mein K�niglicher Herr, ihr reguliert eure Freunde nicht wohl; wenn
+man bey einem Gastmal nur essen soll, so k�nnte man das zu Hause
+bequemer thun; ausser Hause sind Unterhaltung und gemeinschaftliche
+Fr�lichkeit das Gew�rz, ohne welches die besten Sch�sseln
+unschmakhaft sind.
+
+(Banquo's Geist steigt empor, und sezt sich an den Plaz, den man
+f�r Macbeth leer gelassen.)
+
+Lenox.
+Gef�llt es Eu.  Hoheit, Plaz zu nehmen?
+
+Macbeth.
+Hier h�tten wir nun die Zierden unsers Vaterlandes beysammen, wenn
+die verdienstvolle Person unsers Freundes Banquo nicht mangelte;
+gebe der Himmel, da� seine Abwesenheit eher von einem Mangel an
+Gef�lligkeit gegen uns, als von einem Ungl�k, das ihm zugestossen,
+herr�hre!
+
+Rosse.
+Seine Abwesenheit, Sire, macht sein Versprechen tadelhaft.  Gef�llt
+es Eu.  Hoheit, uns mit Ihrer k�niglichen Gesellschaft zu begl�ken?
+
+Macbeth
+
+(mit Entsezen, indem er den Geist erblikt, den sonst niemand sieht.)
+
+
+Die Tafel ist voll!
+
+Lenox.
+Hier ist ein aufbehaltner Plaz, Sire.
+
+Macbeth.
+Wo?
+
+Lenox.
+Hier, mein Gn�digster Herr--Was bewegt Eu.  Hoheit so sehr?
+
+Macbeth (ausser sich.)
+Welcher von euch hat das gethan?
+
+Lords.
+Was dann, Gn�digster Herr?
+
+Macbeth (zum Geist.)
+Du kanst nicht sagen, ich hab es gethan: sch�ttle deine blutigen
+Loken nicht so gegen mich!
+
+Rosse.
+Meine Herren, wir wollen aufstehen; seine Hoheit ist nicht wohl.
+
+Lady.
+Bleibet sizen, lieben Freunde, Milord ist oft so, und ist von
+Jugend an so gewesen.  Ich bitte euch, behaltet eure Pl�ze.  Der
+Ansto� daurt nur einen Augenblik, in einem Gedanken wird er wieder
+wohl seyn.  Wenn ihr viel Aufmerksamkeit auf ihn habt, so macht ihr
+ihn b�se und verl�ngert dadurch sein �bel.  Esset und gebt nicht
+acht auf ihn.--
+
+(Bey Seite zu Macbeth.)
+
+Seyd ihr ein Mann?
+
+Macbeth.
+Ja, und ein herzhafter dazu, weil ich den Muth habe etwas
+anzuschauen, das den Teufel erblassen machen k�nnte.
+
+Lady (bei Seite.)
+O vortrefliches Zeug!  das ist wieder die Mahlerey eurer Furcht;
+das ist der in der Luft gez�kte Dolch, der euch, sagtet ihr, zu
+Duncan leitete--O!  diese Einf�lle und Erscheinungen w�rden sich
+besser in ein von der Gro�mutter geerbtes Weiber-M�hrchen bey einem
+Winter-Feuer schiken--Sch�mt euch!  Was macht ihr f�r Gesichter?
+Wenn alles vorbey ist, so seht ihr weder mehr noch weniger als
+einen Stuhl.
+
+Macbeth.
+Ich bitte dich, sieh hieher!  Sieh!  Schau!  he!  was sagt ihr?
+
+(Er zeigt mit dem Finger auf den Geist.)
+
+Wie?  was frag ich darnach?  wenn du niken kanst, so red' auch!--
+Wenn Beinh�user und Gr�ber diejenigen, die wir begraben,
+zur�ksenden m�ssen: So sollen k�nftig die Magen der Geyer unsre
+Grabm�ler seyn.
+
+(Der Geist verschwindt.)
+
+Lady (immer bey Seite.)
+Wie?  noch immer so unm�nnlich th�richt!
+
+Macbeth.
+So wahr ich hier stehe, ich sah ihn--
+
+Lady.
+Fy, sch�mt euch!
+
+Macbeth.
+Es ist von jeher Blut vergossen worden, schon in jenen alten Zeiten,
+eh noch menschliche Sazungen das gemeine Wesen s�uberten; ja, und
+von dort an bis izt sind Mordthaten ver�bt worden, die zu
+entsezlich sind, um angeh�rt zu werden.  Es war immer so, da� wenn
+einem das Hirn heraus war, so starb der Mann und dann war's aus;
+aber izt steigen sie mit zwanzig t�dlichen Wunden auf ihrem Kopfe
+wieder hervor, und vertreiben uns aus unsern St�hlen; das ist weit
+seltsamer als ein solcher Mord.
+
+Lady (laut.)
+Mein liebster Gemahl, eure Freunde vermissen euch.
+
+Macbeth.
+Ich verga� mich--
+
+(laut.)
+
+Gebt nicht acht auf mich, meine w�rdigste Freunde, ich bin einer
+wunderlichen Schwachheit unterworfen, aber es ist nichts f�r
+diejenigen, die ihrer gewohnt sind--Kommt, ich will erst auf eure
+Gesundheit trinken, und mich dann sezen: Gebt mir Wein, f�llt den
+Becher voll--ich trinke auf das Wohlseyn der ganzen Tafel und
+unsers theuren Freunds Banquo, den wir vermissen; ich wollt' er
+w�re hier!  auf seine und aller Gesundheit!
+
+Lords.
+Wir danken unterth�nigst.
+
+(Der Geist steigt wieder empor.)
+
+Macbeth.
+Hinweg, aus meinem Gesicht!  La� die Erde dich verh�llen!  Deine
+Beine sind marklos, dein Blut ist kalt, du hast keine Seh-Kraft in
+diesen Augen, mit denen du mich so drohend anstarrest.
+
+Lady.
+Haltet das, meine edlen Lords, f�r nichts als eine gew�hnliche
+Sache; es ist nicht anders; das einzige ist, da� es das Vergn�gen
+unterbricht, das wir gehabt h�tten.
+
+Macbeth.
+Was ein Mann darf, darf ich auch--Komm du in der Gestalt eines
+Russischen B�ren auf mich zu, eines gewafneten Nashorns, oder eines
+Hyrkanischen Tygers; komm in einer jeden andern Gestalt, als dieser,
+und meine starken Nerven sollen nie erzittern: Oder lebe wieder
+auf, und fordre mich in eine W�ste auf den Degen aus; wenn ich's
+zitternd abschlage, dann nenne mich die Puppe eines M�dchens.
+Hinweg, schreklicher Schatten!  Unwesentliches Schrek-Bild, weg!--
+
+(Der Geist verschwindet.)
+
+Wie, so--sobald du fort bist, bin ich wieder ein Mann:
+
+(Die Lords stehen auf.)
+
+Ich bitte euch, bleibt sizen.
+
+Lady.
+Ihr habt durch diese ungewohnten fieberhaften Anst�sse unsre gute
+Gesellschaft aus der Fassung gebracht, und die Fr�lichkeit verbannt.
+Kan man denn solche Dinge nicht wie eine Sommer-Wolke vorbey
+gehen lassen, ohne so ausser sich selbst zu kommen?
+
+Macbeth.
+Ihr sezt mich in ein noch gr�ssres Erstaunen, als worinn ich vor
+war, wenn ich denke, da� ihr solche Erscheinungen anschauen, und
+die nat�rliche Rubin-Farbe eurer Wangen behalten k�nnt, wenn die
+meinigen vor Entsezen wei� werden!
+
+Rosse.
+Was f�r Erscheinungen, Gn�digster Herr?
+
+Lady.
+Ich bitte euch, redet nicht; er wird immer schlimmer und schlimmer;
+Fragen machen ihn vollends rasend: Gute Nacht, allen auf einmal.
+Wartet nicht auf Befehl zum Aufstehen, sondern geht alle zugleich.
+
+Lenox.
+Wir w�nschen Sr.  Majest�t gute Nacht, und bessere Gesundheit.
+
+Lady.
+Gute Nacht, allerseits.
+
+(Die Lords gehen ab.)
+
+Macbeth.
+Es will Blut haben, sagen sie; Blut will Blut haben; ich wei�
+Exempel, da� Steine sich ger�hrt, und B�ume geredt haben.
+Wahrsager, welche die geheimen Verh�ltnisse der Dinge kennen, haben
+schon durch Kr�hen und Dolen den verborgensten M�rder ans Licht
+gebracht--Wie weit ist die Nacht schon?
+
+Lady.
+So weit, da� sie bereits mit dem Morgen streitet, wer von ihnen
+Nacht, und wer Morgen sey.
+
+Macbeth.
+Was sagst du dazu, da� Macduff sich weigert, auf unsern Befehl zu
+erscheinen?
+
+Lady.
+Schiktet ihr nach ihm?
+
+Macbeth.
+Ich h�r es vor der Hand; aber ich will nach ihm schiken; es ist
+kein Than unter ihnen allen, in dessen Hause ich nicht einen
+Bedienten in meinem Solde habe.  Morgen fr�h will ich zu den Zauber-
+Schwestern; sie m�ssen mir mehr sagen; dann nun bin ich schon
+gezwungen, zu meinem Besten, durch die schlimmsten Mittel, das
+�rgste zu wissen.  Ich bin so tief in Blut hineingestiegen, da�
+wenn ich izt nicht weiter fortwatten wollte, das Zur�kgehen so
+gef�hrlich w�re als jenes; ich habe wunderbare Dinge im Kopf, die
+meine Hand fordern, und ausgef�hrt werden m�ssen, eh sie nur
+vermuthet werden k�nnen.
+
+Lady.
+Es mangelt euch an dem, was alle Wesen n�thig haben, an Schlaf.
+
+Macbeth.
+Komm, wir wollen auch schlafen gehen; mein Fehler ist nur die
+Furcht eines Neulings, der durch �bung noch nicht abgeh�rtet ist:
+wir sind in solchen Thaten noch Kinder.
+
+(Sie gehen ab.)
+
+
+
+Sechste Scene.*
+(Verwandelt sich in die Heide.)
+(Donner und Bliz.  Die drey Hexen treten auf, und begegnen der
+ Hecate.)
+
+
+(Hecate beschilt die drey Schwestern, da� sie sich eigenm�chtig
+unterfangen, den Macbeth durch r�thselhafte Vorhersagungen zu
+verf�hren, ohne sie, als ihre Vorsteherin, daran Antheil nehmen zu
+lassen.  Sie bestellt sie hierauf auf Morgen an den Acherontischen
+Brunnen, und befiehlt ihnen, alle ihre Gef�sse und Zauber-
+Materialien bereit zu halten; sie selbst, sagt sie, sey im Begriff
+gewisse D�nste aus dem Mond zu hohlen, durch deren magische
+Zubereitung sie gesonnen sey, so k�nstliche Phantomen vor Macbeths
+Augen zu bringen, da� er, zu seinem Verderben von ihnen betrogen,
+in tollk�hner Sicherheit, sich �ber alle Zuf�lle des Gl�cks und den
+Tod selbst hinweggesezt glauben werde.  Hierauf h�rt man eine Musik
+und einen Gesang.  Hecate sagt, da� ihr kleiner) Spiritus
+familiaris (sie abruffe, und die Zauberinnen fliegen allerseits
+davon.)
+
+{ed.-* Diese und die erste Scene des vierten Aufzugs sind schwehrlich
+in irgend eine Sprache zu �bersezen.  Sie w�rden es nicht seyn,
+wenn sie nicht mit dem (metro) der vierf��igen Jamben und dem Reim,
+alle ihre gr��liche und hexenm��ige Anmuth verl�hren.}
+
+
+
+Siebende Scene.
+(Verwandelt sich in ein Zimmer.)
+(Lenox und ein andrer Lord.)
+
+
+Lenox.
+Was ich sagte, war nur, euch auf die Spur zu bringen; ihr k�nnt nun
+selbst weiter gehen--ich sage nur, die Sachen sind wunderlich
+gegangen.  Der huldreiche Duncan wurde von Macbeth betraurt--das
+denk' ich wohl, er war ja todt--und der tapfre rechtschaffne Banquo
+reisete zu sp�t in der Nacht.  Ihr k�nnt, wenn es euch so beliebt,
+auch sagen, Fleance hab' ihn umgebracht, denn Fleance nahm ja die
+Flucht: Man sollte eben nicht so sp�t in der Nacht reisen.  Wo ist
+der Mensch, dem jemals der Gedank eingefallen w�re, da� Malcolm und
+Donalbain solche Ungeheuer seyn sollten, ihren so g�tigen Vater zu
+ermorden?  Eine verdammte That!  Wie schmerzte sie nicht den
+ehrlichen Macbeth!  T�dtete er nicht augenbliklich in frommer Wuth
+die beyden Th�ter, die vom Wein und Schlaf �berw�ltiget, zu Boden
+lagen?  War das nicht edel von ihm gehandelt?  Gewi�; und weislich
+dazu, denn wer h�tte ohne Verdru� anh�ren k�nnen, wenn die Buben es
+geleugnet h�tten?  So da� er also, wie ich sagte, in der ganzen
+Sache sich sehr fein betragen hat; und ich zweifle nicht, h�tte er
+Duncans S�hne unter seinem Schl�ssel, (wie er sie, wenn uns der
+Himmel gn�dig ist, nicht haben soll) sie sollten finden, was es auf
+sich hat, einen Vater zu ermorden; und so auch Fleance.  Doch
+Stille!  denn um etlicher freym�thiger Worte willen, und weil er
+bey des Tyrannen Gastmal nicht erschienen ist, fiel, wie ich h�re,
+Macduff in Ungnade.  K�nnt ihr mir sagen, Sir, wo er sich dermalen
+aufh�lt?
+
+Lord.
+Duncans Sohn, dessen angebohrnes Recht der Tyrann vorenth�lt, lebt
+am Englischen Hof, und empf�ngt von dem frommen Eduard so viele
+Freundschaft und Ehren-Bezeugungen, da� die Mi�gunst des Gl�ks ihm
+nichts von seinem hohen Ansehen entwendet zu haben scheint.  Dahin
+ist nun auch Macduff abgegangen, um den K�nig zu bitten, da� er
+Northumberland und den tapfern Siward zu seinem Beystand weken
+m�chte, damit wir, n�chst dem, der �ber uns seinen allm�chtigen
+Beyfall dazu geben wird, mit ihrer H�lfe unsern Tischen wieder
+Speise, und unsern N�chten Schlaf geben, m�rdrische Dolche von
+unsern Festen und Gastm�hlern entfernen, einem rechtm��igen Herrn
+dienen, und ehrenvolle Belohnungen empfangen m�gen.  Die Nachricht
+von allem diesem hat den Tyrannen so erbittert, da� er schleunige
+Kriegs-Zur�stungen macht.
+
+Lenox.
+Schikte er nach Macduff?
+
+Lord.
+Ja, und mit einem unbedingten "Sir, ich nicht", dreht mir der
+mi�vergn�gte Abgeschikte seinen R�ken und murmelt, als wollt' er
+sagen: ihr werdet euch die Stunde reuen lassen, da ihr mich mit
+dieser Antwort beladen zur�kschiktet.
+
+Lenox.
+Er mag sich das zu einer Erinnerung dienen lassen, sich so weit zu
+entfernen, als er immer kan.  Irgend ein heiliger Engel fliege nach
+Englands Hof, und entfalte sein Anbringen eh er kommt; damit
+schleunige Rettung diesem unserm leidenden Vaterland zu H�lf eile,
+dem eine verfluchte Hand Verderben droht.
+
+Lord.
+Ich will ihm mein Gebet nachsenden.
+
+(Sie gehen ab.)
+
+
+
+
+Vierter Aufzug.
+
+
+
+Erste Scene.
+(Eine finstre H�le; in deren Mitte ein grosser Kessel �ber einem
+ Feuer steht.)
+
+(Donner und Blize.  Die drey Hexen treten auf, und ermuntern sich
+zu ihrem Vorhaben; alsdann gehen sie unter einem seltsamen Zauber-
+Spruch rund um den Kessel herum, und werfen die mancherley
+Ingredienzien zu ihrer Bezauberung, (z.  ex.  Frosch-Zehen, Otter-
+Zungen, Eidexen-Beine, Fledermaus-Haar, Wolfs-Zahn, Schierlings-
+Wurzeln, Ziegen-Galle, die Leber von einem Juden, die Nase von
+einem T�rken, und die Lippe von einem Tartar u.s.w.) in den Kessel;
+nachdem alles genug gekocht hat, wird das) Decoctum (mit eines
+S�uglings Blut abgek�hlt, und das Zauberwerk ist fertig.  Hierauf
+erscheint Hecate mit drey andern Hexen, giebt ihren Beyfall zu dem
+was gemacht worden, und befiehlt ihnen, einen Tanz und Gesang um
+den Kessel anzufangen; dieses geschieht mit Musik, und hierauf
+erscheint in der)
+
+
+
+Zweyten Scene
+(Macbeth.)
+
+
+Macbeth.
+Wie geht's, ihr geheimni�reichen, schwarzen, mittern�chtlichen
+Unholden?  Was macht ihr da?
+
+Alle.
+Ein Werk ohne Namen.
+
+Macbeth.
+Ich beschw�re euch bey dem, den ihr verehrt, antwortet mir, durch
+was f�r Mittel ihr auch dazu gelangen m�get; m��tet ihr gleich die
+Winde entfesseln, und sie gegen Kirchen k�mpfen lassen; m��ten
+gleich die sch�umenden Wellen im allgemeinen Sturm die ganze
+Schiffahrt verschlingen, Schl�sser �ber die H�upter ihrer H�ter
+einst�rzen, und Pal�ste und Pyramiden ihren Gipfel bis zu ihrem
+Grund niederbeugen; ja m��te die ganze Natur dar�ber zusammenfallen.
+Antwortet mir auf das, was ich euch frage.
+
+1. Hexe.
+Rede!
+
+2. Hexe.
+Frage!
+
+3. Hexe.
+Wir wollen antworten.
+
+1. Hexe.
+Sag, ob du die Antwort lieber aus unserm Mund, oder von unsern
+Meistern h�ren willt?
+
+Macbeth.
+Ruft sie, ich will sie sehen.
+
+1. Hexe.
+Nehmt Blut von einer Sau, die ihre neun Ferkel gefressen hat, und
+Fett, das vom Galgen eines M�rders getrieft, und werft es in die
+Flamme.
+
+Alle.
+Komm, wer du auch seyst, und zeige dich und deine Schuldigkeit.
+
+(Donner und Bliz.)
+
+(Eine Erscheinung von einem bewafneten Haupt steigt aus dem Boden
+empor.)
+
+Macbeth.
+Sage mir, du unbekannte Macht--
+
+1. Hexe.
+Er wei� schon deine Gedanken; h�re was er sagt, aber du rede nichts.
+
+Erscheinung.
+Macbeth!  Macbeth!  Macbeth!  H�te dich vor Macduff !  H�te dich
+vor dem Than von Fife!--Entla�t mich--Genug!
+
+(Die Erscheinung steigt wieder herab.)
+
+Macbeth.
+Wer du auch seyn magst, ich danke dir f�r deine Warnung.  Du hast
+meiner ungewissen Furcht eine Richtung gegeben.  Aber nur noch ein
+Wort--
+
+
+1. Hexe.
+Er l��t sich nicht befehlen; hier ist ein andrer m�chtigerer, als
+der erste.
+
+(Donner.)
+
+(Eine Erscheinung von einem blutigen Kinde steigt empor.)
+
+Erscheinung.
+Macbeth, Macbeth!  Macbeth!
+
+Macbeth.
+H�tt' ich drey Ohren, ich wollte dir aufhorchen.
+
+Erscheinung.
+Sey blutig, k�hn und entschlossen; verlache was ein Mensch gegen
+dich vermag: denn von niemand, der von einem Weibe geboren ward,
+soll Macbeth jemals Harm empfangen.
+
+(Die Erscheinung steigt herab.)
+
+Macbeth.
+So lebe, Macduff!  Was hab' ich n�thig, dich zu f�rchten?  Und doch
+will ich die Sicherheit doppelt sicher machen, und ein Pfand vom
+Schiksal nehmen; du sollt nicht leben, damit ich der
+bleichs�chtigen Furcht sagen k�nne, sie l�ge, und mitten im
+Donnerwetter schlafe.
+
+(Donner.)
+
+(Eine Erscheinung von einem gekr�nten Kinde, mit einem Baum in der
+Hand, steigt empor.) Was ist di�, das gleich dem Abk�mling eines
+K�nigs emporsteigt, und um seine kindliche Stirne den Cirkel der
+Majest�t tr�gt?
+
+Alle.
+Horch, aber rede nicht!
+
+Erscheinung.
+Sey muthig wie ein L�we, stolz und unbek�mmert, wer murre, wer sich
+auflehne, wer sich gegen dich verschw�re.  Macbeth soll niemals
+bezwungen werden, bis der grosse Birnam-Wald auf Dunsinans H�gel
+gegen ihn angezogen kommen wird.
+
+(Steigt herab.)
+
+Macbeth.
+Das wird niemals geschehen.  Wer kan den B�umen von Birnam befehlen,
+da� sie ihre tiefen Wurzeln entfesseln?  Angenehmes Orakel!  Gut!
+Wenn die Emp�rung ihr Haupt nicht erheben soll, bis der Wald von
+Birnam von seinem Plaz aufsteht, so wird unser Macbeth die Dauer
+der Natur ausleben--und doch pocht mein Herz noch, ein einziges
+Ding zu wissen; sagt mir, (wenn eure Wissenschaft so weit reicht)
+wird Banquos Nachkommenschaft jemals in diesem Reiche herrschen?
+
+Alle.
+Verlange nicht mehr zu wissen.
+
+(Der Kessel sinkt in den Grund.)
+
+Macbeth.
+Ich will befriedigt seyn.  Versagt ihr mir's, so fall' ein ewiger
+Fluch auf euch!  La�t michs wissen.  Warum sinkt der Kessel?  und
+was f�r ein Get�n ist das?
+
+(Man h�rt einen Marsch von Hautbois.)
+
+1. Hexe.
+Erscheint!
+
+2. Hexe.
+Erscheint!
+
+3. Hexe.
+Erscheint!
+
+Alle.
+Erscheint vor ihm, und h�rmt sein Herz!
+Kommt wie Schatten, und verschwindet wieder.  (Acht K�nige, von
+Banquo gef�hrt, erscheinen einer nach dem andern, und gehen langsam
+bey Macbeth vorbey; der lezte h�lt einen Spiegel in der Hand.)
+
+Macbeth (w�hrend da� sie vorbeygehen.)
+Du gleichst zu sehr dem Geist des Banquo; hinab!--deine Crone
+verwundet meine Aug�pfel--Du gleichst dem ersten--und du dem
+vorigen--Ihr garstigen Unholden, wof�r zeigt ihr mir das?  ein
+Vierter!--Erstarre, mein Auge!  Wie?  wird sich dieser verdammte
+Zug bis an den j�ngsten Tag erstreken?  Noch einer?--Ein Siebenter!
+Ich will nicht mehr sehen--aber da kommt noch der Achte, und tr�gt
+einen Spiegel, worinn er mir noch viele andre zeigt; ja ich sehe
+einige, welche doppelte Reichs-�pfel und dreyfache Scepter tragen.
+* Abscheuliches Gesichte!  Nein, nun, seh ich, ist's wahr; denn der
+wundenvolle Banquo l�chelt auf mich, und deutet mit der Hand auf
+diese hier--wie, ist es so?
+
+{ed.-* Dieses war ein Compliment f�r Jacob den I.  der beyde Inseln
+und die drey Reiche zuerst unter ein Haupt brachte, und dessen Haus,
+der Sage nach, von Banquo abstammte.}
+
+1. Hexe.
+Ja, Sir, alles ist so.  Aber warum steht Macbeth so erstaunt da?
+Kommt, Schwestern, la�t uns, seine Geister aufzumuntern, ihm die
+beste unsrer Lustbarkeiten zeigen; ich will die Luft bezaubern,
+Musik zu unserm grotesken Rundtanz zu machen, damit dieser grosse
+K�nig sagen k�nne, da� wir ihm Ehre angethan haben.**
+
+{ed.-** Reime, im Original; wie alles was die Hexen im ganzen
+St�ke sprechen.}
+
+(Musik.  Die Hexen machen einen Tanz und verschwinden.)
+
+Macbeth.
+Wo sind sie?  Weg?--La� diese verderbliche Stunde auf ewig
+verflucht im Calender stehen!--Komm herein, du draussen!  (Lenox
+kommt herein.)
+
+Lenox.
+Was befiehlt Eu.  Hoheit?
+
+Macbeth.
+Saht ihr die Zauber-Schwestern?
+
+Lenox.
+Nein, gn�digster Herr.
+
+Macbeth.
+Kamen sie nicht bey euch vorbey?
+
+Lenox.
+Nein, in der That, nicht, Sire.
+
+Macbeth.
+Verpestet sey die Luft, durch die sie reiten!  und verdammt alle
+die ihnen trauen!--Ich h�rte das Stampfen von Pferden im Gallop.
+Wer kam vorbey?
+
+Lenox.
+Es waren zween oder drey, Gn�digster Herr, die euch Nachricht
+bringen, da� Macduff nach England geflohen ist.
+
+Macbeth.
+Nach England geflohen?
+
+Lenox.
+Ja, gn�digster Herr.
+
+Macbeth.
+Zeit, du entziehst meinem furchtbaren Vorsaz sein Opfer--die
+Ausf�hrung sollt' allemal an den Fersen der Entschliessung gehen.
+Von diesem Augenblik an soll jeder Erstling meines Herzens
+unmittelbar in meine Hand �bergehen.  Und eben izt, meine Gedanken
+mit Handlungen zu kr�nen, sey es gedacht und gethan!  Ich will
+Macduffs Schlo� �berfallen, Fife im Sturm wegnehmen, und sein Weib,
+seine Kinder und alle die ungl�klichen Seelen, die zu seinem Stamme
+geh�ren, der Schneide des Schwerts Prei� geben.  Das soll keine
+Pralerey eines Narren seyn; die That soll gethan seyn, eh der
+Entschlu� noch erkaltet ist--Aber keine Gesichter mehr!--Wer sind
+diese M�nner?  Komm, begleite mich zu ihnen.
+
+(Sie gehen ab.)
+
+
+
+Dritte Scene.
+(Verwandelt sich in Macduffs Schlo� zu Fife.)
+(Lady Macduff, ihr kleiner Sohn, und Rosse treten auf.)
+
+
+Lady Macduff.
+Was hat er denn gethan, da� er fl�chtig werden mu�te?
+
+Rosse.
+Ihr m��t Geduld haben, Madam.
+
+Lady.
+Er hat keine; seine Flucht war Raserey; wenn es unsre Handlungen
+nicht thun, so machen uns unsre Besorgnisse zu Verr�thern.
+
+Rosse.
+Ihr wi�t nicht, ob es seine Klugheit oder seine Furcht war--
+
+Lady.
+Klugheit?  Sein Weib, seine Kinder, seinen Siz, seine Titel an
+einem Ort vor sicher halten, von dem er selbst entflieht?  Er liebt
+uns nicht, er hat das nat�rliche Gef�hl nicht; der arme Zaunk�nig
+sogar, der allerkleinste unter den V�geln, hat Muth, wenn seine
+Jungen im Nest sind, gegen die Eule zu k�mpfen: Seine Furcht ist
+alles, seine Liebe nichts; und wie gro� ist nun da die Klugheit, wo
+die Flucht aller Vernunft und Pflicht so zuvorrennt?
+
+Rosse.
+Meine theureste Base, ich bitte euch, m��iget euch; euer Gemahl ist
+edel, ist weise, ist bed�chtlich, und wei� am besten, was die Zeit
+erfordert.  Ich darf mehr nicht sagen, aber grausam sind die Zeiten,
+wo wir Verr�ther sind, und uns selbst nicht kennen: wo wir uns von
+unsrer Furcht regieren lassen, und doch nicht wissen was wir
+f�rchten; sondern auf einer wilden und st�rmischen See hin und her
+getrieben irren.  Ich beurlaube mich von euch; aber ich will in
+kurzem wieder da seyn; Wenn die Sachen am schlimsten sind, m�ssen
+sie gar aufh�ren oder wieder gut werden.  Lebet wohl mein
+liebensw�rdiger Vetter.
+
+Lady Macduff.
+Er hat einen Vater, und ist doch vaterlo�.
+
+Rosse.
+Ich bin so sehr ein Thor, da� wenn ich mich l�nger aufhielte, meine
+Schwachheit mich selbst besch�men, und euch nur trostloser machen
+w�rde.  Ich mu� mich auf einmal losreissen.
+
+(Rosse geht ab.)
+
+Lady.
+Armer Junge, dein Vater ist todt?  Was willt du nun anfangen?  Wie
+willt du leben?
+
+Sohn.
+Wie die V�gel, Mutter.
+
+Lady.
+Wie, von W�rmern und Fliegen?
+
+Sohn.
+Von was ich kriegen kan, meyn' ich; sie machen's auch so.
+
+Lady.
+Armes V�gelchen!  du w�rdest weder Nez noch Leimruthe, weder Fallen
+noch Strike f�rchten.
+
+Sohn.
+Warum sollt' ich, Mutter?  Die armen V�gelchen!  wie wollten sie
+das machen?  Aber, mein Vater ist nicht todt, wenn ihr's schon sagt.
+
+Lady.
+Ey ja, er ist todt; wo willt du nun einen Vater hernehmen?
+
+Sohn.
+Aber wo wollt ihr einen Mann hernehmen?
+
+Lady.
+Wie!  ich kan ihrer zwanzig auf dem n�chsten Markt kauffen.
+
+Sohn.
+So kauft ihr sie nur, um sie wieder zu verkauffen?
+
+Lady.
+Du redst so gescheidt als du kanst, und doch in der That gescheidt
+genug f�r dich.
+
+Sohn.
+War mein Vater ein Verr�ther, Mutter?
+
+Lady.
+Ja, das war er.
+
+Sohn.
+Was ist ein Verr�ther?
+
+Lady.
+Wie, einer der schw�rt und l�gt.
+
+Sohn.
+Und die sind alle Verr�ther, die das thun?
+
+Lady.
+Ein jeder, der das thut, ist ein Verr�ther und mu� gehangen werden.
+
+Sohn.
+Und m�ssen die alle gehangen werden, die schw�ren und l�gen?
+
+Lady.
+Ein jeder.
+
+Sohn.
+Wer mu� sie h�ngen lassen?
+
+Lady.
+Wer?  die ehrlichen Leute.
+
+Sohn.
+So sind die L�gner und Schw�rer nur Narren; denn es sind ihrer so
+viele, da� sie stark genug w�ren, die ehrlichen Leute zu schlagen
+und h�ngen zu lassen.
+
+Lady.
+Gott helfe dir, du armer Junge!  Aber was willt du um deinen Vater
+thun?
+
+Sohn.
+Wenn er todt w�re, so w�rdet ihr um ihn weinen; und wenn ihr nicht
+um ihn weinen w�rdet, so w�re es ein gutes Zeichen, da� ich bald
+wieder einen andern Vater bek�me.
+
+Lady.
+Kleines Plaudermaul!  wie du redst!  (Ein Fremder zu den Vorigen.)
+
+Fremder.
+Heil euch, sch�ne Dame!  Ihr kennt mich nicht, aber euer hoher
+Stand macht euch vielen bekannt, die es euch nicht sind.  Ich
+besorge, da� irgend eine Gefahr �ber euerm Haupte schwebe.  Wenn
+ihr die Warnung eines gemeinen Manns annehmen wollt, so la�t euch
+hier nicht antreffen; fliehet unverz�glich mit euern Kindern.  Ich
+bin vielleicht unh�flich, da� ich euch so erschreke; aber es w�rde
+unmenschlich seyn, wenn ich es nicht th�te, da ihr keinen Augenblik
+zu verliehren habt, der Himmel bewahre euch!  Ich darf mich nicht
+l�nger aufhalten.
+
+(Er geht ab.)
+
+Lady Macduff.
+Wohin sollt' ich fliehen?  Ich habe ja nichts b�ses gethan.  Aber
+nun besinn' ich mich; ich bin in einer Welt, wo b�ses thun oft
+l�blich ist, Gutes thun, f�r eine gef�hrliche Thorheit gehalten
+wird.  Was ist nun zu thun?  Soll ich auf meine Unschuld mich
+beruffen, und mich hinter diesem weiblichen Schilde sicher glauben?--
+Was f�r Gesichter sind diese?
+
+(Die M�rder treten auf.)
+
+M�rder.
+Wo ist euer Mann?
+
+Lady Macduff.
+Ich hoffe, an keinem so sch�ndlichen Orte, da� ihn deines gleichen
+finden sollen.
+
+M�rder.
+Er ist ein Verr�ther.
+
+Sohn.
+Du l�gst, du zottelk�pfiger Spizbube!
+
+M�rder.
+Was sagst du, ey du junge Brut von Verr�therey--
+
+(Er ermordet ihn.)
+
+Sohn.
+Er hat mich umgebracht, Mutter; flieht, flieht, ich bitte euch.
+
+(Lady Macduff entflieht mit Geschrey um H�lfe; die M�rder verfolgen
+sie.)
+
+
+
+Vierte Scene.
+(Verwandelt sich in den Palast des K�nigs von England.)
+(Malcolm und Macduff treten auf.)
+
+
+Malcolm.
+La� uns irgend einen ein�den Schatten suchen, und dort unsre
+kummervollen Herzen leer weinen.
+
+Macduff.
+La� uns lieber das t�dliche Schwert fest halten, und wie wakre
+M�nner unser zu Boden gest�rztes Leben schirmen; jeden neuen Morgen
+heulen neue Wittwen, schreyen neue Waysen, schlagen neue Klagen an
+den Himmel an, der wie aus Mitleid abgebrochne T�ne des Schmerzens
+wiederhallt.
+
+Malcolm.
+Was ich glaube, will ich beweinen; was ich wei�, will ich glauben;
+und was ich �ndern kan, sobald ich die Zeit zum Freund habe, das
+will ich.  Was ihr vorhin sagtet, mag sich vielleicht so verhalten.
+Dieser Tyrann, dessen blosser Name unsre Zungen l�hmt, wurde einst
+f�r ehrlich gehalten; ihr liebtet ihn, und noch hat er euch nicht
+beleidigt.  Ich bin zwar jung; aber doch k�nntet ihr euch durch
+mich ein Verdienst um ihn machen, es ist Klugheit, ein schwaches,
+armes, unschuldiges Lamm aufzuopfern, um einen erz�rnten Gott zu
+bes�nftigen.
+
+Macduff.
+Ich bin kein Verr�ther.
+
+Malcolm.
+Aber Macbeth ists.  Macht und W�rden k�nnen einen tugendhaften
+Character verf�lschen.  Ich bitte euch um Vergebung; meine Gedanken
+k�nnen euch zu nichts anders machen als ihr seyd; Engel gl�nzen
+immer fort, ob schon die gl�nzendsten fielen: wenn gleich alle
+b�sen Dinge die Gestalt des Guten ann�hmen, so mu� doch das Gute
+immer diese Gestalt behalten.
+
+Macduff.
+Ich habe meine Hoffnungen verlohren.
+
+Malcolm.
+Vielleicht eben da, wo ich meine Zweifel fand.  Wie?  ihr solltet
+in so gef�hrlichen Umst�nden euer Weib und eure Kinder, die
+kostbaren Pf�nder der Liebe verlassen, ohne auch nur Abschied zu
+nehmen?--Ich bitte euch, treibet mich nicht weiter; meine
+Besorgnisse sollen euch nicht beleidigen, sondern nur meine
+Sicherheit seyn: ihr k�nnt ein sehr rechtschaffner Mann seyn, ich
+mag denken was ich will.
+
+Macduff.
+So blute dann, blute, mein armes Vaterland!  und du, eingethronte
+Tyranney, seze dich feste, denn Redlichkeit darf dich nicht
+ersch�ttern--Dulde du deine Kr�nkungen, sein Titel ist best�tiget.
+Gehabe dich wohl, Lord.  Um allen den Raum, den der Tyrann in
+seinen Klauen h�lt, und den reichen Ost dazu, wollt ich der Elende
+nicht seyn, f�r den du mich ansiehst.
+
+Malcolm.
+Werdet nicht unwillig; was ich sage, kommt nicht eigentlich von
+einem Mi�trauen her, so ich in euch seze.  Ich denke unser
+Vaterland sinkt unters Joch, es weint, es blutet, und jeder neue
+Tag ist eine neue Wunde zu seinen vorigen.  Ich zweifle nicht, es
+w�rden H�nde f�r mein Recht aufgehoben werden; und hier bietet mir
+Englands mitleidige Freundschaft etliche Tausende an.  Aber gesezt
+auch, ich tr�te endlich auf des Tyrannen Haupt, oder tr�g' es an
+der Spize meines Schwerdts, so wird mein armes Vaterland nichts
+dabey gewinnen; es wird nur noch mehr Gebrechen haben, als zuvor,
+und von seinem Nachfolger noch mehr und auf eine mannichfaltigere
+Art leiden als jemals.
+
+Macduff.
+Und wer sollte der seyn?
+
+Malcolm.
+Mich selbst meyn ich,* mich, in welchen alle besondre Laster so
+eingepfropft sind, da� wenn sie sich aufthun und ausbreiten werden,
+der schwarze Macbeth schneewei� scheinen, und der arme Staat ihn,
+mit meiner grenzenlosen Bosheit verglichen, f�r ein mildes Lamm
+ansehen wird.
+
+{ed.-* Diese Unterredung Malcolms mit Macduff ist aus den Chroniken
+von Schottland genommen.  Pope.}
+
+Macduff.
+Aus allen Legionen des flammenden Abgrunds kan kein verruchterer
+Teufel als Macbeth hervorkommen.
+
+Malcolm.
+Ich gesteh' es, er ist blutgierig, schwelgerisch, geizig, falsch,
+t�kisch, launisch, bo�haft, und stinkt nach jeder S�nde, die einen
+Namen hat.  Aber in meiner Ruchlosigkeit ist kein Boden, nein,
+keiner; eure Weiber, eure T�chter, eure M�tter und eure noch
+unzeitigen M�dchen reichten nicht zu, die Cisterne meiner Lust
+aufzuf�llen; und es sind keine Schranken, keine Hindernisse zu
+ersinnen, die meine unb�ndige Begierde nicht �berspringen w�rde.
+Besser, Macbeth herrsche als ein Solcher.
+
+Macduff.
+Grenzenlose �ppigkeit ist eine Art von Tyranney; und hat schon
+manchen Thron vor der Zeit leer gemacht, ist schon der Sturz
+mancher K�nige gewesen.  Aber f�rchtet euch de�wegen nicht zu
+�bernehmen, was euer ist; ihr k�nnt euren Erg�zungen ein weites
+Ziel steken, ohne sie dem allgemeinen Auge auszusezen.  Wir haben
+willige Damen genug; es kan kein solcher Geyer in euch seyn, dessen
+Gefr��igkeit zu ers�ttigen, nicht alle diejenigen zureichen sollten,
+die sich der Majest�t freywillig widmen werden, sobald sie diese
+Neigung an ihr bemerkt haben.
+
+Malcolm.
+�berdas, w�chst unter meinen andern unordentlichen Neigungen, ein
+so uners�ttlicher Geiz, da� wenn ich K�nig w�re, ich meine Edeln
+aus dem Wege r�umen w�rde, um ihre G�ter an mich zu reissen; bey
+diesem w�rden mich seine kostbaren Mobilien reizen, bey jenem sein
+Haus; der Anwachs meines Eigenthums w�rde nur wie eine Br�he seyn,
+die mich immer hungriger machte; so da� ich an rechtschaffne Leute
+ungerechte H�ndel suchen, und sie verderben w�rde, um ihre
+Reichth�mer zu haben.
+
+Macduff.
+Dieser Geiz schl�gt tiefer ein, und breitet sich in verderblichere
+Wurzeln aus, als die Wollust, die mit dem Sommer des Lebens ihre
+Hize verliehrt; Er ist das Schwerdt gewesen, das unsre K�nige
+erschlagen hat: aber f�rchtet auch dieses nicht; Schottland hat
+�berflu�, eure Habsucht mit demjenigen anzuf�llen, was euer
+rechtm��iges Eigenthum seyn wird.  Alles das ist noch ertr�glich,
+wenn es durch andre Tugenden verg�tet wird.
+
+Malcolm.
+Aber, die hab' ich nicht; von allen diesen k�niglichen Tugenden,
+Gerechtigkeit, Wahrheit, M��igung, Standhaftigkeit, G�te, Gnade,
+Demuth, Fr�mmigkeit, Geduld, Herzhaftigkeit, Tapferkeit, ist nicht
+ein Funke in mir; alle meine Neigungen, alle Triebfedern meines
+Willens sind eben so viele Laster, und ich �be jede auf alle
+m�gliche Arten aus.  Ja, h�tt' ich das Verm�gen dazu, ich w�rde die
+s�sse Milch der Eintracht in die H�lle sch�tten, den allgemeinen
+Frieden aufst�ren, und die ganze Erde zu einem Schauplaz der
+Verw�stung machen.
+
+Macduff.
+O Schottland, Schottland!
+
+Malcolm.
+Wenn ein solcher zur Regierung tauglich ist, so redet; ich bin, wie
+ich gesagt habe.
+
+Macduff.
+Zur Regierung tauglich?  Nein, nicht des Lebens werth.  O
+ungl�kselige Nation!  Unter dem blutigen Scepter eines
+unrechtm��igen Herrschers seufzend, wenn wirst du deine gl�klichen
+Tage wiedersehen?  da der rechtm��ige Erbe deines Throns den Bann
+der Ausschliessung �ber sich selbst ausspricht und seinen
+geheiligten Ursprung l�stert.  Dein k�niglicher Vater war der beste
+K�nig; die K�nigin, die dich gebahr, �fter auf ihren Knien als auf
+ihren F�ssen, starb jeden Tag den sie lebte.  O!  Fahre du wohl!
+Diese Laster, deren du dich selbst anklagst, haben mich aus
+Schottland verbannt.  O!  Mein Herz!  hier enden sich alle deine
+Hoffnungen!
+
+Malcolm.
+Macduff, diese edle Leidenschaft, das Kind deiner Redlichkeit, hat
+die schwarzen Zweifel von meiner Seele gewischt, und meine Gedanken
+mit deiner Aufrichtigkeit und Ehre ausges�hnt.  Der teuflische
+Macbeth hat schon durch manche, die sich als meine Freunde
+verstellen mu�ten, mich in seine Gewalt zu bekommen gesucht:
+mi�trauische Klugheit war meine Sicherheit; aber Gott im Himmel sey
+Zeuge zwischen mir und dir, da� ich, in diesem Vertrauen, wozu du
+mich nunmehr gewonnen hast, mich g�nzlich deiner F�hrung �berlasse;
+und bey ihm schw�r' ich, da� alle diese Laster und Schanden, deren
+ich mich selbst anklagte, ferne von mir sind.  Ich habe noch kein
+Weib erkannt, noch nie mein Wort gebrochen, mich kaum desjenigen
+gel�sten lassen, was mein eigen ist, und wollt den Teufel selbst
+seinem Cameraden nicht verrathen; ich liebe die Wahrheit nicht
+weniger als mein Leben, und die erste Unwahrheit, die aus meinem
+Munde gegangen ist, war diese wieder mich selbst.  Was ich in der
+That bin, steht dir und meinem armen Vaterlande zu diensten; wohin
+w�rklich, noch vor deiner Ankunft der alte Siward mit zehentausend
+tapfern Kriegs-M�nnern aufgebrochen ist.  Wir wollen ihm folgen,
+und m�ge der Ausgang der Gerechtigkeit unsrer Sach' entsprechen!--
+Warum schweiget ihr?
+
+Macduff.
+So willkommne und so unwillkommne Dinge auf einmal sind schwehr
+zusammen zu reimen!
+
+
+
+F�nfte Scene.
+(Ein Arzt zu den Vorigen.)
+
+
+Malcolm.
+Gut, hernach mehr hievon!--Geht der K�nig aus, ich bitte euch?
+
+Arzt.
+Ja, Milord; es ist ein Hauffen armer Leute hier, die auf seine
+heilende Hand warten; ihre Krankheit macht die �ussersten Versuche
+der Kunst zu Schanden.  Aber so bald er sie ber�hrt, (eine solche
+Kraft hat der Himmel seiner geheiligten Hand eingegossen,) so
+werden sie auf der Stelle gesund.
+
+(Er geht ab.)
+
+Malcolm.
+Ich danke euch, Doctor.
+
+Macduff.
+Von was f�r einer Krankheit redte er?
+
+Malcolm.
+Man nennt es das �bel*; es ist eine h�chst wunderth�tige
+Eigenschaft an diesem K�nig, wovon ich, seit meinem Aufenthalt in
+England, schon oft ein Augenzeuge war.  Wie er diese Gabe vom
+Himmel erbeten, wei� er selbst am besten; gewi� ist, da� er Leute,
+die mit seltsamen Geschwulsten und Geschw�ren heimgesucht sind,
+(ein erb�rmlicher Anblik, und die Verzweiflung der Heil-Kunst!)
+durch seine Ber�hrung heilt, indem er, unter heiligen Gebeten, ein
+goldnes Gepr�ge um ihren Hals h�ngt: und man sagt, er werde diesen
+heilenden Segen allen K�nigen seinen Nachfolgern lassen.  Ausser
+dieser wundervollen Heil-Kraft hat er noch die Gabe der
+Prophezeyung, und verschiedne andre Segnungen hangen um seinen
+Thron, welche beweisen, da� er ein G�nstling des Himmels ist.
+
+{ed.-* (The Evil), oder (the King's Evil) werden vorzugsweis in
+England die Kr�pfe genannt, welche (Eduardus Confessor) durch die
+blosse Ber�hrung mit seiner Hand geheilt haben soll.}
+
+
+
+Sechste Scene.
+(Rosse zu den Vorigen.)
+
+
+Macduff.
+Seht, wer hier kommt!
+
+Malcolm.
+Ein Landsmann; und doch kenn' ich ihn nicht.
+
+Macduff.
+Mein werther Vetter, seyd willkommen.
+
+Malcolm.
+Nun kenn ich ihn.  Der Himmel entferne bald die Ursachen, die uns
+einander fremde machen!
+
+Rosse.
+Dazu sag' ich Amen, Gn�digster Herr.
+
+Macduff.
+Ist Schottland noch im alten Stand?
+
+Rosse.
+Ach!  Unser armes Vaterland, es erschrikt vor seinem eignen Anblik!
+Es kan nicht mehr unsre Mutter genennt werden, sondern unser Grab;
+ein Land, wo allgemeiner Jammer alle Angesichter verzehrt; wo man
+das unwissende Wiegen-Kind allein noch l�cheln sieht; wo Seufzen,
+�chzen und Schreyen die Luft erf�llen, ohne mehr bemerkt zu werden,
+und beym Get�n der Todtengloke kaum noch gefragt wird, um wen?  Wo
+rechtschaffne Leute schneller dahin sind, als die Blumen auf ihren
+H�ten, und sterben, eh sie krank geworden sind.
+
+Macduff.
+O grausame, aber nur allzuwahrhafte Beschreibung!
+
+Malcolm.
+Was ist die neueste Beschwerde?
+
+Rosse.
+Jede Minute br�tet eine neue aus.
+
+Macduff.
+Wie steht's um mein Weib?
+
+Rosse.
+Wie?  wohl--
+
+Macduff.
+Und um alle meine Kinder?
+
+Rosse.
+Auch wohl--
+
+Macduff.
+Hat der Tyrann ihre Ruhe nicht gest�rt?
+
+Rosse.
+Nein, sie waren in guter Ruhe, wie ich sie verlie�.
+
+Macduff.
+Ich merk euch an, da� ihr mir etwas verbergen wollt: redet frey
+heraus, wie geht es?
+
+Rosse.
+Wie ich abreisete, um die Zeitungen mit denen ich schwer beladen
+bin, hieherzutragen, gieng ein Ger�chte, da� verschiedne brave
+Leute aus dem Wege ger�umt worden seyen; welches mir desto
+glaublicher war, weil ich die V�lker des Tyrannen ausr�ken sah.
+Nun ist die h�chste Zeit zu helfen; euer blosser Anblik w�rde in
+Schottland Krieger erschaffen, und Weiber zum fechten aufmuntern,
+um dieses unertr�glichen Jammers lo� zu werden.
+
+Malcolm.
+La� es ihren Trost seyn, da� wir im Begriff sind, zu kommen: der
+huldreiche K�nig von England hat uns den wakern Siward mit
+zehentausend M�nnern geliehen, den �ltesten und besten Kriegs-Mann
+in der ganzen Christenheit.
+
+Rosse.
+Wollte der Himmel, ich k�nnte diesen Trost mit einem andern
+erwiedern!  Aber ich habe Dinge zu sagen, die ich lieber in eine
+ein�de W�ste hineinheulen wollte--
+
+
+Macduff.
+Was betreffen sie?  die allgemeine Sache?  Oder ist es ein
+besonderer Schmerz, der irgend einer einzelnen Brust zugeh�rt?
+
+Rosse.
+Es ist kein redliches Gem�th, das nicht Theil daran nimmt, ob
+gleich das Ganze euch allein geh�rt.
+
+Macduff.
+Wenn es mein ist, so enthaltet mir's nicht l�nger vor--redet!
+
+Rosse.
+O!  La�t um dessentwillen, was ich sagen mu�, den Ton meiner Stimm'
+euern Ohren nicht auf ewig verha�t werden!  Es ist das
+schmerzlichste, was ihr jemals geh�rt habt.
+
+Macduff.
+Hem!  ich errath es.
+
+Rosse.
+Euer Schlo� ist �berrumpelt, euer Weib und eure Kinder unmenschlich
+niedergemezelt worden--die Umst�nde zu erz�hlen, w�re euern Tod auf
+den ihrigen h�uffen.
+
+Malcolm.
+Barmherziger Himmel!--Wie, Mann!  dr�kt euern Hut nicht so auf eure
+Augbrauen--Gebt euerm Schmerz Worte: ein stummer Schmerz pre�t
+seine Klagen in das Herz zur�k, und macht es brechen.
+
+Macduff.
+Meine Kinder auch!
+
+Rosse.
+Weib, Kinder, Hausgenossen, alles was er fand.
+
+Macduff.
+Und mu�t' ich abwesend seyn!  Auch mein Weib um gebracht?
+
+Rosse.
+Wie ich sagte.
+
+Malcolm.
+Fasset euch; Raache soll die Arzney seyn, womit wir diesen
+t�dlichen Schmerz heilen wollen.
+
+Macduff.
+Er hat keine Kinder--alle meine artigen P�pchen?  Alle, sagtet ihr?
+wie, alle?  O h�llischer Geyer!  alle?  Wie, alle meine armen
+H�hnchen, und ihre Mutter, auf einen verfluchten Schluk?
+
+Malcolm.
+R�chet euch wie ein Mann--
+
+Macduff.
+Das will ich: aber erst will ich f�hlen wie ein Mann.  Ich kan
+nicht gleich vergessen, da� ich sie hatte, da� sie das kostbarste
+waren was ich hatte--Konnte der Himmel zusehen, und nahm sich ihrer
+nicht an?  S�ndenvoller Macduff!  um deinetwillen wurden sie
+erschlagen!  Ich ungl�kseliger!  Nicht um ihrer Missethaten, um der
+meinigen willen wurden sie geschlachtet: der Himmel gebe ihnen nun
+Ruhe!
+
+Malcolm.
+La�t das euer Schwerdt wezen, la�t Schmerz sich in Wuth verwandeln:
+erleichtert euer Herz nicht, sezt es in Flammen.
+
+Macduff.
+O ich k�nnte weinen und schreyen wie ein Weib!  aber, du g�tiger
+Himmel, schneide allen Aufschub ab!  bring du, Stirne gegen Stirne,
+mich und diesen Schottischen Teufel zusammen; bring ihn nur so nah
+da� ihn mein Schwerdt erreichen kan, und wenn ich ihn entrinnen
+lasse, dann, o Himmel, dann vergieb ihm auch!
+
+Malcolm.
+Dieser Ton geht m�nnlich!  Kommt, wir wollen zum K�nige, unsre
+V�lker sind marschfertig, wir haben nichts mehr n�thig als Abschied
+zu nehmen.  Macbeth ist reif abgesch�ttelt zu werden, und die
+M�chte �ber uns sezen ihre Werkzeuge an.  Gehet, und erfrischet
+euch diese Nacht auf den morgenden Tag.
+
+(Sie gehen ab.)
+
+
+
+
+F�nfter Aufzug.
+
+
+
+Erste Scene.
+(Ein Vorzimmer in Macbeths Schlosse.)
+(Ein Arzt und eine Kammer-Frau treten auf.)
+
+
+Arzt.
+Ich habe nun zwoo N�chte mit euch gewacht, aber ich finde nichts
+da� eure Erz�hlung best�ttiget.  Wenn war es, da sie das leztemal
+gieng?
+
+Kammer-Frau.
+Seitdem seine Majest�t zu Felde gezogen ist, hab' ich sie gesehen,
+da� sie aus ihrem Bett aufstuhnd, ihren Schlafrok um sich warf, ihr
+Cabinet aufschlo�, Papier herausnahm, es zusamenlegte, �berschrieb,
+la�, hernach siegelte, und dann wieder zu Bette gieng; und das
+alles im tiefsten Schlafe.
+
+Arzt.
+Das zeigt eine grosse Unordnung in der Natur an!  zu gleicher Zeit
+die Wohlthat des Schlafs geniessen, und Gesch�fte des Wachens thun!
+Ausser dem Herumgehn und andern w�rklichen Verrichtungen, h�rtet
+ihr sie in dieser schlummernden Bewegung jemals etwas reden?
+
+Kammer-Frau.
+Dieses, Sir, m�cht' ich ihr nicht nachsagen.
+
+Arzt.
+Gegen mich d�rft ihr's wohl, und es ist sehr n�thig, da� ihr's thut.
+
+Kammer-Frau.
+Weder gegen euch, noch eine andre lebende Seele, da ich keinen
+Zeugen habe, der meine Aussage bekr�ftigen k�nnte.  (Lady Macbeth
+tritt mit einem Wachslicht auf.) Seht, seht!  hier kommt sie; so
+pflegt sie zu gehen, und bey meinem Leben, in tiefem Schlaf;
+beobachtet sie nur, aber haltet euch ruhig.
+
+Arzt.
+Wie kam sie zu dem Lichte?
+
+Kammer-Frau.
+Es stuhnd neben ihrem Bette: sie hat immer Licht bey sich; es ist
+ihr Befehl.
+
+Arzt.
+Ihr seht, sie hat die Augen offen.
+
+Kammer-Frau.
+Ja, aber ihre Empfindung ist geschlossen.
+
+Arzt.
+Was macht sie izt?  Seht, wie sie ihre H�nde wascht.
+
+Kammer-Frau.
+Das bin ich schon gewohnt, sie ihre H�nde so waschen zu sehen; ich
+habe schon gesehen, da� sie eine ganze Viertelstunde an einem fort
+nichts anders that.
+
+Lady Macbeth.
+Hier ist noch ein Fleken.
+
+Arzt.
+Horcht, sie redt.  Ich will alles aufschreiben, was sie sagt, damit
+ich nichts vergesse.
+
+Lady Macbeth.
+Weg, du verdammter Fleken; weg, sag ich--Eins,--zwey; wohlan dann,
+so ist es hohe Zeit--Die H�lle ist dunkel.  Fy, Milord, fy!  ein
+Soldat und erschroken?  Was brauchen wir uns zu f�rchten, da� es
+auskomme, da niemand m�chtig genug ist, uns zur Rechenschaft zu
+ziehen?--aber, wer h�tte gedacht, da� der alte Mann so viel Blut in
+ihm h�tte?
+
+Arzt.
+H�rt ihr das?
+
+Lady Macbeth.
+Der Than von Fife hatte eine Frau; wo ist sie nun?--Wie, wollen
+diese H�nde nimmer rein werden?--Nichts mehr hievon, Milord, nichts
+mehr hievon, ihr verderbt alles mit diesem Starren.
+
+Arzt.
+Geht, geht; ihr wi�t etwas, das ihr nicht solltet.
+
+Kammer-Frau.
+Sie hat gesprochen, was sie nicht sollte, dessen bin ich gewi�; der
+Himmel wei�, was sie wissen mag.
+
+Lady Macbeth.
+Das riecht immer noch nach Blut; alle Gew�rze von Arabien k�nnen
+diese kleine Hand nicht anders riechen machen.  Oh, oh, oh!
+
+Arzt.
+Was f�r ein Seufzer das war!  Sie hat etwas schweres auf dem Herzen.
+
+Kammer-Frau.
+Ich wollte um die ganze Hoheit ihrer Person kein solches Herz in
+meinem Busen haben.
+
+Arzt.
+Wohl, wohl, wohl--
+
+Kammer-Frau.
+Das gebe Gott, da� es so sey, Sir--
+
+Arzt.
+Diese Krankheit geht �ber meine Erfahrung; inde� hab' ich doch
+solche Nachtwandler gekannt, die als gute Christen in ihrem Bette
+gestorben sind.
+
+Lady Macbeth.
+Wascht eure H�nde, werft euern Schlafrok um, seht nicht so bla� aus--
+Ich sag's euch noch einmal, Banquo ist begraben, er kan aus seinem
+Grabe nicht wiederkommen.
+
+Arzt.
+W�rklich?
+
+Lady Macbeth.
+Zu Bette, zu Bette; man klopft an der Pforte: kommt, kommt, kommt,
+kommt, gebt mir eure Hand: Was geschehen ist, kan nicht ge�ndert
+werden.  Zu Bette, zu Bette, zu Bette.
+
+(Lady Macbeth geht ab.)
+
+Arzt.
+Geht sie nun zu Bette?
+
+Kammer-Frau.
+Geradesweges.
+
+Arzt.
+Man lispelt einander entsezliche Dinge in die Ohren.  Unnat�rliche
+Thaten bringen unnat�rliche Unruhen hervor, und ein angestektes
+Gewissen murmelt sein Geheimni� seinem tauben Kopf-K�ssen zu.  Sie
+bedarf mehr eines Geistlichen, als eines Arztes.  Gott, Gott,
+vergieb uns allen!--Sehet zu ihr!  Entfernet alles von ihr womit
+sie sich Schaden thun k�nnte, und lasset sie keinen Augenblik
+unbewacht, und hiemit, gute Nacht.  Mein Gem�th ist ganz best�rzt
+und mein Gesicht wie nebel-trunken--Ich denke, aber reden darf ich
+nicht.
+
+Kammer-Frau.
+Gute Nacht, Herr Doctor.
+
+(Sie gehen ab.)
+
+
+
+Zweyte Scene.
+(Verwandelt sich in ein Gefilde, mit einem Wald in der Ferne.)
+(Menteth, Cathne�, Angus, Lenox und Soldaten treten auf.)
+
+
+Menteth.
+Die Englische Macht ist nahe, von Malcolm, seinem Oheim Siward und
+dem tapfern Macduff angef�hrt.  Sie brennen von Raache:
+Beleidigungen, wie sie erlidten haben, w�rden abgestorbene B�ssende
+zu Wuth und blutigen Thaten aufreizen.
+
+Angus.
+In der Gegend des Waldes von Birnam k�nnen wir uns am besten mit
+ihnen vereinigen; sie kommen denselben Weg.
+
+Cathness.
+Wei� jemand, ob Donalbain bey ihnen ist?
+
+Lenox.
+Es ist gewi�, Sir, da� er nicht bey ihnen ist; Ich hab' eine Liste
+von allen ihren Edeln: Siwards Sohn ist dabey, und eine Menge
+unb�rtiger J�nglinge, die eben izt ihre erste Probe von Mannheit
+ablegen.
+
+Menteth.
+Was macht der Tyrann?
+
+Cathness.
+Er befestiget Dunsinan ungemein stark; einige sagen, er sey rasend;
+andre, die ihn weniger hassen, nennen es eine heroische Wuth; aber
+das ist gewi�, da� er, in der verzweiffelten Sache, die er zu
+verfechten hat, nicht Meister von sich selbst bleiben kan.
+
+Angus.
+Er f�hlt nun, wie die Werkzeuge seiner geheimen Mordthaten sich
+gegen ihn selber kehren; jeder Augenblik gebihrt einen Abfall, der
+ihm seinen eignen Treubruch vorwirft; diejenigen, denen er noch
+befiehlt, bewegen sich allein auf Befehl, nicht aus Liebe; izt
+f�hlt er, da� sein Titel so fluttrig um seine Schultern h�ngt, als
+ein Riesen-Rok um einen zwergm��igen Dieb.
+
+Menteth.
+Wer kan sich dann wundern, wenn seine best�rzten Sinnen auffahren
+und zur�kzittern, da alles was in ihm ist, sich selbst verdammt?
+
+Cathness.
+Gut, so wollen wir gehn, und unsern Gehorsam dahin tragen, wohin er
+geh�rt; der Arzney unsers kranken Vaterlands entgegengehen, und zu
+seiner Heilung, unser Blut bis auf den lezten Tropfen hergeben.
+
+Lenox.
+Wenigstens soviel als n�thig ist, die k�nigliche Blume zu bethauen,
+und das Unkraut zu ertr�nken.  La�t uns gegen Birnam vorr�ken.
+
+(Sie gehen ab.)
+
+
+
+Dritte Scene.
+(Das Schlo� zu Dunsinan.)
+(Macbeth, ein Arzt, und Bediente.)
+
+
+Macbeth.
+Bringt mir keine Zeitungen mehr, la�t sie alle fliehen: Bis der
+Birnam-Wald sich nach Dunsinan bewegt, kennt Macbeth keine Furcht.
+Was ist der Knabe Malcolm?  Ward er nicht von einem Weibe gebohren?
+Geister, die den ganzen Zusammenhang der sterblichen Begegnisse
+kennen, haben so ausgesprochen: F�rchte nichts, Macbeth; keiner,
+der von einem Weibe gebohren ward, soll jemals Gewalt �ber dich
+haben--So flieht dann, flieht ihr abtr�nnigen Thanes, und mischt
+euch unter diese Englische Z�rtlinge.  Der Geist, der mich
+beherrscht, das Herz das mich befeurt, kan nie von Zweifeln wanken,
+nie von Furcht ersch�ttert werden.  (Ein Bedienter tritt auf.) Da�
+dich der Teufel schwarz r�uchre, du milchsuppichter Bengel!  Wie
+kommst du zu diesem gansm��igen Aussehn?
+
+Bedienter.
+Zehen Tausend--
+
+Macbeth.
+G�nse, Schurke?
+
+Bedienter.
+Soldaten, Gn�digster Herr--
+
+Macbeth.
+Geh, streich dein Gesicht vorher roth an, du wei�lebrichter Bube!
+Was f�r Soldaten, Lumpenhund?  Da� du verdammt w�rest!  Deine
+Wangen von weissem Tuch steken mir noch die andern mit Feigheit an.
+Was f�r Soldaten, Molken-Gesicht?
+
+Bedienter.
+Die Englische Macht, mit eurer Erlaubni�.
+
+Macbeth.
+Thu mir dein Gesicht aus den Augen--Seyton!--Ich werde krank wenn
+ich's ansehe--Seyton, sag ich.--Ich habe lange genug gelebt: mein
+Leben ist nach und nach ins Welken herabgesunken, in gelbes Laub,
+und das was das hohe Alter begleiten sollte, Ehre, Zuneigung,
+Gehorsam, Freunde, an das darf ich nur nicht gedenken: alles was
+ich dagegen zu erwarten habe, sind Fl�che, nicht laut, aber desto
+tieffer, leere Complimente, Athem, den das arme Herz gern versagen
+wollte, wenn es d�rfte.  Seyton! --
+(Seyton tritt auf.)
+
+Seyton.
+Was ist euer gn�digster Befehl?
+
+Macbeth.
+Giebt's keine neue Zeitungen?
+
+Seyton.
+Es hat sich alles best�ttiget, Gn�digster Herr, was berichtet
+worden ist.
+
+Macbeth.
+Ich will fechten, bis mir das Fleisch von den Knochen abgehakt ist;
+gieb mir meine Waffen.
+
+Seyton.
+Es ist noch nicht n�thig.
+
+Macbeth.
+Ich will sie anlegen.  Schikt mehr Reuter aus, st�bert die ganze
+Landschaft auf, la� die Schurken aufh�ngen, die von Furcht reden.
+Gieb mir meine R�stung.  Was macht eure Patientin, Doctor?
+
+Arzt.
+Gn�digster Herr, ihre Krankheit besteht haupts�chlich in
+schwerm�thigen Einbildungen, die sie in ihrer Ruhe st�ren.
+
+Macbeth.
+So heile sie davon.  Kanst du die Schmerzen eines kranken Gem�ths
+nicht stillen, einen eingewurzelten Kummer aus dem Ged�chtni�
+ziehen, die eingegrabnen Unruhen des Hirns ausgl�tten, und den
+�berladenen Busen von diesem gef�hrlichen Unrath reinigen, der das
+Herz beklemmt?
+
+Arzt.
+Hierinn mu� der Kranke selbst das Beste thun.
+
+Macbeth.
+Wirf deine Arzneyen den Hunden vor, ich will keine--Komm, leg mir
+meine R�stung an; gieb mir meinen Stab.  Seyton, schike du--Doctor,
+die Thanes fallen von mir ab--Kommt, Sir, macht hurtig--Doctor,
+wenn du das Wasser meines Lands besehen, seine Krankheit ausf�ndig
+machen, es ausreinigen und zu seiner vorigen Gesundheit wieder
+herstellen k�nntest, dann wollt ich dir zujauchzen, bis die weite
+Welt von allgemeinem Wiederhall erschallte--Zieh mich ab, sag' ich--
+was f�r Rhebarber, Senesbl�tter, oder was f�r Purgazen k�nnten wol
+diese Engl�nder abtreiben?  H�rst du nichts von ihnen?
+
+Arzt.
+Ja, mein gn�digster Herr; eure k�nigliche Zur�stungen machen, da�
+wir etwas davon h�ren.
+
+Macbeth.
+Bring mir's in mein Zimmer--Mir kan der Tod nicht bange machen, bis
+der Birnam-Wald nach Dunsinan kommt.
+
+(Er geht ab.)
+
+Arzt.
+W�r' ich nur einmal mit ganzer Haut von Dunsinan, mich sollte
+sobald kein Gewinst wieder dahin ziehen.
+
+(Geht ab.)
+
+
+
+Vierte Scene.
+(Verwandelt sich in den Birnam-Wald.)
+(Malcolm, Siward, Macduff, Siward's Sohn, Menteth, Cathne�, Angus,
+ und Soldaten, im Marsch.)
+
+
+Malcolm.
+Vettern, ich hoffe der Tag ist nahe, da Schlaf-Zimmer wieder sicher
+seyn werden.
+
+Menteth.
+Wir zweifeln nicht daran.
+
+Siward.
+Wie hei�t der Wald vor uns?
+
+Menteth.
+Birnam-Wald.
+
+Malcolm.
+La�t jeden Soldaten sich einen Ast abhauen, und ihn vor sich her
+tragen; wir werden dadurch die Anzahl unsers Heers beschatten, und
+die Kundschafter in Verwirrung sezen.
+
+Soldaten.
+Es soll geschehen.
+
+Siward.
+Wir h�ren nichts anders, als da� der Tyrann sich noch immer in
+Dunsinan eingeschlossen h�lt, und es dort auf eine Belagerung
+ankommen lassen will.
+
+Malcolm.
+Es ist seine lezte Hoffnung; er sieht sich von allen Seiten
+verlassen, und die ihm noch dienen, sind gezwungne Leute, deren
+Herzen abwesend sind.
+
+Macduff.
+La�t unsern gerechten Tadel die Best�tigung des Ausgangs erwarten,
+und schiken wir uns izt an, als brave Soldaten zu fechten!
+
+Siward.
+Die Zeit ist da, die uns durch eine gerechte Entscheidung unsern
+K�nig und unser Eigenthum zusprechen wird.  Speculative Gedanken
+sagen nur ihre unsichre Hoffnungen; Streiche m�ssen den gewissen
+Ausgang entscheiden; und diesem la�t uns nun mit Muth
+entgegenziehen.
+
+(Sie marschieren ab.)
+
+
+
+F�nfte Scene.
+(Verwandelt sich in das Schlo� Dunsinan.)
+(Macbeth, Seyton und Soldaten, mit Trummeln und Fahnen, treten auf.)
+
+
+Macbeth.
+H�nget unsre Fahnen �ber die Mauren heraus, man schreyt immer: Sie
+kommen.  Aber die Festigkeit unsers Schlosses spottet einer
+Belagerung.  La�t sie da ligen, bis Hunger und Fieber sie aufreiben.
+W�ren sie nicht von denen unterst�zt, die auf unsrer Seite seyn
+sollten, wir w�ren ihnen zuversichtlich, Bart gegen Bart, entgegen
+gegangen, und h�tten sie wieder heimgepr�gelt--Was f�r ein Lerm ist
+das?
+
+(Man h�rt ein Geschrey von Weibsleuten.)
+
+Seyton.
+Es sind die Weibsleute, welche schreyen, Gn�digster Herr.
+
+Macbeth.
+Ich habe die Furcht ganz verlernt; es war eine Zeit, da mich der
+Schrey einer Nachteule schauern gemacht h�tte--Aber das ist nun
+anders; ich habe mit Schrekgespenstern zunachtessen gelernt: Das
+Entsezlichste ist mit meinen blutigen Gedanken so vertraulich
+worden, da� ich nicht mehr erschreken kan.  Was bedeutete das
+Geschrey?
+
+Seyton.
+Die K�nigin ist todt!
+
+Macbeth.
+Sie h�tte ein andermal sterben sollen; es w�rde wol einmal die Zeit
+dazu gekommen seyn.  Morgen, und Morgen, und Morgen kriecht in
+seinem Pygm�en-Schritt von einem Tag zum andern; alle unsre Gestern
+haben buntschekigte Narren, die auf dem Wege des Todes vor ihnen
+her gaukeln.  Aus, aus, kleine Kerze!  Leben ist nur ein wandelnder
+Schatten, ein armer Schauspieler, der seine Stunde lang auf dem
+Schauplaze sich sprei�t, und ein grosses Wesen macht, und dann
+nicht mehr bemerkt wird.  Es ist ein M�hrchen, das ein Dummkopf
+erz�hlt, voll Schall und Bombast, aber ohne Sinn.  (Ein Bote tritt
+auf.) Du kommst, deine Zunge zu brauchen; mach' es kurz.
+
+Bote.
+Gn�digster Herr, ich sollte sagen, was ich gesehen hab, und wei�
+nicht wie ich es sagen soll.
+
+Macbeth.
+Gut, sag es, Sir.
+
+Bote.
+Wie ich auf dem H�gel auf meinem Posten stand, schaut' ich gegen
+Birnam und da dauchte mich, der Wald bewege sich gegen mich her.
+
+Macbeth (schl�gt ihn.)
+Du l�genhafter Schurke!
+
+Bote.
+La�t mich euern Grimm erfahren, wenn es nicht so ist; binnen dieser
+drey Meilen k�nnt ihr ihn selbst kommen sehen; wie ich sage, einen
+Wald, der sich herbewegt.
+
+Macbeth.
+Wenn du gelogen hast, sollst du lebendig an den n�chsten Baum
+aufgehangen werden, bis du vor Hunger zusammenschrumpfest: Sagst du
+die Wahrheit, so bek�mmr' ich mich nichts darum, wenn du es mir so
+machst--Aber, wie, wenn ein Doppelsinn in den Worten dieses Teufels
+l�ge, der seinen L�gen die Gestalt der Wahrheit zu geben pflegt?--
+F�rchte dich nicht, bis der Birnam-Wald nach Dunsinan kommt--und
+nun kommt ein Wald gegen Dunsinan.  Die Waffen an, die Waffen an,
+und hinaus!  Wenn es so ist, wie er sagt, so ist entfliehen und
+hier bleiben gleich sicher--Ich fange an, dieser Sonne �berdr��ig
+zu werden--Schlagt die Sturmgloke--St�rmt, ihr Winde, und
+zerschmettert in allgemeinem Schiffbruch die ganze Natur--Hinweg!
+wenn wir sterben m�ssen, so wollen wir doch mit den Waffen in den
+H�nden sterben.
+
+(Sie gehen ab.)
+
+
+
+Sechste Scene.
+(Vor Dunsinan.)
+(Malcolm, Siward, Macduff und ihr Kriegsheer, mit Zweigen.)
+
+
+Malcolm.
+Nun sind wir nahe genug; werft eure laubichten Schirme weg, und
+zeigt euch als diejenigen die ihr seyd.  Ihr, Ehrw�rdiger Oheim,
+sollt mit meinem Vetter, euerm edeln Sohn, unser erstes Treffen
+anf�hren; und Macduff und ich wollen, nach euern Befehlen, das
+�brige auf uns nehmen, was zu thun seyn wird.
+
+Siward.
+Gehabt euch wohl; finden wir nur noch vor Nacht die Schaaren des
+Tyrannen, so la�t uns geschlagen werden, wenn wir nicht fechten.
+
+Macduff.
+La�t alle unsre Trompeten zum Angriff blasen.
+
+(Sie gehen ab.  Man bl��t zum Angriff.)
+
+(Macbeth tritt auf.)
+
+Macbeth.
+Sie haben mich an einen Pfosten angebunden, ich kan nicht
+entfliehen, sondern mu�, wie ein gehezter B�r, f�r mein Leben
+fechten.  Wer ist der, den kein Weib gebohren hat?  Ich will ihn
+f�rchten, sonst keinen.  (Der junge Siward tritt auf.)
+
+Junge Siward.
+Wie ist dein Name?
+
+Macbeth.
+Du w�rdest zittern wenn du ihn h�rtest.
+
+Junge Siward.
+Das w�rd' ich nicht, und wenn du dir gleich einen heissern Namen
+g�best, als irgend einer in der H�lle.
+
+Macbeth.
+Mein Nam' ist Macbeth.
+
+Junge Siward.
+Der Teufel selbst k�nnte mir keinen verha�tern nennen.
+
+Macbeth.
+Und keinen furchtbarern.
+
+Junge Siward.
+Du l�gst, du verworfner Tyrann, mit meinem Schwerdt will ich
+beweisen, da� du es gelogen hast.  (Sie fechten, und der junge
+Siward f�llt.)
+
+Macbeth.
+Dich hat ein Weib gebohren--Ich l�chle nur zu Schwerdtern, die von
+Weiber-S�hnen geschwungen werden.
+
+(Er geht.)
+
+(Das Kriegs-Get�mmel daurt fort.  Macduff tritt auf.)
+
+Macduff.
+Von daher kommt das Get�mmel: Tyrann, zeige dein Gesicht; wenn du
+von einer andern als meiner Hand gefallen bist, so werden die
+Geister meines Weibes und meiner Kinder mir keine Ruhe lassen.  Ich
+kan nicht auf diese armseligen Kernen schlagen, deren �rme
+gedungen sind ihre Speere zu tragen; du must es seyn, Macbeth, oder
+ich steke mein Schwerdt unbesudelt wieder in die Scheide--dort
+solltest du seyn; dieser grosse Lerm scheint einen vom ersten Rang
+anzuk�nden.  La� mich ihn finden, Gl�k, mehr verlang' ich nicht.
+
+(Er geht ab.)
+
+(Get�mmel.  Malcolm und Siward treten auf.)
+
+Siward.
+Gn�digster Herr, auf dieser Seite ist das Schlo� unser: Des
+Tyrannen Leute fechten mehr f�r uns als f�r ihn; die edeln Thanes
+halten sich vortreflich; noch eine kleine Arbeit, so ist der Tag
+euer.
+
+Malcolm.
+Wir haben mit Feinden zu thun, deren Streiche alle neben uns vorbey
+gehen.
+
+Siward.
+Wir wollen in das Schlo� hinein, Gn�digster Herr.
+
+(Sie gehen ab.)
+
+
+
+Siebende Scene.
+(Get�mmel.  Macbeth tritt auf.)
+
+
+Macbeth.
+Wie?  Ich sollte hier den R�mischen Narren machen und auf meinem
+eignen Schwerdt sterben?  Nein, so lang ich noch was lebendiges um
+mich sehe, will ich es besser gebrauchen.  (Indem er wieder abgehen
+will, st��t Macduff auf ihn.)
+
+Macduff.
+Zur�k, H�llenhund, zur�k!
+
+Macbeth.
+Unter allen Menschen bist du der einzige, dem ich ausgewichen bin:
+Geh deines Weges, meine Seele ist mit dem Blut der deinigen schon
+beladen genug.
+
+Macduff.
+Ich habe keine Worte; meine Stimme ist in meinem Schwerdt!  du
+blutigerer B�sewicht als Worte dich mahlen k�nnen--
+
+(Sie fechten).)
+
+Macbeth.
+Du verliehrst deine M�he; eben so leicht m�chtest du die
+unverwundbare Luft mit deinem Schwerdt durchl�chern, als mich
+bluten machen; la� es auf sterbliche Sch�del fallen; ich trage ein
+bezaubertes Leben, das keinem weichen kan, der von einem Weibe
+gebohren ward.
+
+Macduff.
+So verzweifle!  Verruchter, und la� den Teufel, dem du gedient hast,
+dir sagen, da� Macduff unzeitig aus seiner Mutter Leib geschnitten
+ward.
+
+Macbeth.
+Verflucht sey die Zunge, die mir das sagt, denn sie hat den besten
+Theil meiner Mannheit entnervet; und verflucht sey, wer diesen
+gauklerischen Teufeln mehr glaubt, die uns mit Wizspielen und
+Doppelsinn betr�gen; die ihr Versprechen unserm Ohr halten, und es
+unsrer Hoffnung brechen!  Ich will nicht mit dir fechten.
+
+Macduff.
+So ergieb dich dann, Memme, und lebe, um die Fabel und das
+Schauspiel der Zeit zu seyn.  Wir wollen dich, wie irgend ein
+seltnes Ungeheuer, abgemahlt an einer Stange herumtragen lassen,
+mit der Unterschrift: (Hier ist zu sehen der Tyrann.)
+
+Macbeth.
+Ich will mich nicht ergeben, den Boden vor des Knaben Malcolm's
+F�ssen zu k�ssen, und den Fl�chen des lumpichten P�bels zum Ziel zu
+dienen.  Wenn gleich der Birnam-Wald nach Dunsinan gekommen ist,
+und du, mein Gegner, von keinem Weibe gebohren wardst, so will ich
+doch das lezte versuchen.  Hier zieh ich meinen Schild vor meinen
+Leib; schlage zu, Macduff, und verdammt sey der, der zuerst ruft:
+Halt, genug!
+
+(Sie fechten, und entfernen sich vom Theater.  Das Get�mmel daurt
+fort.)
+
+
+
+Achte Scene.
+(Man bl��t zum Abzug.  Ein Trompeten-Sto�.  Malcolm, Siward, Rosse,
+ Thanes und Soldaten, ziehen mit Trummeln und Fahnen auf.)
+
+
+Malcolm.
+Ich wollte, die Freunde, die wir missen, w�ren unbesch�digt
+angelangt.
+
+Siward.
+Einige m�ssen schon drauf gehen, und doch ist so viel ich sehe, ein
+so grosser Tag wolfeil gekauft.
+
+Malcolm.
+Macduff wird vermi�t, und euer edler Sohn!
+
+Rosse.
+Euer Sohn, Milord, hat die Schuld eines Soldaten bezahlt; er lebte
+nur bis er ein Mann war, und hatte nur so viel Zeit, seinen Muth
+durch Thaten zu beweisen, so starb er als ein Mann.
+
+Siward.
+So ist er todt?
+
+Rosse.
+Ja, und schon vom Schlachtfeld weggetragen; ihr m��t euern Schmerz
+nicht seinem Werth gleich messen, sonst h�tt' er kein Ende.
+
+Siward.
+Hat er seine Wunden vornen?
+
+Rosse.
+Ja, in der Stirne.
+
+Siward.
+Nun dann, so sey er Gottes Soldat!  H�tt' ich so viel S�hne als ich
+Haare habe, ich wollt' ihnen keinen sch�nern Tod w�nschen.
+
+Malcolm.
+Er ist einer gr�ssern Trauer werth, und die will ich ihm erstatten.
+
+Siward.
+Er ist keiner gr�ssern werth; sie sagen, er starb edel, und
+bezahlte seine Zeche.  Und so, sey Gott mit ihm!--Hier kommt ein
+neuer Trost: (Macduff tritt mit Macbeths Kopf auf.)
+
+Macduff.
+Heil dir, K�nig!  Denn der bist du nun!  Sieh' hier des Tyrannen
+verfluchten Kopf; die Zeit ist frey; ich seh dich von den Edeln
+deines K�nigreichs umgeben, die meinen Gru� in ihren Herzen
+nachsprechen, und die ich nun bitte, ihre Stimmen mit der meinigen
+zu erheben: Heil, K�nig von Schottland!
+
+Alle.
+Heil, K�nig von Schottland!
+
+(Ein Trompeten-Sto�.)
+
+Malcolm.
+Wir wollen keine Zeit verliehren, bis wir mit eurer Liebe zu uns
+abrechnen, und mit einem jeden unter euch quitt sind.  Thanes und
+Vettern, von nun an seyd Grafen, die ersten, die Schottland mit
+diesem Ehren-Namen begr��t hat.  Was ferner zu thun ist, und die
+erste Sorge unsrer neuangehenden Regierung seyn mu�, die
+Zur�kberufung unsrer verbannten Freunde, der Proce� der grausamen
+Werkzeuge dieses todten Schl�chters und seiner teuflischen K�nigin,
+(die, wie man glaubt, gewaltsame H�nde an ihr eigen Leben gelegt
+hat.) Dieses, und was sonst zu besorgen seyn wird, wollen wir, mit
+des Himmels Beystand, in Maa�, Zeit und Ort zu Stande bringen: Und
+hiemit danken wir euch allen auf einmal, und jedem insbesondere,
+und laden euch nach Scone zu unsrer Cr�nung ein.
+
+(Sie gehen unter Trompeten-Schall ab.)
+
+
+MacBeth, von William Shakespeare
+(�bersetzt von Christoph Martin Wieland).
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Macbeth, by William Shakespeare
+
+*** END OF THE PROJECT GUTENBERG EBOOK MACBETH ***
+
+This file should be named 7269-8.txt or 7269-8.zip
+
+Produced by Delphine Lettau
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

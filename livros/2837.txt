@@ -1,0 +1,3459 @@
+Project Gutenberg Etext Lendas do Sul, by J. Somoes Lopes Netto
+This Etext is our first in Portuguese!
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+*It must legally be the first thing seen when opening the book.*
+In fact, our legal advisors said we can't even change margins.
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Title:  Lendas do Sul
+
+Author:  J. Somoes Lopes Netto
+
+September, 2001  [Etext #2837]
+[Yes, we are about one year ahead of schedule]
+
+Project Gutenberg Etext Lendas do Sul, by J. Somoes Lopes Netto
+*****This file should be named 2837-8.txt or 2837-8.zip******
+
+
+This Project Gutenberg Etext prepared by Luiz Ant�nio Gusm�o
+Luiz Antonio Gusmao <luizgusmao@bol.com.br>
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp metalab.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext01, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+We are planning on making some changes in our donation structure
+in 2000, so you might want to email me, hart@pobox.com beforehand.
+
+
+
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+
+This Project Gutenberg Etext prepared by Luiz Ant�nio Gusm�o
+Luiz Antonio Gusmao <luizgusmao@bol.com.br>
+This Etext is our first in Portuguese!
+
+
+
+
+
+
+LENDAS DO SUL
+J. Sim�es Lopes Neto
+
+1913
+Echenique & C. � Editores
+Pelotas
+
+
+
+
+
+NOTA
+
+
+
+Conv�m recordar que o primeiro povoamento branco do Rio Grande do
+Sul foi espanhol; seu poder e influencia estenderam-se at� depois da
+conquista das Miss�es; prov�m disso que as velhas lendas rio-
+grandenses acham-se tramadas no acervo platino de antanho.
+
+Vem da Ib�ria, a topar-se com a ing�nua e confusa tradi��o
+guaran�tica (v. g. a lenda da M�boi-t�t�) a mescla crist�-�rabe de
+abus�es e misticismo; dos encantamentos e dos milagres; desses
+elementos, confundidos e abrumados ( p. ex. a salamanca do serro do
+Jarau ), nasceram idealiza��es novas e t�picas adaptadas ou
+decorrentes do meio f�sico e das gentes ainda na crassa inf�ncia das
+concep��es.
+
+
+E, como entre conquistadores brancos corria intensa e r�bida a febre
+da riqueza � o sonho escaldante do El-Dorado � a fulgir nas areias
+e nos cascalhos, espadanando das entranhas misteriosas e apojadas do
+Novo-Mundo, a preponderante vivaz das suas fic��es � sempre a
+imantada �nsia � pelo ouro!, forte sobre a dor e a pr�pria morte...
+
+Com a entrada dos mamelucos paulistas outras e doutra fei��o vieram
+do centro e norte do Brasil: o saci, o ca�pora, a oi�ra,
+que esfumaram-se no olvido.
+
+Por �ltimo uma �nica se formou j� entre gente lusitana
+radicada e a incipiente, nativa: a do Negrinho do pastoreio.
+
+
+A estrutura de tais lendas perdura; procurei delas dar aqui uma
+fei��o expositiva � liter�ria e talvez menos feliz � como
+express�o da dispersa forma porque a ancianidade subsistente
+transmite a tradi��o oral, hoje quase perdida e mui confusa: ainda
+por a� se avaliar� das modifica��es que o tempo exerce
+sobre a mem�ria an�nima do povo.
+
+
+
+
+
+
+*A M�BOI-T�T�*
+_A� Andrade Neves Neto_
+
+
+
+
+_Meu caro Sim�es L. Neto_
+
+_Agrade�o n�o me haveres esquecido com a tua amizade e com o teu
+talento. A lenda da �_boi-t�t�_ �, tamb�m conhecida dos nossos
+sertanejos, com variantes que muito a diferen�am da que escreveste,
+deve figurar no �folk-lore� ga�cho, onde j� cintila, acesa por ti,
+a velinha do �Negrinho do Pastoreio�, � cuja claridade puseste meu
+nome. Prossegue, porque fazes trabalho de valor e muito me alegro
+por haver insistido com a tua mod�stia para que continuasses a
+colher, aqui, ali, essas flores eternas da Poesia do povo, fazendo
+com elas o ramo que ser� um encanto para todas as almas
+e gloria para o teu nome. Abra�o-te_
+
+_teu_
+
+_Coelho Neto_
+
+
+_Rio 20-XI-09_
+
+
+
+
+A M�BOI-T�T�
+
+
+
+I
+
+
+Foi assim:
+
+num campo muito antigo, muito, houve uma noite t�o comprida que
+pareceu que nunca mais haveria luz do dia.
+
+Noite escura como breu, sem lume no c�u, sem vento, sem serenada e
+sem rumores, sem cheiro dos pastos maduros nem das
+flores da mataria.
+
+Os homens viveram abichornados, na tristeza dura; e porque churrasco
+n�o havia, n�o mais sopravam labaredas nos fog�es e passavam comendo
+canjica insossa; os borralhos estavam se apagando e era preciso
+poupar os ti��es...
+
+Os olhos andavam t�o enfarados da noite, que, ficavam parados, horas
+e horas, olhando sem ver as brasas vermelhas do nhanduv�i... as
+brasas somente, porque as faiscas, que alegram, n�o saltavam,
+por falta do sopro forte de bocas contentes.
+
+Naquela escurid�o fechada nenhum tapejara seria capaz de cruzar
+pelos trilhos do campo, nenhum flete crioulo teria faro nem ouvido
+nem vista para bater quer�ncia; at� nem sorro daria no seu pr�prio
+rastro!
+
+E a noite velha ia andando... ia andando...
+
+
+
+II
+
+
+Minto:
+
+no meio do escuro e do sil�ncio morto, de vez em quando, ora duma
+banda ora doutra, de vez em quando uma cantiga forte, de bicho
+vivente, furava o ar; era o _t�u-t�u_ ativo, que n�o dormia desde o
+entrar do �ltimo sol e que vigiava sempre, esperando a volta do sol
+novo, que devia vir e que tardava tanto j�...
+
+S� o _t�u-t�u_ de vez em quando cantava; o seu � _quero quero!_ �
+t�o claro, vindo de l� do fundo da escurid�o, ia ag�entando a
+esperan�a dos homens, amontoados no redor avermelhado das brasas.
+
+
+Fora disto, tudo o mais era sil�ncio; e de movimento,
+ent�o, nem nada.
+
+
+
+III
+
+Minto:
+
+na ultima tarde em que houve sol, quando o sol ia descambando para o
+lado para o outro lado das coxilhas, rumo do minuano, e de onde sobe
+a estrela d�alva, nessa ultima tarde tamb�m desabou uma chuvarada
+tremenda; foi uma manga d��gua que levou um temp�o
+a cair, e durou... e durou...
+
+Os campos foram inundados; as lagoas subiram e se largaram em fitas
+
+coleando os tacuruzais e banhados, que se juntaram, todos, num; os
+passos cresceram e todo aquele peso d��gua correu para as sangas e
+das sangas para os arroios, que ficaram bufando, campo fora, campo
+fora, afogando as canhadas, batendo no lombo das coxilhas. E nessas
+coroas � que ficou sendo o paradouro da animalada, tudo misturado,
+no assombro. E era terneiros e pumas, tourada e potrilhos, perdizes
+e guaraxains, tudo amigo, de puro medo. E ent�o!...
+
+Nas copas dos buti�s vinham encostar-se bolos de formigas, as cobras
+se enroscavam na enredi�a dos aguap�s; e nas estivas do santa-f� e
+das tiriricas boiavam os rat�es e outros mi�dos.
+
+E, como a �gua encheu todas as tocas, entrou tamb�m na da cobra
+grande, a � _boi-guass�_ � que, havia j� muitas m�os de luas,
+dormia quieta, entanguida. Ela ent�o acordou-se e saiu, rabiando.
+
+Come�ou depois a mortandade dos bichos e a _boi-guass�_ pegou a
+comer as carni�as. Mas s� comia os olhos e nada, nada mais.
+
+A �gua foi baixando, a carni�a foi cada vez engrossando,
+e a cada hora mais olhos a cobra grande comia.
+
+
+
+IV
+
+Cada bicho guarda no corpo o sumo do que comeu.
+
+A tambeira que s� come trevo maduro, d� no leite o cheiro doce do
+milho verde; o cerdo que come carne de bagual nem vinte alqueires de
+mandioca o limpam bem; e o soc� tristonho e o bigu� matreiro at� no
+sangue tem cheiro de pescado. Assim tamb�m, nos homens, que at� sem
+comer nada, dam nos olhos a cor dos seus arrancos. O homem de olhos
+limpos � guapo e m�o aberta; cuidado com os vermelhos; mais cuidado
+com os amarelos; e toma ten�ncia doble com os raiados e ba�os!...
+
+Assim foi tamb�m, mais de outro jeito, com a _boi-guass�_,
+que tantos olhos comeu.
+
+
+
+V
+
+Todos � tantos, tantos! que a cobra grande comeu �, guardavam
+entranhando e luzindo, um rastilho da ultima luz que eles viram do
+�ltimo sol, antes da noite grande que caiu... E os olhos � tantos,
+tantos! � com um pingo de luz cada um, foram sendo devorados; no
+principio um punhado, ao depois uma por��o, depois um bocad�o,
+depois, como uma bra�ada...
+
+
+
+VI
+
+E vai,
+
+como a _boi-guass�_ n�o tinha p�los como o boi, nem escamas como o
+dourado, nem penas como o avestruz, nem casca como o tatu, nem couro
+grosso como a anta vai, o seu corpo foi ficando transparente
+clareado pelos miles de luzezinhas, dos tantos olhos que foram
+esmagados dentro dele, deixando cada qual sua pequena r�stia de luz.
+E vai, afinal, a boi-guass� toda j� era uma luzerna, um clar�o sem
+chamas, j� era um fogar�u azulado, de luz amarela e triste e fria,
+sa�da dos olhos, que fora guardada neles, quando ainda estavam
+vivos...
+
+
+
+VII
+
+Foi assim e foi por isso que os homens, quando pela primeira vez
+viram a _boi-guass�_ t�o demudada, n�o a conheceram mais. N�o
+conheceram e julgando que era outra, muito outra, chamaram-na desde
+ent�o, de _boi-t�t�_, cobra de fogo, _boi-t�t�_ , a _boi-t�t�_ !
+
+E muitas vezes a _boi-t�t�_  rondou as rancherias, faminta, sempre
+que nem chimarr�o. Era ent�o que o t�u-t�u cantava, como bombeiro.
+
+E os homens, por curiosos, olhavam pasmados, para aquele grande
+corpo de serpente, transparente � _t�t�_, de fogo � que media mais
+bra�as que tr�s la�os de conta e iam alumiando ba�amente as
+carquejas... E depois, choravam. Choravam, desatinados do perigo,
+pois as suas l�grimas tamb�m guardavam tanta ou mais luz que s� os
+olhos e a _boi-t�t�_  ainda cobi�ava os olhos vivos
+dos homens, que j� os da carni�a enfaravam...
+
+
+
+VIII
+
+Mas, como dizia:
+
+na escurid�o s� avultava o clar�o ba�o do corpo da _boi-t�t�_ , e
+era por ela que o _t�u-t�u_ cantava de vigia, em todos
+os flancos da noite.
+
+Passado um tempo, a _boi-t�t�_  morreu; de pura fraqueza morreu,
+porque os olhos comidos encheram-lhe o corpo mas n�o lhe deram
+sust�ncia, pois que sust�ncia n�o tem a luz que os olhos em si
+entranhada tiveram quando vivos...
+
+Depois de rebolar-se rabiosa nos montes de carni�a, sobre os montes
+pelados, sobre as carnes desfeitas, sobre as cabelamas soltas, sobre
+as ossamentas desparramadas, o corpo dela desmanchou-se,
+tamb�m como cousa da terra, que se estraga de vez.
+
+E foi ent�o que a luz que estava preza se desatou por a�.
+
+E at� pareceu cousa mandada: o sol apareceu de novo!
+
+
+
+IX
+
+Minto:
+
+apareceu, sim, mas veio de sopet�o. Primeiro foi se adelga�ando o
+negrume, foram despontando as estrelas; e estas se foram sumindo no
+coloreado do c�u; depois foi sendo mais claro, mais claro, e logo,
+na lonjura, come�ou a subir uma lista de luz... depois a metade de
+uma cambota de fogo... e j� foi o sol que subiu, subiu, subiu at�
+vir a pino e descambar, como dantes, e desta feita,
+para igualar o dia e a noite, em metades, para sempre.
+
+
+
+X
+
+Tudo o que morre no mundo se junta � semente de onde nasceu, para
+nascer de novo: s� a luz da _boi-t�t�_  ficou sozinha,
+nunca mais se juntou com outra luz de que saiu.
+
+Ainda sempre se arrisca e s�, nos lugares onde quanta
+carni�a houve, mais se infesta. E no inverno, de entanguida,
+n�o aparece e dorme talvez entocada.
+
+Mas de ver�o, depois da quentura dos morma�os,
+come�a ent�o seu fad�rio.
+
+A _boi-t�t�_ , toda enroscada, como uma bola � _t�t�_, de fogo! �
+empe�a a correr pelo campo, coxilha abaixo, lomba acima,
+at� que horas da noite!...
+
+� um fogo amarelo e azulado, que n�o queima a macega seca
+nem aquenta a �gua dos manantiais; e rola, gira, corre,
+corcoveia e se despenca e arrebenta-se, apagando...
+e quando menos se espera, aparece, outra vez, do mesmo jeito!
+
+Maldito! T�esconjuro!
+
+
+
+XI
+
+Quem encontra a _boi-t�t�_ pode at� ficar cego... Quando algu�m topa
+com ela s� tem dois meios de se livrar: ou ficar parado, muito
+quieto, de olhos apertados e sem respirar, at� ir-se ela embora, ou
+se anda a cavalo, desenrodilhar o la�o, fazer uma armada grande e
+atirar-lha em cima, e tocar a galope, trazendo o la�o de arrasto,
+todo solto, at� a ilhapa!
+
+A _boi-t�t�_ vem acompanhado o ferro da argola... mas de repente
+batendo numa macega, toda se desmancha, e vai esfarinhando a luz,
+para emulitar-se de novo, com vagar, na aragem que ajuda.
+
+
+
+XII
+
+Campeiro precatado! reponte o seu gado da _boi-t�t�_ : o pasti�al,
+a�, faz peste...
+
+Tenho visto!
+
+
+
+
+
+
+
+*A SALAMANCA DO JARAU*
+_A Alcides Maya_
+
+
+
+O Serro do Jarau 1
+A salamanca 2
+
+
+
+
+I
+
+
+Era um dia...,
+
+um dia, um ga�cho pobre, Blau, de nome, guasca de bom porte, mas que
+s� tinha de seu um cavalo gordo, o fac�o afiado e as estradas reais,
+estava conchavado de posteiro, ali na entrada do rinc�o; e nesse dia
+andava campeando um boi barroso.
+
+E no tranquito andava, olhando; olhando para o fundo das sangas;
+para o alto das coxilhas, ao comprido das canhadas; talvez deitado
+estivesse entre as carquejas � a carqueja � sinal de campo bom �,
+por isso o campeiro �s vezes al�ava-se nos estribos e, de m�o em
+pala sobre os olhos, firmava mais a vista entorno; mas o boi
+]barroso, crioulo daquela quer�ncia, n�o aparecia; e Blau ia
+campeiando, campeiando...
+
+
+
+Campeiando e cantando:
+
+
+
+�Meu bonito boi barroso,
+Que eu j� contava perdido,
+Deixando o rastro na areia
+Foi logo reconhecido.
+
+
+�Montei no cavalo escuro
+E trabalhei logo de espora;
+E gritei � aperta, gente,
+Que o meu boi se vai embora! �
+
+
+�No cruzar uma picada,
+Meu cavalo relinchou,
+Dei de r�dea para a esquerda,
+E o meu boi me atropelou!
+
+
+�Nos tentos levava um la�o
+De vinte e cinco rodilhas.
+P�ra la�ar o boi barroso
+L� no alto das coxilhas!
+
+
+�Mas o mato carrasquento
+Onde o boi �stava embretado,
+N�o quis usar o meu la�o
+P�ra n�o v�-lo retalhado
+
+
+�E mandei fazer um la�o
+Da casca do jacar�,
+P�ra la�ar meu boi barroso
+Num redom�o pangar�.
+
+
+�E mandei fazer um la�o
+Do couro da jacutinga,
+P�ra la�ar meu boi barroso
+L� no passo da restinga.
+
+
+�E mandei fazer um la�o
+Do couro da capivara
+P�ra la�ar meu boi barroso
+Nem que fosso � meia-cara;
+
+
+�Este era um la�o de sorte,
+Pois quebrou do boi a balda�...
+ . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . .
+
+
+
+No tranquito ia, cantando, e pensando na sua pobreza,
+no atraso das suas cousas.
+
+No atraso das suas cousas, desde o dia em que topou � cara � cara!
+� com o Caipora num campestre da serra grande, p�ra l�,
+muito longe no Botucara�...
+
+A lua ia rec�m saindo...; e foi � boquinha da noite...
+
+Hora de agouro pois ent�o!...
+
+Ga�cho valente que era dantes, ainda era valente agora; mas, quando
+cruzava o fac�o com qualquer paisano, o ferro da sua m�o ia mermando
+e o do contrario o lanhava...
+
+Domador destorcido e parador, que, por s� pabolajem gostava de
+paletear, ainda era domador agora; mas, quando gineteava mais
+folheiro, �s vezes, num redepente, era volteado...
+
+De m�o feliz para plantar, que n�o lhe chochava semente nem muda de
+raiz se perdia, ainda era plantador, agora; mas, quando a semeadura
+ia apontando da terra, dava uma praga em toda, tanta, que benzedura
+n�o vencia...; e o arvoredo do seu plantio crescia entecado e mal
+floria, e quando dava fruta, era mixe e era azeda...
+
+E assim, por esse teor, as cousas corriam-lhe mal; e pensando nelas
+o ga�cho pobre, Blau, de nome, ia, ao tranquito, campeiando, sem
+topar co�o boi barroso.
+
+De repente, na volta duma reboleira, bem na beirada dum boqueir�o,
+sofrenou o tostado...: ali em frente, quieto e manso, estava um
+vulto, de face tristinha e mui branca.
+
+Aquele vulto de face branca... aquela face tristonha!...
+
+J� ouvira falar dele, sim, n�o uma nem duas, mas muitas vezes...; e
+de homens que o procuravam, de todas as pintas, vindos de longe, num
+prop�sito, para endrominas de encantamentos..., conversas que se
+falavam baixinho, como num medo; p�r�o caso, os que podiam n�o
+contavam, porque uns, desandavam apatetados e vagavam por a�, sem
+dizer cousa com cousa, e outros calavam-se muito bem calados, talvez
+por juramento dado...
+
+Aquele vulto era o sant�o da salamanca do serro.
+
+
+
+Blau Nunes sofrenou o cavalo.
+
+Correu-lhe um arrepio no corpo, mas era tarde para recuar: um homem
+� para outro homem!...
+
+E como era ele
+
+quem chegava, ele � que tinha de louvar; saudou:
+
+� L�us� Sus� Cris�!...3
+
+� Para sempre, amem! disse o outro, e logo ajuntou: O boi barroso
+vai trepando serro acima, vai trepando... Ele anda cumprindo
+o seu fad�rio..4
+
+
+Blau Nunes pasmou do adivinho; mas respostou:
+
+� Vou no rastro!...
+
+� Est� enredado...
+
+� Sou tapejara, sei tudo, palmo a palmo, at� � boca preta do fumo
+do serro...
+
+� Tu... tu, paisano, sabes a entrada da salamanca?...
+
+� � l�?... Ent�o, sei, sei! A salamanca do serro do Jarau!...
+Desde a minha av� charrua, que eu ouvi falar!...
+
+� O que contava a tua av�?
+
+� A m�e da minha m�e dizia assim:
+
+
+
+
+II
+
+
+� Na terra dos espanh�is, do outro lado do mar, havia uma cidade
+chamada�Salamanca � onde viveram os mouros, os mouros que eram
+mestres nas artes de magia; e era numa furna escura que eles
+guardavam o cond�o m�gico, por causa da luz branca do sol,
+que diz� que desmancha a for�a da bruxaria...
+
+
+
+O cond�o estava no rega�o de uma fada velha, que era uma princesa
+mo�a, encantada, e bonita como s� ela!...
+
+Num m�s de quaresma os mouros escarneceram muito do jejum dos
+batizados, e logo perderam uma batalha muito pelejada; e vencidos
+foram obrigados ajoelharem-se ao p� da Cruz Bendita... e a baterem
+nos peitos, pedindo perd�o...
+
+Ent�o, depois, alguns, fingidos de crist�os, passaram o mar e vieram
+dar nestas terras sossegadas, procurando riquezas, ouro, prata,
+pedras finas, gomas cheirosas... riquezas para levantar de novo o
+seu poder e al�ar de novo a Meia-Lua sobre a Estrela de Bel�m...
+
+
+
+E para seguran�a das suas tra�as trouxeram escondida a fada velha,
+que era a sua formosa princesa mo�a...
+
+E devia ter mesmo muito for�a o cond�o, porque nem os navios se
+afundaram, nem os frades de bordo desconfiaram, nem os pr�prios
+santos que vinham, n�o sentiram...
+
+
+
+Nem admira, porque o cond�o das mouras encantadas sempre aplastou a
+alma dos frades e n�o se importa com os santos do altar, porque
+esses s�o s� imagens...
+
+
+Assim bateram nas praias da gente pampeana os tais mouros e mais
+outros espanh�is renegados. E como eles eram, todos, de alma
+condenada, mal puseram p� em terra, logo na meia noite da primeira
+sexta-feira foram visitados pelo Diabo deles, que neste lado do
+mundo era chamado de Anhang�-pit�5 e mui respeitado. Ent�o, mouros e
+renegados disseram ao que vinham; e Anhang�-pit� folgou muito;
+folgou, porque a gente nativa daquelas campanhas e destas serras era
+gente sem cobi�a de riquezas, que s� comia a ca�a, o peixe, a fruta
+e as ra�zes que Tup� despejava sem conta, para todos, das suas m�os
+sempre abertas e fazedoras...
+
+Por isso Anhang�-pit� folgou, porque assim minava para o peito dos
+inocentes as maldades encobertas que aqueles chegados traziam...; e
+pois, escutando o que eles ambicionavam para vencer a Cruz com a
+for�a do Crescente, o maldoso pegou do cond�o m�gico � que navegara
+em navio bento e entre frades rezadores e santos milagrosos �,
+esfregou-o no suor do seu corpo e virou-o em pedra transparente; e
+lan�ando o bafo queimante do seu peito sobre a fada moura, demudou-a
+teiniagu�6 , sem cabe�a. E por cabe�a encravou ent�o no novo corpo da
+encantada a pedra, aquela, que era o cond�o, aquele.
+
+
+
+E como j� era sobre a madrugada, no crescimento da primeira luz do
+dia, do sol vermelho que ia querendo romper  dos confins por sobre o
+mar, por isso a cabe�a de pedra transparente ficou vermelha como
+brasa e t�o brilhante que os olhos de gente vivente n�o podiam parar
+nele, ficando encandeiados, quase cegos!...
+
+
+
+E desfez-se a companhia at� o dia da peleja da nova batalha. E
+chamaram � salamanca � � furna desse encontro; e o nome ficou
+p�r�as furnas todas, em lembran�a da cidade dos mestres m�gicos.
+
+
+
+Levantou-se um ventarr�o de tormenta e Anhang�-pit�, trazendo num
+boc� a teiniagu�, montou nele, de salto, e veio correndo sobre a
+correnteza do Uruguai, por l�guas e l�guas, at� as suas nascentes,
+entre serranias macotas.
+
+Depois, desceu, sempre com ela; em sete noites de sexta-feira
+ensinou-lhe a vaqueanajem de todas as furnas recamadas de tesouros
+escondidos... escondidos pelos cau�las, perdidos para os medrosos e
+achadio de valentes... E a mais desses, muitos outros tesouros que a
+terra esconde e que s� os olhos do zaor�s7 podem vispar...
+
+
+
+Ent�o Anahang�-pit�, cansado pegou num cochilo pesado, esperando o
+cardume da desgra�as novas, que deviam pegar p�ra sempre...
+
+S� n�o tomou ten�ncia que a teiniagu� era mulher...
+
+Aqui est� tudo o que eu sei, que a minha av� charr�a8 contava � minha
+m�e, e que ela j� ouviu, como cousa velha, contar por outros que,
+esses, viram!...
+
+
+
+
+E Blau Nunes bateu o chap�u para o alto da cabe�a, deu um safan�o no
+cinto, aprumando o fac�o...; foi parando o gesto e ficou-se olhando,
+sem mira, para muito longe, para onde a vista n�o chegava mas onde o
+sonho acordado que havia nos seus olhos chegava de sobra e ainda
+passava... ainda passava, porque o sonho n�o tem
+lindeiros nem tapumes...
+
+
+Falou ent�o
+
+o vulto de face branca e tristonha; falou em voz macia.
+E disse assim:
+
+
+
+III
+
+
+� certo:
+
+n�o tomou ten�ncia que a teiniagu� era mulher... Ouve paisano.
+
+
+
+No costado da cidade  onde eu vivia havia uma lagoa, larga e funda,
+com uma ilha de palmital, no meio. Havia uma lagoa...
+
+
+
+A minha cabe�a foi banhada na �gua  benta da pia, mas nela
+encontraram soberbos pensamentos maus... O meu peito foi ungido com
+os santos �leos, mas nele entrou a do�ura que tanto amarga,
+do pecado...
+
+A minha boca provou do sal piedoso... e nela entrou a frescura
+que requeima, dos beijos da tentadora...
+
+
+
+Mas, � que assim era o fado... ; tempo e homem vir�o para me
+libertar, quebrando o encantamento que me amarra; duzentos anos h�o
+de findar; eu esperarei no entanto, vivendo na minha tristeza seca,
+tristeza de arrependido que n�o chora...
+
+Tudo o que me volteia no ar tem seu dia de aquietar-se no ch�o...
+
+
+
+Era eu que cuidava dos altares e ajudava a missa dos santos padres
+na igreja de S. Tom�, do lado ao poente do grande rio Uruguai. Sabia
+bem acender os c�rios, feitos com a cera virgem das abelheiras da
+serra; e bem balan�ar o tur�bulo, fazendo ondear a fuma�a cheirosa
+do rito; e bem tocar a santos, na quina do altar, dois degraus
+abaixo, � direita do padre; e dizia as palavras do missal; e nos
+dias de festa sabia repicar o sino; e bater as horas, e dobrar a
+finados... Eu era o sacrist�o.
+
+
+
+Um dia, na hora do morma�o, todo o povo estava nas sombras,
+sesteando; nem voz grossa de homem, nem cantoria das mo�as, nem
+choro de crian�as: tudo sesteava. O sol faiscava nos pedregulhos
+lustrosos, e a luz parecia que tremia, peneirada no ar parado, sem
+uma vira��o.
+
+Foi nessa hora que eu sa� da igreja, pela portinha da sacristia,
+levando no corpo a frescura da sombra benta, levando na roupa o
+cheiro da fuma�a piedosa. E sai sem pensar em nada, nem de bem nem
+de mal; fui andando como levado...
+
+Todo o povo sesteava, por isso ningu�m viu.
+
+A �gua da lagoa borbulhava toda, numa fervura, ronquejando tal e
+qual como uma marmita no borralho. Por certo que l� embaixo, dentro
+da terra � que estaria o braseiro que levantava aquela fervura que
+cozinhava os juncos e as tra�ras e pelava as pernas dos soc�s e
+espantava todos os mais bichos barulhentos daquelas �guas...
+
+Eu vi, vi o milagre de ferver toda uma lagoa... ferver,
+sem fogo que se visse!
+
+A m�o direita, pelo costume, andou a fazer o �Pelo Sinal�... e
+parou, pesada como chumbo; quis rezar um �Credo�, e a lembran�a
+dele recuou; e voltar, correr e mostrar o Sant�ssimo... e tanger o
+sino em dobre... e chamar o padre superior, tudo para esconjurar
+aquela obra do inferno... e nada fiz... sem for�a na vontade, nada
+fiz... nada fiz, sem governo no corpo!...
+
+E fui andando, como levado, para mais de perto ver,
+e n�o perder de ver o espantoso
+
+Por�m logo outra for�a acalmou tudo; apenas a �gua fumegante
+continuou retorcendo os lodos remexidos, onde boiava toda uma
+mortandade dos viventes que morrem sem gritar...
+
+
+
+Era no fim de lan�ante comprido, estrada batida e limpa, de todos os
+dias as mulheres irem para a lavagem; e quando eu estava na beira da
+�gua, vendo o que estava vendo, ent�o rompeu dela um clar�o, maior
+que o da luz a pino do dia, clar�o vermelho, como dum sol morrente,
+e que luzia desde o fund�o da lagoa e varava a �gua barrenta...
+
+E veio crescendo para a barranca, e saiu e tomou terra, e sem medo e
+sem amea�a veio andando para mim a sempre escapada maravilha...,
+maravilha que os que nunca viram juravam sempre ser � verdade � e
+que eu, que estava vendo, ainda jurava ser � mentira! �
+
+Era a teiniagu�, de cabe�a
+
+de cabe�a de pedra luzente, por sem d�vida; dela j� tinha ouvido ao
+padre superior a historia contada dum encontradi�o que quase cegou
+de teimar em agarr�-la.
+
+Entrecerrei os olhos, coando a vista, cautelando perigo; mas a
+teiniagu� veio me chegando, deixando no ch�o um duro rastro d��gua
+que escorria e logo secava, do seu corpinho verde de lagartixa
+engra�ada e buli�osa...
+
+Lembrei-me � como quem olha dentro de cerra��o � lembrei-me do
+corria na voz da gente sobre o entanguimento que traspassa o nosso
+corpo na hora do encantamento: � como o azeite fino no couro
+ressequido...
+
+Mas n�o perdi de todo a retentiva: pois que da �gua sa�a, � que na
+�gua viveria. Ali perto, entre os capins, vi uma guampa e foi o
+quanto agarrei dela e enchi-a na lagoa, ainda escaldando, e frenteei
+a teiniagu� que, da vereda que levava, entreparou-se, tremente,
+firmando nas patinhas da frente, a cabe�a cristalina, como curiosa,
+faiscando...
+
+De olhos apertados, piscando, para me n�o atordoar dum golpe de
+cegueira, assentei no ch�o a guampa e preparando o bote, num
+repente, entre susto e coragem, segurei a teiniagu� e meti-a para
+dentro dela!
+
+Neste passo senti o cora��o como que martelar-me no peito e cabe�a
+sonando como um sino de catedral...
+
+
+
+Corri para o meu quarto, casa grande dos santos padres. Entrei pelo
+cemit�rio, por detr�s da igreja, e desatinado, derrubei cruzes,
+pisoteei ramos, calquei sepulturas!...
+
+Todo o povo sesteava; por isso ningu�m viu.
+
+
+
+Fechei a guampa dentro da canastra e fiquei estatelado, pensando.
+
+
+
+Pelo falar do padre superior eu bem sabia que quem prendesse a
+teiniagu� ficava sendo o homem mais rico do mundo; mais rico que o
+Papa de Roma, e o imperador Carlos Magno e o rei da Trebizonda e os
+Cavaleiros da T�bola...
+
+Nos livros que eu lia estes todos eram os mais ricos que conhecia.
+
+E eu, agora!...
+
+E n�o pensei mais dentro da minha cabe�a, n�o; era uma cousa nova e
+esquisita: eu via, com os olhos, os pensamentos diante deles, como
+se fossem cousas que se pudesse tantear com as m�os...
+
+E foram se escancarando as portas de castelos e pal�cios, onde eu
+entrava e sa�a, subia e descia escadarias largas, chegava �s
+janelas, arredava reposteiros, deitava-me em trastes que nunca tinha
+visto e servia-me em baielas estranhas, que eu n�o sabia
+para o que prestavam...
+
+E foram-se estendendo e alargando campos sem fim, perdendo o verde
+no azul das distancias, e ainda lindando com outras estancias, que
+tamb�m eram minhas e todas cheias de gadaria, rebanhos e manadas...
+
+E logo cancheava erva nos meus ervais, cerrados e altos
+como o mato virgem...
+
+E atulhava de planta colhida � milho, feij�o, mandioca � os
+meus pai�is.
+
+E detr�s das minhas camas, em todos os quartos dos meus pal�cios,
+amontoava surr�es de ouro em p� e pilhotes de barras de prata;
+dependuradas na galha��o de cem cabe�as de cervo, tinha bolsas de
+couro e de veludo atochadas de diamantes, brancos como gotas d��gua
+filtrada em pedra, que os meus escravos � sa�dos mil, chegados
+dez �, tinham ido catar nas profundas do sert�o, muito para l� duma
+cachoeira grande, em meia lua, chamada de Igua�u, muito p�ra l�
+doutra cachoeira grande, de sete saltos, chamada de Igua�ra...
+
+
+
+Tudo isto eu media e pesava e contava, at� cair de cansa�o; e mal
+que respirava um descanso, de novamente, de novamente pegava a
+contar, a pesar, a medir...
+
+
+Tudo isto eu podia ter � e tinha, de meu, tinha! �, porque era
+dono da teiniagu�, que estava presa dentro da guampa, fechada na
+canastra forrada de couro cru, taxeada de cobre,
+dobradi�as de bronze!...
+
+
+
+Aqui ouvi o sino da torre badalando para a ora��o da meia-tarde...
+
+Pela primeira vez n�o fui eu que toquei: devia ser um dos padres,
+na minha falta.
+
+Todo o povo sesteava, por isso ningu�m viu.
+
+
+Voltei a mim. Lembrei-me de que o animalzinho precisava alimento.
+
+Tranquei portas e janelas e sa� para buscar um porongo de mel de
+lechiguana, por ser o mais fino.
+
+E fui; melei; e voltei.
+
+Abri sutil a porta e tornei a fech�-la ficando no escuro.
+
+E quando descerrei a janela e andei para a canastra a tirar a guampa
+e libertar a teiniagu� para comer o mel, quando ia fazer isso, os
+p�s se me enraizaram, os sentidos do rosto se ariscaram e o cora��o
+mermou no compassar do sangue!...
+
+Bonita, linda, bela, na minha frente estava uma mo�a!...
+
+Que disse:
+
+
+
+IV
+
+
+
+� Eu sou a princesa moura encantada, trazida de outras terras por
+sobre um mar que os meus nunca sulcaram... Vim, e Anhang�-pit�
+transformou-me em teiniagu� de cabe�a luminosa, que outros chamam
+o � carb�nculo � e temem e desejam, porque eu sou a rosa dos
+tesouros escondidos dentro da casca do mundo...
+
+Muitos tem me procurado com o peito somente cheio de torpeza, e eu
+lhes hei escapado das m�os ambicioneiras e dos olhos cobi�osos,
+relampejando desdenhosa o lume vermelho da minha cabe�a
+transparente...
+
+Tu, n�o; tu n�o me procuraste ganoso... e eu subi ao teu encontro;
+e me bem trataste pondo �gua na guampa e trazendo mel fino para
+o meu sustento.
+
+Si quiseres, tu, todas as riquezas que eu sei, entrarei de novo na
+guampa e ir�s andando e me levar�s onde eu te encaminhar, e ser�s
+senhor do muito, do mais, do tudo!...
+
+A teiniagu� que sabe dos tesouros, sou eu, mas sou tamb�m
+a princesa moura...
+
+Sou jovem... sou formosa..., o meu corpo � rijo e n�o tocado!...
+
+E estava escrito que tu serias o meu par.
+
+Ser�s o meu par... se a cruz do teu ros�rio me n�o esconjurar... se
+n�o, ser�s ligado ao meu flanco, para, quando quebrado
+o encantamento, do sangue de n�s ambos nascer uma nova gente,
+guapa e s�bia, que nunca mais ser� vencida, porque ter� todas as
+riquezas que eu sei e as que tu lhe carrear�s por via dessas!...
+
+Si a cruz do teu ros�rio n�o me esconjurar...
+
+
+
+Sobre a cabe�a da moura amarelejava nesse instante o crescente
+dos infi�is...
+
+
+
+E foi se adelga�ando
+
+no sil�ncio a cadencia em balante da fala induzidora.
+
+A cruz do meu ros�rio...
+
+Fui passando as contas, apressado e atrevido, come�ando na
+primeira... e quando tenteei a ultima... e que entre as duas os meus
+dedos, formigando, deram com a Cruz do Salvador... fui levantando o
+Crucificado... bem em frente da bruxa, em salvat�rio... na altura do
+seu cora��o... na altura da sua garganta... da sua boca...
+na altura dos...
+
+E a� parou, porque olhos de amor, t�o soberanos e cativos, em mil
+vidas de homem como o aroma sai da flor que vai apodrecendo...
+
+
+
+Cada noite
+
+era meu ninho o rega�o da moura; mas quando batia a alva, ela
+desaparecia ante a minha face cavada de olheiras...
+
+E crivado de pecados mortais, no adjut�rio da missa trocava os am�m,
+e todo me estortegava e do�a quando o padre lan�ava a ben��o sobre a
+gente ajoelhada, que rezava para alivio dos seus pobres pecados, que
+nem pecados eram, comparados com os meus...
+
+
+
+Uma noite ela quis misturar o mel do seu sustento com o vinho do
+sacrif�cio; e eu fui, busquei no altar o copo de ouro consagrado,
+todo lavorado de palma e resplendores; e trouxe-o, transbordante,
+transbordando...
+
+E embebedados ca�mos, abra�ados.
+
+
+
+Sol nado, despertei
+
+estava cercado pelos santos padres.
+
+Eu, descomposto; no ch�o o copo, entornado; sobre o orat�rio,
+desdobrada, uma charpa de seda, lavrada de bordaduras, ex�ticas,
+onde sobressa�a uma meia-lua prendendo entre as aspas uma estrela...
+E acharam a canastra guampa e no porongo o mel... e at� no ar
+farejaram cheiro mulherengo... Nem tanto era preciso para ser logo
+jungido em manilhas de ferro.
+
+
+
+Afrontei o arrocho da tortura, entre ossos e carnes amachucadas e
+unhas e cabelos repuxados. Dentro das paredes do segredo n�o havia
+gritos nem palavras grossas; os padres remordiam a minha alma,
+prometendo o inferno eterno e exprimiam o meu arquejo decifrando uma
+confiss�o...; mas a minha boca n�o falou..., n�o falou por senha
+firme da vontade, que n�o me palpitava confessar quem era ela
+e que era linda...
+
+
+E raivado entre dois amargos desesperos n�o atinava sair deles: se
+das riquezas, que eu queria s� p�ra mim, se do seu amor, que eu n�o
+queria que fosse sen�o meu, inteiro e todo!
+
+Mas por senha da vontade a boca n�o falou.
+
+
+Fui sentenciado a morrer pela morte do garrote, que � infame;
+condenado fui por ter dado passo errado com bicho imundo, que era
+bicho e mulher moura, falsa, sedutora e feiticeira.
+
+No adro e no largo da igreja o povo ajoelhado batia nos peitos,
+clamando a morte do meu corpo e a miseric�rdia para a minha alma.
+
+O sino come�ou dobrando a finados. trouxeram-me em bra�os, entre
+alabardas e lan�as, e um cortejo moveu-se ,compassando a gente
+d�armas, os santos padres, o carrasco e o povar�u.
+
+Dobrando a finados... dobrando a finados...
+
+Era por mim.
+
+
+
+V
+
+
+E quando, sem mais esperan�a nos homens nem no socorro do c�u,
+chorei uma l�grima de adeus � teiniagu� encantada, dentro do meu
+sofrer floreteou uma r�stia de saudade do seu cativo e soberano
+amor...., como em rocha dura serpenteia �s vezes um fio de ouro
+alastrado e firme, como uma raiz que n�o quer morrer!...
+
+E aquela saudade parece que saiu para fora do meu peito, subiu aos
+olhos feita em l�grima e ponteou para algum rumo, ao encontro doutra
+saudade rastreada sem engano...; parece, porque nesse momento um
+ventarr�o estourou sobre as �guas da lagoa e a terra tremeu,
+sacudida, tanto, de as arvores desprenderem os seus frutos,  de os
+animais estaquearem-se, medrosos, e de os homens ca�rem do c�c�ras,
+ag�entando as armas, outros, de bru�os, tateando o ch�o...
+
+E nas correntezas sem corpo, da ventania, redomoinhavam em chusma
+vozes de guaranis , esbravejando se soltasse o padecente...
+
+Para traz do cortejo, desfiando o som entre as poeiras grossas e
+folhas secas levantadas, continuava o sino dobrando a finados...
+dobrando a finados!...
+
+
+Os santos padres, pasmados mas sisudos, rezavam encomendando a minha
+alma; em roda, boquejando, chinas, pi�s, �ndios velhos, soldados de
+coura�a e lan�a, e o alcaide, vestido de samarra amarela com dois
+le�es vermelhos e a coroa del-rei brilhando em canutilho de ouro...
+
+
+A l�grima do adeus ficou suspensa, como uma cortina que embacia o
+claro ver: e o palmital da lagoa, o boleado das coxilhas, o recorte
+da serra, tudo isto, que era grande e sozinho cada um enchia e
+sobrava para os olhos limpos dum homem, tudo isso eu enxergava
+junto, empastalhado e pouco, espelhando-se na l�grima suspensa, que
+se encrespava e adelga�ava, fazendo franjas entre as pestanas
+balan�antes dos meus olhos de condenado sem perd�o...
+
+A menos de bra�a, estava o carrasco atento no garrote!
+
+
+Mas os olhos do meu pensamento, altanados e livres, esses, esses
+viam o corpo bonito, lindo, belo, da princesa moura, e recreiavam-se
+na luz cegante da cabe�a encantada da teiniagu�, onde reinavam os
+olhos dela, olhos de amor, t�o soberanos e cativos como em mil vidas
+de homens outros se n�o viram!...
+
+E por certo por essa for�a que nos ligava sem ser vista, como
+naquele dia em que o povo sesteava e tamb�m nada viu... por for�a
+dessa for�a, quanto mais os padres e alguazis ordenavam que eu
+morresse, mais pelo meu livramento forcejava o irado peito da
+encantada, n�o sei se de amor perdida pelo homem, se de orgulho
+perverso do perjuro, se da esperan�a de um dia ser humana...
+
+
+O fogo dos borralhos foi-se alteando em labaredas e saindo pelas
+quinchas dos ranchos, sem queim�-los..: as crian�as de peito
+soltaram palavras feitas, como gente grande...; e bandadas de urubus
+apareceram e come�aram a contradan�ar t�o baixo, que se lhes ouvia o
+esfregar das penas contra o vento..., a contradan�ar, afiados para
+uma carni�a que ainda n�o havia por�m que havia de haver...
+
+
+
+Mas os santos padres alinharam-se na sombra do Sant�ssimo e
+borrifaram de �gua benta o povo amedrontado; e seguiram como num
+prop�sito, encomendando a minha alma; o alcaide levantou o pend�o
+real e o carrasco varejou-me sobre o garrote, inf�mia de minha
+morte, por ter todo amores com mulher moura, falsa,
+sedutora e feiticeira...
+
+Rolou ent�o, sobre o vento e nele foi a l�grima do adeus, que a
+saudade distilara.
+
+
+Deu logo a lagoa um ronco bruto, nunca ouvido, t�o dilatado e
+monstruoso...: e rasgou�se cerce em um sang�o medonho, entre largo
+e fundo... e l� no abismo, na caixa por onde ia j� correndo, em
+borbot�o, a �gua lamenta sujando as barrancas novas, l� eu vi e
+todos e todos viram a teiniagu� de cabe�a de pedra transparente,
+fogachando luminosa como nunca, a teiniagu� correr estrombando os
+barrocais, at� rasgar, romper, arruir a boca do sang�o na alta
+barranca do Uruguai, onde a correnteza em marcha despencou-se,
+espadanando em espumarada escura, como caudal de chuvas
+tormentosas!...
+
+
+
+A gente levantou p�r�o c�u um vozear de lastimas e choros e gemidos.
+
+� Que a Miss�o de S. Tom� ia perecer... e dasabar a igreja... a
+terra expulsar os mortos do cemit�rio... que as crian�as inocentes
+iam perder a gra�a do batismo... e as m�es secar o leite... e as
+ro�as o plantio, os homens a coragem...
+
+
+Depois de um grande sil�ncio balan�ou no ar, como esperando...
+
+
+
+Mas um milagre se fez: o Sant�ssimo de se pr�prio, perpassou a
+altura das cousas, e l� em cima, cortou no ar turvado a Cruz
+Bendita!... o padre superior tremeu como em ter�� e tartamudo e
+tr�pego marchou para o povoado; os ac�litos seguiram, e o alcaide,
+os soldados, o carrasco e a indiada toda desandou, como em
+prociss�o, emparvados, num assombro, e sem ter mais do que tremer,
+porque ventos, fogo, urubus e estrondos se humilharam,
+fenecendo, dominados!...
+
+
+
+Fiquei sozinho, abandonado, e no mesmo lugar e mesmos ferros posto.
+
+Fiquei sozinho, ouvindo com os ouvidos da minha cabe�a as ladainhas
+que iam minguando, em retirada... mas tamb�m ouvindo com os ouvidos
+do pensamento o chamado carinhoso da teiniagu�; os olhos do meu
+rosto viam a consola��o da Maria Pur�ssima que se alonjava... mas os
+olhos do pensamento viam a tenta��o do riso mimoso da teiniagu�; o
+nariz do meu rosto tomava o faro do incenso que fugia, ardendo e
+perfumando as santidades... mas o faro do pensamento sorvia a
+ess�ncia das flores do mel fino de que a teiniagu� tanto gostava; a
+l�ngua da minha boca estava seca, de agonia, dura, de terror,
+amarga, de doen�a... mas a l�ngua do pensamento saboreava os beijos
+da teiniagu�, doces e macios, frescos e sumarentos como polpa de
+guabiju colhido ao nascer do sol; o tato das minhas m�os tocava
+manilhas de ferro, que me prendiam por bra�os e pernas... mas o tato
+do pensamento ro�ava s�frego pelo corpo da encantada, torneado e
+rijo, que se encolhia em �nsias, arrepiado como um lombo de jaguar
+no cio, que se estendia planchado como um corpo de cascavel em
+f�ria...
+
+
+
+E tanto como ia entrando na cidade, ia eu chegando � barranca do
+Uruguai; tanto como as gentes, l�, iam acabando as ora��es para
+alcan�ar a clem�ncia divina, ia eu come�ando o meu fad�rio todo dado
+� teiniagu�, que me enfeiti�ou de amor, pelo seu amor de princesa
+moura, pelo seu amor de mulher, que vale mais que destino de
+homem!...
+
+
+
+Sem peso de dores nos ossos e nas carnes, sem peso de ferros no
+corpo, sem peso de remorsos na alma passei o rio para lado do
+Nascente. A teiniagu� fechou os tesouros da outra banda e juntos
+fizemos ent�o caminho para o Serro do Jarau, que ficou sendo o paiol
+das riquezas de todas as salamancas dos outros lugares.
+
+
+
+Para a mem�ria do dia t�o espantoso l� ficou o sang�o rasgado na
+baixada da cidade de Santo Thom�,9 desde o tempo antigo das Miss�es.
+
+
+
+VI
+
+
+Faz duzentos anos que aqui estou; aprendi sabedorias �rabes e tenho
+tornado contentes alguns raros homens que bem sabem que a alma � um
+peso entre o mandar e o ser mandado...
+
+Nunca mais dormi; nunca mais nem fome, nem sede, nem dor,
+nem riso...
+
+Passeio no pal�cio maravilhoso, dentro deste Serro do Jarau, ando
+sem parar e sem cansa�o; piso com p�s vagarosos, piso torr�es de
+ouro em p�, que se desfazem como terra fofa; o arei�o dos jardins,
+que calco, enjoado, � todo feito de pedras verdes e amarelas e
+escarlates e azuis, rosadas, violetas... e quando a encantada passa
+todas incendeiam-se num �ris de cores rebrilhantes, como se cada uma
+fosse uma brasa viva faiscando sem a mais leve cinza...;  h� po�os
+largos que est�o atulhados de dobl�es e de on�as e pe�as de j�ias e
+armaduras, tudo ouro maci�o do Peru e do M�xico e das Minas Gerais,
+tudo cunhado com os trof�us dos senhores reis de Portugal e de
+Castela e Arag�o...
+
+
+
+E eu olho para tudo, enfarado de ter tanto e n�o poder gozar nada
+entre os homens, como quando era como eles e como eles gemia
+necessidades e cuspia invejas, tendo horas de bom cora��o por dias
+de maldade e sempre aborrecimento do que possu�a, ambicionando o que
+n�o possu�a...
+
+
+O encantamento que eu acompanhe os homens de alma forte e cora��o
+sereno que quiserem contratar a sorte nesta salamanca que eu tornei
+famosa, do Jarau.
+
+
+
+Muitos tem vindo... e t�m sa�do peiorados, para l� longe irem morrer
+do medo aqui pegado, ou andarem pelos povoados assustando as gentes,
+loucos, ou pelos campos fazendo vida com os bichos brutos...
+
+Poucos toparam a parada... ah!... mas esses que toparam, tiveram o
+que pediram, que a rosa dos tesouros, a moura encantada n�o desmente
+o que eu prometo, nem retoma o que d�!
+
+
+E todos os que chegam deixam um resgate de si pr�prios para nosso
+livramento um dia...
+
+Mas todos os que vieram s�o altaneiros e vieram arrastados pela
+�nsia da cobi�a ou dos v�cios, ou dos �dios: tu foste o �nico que
+veio sem pensar e o �nico que me saudou como um filho de Deus...
+
+Foste o primeiro, at� agora; quando terceira sauda��o de crist�o
+bafejar estas alturas, o encantamento cessar�, porque eu estou
+arrependido... e com Pedro Apostolo que tr�s vezes negou Cristo foi
+perdoado, eu estou arrependido e serei perdoado.
+
+
+
+Est� escrito que a salva��o h� de vir assim: e por bem de mim,
+quando cessar o meu cessar� tamb�m o encantamento da teiniagu�:
+quando isso se der a salamanca desaparecer�, e todas as riquezas,
+todas as pedras finas, todas as pe�as cunhadas, todos os
+sortil�gios, todos os filtros para amar por for�a... para matar...
+para vencer... tudo, tudo, tudo se virar� em fuma�a que h� de sair
+pelo cabe�o roto do serro, espalhada na rosa dos ventos pela rosa
+dos tesouros...
+
+
+
+Tu me saudaste � o primeiro, tu! � saudaste como crist�o.
+
+Pois bem:
+
+alma forte e cora��o sereno!... Quem isso tem, entra na salamanca,
+toca o cond�o m�gico e escolhe o quanto quer...
+
+Alma forte e cora��o sereno! A furna escura est� l�: entra! Entra!
+L� dentro sopra um vento quente que apaga qualquer torcida de
+candeia... e tramado nele corre outro vento frio... que corta como
+serrilha e geada.
+
+N�o h� ningu�m l� dentro... mas bem que se escuta voz de gente,
+vozes que falam... falam, mas n�o se entende o que dizem, porque s�o
+l�nguas atroadas que falam, s�o os escravos da princesa moura, os
+esp�ritos da teiniagu�... N�o h� ningu�m... n�o se v� ningu�m: mas
+h� m�os que batem. como convidando, no ombro do que entra firme, e
+que empurram, como ainda amea�ando, o que recua com medo...
+
+Alma forte e cora��o sereno! Se entrares assim, se te portares l�
+dentro assim, podes ent�o querer e ser�s servido!
+
+
+
+Mas governa o pensamento e segura a l�ngua: o pensamento
+dos homens � que os levanta acima do mundo, e a sua
+l�ngua � que os amesquinha...
+
+
+Alma forte e cora��o sereno!... Vai!
+
+
+
+Blau, o guasca,
+
+apoiou-se; meneou o flete e por de seguro ainda pelo cabresto
+prendeu-o a um galho de camboim que verga sem quebrar-se; rodou as
+esporas para o peito do p�; aprumou de jeito o fac�o;
+santiguou-se, e seguiu...
+
+
+
+Calado fez; calado entrou...
+
+
+
+O sacrist�o levantou-se e o seu corpo desfez-se em sombra
+na sombra da reboleira.
+
+
+
+O sil�ncio que ent�o se desdobrou era como o v�o parado das corujas:
+metia medo...
+
+
+
+VII
+
+
+Blau Nunes foi andando.
+
+Entrou na boca da toca apenas a� clareada e isso pouco, por causa
+da ramaria  que se cruzava nela; p�ra o fundo era tudo escuro...
+
+Andou mais, num corredor dumas bra�as: mais, ainda;
+sete corredores anci�o deste.
+
+Blau Nunes foi andando.
+
+Enveredou por um deles; fez voltas e contravoltas, subiu, desceu.
+Sempre escuro. Sempre sil�ncio.
+
+M�os de gente, sem gente que ele visse, batiam-lhe no ombro.
+
+Numa cruzada de carreiros  sentiu ru�do de ferros que se chocavam,
+tinir de muitas espadas, seu conhecido.
+
+Por ent�o o escuro ia j� mudado num luzir de vaga-lume.
+
+Grupos de sombras com feitio de homens pelavam de morte; nem pragas
+nem fuzilar d�olhos raivosos, por�m furiosos eram os golpes que elas
+iam talhando umas nas outras, no silencio.
+
+
+Blau teve um relance de parada, mas atentou logo no dizer do vulto
+de face branca e tristonha � Alma forte, cora��o sereno...
+
+
+
+E meteu o peito por entre o espinheiro, sentiu o corte delas, o fino
+das pontas, o redondo dos copos... mas passou, sem nem olhar aos
+lados, num entono, escutando por�m choros e gemidos dos peleadores.
+
+M�os mais leves bateram-lhe no ombro, como carinhosas e satisfeitas.
+
+Outro mais ru�do nenhum ouvia ele no ar quieto da furna que o
+rangido do cabrestilhos das suas esporas.
+
+Blau Nunes foi andando.
+
+Andando numa luz macia, que n�o dava sombra como os caminhos dum
+cupim era a furna, dando corredores sem conta, a todos os rumos; e
+ao desembocar do em que vinha, justo num cotovelo dele, saltaram-lhe
+aos quatro lados jaguares e pumas, de goela aberta e bafo quente,
+patas levantadas mostrando as unhas, a cola mosqueando,
+numa f�ria...
+
+E ele meteu o peito e passou, sentindo a cerda dura das feras
+ro�arem-lhe o corpo; passou sem pressa nem vagar, escutando os urros
+que p�ra traz iam ficando e morrendo sem eco...
+
+As m�os, de bra�os que ele n�o via, em corpos que n�o sentia, mas
+que, certo o ladeavam, as m�os iam-lhe sempre afagando os ombros,
+sem bem o empurrar, mas atirando-o para adiante... adiante...
+
+A luz ia na mesma, cor da de vaga-lume, esverdeada e amarela...
+
+Blau Nunes foi andando.
+
+Agora era um lan�ante e ao fim dele parou num redondel topetado de
+ossamentas de criaturas. Esqueletos, de p�, encostados uns nos
+outros, muitos, derreados , como numa pregui�a; pelo ch�o ca�das,
+partes deles, despencadas; caveiras soltas, dentes branqueando,
+tampos de cabe�as, buracos de olhos; pernas e p�s em passo de dan�a,
+alcatras e costelas meneando-se num vagar compassado,
+outras em saracoteio...
+
+A� o seu bra�o direito quase moveu-se acima, como para fazer o sinal
+da cruz;... por�m � alma forte, cora��o sereno! � meteu o peito e
+passou entre as ossadas, sentindo o bafio que elas soltavam das suas
+juntas bolorentas.
+
+As m�os, aquelas, sempre brandas, afagavam-lhe outra
+vez os ombros...
+
+Blau Nunes foi andando.
+
+O ch�o ia alteando-se, numa trepada forte que ele venceu sem
+aumentar a respira��o; e num desv�o, a modo dum forno, teve de
+passar por uma como porta dele, e a� dentro era um jogo de l�nguas
+de fogo, vermelho e forte, como ati�ado com lenha de nhanduv�i; e
+repuxos d��gua sa�dos das paredes batiam nele e referviam, chiando,
+fazendo vapor; um ventarr�o rondava ali dentro, enovelando �guas e
+fogos, que era uma temeridade cortar aquele turbilh�o...
+
+Outra vez ele meteu o peito e passou, sentindo o morma�o
+das labaredas.
+
+As m�os do ar mais o palmeavam nos ombros, como querendo dizer�
+muito bem!�
+
+Blau Nunes foi andando.
+
+J� tinha perdido a conta do tempo e do rumo que trazia; sentia no
+sil�ncio como que um peso de arrobas; a claridade morti�a, por�m j�
+se lhe assentara nos olhos e tanto, que viu adiante, em sua frente e
+caminho um corpo enroscado, sarapintado e grosso, batendo no ch�o
+uns chocalhos, grandes como ovos de t�u-t�u.
+
+Era boicininga, guarda desta passajem, que levantava a cabe�a
+flechosa, lanceando o ar com a l�ngua de cabelos, preta, firmando no
+vivente a escama dos olhos, luzindo, preto, como bot�es de veludo...
+
+Das duas prezas recurvas, grandes como as aspas dum tourito de
+soberano, pingava uma gota escura que era a pe�onha sobrante por um
+muito jejum de mortandade, l� fora...
+
+A boicininga � a cascavel amaldi�oada � toda se meneava,
+chocalhando os guizos, como por aviso, fueirando o ar com a l�ngua,
+como por prova...
+
+Uma serenada de suor minou na testa do paisano... por�m ele meteu o
+peito e passou, vencendo sem olhar, a boicininga altear-se e
+descair, chata e tremente... e passou, ouvindo o chocalho da que n�o
+perdoa, o silbido da que n�o esquece...
+
+E logo ent�o, que era este o quinto passo de valentia que vencera
+sem temer � de alma forte e cora��o sereno � logo ent�o as m�os
+voantes anediaram-lhe o cabelo, palmearam-lhe mais
+chegadas os ombros.
+
+Blau Nunes foi andando.
+
+Desembocou num campestre, de gramado fofo, que tinha um cheiro doce
+que ele n�o conhecia; em toda a volta arvores enfloradas e
+estadeando frutos; passarinhada de penas vivas e cantoria alegre;
+veadinhos mansos; capororocas e outro muito bicharedo, que recreava
+os olhos; e listando a meio o campestre, brotado duma roca coberta
+de samambaias, um olho d'�gua, que sa�a em toalha e logo corria em
+riachinho, pipocando o quanto-quanto sobre arei�o solto, palhetado
+de malacachetas brancas, como uma farinha de prata...
+
+E logo uma roda de mo�as � cada qual que mais cativa! � uma ronda
+alegre saiu dentre o arvoredo, a cerc�-lo, a seduzi-lo, a ele Blau,
+ga�cho pobre, que s� mulheres de an�guas resvalonas conhecia...
+
+Vestiam-se em frouxo tran�ado de flores, outras de fios de contas,
+outras na pr�pria cabeleira solta...; estas chegavam-lhe � boca
+caramujos estramb�ticos, cheios de bebida recendente e fumegando
+entre vidros frios, como de geada; dan�avam outras num requebro
+marcado como por m�sica... outras l�, acenavam-lhe para a lindeza
+dos seus corpos, atirando no ch�o esteiras macias, num convite
+aberto e ardiloso...
+
+Por�m ele meteu o peito e passou, com as frontes golpeando, por
+motivo do ar malicioso que seu bofe  respirava...;
+
+Blau Nunes foi andando.
+
+Entrou no arvoredo e foi logo rodeado por uma tropa de an�es,
+cambaios e cabe�udos, cada qual melhor para galhofa, e todos em
+piruetas e mesuras, fandangueiros e volantins, pulando como
+aranh�es, armando lutas, fazendo caretas imposs�veis
+para rostos de gente...
+
+Por�m o paisano meteu o peito neles e passou, sem nem sequer um ar
+de riso no canto dos olhos...
+
+E com este, que era o �ltimo, contou os sete passos das provas.
+
+
+
+E logo ent�o, aqui, surdiu-lhe em frente o vulto de face tristonha e
+branca, que, certo, lhe andara nas pisadas, de companheiro � sem
+corpo � e sem nunca lhe valer nos apuros do caminho;
+e tomou-lhe a m�o.
+
+E Blau Nunes foi seguindo.
+
+
+
+Por detr�s de um  cortinado como de escamas de peixe-dourado, havia
+um socav�o reluzente. E sentada numa banqueta transparente,
+fogueando cores como as do arco-�ris, estava uma velha, carquincha e
+curvada, e como tremendo de caduca.
+
+E segurava nas m�os uma varinha branca, que ela revirava e tangia, e
+atava em n�s que se destorciam, ficando sempre linheira.
+
+� Cunh�, disse o vulto, o paisano quer!
+
+� Tu, vieste; tu, chegaste; pede, tu, pois! respondeu a velha.
+
+E moveu e ergueu o corpo magro, dando estalos nas juntas e levantou
+a varinha para o ar; logo o cond�o coriscou por sobre ela uma chuva
+de raios, mais que como num temporal desfeito das nuvens carregadas
+cairia. E disse:
+
+� Por sete provas que passaste, sete escolhas dar-te-ei...
+Paisano, escolhe!
+
+Para ganhar a parada em qualquer jogo;... de naipes, que as m�os
+ajeitam, de dados, que a sorte revira, de cavalos, que se cotejam,
+do osso, que se sopesa, da rifa... queres?
+
+� Para tocar a viola e cantar... amarrando nas cordas dela o
+cora��o das mulheres que te escutarem..., e que h�o de sonhar
+contigo, e ao teu chamado ir�o � obedientes, como aves varadas pelo
+olhar das cobras � deitar-se entregues ao dispor dos teus beijos,
+ao apertar dos teus bra�os, ao resfolegar dos teus desejos...
+queres?
+
+� N�o! respondeu a boca, por mandado s� do ouvido...
+
+� Para conhecer as ervas, as ra�zes, os sucos das plantas e assim
+poderes curar os males dos que tu estimares ou desfazer a sa�de dos
+que aborreceres;... e saber simpatias fortes para dar sonhos ou
+loucura, para tirar a fome, relaxar o sangue, e gretar a pele e
+espumar os ossos... ou para ligar apartados, achar cousas perdidas,
+descobrir invejas...; queres?
+
+� N�o!
+
+� Para n�o errar o golpe � de tiro, lan�a ou faca � em teu
+inimigo, mesmo no escuro ou na dist�ncia, parado ou correndo, destro
+ou prevenido, mais forte que tu ou astucioso...; queres?
+
+� N�o!
+
+� Para seres rica�o de campo e gado e manadas de todo o pelo;
+... queres?
+
+� N�o!
+
+� Para fazeres pinturas em tela, versos harmoniosos, novelas de
+sofrimentos, autos de chocarrice, m�sicas de consolar, lavores no
+ouro, figuras no m�rmor�... queres?
+
+� N�o!
+
+� Pois que em sete poderes te n�o fartas nada te darei, porque do
+que te foi prometido nada quiseste. Vai-te!
+
+
+
+Blau nem se moveu; e, carpindo dentro em si a pr�pria rudeza, pensou
+no queria dizer e n�o podia e que era assim:
+
+�Teiniagu� encantada! Eu te queria a ti, porque tu �s tudo!... �s
+tudo o que eu n�o sei o que �, por�m que atino que existe fora de
+mim, em volta de mim, superior a mim... Eu te queria a ti,
+teiniagu� encantada!...
+
+
+
+Mas uma escurid�o fechada, como nem noite a mais escura d� parelha,
+caiu sobre o sil�ncio que se fez, e uma for�a torceu o paisano.
+
+Blau Nunes arrastou um passo e outro e terceiro; e desandou caminho;
+e quanto ele andara em voltas e contravoltas, em subidas e descidas,
+tanto em direitura foi bater na boca da furna por onde havia
+entrado, sem engano.
+
+
+
+E viu atado e quieto o seu cavalo; em roda as mesmas restingas, ao
+longe os mesmos descampados mosqueados de pontas de gado, a um lado,
+o encordoado das coxilhas, a outro, numa aberta entre matos um claro
+prateado, que era a �gua do arroio.
+
+Memorou o que tinha acabado de ver e de ouvir e de responder;
+dormido, n�o tinha, nem susto lhe tirara o entendimento.
+
+E pensou que tendo tido oferta  de muito n�o lograria nada por
+querer tudo;... e num arranco de raiva cega decidiu outra investida.
+
+Votou-se para entrar de novo... mas bateu co�o peito na parede dura
+do serro. Terra maci�a, mato cerrado, capins, limos... e nenhuma
+floresta, nem brecha nem buraco, nem furna, caverna, toca, por onde
+escorresse um corpinho de guri, quanto mais passasse
+porte de homem!...
+
+
+
+Desanimado e penaroso, comp�s o cavalo e montou; e ao dar de r�dea
+apareceu-lhe pelo lado de la�ar o sacrist�o, o vulto de face branca
+e tristonha, que tristemente estendeu-lhe a m�o, dizendo:
+
+� Nada quiseste; tiveste alma forte e cora��o sereno, tiveste, mas
+n�o soubeste governar o pensamento nem segurar a l�ngua:...
+
+N�o te direi se bem fizeste ou mal.
+
+Mas como �s pobre e isso te aflige, aceita este meu presente,
+que te dou.
+
+� uma on�a de ouro que est� furada pelo cond�o m�gico; ele te dar�
+tantas outras quantas quiseres, mas sempre de uma e nunca mais que
+uma por vez; guarda-a em lembran�a de mim!
+
+
+
+E o corpo do sacrist�o encantado desfez-se em sombra
+na sombra da reboleira...
+
+
+Blau Nunes meteu na guaiaca a on�a furada, e deu de r�dea.
+
+O sol tinha cambado e o Serro do Jarau j� fazia sombra comprida
+sobre os bamburrais e restingas que lhe formavam assento.
+
+
+
+VII
+
+
+Na troteada para o posto em que morava, um ranchote de beira ch�o
+tendo como porta um couro �, Blau rumeou para uma venda grande que
+sortia aquele vizind�rio, mesmo a troco de courama, cerda ou algum
+tambeiro; e como vinha de garganta seca e a cabe�a atordoada
+mandou botar uma bebida.
+
+Bebeu; e puxou da guaiaca a on�a e pagou; era t�o m�nima a despesa e
+o c�mbio que veio, tanto, que pasmou, olhando para ele, de t�o
+desacostumado que andava de ver dinheiro tanto, que chamasse seu...
+
+E de dedos engatanhados socou-o todo para dentro do afogado.
+
+Calado, montou de novo, retirando-se.
+
+No caminho foi pensando nas todas cousas que carecia e que iria
+comprar. Entre aperos e armas e roupas, um len�o grande e umas
+botas, outro cavalo, umas esporas e embelecos que pretendia, andava
+tudo por uma m�o cheia de cruzados; e a si pr�prio perguntava se
+aquela on�a encantada, dada para indez, teria mesmo o cond�o de
+entropilhar outras muitas, tantas como as que precisava, e mais
+ainda, outras e outras que seu desejo fosse despencando?!...
+
+Chegou ao posto, e como homem avisado, n�o falou do que fizera
+durante o dia, apenas do boi barroso, que campeiou e n�o achou; e no
+seguinte, logo cedo saiu a campeiar a prova do prometido.
+
+Naquele mesmo negociante ajustou umas roupas tafulonas; e mais uma
+adaga de cabo e bainha com an�is de prata; e mais as esporas
+e um rebenque de argol�o.
+
+Toda a compra passava de tr�s on�as.
+
+E Blau, as frontes latejando, a boca cerrada, num aperto que lhe
+fazia doer o carrinho, piscando os olhos, a respira��o atropelada,
+todo ele numa desconfian�a, Blau, por debaixo do seu balandrau
+remendado come�ou a gargantear a guaiaca... e caiu uma on�a... e
+outra... e outra!... As quatro, que por agora eram t�o de jeito!...
+
+Mas n�o ca�ram duas e duas ou tr�s e uma, ou as quatro, juntas,
+por�m sim de uma a uma, as quatro, de cada vez s� uma...
+
+Voltou ao rancho com a maleta atochada, mas como homem avisado,
+n�o falou do acontecido.
+
+No outro dia seguiu a outro rumo, para outro negociante mais forte e
+de prateleiras mais variadas. J� levava alinhavado o sortimento que
+ia fazer, e muito em ordem foi encomendando o aparte das cousas,
+tendo o cuidado para n�o querer nada de cortar, s� pe�as inteiras,
+que era para, no caso de falhar a on�a, recuar da compra, fazendo um
+feio, � verdade, mas n�o sendo obrigado a pagar estrago algum. Notou
+a conta, que andava por quinze on�as, uns cruzados p�ra menos.
+
+E outra vez, por debaixo do seu balandrau remendado, come�ou a
+gargantear a guaiaca, e logo lhe foi caindo na m�o uma on�a... e
+segunda... outra... e quarta, mais outra, e sexta... e assim de uma
+em uma, as quinze necess�rias!
+
+O negociante ia recebendo e alinhando sobre o balc�o conforme vinham
+minando da m�o do pagador, e quando estavam todas disse,
+entre risonho e desconfiado:
+
+� Cu�-pucha!... cada das on�a das suas parece que � um pinh�o,
+que � preciso descascar � unha!...
+
+No terceiro dia passou na estrada uma cavalhada; Blau fez parar a
+tropa e ajustou uma quadrilha, apartada por ele, � sua vontade, e
+como facilitou o pre�o, fechou-se o trato.
+
+Ele e o capataz, s�s no meio da cavalhada iam fazendo mover-se os
+animais; no apinhado de todas Blau marcava a cabe�a que mais lhe
+agradava pelo focinho, pelos olhos, pelas orelhas; com um sov�u
+fino, de armada pequena, reboleava por dentro e ia, certo, la�ar o
+bagual escolhido; se ainda, sem ovas e bons cascos, aprazia-lhe,
+tirava-o ent�o, como seu, para o potreiro do piquete.
+
+Olho de campeiro n�o errou vez alguma na escolha e trinta cavalos,
+a flor, foram apartados custando quarenta e cinco on�as.
+
+E enquanto a tropa verdeava e bebia, os tratistas foram para
+a sombra duma figueira que havia na bira da estrada.
+
+Blau por debaixo do seu balandrau remendado, ainda desconfiado,
+come�ou a gargantear a guaiaca... e foi logo aparando on�a por on�a,
+uma, tr�s, seis, dez, dezoito, vinte e cinco, quarenta,
+quarenta e cinco!...
+
+O vendedor, estranhando aquela novidade e demora,
+n�o se conteve e disse:
+
+�Amigo! As suas on�as parecem todas de geriv�, que s� cai
+uma de cada vez!...
+
+
+Depois desses tr�s dias de prova, Blau acreditou na on�a encantada.
+
+Arrendou um campo e comprou o gado, p�ra mais de dez mil cabe�as,
+aquerenciando.
+
+O neg�cio era muito acima de tr�s mil on�as, a pagar no recebimento.
+
+A� o coitado perdeu quase o dia inteiro a gargantear a guaiaca e a
+aparar on�a a on�a, uma atr�s da outra, sempre uma a uma!...
+
+Cansou-lhe o bra�o; cansou-lhe o corpo; n�o falhava golpe, mas tinha
+de ser como martelada, que n�o se d� duas ao mesmo tempo...
+
+O vendedor, � espera que Blau completasse a soma, saiu, mateou,
+sesteou; e quando sobre � tarde voltou � ramada, l� estava ele
+ainda aparando on�a traz on�a...
+
+Ao escurecer estava completo o ajuste.
+
+
+
+Come�ou a correr a fama da sua fortuna. E todos espantavam-se, por
+ele, ga�cho despilchado de ontem, pobre, que s� tinha de seu as
+chilcas, afrontar os abonados, assim, do p� para a m�o... E tamb�m
+era falado do seu esquisito modo de pagar � que pagava sempre,
+valha a verdade � s� de on�a por on�a, uma depois de outra
+e nunca ao menos duas, acolheradas!...
+
+Aparecia gente a propor-lhe neg�cio, ainda de pouco pre�o, s� para
+ver como aquilo era; e para todos era o mesmo mist�rio...
+
+Mist�rio para o pr�prio Blau... muito rico... muito rico... mas de
+on�a em on�a, como tala de geriv�, que s� cai de uma vez... como
+pinh�o da serra, que s� descasca de um a um!...
+
+Mist�rio para Blau, muito rico... muito rico... mas todo dinheiro
+que ele recebia, que entrava das vendas feitas, todo dinheiro que
+lhe pagavam a ele, todo desaparecia, guardado na arca de ferro,
+desaparecia como desfeito em ar...
+
+Muito rico... muito rico das on�as que precisasse, e nunca faltaram
+para gastar no que lhe parecesse: bastava-lhe gargantear a guaiaca,
+e elas come�avam a pingar;... mas nem uma das que recebia lhe
+ficava, todas evaporavam-se, como �gua em tijolo quente...
+
+
+
+IX
+
+
+Ent�o come�ou a corre um boquejo de ouvido para ouvido... e era que
+ele tinha parte com o diabo, e que o dinheiro dele era maldito
+porque, todos com quem tratava e recebiam das suas on�as, todos
+entravam ao depois a fazer maus neg�cios e todos perdiam em
+preju�zos exatamente a quantia igual � de suas m�os recebida.
+
+Ele comprava e pagava e pagava � vista, � certo; o vendedor contava
+e recebia, � certo, mas o neg�cio empreendido por esse valor
+era preju�zo, garantido.
+
+Ele vendia e recebia, � certo; mas o valor recebido, que ele
+guardava e rondava sumia-se como um vento, e n�o era roubado nem
+perdido; era sumido, por si mesmo...
+
+
+
+O boquejar foi alastrando, e j� diziam que aquilo, por certo, era
+mandinga arrumada na salamanca do Jarau, onde ele foi visto mais de
+uma feita... e que l� � que se jogava a alma contra a sorte...
+
+E os mais vivarachos j� faziam suas madrugadas sobre o Jarau; outros
+mais sorros, p�ra l� tocavam-se ao escurecer; outros, atrevida�os
+iam � meia-noite, outros ainda ao primeiro cantar dos galos...
+
+E como nesse carreiro de precatados cada um fazia por ir de mais
+escondido, sucedeu que como sombras se pechavam entre as sombras das
+reboleiras, sem atinar co�a salamanca, ou sem topete para, na
+escurid�o, quebrar aquele sil�ncio, chamando o sant�o,
+num grito alto...
+
+No entanto, Blau come�ou a ser tratado de longe, como
+um chimarr�o rabioso...
+
+J� n�o tinha com quem pautear; churrasqueva solito, e mateava,
+rodeado dos cachorros, que uivavam, �s vezes um, �s vezes todos...
+
+A peonada foi saindo e conchavando-se noutras partes; os negociantes
+nada compravam-lhe e negaceavam para vender-lhe; os andantes
+cortavam o campo, para n�o pararem em seus galp�es...
+
+Blau deu em cismar, e cisma foi que resolveu acabar com aquele
+cerco de isolamento, que o ralava e esmorecia...
+
+Montou a cavalo e foi ao serro. Na trepada sentiu nos dois lados
+barulho nos bamburrais e nas restingas, mas pensou que seria alguma
+ponta de gado chucro que disparava e n�o fez caso; foi trepando, nem
+guaraxaim corrido, nem tatu vadio; era gente, que se escondia
+uns dos outros e dele...
+
+Assim que chegou � reboleira do mato, t�o sua conhecida e recordada,
+e como chegou, deu de cara com o vulto de face branca e tristonha, o
+sacrist�o encantado, o sant�o.
+
+Ainda desta vez, como era ele que chegava, a ele competia louvar;
+saudou, como da outra:
+
+� Laus� Sus� Cris�!...
+
+� Para sempre, am�m! respondeu o vulto.
+
+Ent�o Blau, de a cavalo, atirou-lhe ao* p�s a on�a de ouro, dizendo:
+
+� Devolvo! Prefiro a minha pobreza dantes � riqueza desta on�a, que
+n�o se acaba, � verdade, mas que parece amaldi�oada, porque nunca
+tem parelha e separa o dono dos outros donos de on�as!... Adeus!
+Fica-te com Deus, sacrist�o!
+
+� Seja Deus louvado! disse o vulto e caiu de joelhos, de m�os
+postas, como numa reza.
+
+Pela terceira vez falaste no Nome Santo, tu, paisano, e com ele
+quebraste o encantamento!... Gra�as! Gra�as! Gra�as!...
+
+
+
+E neste mesmo instante, que era o da terceira vez que Blau saudava
+no Nome Santo, neste mesmo momento ouviu-se um imenso estouro, que
+retumbou naquelas vinte l�guas em redor; o Serro do Jarau, tremeu de
+alto a baixo, at� as suas ra�zes, nas profundas da terra, e logo em
+cima, no chap�u do espig�o, apareceu, cresceu, subiu aprumo-se,
+brilhou, apagou-se uma l�ngua de fogo, alta como um pinheiro,
+apagou-se e come�ou a sair fuma�a negra, em rolos grandes, que o
+vento  ia tocando para longe, por cima do encordoado das coxilhas,
+sem rumo feito, porque a fumaceira inchava e desparramava-se no ar,
+dando voltas e contravoltas, torcendo-se, enroscando-se em altos e
+baixos, num desgoverno, como uma tropa de gado al�ado, que espirra e
+se desmancha como �gua passada em regador...
+
+Era a queima dos tesouros da salamanca, como dissera o sacrist�o.
+
+Sobre as ca�das do Serro levantou-se um vozerio e tropel: eram os
+maulas que andavam rastreiando a furna encantonada e que agora
+fugiam desguaritados, como filhotes de perdiz...
+
+
+
+X
+
+
+Para os olhos de Blau o serro ficou como vidro transparente, e ent�o
+viu ele o que l� dentro se passava: os brig�es, os jaguares, os
+esqueletos, os an�es, as lindas mo�as, a boicininga, tudo, torcido e
+enovelado, amontoado, revolvido, corcoveava dentro das labaredas que
+subiam e apagavam-se dentro dos corredores, cada vez mais carregados
+de fuma�a... e urros, gritos, tinidos, silbidos, gemidos, tudo se
+confundia no tronar da voz maior que estrondeava no cabe�o
+empenachado do serro.
+
+Ainda uma vez a velha carquincha transformou-se na teiniagu�... e a
+teiniagu� na princesa moura... a moura numa tapuia formosa;... e
+logo o vulto de face branca e tristonha tornou � figura do sacrist�o
+de S. Tom�, o sacrist�o, por sua vez, num guasca  desempenado...
+
+E assim, quebrado o encantamento que suspendia fora da vida das
+outras aquelas criaturas vindas do tempo antigo e lugar distante,
+aquele par, juntado e tangido pelo Destino,10 que � o senhor de todos
+n�s, aquele par novo, de m�os dadas como namorados, deu as costas ao
+seu desterro, e foi descendo a pendente do coxilh�o, at� a v�rzea
+limpa, plana e verde, serena e amornada pelo sol claro, toda bordada
+de boninas amarelas, de bibis roxas, e malmequeres brancos, como uma
+cancha convidante para uma cruzada de ventura, em viagem de alegria,
+a caminho de repouso!...
+
+
+
+Blau Nunes tamb�m n�o quis mais ver; tra�ou sobre o seu peito uma
+cruz larga, de defesa, na testa do seu cavalo outra, e deu de r�dea
+e despacito  foi baixando a encosta do serro, com o cora��o aliviado
+e retinindo como se dentro dele cantasse o passarinho verde...
+
+E agora estava certo de que era pobre como dantes que comeria em paz
+e seu churrasco...; e em paz o seu chimarr�o, em paz a sua sesta,
+em paz a sua vida!...
+
+-------------------------------------------------------------
+
+Assim acabou a salamanca do Serro do Jarau, que a� durou duzentos
+anos,11 tantos se contam desde o tempo das Sete Miss�es,
+em que estas cousas principiaram.
+
+Anhang�-pit�, tamb�m, desde a�, n�o foi mais visto. Dizem que
+desgostoso, anda escondido, por n�o haver tomado bem ten�ncia que
+a teiniagu� era mulher...
+
+
+
+
+
+
+*Elucida��o*
+
+
+*1 Serro do Jarau* �Na Coxilha Geral de Sant�Ana, sobre a linha
+divis�ria com a Rep�blica do Uruguai.
+
+Fica um pouco ao N. da cidade de Quara�, em campos da fam�lia
+Assump��o, de Pelotas. � o ponto culminante (...metros) daquela
+zona, sendo avistado de muito longe. No fim da guerra do
+Farrapos (1845) notaram-se sobre o espig�o do Serro, e parecendo
+dele sair, grossos rolos de fuma�a. � essa a primeira not�cia
+que h� do fen�meno.
+
+Outras combust�es registraram-se depois, notadamente por 1904,
+em que se disse mesmo que havia expuls�o de vapores �gneos.
+
+
+*2 Salamanca* �Furna encantada; prov�m a denomina��o da  cidade
+de Salamanca, na Espanha, onde existia, diz-se, uma c�lebre
+escola de magia, no tempo dos Mouros. A seguir a tradi��o local,
+o c�lebre caudilho Bento Manoel deveu a sua sorte guerreira,
+pol�tica, de fortuna ao conchavo que ajustou na salamanca do
+Jarau. Antes dele, alguns, mas depois, nenhum outro a�  obteve
+mais nada, desde � �que o serro pegou fogo� � quando acabou
+o encantamento.
+
+
+*3 Laus� Sus� Cris�!* �Forma abreviada e estranha, � certo,
+por�m expressiva da sauda��o � Louvado seja Jesus Cristo!
+Ouvimo-la in�meras vezes, em nossa inf�ncia.
+
+
+*4 Boi barroso* �� a vaga relembran�a de um boi encantado, que
+aparecia por�m nunca era encontrado por mais procurado que
+fosse; e tamb�m denomina��o de uma antiga dan�a camponesa, cuja
+m�sica era ornada de versos que eram cantados durante
+o folguedo.
+
+
+*5 Anhang�-pit�* � Literalmente, do tupi-guarani: diabo
+vermelho.
+
+
+*6 Teiniagu�* � Idem: lagartixa. A teiniagu� encantada tamb�m
+era chamada � carb�nculo, farol � e trazia engastada na cabe�a
+�uma pedra preciosa que cintilava como brasa e de cor
+de rubim...
+
+Semelhante animal nunca puderam apanhar nem vivo nem morto,
+porque por suas irradia��es desvia os olhos e m�os dos
+perseguidores�. (Rev�. C. Teschauer, S. J. na Rev. do
+Inst�. do Cear�, 1911).
+
+
+*7 Zaor�s* � V. adiante a lenda referente.
+
+
+*8 Charruas* � Tribo guerreira, ind�mita, acantonada sobre a
+Coxilha de Aedo, e dominando o rio Quara� at� o Uruguai e para
+L. at� o rio Negro. As guerras e cont�nuas correrias que desde
+1750 at� mais de um s�culo depois afligiram o Rio Grande e o
+Estado Oriental dizimaram esta tribo (como a outras) hoje por
+bem dizer, extinta. Desse quase acabamento e a deturpa��o das
+lendas que entre tais gentes floresceram.
+
+
+*9 Cidade de Santo Tom�* � Na Argentina; sobre o Uruguai, entre
+o Rio Icamaqu� e a cidade rio-grandense de S. Borja.
+�Destru�das as redu��es do Gua�ra e expulsos pelos mamelucos,
+estabeleceram-se os mission�rios primeiro no centro do Rio
+Grande do Sul entre os rios Pardo e Jacu�. Mas s� por poucos
+anos. Mais tarde, outra vez perseguidos e expulsos pelos mesmos,
+
+refugiaram-se uns para as hodiernas Sete Miss�es, os outros para
+a margem direita do Uruguai, encorporando-se � redu��o de Santo
+Tom�, de cujas ru�nas se levantou depois a cidade do mesmo nome,
+quase em frente de S. Borja�. (Revo. C. Teschauer, citado)
+Existe no arrabalde de S. Tom� a famosa sanga, que aponta como
+prova do acontecimento e poder da teiniagu� encantada.
+
+
+*10 ,... tangido pelo Destino* � � caracter�stico este tra�o no
+indiv�duo rio-grandense, que at� por h�bito dom�stico emprega
+como vulgares as express�es � sorte, destino, fado � Na gente
+inculta torna-se curiosa a indistinta venera��o prestada ao
+divino e ao diab�lico, como for�as superiores que atuam
+sobre os homens.
+
+
+*11 ...a� durou duzentos anos, etc.* � Coincide com a
+lamenta��o do sacrist�o encantado a era do per�odo do mais calmo
+das miss�es sobre o rio Uruguai, 1650, em que formou-se a lenda.
+
+
+
+
+
+
+
+*O NEGRINHO DO PASTOREIO*
+_A Coelho Netto_
+
+_Pelotas � 1 de janeiro, 1907_
+
+_Meu caro patr�cio Sr. J. Sim�es Lopes Netto._
+
+_Venho agradecer-lhe a dedicat�ria da lenda �O Negrinho do
+pastoreio� publicada no Correio Mercantil� de 26 de dezembro. J�
+conversamos sobre a necessidade que, todos quantos nos interessamos
+pela tradi��o temos de coligir as trovas e narrativas do velho
+tempo. Elas representam o sonho dos que passaram, s�o a bem-dizer o
+rastro das almas. Entendem muitos escritores que devem corrigir a
+afabula��o e a forma de tais rel�quias tirando-lhe o car�ter
+ing�nuo, o sabor suave que elas trazem de origem. O meu amigo n�o
+incorreu em tal culpa�procedeu como o file celta que, chamado para
+referir aos da �clan� as hist�rias dantanho, dizia-as repetindo com
+respeitosa observ�ncia da tradi��o tal como as ouvira dos maiores. E
+o que, sobretudo encanta no lindo raconto que me ofereceu, no qual
+transparece bem a alma do povo pastoral, � a simplicidade.� Lendo-a
+tive a impress�o de estar ouvindo contada, em tom lento, por uma
+dessas velhinhas que s�o as conservadoras de muito primor da Poesia
+popular, t�o rica em nossa p�tria e t�o desestimada._
+
+_Reiterando os meus agradecimentos pe�o-lhe que continue a
+respigarem t�o rica seara trazendo-nos outros presentes como o que
+me ofereceu com tanta generosidade._
+
+_Muito seu agradecido_
+
+_Coelho Neto_
+
+
+
+
+
+
+O NEGRINHO DO PASTOREIO
+
+
+
+Naquele tempo os campos ainda eram abertos, n�o havia entre eles nem
+divisas nem cercas; somente numas volteadas se apanhava uma gadaria
+chucra e os veados e as avestruzes corriam sem empecilhos...
+
+Era uma vez um estancieiro, que tinha uma ponta de surr�es cheios de
+on�as  e meias doblas e mais muita prataria; por�m era muito cau�la
+e muito mau, muito.
+
+N�o dava posada a ningu�m, n�o emprestava um cavalo a um andante; no
+inverno o fogo de sua casa n�o fazia brasas, as geadas e o minuano,
+podiam entanguir gente, que a sua porta n�o se abria; no ver�o a
+sombra dos seus umbus s� abrigava os cachorros; e ningu�m de fora
+bebia �gua das suas cacimbas.
+
+Mas tamb�m quando tinha servi�o na est�ncia, ningu�m vinha de boa
+vontade dar-lhe um ajut�rio; e a campeirada folheira n�o gostava de
+conchavar-se com ele, porque s� dava para comer um churrasco de
+tourito magro, farinha grossa e erva ca�na e nem um naco de fumo...
+e tudo, debaixo de tanta somiticaria e choradeira que parecia que
+era o seu pr�prio couro que ele estava lonqueando...
+
+S� para tr�s viventes ele olhava nos olhos: era para o filho, menino
+cargoso como uma mosca, para um baio de cabos negros, que era o seu
+parelheiro de confian�a, e para um escravo, pequeno ainda, muito
+bonitinho e preto como carv�o e a quem todos chamavam
+somente o �Negrinho.
+
+A este n�o deram padrinhos nem nome; por isso o Negrinho se dizia
+afilhado da Virgem, Senhora nossa, que � a madrinha
+de quem n�o a tem.
+
+Todas as madrugadas o Negrinho galopeava parelheiro; depois conduzia
+aos avios do chimarr�o e � tarde sofria os maus tratos do menino,
+que o judiava e se ria.
+
+
+***
+
+
+Um dia, depois de muitas nega�as, o estancieiro atou carreia com um
+seu vizinho. Este queria que a parada fosse para os pobres; o outro
+que n�o, que n�o! que a parada devia ser do dono do cavalo que
+ganhasse. E trataram: o tiro era trinta quadras, a parada,
+mil on�as de ouro.
+
+No dia aprazado, na cancha  da carreira havia gente
+como em festa de santo grande.
+
+Entre os dois parelheiros a gauchada n�o sabia se decidir, t�o
+perfeito era e bem balan�ado cada um dos animais. Do baio era fama
+que quando corria, corria tanto, que o vento assobiava-lhe nas
+crinas; tanto, que s� se ouvia o barulho, mas n�o se lhe viam as
+patas baterem no ch�o... E do mouro era voz que quanto mais cancha,
+mais ag�ente, e que desde a largada ele ia ser como um la�o
+que se arrebenta...
+
+As parcerias abriram as guaiacas, e a� no mais j� se apostavam
+aperos contra rebanhos e redom�es contra len�os.
+
+� Pelo baio! Luz e doble!...
+
+� Pelo mouro! Doble e luz!...
+
+Os corredores fizeram suas partidas � vontade e depois as obrigadas;
+e quando foi a �ltima na �ltima, fizeram ambos sua senha e se
+convidaram. E amagando o corpo, de rebenque no ar, largaram, os
+parelheiros menando cascos, que parecia uma tormenta...
+
+� Empate! Empate! gritavam os aficionados ao longo da cancha por
+onde passava a parelha veloz, compassada como n�uma colh�ra.
+
+� Valha-me a Virgem madrinha, Nossa Senhora! gemia o Negrinho. Se o
+sete l�guas perde meu senhor me mata! Hip! hip! hip!...
+
+E baixava o rebenque, cobrindo a marca do baio.
+
+�Se o corta-vento ganhar � s� para os pobres! retrucava o outro
+corredor. Hip! hip!
+
+E cerrava as esporas no mouro.
+
+Mas os fletes corriam compassados como numa colh�ra. Quando foi na
+�ltima quadra, o mouro vinha arrematado e baio vinha aos tir�es...
+mas sempre juntos, sempre emparelhados.
+
+E a duas bra�as da raia, quase em cima do la�o, o baio assentou  de
+sopet�o, p�s-se em p� e fez uma cara-volta,, de modo que deu ao
+mouro tempo mais que preciso para passar, ganhando de luz aberta! E
+o Negrinho, de em pelo, agarrou-se como um ginata�o.
+
+�Foi mal jogo! gritava o estancieiro
+
+�Mau jogo! secundavam os outros da sua parceria.
+
+A gauchada estava dividida: mais de um toreana co�ou o punho da
+adaga, mais de desapresilhou a pistola, mais de um virou as esporas
+para o peito do p�... Mas o juiz, que era um velho do tempo da
+guerra de Sap�-Tiarai�, era um juiz macanudo, que j� tinha visto
+muito mundo. Abanado a cabe�a branca sentenciou, para todos ouvirem.
+
+�Foi na lei! A carreira � de parada morta; perdeu o cavalo baio,
+ganhou o cavalo mouro. Quem perdeu, que pague. Eu perdi cem
+gateadas; quem as ganhou venha busc�-las. Foi na lei!
+
+N�o havia o que alegar. Despeitado e furioso o estancieiro pagou a
+parada, � vista de todos atirando as mil on�as de ouro sobre o
+poncho do seu contr�rio, estendido no ch�o.
+
+E foi um alegr�o por aqueles pagos, porque logo o ganhador mandou
+distribuir tambeiros e leiteiras, covados de baetas e baguais e deu
+de resto, de mota, ao pobrerio. Depois as carreiras
+seguiram com os changueiros que havia.
+
+
+***
+
+
+O estancieiro retirou-se para sua pobre casa e veio pensando,
+pensando, calado, em todo caminho. A cara dele vinha lisa, mas o
+cora��o vinha corcoveando como touro de banhado la�ado e meia
+espalda... O trompa�o das mil on�as tinha-lhe arrebentado a alma.
+
+E conforme apeou-se, da mesma vereda mandou amarrar o Negrinho pelos
+pulsos a um palanque e dar-lhe, dar-lhe uma surra de relho.
+
+Na madrugada saiu com ele e quando chegou no alto da coxilha
+falou assim:
+
+� Trinta quadras tinha a cancha da carreira que tu perdeste: trinta
+dias ficar�s aqui pastoreando a minha tropilha de tordilhos
+negros... O baio fica de piquete na soga e tu ficar�s de estaca!
+
+O Negrinho come�ou a chorar, enquanto os cavalos iam pastando.
+
+Veio o sol, veio o vento, veio a chuva, veio a noite. O Negrinho,
+varado de fome e j� sem for�a nas m�os, enleiou a soga num pulso e
+deitou-se encostado a cupim.
+
+Vieram ent�o as corujas e fizeram roda, voando, paradas no ar e
+todas olhavam-no com os olhos reluzentes, amarelos na escurid�o. E
+uma piou e todas piaram, como rindo-se dele, paradas no ar, sem
+barulho nas asas.
+
+O Negrinho tremia, de medo... por�m de repente pensou na sua
+madrinha Nossa Senhora e sossegou e dormiu.
+
+E dormiu. Era j� tarde da noite, iam passando as estrelas; o
+Cruzeiro apareceu, subiu e passou; passaram as Tr�s Marias; a
+estrela d�alva subiu... Ent�o vieram os guaraxains ladr�es e
+farejaram o Negrinho, e cortaram a guasca da soga.  O baio sentindo-
+se solto rufou a galope, e toda tropilha com ele, escaramu�ando no
+escuro e desaguaritando-se nas canhadas.
+
+O tropel acordou o Negrinho; os guaraxains fugiram,
+dando berros de esc�rnio.
+
+Os galos estavam cantando, mas nem o c�u nem as barras do dia se
+enxergava: era a cerra��o que tapava tudo.
+
+E assim o Negrinho perdeu o pastoreio. E chorou.
+
+
+***
+
+
+O menino mal�vola foi l� e veio dizer ao pai que os cavalos n�o
+estavam. O estancieiro mandou outra vez amarrar o Negrinho pelos
+pulsos a um palanque e dar-lhe uma surra de relho.
+
+E quando era j� noite fechada ordenou-lhe que fosse campear o
+perdido. Regulando, chorando e gemendo, o Negrinho pensou na sua
+madrinha Nossa Senhora e foi ao orat�rio da casa, tomou  o coto de
+vela aceso em frente da imagem e saiu para o campo.
+
+Por coxilhas e canhadas, na beira dos lago�es, nos paradeiros e nas
+restingas, por onde o Negrinho ia passando, a vela benta ia pingando
+cera benta no ch�o: e de cada pingo nascia uma nova luz, e j� eram
+tantas que clareavam a terra e as manadas chucras n�o disparavam...
+Quando os galos estavam cantando, como na v�spera, os cavalos
+relincharam todos juntos. O Negrinho montou no baio e tocou por
+diante a tropilha, at� coxilha que o seu senhor lhe marcara.
+
+E assim o Negrinho achou o pastoreio. E se riu...
+
+Gemendo, gemendo, o Negrinho deitou-se encostado ao cupim e no mesmo
+instante apagaram-se as luzes todas; e sonhando com a Virgem, sua
+madrinha, o negrinho dormiu. E n�o apareceram nem as corujas
+agoureiras nem os guaraxains ladr�es; por�m pior do que os bichos
+maus, ao clarear o dia veio o menino, filho do estancieiro e enxotou
+os cavalos, que se dispersaram, disparando campo fora, retou�ando e
+desguaritando-se nas canhadas.
+
+O tropel acordou o Negrinho e o menino maleva foi dizer ao seu pai
+que os cavalos n�o estavam l�...
+
+E assim o Negrinho perdeu o pastoreio. E chorou.
+
+
+***
+
+
+O estancieiro mandou outra vez amarrar o Negrinho pelos pulsos, a um
+palanque e dar-lhe, dar-lhe uma surra de relho... dar-lhe at� ele
+n�o mais chorar nem bulir, com as carnes recortadas, o sangue vivo
+escorrendo do corpo... O Negrinho chamou pela Virgem sua madrinha e
+Nossa Senhora, deu um suspiro triste, que chorou no ar como uma
+m�sica, e pareceu que morreu...
+
+E como j� e para n�o gastar a enxada em fazer uma cova, o
+estancieiro mandou atirar o corpo do Negrinho na panela de um
+formigueiro, que era para as formigas devorarem-lhe a carne e o
+sangue e os ossos... E assanhou bem as formigas; e quando elas,
+raivosas, cobriram todo o corpo do Negrinho e come�aram a trinc�-lo,
+� que ent�o ele se foi embora, sem olhar para tr�s.
+
+Nessa noite o estancieiro sonhou que ele era ele mesmo, mil vezes e
+que tinha mil filhos e mil negrinhos, mil cavalos baios e mil vezes
+mil on�as de ouro... e que tudo isto cabia folgado dentro de um
+formigueiro pequeno...
+
+Caiu a serenada silenciosa e molhou os pastos, as asas dos p�ssaros
+e a casca das frutas.
+
+Passou a noite de Deus e veio a manh� e o sol encoberto.
+
+E tr�s dias houve cerra��o forte, e tr�s noites o estancieiro teve o
+mesmo sonho.
+
+
+***
+
+
+A peonada bateu o campo, por�m ningu�m achou a tropilha
+e nem rastro.
+
+Ent�o o senhor foi ao formigueiro, para ver o que restava
+do corpo escravo.
+
+Qual n�o foi o seu grande espanto, quando chagado perto, viu na boca
+do formigueiro o Negrinho de p� com a pele lisa, perfeita, sacudindo
+de si as formigas que o cobriam ainda!... O Negrinho, de p�, e ali
+ao lado o cavalo baio e ali junto, a tropilha dos trinta
+cordilhos... e fazendo-lhe frente, de guarda ao mesquinho,
+o estancieiro viu a madrinha dos que n�o a tem, viu a Virgem, Nossa
+Senhora, t�o serena, posada na terra, mas mostrando que estava no
+c�u... Quando tal viu, o senhor caiu de joelhos diante do escravo.
+
+E o negrinho, sarado e risonho, pulando de em pelo e sem r�deas,
+no baio, chupou o bei�o e tocou a tropilha a galope.
+
+E assim o Negrinho pela �ltima vez achou o pastoreio. E n�o
+chorou, e nem se riu.
+
+
+***
+
+Correu no vizind�rio, a nova do fad�rio e da triste morte do
+Negrinho, devorado na panela do formigueiro.
+
+Por�m logo, de perto e de longe, de todos os rumos do vento,
+come�aram a vir not�cias de um caso que parecia um milagre novo...
+
+E era, que os posteiros e os andantes, os que dormiam sob as palhas
+dos ranchos e os que dormiam na cama das macegas, os chasques que
+cortavam por atalhos e os tropeiros que vinham pelas estradas,
+mascates e carreteiros, todos davam not�cia � da mesma hora � de
+ter visto passar, como levada em pastoreio, uma tropilha de
+tordilhos, tocada por um Negrinho, gineteando de em pelo,
+em um cavalo baio!...
+
+Ent�o, muitos acenderam velas e rezaram o Padre-nosso pela alma do
+judiado. Da� por diante, quando qualquer crist�o perdia uma cousa, o
+que fosse, pela noite velha o Negrinho campeava e achava, mas s�
+entregava a quem acendesse uma vela, cuja luz ele levava para pagar
+a do altar da sua madrinha, a Virgem, Nossa Senhora, que o remiu e
+salvou e deu-lhe uma tropilha, que ele conduz e pastoreia,
+sem ningu�m ver.
+
+
+***
+
+
+Todos os anos, durante tr�s dias, o Negrinho desaparece: est� metido
+em algum formigueiro grande, fazendo visita �s formigas, suas
+amigas; a sua tropilha esparramava-se; e um aqui, outro por l�, os
+seus cavalos retou�am nas manadas das est�ncias. Mas ao nascer do
+sol do terceiro dia, o baio relincha perto do seu ginete; o Negrinho
+monta-o e vai fazer a sua recolhida; � quando nas est�ncias acontece
+a disparada das cavalhadas e a gente olha, olha, e n�o v� ningu�m,
+nem na ponta, nem na culatra.
+
+
+***
+
+
+Desde ent�o e ainda hoje, conduzindo o seu pastoreio, o Negrinho,
+sarado e risonho, cruza os campos, corta os macegais, bandeia as
+restingas, desponta os banhados, vara os arroios, sobe as coxilhas
+e desce �s canhadas.
+
+O Negrinho anda sempre � procura dos objetos perdidos, pondo-os de
+jeito a serem achados pelos seus donos, quando estes acendem um coto
+de vela, cuja luz ele leva para o altar da Virgem Senhora,
+madrinha dos que n�o a t�m.
+
+Quem perder suas prendas nos campos, guarde a esperan�a: junto de
+algum moir�o ou sob os ramos das �rvores, acenda uma vela para o
+Negrinho do pastoreio e v� lhe dizendo � Foi por a� que eu perdi...
+Foi por a� que eu perdi... Foi por a� que eu perdi!...
+
+Se ele n�o achar... ningu�m mais.
+
+
+
+
+
+
+*ARGUMENTO DE OUTRAS LENDAS MISSIONEIRAS E DO CENTRO E NORTE DO
+BRASIL.*
+
+
+
+*MISSIONEIRAS*
+
+
+
+*1*
+*A m�e do ouro*
+
+
+O que � hoje serra de pedra j� foi gente vivente: foi gente num
+tempo antigo, e por um castigo do c�u, escureceu de repente e ca�da
+ficou onde estava...
+
+Onde estavam sozinhos ficaram serros e serrotes; onde estavam
+apinhoscados ficou a serrania encordoada.
+
+E os ossos a� est�o acimentados, em pura pedra virados; a carne que
+os cobria deu terra negra; os cabelos s�o os matos, matos que bebem
+o sangue, que nos parece a n�s apenas cascatinhas e vertentes; os
+lugares ocados que aparecem s�o os buracos do seu corpo, da sua boca
+e olhos, do seu nariz e ouvidos... As veias deram em ferro, e os
+nervos, como parte delicada, viraram-se ouro e s�o os veeiros
+amarelos que se entranham por a� abaixo, adentro da crosta, tal e
+qual os nervos est�o entranhados na carnadura da gente.
+
+Mas o que governa tudo, que n�o se sabe o que �, que � a Alma, que
+n�o morreu, essa � que � a M�o do Ouro, porque ela n�o entrou no
+castigo, e que defende os nervos dos castigados, os veeiros da
+fortuna, para que no dia do Perd�o cada um ache o que seu �...
+
+A� est� porque, quando troveja, tantos raios caem sobre sobre certos
+serros e tanto ventarr�o esbarra neles:... � a M�e do Ouro
+que chama socorro...
+
+�s vezes rebenta um serro destes com estrondo grande; se � de noite,
+no fogo que se v� sair, vai a cuidadeira de mudan�a para outro; se �
+de dia, � sempre no pino do meio dia, e na luz do sol que encandeia
+os olhos, apenas sente-se o rumo que ela toma, s� o rumo, mas n�o o
+lugar novo em que ela vai fazer morada nova.
+
+
+
+
+*2*
+*Serros Bravos*
+
+
+Dos mortos por seu castigo, alguns n�o ficaram bem mortos
+e ainda estrebucham, curtindo dores.
+
+E como ainda est�o meio vivos, quando algum vivente quer tirar para
+sua cobi�a o ouro � que � os seus nervos e que doem � os Serros,
+esses, enfurecem-se, e por for�a de encantamentos somem-se, rasos,
+ou atiram de uns para outros, temporais t�o medonhos, que eri�am o
+cabelo e prendem o passo dos homens, mesmo os mais desabusados.
+
+E se eles teimam, morrem.
+
+
+
+*3*
+*A casa de M�boror�*
+
+
+Dentro do mato grosso, mato velho e crescido, sem plantas pequenas
+dentro, a�, s� h� uma luz pouca, tirante a verde e a cinzento: e
+nenhuma �rvore faz sombra, porque a  ramaria de todas faz peneira
+por onde passa o sol, que nunca enxerga o ch�o...
+
+Dentro desse mato, no mais tupido dele, h� uma lombada redonda, como
+uma casca de carambur�; a�, em cima dela, h� uma casa de pedra
+branca, branca como se encali�ada, e sem porta em nenhum lado nem
+janela em nenhuma altura.
+
+Dentro da casa branca as salas est�o lastradas de barras de ouro e
+barras de prata, do peso que � preciso dois homens para mover cada
+uma; e todas as juntas das pilhas est�o tomadas de poeiras finas...
+
+Por cima de tudo est�o, em montes, tocheiros de ouro maci�o e
+c�lices e resplendores de santos; e salvas de prata
+e tur�bulos e cajados.
+
+Nos corredores, como prontos para i�ar para as cangalhas das mulas
+de carga, prontos, com as suas al�as, est�o lotes de surr�es,
+socados de moedas de ouro, separadas em por��es, metidas
+em bexigas de r�s...
+
+O rondador da casa branca anda dia e noite em redor dela; � um �ndio
+velho, cacique que foi, M�boror�, de nome, amigo dos santos padres
+das Sete Miss�es da serra que d� vertentes para o Uruguai.
+
+Os padres foram tocados p�ra longe, levando s� a roupa do corpo...
+mas a casa branca j� estava feita, sem portas nem janelas... e
+M�boror�, que sabia tudo e era cacique, de noite, e precatado, com
+os seus guerreiros, carregou de todos os lugares para aquele as
+arrobas amarelas e as arrobas brancas, que n�o valiam a ca�a e a
+fruta do mato e a �gua fresca, e pelas quais os brancos de hoje
+matavam os nascidos aqui, e matavam-se uns aos outros.
+
+M�boror� desprezava essas arrobas; mas como era amigo dos santos
+padres das Sete Miss�es, guardou tudo e espera por eles, rondando a
+casa branca, sem portas nem janelas.
+
+Ronda e espera...
+
+
+
+*4*
+*Zaor�s*
+
+
+Nosso Senhor Jesus Cristo Louvado Seja Para Sempre! Am�m!
+
+Ele foi preso na quarta-feira, sentenciado na quinta
+e crucificado na sexta.
+
+E neste mesmo dia de sexta-feira, houve no C�u o julgamento dos
+carrascos de Nosso Senhor, e logo desceu � Terra o arcanjo S. Miguel
+com a ordem de castigar aos judeus; e o arcanjo passou essa ordem
+aos anjos que estavam de guarda � Cruz, onde Nosso Senhor estava
+pregado e morto.
+
+Enquanto S. Miguel esteve na Terra deixou sobre ela muito brilho da
+sua coura�a de couro e das suas armas, e muita ventania das
+suas asas de prata.
+
+A gente j� nascida estava condenada, pelo pecado de ter maltratado e
+morto Jesus Cristo. Mas as crian�as ainda n�o nascidas n�o podiam
+sofrer castigo, porque n�o tinham culpa alguma. Por�m os anjos da
+guarda da Cruz n�o sabiam disso e iam castig�-los da mesma forma,
+porque o arcanjo S. Miguel esquecera-se de avisar sobre as crian�as
+que nascessem naquela dia, que era justamente o da senten�a de Deus.
+
+Por isso, a Virgem Maria, que sabia do esquecimento de S. Miguel, em
+mem�ria Jesus n�o deixou os anjos da guarda da Cruz castigarem as
+crian�as nascidas nessa Sexta-feira, e ent�o, para diferenci�-las
+das outras, fez um milagre: e mandou que a ventania das asas de
+prata do arcanjo ventasse sobre o olhos dos que fossem nascendo
+nesse dia santo, e ao brilho das armas de ouro,
+que brilhasse sobre eles.
+
+E desse jeito todos ficaram assinalados e puderam ser diferenciados
+dos nascidos na v�spera, e bem diferen�ados, porque podiam ver
+atrav�s a  �gua at� o seu fundo e atrav�s as muralhas e montanhas
+at� o outro lado delas, porque tudo ficou transparente para eles.
+
+E como a Virgem Maria n�o disse que subisse outra vez ao c�u a
+ventania das asas de prata do arcanjo nem o brilho das suas armas de
+ouro, esse dons ficaram na terra, e em todas as sextas-feiras santas
+procuram os olhos das crian�as rec�m-nascidas, que ent�o ficam com o
+dom de ver no escuro e atrav�s qualquer parede de pedra,
+madeira, ou ferro...
+
+Para esses, nada existe escondido ou enterrado que seus olhos n�o
+vejam, como os dos outros homens, de dia claro; e isso porque
+nasceram em sexta-feira santa: os Zaor�s...*
+
+* Em rela��o ao argumento destas lendas � 1. 4 � reportamo-nos ao
+raciocinado estudo do Sr. Pe. C. Teschauer sob o t�tulo � Lenda do
+Ouro � (Rev. do Inst�. do Cear�, tom. XXV-1911).
+
+
+
+
+*5*
+*O Ango�ra*
+
+
+O Ango�ra, enquanto foi pag�o, chamava-se desse nome; era um �ndio
+grande, for�udo e valente; mas era triste, carrancudo e calado.
+
+Quando os Padres de Jesus, entraram no sert�o da serra, corridos que
+vinham doutro rumo, foi Ango�ra, o tapejara, que conduziu sem erro a
+companhia; e quando os padres sentaram pouso, batizou-se.
+
+E foi padrinho M�boror�, que era cacique e j� amigo, muito, dos
+padres. O nome de Ango�ra, pag�o, ficou sendo Generoso,
+nome crist�o.
+
+E foi como cobra que deixa a casca...
+
+Ango�ra, que era triste, deixou a casca da tristura, e como
+Generoso, nome bento ficou prazenteiro.
+
+E ajudou a botar pedra no alicerce de todas as igrejas dos Sete
+Povos. E durou anos, esse of�cio!... E ele sempre risonho
+e cantador.
+
+
+
+Um dia, chamou o padre-cura, confessou-se e foi ungido
+de �leo santo e morreu.
+
+Generoso morreu contente, pois a cara do seu cad�ver guardou ar de
+riso; e foi muito chorado, porque tinha a estima de todos, por ser
+mui prazenteiro e brincador.
+
+De forma que a sua alma saiu-lhe do corpo, de jeito alegre; e ent�o,
+invis�vel, entrava nas casas dos conhecidos, passeava nos quartos e
+salas, e para divertir-se fazia estalar os forros do teto e os
+barrotes do ch�o, e tamb�m os trates novos, e os balaios de vime
+grosso; e se achava dependurada uma viola, fazia sonar o
+encordoamento, para alegrar-se com a lembran�a das suas cantigas, de
+quando era vivo e cantava...
+
+Outras vezes assobiava nas juntas das portas e janelas, espiando por
+elas os moradores da casa; e quando os homens, rodeavam a candeia,
+pitando, ou as crian�as, brincando, ou as donas costuravam ou faziam
+nhanduti, o Generoso, � a alma dele, p�r�o caso � soprava
+devagarzinho sobre a chama da luz, fazendo-a requebrar-se e
+balan�ar-se, que para a sombra das cousas tamb�m mudar
+de estar quieta...
+
+E muitas vezes � at� o tempo do Farrapos �, quando se dan�ava o
+fandango nas est�ncias ricas ou a chimarrita nos ranchos do
+pobrerio, o Generoso intrometia-se e sapateava tamb�m, sem ser
+visto; mas sentiam-lhe as pisadas, bem compassadas  no rufo das
+violas... e quando o cantador do baile era bom e pegava bem de
+ouvido, ouvia, e por ordem do Generoso repetia esta copla, que ficou
+conhecida como marca de est�ncia antiga: sempre a mesma...
+
+
+
+�Eu me chamo Generoso,
+�Morador em Pirap�:
+�Gosto muito de dan�ar
+�Co�as mo�as de palet�...�
+
+.............................................................
+
+
+
+*6*
+*M�e mulita*
+
+� O tatu, mais a mulita,
+� � lei da sua cria��o:
+� Sendo macho, n�o pode ter irm�;
+� Sendo f�mea, n�o pode ter irm�o.
+_(Cancioneiro Guasca.)_
+
+
+Este bicho foi mandado ficar assim desde que o rei dos judeus mandou
+matar duas mil crian�as e a Virgem Maria fugiu para o Egito, para
+salvar o Menino Jesus, fugindo num carro pequeno,
+puxado por um burro peti�o...
+
+A certa altura do caminho a comitiva foi alcan�ada por uma comitiva
+do rei, com ordem de matar o Menino e algemar seus pais; por�m Nossa
+Senhora, com os seus rogos e l�grimas conseguiu abrandar o centuri�o
+que comandava; e deu-lhe de presente, o burro.
+
+Depois a Virgem Maria e S. Jos�, com muito custo, l� foram
+empurrando o carro onde ia dormindo, muito sossegado, o Menino
+Jesus. E foram andando... andando... andando...
+
+A escolta j� ia seguir seu caminho, de volta, por�m parou, porque o
+burro tinha-se empacado... Embalde o centuri�o chicoteou o animal;
+depois bateu-lhe com o pau da lan�a; depois com a bainha do espad�o;
+nada!... o burro, sempre empacado!...
+
+Os soldados todos, um por um, espancaram-no: o burro,
+sempre empacado!...
+
+Todos os soldados juntos e ao mesmo tempo, espancaram-no; o burro
+sempre empacado!...
+
+Ent�o o centuri�o ficou furioso, dizendo-se enganado pela Virgem,
+que lhe dera t�o ruim animal. E resolveu perseguir e prender os
+fugitivos, para seu castigo.
+
+A Virgem e S. Jos� n�o viram o que atr�s deles se passava, somente
+ouviam o rumor das pancadas que os soldados davam no burro e as
+blasf�mias do centuri�o... E assustados, apuravam as for�as,
+empurrando o carrinho.
+
+Ent�o o Menino Jesus acordou-se e teve fome; mas com muito cansa�o e
+sofrimentos, o seio de Maria n�o apojou...
+
+Ele chorava, de pesar... e o Menino pegou a chorar, de fome...
+
+Nisto apareceu uma mulita e Nossa Senhora disse-lhe:
+
+� Mulita, se tens filhos, d�-me uma gota do leite para o meu
+filho!...
+
+E a mulita parou-se e deu a gota de leite; mas era muito pouco
+e o Menino continuou chorando, com fome...
+
+Nossa Senhora chorou de pesar e tornou a dizer:
+
+� Mulita, chama tuas filhas, para cada uma dar uma gota de leite
+para o meu filho!...
+
+� Senhora Virgem, respondeu a mulita, minha ninhada � grande, por�m
+nele as filhas s�o poucas...
+
+E chamou as suas poucas filhas, e cada uma deu uma gota de leite
+para acalmar a fome do Menino, que calou-se, farto.
+
+Depois cada mulitinha tomou seu rumo, no deserto; s� ficou
+a mulita m�e, acompanhando.
+
+Quando iam j� muito longe, avistaram a escolta que vinha em
+sua persegui��o; e � frente, amea�ador, o centuri�o!...
+
+Ent�o a Virgem, muito aflita, disse:
+
+� Mulita, d�-me a tua for�a, para puxar o carro do meu filho!...
+
+E a mulita puxou; mas era t�o pouca sua for�a, que o carro quase
+nada adiantava.
+
+E a escolta cada vez mais perto!...
+
+E Nossa Senhora chorou, de medo, e tornou a dizer:
+
+� Mulita, chama os teus filhos, para darem a sua for�a e correrem,
+puxando o carro do meu filho!...
+
+� Senhora Virgem, respondeu a mulita, a minha ninhada � grande,
+por�m nela os filhos s�o poucos...
+
+E chamou os seus poucos filhos, que come�aram a correr, puxando
+o carrinho, do Menino Jesus...
+
+E a escolta cada vez mais perto!...
+
+Mas o carro, agora puxado pelos filhos da mulita ia
+sempre andando depressa.
+
+Mas os cavalos s�o maiores que as mulitas e por isso vencem mais
+terreno... e j� a escolta estava perto... perto..., quando levantou-
+se um medonho temporal de areia, que obrigou e o centuri�o a
+dispersarem-se entre gritos de raiva...
+
+Ent�o, quando viram que o Menino estava salvo, cada mulitanho tomou
+seu rumo no deserto; s� ficou a mulita m�e, acompanhando.
+
+Ent�o Nossa Senhora tornou a dizer:
+
+� Mulita, em mem�ria das gotas de leite das tuas filhas, em mem�ria
+da for�a dos teus filhos, deste dia em diante, de cada vez que deres
+ninhada, ser� sempre ou s� de f�meas ou s� de machos!...
+
+E a mulita respondeu:
+
+� Pois que assim seja a vossa vontade, Senhora Virgem! Por�m eu
+pe�o que ordeneis que o mesmo seja para a minha boa comadre, a
+tatua...
+
+� Pois ser�, tamb�m!
+
+Ent�o a mulita tomou seu rumo, no deserto, e foi levar a nova a sua
+comadre tatua, que ficou muito contente...*
+
+* O argumento destas duas lendas � 5, 6 � est� desenvolvido
+baseado na tradi��o long�nqua, e � de notar a acomoda��o bizarra dos
+elementos do seu entrecho.
+
+
+
+*7*
+*S�o Sep�*
+
+�*Arroio	 S. Sep�* � no munic�pio de Ca�apava; nasce a coxilha de
+Babiroqu� e des�gua no Vacaca�. *Deve o nome, que lhe foi posto
+pelos Jesu�tas, ao c�lebre chefe �ndio Jos� Tiarai�, conhecido por
+Sep�*, vencido e morto na batalha de 7 de fevereiro de 1756, no sop�
+da Coxilha de Sta. Tecla, perto de Bag�.
+
+Era � margem deste arroio que existia a sepultura do referido �ndio,
+indicada por uma grande cruz de madeira, com uma inscri��o � *meio
+em latim, meio indi�tico* �, que quer dizer o seguinte:
+
+
+
+� Em Nome de Todos os Santos �
+No ano de Cristo Jesus de 1756
+A 7 de Fevereiro
+morreu combatendo
+O grande chefe guarani Tiarai�
+em um s�bado santo
+� Subiu ao C�u dias antes do que �
+o grande chefe da taba do Uruguai que morreu
+em 10 de fevereiro em quarta-feira
+combatendo contra um ex�rcito
+de 15000 soldados.
+� Aqui enterrado �
+A 4 de Mar�o
+mandou levantar-lhe esta cruz
+o padre D. Miguel
+Descansa em paz
+�
+
+
+
+�Conforme a homenagem
+prestada pelos Jesu�tas
+na inscri��o e na
+denomina��o do arroio, e
+n�o havendo no calend�rio
+cat�lico santo de nome �
+Sep� � temos de concluir
+que as virtudes, o m�rito
+do grande chefe �ndio
+foram forais para a sua
+estranha � canoniza��o �
+no entretanto perdur�vel e
+popularizada.
+
+Foi sob tal aspecto que
+recordamos aqui este curioso fato
+........................�
+_(Cancioneiro Guasca)_.
+
+-------------------------------------------------------------
+
+
+
+*O Lunar de Sep�*
+
+
+Eram armas de Castela
+Que vinham do mar de al�m;
+De Portugal tamb�m vinham
+Dizendo, por nosso bem:
+Mas quem faz gemer a terra...
+Em nome da paz n�o vem!
+
+
+Mandaram por serra acima
+Espantar os cora��es;
+Que os Reis Vizinhos queriam
+Acabar com as Miss�es,
+Entre espadas e mosquetes
+Entre lan�as e canh�es!...
+
+
+Cheiravam as brancas flores
+Sobre os verdes laranjais;
+Trabalhavam-se na folha
+Que vem dos altos ervais;
+Comia-se das lavouras
+Da mandioca e milharais.
+
+
+Ningu�m a vida roubava
+Do semelhante crist�o
+Nem a pobreza existia
+Que chorasse pelo p�o;
+Jesus Cristo era contente
+E dava sua ben��o...
+
+
+Por que vinha aquele mal,
+Se o pecado n�o havia?
+O tributo se pagava
+Se o vizo-rei pedia,
+E, at� sangue  se mandava
+Na gente mo�a que ia...
+
+
+Eram armas de Castela
+Que vinham do mar de al�m;
+De Portugal tamb�m vinham,
+Dizendo, por nosso bem:
+Mas quem faz gemer a terra...
+Em nome da paz n�o vem!
+
+
+Os padres da encomenda
+Faziam sua miss�o:
+Batizando as criancinhas,
+E casando, por uni�o,
+Os que juntavam os corpos
+Por for�a do cora��o...
+
+
+Do sangue dum gr�o Cacique
+Nasceu um dia um menino,
+Trazendo um lunar na testa,
+Que era bem pequenino:
+Mas era � cruzeiro � feito
+Como um emblema divino!...
+
+
+E aprendeu as letras feitas
+Pelos padres, na escritura;
+E tinha por penit�ncia,
+Que a sua pr�pria figura
+De dia, era igual �s outras...
+E diferente, em noite escura!...
+
+
+Diferente em noite escura,
+Pelo lunar do seu rosto,
+Que se tornava vis�vel
+Apenas o sol era posto;
+Assim era � Tiarai� �,
+Chamado � Sep�, � por gosto.
+
+
+Eram armas de Castela
+Que vinham do mar de al�m;
+De Portugal tamb�m vinham
+Dizendo, por nosso bem:
+Mas quem faz gemer a terra...
+Em nome da paz n�o vem!
+
+
+Cresceu em sabedoria
+E mando dos povos seus;
+Os padres o instru�ram
+Para o servi�o de Deus
+E conhecer a defesa
+Contra os males do ateus...
+
+
+Era mo�o e vigoroso,
+E mui valente guerreiro:
+Sabia mandar manobras
+Ou no campo ou no terreiro;
+E na cruzada dos perigos
+Sempre andava de primeiro.
+
+
+Das brutas escaramu�as
+As artes e artimanhas
+Foi o grande Languiru
+Que lh�ensinou; e as fa�anhas,
+De enredar o inimigo
+Com o saber das aranhas...
+
+
+E, tudo isto, aprendia;
+E tudo j� melhorava,
+Sep� � Tiarai�, chefe
+Que o Sete Povos mandava,
+Escutado pelos padres,
+Que cada qual consultava.
+
+
+Eram armas de Castela
+Que vinham do mar de al�m;
+De Portugal tamb�m vinham
+Dizendo, por nosso bem:
+Mas quem faz gemer a terra...
+Em nome da paz n�o vem!
+
+
+E quando a guerra chegou
+Por onde os Reis de al�m,
+O lunar do mo�o �ndio
+Brilhou de dia tamb�m,
+Para que os povos vissem
+Que Deus lhe queria bem...
+
+
+Era a lomba da defesa,
+Nas coxilhas de I-bag�,
+Cacique muito matreiro
+Que nunca mudou de f�;
+Cavalo deu a ningu�m...
+E a ningu�m deixou de a p�...
+
+
+Lan�aram-se cavaleiros
+E infantes, com partazanas,
+Contra os Tap�s defensores
+Do seu pomar e cabanas;
+A mortandade batia,
+Como ceifa de espadanas...
+
+
+Coura�as duras, de ferro,
+Davam abrigo � vida
+Dos muitos, que, assim fiados,
+Cercavam um s� na lida!...
+Um s�, que de flecha e arco,
+Entra na luta perdida...
+
+
+Eram armas de Castela
+Que vinham do mar de al�m;
+De Portugal tamb�m vinham
+Dizendo, por nosso bem:
+Mas quem faz gemer a terra...
+Em nome da paz n�o vem!
+
+
+Os mosquetes estrondeam
+Sobre a gente ignorada,
+Que, acima do seu espanto,
+Tem a vida decepada...;
+E colubrinas maiores
+Fazem maior matinada!...
+
+
+D�cil gente, n�o receia,
+As iras de Portugal:
+Porque nunca houve lembran�a
+De haver-lhe feito algum mal:
+Nunca manchara seu teto...;
+Nunca comera seu sal!...
+
+
+E de Castela tampouco
+Esperava tal furor;
+Pois sendo seu soberano,
+Respeitara seu senhor;
+J� lhe dera ouro e sangue,
+E primazia e honor!...
+
+
+A dor entrava nas suas carnes...
+Na alma, a negra tristeza,
+Dos guerreiros de Tiarai�,
+Que pelejavam defesa,
+Porque o lunar divino
+Mandava aquela proeza...
+
+
+Eram armas de Castela
+Que vinham do mar de al�m;
+De Portugal tamb�m vinham
+Dizendo, por nosso bem:
+Mas quem faz gemer a terra...
+Em nome da paz n�o vem!
+
+
+E j� rodavam ginetes
+Sobre os corpos dos infantes
+Das Sete Santas Miss�es,
+Que pareciam gigantes!...
+Na peleja t�o sozinhos...
+Na morte t�o confiantes!...
+
+Mas, o lunar de Sep�
+Era o rastro procurado
+Pelos vassalos dos Reis,
+Que o haviam condenado:...
+Ficando o povo vencido...
+E seu haver... conquistado!
+
+
+Ent�o, Sep�, foi erguido
+Pela m�o do Deus � Senhor,
+Que lhe marcara na testa
+O sinal do seu penhor!...
+O corpo ficou na terra...
+A alma, subiu em flor!...
+
+
+E subindo para as nuvens,
+Mandou aos povos � ben��o!
+Que mandava o C�us � Senhor
+Por meio do seu clar�o...
+E o � lunar � da sua testa
+Tomou no c�u posi��o...
+
+
+Eram armas de Castela
+Que vinham do mar de al�m;
+De Portugal tamb�m vinham
+Dizendo, por nosso bem:
+Mas quem faz gemer a terra...
+Em nome da paz n�o vem!
+
+
+Esta melop�ia (?), ouvi-a em 1902, sofrivelmente recitada por uma
+velh�ssima mesti�a � Maria Genoria Alves � moradora na picada que
+atravessa o rio Camaqu�, entre os munic�pios de Cangussu
+e Encruzilhada.
+
+Aparte as deturpa��es aberrantes dos voc�bulos e a dif�cil
+coloca��o, concatenada dos versos, conservei a forma original,
+difusa, opaca e, do mesmo passo ing�nua e amor�vel, dentro da qual
+por�m, sente-se que estremece uma idealiza��o, tendente a aureolar a
+figura do chefe �ndio, superiorizando-a por um signo misterioso � o
+lunar �, mandado divino...
+
+Deixei de parte alguns versos cujo sentido disforme e express�o eram
+de imposs�vel entendimento e acomoda��o neste grupo. Relembran�a
+popular do her�ico guarani � esta (e proced�ncia?...) a �nica que
+at� hoje hei encontrado em n�o pequena perambula��o.
+
+
+
+*8*
+*O Caapora*
+
+
+� um esp�rito com forma de homem, gigante, peludo e muito tristonho,
+que comanda as varas de porcos do mato e anda sempre montado
+sobre um deles.
+
+Quem topar com o Caapora da� em diante arrastar� consigo a
+infelicidade (caiporismo), para todo o resto da sua vida;
+se era bom torna-se mau ca�ador, pescador; dar� topadas no caminho,
+espinhar-se-� nas ro�adas, perder� objetos,
+andar� atrasado, apoquentado...
+
+Os animais domesticados tamb�m sentem a sua m� influ�ncia, e
+entecar�o, ter�o gogo, sofrer�o bicheiras... No entanto o Caapora
+protege a ca�a bravia dos matos.
+
+
+
+*9*
+*O Curupira*
+
+
+� o esp�rito malfazejo do mato, que enreda os trilhos do caminho
+para enganar os andantes e sugar-lhes o sangue.
+
+Andam sempre em casal e moram no oco dos paus de lei; aparecem
+de repente, fazem os seus embustes e escondem-se, � tocaia,
+rindo-se em sil�ncio.
+
+O Curupira � como um tapuio pequeno; tem os dentes verdes
+e os p�s colocados �s avessas.
+
+Quando perseguido pelo curupira, o melhor meio de fugir-lhe �
+atirar-lhe e ir deixando pelo caminho cruzes e rodilhas de cip�,
+entran�adas; ele entret�m-se a examinar o achado e a destran��-lo,
+e enquanto isso, o perseguido escapa-se.
+
+
+
+*10*
+*O Saci*
+
+
+Era um  caboclinho, dum p� s�, muito �gil, que saltava na garupa dos
+cavalos dos viajantes. Gostava das picadas e das encruzilhadas das
+estradas sombreadas. Outros diziam que o Saci, apenas era manco de
+um p� e tinha uma ferida em cada joelho; que usava um barrete feito
+das _marrequinhas_ (flores da corticeira), e que era ele que
+governava as moscas importunas, as mutucas, os mosquitos.
+
+
+
+*11*
+*A Oi�ra*
+
+
+�A Oi�ra � ou M�e-d��gua � � um dem�nio macho-f�mea dos rios. � um
+tapuio ou tapuia de rara beleza, morador do fundo dos rios ou lagos,
+e que fascina aquele que cai em seu poder, induzindo a pessoa
+fascinada a lan�ar-se n��gua. O indiv�duo fascinado pelas Oi�ras, se
+n�o chega afogar-se, ao ser retirado da �gua, declara ter visto
+pal�cios encantados, no fundo do rio, tendo sido acompanhado nesse
+passeio por uma bela mulher (se � homem, e por dois
+belos tapuios se � mulher).
+
+Ao voltar � terra as Oi�ras o soltam e de novo v�o para o rio, mas
+deixando em seu lugar pequenos tapuios para guardar o enfermo. Estes
+pequenos tapuios devem impedir que outros esp�ritos
+se apoderem da v�tima.�
+
+
+
+*12*
+*O Jurupari*
+
+
+� um esp�rito mau, que � noite aperta a garganta das crian�as e at�
+dos homens, para trazer-lhes afli��o e maus sonhos, principalmente
+por haverem comido muito antes de se deitarem. � ele que faz
+o _pesadelo_ nas criaturas.
+
+
+
+*13*
+*O Lobisomem*
+
+
+Diziam que eram homens que havendo tido rela��es com as suas
+comadres, emagreciam; todas as sextas-feiras, alta noite, sa�am de
+suas casas transformados em cachorro ou porco, e mordiam as pessoas
+que tais desonras encontravam; estas por sua vez ficavam sujeitas a
+transformarem-se em lobisomens...
+
+
+
+*14*
+*A Mula sem cabe�a*
+
+
+Diziam que as mulheres de m� vida, relacionadas com padres, se
+transformavam, tarde da noite, em mula, sem cabe�a, e conduzindo na
+cauda um facho de fogo, que nenhum vento ou chuva apagava antes de
+romperem as barras do dia...
+
+
+
+*15*
+
+
+A lenda referente aos � enterros � (dinheiro, j�ias, baixelas
+enterradas) tem a sua origem na cren�a das almas do outro mundo �
+os esp�ritos � �A alma de quem morreu sem deixar not�cias do
+dinheiro que tinha escondido ou guardado em tal e tal lugar, anda
+penando. As luzes azuladas que se observam de noite nos campos e em
+redor das povoa��es, que volteiam e afinal se desvanecem,
+n�o s�o sen�o almas penadas.
+
+�S� quando um crist�o descobrir o � enterro � � que h�o de cessar
+de  aparecer e de penar�
+
+Se o � enterro � est� da habita��o ouve-se ru�dos, pancadas,
+gemidos... s�o as casas � mal assombradas. �
+
+
+***
+
+
+A lenda da � Lagoa brava � � apenas uma variante da dos Serros
+bravos e tem a sua contextura na da Oi�ra. A da lagoa do Iber�, bem
+como a dos salamanqueiros, do nhandu � tat� e outras, s�o mais do
+acervo rio-platense-andino.
+
+
+***
+
+
+H� ainda, de forma��o local, muitas  _hist�rias_ ingenu�ssimas e
+curiosas, tais como a dorme-dorme (ave vespertina); porque a pomba
+n�o sabe fazer seu ninho; porque a capivara � rabona (sem cauda); a
+do anu, ladr�o do ninho alheio; a do Jo�o barreiro, e outras muitas,
+para adormecer crian�as...*
+
+* O argumento das lendas desta s�rie � 8, 14 � consta do livro �
+Cancioneiro Guasca � do autor. (Edit. Echenique & C. � 1910) A sua
+vers�o e influ�ncia correram, ali�s mui fracamente entre as gentes
+antigas da campanha rio-grandense.
+
+
+
+
+
+End of Project Gutenberg's Etext Lendas do Sul, by J. Somoes Lopes Netto
+

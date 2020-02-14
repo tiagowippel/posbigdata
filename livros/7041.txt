@@ -1,0 +1,5114 @@
+The Project Gutenberg EBook of Wie es euch gef�llt, by William Shakespeare
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Wie es euch gef�llt
+
+Author: William Shakespeare
+
+Release Date: December, 2004 [EBook #7041]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on February 27, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: Latin-1
+
+*** START OF THE PROJECT GUTENBERG EBOOK WIE ES EUCH GEFALLT ***
+
+
+
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 8-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verf�gung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+Wie es euch gef�llt
+
+William Shakespeare
+
+�bersetzt von August Wilhelm von Schlegel
+
+Personen:
+
+Der Herzog, (in der Verbannung)
+Friedrich, (Bruder des Herzogs und Usurpator seines Gebiets)
+Amiens (und) Jacques, (Edelleute, die den Herzog in der Verbannung
+begleiten)
+Le Beau, (ein Hofmann in Friedrichs Diensten)
+Charles, (Friedrichs Ringer)
+Oliver, Jakob (und) Orlando, (S�hne des Freiherrn Roland de Bois)
+Adam (und) Dennis, (Bediente Olivers)
+Probstein, (der Narr)
+(Ehrn) Olivarius Textdreher, (ein Pfarrer)
+Corinnus (und) Silvius, (Sch�fer)
+Wilhelm, (ein Bauernbursche, in K�thchen verliebt)
+(Eine Person, die den Hymen vorstellt)
+Rosalinde, (Tochter des vertriebnen Herzogs)
+Celia, (Friedrichs Tochter)
+Ph�be, (eine Sch�ferin)
+K�thchen, (ein Bauernm�dchen)
+(Edelleute der beiden Herzoge, Pagen, J�ger und andres Gefolge)
+Die Szene ist anf�nglich bei Olivers Hause; nachher teils am Hofe
+des Usurpators, teils im (Ardenner Wald)
+
+
+
+
+
+
+Erster Aufzug
+
+
+
+Erste Szene
+
+Olivers Garten
+
+(Orlando und Adam treten auf)
+
+
+Orlando.
+Soviel ich mich erinnre, Adam, war es folgendergestalt: Er
+vermachte mir im Testament nur ein armes Tausend Kronen und,
+wie du sagst, sch�rfte meinem Bruder bei seinem Segen ein, mich
+gut zu erziehn, und da hebt mein Kummer an.  Meinen Bruder Jakob
+unterh�lt er auf der Schule, und das Ger�cht sagt goldne Dinge
+von ihm.  Was mich betrifft, mich zieht er b�urisch zu Hause auf,
+oder eigentlicher zu sagen, beh�lt mich unerzogen hier zu Hause.
+Denn nennt Ihr das Erziehung f�r einen Edelmann von meiner Geburt,
+was vor der Stallung eines Ochsen nichts voraus hat?  Seine Pferde
+werden besser besorgt; denn au�er dem guten Futter lernen sie
+auch ihre Schule, und zu dem Ende werden Bereiter teuer bezahlt;
+aber ich, sein Bruder, gewinne nichts bei ihm als Wachstum, wof�r
+seine Tiere auf dem Mist ihm ebenso verpflichtet sind wie ich.
+Au�er diesem Nichts, das er mir im �berflu� zugesteht, scheint
+sein Betragen das Etwas, welches die Natur mir gab, von mir zu
+nehmen; er l��t mich mit seinen Knechten essen, versperrt mir den
+br�derlichen Platz und, soviel an ihm liegt, untergr�bt er meinen
+angebornen Adel durch meine Erziehung.  Das ist's, Adam, was mich
+betr�bt, und der Geist meines Vaters, der, denke ich, auf mir ruht,
+f�ngt an, sich gegen diese Knechtschaft aufzulehnen.  Ich will sie
+nicht l�nger ertragen, wiewohl ich noch kein kluges Mittel wei�,
+ihr zu entgehen.
+
+Adam.
+Dort kommt mein Herr, Euer Bruder.
+
+(Oliver tritt auf.)
+
+Orlando.
+Geh beiseit, Adam, und du sollst h�ren, wie er mich anf�hrt.
+
+Oliver.
+Nun, Junker, was macht Ihr hier?
+
+Orlando.
+Nichts.  Man hat mich nicht gelehrt, irgend etwas zu machen.
+
+Oliver.
+Was richtet Ihr denn zugrunde?
+
+Orlando.
+Ei, Herr, ich helfe Euch zugrunde richten, was Gott gemacht hat,
+Euren armen unwerten Bruder, mit Nichtstun.
+
+Oliver.
+Besch�ftigt Euch besser und seid einmal nichtsnutzig.
+
+Orlando.
+Soll ich Eure Schweine h�ten und Treber mit ihnen essen?  Welches
+verlornen Sohns Erbteil habe ich durchgebracht, da� ich in solch
+Elend geraten mu�te?
+
+Oliver.
+Wi�t Ihr, wo Ihr seid, Herr?
+
+Orlando.
+O Herr, sehr gut!  hier in Eurem Baumgarten.
+
+Oliver.
+Wi�t Ihr, vor wem Ihr steht?
+
+Orlando.
+Ja, besser als der mich kennt, vor dem ich stehe.  Ich kenne Euch
+als meinen �ltesten Bruder, und nach den sanften Banden des Bluts
+solltet Ihr mich ebenso kennen.  Die gute Sitte der Nationen
+gesteht Euch Vorrechte vor mir zu, weil Ihr der Erstgeborne seid;
+aber derselbe Gebrauch beraubt mich meines Blutes nicht, w�ren
+auch zwanzig Br�der zwischen uns.  Ich habe soviel vom Vater in
+mir als Ihr, obwohl Ihr der Verehrung, die ihm geb�hrt, n�her
+seid, weil Ihr fr�her kamt.
+
+Oliver.
+Was, Knabe?
+
+Orlando.
+Gemach, gemach, �ltester Bruder!  Dazu seid Ihr zu jung.
+
+Oliver.
+Willst du Hand an mich legen, Schurke?
+
+Orlando.
+Ich bin kein Schurke!  ich bin der j�ngste Sohn des Freiherrn
+Roland de Boys.  Er war mein Vater, und der ist dreifach ein
+Schurke, der da sagt, solch ein Vater konnte Schurken zeugen.
+W�rst du nicht mein Bruder, so lie�e meine Hand deine Kehle nicht
+los, bis diese andre dir die Zunge f�r dies Wort ausgerissen h�tte.
+Du hast dich selber gel�stert.
+
+Adam.
+Liebe Herren, seid ruhig!  um des Andenkens eures Vaters willen,
+seid eintr�chtig!
+
+Oliver.
+La� mich los, sag ich.
+
+Orlando.
+Nicht eher, bis mir's gef�llt.  Ihr sollt mich anh�ren.  Mein
+Vater legte Euch in seinem Testament auf, mir eine gute Erziehung
+zu geben.  Ihr habt mich wie einen Bauern gro�gezogen, habt alle
+Eigenschaften, die einem Edelmann zukommen, vor mir verborgen und
+verschlossen gehalten.  Der Geist meines Vaters wird m�chtig in
+mir, und ich will es nicht l�nger erdulden; darum gesteht mir
+solche �bungen zu, wie sie dem Edelmann geziemen, oder gebt mir
+das geringe Teil, das mir mein Vater im Testament hinterlie�, so
+will ich mein Gl�ck damit versuchen.
+
+Oliver.
+Und was willst du anfangen?  Betteln, wenn das durchgebracht ist?
+Gut, geht nur hinein, ich will mich nicht lange mit Euch qu�len,
+Ihr sollt zum Teil Euren Willen haben.  Ich bitt Euch, la�t mich
+nur.
+
+Orlando.
+Ich will Euch nicht weiter bel�stigen, als mir f�r mein Bestes
+notwendig ist.
+
+Oliver.
+Packt Euch mit ihm, alter Hund!
+
+Adam.
+Ist "alter Hund" mein Lohn?  Doch es ist wahr, die Z�hne sind mir
+in Eurem Dienst ausgefallen.--Gott segne meinen alten Herrn, er
+h�tte solch ein Wort nicht gesprochen.
+
+(Orlando und Adam ab.)
+
+Oliver.
+Steht es so?  F�ngst du an, mir �ber den Kopf zu wachsen?  Ich
+will dir den Kitzel vertreiben und die tausend Kronen doch nicht
+geben.  He, Dennis!
+
+(Dennis kommt.)
+
+Dennis.
+Rufen Euer Gnaden?
+
+Oliver.
+Wollte nicht Charles, des Herzogs Ringer, mit mir sprechen ?
+
+Dennis.
+Wenn es Euch beliebt: er ist hier an der T�r und bittet sehr um
+Zutritt zu Euch.
+
+Oliver.
+Ruft ihn herein.
+
+(Dennis ab.)
+
+Das wird eine gute Auskunft sein, und morgen ist der Wettkampf
+schon.
+
+(Charles kommt.)
+
+Charles.
+Euer Gnaden guten Morgen!
+
+Oliver.
+Guter Monsieur Charles!--Was sind die neuesten Neuigkeiten am neuen
+Hof?
+
+Charles.
+Keine Neuigkeiten am Hof als die alten: n�mlich, da� der alte
+Herzog von seinem j�ngern Bruder, dem neuen Herzog, vertrieben ist,
+und drei oder vier getreue Herren haben sich in freiwillige
+Verbannung mit ihm begeben; ihre L�ndereien und Eink�nfte
+bereichern den neuen Herzog, darum gibt er ihnen gern Erlaubnis, zu
+wandern.
+
+Oliver.
+K�nnt Ihr mir sagen, ob Rosalinde, des Herzogs Tochter, mit ihrem
+Vater verbannt ist?
+
+Charles.
+O nein, denn des Herzogs Tochter, ihre Muhme, liebt sie so, da sie
+von der Wiege an zusammen aufgewachsen sind, da� sie ihr in die
+Verbannung gefolgt, oder gestorben w�re, wenn sie h�tte
+zur�ckbleiben m�ssen.  Sie ist am Hofe, und der Oheim liebt sie
+nicht weniger als seine eigne Tochter.  Niemals haben sich zwei
+Frauen mehr geliebt als diese.
+
+Oliver.
+Wo wird sich der alte Herzog aufhalten?
+
+Charles.
+Sie sagen, er ist bereits im Ardenner Wald, und viele lustige Leute
+mit ihm, und da leben sie wie Zigeunervolk.  Es hei�t, viele junge
+Leute str�men ihm t�glich zu und versaufen sorglos die Zeit wie im
+Goldnen Alter.
+
+Oliver.
+Sagt, werdet Ihr morgen vor dem neuen Herzoge ringen?
+
+Charles.
+Ganz gewi�, Herr, und ich komme, Euch etwas zu er�ffnen.  Man hat
+mich unter der Hand benachrichtigt, da� Euer j�ngster Bruder,
+Orlando, gewillt ist, gegen mich verkleidet einen Gang zu wagen.
+Morgen, Herr, ringe ich f�r meinen Ruhm, und wer ohne zerbrochene
+Gliedma�en davonkommt, wird von Gl�ck zu sagen haben.  Euer Bruder
+ist jung und zart, und um Euretwillen sollte es mir leid tun, ihn
+so zuzurichten, wie ich doch meiner eignen Ehre wegen m��te, wenn
+er sich stellt.  Darum kam ich aus Liebe zu Euch her, Euch
+Nachricht davon zu geben, damit Ihr ihn entweder von seinem
+Vorhaben zur�ckhaltet oder nicht �belnehmen m�gt, was �ber ihn
+ergeht, weil er sich's doch selber zugezogen hat und es ganz gegen
+meinen Willen geschieht.
+
+Oliver.
+Charles, ich danke dir f�r deine Liebe zu mir, die ich freundlichst
+vergelten will, wie du sehn sollst.  Ich habe selbst einen Wink von
+dieser Absicht meines Bruders bekommen und unter der Hand
+gearbeitet, ihn davon abzubringen; aber er ist entschlossen.  Ich
+mu� dir sagen, Charles--er ist der hartn�ckigste junge Bursch in
+Frankreich, voll Ehrgeiz, ein neidischer Nebenbuhler von jedermanns
+Gaben, ein heimlicher und niedertr�chtiger R�nkemacher gegen mich,
+seinen leiblichen Bruder.  Darum tu nach Gefallen; mir w�r's so
+lieb, du br�chest ihm den Hals als die Finger; und du magst dich
+nur vorsehn, denn wenn du ihm nur eine geringe Schmach zuf�gst oder
+wenn er keine gro�e Ehre an dir einlegen kann, so wird er dir mit
+Gift nachstellen, dich durch irgendeine Verr�terei fangen und nicht
+von dir lassen, bis er dich auf diese oder jene Weise ums Leben
+gebracht hat; denn ich versichere dir--und fast mit Tr�nen sage ich
+es--: es lebt kein Mensch auf Erden, der so jung und so verrucht
+w�re.  Ich spreche noch br�derlich von ihm; sollte ich ihn dir
+zergliedern, so wie er ist, so m��te ich err�ten und weinen, und du
+m��test bla� werden und erstaunen.
+
+Charles.
+Ich bin herzlich erfreut, da� ich zu Euch kam.  Stellt er sich
+morgen ein, so will ich ihm seinen Lohn geben.  Wenn er je wieder
+auf die Beine kommt, so will ich mein Lebtag nicht wieder um den
+Preis ringen.  Gott beh�te Euer Gnaden!
+
+(Ab.)
+
+Oliver.
+Lebt wohl, guter Charles!--Nun will ich den Abenteurer anspornen.
+Ich hoffe, sein Ende zu erleben; denn meine Seele, ich wei� nicht
+warum, hasset nichts so sehr als ihn.  Doch ist er von sanftem
+Gem�t, nicht belehrt und dennoch unterrichtet, voll edlen Trachtens,
+von jedermann bis zur Verblendung geliebt; und in der Tat so fest
+im Herzen der Leute, besonders meiner eignen, die ihn am besten
+kennen, da� ich dar�ber ganz geringgesch�tzt werde.  Aber so soll
+es nicht lange sein--dieser Ringer soll alles ins reine bringen.
+Es bleibt nichts zu tun �brig, als da� ich den Knaben dorthin hetze,
+was ich gleich ins Werk richten will.
+
+(Ab.)
+
+
+
+Zweite Szene
+
+Eine Esplanade vor des Herzogs Palast
+
+(Rosalinde und Celia treten auf)
+
+
+Celia.
+Ich bitte dich, Rosalinde, liebes M�hmchen, sei lustig.
+
+Rosalinde.
+Liebe Celia, ich zeige mehr Fr�hlichkeit, als ich in meiner Gewalt
+habe, und du wolltest dennoch, da� ich noch lustiger w�re?  Kannst
+du mich nicht lehren, einen verbannten Vater zu vergessen, so mu�t
+du nicht verlangen, da� mir eine ungew�hnliche Lust in den Sinn
+kommen soll.
+
+Celia.
+Daran sehe ich, da� du mich nicht in so vollem Ma�e liebst, wie ich
+dich liebe.  Wenn mein Oheim, dein verbannter Vater, deinen Oheim,
+den Herzog, meinen Vater verbannt h�tte, und du w�rst immer bei mir
+geblieben, so h�tte ich meine Liebe gew�hnen k�nnen, deinen Vater
+als den meinigen anzusehn.  Das w�rdest du auch tun, wenn deine
+Liebe zu mir von so echter Beschaffenheit w�re als die meinige zu
+dir.
+
+Rosalinde.
+Gut; ich will meinen Gl�cksstand vergessen, um mich an deinem zu
+erfreun.
+
+Celia.
+Du wei�t, mein Vater hat kein Kind au�er mir und auch keine
+Aussicht, eins zu bekommen; und wahrlich, wenn er stirbt, sollst du
+seine Erbin sein; denn was er deinem Vater mit Gewalt genommen,
+will ich dir in Liebe wiedergeben.  Bei meiner Ehre, das will ich,
+und wenn ich meinen Eid breche, mag ich zum Ungeheuer werden!
+Darum, meine s��e Rose, meine liebe Rose, sei lustig!
+
+Rosalinde.
+Das will ich von nun an, M�hmchen, und auf Sp��e denken.  La� sehen,
+ was h�ltst du vom Verlieben?
+
+Celia.
+Ei ja, tu's, um Spa� damit zu treiben.  Aber liebe keinen Mann im
+wahren Ernst, auch zum Spa� nicht weiter, als da� du mit einem
+unschuldigen Err�ten in Ehren wieder davonkommen kannst.
+
+Rosalinde.
+Was wollen wir denn f�r Spa� haben?
+
+Celia.
+La� uns sitzen und die ehrliche Hausmutter Fortuna von ihrem Rade
+wegl�stern, damit ihre Gaben k�nftig gleicher ausgeteilt werden
+m�gen.
+
+Rosalinde.
+Ich wollte, wir k�nnten das; denn ihre Wohltaten sind oft gewaltig
+�bel angebracht, und am meisten versieht sich die freigebige blinde
+Frau mit ihren Geschenken an Frauen.
+
+Celia.
+Das ist wahr; denn die, welche sie sch�n macht, macht sie selten
+ehrbar, und die, welche sie ehrbar macht, macht sie sehr h��lich.
+
+Rosalinde.
+Nein, da gehst du �ber von Fortunens Amt zu dem der Natur; Fortuna
+herrscht in den weltlichen Gaben, nicht in den Z�gen der Natur.
+
+(Probstein kommt.)
+
+Celia.
+Nicht?  wenn die Natur ein sch�nes Gesch�pf gemacht hat, kann es
+Fortuna nicht ins Feuer fallen lassen?--Wiewohl uns die Natur Witz
+genug verliehen hat, um des Gl�cks zu spotten, schickt es nicht
+diesen Narren herein, dem Gespr�ch ein Ende zu machen?
+
+Rosalinde.
+In der Tat, da ist das Gl�ck der Natur zu m�chtig, wenn es durch
+einen nat�rlichen Einfaltspinsel dem nat�rlichen Witz ein Ende
+macht.
+
+Celia.
+Wer wei�, auch dies ist nicht das Werk des Gl�ckes, sondern der
+Natur, die unsern nat�rlichen Witz zu albern findet, um �ber solche
+G�ttinnen zu kl�geln, und uns diesen Einf�ltigen zum Schleifstein
+geschickt hat; denn immer ist die Albernheit des Narren der
+Schleifstein der Witzigen.--Nun Witz, wohin wanderst du?
+
+Probstein.
+Fr�ulein, Ihr m��t zu Eurem Vater kommen.
+
+Celia.
+Seid Ihr als Bote abgeschickt?
+
+Probstein.
+Nein, auf meine Ehre, man hie� mich nur nach Euch gehn.
+
+Rosalinde.
+Wo hast du den Schwur gelernt, Narr?
+
+Probstein.
+Von einem gewissen Ritter, der bei seiner Ehre schwur, die
+Pfannkuchen w�ren gut, und bei seiner Ehre schwur, der Senf w�re
+nichts nutz.  Nun behaupte ich: die Pfannkuchen waren nichts nutz
+und der Senf gut, und doch hatte der Ritter nicht falsch geschworen.
+
+Celia.
+Wie beweiset Ihr das in der H�lle und F�lle Eurer Gelahrtheit ?
+
+Rosalinde.
+Ei ja, nun nehmt Eurer Weisheit den Maulkorb ab.
+
+Probstein.
+Tretet beide vor, streicht euer Kinn und schw�rt bei euren B�rten,
+da� ich ein Schelm bin.
+
+Celia.
+Bei unsern B�rten, wenn wir welche h�tten, du bist einer.
+
+Probstein.
+Bei meiner Schelmerei, wenn ich sie h�tte, dann w�r ich einer.
+Aber wenn ihr bei dem schw�rt, was nicht ist, so habt ihr nicht
+falsch geschworen; ebensowenig der Ritter, der auf seine Ehre
+schwur, denn er hatte niemals welche, oder wenn auch, so hatte er
+sie l�ngst weggeschworen, ehe ihm diese Pfannkuchen und der Senf zu
+Gesicht kamen.
+
+Celia.
+Ich bitte dich, wen meinst du?
+
+Probstein.
+Einen, den der alte Friedrich, Euer Vater, liebt.
+
+Celia.
+Meines Vaters Liebe reicht hin, ihm zur Ehre zu verhelfen.  Genug,
+sprecht nicht mehr von ihm; Ihr werdet gewi� n�chstens einmal f�r
+Euren b�sen Leumund gest�upt.
+
+Probstein.
+Desto schlimmer, da� Narren nicht mehr weislich sagen d�rfen, was
+weise Leute n�rrisch tun.
+
+Celia.
+Meiner Treu, du sagst die Wahrheit; denn seit das bi�chen Witz, das
+die Narren haben, zum Schweigen gebracht worden ist, so macht das
+bi�chen Narrheit, das weise Leute besitzen, gro�e Parade.  Da kommt
+Monsieur Le Beau.
+(Le Beau tritt auf.)
+
+Rosalinde.
+Den Mund voll von Neuigkeiten.
+
+Celia.
+Die er uns zukommen lassen wird, wie Tauben ihre Jungen f�ttern.
+
+Rosalinde.
+Da werden wir also mit Neuigkeiten gem�stet.
+
+Celia.
+Desto besser, so stehn wir ansehnlicher zu Markt.  Guten Morgen,
+Monsieur Le Beau!  was gibt es Neues?
+
+Le Beau.
+Sch�ne Prinzessin, Euch ist ein guter Spa� entgangen.
+
+Celia.
+Ein Spa�?  wohin?
+
+Le Beau.
+Wohin, Madame?  wie soll ich das beantworten?
+
+Rosalinde.
+Wie es Witz und Gl�ck verleihen.
+
+Probstein.
+Oder wie das Verh�ngnis beschlie�t.
+
+Celia.
+Gut gesagt!  Das war wie mit der Kelle angeworfen.
+
+Probstein.
+Ja, wenn ich meinen Geschmack nicht behaupte--
+
+Rosalinde.
+So verlierst du deinen alten Beigeschmack.
+
+Le Beau.
+Ihr bringt mich aus der Fassung, meine Damen.  Ich wollte euch von
+einem wackern Ringen erz�hlen, das ihr vers�umt habt, mit anzusehn.
+
+Rosalinde.
+Sagt uns doch, wie es dabei herging.
+
+Le Beau.
+Ich will euch den Anfang erz�hlen und wenn es euer Gnaden gef�llt,
+k�nnt ihr das Ende ansehn; denn das Beste mu� noch geschehen, und
+sie kommen hieher, wo ihr seid, um es auszuf�hren.
+
+Celia.
+Gut, den Anfang, der tot und begraben ist.
+
+Le Beau.
+Es kam ein alter Mann mit seinen drei S�hnen--
+
+Celia.
+Ich wei� ein altes M�rchen, das so anf�ngt.
+
+Le Beau.
+Drei stattliche junge Leute, vortrefflich gewachsen und m�nnlich--
+
+Rosalinde.
+Mit Zetteln am Halse: "Kund und zu wissen sei m�nniglich"--
+
+Le Beau.
+Der �lteste unter den dreien rang mit Charles, des Herzogs Ringer.
+Charles warf ihn in einem Augenblick nieder und brach ihm drei
+Rippen entzwei, so da� fast keine Hoffnung f�r sein Leben ist;
+ebenso richtete er den zweiten und den dritten zu.  Dort liegen sie,
+und der arme alte Mann, ihr Vater, erhebt eine so j�mmerliche
+Wehklage �ber sie, da� alle Zuschauer ihm mit Weinen beistehn.
+
+Rosalinde.
+Ach!
+
+Probstein.
+Aber welches ist der Spa�, Herr, der den Damen entgangen ist?
+
+Le Beau.
+Nun, der, wovon ich spreche.
+
+Probstein.
+So wird man alle Tage kl�ger!  Das ist das erste, was ich h�re, da�
+Rippenentzweibrechen ein Spa� f�r Damen ist.
+
+Celia.
+Ich auch, das versichere ich dir.
+
+Rosalinde.
+Aber ist denn noch jemand da, den nach dieser Seitenmusik gel�stet?
+Ist noch sonst wer auf zerbrochene Rippen erpicht?--Sollen wir das
+Ringen mit ansehen, Muhme?
+
+Le Beau.
+Ihr m��t, wenn ihr hier bleibt; denn sie haben diesen Platz zum
+Kampfe gew�hlt; er wird gleich vor sich gehn.
+
+Celia.
+Wirklich, dort kommen sie.  La� uns nun bleiben und zusehn.
+
+(Trompetensto�.  Herzog Friedrich, Herren vom Hofe, Orlando,
+Charles und Gefolge.)
+
+Herzog Friedrich.
+Wohlan!  Da der junge Mensch nicht h�ren will, so mag er auf seine
+eigne Gefahr vorwitzig sein.
+
+Rosalinde.
+Ist der dort der Mann?
+
+Le Beau.
+Das ist er, mein Fr�ulein.
+
+Celia.
+Ach, er ist zu jung, doch hat er ein siegreiches Ansehn.
+
+Herzog Friedrich.
+Ei, Tochter und Nichte!  Seid ihr hierher geschlichen, um das
+Ringen zu sehn?
+
+Rosalinde.
+Ja, mein F�rst, wenn Ihr uns g�tigst erlaubt.
+
+Herzog Friedrich.
+Ihr werdet wenig Vergn�gen daran finden: das kann ich euch sagen;
+das Paar ist zu ungleich.  Aus Mitleid mit des Ausforderers Jugend
+m�chte ich ihn gern davon abbringen, allein er l��t sich nicht
+raten.  Sprecht mit ihm, Fr�ulein; seht, ob Ihr ihn bewegen k�nnt.
+
+Celia.
+Ruft ihn hieher, guter Monsieur Le Beau.
+
+Herzog Friedrich.
+Tut das, ich will nicht dabei sein.
+
+(Der Herzog entfernt sich.)
+
+Le Beau.
+Herr Ausforderer, die Prinzessinnen verlangen Euch zu sprechen.
+
+Orlando.
+Ich bin ehrerbietigst zu ihrem Befehl.
+
+Rosalinde.
+Junger Mann, habt Ihr Charles, den Ringer, herausgefordert?
+
+Orlando.
+Nein, sch�ne Prinzessin; er ist der allgemeine Ausforderer; ich
+komme blo�, wie andre auch, die Kr�fte meiner Jugend gegen ihn zu
+versuchen.
+
+Celia.
+Junger Mann, Euer Mut ist zu k�hn f�r Eure Jahre.  Ihr habt einen
+grausamen Beweis von der St�rke dieses Menschen gesehn: wenn Ihr
+Euch selbst mit Euren Augen s�het oder mit Eurem Urteil erkanntet,
+so w�rde Euch die Furcht vor dem Ausgange ein gleicheres Wagst�ck
+anraten.  Wir bitten Euch um Euer selbst willen, an Eure Sicherheit
+zu denken und das Unternehmen aufzugeben.
+
+Rosalinde.
+Tut das, junger Mann; Euer Ruf soll deswegen nicht herabgesetzt
+werden.  Es soll unser Gesuch beim Herzoge sein, da� das Ringen
+nicht vor sich gehe.
+
+Orlando.
+Ich beschw�re euch, straft mich nicht mit euren nachteiligen
+Gedanken; ich erkenne mich selbst f�r schuldig, da� ich so sch�nen
+und vortrefflichen Fr�ulein irgend etwas verweigre.  La�t nur eure
+sch�nen Augen und freundlichen W�nsche mich zu meiner Pr�fung
+geleiten.  Wenn ich zu Boden geworfen werde, so kommt nur Schmach
+�ber jemand, der noch niemals in Ehren war; wenn umgebracht, so ist
+nur Jemand tot, der sich nichts andres w�nscht.  Ich werde meinen
+Freunden kein Leid zuf�gen, denn ich habe keine, mich zu beweinen,
+und der Welt keinen Nachteil, denn ich besitze nichts in ihr; ich
+f�lle in der Welt nur einen Platz aus, der besser besetzt werden
+kann, wenn ich ihn r�ume.
+
+Rosalinde.
+Ich wollte, das bi�chen St�rke, das ich habe, w�re mit Euch.
+
+Celia.
+Meine auch, um ihre zu erg�nzen.
+
+Rosalinde.
+Fahrt wohl!  Gebe der Himmel, da� ich mich in Euch betr�ge.
+
+Celia.
+Eures Herzens Wunsch werde Euch zuteil.
+
+Charles.
+Wohlan, wo ist der junge Held, dem so danach gel�stet, bei seiner
+Mutter Erde zu liegen?
+
+Orlando.
+Hier ist er, Herr; aber sein Wille hegt eine anst�ndigere Absicht.
+
+Herzog Friedrich.
+Ihr sollt nur (einen) Gang machen.
+
+Charles.
+Ich stehe Euer Hoheit daf�r, Ihr werdet ihn nicht zu einem zweiten
+bereden, nachdem Ihr ihn so dringend vom ersten abgemahnt habt.
+
+Orlando.
+Ihr denkt nachher �ber mich zu spotten: so braucht Ihr's nicht
+vorher zu tun.  Doch kommt zur Sache.
+
+Rosalinde.
+Nun, Herkules steh dir bei, junger Mann!
+
+Celia.
+Ich wollte, ich w�re unsichtbar, um dem starken Manne das Bein
+unterwegs ziehen zu k�nnen.
+
+(Charles und Orlando ringen.)
+
+Rosalinde.
+O herrlicher junger Mann!
+
+Celia.
+H�tte ich einen Donnerkeil in meinen Augen, so wei� ich, wer zu
+Boden sollte.
+
+(Charles wird zu Boden geworfen.  Jubelgeschrei.)
+
+Herzog Friedrich.
+Nicht weiter!  nicht weiter!
+
+Orlando.
+Doch, wenn es Euer Hoheit beliebt!  ich bin noch nicht recht ins
+Schnaufen gekommen.
+
+Herzog Friedrich.
+Wie steht's mit dir, Charles?
+
+Le Beau.
+Er kann nicht sprechen, mein F�rst.
+
+Herzog Friedrich.
+Tragt ihn weg.  Wie ist dein Name, junger Mensch?
+
+Orlando.
+Orlando, mein F�rst, der j�ngste Sohn des Freiherrn Roland de Boys.
+
+Herzog Friedrich.
+Ich wollt, du w�rst sonst jemands Sohn gewesen.
+Die Welt hielt deinen Vater ehrenwert,
+Doch ich erfand ihn stets als meinen Feind.
+Du w�rdst mir mehr mit dieser Tat gefallen,
+Wenn du aus einem andern Hause stammtest.
+Doch fahre wohl!  du bist ein wackrer J�ngling!
+H�ttst du 'nen andern Vater nur genannt!
+
+(Herzog Friedrich mit Gefolge und Le Beau ab.)
+
+Celia.
+W�r ich mein Vater, M�hmchen, t�t ich dies?
+
+Orlando.
+Ich bin weit stolzer, Rolands Sohn zu sein,
+Sein j�ngster Sohn--und tauschte nicht den Namen,
+W�rd ich auch Friedrichs angenommner Erbe.
+
+Rosalinde.
+Mein Vater liebte Roland wie sein Leben,
+Und alle Welt war so wie er gesinnt.
+H�tt ich zuvor den jungen Mann gekannt,
+Den Bitten h�tt ich Tr�nen zugesellt,
+Eh er sich so gewagt.
+
+Celia.
+Komm, liebe Muhme,
+La� uns ihm danken und ihm Mut einsprechen;
+Denn meines Vaters rauhe Art und Groll
+Gehn mir ans Herz.--Herr, Ihr habt Lob verdient;
+Wenn Ihr im Lieben Eur Versprechen haltet,
+Wie Ihr verdunkelt, was man sich versprach,
+Ist Eure Liebste gl�cklich.
+
+Rosalinde (gibt ihm eine Kette von ihrem Halse).
+Junger Mann,
+Tragt dies von mir, von einer Gl�ckversto�nen,
+Die mehr wohl g�be, fehlt' es nicht an Mitteln.
+Nun, gehn wir, Muhme?
+
+Celia.
+Ja--lebt wohl denn, edler Junker!
+
+Orlando.
+Kann ich nicht sagen: Dank?  mein be�res Teil
+Liegt ganz darnieder; was noch aufrecht steht,
+Ist nur ein Wurfziel, blo� ein leblos Holz.
+
+Rosalinde.
+Er ruft uns nach--mein Stolz sank mit dem Gl�ck--
+Ich frag ihn, was er will.--Rieft Ihr uns, Herr?--
+Herr, Ihr habt brav gek�mpft und mehre noch
+Besiegt als Eure Feinde.
+
+Celia.
+Komm doch, M�hmchen.
+
+Rosalinde.
+Ich komme schon.  Lebt wohl!
+
+(Rosalinde und Celia ab.)
+
+Orlando.
+Welch ein Gef�hl belastet meine Zunge?
+Ich kann nicht reden, lud sie gleich mich ein.
+
+(Le Beau kommt.)
+
+Armer Orlando!  du bist �berw�ltigt,
+Charles oder etwas Schw�chers siegt dir ob.
+
+Le Beau.
+Mein guter Herr, ich rat aus Freundschaft Euch
+Verla�t den Ort; wiewohl Ihr hohen Preis
+Euch habt erworben, Lieb und echten Beifall,
+So steht doch so des Herzogs Stimmung jetzt,
+Da� er mi�deutet, was Ihr nun getan.
+Der F�rst ist launisch; was er ist, in Wahrheit,
+Ziemt besser Euch zu sehn, als mir zu sagen.
+
+Orlando.
+Ich dank Euch, Herr, und bitt Euch, sagt mir dies:
+Wer war des Herzogs Tochter von den beiden,
+Die hier beim Ringen waren?
+
+Le Beau.
+Von beiden keine, wenn's nach Sitten gilt;
+Doch wirklich ist die kleinste seine Tochter,
+Die andre, Tochter des verbannten Herzogs,
+Von ihrem Oheim hier zur�ckbehalten
+Zu seiner Tochter Umgang; ihre Liebe
+Ist z�rtlicher als schwesterliche Bande.
+Doch sag ich Euch: seit kurzem hegt der Herzog
+Unwillen gegen seine holde Nichte,
+Der auf die Ursach blo� gegr�ndet ist,
+Da� sie die Welt um ihre Gaben preist
+Und sie beklagt um ihres Vaters willen;
+Und, auf mein Wort, sein Ingrimm auf das Fr�ulein
+Bricht einmal pl�tzlich los.--Lebt wohl, mein Herr!
+Dereinst in einer bessern Welt als diese
+W�nsch ich mir mehr von Eurer Lieb und Umgang.
+
+Orlando.
+Ich bleib Euch sehr verbunden; lebet wohl!
+
+(Le Beau ab.)
+
+So mu� ich aus dem Dampf in die Erstickung,
+Von Herzogs Druck in Bruders Unterdr�ckung.--
+Doch Engel Rosalinde!--
+
+(Ab.)
+
+
+
+Dritte Szene
+
+Ein Zimmer im Palast
+
+(Celia und Rosalinde treten auf)
+
+
+Celia.
+Ei, M�hmchen!  ei, Rosalinde!  Cupido sei uns gn�dig, nicht ein
+Wort?
+
+Rosalinde.
+Nicht eins, das man einem Hunde vorwerfen k�nnte.
+
+Celia.
+Nein, deine Worte sind zu kostbar, um sie den Hunden vorzuwerfen;
+wirf mir einige zu.  Komm, l�hme mich mit Vernunftgr�nden.
+
+Rosalinde.
+Da w�r es um zwei Muhmen geschehen, wenn die eine mit Gr�nden
+gel�hmt w�rde und die andre unklug ohne Grund.
+
+Celia.
+Aber ist das alles um deinen Vater?
+
+Rosalinde.
+Nein, etwas davon ist um meines Vaters Kind.  O wie voll Disteln
+ist diese Werktagswelt!
+
+Celia.
+Es sind nur Kletten, Liebe, die dir bei einem Festtagsspa�
+angeworfen werden.  Wenn wir nicht in gebahnten Wegen gehen, so
+haschen unsre eigenen R�cke sie auf.
+
+Rosalinde.
+Vom Rocke k�nnt ich sie absch�tteln; diese Kletten stecken mir im
+Herzen.
+
+Celia.
+Huste sie weg.
+
+Rosalinde.
+Das wollte ich wohl tun, wenn ich ihn herbeihusten k�nnte.
+
+Celia.
+Ei was!  ringe mit deinen Neigungen.
+
+Rosalinde.
+Ach, sie nehmen die Partei eines bessern Ringers, als ich bin.
+
+Celia.
+Helfe dir der Himmel!  Du wirst dich zu seiner Zeit mit ihm messen,
+gilt es auch eine Niederlage.--Doch la� uns diese Scherze abdanken
+und in vollem Ernste sprechen.  Ist es m�glich, da� du mit einem
+Male in eine so gewaltige Zuneigung zu des alten Herrn Roland
+j�ngstem Sohn verfallen konntest?
+
+Rosalinde.
+Der Herzog, mein Vater, liebte seinen Vater �ber alles.
+
+Celia.
+Folgt daraus, da� du seinen Sohn �ber alles lieben mu�t?  Nach
+dieser Folgerung m��te ich ihn hassen, denn mein Vater ha�t seinen
+Vater �ber alles, und doch hasse ich den Orlando nicht.
+
+Rosalinde.
+Nein gewi�, hasse ihn nicht, um meinetwillen!
+
+Celia.
+Warum sollte ich?  verdient er nicht alles Gute?
+
+(Herzog Friedrich kommt mit Herren vom Hofe.)
+
+Rosalinde.
+Um deswillen la� mich ihn lieben, und liebe du ihn, weil ich es tue.
+--Sieh, da kommt der Herzog.
+
+Celia.
+Die Augen voller Zorn.
+
+Herzog Friedrich.
+Fr�ulein, in schnellster Eile schickt Euch an und weicht von unserm
+Hof.
+
+Rosalinde.
+Ich, Oheim?
+
+Herzog Friedrich.
+Ja, Ihr, Nichte.
+Wenn in zehn Tagen du gefunden wirst
+Von unserm Hofe binnen zwanzig Meilen,
+Bist du des Todes.
+
+Rosalinde.
+Ich ersuch Eur Gnaden,
+Gebt mir die Kenntnis meines Fehlers mit.
+Wenn ich Verkehr pfleg mit dem eignen Selbst,
+Ja irgend meine eignen W�nsche kenne,
+Wenn ich nicht tr�um und nicht von Sinnen bin,
+Wie ich nicht hoffe: nie, mein werter Oheim,
+Selbst nicht mit ungeborenen Gedanken
+Beleidigt ich Eur Hoheit.
+
+Herzog Friedrich.
+So sprechen stets Verr�ter;
+Best�nd in Worten ihre Reinigung,
+So sind sie schuldlos wie die Heiligkeit.
+La� dir's gen�gen, da� ich dir nicht traue.
+
+Rosalinde.
+Doch macht Eur Mi�traun nicht mich zum Verr�ter;
+Sagt mir, worauf der Anschein denn beruht?
+
+Herzog Friedrich.
+Genug, du bist die Tochter deines Vaters.
+
+Rosalinde.
+Das war ich, als Eur Hoheit ihm sein Land nahm;
+Das war ich, als Eur Hoheit ihn verbannte.
+Verr�terei wird nicht vererbt, mein F�rst,
+Und �berk�men wir von Eltern sie,
+Was geht's mich an?  Mein Vater �bte keine.
+Drum, bester Herr, verkennt mich nicht so sehr,
+Zu glauben, meine Armut sei verr�trisch.
+
+Celia.
+Mein teuerster Gebieter, h�rt mich an!
+
+Herzog Friedrich.
+Ja, Celia, dir zulieb lie� ich sie bleiben,
+Sonst irrte sie umher mit ihrem Vater.
+
+Celia.
+Ich bat nicht damals, da� sie bleiben m�chte,
+Ihr wolltet es, Ihr waret selbst erweicht.
+Ich war zu jung um (die) Zeit, sie zu sch�tzen:
+Jetzt kenn ich sie; wenn sie verr�trisch ist,
+So bin ich's auch; wir schliefen stets beisammen,
+Erwachten, lernten, spielten miteinander,
+Und wo wir gingen, wie der Juno Schw�ne,
+Da gingen wir gepaart und unzertrennlich.
+
+Herzog Friedrich.
+Sie ist zu fein f�r dich, und ihre Sanftmut,
+Ihr Schweigen selbst und ihre Duldsamkeit
+Spricht zu dem Volk, und es bedauert sie.
+Du T�rin, du!  Sie stiehlt dir deinen Namen,
+Und du scheinst gl�nzender und tugendreicher,
+Ist sie erst fort.  Drum �ffne nicht den Mund;
+Fest und unwiderruflich ist mein Spruch,
+Der �ber sie erging: sie ist verbannt.
+
+Celia.
+Sprecht denn dies Urteil �ber mich, mein F�rst!
+Ich kann nicht leben au�er ihrer N�he.
+
+Herzog Friedrich.
+Du bist 'ne T�rin.--Nichte, seht Euch vor!
+Wenn Ihr die Zeit vers�umt--auf meine Ehre
+Und kraft der W�rde meines Worts: Ihr sterbt.
+
+(Herzog und Gefolge ab.)
+
+Celia.
+O arme Rosalinde, wohin willst du?
+Willst du die V�ter tauschen?  So nimm meinen.
+Ich bitt dich, sei nicht trauriger als ich!
+
+Rosalinde.
+Ich habe ja mehr Ursach.
+
+Celia.
+Nicht doch, Muhme.
+Sei nur getrost!  Wei�t du nicht, da� der Herzog
+Mich, seine Tochter, hat verbannt?
+
+Rosalinde.
+Das nicht.
+
+Celia.
+Das nicht?  So fehlt die Liebe Rosalinden,
+Die dich belehrt, da� du und ich nur eins.
+Soll man uns trennen?  Solln wir scheiden, S��e?
+Nein, mag mein Vater andre Erben suchen.
+Ersinne nur mit mir, wie wir entfliehn,
+Wohin wir gehn und was wir mit uns nehmen;
+Und suche nicht, die Last auf dich zu ziehn,
+Dein Leid zu tragen und mich auszuschlie�en.
+Bei diesem Himmel, bleich von unserm Gram,
+Sag, was du willst, ich gehe doch mit dir.
+
+Rosalinde.
+Wohl!  wohin gehn wir?
+
+Celia.
+Zu meinem Oheim im Ardenner Wald.
+
+Rosalinde.
+Doch ach, was f�r Gefahr wird es uns bringen,
+So weit zu reisen, M�dchen wie wir sind?
+Sch�nheit lockt Diebe schneller noch als Gold.
+
+Celia.
+Ich stecke mich in arme, niedre Kleidung
+Und streiche mein Gesicht mit Ocker an;
+Tu ebendas, so ziehn wir unsern Weg
+Und reizen keine R�uber.
+
+Rosalinde.
+W�r's nicht besser,
+Weil ich von mehr doch als gemeinem Wuchs,
+Da� ich mich tr�ge v�llig wie ein Mann?
+Den schmucken kurzen S�bel an der H�fte
+Den Jagdspie� in der Hand, und--l�g im Herzen
+Auch noch so viele Weiberfurcht versteckt--
+Wir s�hen kriegerisch und prahlend drein,
+Wie manche andre M�nnermemmen auch,
+Die mit dem Ansehn es zu zwingen wissen.
+
+Celia.
+Wie willst du hei�en, wenn du nun ein Mann bist?
+
+Rosalinde.
+Nicht schlechter als der Page Jupiters;
+Denk also dran, mich Ganymed zu nennen.
+Doch wie willst du genannt sein?
+
+Celia.
+Nach etwas, das auf meinen Zustand pa�t:
+Nicht l�nger Celia, sondern Aliena.
+
+Rosalinde.
+Wie, Muhme, wenn von Eures Vaters Hof
+Wir nun den Schalksnarrn wegzustehlen suchten,
+W�r er uns nicht ein Trost auf unsrer Reise?
+
+Celia.
+Oh, der geht mit mir in die weite Welt,
+Um den la� mich nur werben.  La� uns gehn
+Und unsern Schmuck und Kostbarkeiten sammeln,
+Die beste Zeit und sichern Weg bedenken
+Vor der Verfolgung, die nach meiner Flucht
+Wird angestellt.  So ziehn wir denn in Frieden,
+Denn Freiheit ist uns, nicht der Bann beschieden.
+
+(Ab.)
+
+
+
+
+Zweiter Aufzug
+
+
+
+Erste Szene
+
+Der Ardenner Wald
+
+(Der Herzog, Amiens und andre Edelleute in J�gerkleidung)
+
+
+Herzog.
+Nun, meine Br�der und des Banns Genossen,
+Macht nicht Gewohnheit s��er dieses Leben
+Als das gemalten Pomps?  Sind diese W�lder
+Nicht sorgenfreier als der falsche Hof?
+Wir f�hlen hier die Bu�e Adams nur,
+Der Jahrszeit Wechsel; so den eisgen Zahn
+Und b�ses Schelten von des Winters Sturm;
+Doch, wenn er bei�t und auf den Leib mir bl�st,
+Bis ich vor K�lte schaudre, sag ich l�chelnd:
+"Dies ist nicht Schmeichelei; Ratgeber sind's,
+Die f�hlbar mir bezeugen, wer ich bin."
+S�� ist die Frucht der Widerw�rtigkeit,
+Die gleich der Kr�te, h��lich und voll Gift,
+Ein k�stliches Juwel im Haupte tr�gt.
+Dies unser Leben, vom Get�mmel frei,
+Gibt B�umen Zungen, findet Schrift im Bach,
+In Steinen Lehre, Gutes �berall.
+
+Amiens.
+Ich tauscht es selbst nicht; gl�cklich ist Eur Hoheit,
+Die auszulegen wei� des Schicksals H�rte
+In solchem ruhigen und milden Sinn.
+
+Herzog.
+Kommt, wolln wir gehen und uns Wildbret t�ten?
+Doch schmerzt's, da� wir den armen fleckgen Narren,
+Die B�rger sind in dieser �den Stadt,
+Auf eignem Grund mit hakgen Spitzen blutig
+Die runden H�ften rei�en.
+
+Erster Edelmann.
+Ja, mein F�rst,
+Den melancholschen Jacques kr�nkt dieses sehr;
+Er schw�rt, da� Ihr auf diesem Weg mehr Unrecht
+Als Euer Bruder �bt, der Euch verbannt.
+Heut schl�pften ich und Amiens hinter ihn,
+Als er sich hingestreckt an einer Eiche,
+Wovon die alte Wurzel in den Bach
+Hineinragt, der da braust den Wald entlang;
+Es kam dahin ein arm versch�chtert Wild,
+Das von des J�gers Pfeil besch�digt war,
+Um auszuschmachten; und gewi�, mein F�rst,
+Das arme Tier stie� solche Seufzer aus,
+Da� jedesmal sein ledern Kleid sich dehnte
+Zum Bersten fast, und dicke runde Tr�nen
+L�ngs der unschuldgen Nase liefen kl�glich
+Einander nach; und der behaarte Narr,
+Genau bemerkt vom melancholschen Jacques,
+Stand so am letzten Rand des schnellen Bachs,
+Mit Tr�nen ihn vermehrend.
+
+Herzog.
+Nun, und Jacques?
+Macht er dies Schauspiel nicht zur Sittenpredigt?
+
+Erster Edelmann.
+O ja, in tausend Gleichnissen.  Zuerst
+Das Weinen in den unbed�rftgen Strom:
+"Ach, armer Hirsch!" so sagt' er, "wie der Weltling
+Machst du dein Testament: gibst dem den Zuschu�,
+Der schon zuviel hat."--Dann, weil er allein
+Und von den samtnen Freunden war verlassen:
+"Recht!" sagt' er, "so verteilt das Elend stets
+Des Umgangs Flut."--Alsbald ein Rudel Hirsche,
+Der Weide voll, sprang sorglos an ihm hin,
+Und keiner stand zum Gru�e.  "Ja", rief Jacques,
+"Streift hin, ihr fetten, wohlgen�hrten B�rger!
+So ist die Sitte eben; warum schaut ihr
+Nach dem bankrotten, armen Schelme da?"
+Auf diese Art durchbohrt er schm�hungsvoll
+Den Kern vom Lande, Stadt und Hof, ja selbst
+Von diesem unserm Leben; schw�rt, da� wir
+Nichts als Tyrannen, R�uber, Schlimmres noch,
+Weil wir die Tiere schrecken, ja sie t�ten
+In ihrem eignen heimatlichen Sitz.
+
+Herzog.
+Und lie�et ihr in der Betrachtung ihn?
+
+Erster Edelmann.
+Ja, gn�dger Herr, beweinend und besprechend
+Das schluchzende Gesch�pf.
+
+Herzog.
+Zeigt mir den Ort,
+Ich lasse gern in diesen d�stern Launen
+Mich mit ihm ein; er ist dann voller Sinn.
+
+Erster Edelmann.
+Ich will Euch zu ihm bringen.
+
+(Ab.)
+
+
+
+Zweite Szene
+
+Ein Zimmer im Palaste
+
+(Herzog Friedrich, Herren vom Hofe und Gefolge treten auf)
+
+
+Herzog Friedrich.
+Ist es denn m�glich, da� sie niemand sah?
+Es kann nicht sein!  nein, Schurken hier am Hof
+Sind im Verst�ndnis mit und gaben's zu.
+
+Erster Edelmann.
+Ich h�rte nicht, da� irgendwer sie sah.
+Die Fraun im Dienste ihrer Kammer brachten
+Sie in ihr Bett und fanden morgens fr�h
+Das Bett von ihrem Fr�ulein ausgeleert.
+
+Zweiter Edelmann.
+Mein Herzog, der Hanswurst, den Euer Hoheit
+Oft zu belachen pflegt', wird auch vermi�t.
+Hesperia, der Prinzessin Kammerfr�ulein,
+Bekennt, sie habe insgeheim belauscht,
+Wie Eure Nicht' und Tochter �beraus
+Geschick und Anstand jenes Ringers lobten,
+Der j�ngst den nervgen Charles darniederwarf;
+Sie glaubt, wohin sie auch gegangen sind,
+Der J�ngling sei gewi�lich ihr Begleiter.
+
+Herzog Friedrich.
+Schickt hin zum Bruder, holt den Braven her;
+Ist der nicht da, bringt mir den Bruder selbst:
+Der soll ihn mir schon finden.  Tut dies schnell;
+La�t Nachsuchung und Forschen nicht ermatten,
+Die t�richten Verlaufnen heimzubringen.
+
+(Ab.)
+
+
+
+Dritte Szene
+
+Vor Olivers Hause
+
+(Orlando und Adam begegnen sich)
+
+
+Orlando.
+Wer ist da?
+
+Adam.
+Was?  Ihr, mein junger Herr?--O edler Herr!
+O mein geliebter Herr!  O Ihr, Ged�chtnis
+Des alten Roland!  Sagt, was macht Ihr hier?
+Weswegen �bt Ihr Tugend?  schafft Euch Liebe?
+Und warum seid Ihr edel, stark und tapfer?
+Was wart Ihr so erpicht, den st�mmgen K�mpfer
+Des launenhaften Herzogs zu bezwingen?
+Eur Ruhm kam allzu schnell vor Euch nach Haus.
+Wi�t Ihr nicht, Junker, da� gewissen Leuten
+All ihre Gaben nur als Feinde dienen?
+So, bester Herr, sind Eure Tugenden
+An Euch geweihte, heilige Verr�ter.
+O welche Welt ist dies, wenn das, was herrlich,
+Den, der es hat, vergiftet!
+
+Orlando.
+Nun denn, was gibt's?
+
+Adam.
+Oh, ungl�ckselger J�ngling!
+Geht durch dies Tor nicht; unter diesem Dach
+Lebt aller Eurer Trefflichkeiten Feind:
+Eur Bruder--nein, kein Bruder, doch der Sohn--
+Nein, nicht der Sohn; ich will nicht Sohn ihn nennen
+Des, den ich seinen Vater hei�en wollte--
+Hat Euer Lob geh�rt und denkt zu Nacht
+Die Wohnung zu verbrennen, wo Ihr liegt,
+Und Euch darinnen.  Schl�gt ihm dieses fehl,
+So sucht er andre Weg, Euch umzubringen;
+Ich habe ihn belauscht und seinen Anschlag.
+Kein Wohnort ist dies Haus, 'ne M�rdergrube;
+Verabscheut, f�rchtet es, geht nicht hinein.
+
+Orlando.
+Sag, wohin willst du, Adam, da� ich gehe?
+
+Adam.
+Gleichviel wohin, ist es nur hieher nicht.
+
+Orlando.
+Was?  willst du, da� ich gehn und Brot soll betteln?
+Wohl gar mit schn�dem, tollem Schwert erzwingen
+Als Stra�enr�uber meinen Unterhalt?
+Das mu� ich tun, sonst wei� ich nichts zu tun;
+Doch will ich dies nicht, komme, was da will.
+Ich setze mich der Bosheit lieber aus
+Des abgefallnen Bluts und blutgen Bruders.
+
+Adam.
+Nein, tut das nicht!  ich hab f�nfhundert Kronen,
+Sorgsam ersparten Lohn von Eurem Vater;
+Ich legt ihn bei, mein Pfleger dann zu sein,
+Wann mir der Dienst erlahmt in schwachen Gliedern
+Und man das Alter in die Ecke wirft.
+Nehmt das, und der die jungen Raben f�ttert,
+Ja, sorgsam f�r den Sperling Vorrat h�uft,
+Sei meines Alters Trost!  Hier ist das Gold;
+Nehmt alles, la�t mich Euren Diener sein.
+Seh ich gleich alt, bin ich doch stark und r�stig;
+Denn nie in meiner Jugend mischt ich mir
+Hei� und aufr�hrerisch Getr�nk ins Blut.
+Noch ging ich je mit unversch�mter Stirn
+Den Mitteln nach zu Schw�ch und Unverm�gen.
+Drum ist mein Alter wie ein frischer Winter,
+Kalt, doch erquicklich.  La�t mich mit Euch gehn!
+Ich tu den Dienst von einem j�ngern Mann
+In aller Eurer Notdurft und Gesch�ften.
+
+Orlando.
+O guter Alter, wie so wohl erscheint
+in dir der treue Dienst der alten Welt,
+Da Dienst um Pflicht sich m�hte, nicht um Lohn!
+Du bist nicht nach der Sitte dieser Zeiten,
+Wo niemand m�hn sich will als um Bef�rdrung,
+Und kaum da� er sie hat, erlischt sein Dienst
+Gleich im Besitz.  So ist es nicht mit dir.
+Doch, armer Greis, du pflegst den d�rren Stamm,
+Der keine Bl�te mehr vermag zu treiben
+F�r alle deine Sorgsamkeit und M�h.
+Doch komm wir brechen miteinander auf;
+Und eh wir deinen Jugendlohn verzehrt,
+Ist uns ein friedlich kleines Los beschert.
+
+Adam.
+Auf, Herr!  und bis zum letzten Atemzug
+Folg ich Euch nach, ergeben ohne Trug.
+Von siebzehn Jahren bis zu achtzig schier
+Wohnt ich, nun wohn ich ferner nicht mehr hier.
+Um siebzehn ziemt's, da� mit dem Gl�ck man buhle,
+Doch achtzig ist zu alt f�r diese Schule.
+K�nnt ich vom Gl�ck nur diesen Lohn erwerben,
+Nicht Schuldner meines Herrn und sanft zu sterben!
+
+(Ab.)
+
+
+
+Vierte Szene
+
+Der Wald
+
+(Rosalinde als Knabe, Celia, wie eine Sch�ferin gekleidet, und
+Probstein treten auf)
+
+
+Rosalinde.
+O Jupiter!  wie matt sind meine Lebensgeister!
+
+Probstein.
+Ich frage nicht nach meinen Lebensgeistern, wenn nur meine Beine
+nicht matt w�ren.
+
+Rosalinde.
+Ich w�re imstande, meinen Mannskleidern eine Schande anzutun und
+wie ein Weib zu weinen.  Aber ich mu� das schw�chere Gef��
+unterst�tzen, denn Wams und Hosen m�ssen sich gegen den Unterrock
+herzhaft beweisen.  Also Herz gefa�t, liebe Aliena!
+
+Celia.
+Ich bitte dich, ertrage mich, ich kann nicht weiter.
+
+Probstein.
+Ich f�r mein Teil wollte Euch lieber ertragen als tragen.  Und doch
+tr�ge ich kein Kreuz, wenn ich Euch tr�ge; denn ich bilde mir ein,
+Ihr habt keinen Kreuzer in Eurem Beutel.
+
+Rosalinde.
+Gut, dies ist der Ardenner Wald.
+
+Probstein.
+Ja, nun bin ich in den Ardennen, ich Narr; da ich zu Hause war, war
+ich an einem bessern Ort, aber Reisende m�ssen sich schon begn�gen.
+
+Rosalinde.
+Ja, tut das, guter Probstein.--Seht, wer kommt da?  Ein junger Mann
+und ein alter in tiefem Gespr�ch.
+
+(Corinnus und Silvius treten auf.)
+
+Corinnus.
+Dies ist der Weg, da� sie dich stets verschm�ht.
+
+Silvius.
+O w��test du, Corinnus, wie ich liebe!
+
+Corinnus.
+Zum Teil errat ich's, denn einst liebt ich auch.
+
+Silvius.
+Nein, Freund: alt wie du bist, err�tst du's nicht,
+Warst du auch jung ein so getreuer Sch�fer,
+Als je aufs mittern�chtge Kissen seufzte;
+Allein, wenn deine Liebe meiner gleich--
+Zwar glaub ich, keiner liebte jemals so--
+Zu wieviel h�chlich ungereimten Dingen
+Hat deine Leidenschaft dich hingerissen?
+
+Corinnus.
+Zu Tausenden, die ich vergessen habe.
+
+Silvius.
+O dann hast du so herzlich nie geliebt!
+Entsinnst du dich der kleinsten Torheit nicht,
+In welche dich die Liebe je gest�rzt,
+So hast du nicht geliebt;
+Und hast du nicht gesessen, wie ich jetzt,
+Den H�rer mit der Liebsten Preis erm�dend,
+So hast du nicht geliebt;
+Und brachst du nicht von der Gesellschaft los
+Mit eins, wie jetzt die Leidenschaft mich hei�t,
+So hast du nicht geliebt.--O Ph�be!  Ph�be!  Ph�be!
+
+(Ab.)
+
+
+Rosalinde.
+Ach, armer Sch�fer!  deine Wunde suchend,
+Hab ich durch schlimmes Gl�ck die meine funden.
+
+Probstein.
+Und ich meine.  Ich erinnre mich, da ich verliebt war, da� ich
+meinen Degen an einem Stein zerstie� und hie� ihn das daf�r
+hinnehmen, da� er sich unterst�nde, nachts zu Hannchen Freundlich
+zu kommen; und ich erinnre mich, wie ich ihr Waschholz k��te und
+die Euter der Kuh, die ihre artigen, rissigen H�nde gemolken hatten.
+Ich erinnre mich, wie ich mit einer Erbsenschote sch�n tat, als
+wenn sie es w�re, und ich nahm zwei Erbsen, gab sie ihr wieder und
+sagte mit weinenden Tr�nen: "Tragt sie um meinetwillen." Wir treuen
+Liebenden kommen oft auf seltsame Spr�nge; wie alles von Natur
+sterblich ist, so sind alle sterblich Verliebten von Natur Narren.
+
+Rosalinde.
+Du sprichst kl�ger, als du selber gewahr wirst.
+
+Probstein.
+Nein, ich werde meinen eignen Witz nicht eher gewahr werden, als
+bis ich mir die Schienbeine daran zersto�e.
+
+Rosalinde.
+O Jupiter!  o Jupiter!  Dieses Sch�fers Leidenschaft ist ganz nach
+meiner Eigenschaft.
+
+Probstein.
+Nach meiner auch, aber sie versauert ein wenig bei mir.
+
+Celia.
+Ich bitte Euch, frag einer jenen Mann,
+Ob er f�r Gold uns etwas Speise gibt.
+Ich schmachte fast zu Tode.
+
+Probstein.
+Heda, T�lpel.
+
+Rosalinde.
+Still, Narr!  Er ist dein Vetter nicht.
+
+Corinnus.
+Wer ruft?
+
+Probstein.
+Vornehmere als Ihr.
+
+Corinnus.
+Sonst w�ren sie auch wahrlich sehr gering.
+
+Rosalinde.
+Still, sag ich Euch!--Habt guten Abend, Freund!
+
+Corinnus.
+Ihr gleichfalls, feiner Herr, und allesamt.
+
+Rosalinde.
+H�r, Sch�fer, k�nnen Geld und gute Worte
+In dieser Wildnis uns Bewirtung schaffen,
+So zeigt uns, wo wir ruhn und essen k�nnen.
+Dies junge M�dchen ist vom Wandern matt
+Und schmachtet nach Erquickung.
+
+Corinnus.
+Lieber Herr,
+Sie tut mir leid, und ihretwillen mehr
+Als meinetwillen w�nscht ich, da� mein Gl�ck
+Instand mich besser setzt', ihr beizustehn.
+Doch ich bin Sch�fer eines andern Manns
+Und schere nicht die Wolle, die ich weide.
+Von filziger Gem�tsart ist mein Herr
+Und fragt nicht viel danach, den Weg zum Himmel
+Durch Werke der Gastfreundlichkeit zu finden.
+Auch stehn ihm H�tt und Herd und seine Weiden
+Jetzt zum Verkauf; und auf der Sch�ferei
+Ist, weil er nicht zu Haus, kein Vorrat da,
+Wovon ihr speisen k�nnt; doch kommt und seht!
+Von mir euch alles gern zu Dienste steht.
+
+Rosalinde.
+Wer ist's, der seine Herd' und Wiesen kauft?
+
+Corinnus.
+Der junge Sch�fer, den ihr erst gesehn,
+Den es nicht k�mmert, irgendwas zu kaufen.
+
+Rosalinde.
+Ich bitte dich, besteht's mit Redlichkeit,
+Kauf du die Meierei, die Herd' und Weiden;
+Wir geben dir das Geld, es zu bezahlen.
+
+Celia.
+Und h�hern Lohn; ich liebe diesen Ort
+Und br�chte willig hier mein Leben hin.
+
+Corinnus.
+Soviel ist sicher, dies ist zu Verkauf.
+Geht mit!  Gef�llt euch auf Erkundigung
+Der Boden, der Ertrag und dieses Leben,
+So will ich euer treuer Pfleger sein
+Und kauf es gleich mit eurem Golde ein.
+
+(Alle ab.)
+
+
+
+F�nfte Szene
+
+Ein anderer Teil des Waldes
+
+(Amiens, Jacques und andere)
+
+Lied.
+
+
+Amiens.
+Unter des Laubdachs Hut
+Wer gerne mit mir ruht
+Und stimmt der Kehle Klang
+Zu lustger V�gel Sang:
+Komm geschwinde!  geschwinde!  geschwinde!
+Hier nagt und sticht
+Kein Feind ihn nicht
+Als Wetter, Regen und Winde.
+
+Jacques.
+Mehr, mehr, ich bitte dich, mehr!
+
+Amiens.
+Es w�rde Euch melancholisch machen, Monsieur Jacques.
+
+Jacques.
+Das danke ich ihm.  Mehr, ich bitte dich, mehr!  Ich kann
+Melancholie aus einem Liede saugen, wie ein Wiesel Eier saugt.
+Mehr!  mehr!  ich bitte dich.
+
+Amiens.
+Meine Stimme ist rauh; ich wei�, ich kann Euch nicht damit gefallen.
+
+Jacques.
+Ich verlange nicht, da� Ihr mir gefallen sollt; ich verlange, da�
+Ihr singt.  Kommt, noch eine Strophe!  Nennt Ihr's nicht Strophen?
+
+Amiens.
+Wie es Euch beliebt, Monsieur Jacques.
+
+Jacques.
+Ich k�mmre mich nicht um ihren Namen; sie sind mir nichts schuldig.
+Wollt Ihr singen?
+
+Amiens.
+Mehr auf Euer Verlangen als mir zu Gefallen.
+
+Jacques.
+Gut, wenn ich mich jemals bei einem Menschen bedanke, so will ich's
+bei Euch; aber was sie Komplimente nennen, ist, als wenn sich zwei
+Affen begegnen.  Und wenn sich jemand herzlich bei mir bedankt, so
+ist mir, als h�tte ich ihm einen Pfennig gegeben und er sagte:
+"Gotteslohn daf�r." Kommt singt, und wer nicht mag, halte sein Maul!
+
+Amiens.
+Gut, ich will das Lied zu Ende bringen.--Ihr Herren, deckt indes
+die Tafel; der Herzog will unter diesem Baum trinken--er ist den
+ganzen Tag nach Euch aus gewesen.
+
+Jacques.
+Und ich bin ihm den ganzen Tag aus dem Wege gegangen.  Er ist ein
+zu gro�er Disputierer f�r mich.  Es gehn mir so viele Gedanken
+durch den Kopf als ihm; aber ich danke dem Himmel und mache kein
+Wesens davon.  Kommt, trillert eins her.
+
+Lied.  (Alle zusammen.)
+Wer Ehrgeiz sich h�lt fern,
+Lebt in der Sonne gern,
+Selbst sucht, was ihn ern�hrt,
+Und es mit Lust verzehrt:
+Komm geschwinde geschwinde geschwinde!
+Hier nagt und sticht
+Kein Feind ihn nicht
+Als Wetter, Regen und Winde.
+
+Jacques.
+Ich will Euch einen Vers zu dieser Weise sagen, den ich gestern
+meiner Dichtungsgabe zum Trotz gemacht habe.
+
+Amiens.
+Und ich will ihn singen.
+
+Jacques.
+So lautet er:
+
+Besteht ein dummer Tropf
+Auf seinem Eselskopf,
+L��t seine F�ll und Ruh
+Und l�uft der Wildnis zu:
+(Duc ad me!  duc ad me!  duc ad me!)
+Hier sieht er mehr
+So Narrn wie er,
+Wenn er zu mir will kommen her.
+
+Amiens.
+Was hei�t das: (duc ad me?)
+
+Jacques.
+Es ist eine griechische Beschw�rung, um Narren in einen Kreis zu
+bannen.  Ich will gehn und schlafen, wenn ich kann; kann ich nicht,
+so will ich auf alle Erstgeburt in �gypten l�stern.
+
+Amiens.
+Und ich will den Herzog aufsuchen, sein Mahl ist bereitet.
+
+(Von verschiedenen Seiten ab.)
+
+
+
+Sechste Szene
+
+Ein anderer Teil des Waldes
+
+(Orlando und Adam treten auf)
+
+
+Adam.
+Liebster Herr, ich kann nicht weitergehn; ach, ich sterbe vor
+Hunger!  Hier werfe ich mich hin und messe mir mein Grab.  Lebt
+wohl, bester Herr!
+
+Orlando.
+Ei was, Adam!  hast du nicht mehr Herz?  Lebe noch ein wenig,
+st�rke dich ein wenig, ermuntre dich ein wenig.  Wenn dieser rauhe
+Wald irgendein Gewild hegt, so will ich ihm entweder zur Speise
+dienen oder es dir zur Speise bringen.  Deine Einbildung ist dem
+Tode n�her als deine Kr�fte.  Mir zuliebe sei getrost!  halt dir
+den Tod noch eine Weile vom Leibe.  Ich will gleich wieder bei dir
+sein, und wenn ich dir nicht etwas zu essen bringe, so erlaube ich
+dir zu sterben; aber wenn du stirbst, ehe ich komme, so hast du
+mich mit meiner M�he zum besten.--So recht!  du siehst munter aus,
+und ich bin gleich wieder bei dir.  Aber du liegst in der scharfen
+Luft; komm, ich will dich hinbringen, wo �berwind ist, und du
+sollst nicht aus Mangel an einer Mahlzeit sterben, wenn es
+irgendwas Lebendiges in dieser Ein�de gibt.  Mut gefa�t, guter Adam.
+
+(Beide ab.)
+
+
+
+Siebente Szene
+
+Ein anderer Teil des Waldes
+
+(Ein gedeckter Tisch.  Der Herzog, Amiens, Edelleute und Gefolge
+treten auf)
+
+
+Herzog.
+Ich glaub, er ist verwandelt in ein Tier,
+Denn nirgends find ich ihn in Mannsgestalt.
+
+Erster Edelmann.
+Mein F�rst, er ging soeben von hier weg
+Und war vergn�gt, weil wir ein Lied ihm sangen.
+
+Herzog.
+Wenn er, ganz Mi�laut, musikalisch wird,
+So gibt's bald Dissonanzen in den Sph�ren.--
+Geht, sucht ihn, sagt, da� ich ihn sprechen will.
+
+(Jacques tritt auf.)
+
+Erster Edelmann.
+Er spart die M�he mir durch seine Ankunft.
+
+Herzog.
+Wie nun, mein Herr?  was ist denn das f�r Art,
+Da� Eure Freunde um Euch werben m�ssen?
+Was?  Ihr seht lustig aus?
+
+Jacques.
+Ein Narr!  ein Narr!--ich traf 'nen Narrn im Walde,
+'nen scheckgen Narrn--o j�mmerliche Welt!--
+So wahr mich Speise n�hrt, ich traf 'nen Narrn,
+Der streckte sich dahin und sonnte sich
+Und schimpfte Frau Fortuna ganz beredt
+Und ordentlich--und doch ein scheckger Narr!
+"Guten Morgen, Narr!" sagt' ich; "Mein Herr", sagt' er,
+"Nennt mich nicht Narr, bis mich das Gl�ck gesegnet."
+Dann zog er eine Sonnenuhr hervor,
+Und wie er sie besah mit bl�dem Auge,
+Sagt' er sehr weislich: "Zehn ist's an der Uhr.
+Da sehn wir nun", sagt' er, "wie die Welt l�uft:
+'s ist nur 'ne Stunde her, da war es neun,
+Und nach 'ner Stunde noch wird's elfe sein;
+Und so von Stund zu Stunde reifen wir,
+Und so von Stund zu Stunde faulen wir,
+Und daran h�ngt ein M�rlein." Da ich h�rte
+So predgen von der Zeit den scheckgen Narrn,
+Fing meine Lung an, wie ein Hahn zu kr�hn,
+Da� Narrn so tiefbed�chtig sollten sein;
+Und eine Stunde lacht ich ohne Rast
+Nach seiner Sonnenuhr.--O wackrer Narr!
+Ein w�rdger Narr!  die Jacke lob ich mir.
+
+Herzog.
+Was ist das f�r ein Narr?
+
+Jacques.
+Ein w�rdger Narr!  Er war ein Hofmann sonst
+Und sagt, wenn Frauen jung und sch�n nur sind,
+So haben sie die Gabe, es zu wissen.
+In seinem Hirne, das so trocken ist
+Wie �berrest von Zwieback nach der Reise,
+Hat er seltsame Texte, �bervoll
+Von Lebensweisheit, die er brockenweise
+Nun von sich gibt.--O w�r ich doch ein Narr!
+Mein Ehrgeiz geht auf eine bunte Jacke.
+
+Herzog.
+Du sollst sie haben.
+
+Jacques.
+'s ist mein einzger Wunsch;
+Vorausgesetzt, da� Ihr Eur be�res Urteil
+Von aller Meinung reinigt, die da wuchert,
+Als w�r ich weise.--Dann mu� ich Freiheit haben,
+So ausgedehnte Vollmacht wie der Wind--
+So ziemt es Narrn--auf wen ich will, zu blasen,
+Und wen am �rgsten meine Torheit gei�elt,
+Der mu� am meisten lachen.  Und warum?
+Das f�llt ins Auge wie der Weg zur Kirche:
+Der, den ein Narr sehr weislich hat getroffen,
+W�r wohl sehr t�richt, schmerzt es noch sosehr,
+Nicht f�hllos bei dem Schlag zu tun.  Wo nicht,
+So wird des Weisen Narrheit aufgedeckt
+Selbst durch des Narren ungef�hres Zielen.
+Steckt mich in meine Jacke, gebt mich frei
+Zu reden, wie mir's d�nkt, und durch und durch
+Will ich die angesteckte Welt schon s�ubern,
+Wenn sie geduldig nur mein Mittel nehmen.
+
+Herzog.
+O pfui!  Ich wei� wohl, was du w�rdest tun.
+
+Jacques.
+Und was, zum Kuckuck, w�rd ich tun als Gutes?
+
+Herzog.
+H�chst arge S�nd, indem du S�nde sch�ltest;
+Denn du bist selbst ein w�ster Mensch gewesen,
+So sinnlich wie nur je des Tieres Trieb;
+Und alle �bel, alle b�sen Beulen,
+Die du auf freien F��en dir erzeugt,
+Die w�rdst du sch�tten in die weite Welt.
+
+Jacques.
+Wie!  wer schreit gegen Stolz
+Und klagt damit den einzelnen nur an?
+Schwillt seine Flut nicht m�chtig wie die See,
+Bis da� die letzten, letzten Mittel ebben?
+Welch eine B�rgerfrau nenn ich mit Namen,
+Wenn ich behaupt, es tragen B�rgerfraun
+Der F�rsten Aufwand auf unw�rdgen Schultern?
+Darf (eine) sagen, da� ich sie gemeint,
+Wenn so wie sie die Nachbarin auch ist?
+Und wo ist (der) vom niedrigsten Beruf,
+Der spricht: sein Gro�tun koste mir ja nichts--
+Im Wahn, er sei gemeint--und seine Torheit
+Nicht stimmt dadurch zu meiner Rede Ton?
+Ei ja doch!  wie denn?  was denn?  La�t doch sehn,
+Worin ihm meine Zunge Unrecht tat.
+Tut sie sein Recht ihm, tat er selbst sich Unrecht;
+Und ist er rein, nun wohl, so fliegt mein Tadel
+Die Kreuz und Quer wie eine wilde Gans,
+Die niemand angeh�rt.--Wer kommt da?  seht!
+
+(Orlando kommt mit gezognem Degen.)
+
+Orlando.
+Halt!  e�t nicht mehr!
+
+Jacques.
+Ich hab noch nicht gegessen.
+
+Orlando.
+Und sollst nicht, bis die Notdurft erst bedient.
+
+Jacques.
+Von welcher Art mag dieser Vogel sein?
+
+Herzog.
+Hat deine Not dich, Mensch, so k�hn gemacht?
+Wie?  oder ist's Verachtung guter Sitten,
+Da� du so leer von H�flichkeit erscheinst?
+
+Orlando.
+Ihr traft den Puls zuerst; der dornge Stachel
+Der harten Not nahm von mir weg den Schein
+Der H�flichkeit; im innern Land geboren,
+Kenn ich wohl Sitte--aber haltet!  sag ich,
+Der stirbt, wer etwas von der Frucht ber�hrt,
+Eh ich und meine Sorgen sind befriedigt.
+
+Jacques.
+K�nnt Ihr nicht durch Vernunft befriedigt werden,
+So mu� ich sterben.
+
+Herzog.
+Was wollt Ihr haben?  Eure Freundlichkeit
+Wird mehr als Zwang zur Freundlichkeit uns zwingen.
+
+Orlando.
+Ich sterbe fast vor Hunger, gebt mir Speise.
+
+Herzog.
+Sitzt nieder!  e�t!  willkommen unserm Tisch!
+
+Orlando.
+Sprecht Ihr so liebreich?  O vergebt, ich bitte!
+Ich dachte, alles m��te wild hier sein,
+Und darum setzt ich in die Fassung mich
+Des trotzigen Befehls.  Wer ihr auch seid,
+Die hier in dieser unzugangbarn Wildnis
+Unter dem Schatten melancholscher Wipfel
+S�umt und verge�t die Stunden tr�ger Zeit:
+Wenn je ihr be�re Tage habt gesehn,
+Wenn je zur Kirche Glocken euch gel�utet,
+Wenn je ihr sa�t bei guter Menschen Mahl,
+Wenn je vom Auge Tr�nen ihr getrocknet
+Und wi�t, was Mitleid ist und Mitleid finden,
+So la�t die Sanftmut mir statt Zwanges dienen:
+Ich hoff's, err�t und berge hier mein Schwert.
+
+Herzog.
+Wahr ist es, da� wir be�re Tage sahn,
+Da� heilge Glocken uns zur Kirch gel�utet,
+Da� wir bei guter Menschen Mahl gesessen
+Und Tropfen unsern Augen abgetrocknet,
+Die ein geheiligt Mitleid hat erzeugt:
+Und darum setzt in Freundlichkeit Euch hin
+Und nehmt nach Wunsch, was wir an Hilfe haben,
+Das Eurem Mangel irgend dienen kann.
+
+Orlando.
+Enthaltet Euch der Speise nur ein Weilchen,
+Indessen wie die Hindin ich mein Junges
+Will f�ttern gehn.  Dort ist ein armer Alter,
+Der manchen sauren Schritt aus blo�er Liebe
+Mir nachgehinkt: bis er befriedigt ist,
+Den doppelt Leid, das Alter schw�cht und Hunger,
+Ber�hr ich keinen Bissen.
+
+Herzog.
+Geht, holt ihn her!
+Wir wollen nichts verzehren, bis Ihr kommt.
+
+Orlando.
+Ich dank Euch; seid f�r Euren Trost gesegnet!
+
+(Orlando ab.)
+
+Herzog.
+Du siehst, ungl�cklich sind nicht wir allein,
+Und dieser weite, allgemeine Schauplatz
+Beut mehr betr�bte Szenen dar als unsre,
+Worin du spielst.
+
+Jacques.
+Die ganze Welt ist B�hne
+Und alle Fraun und M�nner blo�e Spieler.
+Sie treten auf und geben wieder ab,
+Sein Leben lang spielt einer manche Rollen
+Durch sieben Akte hin.  Zuerst das Kind,
+Das in der W�rtrin Armen greint und sprudelt;
+Der weinerliche Bube, der mit B�ndel
+Und glattem Morgenantlitz wie die Schnecke
+Ungern zur Schule kriecht; dann der Verliebte,
+Der wie ein Ofen seufzt, mit Jammerlied
+Auf seiner Liebsten Braun; dann der Soldat,
+Voll toller Fl�ch und wie ein Pardel b�rtig,
+Auf Ehre eifers�chtig, schnell zu H�ndeln,
+Bis in die M�ndung der Kanone suchend
+Die Seifenblase Ruhm.  Und dann der Richter
+Im runden Bauche, mit Kapaun gestopft,
+Mit strengem Blick und regelrechtem Bart,
+Voll weiser Spr�ch und Allerweltssentenzen
+Spielt seine Rolle so.  Das sechste Alter
+Macht den besockten, hagern Pantalon,
+Brill auf der Nase, Beutel an der Seite;
+Die jugendliche Hose, wohl geschont,
+'ne Welt zu weit f�r die verschrumpften Lenden;
+Die tiefe M�nnerstimme, umgewandelt
+Zum kindischen Diskante, pfeift und qu�kt
+In seinem Ton.  Der letzte Akt, mit dem
+Die seltsam wechselnde Geschichte schlie�t,
+Ist zweite Kindheit, g�nzliches Vergessen,
+Ohn Augen, ohne Zahn, Geschmack und alles.
+
+(Orlando kommt zur�ck mit Adam.)
+
+Herzog.
+Nun, Freund, setzt nieder Eure w�rdge Last
+Und la�t ihn essen.
+
+Orlando.
+Ich dank Euch sehr f�r ihn.
+
+Adam.
+Das tut auch not;
+Kaum kann ich sprechen, selbst f�r mich zu danken.
+
+Herzog.
+Willkommen denn!  greift zu!  Ich st�r Euch nicht
+Bis jetzt mit Fragen �ber Eure Lage.--
+Gebt uns Musik und singt eins, guter Vetter!
+Lied.
+
+Amiens.
+St�rm, st�rm, du Winterwind!
+Du bist nicht falsch gesinnt,
+Wie Menschenundank ist.
+Dein Zahn nagt nicht sosehr,
+Weil man nicht wei�, woher,
+Wiewohl du heftig bist.
+Heisa!  singt heisa!  den gr�nenden B�umen!
+Die Freundschaft ist falsch, und die Liebe nur Tr�umen.
+Drum heisa, den B�umen!
+Den lustigen R�umen!  Frier, frier, du Himmelsgrimm!
+Du bei�est nicht so schlimm
+Als Wohltat nicht erkannt;
+Erstarrst du gleich die Flut,
+Viel sch�rfer sticht das Blut
+Ein Freund von uns gewandt.
+Heisa!  singt heisa!  den gr�nenden B�umen!
+Die Freundschaft ist falsch, und die Liebe nur Tr�umen.
+Drum heisa, den B�umen!
+Den lustigen R�umen!
+
+
+Herzog.
+Wenn ihr der Sohn des guten Roland seid,
+Wie Ihr mir eben redlich zugefl�stert
+Und meinem Aug sein Ebenbild bezeugt,
+Das konterfeit, in Eurem Antlitz lebt:
+Seid herzlich hier begr��t!  Ich bin der Herzog,
+Der Euren Vater liebte; Eur ferners Schicksal,
+Kommt und erz�hlt's in meiner H�hle mir.--
+Willkommen, guter Alter, wie dein Herr!
+F�hrt ihn am Arme.--Gebt mir Eure Hand
+Und macht mir Euer ganz Geschick bekannt.
+
+(Alle ab.)
+
+
+
+
+Dritter Aufzug
+
+
+
+Erste Szene
+
+Ein Zimmer im Palast
+
+(Herzog Friedrich, Oliver, Herren vom Hofe und Gefolge)
+
+
+Herzog Friedrich.
+Ihn nicht gesehn seitdem?  Herr!  Herr!  das kann nicht sein.
+Best�nd aus Milde nicht mein gr��ter Teil,
+So sucht ich kein entferntes Ziel der Rache,
+Da du zur Stelle bist.--Doch sieh dich vor;
+Schaff deinen Bruder, sei er, wo er will;
+Such ihn mit Kerzen, bring in Jahresfrist
+Ihn lebend oder tot; sonst komm nie wieder,
+Auf unserm Boden Unterhalt zu suchen.
+Was du nur dein nennst, Land und andres Gut,
+Des Einziehns wert, f�llt unsrer Hand anheim,
+Bis du durch deines Bruders Mund dich l�sest
+Von allem, was wir gegen dich gedacht.
+
+Oliver.
+O kennt' Eur Hoheit hierin nur mein Herz!
+Ich liebt im Leben meinen Bruder nicht.
+
+Herzog Friedrich.
+Schurk um so mehr!--Sto�t ihn zur T�r hinaus,
+La�t die Beamten dieser Art Beschlag
+Ihm legen auf sein Haus und L�nderein:
+Tut in der Schnelle dies und schafft ihn fort!
+
+(Alle ab.)
+
+
+
+Zweite Szene
+
+Der Wald
+
+(Orlando kommt mit einem Blatt Papier)
+
+
+Orlando.
+Da h�ng, mein Vers, der Liebe zum Beweis!
+Und du, o K�nigin der Nacht dort oben,
+Sieh keuschen Blicks aus deinem blassen Kreis
+Den Namen deiner J�grin hier erhoben.
+O Rosalinde!  sei der Wald mir Schrift:
+Ich grabe mein Gem�t in alle Rinden,
+Da� jedes Aug, das diese B�ume trifft,
+Ringsum bezeugt mag deine Tugend finden.
+Auf, auf, Orlando!  r�hme sp�t und fr�h
+Die sch�ne, keusche, unnennbare "sie".
+
+(Ab.)
+
+(Corinnus und Probstein treten auf.)
+
+Corinnus.
+Und wie gef�llt Euch dies Sch�ferleben, Meister Probstein?
+
+Probstein.
+Wahrhaftig, Sch�fer, an und f�r sich betrachtet, ist es ein gutes
+Leben; aber in Betracht, da� es ein Sch�ferleben ist, taugt es
+nichts.  In Betracht, da� es einsam ist, mag ich es wohl leiden;
+aber in Betracht, da� es stille ist, ist es ein sehr erb�rmliches
+Leben.  Ferner in Betracht, da� es auf dem Lande ist, steht es mir
+an; aber in Betracht, da� es nicht am Hofe ist, wird es langweilig.
+ Insofern es ein m��iges Leben ist, seht Ihr, ist es nach meinem
+Sinn; aber insofern es nicht reichlicher dabei zugeht, streitet es
+sehr gegen meine Neigung.  Verstehst Philosophie, Sch�fer?
+
+Corinnus.
+Mehr nicht, als da� ich wei�, da� einer sich desto schlimmer
+befindet, je kr�nker er ist; und wem's an Geld, Gut und Gen�gen
+gebricht, da� dem drei gute Freunde fehlen; da� des Regens
+Eigenschaft ist, zu n�ssen, und des Feuers, zu brennen; da� gute
+Weide fette Schafe macht und die Nacht haupts�chlich vom Mangel an
+Sonne kommt; da� einer, der weder durch Natur noch Kunst zu
+Verstand gekommen w�re, sich �ber die Erziehung zu beklagen h�tte,
+oder aus einer sehr dummen Sippschaft sein m��te.
+
+Probstein.
+So einer ist ein nat�rlicher Philosoph.  Warst je am Hofe, Sch�fer?
+
+Corinnus.
+Nein, wahrhaftig nicht.
+
+Probstein.
+So wirst du in der H�lle gebraten.
+
+Corinnus.
+Ei, ich hoffe--
+
+Probstein.
+Wahrhaftig, du wirst gebraten wie ein schlecht ger�stet Ei, nur an
+(einer) Seite.
+
+Corinnus.
+Weil ich nicht am Hofe gewesen bin?  Euren Grund!
+
+Probstein.
+Nun: wenn du nicht am Hofe gewesen bist, so hast du niemals gute
+Sitten gesehn.  Wenn du niemals gute Sitten gesehn hast, so m�ssen
+deine schlecht sein, und alles Schlechte ist S�nde, und S�nde f�hrt
+in die H�lle.  Du bist in einem verf�nglichen Zustande, Sch�fer.
+
+Corinnus.
+Ganz und gar nicht, Probstein.  Was bei Hofe gute Sitten sind, die
+sind so l�cherlich auf dem Lande, als l�ndliche Weise bei Hofe zum
+Spott dient.  Ihr sagtet mir, bei Hofe gr��t Ihr nicht, ohne Eure
+Hand zu k�ssen.  Das w�re eine sehr unreinliche H�flichkeit, wenn
+Hofleute Sch�fer w�ren.
+
+Probstein.
+Den Beweis, k�rzlich, den Beweis?
+
+Corinnus.
+Nun, wir m�ssen unsre Schafe immer angreifen, und ihre Felle sind
+fettig, wie Ihr wi�t.
+
+Probstein.
+Schwitzen die H�nde unserer Hofleute etwa nicht, und ist das Fett
+von einem Schafe nicht so gesund wie der Schwei� von einem
+Menschen?  Einf�ltig!  einf�ltig!  Einen besseren Beweis!  her
+damit!
+
+Corinnus.
+Auch sind unsre H�nde hart.
+
+Probstein.
+Eure Lippen werden sie desto eher f�hlen.  Wiederum einf�ltig!
+Einen t�chtigeren Beweis!
+
+Corinnus.
+Und sind oft ganz beteert vom Bepflastern unsrer Schafe.  Wollt Ihr,
+da� wir Teer k�ssen sollen?  Die H�nde der Hofleute riechen nach
+Bisam.
+
+Probstein.
+H�chst einf�ltiger Mensch!  Du wahre W�rmerspeise gegen ein gutes
+St�ck Fleisch!  Lerne von den Weisen und erw�ge!  Bisam ist von
+schlechterer Abkunft als Teer: der unsaubre Abgang einer Katze.
+Einen bessern Beweis, Sch�fer!
+
+Corinnus.
+Ihr habt einen zu h�fischen Witz f�r mich; ich lasse es dabei
+bewenden.
+
+Probstein.
+Was?  bei der H�lle?  Gott helfe dir, einf�ltiger Mensch!  Gott
+er�ffne dir das Verst�ndnis!  Du bist ein Strohkopf.
+
+Corinnus.
+Herr, ich bin ein ehrlicher Tagel�hner; ich verdiene, was ich esse,
+erwerbe, was ich trage, hasse keinen Menschen, beneide niemandes
+Gl�ck, freue mich �ber andrer Leute Wohlergehn, bin zufrieden mit
+meinem Ungemach, und mein gr��ter Stolz ist, meine Schafe weiden
+und meine L�mmer saugen zu sehn.
+
+Probstein.
+Das ist wieder eine einf�ltige S�nde von Euch, da� Ihr die Schafe
+und die B�cke zusammenbringt und Euch nicht sch�mt, von der
+Begattung des Viehes Euren Unterhalt zu ziehn; da� ihr den Kuppler
+f�r einen Leithammel macht und so ein j�hriges Lamm einem
+schiefbeinigen alten Hahnrei von Widder �berantwortet gegen alle
+Regeln des Ehestandes.  Wenn du daf�r nicht in die H�lle kommst, so
+will der Teufel selbst keine Sch�fer; sonst sehe ich nicht, wie du
+entwischen k�nntest.
+
+Corinnus.
+Hier kommt der junge Herr Ganymed, meiner neuen Herrschaft Bruder.
+
+(Rosalinde kommt mit einem Blatt Papier.)
+
+Rosalinde (liest).
+"Von Ost bis West, in beiden Inden
+Ist kein Juwel gleich Rosalinden;
+Ihr Wert, befl�gelt von den Winden,
+Tr�gt durch die Welt hin Rosalinden.
+Alle Schilderein erblinden
+Bei dem Glanz von Rosalinden;
+Keinen Reiz soll man verk�nden
+Als den Reiz von Rosalinden."
+
+Probstein.
+So will ich Euch acht Jahre hintereinander reimen, Essens- und
+Schlafenszeit ausgenommen; es ist der wahre Butterfrauentrab, wenn
+sie zu Markte gehn.
+
+Rosalinde.
+Fort mit dir, Narr!
+
+Probstein.
+Zur Probe: Sehnt der Hirsch sich nach den Hinden:
+La�t ihn suchen Rosalinden.
+Will die Katze sich verbinden:
+Glaubt, sie macht's gleich Rosalinden.
+Reben m�ssen B�um umwinden:
+So tut's n�tig Rosalinden.
+Wer da m�ht, mu� Garben binden
+Auf den Karrn mit Rosalinden.
+S��e Nu� hat saure Rinden;
+Solche Nu� gleicht Rosalinden.
+Wer s��e Rosen sucht, mu� finden
+Der Liebe Dorn und Rosalinden.  Das ist der eigentliche falsche
+Versgalopp.  Warum beh�ngt Ihr Euch mit ihnen?
+
+Rosalinde.
+Still, dummer Narr!  Ich fand sie an einem Baum.
+
+Probstein.
+Wahrhaftig, der Baum tr�gt schlechte Fr�chte.
+
+Rosalinde.
+Ich will Euch auf ihn impfen, und dann wird er Mispeln tragen: denn
+Eure Einf�lle verfaulen, ehe sie halb reif sind, und das ist eben
+die rechte Tugend einer Mispel.
+
+Probstein.
+Ihr habt gesprochen, aber ob gescheit oder nicht, das mag der Wald
+richten.
+
+(Celia kommt mit einem Blatt Papier.)
+
+Rosalinde.
+Still!  hier kommt meine Schwester und liest; gehn wir beiseit.
+
+Celia.
+"Sollten schweigen diese R�ume,
+Weil sie unbev�lkert?  Nein.
+Zungen h�ng ich an die B�ume,
+Da� sie reden Spr�che fein;
+Bald, wie rasch das Menschenleben
+Seine Pilgerfahrt durchl�uft;
+Wie die Zeit, ihm zugegeben,
+Eine Spanne ganz begreift;
+Bald, wie Schw�re falsch sich zeigen,
+Wie sich Freund vom Freunde trennt.
+Aber an den sch�nsten Zweigen
+Und an jedes Spruches End
+Soll man Rosalinde lesen,
+Und verbreiten soll der Ruf,
+Da� der Himmel aller Wesen
+H�chsten Ausbund in ihr schuf.
+Drum hie� die Natur sein Wille
+(Eine) menschliche Gestalt
+Zieren mit der Gaben F�lle;
+Die Natur mischt' alsobald
+Helenens Wange, nicht ihr Herz;
+Kleopatrens Herrlichkeit;
+Atalantens leichten Scherz
+Und Lukreziens Sittsamkeit.
+So ward durch einen Himmelsbund
+Aus vielen Rosalind ersonnen,
+Aus manchem Herzen, Aug und Mund,
+Auf da� sie jeden Reiz gewonnen;
+Der Himmel gab ihr dieses Recht
+Und tot und lebend mich zum Knecht."
+
+Rosalinde.
+O g�tiger Jupiter!--Mit welcher langweiligen Liebespredigt habt Ihr
+da Eure Gemeinde m�de gemacht und nicht einmal gerufen: "Geduld,
+gute Leute!"
+
+Celia.
+Seht doch, Freunde hinterm R�cken?--Sch�fer, geh ein wenig abseits.
+--Geh mit ihm, Bursch.
+
+Probstein.
+Kommt, Sch�fer, la�t uns einen ehrenvollen R�ckzug machen,
+wenngleich nicht mit Sang und Klang, doch mit Sack und Pack.
+
+(Corinnus und Probstein ab.)
+
+Celia.
+Hast du diese Verse geh�rt?
+
+Rosalinde.
+O ja, ich h�rte sie alle und noch was dr�ber; denn einige hatten
+mehr F��e, als die Verse tragen konnten.
+
+Celia.
+Das tut nichts, die F��e konnten die Verse tragen.
+
+Rosalinde.
+Ja, aber die F��e waren lahm und konnten sich nicht au�erhalb des
+Verses bewegen, und darum standen sie so lahm im Verse.
+
+Celia.
+Aber hast du geh�rt, ohne dich zu wundern, da� dein Name an den
+B�umen h�ngt und eingeschnitten ist?
+
+Rosalinde.
+Ich war schon sieben Tage in der Woche �ber alles Wundern hinaus,
+ehe du kamst: denn sieh nur, was ich an einem Palmbaum fand.  Ich
+bin nicht so bereimt worden seit Pythagoras' Zeiten, wo ich eine
+Ratte war, die sie mit schlechten Versen vergifteten, wessen ich
+mich kaum noch erinnern kann.
+
+Celia.
+R�tst du, wer es getan hat?
+
+Rosalinde.
+Ist es ein Mann?
+
+Celia.
+Mit einer Kette um den Hals, die du sonst getragen hast.
+Ver�nderst du die Farbe?
+
+Rosalinde.
+Ich bitte dich, wer?
+
+Celia.
+O Himmel!  Himmel!  Es ist ein schweres Ding f�r Freunde, sich
+wieder anzutreffen; aber Berg und Tal kommen im Erdbeben zusammen.
+
+Rosalinde.
+Nein, sag, wer ist's?
+
+Celia.
+Ist es m�glich?
+
+Rosalinde.
+Ich bitte dich jetzt mit der allerdringendsten Inst�ndigkeit, sag
+mir, wer er ist.
+
+Celia.
+O wunderbar, wunderbar und h�chst wunderbarlich wunderbar und
+nochmals wunderbar und �ber alle Wunder weg.
+
+Rosalinde.
+O du liebe Ungeduld!  Denkst du, weil ich wie ein Mann ausstaffiert
+bin, da� auch meine Gem�tsart in Wams und Hosen ist?  Ein Zollbreit
+mehr Aufschub ist eine S�dsee weit von der Entdeckung.  Ich bitte
+dich, sag mir, wer ist es?  Geschwind, und sprich hurtig!  Ich
+wollte, du k�nntest stottern, da� dir dieser verborgne Mann aus dem
+Munde k�me wie Wein aus einer enghalsigen Flasche: entweder zuviel
+auf einmal oder gar nichts.  Ich bitte dich, nimm den Kork aus
+deinem Munde, damit ich deine Zeitungen trinken kann.
+
+Celia.
+Da k�nntest du einen Mann mit in den Leib bekommen.
+
+Rosalinde.
+Ist er von Gottes Machwerk?  Was f�r eine Art von Mann?  Ist sein
+Kopf einen Hut wert oder sein Kinn einen Bart?
+
+Celia.
+Nein, er hat nur wenig Bart.
+
+Rosalinde.
+Nun, Gott wird mehr bescheren, wenn der Mensch recht dankbar ist;
+ich will den Wuchs von seinem Bart schon abwarten, wenn du mir nur
+die Kenntnis von seinem Kinn nicht l�nger vorenth�ltst.
+
+Celia.
+Es ist der junge Orlando, der den Ringer und dein Herz in einem
+Augenblick zu Falle brachte.
+
+Rosalinde.
+Nein, der Teufel hole das Spa�en!  Sag auf dein ehrlich Gesicht und
+M�dchentreue.
+
+Celia.
+Auf mein Wort, Muhme, er ist es.
+
+Rosalinde.
+Orlando?
+
+Celia.
+Orlando.
+
+Rosalinde.
+Ach liebe Zeit!  Was fange ich nun mit meinem Wams und Hosen an?--
+Was tat er, wie du ihn sahst?  Was sagte er?  Wie sah er aus?  Wie
+trug er sich?  Was macht er hier?  Frug er nach mir?  Wo bleibt er?
+Wie schied er von dir, und wann wirst du ihn wiedersehn?  Antworte
+mir mit einem Wort.
+
+Celia.
+Da mu�t du mir erst Gargantuas Mund leihen; es w�re ein zu gro�es
+Wort f�r irgendeinen Mund, wie sie heutzutage sind.  Ja und nein
+auf diese Artikel zu sagen ist mehr, als in einer Kinderlehre
+antworten.
+
+Rosalinde.
+Aber wei� er, da� ich in diesem Lande bin, und in Mannskleidern?
+Sieht er so munter aus, wie an dem Tage, wo wir ihn ringen sahen?
+
+Celia.
+Es ist ebenso leicht, Sonnenst�ubchen zu z�hlen als die Aufgaben
+eines Verliebten zu l�sen.  Doch nimm ein Pr�bchen von meiner
+Entdeckung und koste es recht aufmerksam.--Ich fand ihn unter einem
+Baum wie eine abgefallne Eichel.
+
+Rosalinde.
+Der mag wohl Jupiters Baum hei�en, wenn er solche Fr�chte fallen
+l��t.
+
+Celia.
+Verleiht mir Geh�r, wertes Fr�ulein.
+
+Rosalinde.
+Fahret fort.
+
+Celia.
+Da lag er, hingestreckt wie ein verwundeter Ritter.
+
+Rosalinde.
+Wenn es gleich ein Jammer ist, solch einen Anblick zu sehn, so mu�
+er sich doch gut ausgenommen haben.
+
+Celia.
+Ruf deiner Zunge "Holla" zu, ich bitte dich; sie macht zur Unzeit
+Spr�nge.  Er war wie ein J�ger gekleidet.
+
+Rosalinde.
+O Vorbedeutung!  Er kommt, mein Herz zu erlegen.
+
+Celia.
+Ich m�chte mein Lied ohne Chor singen; du bringst mich aus der
+Weise.
+
+Rosalinde.
+Wi�t Ihr nicht, da� ich ein Weib bin?  Wenn ich denke, mu� ich
+sprechen.  Liebe, sag weiter.
+(Orlando und Jacques treten auf.)
+
+Celia.
+Du bringst mich heraus.--Still!  kommt er da nicht?
+
+Rosalinde.
+Er ist's!  Schl�pft zur Seite und la�t uns ihn aufs Korn nehmen.
+
+(Celia und Rosalinde verbergen sich.)
+
+Jacques.
+Ich danke Euch f�r geleistete Gesellschaft; aber meiner Treu, ich
+w�re ebensogern allein gewesen.
+
+Orlando.
+Ich auch; aber um der Sitte willen danke ich Euch gleichfalls f�r
+Eure Gesellschaft.
+
+Jacques.
+Der Himmel beh�t Euch!  La�t uns sowenig zusammenkommen wie m�glich.
+
+Orlando.
+Ich w�nsche mir Eure entferntere Bekanntschaft.
+
+Jacques.
+Ich ersuche Euch, verderbt keine B�ume weiter damit, Liebeslieder
+in die Rinden zu schneiden.
+
+Orlando.
+Ich ersuche Euch, verderbt meine Verse nicht weiter damit, sie
+erb�rmlich abzulesen.
+
+Jacques.
+Rosalinde ist Eurer Liebsten Name?
+
+Orlando.
+Wie Ihr sagt.
+
+Jacques.
+Ihr Name gef�llt mir nicht.
+
+Orlando.
+Es war nicht die Rede davon, Euch zu gefallen, wie sie getauft
+wurde.
+
+Jacques.
+Von welcher Statur ist sie?
+
+Orlando.
+Grade so hoch wie mein Herz.
+
+Jacques.
+Ihr seid voll artiger Antworten.  Habt Ihr Euch etwa mit
+Goldschmiedweibern abgegeben und solche Spr�chlein von Ringen
+zusammengelesen?
+
+Orlando.
+Das nicht; aber ich antworte Euch wie die Tapetenfiguren, aus deren
+Munde Ihr Eure Fragen studiert habt.
+
+Jacques.
+Ihr habt einen behenden Witz; ich glaube, er ist aus Atalantens
+Fersen gemacht.  Wollt Ihr Euch mit mir setzen, so wollen wir
+zusammen �ber unsre Gebieterin, die Welt, und unser ganzes Elend
+schm�hen.
+
+Orlando.
+Ich will kein lebendig Wesen in der Welt schelten als mich selber,
+an dem ich die meisten Fehler kenne.
+
+Jacques.
+Der �rgste Fehler, den Ihr habt, ist, verliebt zu sein.
+
+Orlando.
+Das ist ein Fehler, den ich nicht mit Eurer besten Tugend
+vertauschte.--Ich bin Eurer m�de.
+
+Jacques.
+Meiner Treu, ich suchte eben einen Narren, da ich Euch fand.
+
+Orlando.
+Er ist in den Bach gefallen; guckt nur hinein, so werdet Ihr ihn
+sehn.
+
+Jacques.
+Da werde ich meine eigne Person sehen.
+
+Orlando.
+Die ich entweder f�r einen Narren oder eine Null halte.
+
+Jacques.
+Ich will nicht l�nger bei Euch verweilen.  Lebt wohl, guter Signor
+Amoroso!
+
+Orlando.
+Ich freue mich �ber Euren Abschied.  Gott befohlen, guter Monsieur
+Melancholie!
+
+(Jacques ab.)
+
+(Celia und Rosalinde treten vor.)
+
+Rosalinde.
+Ich will wie ein naseweiser Lakai mit ihm sprechen und ihn unter
+der Gestalt zum besten haben.--H�rt Ihr, J�ger?
+
+Orlando.
+Recht gut; was wollt Ihr?
+
+Rosalinde.
+Sagt mir doch, was ist die Glocke?
+
+Orlando.
+Ihr solltet mich fragen, was ist's an der Zeit; es gibt keine
+Glocke im Walde.
+
+Rosalinde.
+So gibts auch keinen rechten Liebhaber im Walde, sonst w�rde jede
+Minute ein Seufzen und jede Stunde ein �chzen den tr�gen Fu� der
+Zeit so gut anzeigen wie eine Glocke.
+
+Orlando.
+Und warum nicht den schnellen Fu� der Zeit?  W�re das nicht ebenso
+passend gewesen?
+
+Rosalinde.
+Mitnichten, mein Herr.  Die Zeit reiset in verschiednem Schritt mit
+verschiednen Personen.  Ich will Euch sagen, mit wem die Zeit den
+Pa� geht, mit wem sie trabt, mit wem sie galoppiert und mit wem sie
+stillsteht.
+
+Orlando.
+Ich bitte dich, mit wem trabt sie?
+
+Rosalinde.
+Ei, sie trabt hart mit einem jungen M�dchen zwischen der Verlobung
+und dem Hochzeitstage.  Wenn auch nur acht Tage dazwischen hingehn,
+so ist der Trab der Zeit so hart, da� es ihr wie acht Jahre
+vorkommt.
+
+Orlando.
+Mit wem geht die Zeit den Pa�?
+
+Rosalinde.
+Mit einem Priester, dem es an Latein gebricht, und einem reichen
+Manne, der das Podagra nicht hat.  Denn der eine schl�ft ruhig,
+weil er nicht studieren kann, und der andre lebt lustig, weil er
+keinen Schmerz f�hlt; den einen dr�ckt nicht die Last d�rrer und
+auszehrender Gelehrsamkeit, der andre kennt die Last schweren
+m�hseligen Mangels nicht.  Mit diesen geht die Zeit den Pa�.
+
+Orlando.
+Mit wem galoppiert sie?
+
+Rosalinde.
+Mit dem Diebe zum Galgen; denn ginge er auch noch sosehr Schritt
+vor Schritt, so denkt er doch, da� er zu fr�h kommt.
+
+Orlando.
+Mit wem steht sie still?
+
+Rosalinde.
+Mit Advokaten in den Gerichtsferien; denn sie schlafen von Session
+zu Session und werden also nicht gewahr, wie die Zeit fortgeht.
+
+Orlando.
+Wo wohnt Ihr, artiger junger Mensch?
+
+Rosalinde.
+Bei dieser Sch�ferin, meiner Schwester; hier am Saum des Waldes,
+wie Fransen an einem Rock.
+
+Orlando.
+Seid Ihr hier einheimisch?
+
+Rosalinde.
+Wie das Kaninchen, das zu wohnen pflegt, wo es zur Welt gekommen
+ist.
+
+Orlando.
+Eure Aussprache ist etwas feiner, als Ihr sie an einem so
+abgelegnen Ort Euch h�ttet erwerben k�nnen.
+
+Rosalinde.
+Das haben mir schon viele gesagt; aber in der Tat, ein alter
+geistlicher Onkel von mir lehrte mich reden; er war in seiner
+Jugend ein St�dter und gar zu gut mit dem Hofmachen bekannt, denn
+er verliebte sich dabei.  Ich habe ihn manche Predigt dagegen
+halten h�ren und danke Gott, da� ich kein Weib bin und keinen Teil
+an allen den Verkehrtheiten habe, die er ihrem ganzen Geschlecht
+zur Last legte.
+
+Orlando.
+K�nnt Ihr Euch nicht einiger von den vornehmsten Untugenden
+erinnern, die er den Weibern aufb�rdete?
+
+Rosalinde.
+Es gab keine vornehmsten darunter; sie sahen sich alle gleich wie
+Pfennige: jeder einzelne Fehler schien ungeheuer, bis sein
+Mitfehler sich neben ihn stellte.
+
+Orlando.
+Bitte, sagt mir einige davon.
+
+Rosalinde.
+Nein, ich will meine Arznei nicht wegwerfen, au�er an Kranke.  Es
+spukt hier ein junger Mensch im Walde herum, der unsre junge
+Baumzucht mi�braucht, den Namen Rosalinde in die Rinden zu graben,
+der Oden an Wei�dorne h�ngt und Elegien an Brombeerstr�uche, alle--
+denkt doch!--um den Namen Rosalinde zu verg�ttern.  K�nnte ich
+diesen Herzenskr�mer antreffen, so g�be ich ihm einen guten Rat,
+denn er scheint mit dem t�glichen Liebesfieber behaftet.
+
+Orlando.
+Ich bin's, den die Liebe so sch�ttelt; ich bitte Euch, sagt mir
+Euer Mittel.
+
+Rosalinde.
+Es ist keins von meines Onkels Merkmalen an Euch zu finden.  Er
+lehrte mich einen Verliebten erkennen; ich wei� gewi�, Ihr seid
+kein Gefangner in diesem K�fig.
+
+Orlando.
+Was waren seine Merkmale?
+
+Rosalinde.
+Eingefallne Wangen, die Ihr nicht habt; Augen mit blauen R�ndern,
+die Ihr nicht habt; ein ungeselliger Sinn, den Ihr nicht habt; ein
+verwilderter Bart, den Ihr nicht habt--doch den erlasse ich Euch,
+denn, aufrichtig, was Ihr an Bart besitzet, ist eines j�ngeren
+Bruders Einkommen.--Dann sollten Eure Knieg�rtel lose h�ngen, Eure
+M�tze nicht gebunden sein, Eure �rmel aufgekn�pft, Eure Schuhe
+nicht zugeschn�rt, und alles und jedes an Euch m��te eine
+nachl�ssige Trostlosigkeit verraten.  Aber solch ein Mensch seid
+ihr nicht.  Ihr seid vielmehr geschniegelt in Eurem Anzuge, mehr
+wie einer, der in sich selbst verliebt als sonst jemands Liebhaber
+ist.
+
+Orlando.
+Sch�ner Junge, ich wollte, ich k�nnte dich glauben machen, da� ich
+liebe.
+
+Rosalinde.
+Mich das glauben machen?  Ihr k�nntet es ebensogut Eure Liebste
+glauben machen, was nie zu tun williger ist--daf�r steh ich Euch--
+als zu gestehn, da� sie es tut; das ist einer von den Punkten,
+worin die Weiber immer ihr Gewissen L�gen strafen.  Aber in ganzem
+Ernst: seid Ihr es, der die Verse an die B�ume h�ngt, in denen
+Rosalinde so bewundert wird?
+
+Orlando.
+Ich schw�re dir, junger Mensch, bei Rosalindens wei�er Hand: ich
+bin es, ich bin der Ungl�ckliche.
+
+Rosalinde.
+Aber seid Ihr so verliebt, als Eure Reime bezeugen?
+
+Orlando.
+Weder Gereimtes noch Ungereimtes kann ausdr�cken, wie sehr.
+
+Rosalinde.
+Liebe ist eine blo�e Tollheit, und ich sage Euch, verdient
+ebensogut eine dunkle Zelle und Peitsche als andre Tolle; und die
+Ursache, warum sie nicht so gez�chtigt und geheilt wird, ist, weil
+sich dieser Wahnsinn so gemein gemacht hat, da� die Zuchtmeister
+selbst verliebt sind.  Doch kann ich sie mit gutem Rat heilen.
+
+Orlando.
+Habt Ihr irgendwen so geheilt?
+
+Rosalinde.
+Ja, einen, und zwar auf folgende Weise.  Er mu�te sich einbilden,
+da� ich seine Liebste, seine Gebieterin w�re, und alle Tage hielt
+ich ihn an, um mich zu werben.  Ich, der ich nur ein launenhafter
+Junge bin, gr�mte mich dann, war weibisch, ver�nderlich, wu�te
+nicht, was ich wollte, stolz, phantastisch, grillenhaft, l�ppisch,
+unbest�ndig, bald in Tr�nen, bald voll L�cheln, von jeder
+Leidenschaft etwas und von keiner etwas Rechtes, wie Kinder und
+Weiber meistenteils in diese Farben schlagen.  Bald mochte ich ihn
+leiden, bald konnte ich ihn nicht ausstehn; dann machte ich mir mit
+ihm zu schaffen, dann sagte ich mich von ihm los; jetzt weinte ich
+um ihn, jetzt spie ich vor ihm aus: so da� ich meinen Bewerber aus
+einem tollen Anfall von Liebe in einen leibhaften Anfall von
+Tollheit versetzte, welche darin bestand, das Get�mmel der Welt zu
+verschw�ren und in einem m�nchischen Winkel zu leben.  Und so
+heilte ich ihn, und auf diese Art nehme ich es �ber mich, Euer Herz
+so reinzuwaschen, wie ein gesundes Schafherz, da� nicht ein Flecken
+Liebe mehr daran sein soll.
+
+Orlando.
+Ihr w�rdet mich nicht heilen, junger Mensch.
+
+Rosalinde.
+Ich w�rde Euch heilen, wolltet Ihr mich nur Rosalinde nennen und
+alle Tage in meine H�tte kommen und um mich werben.
+
+Orlando.
+Nun, bei meiner Treue im Lieben, ich will es; sagt mir, wo sie ist.
+
+Rosalinde.
+Geht mit mir, so will ich sie Euch zeigen, und unterwegs sollt Ihr
+mir sagen, wo Ihr hier im Walde wohnt.  Wollt Ihr kommen?
+
+Orlando.
+Von ganzem Herzen, guter Junge.
+
+Rosalinde.
+Nein, Ihr m��t mich Rosalinde nennen.--Komm, Schwester, la�t uns
+gehn.
+
+(Alle ab.)
+
+
+
+Dritte Szene
+
+Der Wald
+
+(Probstein und K�thchen kommen.  Jacques in der Ferne, belauscht
+sie)
+
+
+Probstein.
+Komm hurtig, gutes K�thchen; ich will deine Ziegen zusammenholen,
+K�thchen.  Und sag, K�thchen: bin ich der Mann noch, der dir
+ansteht?  Bist du mit meinen schlichten Z�gen zufrieden?
+
+K�thchen
+Eure Z�ge?  Gott beh�te!  Was sind das f�r Streiche?
+
+Probstein.
+Ich bin hier bei K�thchen und ihren Ziegen, wie der Dichter, der
+die �rgsten Bockspr�nge machte, der ehrliche Ovid, unter den Goten.
+
+Jacques.
+O schlechtlogierte Gelehrsamkeit!  schlechter als Jupiter unter
+einem Strohdach!
+
+Probstein.
+Wenn eines Menschen Verse nicht verstanden werden und eines
+Menschen Witz von dem geschickten Kinde Verstand nicht unterst�tzt
+wird, das schl�gt einen Menschen h�rter nieder als eine gro�e
+Rechnung in einem kleinen Zimmer.--Wahrhaftig, ich wollte, die
+G�tter h�tten dich poetisch gemacht.
+
+K�thchen
+Ich wei� nicht, was poetisch ist.  Ist es ehrlich in Worten und
+Werken?  Besteht es mit der Wahrheit?
+
+Probstein.
+Nein, wahrhaftig nicht; denn die wahrste Poesie erdichtet am
+meisten, und Liebhaber sind der Poesie ergeben, und was sie in
+Poesie schw�ren, davon kann man sagen, sie erdichten es als
+Liebhaber.
+
+K�thchen
+K�nnt Ihr denn w�nschen, da� mich die G�tter poetisch gemacht
+h�tten?
+
+Probstein.
+Ich tue es wahrlich, denn du schw�rst mir zu, da� du ehrbar bist.
+Wenn du nun ein Poet w�rest, so h�tte ich einige Hoffnung, da� du
+erdichtetest.
+
+K�thchen
+Wolltet Ihr denn nicht, da� ich ehrbar w�re?
+
+Probstein.
+Nein, wahrhaftig nicht, du m��test denn sehr h��lich sein; denn
+Ehrbarkeit mit Sch�nheit gepaart ist wie eine Honigbr�he �ber
+Zucker.
+
+Jacques.
+Ein sinnreicher Narr!
+
+K�thchen
+Gut, ich bin nicht sch�n, und darum bitte ich die G�tter, da� sie
+mich ehrbar machen.
+
+Probstein.
+Wahrhaftig, Ehrbarkeit an eine garstige Schmutzdirne wegzuwerfen,
+hie�e, gut Essen auf eine unreinliche Sch�ssel legen.
+
+K�thchen
+Ich bin keine Schmutzdirne, ob ich schon den G�ttern danke, da� ich
+garstig bin.
+
+Probstein.
+Gut, die G�tter sei'n f�r deine Garstigkeit gepriesen, die
+Schmutzigkeit kann noch kommen.  Aber sei es, wie es will, ich
+heirate dich, und zu dem Ende bin ich bei Ehrn Olivarius Textdreher
+gewesen, dem Pfarrer im n�chsten Dorf der mir versprochen hat, mich
+an diesem Platz im Walde zu treffen und uns zusammenzugeben.
+
+Jacques (beiseite).
+Die Zusammenkunft m�chte ich mit ansehn.
+
+K�thchen
+Nun, die G�tter lassen es wohl gelingen!
+
+Probstein.
+Amen!  Wer ein zaghaft Herz h�tte, m�chte wohl bei diesem
+Unternehmen stutzen; denn wir haben hier keinen Tempel als den Wald,
+keine Gemeinde als Hornvieh.  Aber was tut's?  Mutig!  H�rner sind
+verha�t, aber unvermeidlich.  Es hei�t, mancher Mensch wei� des
+Guten kein Ende; recht!  mancher Mensch hat gute H�rner und wei�
+ihrer kein Ende.  Wohl!  es ist das Zugebrachte von seinem Weibe,
+er hat es nicht selbst erworben.--H�rner?  Nun ja!  Arme Leute
+allein?--Nein, nein, der edelste Hirsch hat sie so hoch wie der
+geringste.  Ist der ledige Mann darum gesegnet?  Nein.  Wie eine
+Stadt mit Mauern vornehmer ist als ein Dorf, so ist die Stirn eines
+verheirateten Mannes ehrenvoller als die nackte Schl�fe eines
+Junggesellen; und um soviel besser Schutzwehr ist als Unverm�gen,
+um soviel kostbarer ist ein Horn als keins.
+(Ehrn Olivarius Textdreher kommt.)  Hier kommt Ehrn Olivarius.--
+Ehrn Olivarius Textdreher, gut, da� wir Euch treffen.  Wollt Ihr
+uns hier unter diesem Baum abfertigen, oder sollen wir mit Euch in
+Eure Kapelle gehn?
+
+Ehrn Olivarius.
+Ist niemand da, um die Braut zu geben?
+
+Probstein.
+Ich nehme sie nicht als Gabe von irgendeinem Mann.
+
+Ehrn Olivarius.
+Sie mu� gegeben werden, oder die Heirat ist nicht g�ltig.
+
+Jacques (tritt vor).
+Nur zu!  nur zu!  ich will sie geben.
+
+Probstein.
+Guten Abend, lieber Herr.  Wie hei�t Ihr doch?  Wie gehts Euch?
+Sch�n, da� ich Euch treffe.  Gotteslohn f�r Eure neuliche
+Gesellschaft!  Ich freue mich sehr, Euch zu sehn.--Ich habe hier
+eben eine Kleinigkeit vor, Herr.  Ich bitte, bedeckt Euch.
+
+Jacques.
+Wollt Ihr Euch verheiraten, Hanswurst?
+
+Probstein.
+Wie der Ochse sein Joch hat, Herr, das Pferd seine Kinnkette und
+der Falke seine Schellen, so hat der Mensch seine W�nsche; und wie
+sich Tauben schn�beln, so m�chte der Ehestand naschen.
+
+Jacques.
+Und wollt Ihr, ein Mann von Eurer Erziehung, Euch im Busch
+verheiraten wie ein Bettler?  In die Kirche geht und nehmt einen
+t�chtigen Priester, der Euch bedeuten kann, was Heiraten ist.
+Dieser Geselle wird Euch nur so zusammenf�gen, wie sie's beim
+Tafelwerk machen; dann wird eins von euch eintrocknen und sich
+werfen wie frisches Holz: knack, knack.
+
+Probstein (beiseite).
+Ich denke nicht anders, als mir w�re besser, von ihm getraut zu
+werden wie von einem andern; denn er sieht mir aus, als wenn er
+mich nicht recht trauen wurde; und wenn er mich nicht recht traute,
+so ist das nachher ein guter Vorwand, mein Weib im Stiche zu lassen.
+
+Jacques.
+Geh mit mir, Freund, und h�re meinen Rat.
+
+Probstein.
+Komm, lieb K�thchen!
+Du wirst noch meine Frau, oder du bleibst mein M�dchen.
+Lebt wohl, Ehrn Olivarius.  Nicht:
+        "O holder Oliver!
+        O wackrer Oliver!
+        La� mich nicht hinter dir." Nein:
+        "Pack dich fort!
+        Geh!  auf mein Wort,
+        Ich will nicht zur Trauung mit dir."
+
+(Jacques, Probstein und K�thchen ab.)
+
+Ehrn Olivarius.
+Es tut nichts; keiner von allen diesen phantastischen Schelmen
+zusammen soll mich aus meinem Beruf herausnecken.
+
+(Ab.)
+
+
+
+Vierte Szene
+
+Der Wald.  Vor einer H�tte
+
+(Rosalinde und Celia treten auf)
+
+
+Rosalinde.
+Sage mir nichts weiter, ich will weinen.
+
+Celia.
+Tu es nur; aber sei doch so weise, zu bedenken, da� Tr�nen einem
+Mann nicht anstehn.
+
+Rosalinde.
+Aber habe ich nicht Ursache zu weinen?
+
+Celia.
+So gute Ursache sich einer nur w�nschen mag.  Also weine.
+
+Rosalinde.
+Selbst sein Haar ist von einer falschen Farbe.
+
+Celia.
+Nur etwas brauner als des Judas seins.  Ja, seine K�sse sind rechte
+Judaskinder.
+
+Rosalinde.
+Sein Haar ist bei alledem von einer h�bschen Farbe.
+
+Celia.
+Eine herrliche Farbe; es geht nichts �ber Nu�braun.
+
+Rosalinde.
+Und seine K�sse sind so voll Heiligkeit wie die Ber�hrung des
+geweihten Brotes.
+
+Celia.
+Er hat ein Paar abgelegte Lippen der Diana gekauft; eine Nonne von
+des Winters Schwesterschaft k��t nicht geistlicher; das wahre Eis
+der Keuschheit ist in ihnen.
+
+Rosalinde.
+Aber warum versprach er mir, diesen Morgen zu kommen, und kommt
+nicht?
+
+Celia.
+Nein, gewi�lich, es ist keine Treu und Glauben in ihm.
+
+Rosalinde.
+Denkst du das?
+
+Celia.
+Nun, ich glaube, er ist weder ein Beutelschneider noch ein
+Pferdedieb; aber was seine Wahrhaftigkeit in der Liebe betrifft, so
+halte ich ihn f�r so hohl als einen umgekehrten Becher oder eine
+wurmstichige Nu�.
+
+Rosalinde.
+Nicht wahrhaftig in der Liebe?
+
+Celia.
+Ja, wenn er verliebt ist; aber mich d�nkt, das ist er nicht.
+
+Rosalinde.
+Du h�rtest ihn doch hoch und teuer beschw�ren, da� er es war.
+
+Celia.
+(War) ist nicht (ist.)  Auch ist der Schwur eines Liebhabers nicht
+zuverl�ssiger als das Wort eines Bierschenken: sie bekr�ftigen
+beide falsche Rechnungen.  Er begleitet hier im Walde den Herzog,
+Euren Vater.
+
+Rosalinde.
+Ich begegnete dem Herzog gestern und mu�te ihm viel Rede stehn.  Er
+fragte mich, von welcher Herkunft ich w�re; ich sagte ihm, von
+einer ebenso guten als er; er lachte und lie� mich gehn.  Aber was
+sprechen wir von V�tern, solange ein Mann wie Orlando in der Welt
+ist?
+
+Celia.
+O das ist ein reizender Mann!  Er macht reizende Verse, spricht
+reizende Worte, schw�rt reizende Eide und bricht sie reizend der
+Quere, grade vor seiner Liebsten Herz, wie ein j�mmerlicher
+Turnierer, der sein Pferd nach (einer) Seite spornt, seine Lanze
+zerbricht.  Aber alles ist reizend, wo Jugend obenauf sitzt und die
+Z�gel lenkt.  Wer kommt hier?
+
+(Corinnus kommt.)
+
+Corinnus.
+Mein Herr und Fr�ulein, ihr befragtet oft
+Mich um den Sch�fer, welcher Liebe klagte,
+Den ihr bei mir saht sitzen auf dem Rasen,
+Wie er die �berm�tge Sch�frin pries,
+Die seine Liebste war.
+
+Celia.
+Was ist mit ihm?
+
+Corinnus.
+Wollt ihr ein Schauspiel sehn, wahrhaft gespielt
+Von treuer Liebe blassem Angesicht
+Und roter Glut des Hohns und stolzer Hoffart:
+Geht nur ein Endchen mit, ich f�hr euch hin,
+Wenn ihr's beachten wollt.
+
+Rosalinde.
+O kommt!  gehn wir dahin;
+Verliebte sehen n�hrt Verliebter Sinn.
+Bringt uns zur Stell, und gibt es so das Gl�ck,
+So spiel ich eine Roll in ihrem St�ck.
+
+(Alle ab.)
+
+
+
+F�nfte Szene
+
+Ein anderer Teil des Waldes
+
+(Silvius und Ph�be treten auf)
+
+
+Silvius.
+H�hnt mich nicht, liebe Ph�be!  Tut's nicht, Ph�be!
+Sagt, da� Ihr mich nicht liebt, doch sagt es nicht
+Mit Bitterkeit; der Henker, dessen Herz
+Des Tods gewohnter Anblick doch verh�rtet,
+F�llt nicht das Beil auf den gebeugten Nacken,
+Bis er sich erst entschuldigt.  Seid Ihr strenger
+Als der von Tropfen Bluts sich n�hrt und kleidet?
+
+(Rosalinde, Celia und Corinnus kommen in der Entfernung.)
+
+Ph�be.
+Ich m�chte keineswegs dein Henker sein;
+Ich fliehe dich, um dir kein Leid zu tun.
+Du sagst mir, da� ich Mord im Auge trage;
+'s ist artig in der Tat und steht zu glauben,
+Da� Augen, diese schw�chsten, zartsten Dinger,
+Die feig ihr Tor vor Sonnenst�ubchen schlie�en,
+Tyrannen, Schl�chter, M�rder sollen sein.
+Ich seh dich finster an von ganzem Herzen:
+Verwundet nun mein Aug, so la� dich's t�ten.
+Tu doch, als k�mst du um!  so fall doch nieder!
+Und kannst du nicht: pfui!  sch�m dich, so zu l�gen,
+Und sag nicht, meine Augen seien M�rder.
+Zeig doch die Wunde, die mein Aug dir machte.
+Ritz dich mit einer Nadel nur, so bleibt
+Die Schramme dir; lehn dich auf Binsen nur,
+Und es beh�lt den Eindruck deine Hand
+Auf einen Augenblick; allein die Augen,
+Womit ich auf dich blitzte, tun dir nichts,
+Und sicher ist auch keine Kraft in Augen,
+Die Schaden tun kann.
+
+Silvius.
+O geliebte Ph�be!
+Begegnet je--wer wei�, wie bald dies je!--
+Auf frischen Wangen dir der Liebe Macht,
+Dann wirst du die geheimen Wunden kennen
+Vom scharfen Pfeil der Liebe.
+
+Ph�be.
+Doch bis dahin
+Komm mir nicht nah, und wenn die Zeit gekommen,
+Kr�nk mich mit deinem Spott, sei ohne Mitleid,
+Wie ich bis dahin ohne Mitleid bin.
+
+Rosalinde (tritt vor).
+Warum?  ich bitt Euch--Wer war Eure Mutter,
+Da� Ihr den Ungl�ckselgen kr�nkt und h�hnt
+Und was nicht alles?  H�ttet Ihr auch Sch�nheit
+(Wie ich doch wahrlich mehr an Euch nicht sehe,
+Als ohne Licht--im Finstern geht zu Bett),
+M��t Ihr deswegen stolz und f�hllos sein?
+Was hei�t das?  Warum blickt Ihr mich so an?
+Ich seh nicht mehr an Euch, als die Natur
+Auf Kauf zu machen pflegt.  So war ich lebe!
+Sie will auch (meine) Augen wohl bet�ren?
+Nein, wirklich, stolze Dame!  hofft das nicht.
+Nicht Euer Rabenhaar, kohlschwarze Brauen,
+Glaskugelaugen, noch die Milchrahmwange
+Bezwingen meinen Sinn, Euch zu verehren.--
+O bl�der Sch�fer, warum folgt Ihr ihr
+Wie feuchter S�d, von Wind und Regen schwellend?
+Ihr seid ja tausendfach ein h�bschrer Mann
+Als sie ein Weib.  Dergleichen Toren f�llen
+Die ganze Welt mit garstgen Kindern an.
+Der Spiegel nicht: Ihr seid es, der ihr schmeichelt;
+Sie sieht in Euch sich h�bscher abgespiegelt,
+Als ihre Z�ge sie erscheinen lassen.--
+Doch, Fr�ulein, kennt Euch selbst, fallt auf die Knie,
+Dankt Gott mit Fasten f�r 'nen guten Mann;
+Denn als ein Freund mu� ich ins Ohr Euch sagen:
+Verkauft Euch bald, Ihr seid nicht jedes Kauf.
+Liebt diesen Mann!  fleht ihm als Eurem Retter:
+Am h��lichsten ist H��lichkeit am Sp�tter!--
+So nimm sie zu dir, Sch�fer.  Lebt denn wohl!
+
+Ph�be.
+O holder J�ngling, schilt ein Jahr lang so!
+Dich h�r ich lieber schelten als ihn werben.
+
+Rosalinde.
+Er hat sich in ihre H��lichkeit verliebt, und sie wird sich in
+meinen Zorn verlieben.  Wenn das so ist, so will ich sie mit
+bittern Worten pfeffern, so schnell sie dir mit Stirnrunzeln
+antwortet.--Warum seht Ihr mich so an?
+
+Ph�be.
+Aus �blem Willen nicht.
+
+Rosalinde.
+Ich bitt Euch sehr, verliebt Euch nicht in mich,
+Denn ich bin falscher als Gel�bd' im Trunk;
+Zudem, ich mag Euch nicht.  Sucht Ihr etwa mein Haus:
+'s ist hinter den Oliven, dicht bei an.
+Wollt Ihr gehn, Schwester?--Sch�fer, setz ihr zu.--
+Komm, Schwester!--Seid ihm g�nstger, Sch�ferin,
+Und seid nicht stolz; konnt alle Welt auch sehn,
+So blind wird keiner mehr von hinnen gehn.
+Zu unsrer Herde, kommt!
+
+(Rosalinde und Celia ab.)
+
+Ph�be.
+O Sch�fer!  nun kommt mir dein Spruch zur�ck:
+"Wer liebte je und nicht beim ersten Blick?"
+
+Silvius.
+Geliebte Ph�be--
+
+Ph�be.
+Ha, was sagst du, Silvius?
+
+Silvius.
+Beklagt mich, liebe Ph�be.
+
+Ph�be.
+Ich bin um dich bek�mmert, guter Silvius.
+
+Silvius.
+Wo die Bek�mmernis, wird Hilfe sein.
+Seid Ihr um meinen Liebesgram bek�mmert,
+Gebt Liebe mir; mein Gram und Euer Kummer
+Sind beide dann vertilgt.
+
+Ph�be.
+Du hast ja meine Lieb, ist das nicht nachbarlich?
+
+Silvius.
+Dich m�cht ich haben.
+
+Ph�be.
+Ei, das w�re Habsucht.
+Die Zeit war, Silvius, da ich dich geha�t:
+Es ist auch jetzt nicht so, da� ich dich liebte;
+Doch weil du kannst so gut von Liebe sprechen,
+So duld ich deinen Umgang, der mir sonst
+Verdrie�lich war, und bitt um Dienste dich.
+Allein, erwarte keinen andern Lohn
+Als deine eigne Freude, mir zu dienen.
+
+Silvius.
+So heilig und so gro� ist meine Liebe,
+Und ich in solcher D�rftigkeit an Gunst,
+Da� ich es f�r ein reiches Teil mu� halten,
+Die �hren nur dem Manne nachzulesen,
+Dem volle Ernte wird.  Verliert nur dann und wann
+Ein fl�chtig L�cheln: davon will ich leben.
+
+Ph�be.
+Kennst du den jungen Mann, der mit mir sprach?
+
+Silvius.
+Nicht sehr genau, doch traf ich oft ihn an.
+Er hat die Weid und Sch�ferei gekauft,
+Die sonst dem alten Carlot zugeh�rt.
+
+Ph�be.
+Denk nicht, ich lieb ihn, weil ich nach ihm frage.
+'s ist nur ein dummer Bursch--doch spricht er gut;
+Frag ich nach Worten?--Doch tun Worte gut,
+Wenn, der sie spricht, dem, der sie h�rt, gef�llt.
+Es ist ein h�bscher Junge--nicht gar h�bsch;
+Doch wahrlich, er ist stolz--zwar steht sein Stolz ihm:
+Er wird einmal ein feiner Mann.  Das Beste
+Ist sein Gesicht, und schneller als die Zunge
+Verwundete, heilt' es sein Auge wieder.
+Er ist nicht eben gro�, doch f�r sein Alter gro�;
+Sein Bein ist nur so so, doch macht sich's gut;
+Es war ein lieblich Rot auf seinen Lippen,
+Ein etwas reiferes und st�rkres Rot
+Als auf den Wangen: just der Unterschied
+Wie zwischen dunkeln und gesprengten Rosen.
+Es gibt der Weiber, Silvius: h�tten sie
+Ihn St�ck f�r St�ck betrachtet so wie ich,
+Sie h�tten sich verliebt; ich f�r mein Teil,
+Ich lieb ihn nicht, noch hass' ich ihn, und doch
+H�tt ich mehr Grund zu hassen als zu lieben.
+Denn was hatt er f�r Recht, mich auszuschelten?
+Er sprach, mein Haar sei schwarz, mein Auge schwarz,
+Und, wie ich mich entsinne, h�hnte mich.
+Mich wundert's, da� ich ihm nicht Antwort gab.
+Schon gut!  Verschoben ist nicht aufgehoben;
+Ich will ihm einen Brief voll Spottes schreiben,
+Du sollst ihn zu ihm tragen: willst du, Silvius?
+
+Silvius.
+Ph�be, von Herzen gern.
+
+Ph�be.
+Ich schreib ihn gleich;
+Der Inhalt liegt im Kopf mir und im Herzen,
+Ich will ganz kurz und bitter zu ihm sein.
+Komm mit mir, Silvius!
+
+(Ab.)
+
+
+
+
+Vierter Aufzug
+
+
+
+Erste Szene
+
+Der Wald
+
+(Rosalinde, Celia und Jacques treten auf)
+
+
+Jacques.
+Ich bitte dich, artiger, junger Mensch, la� uns besser miteinander
+bekannt werden.
+
+Rosalinde.
+Sie sagen, Ihr w�rt ein melancholischer Gesell.
+
+Jacques.
+Das bin ich; ich mag es lieber sein als lachen.
+
+Rosalinde.
+Die eins von beiden aufs �u�erste treiben, sind abscheuliche
+Burschen und geben sich jedem Tadel preis, �rger als Trunkenbolde.
+
+Jacques.
+Ei, es ist doch h�bsch, traurig zu sein und nichts zu sagen.
+
+Rosalinde.
+Ei, so ist es auch h�bsch, ein T�rpfosten zu sein.
+
+Jacques.
+Ich habe weder des Gelehrten Melancholie, die Nacheifrung ist, noch
+des Musikers, die phantastisch ist, noch des Hofmanns, die
+hoff�rtig ist, noch des Soldaten, die ehrgeizig ist, noch des
+Juristen, die politisch ist, noch der Frauen, die zimperlich ist;
+noch des Liebhabers, die das alles zusammen ist, sondern es ist
+eine Melancholie nach meiner Weise, aus mancherlei Ingredienzien
+bereitet, von mancherlei Gegenst�nden abgezogen, und wirklich die
+gesamte Betrachtung meiner Reisen, deren �ftere �berlegung mich in
+eine h�chst launische Betr�bnis einh�llt.
+
+Rosalinde.
+Ein Reisender?  Meiner Treu, Ihr habt gro�e Ursache, betr�bt zu
+sein; ich f�rchte, Ihr habt Eure eignen L�nder verkauft, um andrer
+Leute ihre zu sehn.  Viel gesehn haben und nichts besitzen, das
+kommt auf reiche Augen und arme H�nde hinaus.
+
+Jacques.
+Nun, ich habe Erfahrung gewonnen.
+
+(Orlando tritt auf.)
+
+Rosalinde.
+Und Eure Erfahrung macht Euch traurig.  Ich m�chte lieber einen
+Narren halten, der mich lustig machte, als Erfahrung, die mich
+traurig machte.  Und noch obendrein darum zu reisen?
+
+Orlando.
+Habt Gru� und Heil, geliebte Rosalinde.
+
+Jacques.
+Nein, dann Gott befohlen, wenn Ihr gar in Versen sprecht.
+
+(Ab.)
+
+Rosalinde.
+Fahrt wohl, mein Herr Reisender!  Seht zu, da� Ihr lispelt und
+ausl�ndische Kleidung tragt, macht alles Ersprie�liche in Eurem
+eignen Lande herunter, entzweit Euch mit Eurer Geburt und scheltet
+schier den lieben Gott, da� er Euch kein andres Gesicht gab: sonst
+glaub ich es kaum, da� Ihr je in einer Gondel gefahren seid.--Nun,
+Orlando, wo seid Ihr die ganze Zeit her gewesen?  Ihr, ein
+Liebhaber?--Spielt Ihr mir noch einmal so einen Streich, so kommt
+mir nicht wieder vors Gesicht.
+
+Orlando.
+Meine sch�ne Rosalinde, es ist noch keine Stunde sp�ter, als ich
+versprach.
+
+Rosalinde.
+Ein Versprechen in der Liebe um eine Stunde brechen?--Wer tausend
+Teile aus einer Minute macht und nur ein Teilchen von dem
+tausendsten Teil einer Minute in Liebessachen vers�umt, von dem mag
+man wohl sagen, Cupido hat ihm auf die Schulter geklopft; aber ich
+stehe daf�r, sein Herz ist unversehrt.
+
+Orlando.
+Verzeiht mir, liebe Rosalinde.
+
+Rosalinde.
+Nein, wenn Ihr so saumselig seid, so kommt mir nicht mehr vors
+Gesicht; ich h�tte es ebenso gern, da� eine Schnecke um mich freite.
+
+Orlando.
+Eine Schnecke?
+
+Rosalinde.
+Ja, eine Schnecke!  Denn kommt solch ein Liebhaber gleich langsam,
+so tr�gt er doch sein Haus auf dem Kopfe; ein besseres Leibgedinge,
+denk ich, als Ihr einer Frau geben k�nnt.  Au�erdem bringt er sein
+Schicksal mit sich.
+
+Orlando.
+Was ist das?
+
+Rosalinde.
+Ei, H�rner!  die solche, wie Ihr, sich gern von ihren Weibern
+aufsetzen lassen.  Aber er kommt mit seinem Lose ausger�stet und
+verh�tet den �blen Ruf seiner Frau.
+
+Orlando.
+Tugend dreht keine H�rner, und meine Rosalinde ist tugendhaft.
+
+Rosalinde.
+Und ich bin Eure Rosalinde.
+
+Celia.
+Es beliebt ihm, Euch so zu nennen; aber er hat eine Rosalinde von
+zarterer Farbe als Ihr.
+
+Rosalinde.
+Kommt, freit um mich, freit um mich, denn ich bin jetzt in einer
+Festtagslaune und k�nnte wohl einwilligen.--Was w�rdet Ihr zu mir
+sagen, wenn ich Eure rechte, rechte Rosalinde w�re?
+
+Orlando.
+Ich w�rde k�ssen, ehe ich spr�che.
+
+Rosalinde.
+Nein, Ihr t�tet besser, erst zu sprechen, und wenn Ihr dann
+stocktet, weil Ihr nichts mehr w��tet, n�hmt Ihr Gelegenheit zu
+k�ssen.  Gute Redner r�uspern sich, wenn sie aus dem Text kommen,
+und wenn Liebhabern (was Gott verh�te!) der Stoff ausgeht, so ist
+der schicklichste Behelf, zu k�ssen.
+
+Orlando.
+Wenn nun der Ku� verweigert wird?
+
+Rosalinde.
+So n�tigt sie Euch zum Bitten, und das gibt neuen Stoff.
+
+Orlando.
+Wer k�nnte wohl stocken, wenn er vor seiner Liebsten steht?
+
+Rosalinde.
+Wahrlich, das solltet Ihr, wenn ich Eure Liebste w�re, sonst m��te
+ich meine Tugend f�r st�rker halten als meinen Witz.  Bin ich nicht
+Eure Rosalinde?
+
+Orlando.
+Es macht mir Freude, Euch so zu nennen, weil ich gern von ihr
+sprechen mag.
+
+Rosalinde.
+Gut, und in ihrer Person sage ich: ich will Euch nicht.
+
+Orlando.
+So sterbe ich in meiner eignen Person.
+
+Rosalinde.
+Mitnichten: verrichtet es durch einen Anwalt.  Die arme Welt ist
+fast sechstausend Jahre alt, und die ganze Zeit �ber ist noch kein
+Mensch in eigner Person gestorben: n�mlich in Liebessachen.  Dem
+Troilus wurde das Gehirn von einer griechischen Keule zerschmettert;
+doch tat er, was er konnte, um vorher noch zu sterben, und er ist
+eins von den Mustern der Liebe.  Leander, der h�tte noch manches
+sch�ne Jahr gelebt, w�r Hero gleich Nonne geworden, wenn eine hei�e
+Sommernacht es nicht getan h�tte; denn der arme Junge, er ging nur
+hin, um sich im Hellespont zu baden, bekam den Krampf und ertrank,
+und die albernen Chronikenschreiber seiner Zeit befanden, es sei
+Hero von Sestos.  Doch das sind lauter L�gen; die Menschen sind von
+Zeit zu Zeit gestorben, und die W�rmer haben sie verzehrt, aber
+nicht aus Liebe.
+
+Orlando.
+Ich m�chte meine rechte Rosalinde nicht so gesinnt wissen; denn ich
+beteure, ihr Stirnrunzeln k�nnte mich t�ten.
+
+Rosalinde.
+Bei dieser Hand!  es t�tet keine Fliege.  Aber kommt!  nun will ich
+Eure Rosalinde in einer gutwilligeren Stimmung sein, und bittet von
+mir, was Ihr wollt, ich will es zugestehn.
+
+Orlando.
+So liebe mich, Rosalinde.
+
+Rosalinde.
+Ja, das will ich, Freitags, Sonnabends und so weiter.
+
+Orlando.
+Und willst du mich haben?
+
+Rosalinde.
+Ja, und zwanzig solcher.
+
+Orlando.
+Was sagst du?
+
+Rosalinde.
+Seid Ihr nicht gut?
+
+Orlando.
+Ich hoff es.
+
+Rosalinde.
+Nun denn, kann man des Guten zuviel haben?--Kommt, Schwester, Ihr
+sollt der Priester sein, um uns zu trauen.--Gebt mir Eure Hand,
+Orlando.--Was sagt Ihr, Schwester?
+
+Orlando.
+Bitte, trau uns.
+
+Celia.
+Ich wei� die Worte nicht.
+
+Rosalinde.
+Ihr m��t anfangen: "Wollt Ihr, Orlando--"
+
+Celia.
+Schon gut.--Wollt Ihr, Orlando, gegenw�rtige Rosalinde zum Weibe
+haben?
+
+Orlando.
+Ja!
+
+Rosalinde.
+Gut, aber wann?
+
+Orlando.
+Nun, gleich: so schnell sie uns trauen kann.
+
+Rosalinde.
+So m��t Ihr sagen: "Ich nehme dich, Rosalinde, zum Weibe."
+
+Orlando.
+Ich nehme dich, Rosalinde, zum Weibe.
+
+Rosalinde.
+Ich k�nnte nach Eurem Erlaubnisschein fragen, doch--ich nehme dich,
+Orlando, zu meinem Manne.  Da kommt ein M�dchen dem Priester zuvor,
+und wirklich, Weibergedanken eilen immer ihren Handlungen voraus.
+
+Orlando.
+Das tun alle Gedanken, sie sind befl�gelt.
+
+Rosalinde.
+Nun sagt mir: wie lange wollt Ihr sie haben, nachdem Ihr ihren
+Besitz erlangt?
+
+Orlando.
+Immerdar und einen Tag.
+
+Rosalinde.
+Sagt, einen Tag, und la�t immerdar weg.  Nein, nein, Orlando!
+M�nner sind Mai, wenn sie freien, und Dezember in der Ehe.  M�dchen
+sind Fr�hling, solange sie M�dchen sind, aber der Himmel ver�ndert
+sich, wenn sie Frauen werden.  Ich will eifers�chtiger auf dich
+sein als ein Turteltauber auf sein Weibchen, schreiichter als ein
+Papagei, wenn es regnen will, putzs�chtiger als ein Affe und
+launischer in Gel�sten als eine Meerkatze.  Ich will um nichts
+weinen, wie Diana am Springbrunnen, und das will ich tun, wenn du
+zur Lustigkeit gestimmt bist; ich will lachen wie eine Hy�ne, und
+zwar wenn du zu schlafen w�nschest.
+
+Orlando.
+Aber wird meine Rosalinde das tun?
+
+Rosalinde.
+Bei meinem Leben, sie wird es machen wie ich.
+
+Orlando.
+Oh, sie ist aber klug.
+
+Rosalinde.
+Sonst h�tte sie nicht den Witz dazu.  Je kl�ger, desto verkehrter.
+Versperrt dem Witz eines Weibes die T�ren, so mu� er zum Fenster
+hinaus; macht das zu, so f�hrt er aus dem Schl�sselloch; verstopft
+das, so fliegt er mit dem Rauch aus dem Schornstein.
+
+Orlando.
+Ein Mann, der eine Frau mit soviel Witz h�tte, k�nnte fragen: "Witz,
+wo willst du mit der Frau hin?"
+
+Rosalinde.
+Nein, das k�nntet Ihr versparen, bis Ihr den Witz Eurer Frau auf
+dem Wege zu Eures Nachbars Bett antr�ft.
+
+Orlando.
+Welcher Witz h�tte Witz genug, das zu entschuldigen?
+
+Rosalinde.
+Nun, etwa:--sie ginge hin, Euch dort zu suchen.  Ihr werdet sie nie
+ohne Antwort ertappen.  Ihr m��tet sie denn ohne Zunge antreffen.
+Oh, die Frau, die die Schuld an ihren Fehlern nicht auf ihren Mann
+zu schieben versteht, die la�t nie ihr Kind s�ugen; sie w�rde es
+albern gro�ziehn.
+
+Orlando.
+Auf die n�chsten zwei Stunden, Rosalinde, verlasse ich dich.
+
+Rosalinde.
+Ach, geliebter Freund, ich kann dich nicht zwei Stunden entbehren.
+
+Orlando.
+Ich mu� dem Herzoge beim Mittagstisch aufwarten.  Um zwei Uhr bin
+ich wieder bei dir.
+
+Rosalinde.
+Ja, geht nur, geht nur!  Das sah ich wohl von Euch voraus; meine
+Freunde sagten mir's, und ich dacht es ebenfalls--Eure
+Schmeichelzunge gewann mich--es ist nur eine Versto�ne mehr--und
+also: komm, Tod!--Zwei Uhr ist Eure Stunde?
+
+Orlando.
+Ja, s��e Rosalinde.
+
+Rosalinde.
+Bei Treu und Glauben, und in vollem Ernst, und so mich der Himmel
+schirme, und bei allen artigen Schw�ren, die keine Gefahr haben,
+brecht Ihr ein P�nktchen Eures Versprechens, oder kommt nur eine
+Minute nach der Zeit, so will ich Euch f�r den feierlichsten
+Wortbrecher halten und f�r den falschesten Liebhaber und den
+Allerunw�rdigsten derer, die Ihr Rosalinde nennt, welcher nur aus
+dem ganzen Haufen der Ungetreuen ausgesucht werden konnte.  Darum
+h�tet Euch vor meinem Urteil und haltet Euer Versprechen.
+
+Orlando.
+So heilig, als wenn du wirklich meine Rosalinde w�rst.  Leb denn
+wohl!
+
+Rosalinde.
+Gut, die Zeit ist der alte Richter, der solche Verbrecher ans Licht
+zieht, und die Zeit mu� es ausweisen.  Lebt wohl!
+
+(Orlando ab.)
+
+Celia.
+Du hast unserm Geschlecht in deinem Liebesgeschw�tz geradezu �bel
+mitgespielt.  Wir m�ssen dir Hosen und Wams �ber den Kopf ziehn,
+damit die Welt sieht, was der Vogel gegen sein eignes Nest getan
+hat.
+
+Rosalinde.
+O M�hmchen!  M�hmchen!  M�hmchen!  mein artiges kleines M�hmchen!
+w��test du, wieviel Klafter tief ich in Liebe versenkt bin!  Aber
+es kann nicht ergr�ndet werden; meine Zuneigung ist grundlos wie
+die Bucht von Portugal.
+
+Celia.
+Sag lieber, bodenlos: soviel Liebe du hineintust, sie l�uft alle
+wieder heraus.
+
+Rosalinde.
+Nein, der boshafte Bastard der Venus, der vom Gedanken erzeugt, von
+der Grille empfangen und von der Tollheit geboren wurde, der blinde
+schelmische Bube, der jedermanns Augen bet�rt, weil er selbst keine
+mehr hat: der mag richten, wie tief ich in der Liebe stecke.--Ich
+sage dir, Aliena, ich kann nicht ohne Orlandos Anblick sein; ich
+will Schatten suchen und seufzen, bis er kommt.
+
+Celia.
+Und ich will schlafen.
+
+(Beide ab.)
+
+
+
+Zweite Szene
+
+Ein anderer Teil des Waldes
+
+(Jacques und Edelleute des Herzogs in J�gerkleidung treten auf)
+
+
+Jacques.
+Wer ist's, der den Hirsch erlegt'?
+
+Erster Edelmann.
+Ich tat es, Herr.
+
+Jacques.
+La�t uns ihn dem Herzog vorstellen, wie einen r�mischen Eroberer,
+und es schickte sich wohl, ihm das Hirschgeweih wie einen
+Siegeskranz aufzusetzen.  Habt ihr kein Lied, J�ger, auf diese
+Gelegenheit?
+
+Zweiter Edelmann.
+O ja, Herr.
+
+Jacques.
+Singt es; es ist gleichviel, ob Ihr Ton haltet, wenn es nur L�rm
+genug macht.
+
+Lied.  (Erste Stimme.)  Was kriegt er, der den Hirsch erlegt?
+(Zweite Stimme.)  Sein ledern Kleid und Horn er tr�gt.  (Erste
+Stimme.)  Drum singt ihn heim:
+Ohn allen Zorn trag du das Horn;
+Ein Helmschmuck war's, eh du geborn.
+
+(Dieser Zuruf wird im Chor von den �brigen wiederholt.)
+
+(Erste Stimme.)  Deins Vaters Vater f�hrt' es.
+(Zweite Stimme.) Und deinen Vater ziert' es.
+(Alle.)
+Das Horn, das Horn, das wackre Horn
+Ist nicht ein Ding zu Spott und Zorn.
+
+(Ab.)
+
+
+
+Dritte Szene
+
+(Rosalinde und Celia treten auf)
+
+
+Rosalinde.
+Was sagt Ihr nun?  Ist nicht zwei Uhr vorbei?  Und kein Orlando zu
+sehen!
+
+Celia.
+Ich stehe dir daf�r, mit reiner Liebe und verwirrtem Gehirn hat er
+seinen Bogen und Pfeile genommen und ist ausgegangen--zu schlafen.
+Seht, wer kommt da?
+
+(Silvius tritt auf.)
+
+Silvius.
+An Euch geht meine Botschaft, sch�ner J�ngling.
+Dies hie� mich meine Ph�be �bergeben;
+Ich wei� den Inhalt nicht; doch, wie ich riet
+Aus finstrer Stirn und zorniger Geb�rde,
+Die sie gemacht hat, w�hrend sie es schrieb,
+So mu� es zornig lauten; mir verzeiht,
+Denn ich bin schuldlos, Bote nur dabei.
+
+Rosalinde.
+Bei diesem Briefe m��te die Geduld
+Selbst sich emp�ren und den L�rmer spielen;
+Wer das hier hinnimmt, der nimmt alles hin.
+Sie sagt, ich sei nicht sch�n, sei ungezogen,
+Sie nennt mich stolz, und k�nne mich nicht lieben,
+Wenn M�nner selten wie der Ph�nix w�ren.
+Ihr Herz ist auch der Hase, den ich jage.
+Potz alle Welt!  was schreibt sie so an mich?
+H�rt, Sch�fer, diesen Brief habt Ihr erdacht.
+
+Silvius.
+Nein, ich beteur', ich wei� vom Inhalt nicht.
+Sie schrieb ihn selbst.
+
+Rosalinde.
+Geht, geht!  Ihr seid ein Narr,
+Den Liebe bis aufs �u�erste gebracht.
+Ich sah wohl ihre Hand: sie ist wie Leder,
+'ne sandsteinfarbne Hand; ich glaubte in der Tat,
+Sie h�tte ihre alten Handschuh an,
+Doch waren's ihre H�nde--sie hat H�nde
+Wie eine B�urin--doch das macht nichts aus;
+Ich sage, nie erfand sie diesen Brief,
+Hand und Erfindung ist von einem Mann.
+
+Silvius.
+Gewi�, er ist von ihr.
+
+Rosalinde.
+Es ist ein tobender und wilder Stil,
+Ein Stil f�r Raufer; wie ein T�rk dem Christen,
+So trotzt sie mir.  Ein weibliches Gehirn
+Kann nicht so riesenhafte Dinge zeugen,
+So �thiopsche Worte schw�rzern Sinns,
+Als wie sie aussehn.--Wollt Ihr selber h�ren?
+
+Silvius.
+Wenn's Euch beliebt; noch h�rt ich nicht den Brief,
+Doch schon zuviel von Ph�bes Grausamkeit.
+
+Rosalinde.
+Sie ph�bet mich; h�r an, wie die Tyrannin schreibt:
+
+(Liest.)
+
+        "Bist du Gott im Hirtenstand,
+        Der ein M�dchenherz entbrannt?"
+Kann ein Weib so h�hnen?
+
+Silvius.
+Nennt Ihr das h�hnen?
+
+Rosalinde.
+        "Des verborgne G�tterschaft
+        Qual in Weiberherzen schafft?"
+H�rtet Ihr je solches H�hnen?
+        "M�nner mochten um mich werben,
+        Nimmer bracht es mir Verderben."
+--Als wenn ich ein Tier w�re.
+        "Wenn deiner lichten Augen Hohn
+        Erregte solche Liebe schon,
+        Ach, wie m��t' ihr milder Schein
+        Wunderwirkend in mir sein!
+        Da du schaltest, liebt ich dich;
+        B�test du, was t�te ich?
+        Der mein Lieben bringt zu dir,
+        Kennt dies Lieben nicht in mir.
+        Gib ihm denn versiegelt hin,
+        Ob dein jugendlicher Sinn
+        Nimmt das treue Opfer an
+        Von mir und allem, was ich kann.
+        Sonst schlag durch ihn mein Bitten ab,
+        Und dann begehr ich nur ein Grab."
+
+Silvius.
+Nennt Ihr das schelten?
+
+Celia.
+Ach, armer Sch�fer!
+
+Rosalinde.
+Habt Ihr Mitleid mit ihm?  Nein, er verdient kein Mitleid.--Willst
+du solch ein Weib lieben?--Was?  dich zum Instrument zu machen,
+worauf man falsche T�ne spielt?  Nicht auszustehn!--Gut, geht Eures
+Weges zu ihr (denn ich sehe, die Liebe hat einen zahmen Wurm aus
+dir gemacht), und sagt ihr dies: Wenn sie mich liebt, befehle ich
+ihr an, dich zu lieben; wenn sie nicht will, so habe ich nichts mit
+ihr zu tun, es sei denn, da� du f�r sie bittest.--Wenn Ihr wahrhaft
+liebt, fort, und keine Silbe mehr, denn hier kommt jemand.
+
+(Silvius ab.)
+
+(Oliver tritt auf.)
+
+Oliver.
+Guten Morgen, sch�ne Kinder!  Wi�t ihr nicht,
+Wo hier im Wald herum 'ne Sch�ferei,
+Beschattet von Olivenb�umen, steht?
+
+Celia.
+Westw�rts von hier, den nahen Grund hinunter,
+Bringt Euch die Reih von Weiden l�ngs dem Bach,
+La�t Ihr sie rechter Hand, zum Orte hin.
+Allein um diese Stunde h�tet sich
+Die Wohnung selber; es ist niemand drin.
+
+Oliver.
+Wenn eine Zung ein Auge kann belehren,
+M��t ich euch kennen der Beschreibung nach:
+Die Tracht, die Jahre so.  "Der Knab ist blond,
+Von Ansehn weiblich, und er nimmt sich aus
+Wie eine reife Schwester; doch das M�dchen
+Ist klein und brauner als ihr Bruder." Seid ihr
+Des Hauses Eigner nicht, das ich erfragt?
+
+Celia.
+Weil Ihr uns fragt: ja, ohne Prahlerei.
+
+Oliver.
+Orlando gr��t Euch beide, und er schickt
+Dem J�ngling, den er seine Rosalinde
+Zu nennen pflegt, dies blutge Tuch.  Seid Ihr's?
+
+Rosalinde.
+Ich bin's.  Was will er uns damit bedeuten?
+
+Oliver.
+Zu meiner Schand etwas, erfahrt Ihr erst,
+Was f�r ein Mensch ich bin, und wo und wie
+Dies Tuch befleckt ward.
+
+Celia.
+Sagt, ich bitt Euch drum.
+
+Oliver.
+Da j�ngst Orlando sich von Euch getrennt,
+Gab er sein Wort, in einer Stunde wieder
+Zur�ck zu sein; und schreitend durch den Wald
+K�ut' er die Kost der s�� und bittern Liebe.--
+Seht, was geschah!  Er warf sein Auge seitw�rts
+Und denkt, was f�r ein Gegenstand sich zeigt:
+Am alten Eichbaum mit bemoosten Zweigen,
+Den hohen Gipfel kahl von d�rrem Alter,
+Lag ein zerlumpter Mann, ganz �berhaart,
+Auf seinem R�cken schlafend; um den Hals
+Wand eine gr�n und goldne Schlange sich,
+Die mit dem Kopf, zu Drohungen behend,
+Dem offnen Munde nahte; aber schnell,
+Orlando sehend, wickelt sie sich los
+Und schl�pft im Zickzack gleitend in den Busch.
+In dessen Schatten hatte eine L�win,
+Die Euter ausgezogen, sich gelagert,
+Den Kopf am Boden, katzenartig lauernd,
+Bis sich der Schl�fer r�hrte; denn es ist
+Die k�nigliche Weise dieses Tiers,
+Auf nichts zu fallen, was als tot erscheint.
+Dies sehend, naht' Orlando sich dem Mann
+Und fand, sein Bruder war's, sein �ltster Bruder.
+
+Celia.
+Oh, von dem Bruder h�rt ich wohl ihn sprechen,
+Und als den unnat�rlichsten, der lebte,
+Stellt' er ihn vor.
+
+Oliver.
+Und konnt es auch mit Recht;
+Denn gar wohl wei� ich, er war unnat�rlich.
+
+Rosalinde.
+Orlando aber?--Lie� er ihn zum Raub
+Der hungrigen und ausgesognen L�win?
+
+Oliver.
+Zweimal wandt er den R�cken und gedacht es;
+Doch Milde, edler als die Rache stets,
+Und die Natur, der Lockung �berlegen,
+Vermochten ihn, die L�win zu bek�mpfen,
+Die baldigst vor ihm fiel.  Bei diesem Strau�
+Erwacht ich von dem ungl�ckselgen Schlummer.
+
+Celia.
+Seid (Ihr) sein Bruder?
+
+Rosalinde.
+Hat er (Euch) gerettet?
+
+Celia.
+Ihr wart es, der so oft ihn t�ten wollte?
+
+Oliver.
+Ich war's, doch bin ich's nicht; ich scheue nicht
+Zu sagen, wer ich war; da die Bekehrung
+So s�� mich d�nkt, seit ich ein andrer bin.
+
+Rosalinde.
+Allein das blutge Tuch?
+
+Oliver.
+Im Augenblick,
+Da zwischen uns, vom ersten bis zum letzten,
+Nun Tr�nen die Berichte mild gebadet,
+Wie ich gelangt an jenen w�sten Platz--
+Geleitet' er mich zu dem edlen Herzog,
+Der frische Kleidung mir und Speise gab,
+Der Liebe meines Bruders mich empfehlend,
+Der mich sogleich in seine H�hle f�hrte.
+Er zog sich aus, da hatt ihm hier am Arm
+Die L�win etwas Fleisch hinweggerissen,
+Das unterdes geblutet; er fiel in Ohnmacht
+Und rief nach Rosalinden, wie er fiel.
+Ich bracht ihn zu sich selbst, verband die Wunde,
+Und da er bald darauf sich st�rker f�hlte,
+Hat er mich hergesandt, fremd, wie ich bin,
+Dies zu berichten, da� Ihr ihm den Bruch
+Des Wortes m�gt verzeihn; und dann dies Tuch,
+Mit seinem Blut gef�rbt, dem jungen Sch�fer
+Zu bringen, den er seine Rosalinde
+Im Scherz zu nennen pflegt.
+
+Celia.
+Was gibt es, Ganymed?  mein Ganymed?
+
+(Rosalinde f�llt in Ohnmacht.)
+
+Oliver.
+Wenn manche Blut sehn, fallen sie in Ohnmacht.
+
+Celia.
+Ach, dies bedeutet mehr!  Mein Ganymed!
+
+Oliver.
+Seht, er kommt wieder zu sich.
+
+Rosalinde.
+Ich wollt, ich w�r zu Haus.
+
+Celia.
+Wir f�hren dich dahin.--
+Ich bitt Euch, wollt Ihr unterm Arm ihn fassen?
+
+Oliver.
+Fa�t nur Mut, junger Mensch!--Ihr ein Mann?--Euch fehlt ein
+m�nnlich Herz.
+
+Rosalinde.
+Das tut es, ich gesteh's.  Ach, Herr, jemand k�nnte denken, das
+hie�e sich recht verstellen.  Ich bitte Euch, sagt Eurem Bruder,
+wie gut ich mich verstellt habe.--Ah!  ha!
+
+Oliver.
+Das war keine Verstellung; Eure Farbe legt ein zu starkes Zeugnis
+ab, da� es eine ernstliche Gem�tsbewegung war.
+
+Rosalinde.
+Verstellung, ich versichre Euch.
+
+Oliver.
+Gut also, fa�t ein Herz und stellt Euch wie ein Mann.
+
+Rosalinde.
+Das tu ich, aber von Rechts wegen h�tte ich ein Weib werden sollen.
+
+Celia.
+Kommt--Ihr seht immer bl�sser und bl�sser--ich bitte Euch, nach
+Hause.  Lieber Herr, geht mit uns.
+
+Oliver.  Gern, denn ich mu� ja meinem Bruder melden, wie weit Ihr
+ihn entschuldigt, Rosalinde.
+
+Rosalinde.
+Ich will etwas ausdenken; aber ich bitte Euch, r�hmt ihm meine
+Verstellung.--Wollt Ihr gehn.
+
+(Alle ab)
+
+
+
+
+F�nfter Aufzug
+
+
+
+Erste Szene
+
+Der Wald
+
+(Probstein und K�thchen kommen)
+
+
+Probstein.
+Wir werden die Zeit schon finden, K�thchen.  Geduld, liebes
+K�thchen!
+
+K�thchen.
+Wahrhaftig, der Pfarrer war gut genug, was auch der alte Herr sagen
+mochte.
+
+Probstein.
+Ein abscheulicher Ehrn Olivarius, K�thchen, ein entsetzlicher
+Textdreher.  Aber, K�thchen, da ist ein junger Mensch hier im Walde,
+der Anspruch auf dich macht.
+
+K�thchen.
+Ja, ich wei�, wer es ist; er hat in der Welt nichts an mich zu
+fordern.  Da kommt der Mensch, den Ihr meint.
+
+(Wilhelm kommt.)
+
+Probstein.
+Es ist mir ein rechtes Labsal, so einen T�lpel zu sehen.  Meiner
+Treu, wir, die mit Witz gesegnet sind, haben viel zu verantworten.
+Wir m�ssen necken, wir k�nnen's nicht lassen.
+
+Wilhelm.
+Guten Abend, K�thchen.
+
+K�thchen.
+Sch�nen guten Abend, Wilhelm.
+
+Wilhelm.
+Und Euch, Herr, einen guten Abend.
+
+Probstein.
+Guten Abend, lieber Freund.  Bedeck den Kopf!  bedeck den Kopf!
+Nun, sei so gut, bedecke dich!  Wie alt seid Ihr, Freund?
+
+Wilhelm.
+F�nfundzwanzig, Herr.
+
+Probstein.
+Ein reifes Alter.  Ist dein Name Wilhelm?
+
+Wilhelm.
+Wilhelm, Herr.
+
+Probstein.
+Ein sch�ner Name.  Bist hier im Walde geboren?
+
+Wilhelm.
+Ja, Herr, Gott sei Dank!
+
+Probstein.
+"Gott sei Dank"--eine gute Antwort.  Bist reich?
+
+Wilhelm.
+Nun, Herr, so, so.
+
+Probstein.
+"So, so" ist gut, sehr gut, ganz ungemein gut--nein, doch nicht, es
+ist nur so so.  Bist du weise?
+
+Wilhelm.
+Ja, Herr, ich hab einen h�bschen Verstand.
+
+Probstein.
+Ei, wohl gesprochen!  Da f�llt mir ein Sprichwort ein: "Der Narr
+h�lt sich f�r weise, aber der Weise wei�, da� er ein Narr ist."
+Wenn der heidnische Philosoph Verlangen trug, Weinbeeren zu essen,
+so �ffnete er die Lippen, indem er sie in den Mund steckte; damit
+wollte er sagen, Weinbeeren w�ren zum Essen gemacht und Lippen zum
+�ffnen.  Ihr liebt dieses M�dchen?
+
+Wilhelm.
+Das tu ich, Herr.
+
+Probstein.
+Gebt mir Eure Hand.  Bist du gelehrt?
+
+Wilhelm.
+Nein, Herr.
+
+Probstein.
+So lerne dieses von mir: haben ist haben, denn es ist eine Figur in
+der Redekunst, da� Getr�nk, wenn es aus einem Becher in ein Glas
+gesch�ttet wird, eines leer macht, indem es das andere anf�llt;
+denn alle unsre Schriftsteller stimmen darin �berein: (ipse) ist er;
+Ihr seid aber nicht (ipse,)denn ich bin "er".
+
+Wilhelm.
+Was f�r ein "er", Herr?
+
+Probstein.
+Der "er", Herr, der dies M�dchen heiraten mu�.  Also, Ihr T�lpel,
+meidet--was in der P�belsprache hei�t, verla�t--den Umgang--was auf
+b�urisch hei�t, die Gesellschaft--dieser Frauensperson--was im
+gemeinen Leben hei�t, M�dchen; welches alles zusammen hei�t: meidet
+den Umgang dieser Frauensperson, oder, T�lpel, du kommst um; oder,
+damit du es besser verstehst, du stirbst; n�mlich ich t�te dich,
+schaffe dich aus der Welt, bringe dich vom Leben zum Tode, von der
+Freiheit zur Knechtschaft.  Ich will dich mit Gift bedienen, oder
+mit Bastonaden, oder mit dem Stahl; ich will eine Partei gegen dich
+zusammenrotten, dich mit Politik �berw�ltigen; ich will dich auf
+hundertundf�nfzig Arten umbringen: darum zittre und zieh ab.
+
+K�thchen.
+Tu es, guter Wilhelm.
+
+Wilhelm.
+Gott erhalt Euch guter Dinge, Herr.
+
+(Ab.)
+
+(Corinnus kommt.)
+
+Corinnus.
+Unsre Herrschaft sucht Euch.  Kommt!  geschwind!  geschwind!
+
+Probstein.
+Lauf, K�thchen!  Lauf, K�thchen!  Ich komme nach, ich komme nach.
+
+(Alle ab.)
+
+
+
+Zweite Szene
+
+Ebendaselbst
+
+(Orlando und Oliver treten auf)
+
+
+Orlando.
+Ist es m�glich, da� Ihr auf so geringe Bekanntschaft Neigung zu ihr
+gefa�t?  Kaum saht Ihr sie, so liebtet Ihr; kaum liebtet Ihr, so
+warbt Ihr; kaum habt Ihr geworben, so sagt sie auch ja?  Und Ihr
+beharrt darauf, sie zu besitzen?
+
+Oliver.
+Macht Euch weder aus der �bereilung darin ein Bedenken, noch aus
+ihrer Armut, der geringen Bekanntschaft, meinem schnellen Werben,
+oder aus ihrem raschen Einwilligen, sondern sagt mit mir: ich liebe
+Aliena; sagt mit ihr: da� sie mich liebt; willigt mit beiden ein,
+da� wir einander besitzen m�gen.  Es soll zu Eurem Besten sein,
+denn meines Vaters Haus und alle Eink�nfte des alten Herrn Roland
+will ich Euch abtreten und hier als Sch�fer leben und sterben.
+
+(Rosalinde kommt.)
+
+Orlando.
+Ihr habt meine Einwilligung.  La�t Eure Hochzeit morgen sein, ich
+will den Herzog dazu einladen und sein ganzes frohes Gefolge.  Geht
+und bereitet Aliena vor; denn seht Ihr, hier kommt meine Rosalinde.
+
+Rosalinde.
+Gott beh�te Euch, Bruder.
+
+Oliver.
+Und Euch, sch�ne Schwester.
+
+Rosalinde.
+Oh, mein lieber Orlando, wie bek�mmert es mich, dich dein Herz in
+einer Binde tragen zu sehn.
+
+Orlando.
+Meinen Arm.
+
+Rosalinde.
+Ich dachte, dein Herz w�re von den Klauen eines L�wen verwundet
+worden.
+
+Orlando.
+Verwundet ist es, aber von den Augen eines Fr�uleins.
+
+Rosalinde.
+Hat Euch Euer Bruder erz�hlt, wie ich mich stellte, als fiel ich in
+Ohnmacht, da er mir Euer Tuch zeigte?
+
+Orlando.
+Ja, und gr��ere Wunder als das.
+
+Rosalinde.
+O ich wei�, wo Ihr hinauswollte--Ja, es ist wahr, niemals ging noch
+etwas so schnell zu, au�er etwa ein Gefecht zwischen zwei Widdern
+und C�sars thrasonisches Geprahle: "Ich kam, sah und siegte." Denn
+Euer Bruder und meine Schwester trafen sich nicht so bald, so sahen
+sie; sahen nicht so bald, so liebten sie; liebten nicht so bald, so
+seufzten sie; seufzten nicht so bald, so fragten sie einander nach
+der Ursache; wu�ten nicht so bald die Ursache, so suchten sie das
+Hilfsmittel; und vermittels dieser Stufen haben sie eine Treppe zum
+Ehestande gebaut, die sie unaufhaltsam hinaufsteigen, oder
+unenthaltsam vor dem Ehestande sein werden.  Sie sind in der
+rechten Liebeswut, sie wollen zusammen, man br�chte sie nicht mit
+Keulen auseinander.
+
+Orlando.
+Sie sollen morgen verheiratet werden, und ich will den Herzog zur
+Verm�hlung laden.  Aber ach!  welch bittres Ding ist es,
+Gl�ckseligkeit nur durch andrer Augen zu erblicken!  Um desto mehr
+werde ich morgen auf dem Gipfel der Schwermut sein, je gl�cklicher
+ich meinen Bruder sch�tzen werde, indem er hat, was er w�nscht.
+
+Rosalinde.
+Wie nun?  morgen kann ich Euch nicht statt Rosalindens dienen?
+
+Orlando.
+Ich kann nicht l�nger von Gedanken leben.
+
+Rosalinde.
+So will ich Euch denn nicht l�nger mit eitlem Geschw�tz erm�den.
+Wi�t also von mir (denn jetzt rede ich nicht ohne Bedeutung), da�
+ich wei�, Ihr seid ein Edelmann von guten Gaben.  Ich sage dies
+nicht, damit Ihr eine gute Meinung von meiner Wissenschaft fassen
+sollt, insofern ich sage: ich (wei�,)da� Ihr es seid, noch strebe
+ich nach einer gr��ern Achtung, als die Euch einigerma�en Glauben
+ablocken kann, zu Eurem eignen Besten, nicht zu meinem Ruhm.
+Glaubt denn, wenn's Euch beliebt, da� ich wunderbare Dinge vermag;
+seit meinem dritten Jahr hatte ich Verkehr mit einem Zauberer von
+der tiefsten Einsicht in seiner Kunst, ohne doch verdammlich zu
+sein.  Wenn Euch Rosalinde so sehr am Herzen liegt, als Euer
+Benehmen laut bezeugt, so sollt Ihr sie heiraten, wann Euer Bruder
+Aliena heiratet.  Ich wei�, in welche bedr�ngte Lage sie gebracht
+ist, und es ist mir nicht unm�glich, wenn Ihr nichts dagegen habt,
+sie Euch morgen vor die Augen zu stellen, leibhaftig und ohne
+Gef�hrde.
+
+Orlando.
+Sprichst du in n�chternem Ernst?
+
+Rosalinde.
+Das tu ich bei meinem Leben, das ich sehr wert halte, sage ich
+gleich, da� ich Zauberei verstehe.  Also werft Euch in Euren besten
+Staat, ladet Eure Freunde; denn wollt Ihr morgen verheiratet werden,
+so sollt ihr's, und mit Rosalinden, wenn Ihr wollt
+
+(Silvius und Ph�be treten auf.)
+
+Seht, da kommen Verliebte, die eine in mich und der andere in sie.
+
+Ph�be.
+Es war von Euch sehr unhold, junger Mann,
+Den Brief zu zeigen, den ich an Euch schrieb.
+
+Rosalinde.
+Ich frage nichts danach, es ist mein Streben,
+Verachtungsvoll und unhold Euch zu scheinen.
+Es geht Euch da ein treuer Sch�fer nach;
+Ihn blickt nur an, ihn liebt, er huldigt Euch.
+
+Ph�be.
+Sag, guter Sch�fer, diesem jungen Mann,
+Was lieben hei�t.
+
+Silvius.
+Es hei�t, aus Seufzern ganz bestehn und Tr�nen,
+Wie ich f�r Ph�be.
+
+Ph�be.
+Und ich f�r Ganymed.
+
+Orlando.
+Und ich f�r Rosalinde.
+
+Rosalinde.
+Und ich f�r keine Frau.
+
+Silvius.
+Es hei�t aus Treue ganz bestehn und Eifer,
+Wie ich f�r Ph�be.
+
+Ph�be.
+Und ich f�r Ganymed.
+
+Orlando.
+Und ich f�r Rosalinde.
+
+Rosalinde.
+Und ich f�r keine Frau.
+
+Silvius.
+Es hei�t, aus nichts bestehn als Phantasie,
+Aus nichts als Leidenschaft, aus nichts als W�nschen,
+Ganz Anbetung, Ergebung und Gehorsam,
+Ganz Demut, ganz Geduld und Ungeduld,
+Ganz Reinheit, ganz Bew�hrung, ganz Gehorsam.
+Und so bin ich f�r Ph�be.
+
+Ph�be.
+Und so bin ich f�r Ganymed.
+
+Orlando.
+Und so bin ich f�r Rosalinde.
+
+Rosalinde.
+Und so bin ich f�r keine Frau.
+
+Ph�be (zu Rosalinden).
+Wenn dem so ist, was schm�ht Ihr meine Liebe?
+
+Silvius (zu Ph�be).
+Wenn dem so ist, was schm�ht Ihr meine Liebe?
+
+Orlando.
+Wenn dem so ist, was schm�ht Ihr meine Liebe?
+
+Rosalinde.
+Wem sagt Ihr das: "Was schm�ht Ihr meine Liebe?"
+
+Orlando.
+Der, die nicht hier ist, und die mich nicht h�rt.
+
+Rosalinde.
+Ich bitte Euch, nichts mehr davon; es ist, als wenn die W�lfe gegen
+den Mond heulen.--(Zu Silvius.)
+
+Ich will Euch helfen, wenn ich kann.--(Zu Ph�be.)
+
+Ich wollte Euch lieben, wenn ich k�nnte.--Morgen kommen wir alle
+zusammen.--(Zu Ph�be.)
+
+
+Ich will Euch heiraten, wenn ich je ein Weib heirate, und ich
+heirate morgen.--(Zu Orlando.)  Ich will Euch Gen�ge leisten, wenn
+ich je irgendwem Gen�ge leistete, und Ihr sollt morgen verheiratet
+werden.--(Zu Silvius.)
+
+Ich will Euch zufriedenstellen, wenn das, was Euch gef�llt, Euch
+zufriedenstellt, und Ihr sollt morgen heiraten.--(Zu Orlando.)
+
+So wahr Ihr Rosalinde liebt, stellt Euch ein.--(Zu Silvius.)
+
+So wahr Ihr Ph�be liebt, stellt Euch ein--und so wahr ich kein Weib
+liebe, werde ich mich einstellen.  Damit gehabt euch wohl!  ich
+habe euch meine Befehle zur�ckgelassen.
+
+Silvius.
+Ich bleibe nicht aus, wenn ich das Leben behalte.
+
+Ph�be.
+Ich auch nicht.
+
+Orlando.
+Ich auch nicht.
+
+(Alle ab.)
+
+
+
+Dritte Szene
+
+Ebendaselbst
+
+(Probstein und K�thchen kommen)
+
+
+Probstein.
+Morgen ist der frohe Tag, K�thchen; morgen heiraten wir uns.
+
+K�thchen.
+Mich verlangt von ganzem Herzen danach, und ich hoffe, es ist kein
+unehrbares Verlangen, wenn mich verlangt, eine Frau wie andre auch
+zu werden.  Hier kommen zwei von des verbannten Herzogs Pagen.
+
+(Zwei Pagen kommen.)
+
+Erster Page.
+Sch�n getroffen, wackrer Herr!
+
+Probstein.
+Wahrhaftig, sch�n getroffen!  Kommt, setzt euch, setzt euch, und
+ein Lied.
+
+Zweiter Page.
+Damit wollen wir aufwarten; setzt Euch zwischen uns.--Sollen wir
+frisch dran, ohne uns zu r�uspern, oder auszuspeien, oder zu sagen,
+da� wir heiser sind, womit man immer einer schlechten Stimme die
+Vorrede h�lt?
+
+Erster Page.
+Gut!  gut!  und beide aus einem Tone, wie zwei Zigeuner auf einem
+Pferde.
+
+Lied.
+
+Ein Liebster und sein M�del sch�n,
+Mit heisa und ha und juchheisa trala!
+Die t�ten durch das Kornfeld gehn
+Zur Maienzeit, der lustigen Paarezeit,
+Wann V�gel singen, tirlirelirei:
+S�� Liebe liebt den Mai.  Und zwischen Halmen auf dem Rain,
+Mit heisa und ha und juchheisa trala!
+Legt sich das h�bsche Paar hinein,
+Zur Maienzeit, der lustigen Paarezeit,
+Wann V�gel singen, tirlirelirei:
+S�� Liebe liebt den Mai.  Sie sangen diese Melodei,
+Mit heisa und ha und juchheisa trala,
+Wie's Leben nur 'ne Blume sei,
+Zur Maienzeit, der lustigen Paarezeit,
+Wann V�gel singen, tirlirelirei:
+S�� Liebe liebt den Mai.  So nutzt die gegenw�rtige Zeit,
+Mit heisa und ha und juchheisa trala!
+Denn Liebe lacht im Jugendkleid,
+Zur Maienzeit, der lustigen Paarezeit,
+Wann V�gel singen, tirlirelirei:
+S�� Liebe liebt den Mai.
+
+
+Probstein.
+Wahrhaftig, meine jungen Herren, obschon das Lied nicht viel sagen
+wollte, so war die Weise doch sehr unmelodisch.
+
+Erster Page.
+Ihr irrt Euch, Herr, wir hielten das Tempo, wir haben die Zeit
+genau in acht genommen.
+
+Probstein.
+Ja, meiner Treu!  ich k�nnte die Zeit auch besser in acht nehmen,
+als ein solch albernes Lied anzuh�ren.  Gott befohlen!  und er
+verleihe euch be�re Stimmen.--Komm, K�thchen!
+
+(Alle ab.)
+
+
+
+Vierte Szene
+
+Ein anderer Teil des Waldes
+
+(Der Herzog.  Amiens, Jacques, Orlando, Oliver und Celia treten auf)
+
+
+Herzog.
+Und glaubst du denn, Orlando, da� der Knabe
+Dies alles kann, was er versprochen hat?
+
+Orlando.
+Zuweilen glaub ich's, und zuweilen nicht,
+So wie, wer f�rchtet, hofft, und wei�, er f�rchte.
+
+(Rosalinde, Silvius und Ph�be treten auf.)
+
+Rosalinde.
+Habt noch Geduld, indes wir den Vertrag
+In Ordnung bringen, Herzog, Ihr erkl�rt,
+Da�, wenn ich Eure Rosalinde stelle,
+Ihr dem Orlando hier sie geben wollt?
+
+Herzog.
+Ja, h�tt ich K�nigreich' ihr mitzugeben.
+
+Rosalinde (zu Orlando).
+Ihr sagt, Ihr wollt sie, wenn ich sie Euch bringe?
+
+Orlando.
+Ja, w�r ich aller K�nigreiche K�nig.
+
+Rosalinde (zu Ph�be).
+Ihr sagt, Ihr wollt mich nehmen, wenn ich will?
+
+Ph�be.
+Das will ich, st�rb ich gleich die Stunde drauf.
+
+Rosalinde.
+Wenn Ihr Euch aber weigert, mich zu nehmen,
+Wollt Ihr Euch diesem treuen Sch�fer geben?
+
+Ph�be.
+So ist der Handel.
+
+Rosalinde (zu Silvius).
+Ihr sagt, wenn Ph�be will, wollt Ihr sie haben?
+
+Silvius.
+Ja, w�r sie haben und der Tod auch eins.
+
+Rosalinde.
+Und ich versprach, dies alles auszugleichen.
+O Herzog, haltet Wort, gebt Eure Tochter;
+Orlando, haltet Eures, sie zu nehmen.
+Ihr, Ph�be, haltet Wort, heiratet mich:
+Wenn Ihr mich ausschlagt, ehlicht diesen Sch�fer.
+Ihr, Silvius, haltet Wort, heiratet sie,
+Wenn sie mich ausschl�gt--und von dannen geh ich,
+Zu schlichten diese Zweifel.
+
+(Rosalinde und Celia ab.)
+
+Herzog.
+An diesem Sch�ferknaben fallen mir
+Lebendge Z�ge meiner Tochter auf.
+
+Orlando.
+Mein F�rst, das erste Mal, da� ich ihn sah,
+Schien mir's, er sei ein Bruder Eurer Tochter.
+Doch, lieber Herr, der Knab ist waldgeboren
+Und wurde unterwiesen in den Gr�nden
+Verrufner Wissenschaft von seinem Oheim,
+Den er als einen gro�en Zaubrer schildert,
+Vergraben im Bezirke dieses Walds.
+(Probstein und K�thchen kommen.)
+
+Jacques.
+Sicherlich ist eine neue S�ndflut im Anzuge, und diese Paare
+begeben sich in die Arche.  Da kommt ein Paar seltsamer Tiere, die
+man in allen Sprachen Narren nennt.
+
+Probstein.
+Gru� und Empfehlung euch allen!
+
+Jacques.
+Werter F�rst, hei�t ihn willkommen; das ist der scheckicht gesinnte
+Herr, den ich so oft im Walde antraf.  Er schw�rt, er sei ein
+Hofmann gewesen.
+
+Probstein.
+Wenn irgend jemand das bezweifelt, so la�t ihn mich auf die Probe
+stellen.  Ich habe mein Menuett getanzt, ich habe den Damen
+geschmeichelt, ich bin politisch gegen meinen Freund gewesen und
+geschmeidig gegen meinen Feind; ich habe drei Schneider zugrunde
+gerichtet, ich habe vier H�ndel gehabt und h�tte bald einen
+ausgefochten.
+
+Jacques.
+Und wie wurde der ausgemacht?
+
+Probstein.
+Nun, wir kamen zusammen und fanden, der Handel stehe auf dem
+siebenten Punkt.
+
+Jacques.
+Wie, siebenten Punkt?--Lobt mir den Burschen, mein gn�diger Herr.
+
+Herzog.
+Er gef�llt mir sehr.
+
+Probstein.
+Gott beh�t Euch, Herr!  ich w�nsche das n�mliche von Euch.  Ich
+dr�nge mich hier unter die �brigen l�ndlichen Paare, zu schw�ren
+und zu verschw�ren, je nachdem der Ehestand bindet und Fleisch und
+Blut bricht.  Eine arme Jungfer, Herr, ein �bel aussehend Ding,
+Herr, aber mein eigen; eine dem�tige Laune von mir, Herr, zu nehmen,
+was sonst niemand will.  Reiche Ehrbarkeit, Herr, wohnt wie ein
+Geizhals in einem armen Hause, wie eine Perle in einer garstigen
+Auster.
+
+Herzog.
+Meiner Treu, er ist sehr behende und spruchreich.
+
+Probstein.
+Gem�� dem Spruch vom Narrenbolzen und derlei Lieblichkeiten.
+
+Jacques.
+Aber der siebente Punkt!  Wie fandet Ihr den Handel auf dem
+siebenten Punkt?
+
+Probstein.
+Wegen einer siebenmal zur�ckgeschobenen L�ge.--Halt dich grade,
+K�thchen!--N�mlich so, Herr.  Ich konnte den Schnitt von eines
+gewissen Hofmanns Bart nicht leiden; er lie� mir melden, wenn ich
+sagte, sein Bart w�re nicht gut gestutzt, so w�re er andrer Meinung:
+das nennt man den (h�flichen Bescheid.)  Wenn ich ihm wiedersagen
+lie�, er w�re nicht gut gestutzt, so lie� er mir sagen, er stutzte
+ihn f�r seinen eignen Geschmack: das nennt man den (feinen Stich.)
+Sagte ich noch einmal, er w�re nicht gut gestutzt, so erkl�rte er
+mich unf�hig, zu urteilen: das nennt man die (grobe Erwiderun)g.
+Nochmals, er w�re nicht gut gestutzt, so antwortete er, ich spr�che
+nicht wahr: das nennt man die (beherzte Abfertigung.)  Nochmals, er
+w�re nicht gut gestutzt, so sagte er, ich l�ge: das nennt man den
+(trotzigen Widerspruch), und so bis zur (bedingten L�ge) und zur
+(offenbaren L�ge.)
+
+Jacques.
+Und wie oft sagtet Ihr, sein Bart w�re nicht gut gestutzt?
+
+Probstein.
+Ich wagte nicht, weiter zu gehn, als bis zur bedingten L�ge, noch
+er, mir die offenbare L�ge zuzuschieben, und so ma�en wir unsre
+Degen und schieden.
+
+Jacques.
+K�nnt Ihr nun nach der Reihe die Grade nennen?
+
+Probstein.
+O Herr, wir streiten wie gedruckt nach dem Buch, so wie man
+Komplimentierb�cher hat.  Ich will Euch die Grade aufz�hlen.  Der
+erste der h�fliche Bescheid; der zweite der feine Stich; der dritte
+die grobe Erwiderung; der vierte die beherzte Abfertigung; der
+f�nfte der trotzige Widerspruch; der sechste die L�ge unter
+Bedingung; der siebente die offenbare L�ge.  Aus allen diesen k�nnt
+Ihr Euch herausziehen, au�er der offenbaren L�ge, und aus der sogar
+mit einem blo�en (Wenn.)  Ich habe erlebt, da� sieben Richter einen
+Streit nicht ausgleichen konnten, aber wie die Parteien
+zusammenkamen, fiel dem einen nur ein Wenn ein; zum Beispiel:
+("Wenn Ihr so sagt, so sage ich so"), und sie sch�ttelten sich die
+H�nde und machten Br�derschaft.  Das Wenn ist der wahre
+Friedensstifter; ungemeine Kraft in dem Wenn.
+
+Jacques.
+Ist das nicht ein seltner Bursch, mein F�rst?  Er versteht sich auf
+alles so gut und ist doch ein Narr.
+
+Herzog.
+Er braucht seine Torheit wie ein Stellpferd, um seinen Witz
+dahinter abzuschie�en.
+
+(Hymen, mit Rosalinde in Frauenkleidern an der Hand, und Celia
+treten auf.)
+
+(Feierliche Musik.)
+
+Hymen.
+Der ganze Himmel freut sich,
+Wenn irdscher Dinge Streit sich
+In Frieden endet.
+Nimm deine Tochter, Vater,
+Die Hymen, ihr Berater,
+Vom Himmel sendet;
+Da� du sie gebst in dessen Hand,
+Dem Herz in Herz sie schon verband.
+
+Rosalinde (zum Herzog).
+Euch �bergeb ich mich, denn ich bin Euer.
+
+(Zu Orlando.)
+
+Euch �bergeb ich mich, denn ich bin Euer.
+
+Herzog.
+Tr�gt nicht der Schein, so seid Ihr meine Tochter.
+
+Orlando.
+Tr�gt nicht der Schein, so seid Ihr meine Rosalinde.
+
+Ph�be.
+Ist's Wahrheit, was ich seh,
+Dann--meine Lieb, ade!
+
+Rosalinde (zum Herzog).
+Ich will zum Vater niemand, au�er Euch.
+
+(Zu Orlando.)
+
+Ich will zum Gatten niemand, au�er Euch.
+
+(Zu Ph�be.)
+
+Ich nehme nie ein Weib mir, au�er Euch.
+
+Hymen.
+Still!  die Verwirrung end ich,
+Die Wunderdinge wend ich
+Zum Schlu�, der sch�n sich f�gt.
+Acht m�ssen Hand in Hand
+Hier kn�pfen Hymens Band,
+Wenn nicht die Wahrheit l�gt.
+
+(Zu Orlando und Rosalinde.)
+
+Euch und Euch trenn nie ein Leiden;
+
+(Zu Oliver und Celia.)
+
+Euch und Euch kann Tod nur scheiden;
+
+(Zu Ph�be.)
+
+Ihr m��t seine Lieb erkennen,
+Oder ein Weib Gemahl benennen;
+
+(Zu Probstein und K�thchen.)
+
+Ihr und Ihr seid euch gewi�,
+Wie der Nacht die Finsternis.
+Weil wir Hochzeitsch�re singen,
+Fragt euch satt nach diesen Dingen,
+Da� euer Staunen sei verst�ndigt,
+Wie wir uns trafen, und dies endigt.
+
+Lied.
+Ehstand ist der Juno Krone:
+O selger Bund von Tisch und Bett!
+Hymen bev�lkert jede Zone,
+Drum sei die Eh verherrlichet.
+Preis, hoher Preis und Ruhm zum Lohne
+Hymen, dem Gotte jeder Zone!
+
+Herzog.
+O liebe Nichte, sei mir sehr willkommen!
+Als Tochter, nichts Geringres, aufgenommen.
+
+Ph�be (zu Silvius).
+Ich breche nicht mein Wort: du bist nun mein;
+Mich n�tigt deine Treue zum Verein.
+
+(Jacques de Boys tritt auf.)
+
+Jacques de Boys.
+Verleiht f�r ein paar Worte mir Geh�r:
+Ich bin der zweite Sohn des alten Roland,
+Der Zeitung diesem sch�nen Kreise bringt.
+Wie Herzog Friedrich h�rte, t�glich str�mten
+Zu diesem Walde M�nner von Gewicht,
+Warb er ein m�chtig Heer; sie brachen auf,
+Von ihm gef�hrt, in Absicht, seinen Bruder
+Zu fangen hier und mit dem Schwert zu tilgen.
+Und zu dem Saume dieser Wildnis kam er,
+Wo ihm ein alter, heilger Mann begegnet,
+Der ihn nach einigem Gespr�ch bekehrt
+Von seiner Unternehmung und der Welt.
+Die Herrschaft l��t er dem vertriebnen Bruder,
+Und die mit ihm Verbannten stellt er her
+In alle ihre G�ter.  Da� dies Wahrheit,
+Verb�rg ich mit dem Leben.
+
+Herzog.
+Willkommen, junger Mann!
+Du steuerst kostbar zu der Br�der Hochzeit:
+Dem einen vorenthaltne L�nderein,
+--Ein ganzes Land, ein Herzogtum, dem andern.
+Zuerst la�t uns in diesem Wald vollenden,
+Was hier begonnen ward und wohl erzeugt;
+Und dann soll jeder dieser frohen Zahl,
+Die mit uns herbe Tag und N�cht erduldet,
+Die Wohltat unsers neuen Gl�ckes teilen,
+Wie seines Ranges Ma� es mit sich bringt.
+Doch jetzt verge�t die neue Herrlichkeit,
+Bei dieser l�ndlich frohen Lustbarkeit.
+Spiel auf, Musik!--Ihr Br�utigam' und Br�ute,
+Schwingt euch zum Tanz im �berschwang der Freude.
+
+Jacques.
+Herr, mit Erlaubnis:--hab ich recht geh�rt,
+So tritt der Herzog in ein geistlich Leben
+Und l��t die Pracht des Hofes hinter sich.
+
+Jacques de Boys.
+Das tut er.
+
+Jacques.
+So will ich zu ihm.  Diese Neubekehrten,
+Sie geben viel zu h�ren und zu lernen.
+
+(Zum Herzog.)
+
+Euch, Herr, vermach ich Eurer vorgen W�rde;
+Durch Tugend und Geduld verdient Ihr sie;
+
+(Zu Orlando.)
+
+Euch einer Liebsten, Eurer Treue wert;
+
+(Zu Oliver.)
+
+Euch Eurem Erb und Braut und m�chtgen Freunden;
+
+(Zu Silvius)
+
+Euch einem lang und wohlverdienten Ehbett;
+
+(Zu Probstein.)
+
+Und Euch dem Zank: denn bei der Liebesreise
+Hast du dich auf zwei Monat nur versehn
+Mit Lebensmitteln.--Seid denn guter Dinge!
+Ich bin f�r andre als f�r T�nzerspr�nge.
+
+Herzog.
+Bleib, Jacques, bleib!
+
+Jacques.
+Zu keiner Lustbarkeit;--habt Ihr Befehle,
+So schickt sie mir in die verla�ne H�hle.
+
+(Ab.)
+
+Herzog.
+Wohlan!  wohlan!  begeht den Feiertag:
+Beginnt mit Lust, was gl�cklich enden mag.
+
+(Ein Tanz.)
+
+
+
+
+
+Epilog
+
+Rosalinde.
+Es ist nicht hergebracht, die Heldin als Epilog zu sehen; aber
+es ist nicht unziemlicher, als den Helden als Prolog zu erblicken.
+Ist es wahr, da� "der gute Wein keines Kranzes bedarf", so ist
+es auch wahr, da� ein gutes St�ck keinen Epilog n�tig hat; doch
+braucht man beim guten Wein gute Kr�nze, und gute St�cke werden
+durch gute Epiloge nur um so besser.  In welcher Lage bin ich denn
+nun, da ich weder ein guter Epilog bin, noch f�r ein gutes St�ck
+eure Gunst zu gewinnen habe?  Ich bin reicht wie eine Bettlerin
+gekleidet, darum w�rde mir Betteln nicht geziemen; so verlege ich
+mich aufs Beschw�ren, und ich will mit den Frauen den Anfang
+machen.  Ich beschw�re euch, o ihr Frauen, bei der Liebe, die ihr
+zu den M�nnern tragt, la�t euch von dem St�cke soviel gefallen,
+als euch gut d�nkt; und ich beschw�re euch, o ihr M�nner, bei der
+Liebe, die ihr zu den Frauen tragt (und euer vergn�gtes Grinsen
+sagt mir, keiner von euch ha�t sie), da� euch zusammen mit den
+Frauen das St�ck gefallen m�ge.  W�re ich eine Frau, so wollte ich
+so viele von euch k�ssen, als B�rte h�tten, die mir gefielen,
+Gesichter, die mir zusagten, und einen Atem, der mir nicht zuwider
+w�re; und ich bin gewi�, alle, die gute B�rte, Antlitze und
+angenehmen Atem haben, werden f�r mein freundliches Anerbieten,
+indem ich meine Verbeugung mache, mir Lebewohl sagen.
+
+(Geht ab.)
+
+
+Ende dieses Projekt Gutenberg Etextes Wie es euch gef�llt, von
+William Shakespeare (�bersetzt von August Wilhelm von Schlegel)
+
+
+
+
+
+
+End of Project Gutenberg's Wie es euch gef�llt, by William Shakespeare
+
+*** END OF THE PROJECT GUTENBERG EBOOK WIE ES EUCH GEFALLT ***
+
+This file should be named 7041-8.txt or 7041-8.zip
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

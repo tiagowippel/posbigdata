@@ -1,0 +1,2622 @@
+The Project Gutenberg eBook, Die Brueder Wright, by Alfred Hildebrandt
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+
+
+
+Title: Die Brueder Wright
+
+Author: Alfred Hildebrandt
+
+Release Date: February 2, 2004  [eBook #10914]
+
+Language: German
+
+Character set encoding: US-ASCII
+
+
+***START OF THE PROJECT GUTENBERG EBOOK DIE BRUEDER WRIGHT***
+
+
+E-text prepared by David Starner, Michael Wymann-B�ni, and Project
+Gutenberg Distributed Proofreaders
+
+
+
+DIE BRUEDER WRIGHT
+
+Eine Studie ueber die Entwicklung der
+Flugmaschine von Lilienthal bis Wright
+
+Von Hauptmann a.D. A. Hildebrandt
+
+Vormals Lehrer im Koeniglich
+Preussischen Luftschiffer-Bataillon
+
+Mit 44 Abbildungen
+
+BERLIN 1909
+
+
+
+
+
+
+
+Vorrede.
+
+
+Der Prophet gilt nichts im Vaterlande! Dieses alte Sprichwort will
+andeuten, dass infolge der Unvollkommenheit der menschlichen Natur das
+Verdienst hervorragender Maenner oft nicht so gewuerdigt wird, wie es
+seiner Bedeutung nach sein muesste. Die meisten Menschen koennen sich eben
+nicht ueber das Alltaegliche erheben und dem Gedankenfluge
+weitausschauender Zeitgenossen folgen. Neid und Missgunst stellen sich
+den Grossen dieser Erde entgegen, und die Rivalitaet der Konkurrenten,
+die alles verkleinern und herabziehen. Im Kampfe um die Eroberung der
+Luft haben wir zwei hervorragende Faelle dafuer gehabt, wie sich die
+Bahnbrecher nur muehselig zu Anerkennung durchzuringen vermoegen. Wir
+haben aber hier gleichzeitig ein seltenes Beispiel, wie zwei Maenner noch
+bei Lebzeiten die groesste Anerkennung ihrer Zeitgenossen gefunden haben.
+Der Gedanke an die Eroberung der Luft ist so bestechend, dass er in den
+weitesten Schichten der Voelker ganz aussergewoehnlichen Anteil findet.
+Bislang beherrschte der Mensch nur zwei Dimensionen. Jetzt hat er auch
+begonnen, sich die dritte Dimension, die Luft, zu erobern. Zeppelin und
+Wright sind die Koenige der Luft. Ihnen beiden ist es zu danken, dass wir
+anfangen, die Luft sowohl mit Fahrzeugen, "leichter als die Luft", als
+auch mit solchen, die "schwerer als die Luft" sind, zu beherrschen.
+Beide haben lange arbeiten muessen, bis sie der Welt die Richtigkeit
+ihres Gedankenfluges beweisen konnten. Beide sind sie viel geschmaeht und
+mit Schmutz beworfen worden. Der Name Zeppelin ist heute nicht nur dem
+deutschen Volke bekannt, er hat ueberall ausgezeichneten Klang. Ueberall
+widmet man dem greisen Forscher eine Verehrung, wie man sie den groessten
+Helden aller Zeiten kaum entgegengebracht hat. Auch an Wright haben wir
+Europaeer viel gesuendigt. Man ging sogar soweit, die beiden Brueder, die
+bereits im Jahre 1905 die groessten Erfolge erzielt hatten, in Umpraegung
+des Wortes "die fliegenden Brueder"--"die luegenden Brueder" zu nennen.
+Erst im Jahre 1908 konnten sie, die auch bei ihren Landsleuten in
+Amerika wenig Glauben gefunden hatten, beweisen, welch gewaltigen
+Fortschritt sie in ernster Arbeit gemacht hatten. Verfasser folgt der
+Anregung, eine allgemein verstaendliche Abhandlung ueber die Gebrueder
+Wright zu schreiben, mit um so groesserer Freude, als er ziemlich der
+einzige war, der unentwegt die beiden genialen Erfinder in Wort und
+Schrift verteidigt und niemals an dem Wert ihrer Mitteilungen gezweifelt
+hat. Bei der Abfassung der kleinen Schrift kommt es dem Verfasser sehr
+zu statten, dass er bei einem Besuch in Amerika sowohl den Lehrer der
+Brueder Wright, den jetzt 77 Jahre alten hervorragenden Ingenieur
+Chanute, und dessen Assistenten Herring, wie die Staetten, an denen die
+Flugmaschine geboren wurde, kennen lernte. Besonders zu Dank
+verpflichtet ist er dem in Gross-Lichterfelde lebenden Baumeister Gustav
+Lilienthal, der ihm in frueheren Jahren authentisches Material ueber
+seinen Bruder Otto Lilienthal, den Altmeister der Fliegekunst
+uebermittelt hat, ferner dem in New York lebenden Ingenieur Herring,
+sowie auch Ingenieur Chanute in Chicago, der umfangreiches Material der
+ersten Flugversuche in Amerika zur Verfuegung gestellt hat; endlich dem
+Bischof Milton Wright zu Dayton in Ohio, der sowohl beim Besuch des
+Verfassers eingehende muendliche Angaben gemacht hat, als auch jetzt in
+bereitwilligster Weise altes Material ueber seine Familie und seine Soehne
+zur Verfuegung stellte. Orville Wright ist nun nach Berlin gekommen, wo
+er auf Veranlassung des "Lokal-Anzeigers" sein bis jetzt unuebertroffenes
+Koennen vorfuehren will. Noch sind wir erst im Anfangsstadium des Kampfes
+um die Eroberung der Luft, und viel Arbeit ist noetig, ehe wir
+einigermassen sicher die Luft beherrschen. Moegen die Vorfuehrungen von
+Wright fuer unsere deutschen Erfinder und namentlich fuer diejenigen, die
+sie finanziell unterstuetzen wollen und muessen, ein Ansporn zur weiteren
+Foerderung sein.
+
+_Berlin_, August 1909.
+
+A. Hildebrandt.
+
+       *       *       *       *       *
+
+
+
+
+Die Familie Wright.
+
+
+Die Wrights fuehren ihren Stammbaum bis in das 14. Jahrhundert zurueck.
+Viele hervorragende Leute, deren Namen auch in der Geschichte verewigt
+sind, haben der Familie angehoert. Von grossmuetterlicher Seite stammen
+sie aus Holland, wo die ersten Aufzeichnungen bei Lord Afferden Ende des
+14. Jahrhunderts beginnen und bis in die heutige Zeit vollstaendig
+fortgefuehrt sind. Die Nachkommen des Lords wanderten spaeter nach Amerika
+aus und siedelten sich um das Jahr 1650 in Long Island an. Die
+Grossmutter Katherine Reeder war verwandt mit dem Gouverneur Andrew H.
+Reeder, der in Kansas im Jahre 1854 die Zuegel der Regierung inne hatte.
+Vaeterlicherseits koennen die Vorfahren zurueckgefuehrt werden bis zu John
+Wright, der im Jahre 1538 das Gut Kelvedon Hall im Kreise Essex in
+England erwarb. Sein und seiner Frau Olive Nachkomme im vierten Grade,
+Samuel Wright, wanderte im Jahre 1630 nach Amerika aus und siedelte sich
+6 Jahre spaeter als Farmer in Springfield in Massachusetts an. Hier wurde
+er bald zum Diakon der ersten puritanischen Kirche und spaeter zum
+Pfarrer der Gemeinde erwaehlt. Nach segensreichem Wirken entschlief er
+sanft im Jahre 1665 zu Northampton. Seine Nachkommen blieben in
+Neu-England und manche beruehmten Leute sind aus ihnen hervorgegangen. Zu
+nennen sind Edmond Freeman, Reverend Joshua Moody, Reverend John
+Russell, John Otis und John Porter in Windsor. Durch den letzten sind
+die Wrights verwandt geworden mit dem beruehmten amerikanischen General
+Ulysses S. Grant und mit dem Praesidenten Grover Cleveland; ferner mit
+dem bekannten General Joseph Warren in Bunkerhill. Der Grossvater
+Wrights, Silas Wright, war Senator der Stadt New York und spaeter
+Gouverneur des Staates New York. Er besass umfangreiche Gueter, um deren
+Bewirtschaftung er sich selbst kuemmerte. Seine Kinder wurden gleichfalls
+zu Landleuten erzogen. Er starb in New York im Jahre 1847.
+
+[Illustration: *John G. Koerner*
+    der aus Deutschland stammende Grossvater Wrights im 80. Lebensjahr]
+
+[Illustration: *Frau Susan C. Wright*
+    die Mutter der Wrights im 40. Lebensjahr]
+
+[Illustration: *Bischof Milton Wright*
+    Vater der Wrights, geboren am 17. November 1828]
+
+Wir Deutschen haben den Ruhm, den ersten fliegenden Menschen, der mit
+einer Flugmaschine ohne Motor die Luft durchsegelte, unsern Landsmann
+nennen zu duerfen. Uns verbindet aber auch ferner Verwandtschaft mit den
+Koenigen der Fliegekunst, mit Wrights. Der Grossvater muetterlicherseits,
+John G. Koerner, war geboren in einer kleinen Ortschaft in der Naehe von
+Schleiz im Fuerstentum Reuss juengerer Linie. Die Frau dieses im 86.
+Lebensjahre verstorbenen Koerner, eine geborene Fry, war Amerikanerin,
+aus Landen deutschen Sprachgebiets, wahrscheinlich der Schweiz,
+stammend; naehere Angaben fehlen. Ihre Tochter wurde am 30. April 1831 in
+Hillsborough in Virginia geboren. Im Jahre 1859 vermaehlte sie sich, die
+inzwischen mit ihrer Familie auf eine Farm zu Union County in Indiana
+verzogen war, als juengstes von 5 Kindern mit Milton Wright, dem Vater
+der beiden Luftschiffer. Dieser ist am 17. November 1828 in Rush County
+in Indiana geboren. Er folgte dem Berufe seiner aeltesten Vorfahren und
+hielt mit 22 Jahren seine erste Predigt am 17. November 1850. Infolge
+einer ausgezeichneten Erziehung, die ihm sein Vater hatte zuteil werden
+lassen, brachte er es bald im geistlichen Stande zu hohen Wuerden. Er
+wurde reisender Minister der lutherischen Bruedergemeinde, Praesident des
+Kirchenrats, und amtiert bereits seit 24 Jahren als Bischof. Die
+Erfuellung seines Berufes brachte es mit sich, dass er viele und grosse
+Reisen zur Inspektion der verschiedenen ihm unterstellten
+Kirchengemeinden ausfuehrte; hat er doch nicht weniger als 200 000 Meilen
+in amtlicher Eigenschaft auf der Eisenbahn durchmessen. Auf seinen
+Reisen erwarb er sich einen praktischen Blick und grosses Verstaendnis
+fuer die verschiedensten Lebensstellungen; seinen Kindern liess er eine
+ausgezeichnete Erziehung und Schulbildung zuteil werden. Leider starb
+seine Frau bereits am 4. Juli 1889 zu Dayton in Ohio. Der Tod hatte sie
+von einem langen und schweren Leiden erloest. Besonders Wilbur Wright
+hatte sich bemueht, seiner Mutter die letzten Lebensjahre zu erleichtern,
+so dass ihm deswegen auch eine besondere Anerkennung seines Vaters
+zuteil geworden ist.
+
+[Illustration: *Wilbur Wright*
+    geboren am 16. April 1867]
+
+[Illustration: *Orville Wright*
+    geboren 19. August 1871]
+
+Milton Wright hatte sieben Kinder, von denen gegenwaertig noch fuenf am
+Leben sind. Wilbur, am 16. April 1867 in Henry County geboren, ist der
+dritte Sohn. Ihm folgten am 19. August 1871 Orville und am 19. August
+1874 Katherine, die beide in Dayton geboren wurden.
+
+Eigenartig ist die Angabe des alten Bischofs, dass gerade die Erfinder
+keine so gute Erziehung genossen haben wie seine anderen Kinder. Keiner
+von beiden besuchte eine Hochschule, beide haben sich durch ihre eigene
+Intelligenz in der Technik zu bedeutender Stellung emporgearbeitet.
+Wilbur berechtigte anscheinend in seiner Jugend zunaechst nicht zu
+grossen Hoffnungen, obgleich er sehr intelligent war und eine rasche
+Auffassungsgabe besass.
+
+Das erste Interesse fuer die Flugtechnik wurde bei den Bruedern im Sommer
+1878 geweckt, als ihr Vater eines Tages nach Hause kam und ploetzlich aus
+seinen Haenden ein Spielzeug in die Luft fliegen liess, das auch heute
+noch unter dem Namen Helicoptere--Schraubeflieger--bekannt ist. Dieses
+kleine Ding war aus einem Rahmenwerk von Kork und leichtem Bambus
+gefertigt und mit Papier ueberklebt. Die Schrauben wurden durch ein
+starkes Band von Kautschukschnueren in Bewegung gesetzt, das eng
+zusammengedreht wurde. Nur kurze Zeit blieb das zerbrechliche Spielzeug
+in den Haenden der Knaben erhalten; aber die Erinnerung an diese ersten
+Flugversuche haftete fest im Gedaechtnis beider. Einige Jahre spaeter
+begannen sie selbst ihr altes Spielzeug nachzubilden, wobei sie das eine
+immer groesser als das andere fertigten. Aber sie machten die
+eigentuemliche Erfahrung, dass die groesseren Maschinen immer schlechter
+flogen. Schliesslich wurden sie in ihren weiteren Experimenten entmutigt
+und wandten ihr Interesse dem Drachensteigen zu, ein Sport, der in
+Amerika durch die Franklinschen Drachenaufstiege zum Studium
+elektrischer Erscheinungen besonders weite Verbreitung gefunden hat. Als
+sie aelter wurden, gaben sie auch diesen Sport auf, der, wie sie selbst
+sagten, nicht mehr fuer Jungen in ihrem Alter passte.
+
+Erst die Versuche Lilienthals und besonders das Nachdenken ueber seinen
+tragischen Tod weckten in ihnen die alte Passion zur Flugtechnik wieder.
+Sie studierten mit grossem Interesse die Werke von Chanute, Marcy,
+Langley, Mouillard und anderen ueber die Fortschritte und Untersuchungen
+des flugtechnischen Problems, und bald gingen sie zu praktischen
+Versuchen ueber.
+
+Die Mitbuerger von Dayton, die irgendwie in naehere Beruehrung mit Wilbur
+und Orville Wright gekommen sind, haben seinerzeit dem Verfasser
+gegenueber das aeusserst bescheidene Wesen der beiden geruehmt. Besonders
+auch hoben sie hervor, wie sich die Erfinder aus einfachen Verhaeltnissen
+emporgearbeitet haetten und mit grossem Fleiss ihrer Fahrradfabrik einen
+Ruf weit ueber ihre Heimatstadt hinaus gesichert haetten. Ihre vielseitige
+Bildung wurde ebenfalls anerkannt, und man konnte sich in ihrer
+Gesellschaft davon ueberzeugen, wie gut sie beschlagen waren in der
+Literatur, in der Musik, Kunst und selbst in der Malerei. Sie sind nicht
+einseitige fanatische Flugtechniker, sondern verfolgen alle Fortschritte
+der Luftschiffahrt und brechen keineswegs etwa den Stab ueber die
+Konkurrenten, die auf dem Gebiete der aerostatischen Luftschiffahrt
+taetig sind.
+
+Sie haben in ihrer eigenen Fabrik auch wie gewoehnliche Arbeiter gelernt,
+und die Franzosen waren ueberrascht, als sie sahen, wie Wilbur Wright in
+Le Mans eigenhaendig und ohne jede fremde Hilfe im Arbeiterkittel seine
+Maschine zusammensetzte. Allerdings besass er ein gewisses Misstrauen,
+das sich auf mancherlei schlechte Erfahrungen stuetzte. So zum Beispiel
+wollte er als Klaviersaitendraht nur das Material verwenden, das er sich
+aus Amerika mitgebracht hatte. Er war sich eben auch bewusst, dass es
+bei einer so heiklen Maschine, wie es ein Drachenflieger ist, auch auf
+das Unwesentlichste ankommt, wenn man Erfolg erzielen will.
+
+Die Puenktlichkeit der Brueder ist ebenfalls ganz hervorragend. Allen
+Verabredungen folgen sie zur Minute, und nie braucht ein bestellter
+Arbeiter auch nur eine Sekunde auf ihr Erscheinen zu warten.
+
+In den Einoeden bei Kill Devil hatten sie gelernt, ein aeusserst einfaches
+Feldleben zu fuehren. In Le Mans schlief Wilbur Wright in einem
+einfachen Bett, eigentlich nur in einer grossen Kiste, die bei Tage
+mittels einer Leine an die Decke gezogen wurde und bei Nacht auf dem
+Fussboden neben seinem Flieger Platz fand. Dabei bestand der
+Fliegerschuppen nur aus roh zusammengezimmerten Brettern, und der Raum
+war keineswegs behaglich, da der Wind ueber die Ebene des Schiessplatzes
+zu Auvours mit ungeschwaechter Kraft dahinbrausen kann. In Pau bewohnten
+sie allerdings schon ein komfortableres Quartier, jedoch immer noch
+gegen das einfachste Zimmer eines einfachen Hotels bescheiden zu nennen.
+
+Beide Brueder sind von grosser Zurueckhaltung; sobald sie jedoch jemand
+bei naeherer Bekanntschaft schaetzen gelernt haben, so tauen sie etwas
+mehr auf. Man hat das Gefuehl, dass man Leute vor sich hat, auf die man
+sich in jeder Beziehung und in allen Lagen des Lebens verlassen kann.
+Ihre Schweigsamkeit ist ja genuegend bekannt geworden. Ihre Physiognomie
+ist meistens sehr ernst; aber bei naeherem Verkehr hellt sich das
+freundliche Auge Wilbur Wrights lebhaft auf. Ihre Ruhe verlieren sie
+nie. Ob auf den Feldern Tausende von Zuschauern auf einen Flug warteten,
+ob Prinzen oder Geschaeftsleute, die ihre Patente zu erwerben gedachten,
+sich unter ihnen befanden, nie liessen sie sich zu etwas draengen, das
+sie nicht wollten; nie liessen sie sich verleiten, einen Flug-Versuch zu
+wagen in einem Wetter, das ihnen unguenstig war. Die Statur der beiden
+ist mittelgross. Wilbur ist mit 1,80 Meter etwas groesser als sein Bruder
+Orville. Beide sind sehr schlank und zeigen nur Muskeln und Sehnen. Man
+sieht ihnen an, dass sie sich ihr ganzes Leben lang mit einem Sport
+beschaeftigt haben, bei dem es hauptsaechlich auf ein sicheres Auge und
+grosse Geistesgegenwart ankommt. In ihrer Lebensweise sind sie stets
+ueberaus nuechtern und enthaltsam gewesen. Auch bei den feierlichsten
+Anlaessen waren sie nicht zu bewegen, Alkohol zu sich zu nehmen. Sie sind
+fromm, nicht aeusserlich vor den Augen der Leute, sondern aus innerem
+Gefuehl. Dies ist leicht verstaendlich, wenn man an den alten Bischof
+Wright, der als Priester hoechstes Ansehen geniesst, denkt. So haben sie,
+die heute doch nicht mehr jung sind, in ihrem Leben noch nie eine
+Andachtsstunde versaeumt und es als selbstverstaendlich erachtet, die
+Sonntage von jeder Art Arbeit freizuhalten.
+
+
+
+
+Die Entwickelung des Gleitfluges.
+
+
+Zum naeheren Verstaendnis der ersten praktischen Arbeiten der Brueder
+Wright ist es erforderlich, die Entwickelung der Flugtechnik in
+Deutschland ins Auge zu fassen. Hier war es dem Ingenieur Otto
+Lilienthal gelungen, als erster Mensch die Luft mehrere 100 Meter weit
+zu durchfliegen. Weiteren technischen Kreisen ist er auch bekannt
+geworden als Erfinder eines ausgezeichneten Kleinmotors, der seinerzeit
+fuer Luftschiffahrtszwecke besonders geeignet erschien, leider jedoch
+nicht in der richtigen Weise gewuerdigt wurde. Auf die Arbeiten dieses
+hervorragenden Mannes muessen wir deshalb im folgenden etwas naeher
+eingehen.
+
+Otto Lilienthal wurde am 24. Mai 1848 zu Anklam in Pommern geboren.
+Schon als Junge von 13 Jahren hat er im Verein mit seinem noch jetzt in
+Gross-Lichterfelde bei Berlin lebenden Bruder Gustav das Fliegen mit den
+primitivsten Mitteln versucht. Die ersten Fluegel, die sich die Brueder
+bauten, bestanden aus Klappen, welche an die Arme gebunden wurden. Die
+Versuche wurden meist bei Nacht ausgefuehrt, weil die Knaben den Spott
+ihrer Schulgenossen fuerchteten. Sie versuchten, schwebend in die Luft zu
+gelangen, indem sie mit ihren Klappen einen Huegel herabliefen. Lange
+Jahre wurden dann die Fliegeversuche aufgegeben. Waehrend des Studiums
+an der Berliner Gewerbe-Akademie fertigte sich Otto Lilienthal in den
+Jahren 1867/68 seinen komplizierten Apparat an, der vier kleine und zwei
+grosse Fluegel besass, die abwechselnd auf- und niederschlugen. Es gelang
+ihm bei den Experimenten durch seine Beinbewegung ein Gewicht von 40
+Kilogramm zu heben.
+
+[Illustration: *Otto Lilienthal*
+    der Altmeister der Fliegekunst, toedlich verunglueckt am 6. August
+    1896 bei Berlin]
+
+Durch einige Studiengenossen hatte der Mathematik-Professor von den
+Arbeiten Lilienthals gehoert und unterliess nicht, ihm sagen zu lassen,
+es koenne ja nicht schaden, wenn er sich mit flugtechnischen Berechnungen
+die Zeit vertriebe, er moege aber um himmelswillen nicht Geld fuer solche
+Sachen ausgeben! Damals war von Staats wegen durch eine besondere
+Gelehrten-Kommission gerade festgestellt worden, dass der Mensch ein
+fuer allemal nicht fliegen koenne; es war daher sehr begreiflich, dass man
+diejenigen, welche sich mit dem Flugproblem beschaeftigten, direkt fuer
+Narren hielt.
+
+Nach dem Kriege 1870/71, in dem Otto Lilienthal als
+Einjaehrig-Freiwilliger des Garde-Fuesilier-Regiments--Maikaefer
+genannt--die Belagerung von Paris mitmachte, wurden die Flugversuche mit
+besseren technischen Hilfsmitteln nach den eingehendsten Experimenten
+und Studien wieder aufgenommen, wobei sein Bruder Gustav ihn
+tatkraeftigst unterstuetzte. Die Maschinen bestanden aus ganz einfachen
+gewoelbten Segelapparaten, die den ausgebreiteten Fittichen eines
+schwebenden Vogels glichen. Als Gestell diente Weidenholz, als Bezug mit
+Wachs getraenkter Schirting. Festgehalten und gehandhabt wurde der
+Apparat dadurch, dass man beide Unterarme in entsprechende Polsterungen
+des Gestelles legte und zwei Handgriffe anfasste. Die Fluegelflaechen
+waren anfangs 10, spaeter 8 Quadratmeter gross bei einer Klafterung von 7
+Metern und 2 Metern groesster Tiefe. Auch 14 Quadratmeter grosse Fluegel
+kamen gelegentlich zur Verwendung; ihr Gewicht betrug 20 Kilogramm, dazu
+kam das Gewicht von Lilienthal mit 80 Kilogramm, so dass also insgesamt
+100 Kilogramm zum Schweben gebracht werden mussten.
+
+[Illustration: *Der Lilienthalsche Gleitflieger*
+    im Fluge von hinten gesehen]
+
+Den einfachen Segelflaechen fuegte Lilienthal spaeter Steuerflaechen hinzu,
+um eine bessere Einstellung gegen den Wind zu erreichen. Die ganze
+Bauart der Flugsegel glich in allen Teilen einem Sprengwerk, dessen
+einzelne Glieder nur auf Zug und Druck beansprucht wurden. Groesste
+Festigkeit wurde hierdurch mit groesster Leichtigkeit verbunden. Oft
+stuerzte er sich mit diesen Segeln von beliebigen Hoehen in die Luft und
+erreichte stets sicher wieder den Boden.
+
+Um den Transport des Apparates zu erleichtern und ihn vor einem
+eventuell eintretenden Unwetter zu sichern, wurde die Maschine so
+eingerichtet, dass sie in einer halben Minute zusammengeklappt werden
+konnte. Das Auseinanderlegen dauerte ebenfalls nur zwei Minuten. Unter
+den ausgebreiteten Fluegeln konnte man sogar Schutz vor dem Regen finden;
+20 Personen hatten unter der schuetzenden Huelle Platz.
+
+Eingeleitet wurde das Fliegen durch Abschweben gegen den Wind von einem
+erhoehten Standpunkt. Bei den ersten Spruengen betrug die Hoehe des
+Sprungbrettes einen, spaeter zwei Meter. Sechs bis sieben Meter weite
+Spruenge von fuenf Metern Hoehe wurden mit Anlauf erzielt. Das Landen
+vollzog sich schon ausserordentlich leicht. Der Gleit- und Segelflug,
+der auch in neuester Zeit in den Mitgliedern des Schlesischen
+Flugsportklubs wieder eifrige Anhaenger gefunden hat, muss nach den
+Angaben Lilienthals, wie folgt, ausgefuehrt werden:
+
+"Man laeuft mit gesenkten Fluegeln dem Winde bergab entgegen, richtet im
+geeigneten Augenblick die Trageflaeche um Weniges auf, so dass sie
+annaehernd horizontal zu liegen kommt, und sucht, nun in der Luft
+dahinschwebend, durch die Schwerpunktslage dem Apparat eine solche
+Stellung zu geben, dass er schnell dahin schiesst und sich moeglichst
+wenig senkt. Anfaenger werden gut tun, eine Berglehne zu waehlen, ueber
+welcher sie in geringer Hoehe dahingleiten. Die erste Regel ist, die
+Beine nach vorn ausgestreckt zu halten und sich beim Landen mit dem
+Oberkoerper hintenueber zu werfen, so dass der Apparat sich aufrichtet und
+die Bewegung verlangsamt. Das Auffliegen und das Niedersteigen muss
+stets genau gegen den Wind gerichtet sein. Das vertikale feststehende
+Steuer sorgt schon dafuer, dass in der Ruhe sich der Apparat genau gegen
+den Wind einstellt. Die liegende Steuerflaeche verhindert, wie man dieses
+an jeder sich setzenden Kraehe sehen kann, dass der Apparat nach vorn
+sich ueberschlaegt, was gewoelbte Flaechen sonst gern tun. Beim Landen aber
+darf das liegende Steuer das schnelle Aufrichten des Apparates nicht
+hindern, es muss sich durch den von unten kommenden Luftdruck um seine
+Vorderkante drehend aufrichten koennen, darf also nur eine Hubbegrenzung
+nach unten haben.
+
+"Besonders zu warnen ist vor folgendem Fehler: Der Uebende schwebt in
+der Luft und fuehlt sich ploetzlich vom Winde angehoben, wie gewoehnlich
+ungleichmaessig; beispielsweise der linke Fluegel mehr als der rechte. Die
+schiefe Lage treibt ihn nach rechts hinueber. Unwillkuerlich streckt der
+Neuling nach rechts auch seine Beine aus, weil er den Anprall zur Erde
+nach rechts voraussieht. Die Folge ist, dass der schon tiefer liegende
+rechte Fluegel noch mehr belastet wird, und der Flug schnell nach rechts
+sich senkt, bis die rechten Fluegelspitzen im Erdreich sitzen und
+zerknicken. Fuer Leib und Leben ist weniger Gefahr vorhanden, denn der
+Apparat bildet nach allen Seiten ein wirkungsvolles Prellwerk, welches
+die Wucht des Stosses abfaengt."
+
+Abweichungen von der geraden Richtung werden durch Verlegen des
+Schwerpunktes nach der einen oder andern Seite durch Ausstrecken der
+Beine bewirkt, wodurch die Flugrichtung abgelenkt wird.
+
+Mehrfach gelang es Lilienthal auf diese Weise sogar, eine vollkommene
+Drehung auszufuehren, so dass er wieder auf seinen Abflugspunkt zuflog.
+Der Einfluss des Windes zeigte sich bei den Fliegeversuchen frappant.
+Sobald ein etwas lebhafterer Wind kam, schwebte er hoch ueber den Koepfen
+einer staunenden Menge fort, unter Umstaenden sogar momentan in der Luft
+auf einer Stelle schweben bleibend.
+
+Sehr unangenehm empfand Lilienthal bei seinen Fluegen staerkere,
+ploetzlich auftretende Windstoesse, weil bei ihnen die Gefahr vorlag, dass
+sie--wenn auch nur einen Augenblick--den Apparat von oben treffen
+koennten, wodurch er unfehlbar in die Tiefe gestuerzt und zerschellt
+worden waere.
+
+Bei den groessten Flaechen--14 Quadratmeter--buesste Lilienthal die
+Stabilitaet ein. Gleichzeitig wurde ihm auch die Landung bei staerkeren
+Winden und groesseren Flaechen sehr bedenklich. Wie er selbst sagt, hat er
+oft in der Luft einen foermlichen Tanz auffuehren muessen, um, vom Winde
+hin und her geworfen, das Gleichgewicht zu behaupten; aber stets gelang
+es ihm, gluecklich zu landen. Er wurde hierdurch jedoch notgedrungen zu
+den Versuchen gefuehrt, die Lenkbarkeit und leichte Handhabung zu
+verbessern.
+
+Anfangs hatte er die Lenkung durch einfache Verlegung des Schwerpunktes
+mit seinem Koerper bewirkt, die um so guenstiger vonstatten ging, je
+kleiner die Fluegelflaechen waeren. Da nun bei staerkerem Winde die
+Anwendung kleinerer Flaechen keinen besonderen Nutzen gewaehrte, vielmehr
+sich die Notwendigkeit herausstellte, eine groessere Flaeche zum Heben zu
+gewinnen, so versuchte er zwei parallele Flaechen uebereinander
+anzubringen. Es gelang dies ueberraschend gut. Der Doppelapparat hatte
+nur 5-1/2 Meter Spannweite bei zwei Trageflaechen von je 9 Quadratmetern,
+deren obere etwas ueber der unteren lag.
+
+Die erreichte Hoehe wurde ganz bedeutend groesser, oft wurde der
+Abfliegepunkt um ein erhebliches Stueck ueberflogen, sobald die Winde bis
+ueber 10 Meter in der Sekunde stark waren.
+
+Beim Landen bei geringem Winde musste der Apparat vorn durch Zuruecklegen
+des Koerpers gehoben und dann unmittelbar ueber dem Boden die Beine wie
+beim Sprunge, schnell vorgeworfen werden, da sonst der Koerper einen sehr
+unangenehmen Stoss erhalten haette. Bei etwas staerkerem Winde dagegen
+senkte der Apparat sich sehr sanft zur Erde.
+
+Bei den aufgefuehrten Uebungen hat Lilienthal stets die hebende Kraft des
+Windes deutlich gespuert, und er sagt ausdruecklich, dass der Wind auch
+eine Bewegung aehnlich dem Kreisen der Voegel haette einleiten und den
+Apparat nach links oder rechts drehen wollen; aber infolge der Naehe des
+Berges, von dem er abgeflogen sei, haette er sich nicht darauf einlassen
+duerfen.
+
+Als Uebungsplatz hatte sich Lilienthal 1891 einen guenstigen Platz
+zwischen Werder und Gross-Kreuz ausgesucht, wo sich auf grossen
+freiliegenden Hoehen ein Absprung von 5 bis 6 Metern erzielen liess. Hier
+machte er seine Versuche gemeinschaftlich mit einem Techniker seiner
+Maschinenfabrik, Hugo Eulitz. Der jetzige Professor im Meteorologischen
+Institut zu Berlin, Dr. Kassner, hat seinerzeit zahlreiche vortreffliche
+Aufnahmen Lilienthals und seines Assistenten angefertigt, die auf der
+Frankfurter Luftschiffahrts-Ausstellung ausgestellt sind. Die Flugweite
+wuchs hier auf 20-25 Meter. 1892 suchte er sodann die 10 Meter hohen
+Abhaenge bei Steglitz und Suedende auf. Im Anfang des folgenden Jahres
+baute er auf der Maihoehe bei Steglitz einen Schuppen, so dass er eine
+Absprunghoehe von 10 Metern erzielte. Ende desselben Jahres zog er dann
+fort nach den Rhinower Bergen zwischen Rathenow und der Dosse, wo sich
+Huegelketten bis zu 60 Meter Hoehe befinden. Auf dem Stoeller Berge fand er
+sogar eine Absprunghoehe von 80 Metern. Die Senkung der Huegel betrug etwa
+10 bis zu 20 Grad.
+
+Als Lilienthal zuerst hier uebte, war er sehr aengstlich. Er sagte selbst:
+"Als ich in diesem Jahre zum erstenmal an diesem Bergabhange mein
+Flugzeug entfaltete, ueberkam mich freilich ein etwas aengstliches Gefuehl,
+als ich mir sagte: Von hier ab sollst du nun in das tief da unten
+liegende, weit ausgedehnte Land hinaussegeln! Allein die ersten
+vorsichtigen Spruenge gaben mir bald das Bewusstsein der Sicherheit
+zurueck, denn der Segelflug ging hier ungleich guenstiger vonstatten, als
+von meinem Fliegeturme. Der Wind baeumte hier nicht so auf wie vor dem
+letzteren, wo ich jedesmal beim Passieren der Absprungkante einen
+ungleichmaessigen Windstoss von unten empfing, der mir oft verhaengnisvoll
+zu werden drohte."
+
+Hier hat sich der einzige, allerdings gluecklich verlaufene Unfall
+ereignet, der bei den zahlreichen Fluegen vorgekommen ist, sowie auch der
+spaetere Todessturz. Die erste Havarie fand auf dem Stoellen-Berge 1895
+statt. Der dabei benutzte Apparat hatte ein genaues, mit der Kreislinie
+fast zusammenfallendes Parabelprofil, bei dem der Pilot sich mit dem
+Hinterkoerper bedeutend hintenueber legen musste, um in der Luft mit dem
+Apparat nicht vornueber zu schiessen. Lilienthal schildert seinen Unfall
+in der "Zeitschrift fuer Luftschiffahrt" vom Jahre 1895, wie folgt: "Bei
+einem von grosser Hoehe ausgefuehrten Segelfluge gab dies--Hintenueberlegen
+des Koerpers--die Veranlassung, dass ich bei gestreckten Armen in eine
+Koerperlage geriet, bei welcher der Schwerpunkt zu weit nach hinten lag,
+waehrend es mir bei der bereits eingetretenen Ermuedung nicht moeglich
+war, die Oberarme wieder vorzuziehen. Als ich so in 20 Metern Hoehe mit
+etwa 15 Metern Geschwindigkeit dahinsegelte, richtete sich der hinten zu
+sehr belastete Apparat immer mehr auf und schoss schliesslich durch
+seine lebendige Kraft senkrecht in die Hoehe. Ich hielt mich krampfhaft
+fest, sah nichts als den blauen Himmel mit weissen Woelkchen ueber mir und
+erwartete den Moment, wo der Apparat hintenueberschlagen wuerde, um meine
+Segelversuche vielleicht fuer immer zu beenden. Ploetzlich jedoch hielt
+der Apparat im Ansteigen inne und ging rueckwaerts aus der Hoehe wieder
+herab, lenkte in kurzem Kreisbogen durch den schraeg aufwaerts gerichteten
+Horizontalschweif mit dem Hinterteil wieder nach oben, stellte sich
+hierbei auf den Kopf und sauste nun mit mir aus etwa 20 Meter Hoehe
+senkrecht zur Erde hinunter. Mit klarem Bewusstsein, die Arme und den
+Kopf voran, den Apparat immer noch an den Handhaben festhaltend, stuerzte
+ich dem gruenen Rasen zu.--Ein Stoss, ein Krach, und ich lag mit dem
+Apparat auf der Erde. Eine Fleischwunde an der linken Seite des Kopfes,
+mit dem ich auf das Apparatgestell geschlagen war, und das verstauchte
+linke Handgelenk waren die einzigen schlimmen Folgen dieses Unfalles.
+Der Apparat war, so wunderbar es klingt, ganz unversehrt. Ich selbst
+sowohl wie mein Segelzeug waren gerettet worden, durch den elastischen
+Prellbuegel, den ich wie durch eine hoehere Fuegung gerade zum ersten Male
+vorn am Apparat angebracht hatte. Der aus Weidenholz hergestellte
+Prellbuegel selbst war vollkommen zersplittert, seine einzelnen Teile
+hatten sich fuss-tief in die Erde eingebohrt, so dass sie nur mit
+Anstrengung herausgezogen werden konnten."
+
+Dieser Unfall gab zu einigen Veraenderungen Veranlassung: Der
+Angriffspunkt der Haende wurde mehr nach hinten gerueckt, und es wurde
+dafuer gesorgt, dass der Oberkoerper nicht mehr ganz hintenueberfallen
+konnte. Lilienthal schloss aus seinen frueheren und spaeteren Versuchen,
+dass man die Profilflaeche, trotz ihrer vorzueglichen Tragewirkung bei
+freien Segelfluegen, nicht bis zu ein Zwoelftel der Fluegelbreite ausdehnen
+duerfe, sondern nur bis zu ein Fuenfzehntel oder ein Achtzehntel.
+
+Um nicht mehr von der Windrichtung abhaengig zu sein, errichtete er sich
+schliesslich im Jahre 1894 in Gross-Lichterfelde eigens einen
+kegelfoermigen Huegeln von 15 Metern Hoehe und 70 Metern Grundlinie, der
+oben zur Aufnahme der Flugapparate ausgebaut war. Die Hoehe dieses Huegels
+wurde spaeter auf 30 Meter vergroessert. Hier vermochte er nach allen
+Himmelsrichtungen abzufliegen. Viele Hunderte von Fluegen hat Lilienthal
+mit grosser Sicherheit ausgefuehrt, so dass er schliesslich seine
+Versuche ueber den Gleitflug als abgeschlossen betrachten konnte. Er
+wollte nunmehr einen grossen Schritt weiter gehen und zum Bau einer
+Motor-Flugmaschine schreiten, die ein Gewicht von 40 Kilogramm erhielt
+bei einer Leistung von 2 1/2 Pferdestaerke. Auf dem Stoellenberge bei
+Rhinow hatte er am 9. August wieder einen Gleitflug ausgefuehrt und
+dabei die Steuerung eines horizontalen Schweifes, der durch
+Kopfbewegungen betaetigt wurde, versucht. Bei einem zweiten Fluge, der
+zunaechst bis zur halben Laenge in gerader Richtung vorwaerts ging, neigte
+sich nach den Angaben eines Augenzeugen der Apparat ploetzlich nach vorn
+und schoss pfeilschnell aus der Hoehe von 15 Metern zur Erde, sich dabei
+ueberschlagend. Mit gebrochenem Genick wurde Lilienthal aus den Truemmern
+hervorgezogen, und am 10. August erlag er seinen schweren Verletzungen.
+
+[Illustration: *Schematische Zeichnung des Lilienthalschen Abflughuegels*
+    Der Abflug erfolgt oben von dem zur Aufbewahrung der Maschinen in
+    den Huegel eingebauten Schuppen. Die obere Linie zeigt einen
+    Gleitflug, bei dem durch aufsteigende Luftstroemungen der Flieger
+    gelegentlich wieder gehoben wird.]
+
+Dieser tragische Ungluecksfall schreckte in Deutschland fuer die kommende
+Zeit ab, weitere Flugversuche zu unternehmen. Auch der Bruder
+Lilienthals befasste sich, von anderen Arbeiten in Anspruch genommen,
+nicht mehr mit der Flugfrage. Erst jetzt hat er das Studium wieder
+aufgenommen und ist im Begriff, einen Flugapparat zu erbauen.
+
+Man vergass ueber den Todessturz vollkommen die begeisterte Schilderung,
+die Lilienthal selbst 1894 von seinen Flugversuchen gegeben hat:
+
+"Man braucht bei diesem Segeln keine Kraftleistung und hat nur durch die
+Schwerpunktslage den Apparat zu steuern. Nebenbei ist es ein
+grossartiges Vergnuegen, von den Bergen und Huegeln weit in das Land
+hinauszuschweben, so dass fuer die Laien wie fuer die Fachleute ein
+solcher Fliegesport ebenso unterhaltend wie lehrreich als auch
+kraeftigend sich zeigt. Es ist keine einzige Belustigung im Freien
+denkbar, welche mit soviel Uebung in der Gewandtheit des Koerpers, mit so
+viel Schaerfung der Sinne und Foerderung der Geistesgegenwart verbunden
+waere, als dieses schwungvolle Dahingleiten durch die Luft. Wir koennen
+uns minutenlang in der Luft aufhalten, auf Strecken von mehreren hundert
+Metern mit Kurierzuggeschwindigkeit die Luft durchschneiden und dennoch
+sanft und gefahrlos uns wieder zur Erde niederlassen."
+
+
+
+
+Nachfolger Lilienthals in England und Amerika.
+
+
+In England und Amerika hatte man sich inzwischen eifrigst mit der
+Verfolgung der Lilienthalschen Gedanken beschaeftigt. In England war es
+besonders der Marine-Ingenieur Percy Sinclair Pilcher, der bereits im
+Jahre 1894 sich von Lilienthal einen Flugapparat kaufte, mit dem er
+zahlreiche Versuche anstellte. Naturgemaess kam er hierbei auch zur
+Entwickelung selbstaendiger Ideen, und er konstruierte sich, nachdem er
+verschiedene Versuche mit dem amerikanischen Kastendrachen von Hargrave
+angestellt hatte, mehrere eigene Apparate, die sich namentlich durch
+groessere Stabilitaet auszeichnen sollten als ihr deutsches Vorbild. Die
+Versuche mit Drachen fuehrten Pilcher dazu, seine Apparate an einer
+Schnur auszuprobieren. Er liess eine 300 Meter lange Leine an dem
+Drachenflieger befestigen und durch galoppierende Pferde unter Benutzung
+einer Flaschenzug-Uebertragung gegen den Wind anziehen. Sobald nun der
+Flieger unter der Drachenwirkung hoch in der Luft schwebte, legte der
+Luftschiffer seinen Koerper langsam vor, schnitt die Halteleine durch, um
+alsbald, in sanft absteigender Bahn gleitend, wieder zur Erde
+niederzukommen. Auch eine mit einem 4 PS. Petroleummotor versehene
+Flugmaschine hatte er gebaut. Am 30. September 1899 wurden zu
+Stanfordpark bei Market Harborough verschiedene Angehoerige des
+englischen Aeroklubs, dessen Mitglied er 1907 geworden war, auch der
+bekannte Flugtechniker Major Baden-Powell, zu Versuchen eingeladen. In
+der geschilderten Weise liess er seinen Flugapparat durch die Pferde in
+Bewegung setzen, die Leine wurde zerschnitten, und der Luftschiffer
+glitt wie ein grosser Vogel in sanftem Gleitfluge zur Erde. Nachdem die
+Startvorrichtung schnell wieder in Ordnung gebracht war, begann der
+zweite Versuch. Der Flieger kam, durch Regen beschwert, erst langsam in
+die erforderliche Geschwindigkeit und stieg dann bis auf eine Hoehe von
+10 Metern. Ploetzlich brach das Schwanzruder mit lautem Krachen zusammen,
+der Apparat kippte, aehnlich wie bei Lilienthal, nach vorn ueber und fiel,
+sich ueberschlagend, zur Erde. Unter den Truemmern lag Pilcher bewusstlos
+und wimmernd. Mit Muehe konnten ihn zufaellig anwesende Aerzte aus dem
+Truemmerhaufen herausziehen und nach Hause transportieren. Zwei Tage
+darauf starb er jedoch, ohne vorher das Bewusstsein wiedererlangt zu
+haben. Man vermutet, dass durch den Regen sich die Stricke verkuerzten
+und das Geruest des Hintersteuers durch gleichzeitige starke
+Beanspruchung brach. In England hat dann hauptsaechlich Baden-Powell
+weitere Versuche in der Flugtechnik angestellt, die namentlich dazu
+fuehrten, dass er fuer Kriegszwecke Drachen erbaute, mit Hilfe deren man
+Menschen in die Luft zu heben vermochte.
+
+[Illustration: *Octave Chanute*
+    der erste amerikanische Flugtechniker, beruehmter Ingenieur und
+    frueherer Praesident des Vereins amerikanischer Ingenieure, 18.
+    Februar 1838 in Paris geboren]
+
+In Amerika haben die Lilienthalschen Versuche besonders bei dem
+Ingenieur Octave Chanute Verstaendnis geweckt. Am 18. Februar 1832 in
+Paris geboren, kam er bereits als 6jaehriges Kind nach Amerika. Chanute
+hat sich in seiner neuen Heimat einen bedeutenden Namen als Ingenieur im
+Eisenbahnwesen gemacht, wo er beim Bau von Bahnen eine sehr fruchtbare
+Taetigkeit entwickelt hat; manche gute Erfindung verdankt ihm ihre
+Existenz. Durch das Vertrauen seiner Landsleute wurde er seinerzeit zum
+Praesidenten des Vereins amerikanischer Ingenieure erwaehlt. Sein
+Interesse fuer die Luftschiffahrt ist auf die Jahre 1876 und 1878
+zurueckzufuehren. Zu jener Zeit sammelte er alle Projekte ueber
+Luftschiffahrt, deren er habhaft werden konnte. Da er aber durch seine
+Berufstaetigkeit ausserordentlich in Anspruch genommen war, steckte er
+das neue Studium eines Tages wieder auf, band alle Schriftstuecke zu
+einem Buendel zusammen und legte sie beiseite.
+
+[Illustration: *Chanute-Leiter-Drachen 1895*
+    Diese erste Konstruktion ist aus mehreren Kastendrachen
+    zusammengesetzt]
+
+Erst 11 Jahre spaeter gewann er wieder Zeit, sich mit seiner alten
+Lieblingsidee zu beschaeftigen. Er machte eine Studienreise nach Europa,
+deren Ergebnis er nach seiner Rueckkehr in verschiedenen Vortraegen und
+Artikeln niederlegte. Damals schrieb Chanute das in Luftschifferkreisen
+weltberuehmte Buch: "Progress in Flying Machines"--Fortschritte auf dem
+Gebiete der Flugmaschinen--, in dem er eine kritische Uebersicht aller
+bis dahin gemachten Experimente gab. Er war zu der Ansicht gekommen,
+dass namentlich der Gleichgewichtsmangel ein Haupthindernis aller
+Fortschritte sei. Sein Streben ging deshalb dahin, diesen Mangel zu
+beseitigen. Er machte unzaehlige Versuche mit den verschiedensten Formen
+von Flaechen und kam zu dem Resultat, dass sein Leiter-Drachen, bei dem
+die Tragezellen durch ein Diagonal-Rahmenwerk in jeden beliebigen Winkel
+zur Luftstroemung eingestellt werden konnten, die besten Resultate ergab.
+Der einer Trittleiter sehr aehnlich sehende, aus drei kastenfoermigen
+Hargrave-Drachen zusammengesetzte Flieger erwies sich als
+ausserordentlich stabil. Chanute erbaute alsdann einen Gleitflieger in
+einer solchen Groesse, dass ein Mann durch die Flaeche getragen werden
+konnte.
+
+[Illustration: *Mehrdecker-Gleitflieger von Chanute* (sechste
+    Konstruktion) *1896*]
+
+In seinen Veroeffentlichungen gab er damals der Ansicht Ausdruck, es sei
+noetig, bei den Versuchen sehr vorsichtig zu Werke zu gehen, was dazu
+fuehrte, dass man mit leichtem Hohne ihm vorwarf, dieser Rat sei wohl
+leicht zu geben, aber schwer zu befolgen. Nunmehr wollte er seine
+Ratschlaege in die Tat umsetzen und baute einen Vieldecker nach dem
+Prinzip seines Leiter-Drachens, der am Mittelgestell mehrere Paar sich
+um ihre Achse drehende Fluegel besass, die durch Federkraft in Spannung
+gehalten wurden. Hierin besteht ein wesentlicher Unterschied seiner
+Konstruktion vor derjenigen Lilienthals. Waehrend dieser das
+Gleichgewicht durch die Bewegung seiner Beine halten musste, wurde bei
+dem Chanuteschen Apparat das Gleichgewicht automatisch durch den Wind
+gehalten, der die Fluegel selbsttaetig je nach seiner Kraft in eine
+geringere oder groessere Neigung einstellte. Die neue Maschine erwies
+sich als sehr stabil, als sie im freien Segelfluge nach Lilienthalscher
+Art in Sandduenen am Michigansee, zirka 50 Kilometer von Chicago
+entfernt, versucht wurde. Jedoch war der Neigungswinkel zu steil. Als
+Uebelstand zeigte sich, dass die vorderen Fluegel die Luft nach abwaerts
+fuehrten und dadurch die Tragkraft der uebrigen verminderten. Chanute
+brachte nacheinander bis zu fuenf Paar Flaechen am vorderen Teile an, und
+der Neigungswinkel wurde dadurch verringert, bis er etwa dieselbe
+Neigung erhielt, wie bei den Lilienthalschen Gleitfliegern.
+
+[Illustration: *Chanute-Doppeldecker im Fluge zu Dune-Park 1896*]
+
+Im Dezember 1895 gewann sich Chanute die Hilfe des Ingenieurs Herring,
+der sich schon mehrere Jahre mit aviatischen Versuchen beschaeftigte und
+einen seiner Lilienthalschen Flieger, die er schon in New York erprobt
+hatte, fuer weitere Versuche umbaute.
+
+Beim weiteren Ausbau seiner Apparate stellte Chanute zur Verminderung
+des Luftwiderstandes einen Dreiflaechenflieger her, aus dem sich
+schliesslich der Doppeldecker entwickelt hat, der jetzt bei grosser
+Haltbarkeit durch eine sinnreiche Bruecken-Diagonal-Tragband-Konstruktion
+nur ein Minimum von Material erfordert. An diesen Apparaten war ein sehr
+praktischer selbstregulierender Mechanismus angebracht, den Herrings
+erfunden hatte. Die praktischen Segelflugversuche wurden im Dune-Park im
+Jahre 1896 ausgefuehrt. Im ganzen machten Chanute selbst sowie seine
+Assistenten, Herring, Avery und Butusoff, etwa 2000 Gleitfluege ohne den
+geringsten Unfall, wenn auch die Flugmaschine in einigen Faellen leicht
+beschaedigt wurde.
+
+[Illustration: *Chanute-Doppeldecker zu Dune-Park 1896*]
+
+Im Jahre 1902 baute Chanute einen dritten Typ, bei dem das Gleichgewicht
+durch Vor- und Zurueckschwingen der Fluegel um ihre Achse gehalten wurde.
+Dieser Dreidecker hatte ausgezeichnete Resultate und wurde den Bruedern
+Wright zu Versuchen uebergeben. 1904 stellte Chanute zu St. Louis einen
+Apparat zum Vorwaertsziehen eines Gleitfliegers aus; er hatte dabei die
+Experimente Pilchers vor Augen, der, wie schon erwaehnt, seine
+Flugmaschine durch Pferde in die Luft fierte. Chanute benutzte zum
+Hochfieren seiner Apparate einen auf einen Wagen gesetzten Dynamo.
+
+In der Folge gab er aber, als die Brueder Wright immer mehr hervortraten,
+seine Experimente auf. Einerseits veranlasste ihn hierzu sein hohes
+Alter--er ist gegenwaertig 77 Jahre alt--und anderseits war er zu den
+Wrights in naehere Beziehungen getreten und hatte in ihnen Leute schaetzen
+gelernt, die mit grosser Energie und Sachkenntnis sich dem Flugproblem
+widmeten. Ihre mechanischen Vorkenntnisse, ihre grosse Praxis in der
+Kleinmechanik und ihre koerperliche Behendigkeit befaehigten die beiden
+seiner Ansicht nach, das Werk zu einem durchschlagenden Erfolge zu
+fuehren. Er hat ihnen deshalb nach Aufgabe seiner Versuche soviel wie
+moeglich geholfen; er ist ihnen mit dem reichen Schatz seiner Erfahrungen
+beigesprungen und bei ihren Berechnungen behilflich geworden. Spaeter,
+als man den Mitteilungen ueber die Erfolge Wrights nirgends Glauben
+schenken wollte, hat er sich durch Wort und Schrift bemueht, ihnen die
+verdiente Anerkennung zu verschaffen. Wenn in der Geschichte der
+Luftschiffahrt das Wirken der Wrights gewuerdigt wird, so darf man
+keinesfalls den Namen Chanute dabei vergessen, der in selbstloser Weise
+im Interesse der Flugtechnik gewirkt hat.
+
+[Illustration: *Chanute-Gleitflieger*
+    beim Beginn des Starts von vorn gesehen. 1904]
+
+       *       *       *       *       *
+
+
+
+
+Die Gleitflugversuche der Brueder Wright.
+
+
+Wilbur Wright schildert seinen und seines Bruders aeronautischen
+Werdegang eingehend in der Zeitschrift des Vereins der westamerikanischen
+Ingenieure vom Dezember 1901 unter dem Titel: Einige aeronautische
+Versuche (Some Aeronautical Experiments). Das in der Jugend schon
+bezeigte Interesse an Flugversuchen wurde bei Wilbur Wright zuerst wieder
+im Jahre 1896 neu geweckt, als der Telegraph die Nachricht nach Amerika
+brachte, dass der deutsche Flugtechniker Lilienthal bei seinen
+aufsehenerregenden Experimenten abgestuerzt und umgekommen sei. Er begann
+darueber nachzudenken, wodurch wohl der Sturz dieses Mannes hervorgerufen
+worden sei, der doch schon eine grosse Anzahl von Fluegen gluecklich
+ausgefuehrt hatte. Zunaechst studierte er die modernen Buecher, die sich
+namentlich mit dem Vogelflug beschaeftigten, so besonders das Werk von
+Professor Marey. Als bald darauf auch sein Bruder Orville sich fuer das
+Flugproblem zu interessieren begann, beschlossen beide, praktische
+Versuche zu unternehmen. Die meisten Misserfolge hatten nach ihrer
+Ueberzeugung ihren Hauptgrund in ungenuegender praktischer Uebung der
+Fliegekunst. Sie rechneten sich aus, dass Lilienthal waehrend 5 Jahren im
+ganzen nur ungefaehr 5 Stunden im freien Fluge zugebracht habe. Als
+Fachleute in der Fahrradtechnik verglichen sie diese Studienzeit mit den
+Voruebungen eines Radfahrers, der doch auf keinen Fall in lebhaften
+Strassen fahren koenne, wenn er nur 5 Stunden lang Fahrversuche angestellt
+haette. Freilich, Lilienthal hatte--das mussten sie anerkennen--bei seiner
+geringen Uebungszeit ausserordentlich viel gelernt und eine Steigerung
+der Dauer eines ununterbrochenen Fluges auf 10 Sekunden musste man schon
+als gewaltigen Fortschritt betrachten.
+
+[Illustration: *Wright-Gleitflieger 1901*
+    Der Lenker schmiegt sich nach dem durch Anlaufen gegen den Wind
+    erfolgten Start aus der haengenden Stellung in die wagerechte Lage]
+
+Sie beschlossen, eine Maschine zu erbauen und sie bei einer Windstaerke
+von etwa 28 Kilometer Geschwindigkeit pro Stunde zu erproben. Von
+vornherein sollten die Proben zunaechst an einer Schnur wie bei einem
+Drachen, vorgenommen werden. Der anfaenglich groesser geplante
+Gleitflieger wurde etwa 18 Quadratmeter gross gemacht. Die Maschine war
+ein Doppeldecker mit zwei grossen Trageflaechen nach dem System Chanutes.
+Doch hatten die Brueder schon ganz wesentliche Aenderungen an ihrer
+Maschine vorgenommen. Der sonst uebliche "Schwanz" war fortgelassen und
+durch eine kleinere Tragflaeche ersetzt, die sich vor den Hauptflaechen
+befand. Hierdurch gedachten sie ein Kippen des Apparates zu verhindern,
+indem der Winddruck durch die Wirkung auf die kleine Flaeche als
+Gegenlast zu den grossen diente. Eine weitere grundsaetzliche Aenderung
+bestand darin, dass der Pilot nicht, wie es bisher immer geschehen war,
+sich in aufrechter, sondern in liegender Stellung befand.
+
+Ueber die Vorteile der horizontalen Lage des Luftschiffers im
+Gleitflieger hat sich Wilbur Wright wiederholt geaeussert. Hauptsaechlich
+betont er, dass der Widerstand eines Koerpers gegen die Luft in
+aufrechter Stellung fast dreimal so gross ist als in waagerechter
+Haltung. Waehrend Lilienthal und seine Nachfolger Chanute, Herrings und
+Pilcher annahmen, dass pendelnde Bewegungen der Beine nach vorn,
+rueckwaerts und nach den Seiten wesentlich zur Sicherheit des Fluges und
+zur Erhaltung des Gleichgewichts beitruegen, sind die Wrights durch ihre
+jahrelangen Versuche zur Erkenntnis gekommen, dass gerade ihre Lage beim
+Fliegen bedeutende Vorzuege biete. Vor allen Dingen finden wir bei ihnen
+das Bestreben, sich moeglichst eins mit der Maschine zu fuehlen. Sie gehen
+dabei von der ganz richtigen Annahme aus, dass sie dadurch die kleinsten
+Gleichgewichtsstoerungen leichter bemerken und ihnen durch geringe
+Verschiebungen in der Lage ihres Koerpers entgegenwirken koennen. Auch die
+Lenkbarkeit ist in dieser Stellung groesser. Wenn der Wind ploetzlich
+einen groesseren Druck auf die Tragflaechen ausuebt, wird die
+Schraegstellung viel leichter bewirkt, wenn der Aviatiker nur mit den
+Armen in der Maschine haengt, als wenn er darin liegt, denn der pendelnde
+Koerperteil des Menschen wird bei solchen Veraenderungen der
+Tragflaechenlage nicht mitbetroffen, weswegen der Widerstand gegen
+derartige Gleichgewichtsstoerungen in diesem Falle viel geringer ist. Nur
+bei der Abfahrt und beim Landen bietet die haengende Lage Vorteile, weil
+der Pilot keiner fremden Hilfe bedarf und allein gegen den Wind anlaufen
+kann. Die Wrights nun mussten entweder, wie sie zuerst taten, mit ihrem
+Apparat gegen den Wind anlaufen und sich, sobald der Flieger ins
+Schweben kam, turnend in liegende Stellung bringen, oder aber, wie sie
+es zuletzt taten, durch zwei Leute in die Luft fieren lassen. Ebenso
+konnten sie bei der Landung durch ihre Beine leichter den Stoss federnd
+auffangen. Fuer laengere Gleitfluege nun ist die haengende Lage
+ausserordentlich ermuedend. Auch die ausgleichenden Bewegungen gegen die
+Gleichgewichtsstoerungen erfordern einen unverhaeltnismaessig grossen
+Kraftaufwand, der lange Fluege ueberhaupt ausschliessen wuerde. In
+horizontaler Lage fallen diese Kraftanstrengungen ueberhaupt fort, da die
+Maschine schon infolge groesserer Traegheit schwerer die Tendenz der
+Stabilitaet verlieren wird. Dass die Art dieser Gleitfluege nur auf
+weichem Boden ausfuehrbar waere, sei allerdings der Nachteil, immerhin
+aber sei die Gefahr, sich beim Landen zu verletzen, weit geringer, als
+man annaehme. Die Brueder haben Landungen nach beiden Methoden versucht
+und sich bei keiner verletzt. Das seitliche Gleichgewicht und die
+Steuerung, die bei Lilienthal und Chanute durch die Bewegung des
+Luftschiffers hervorgerufen wurde, sollte schon bei dem ersten
+Wrightschen Apparat durch eine Kruemmung der Haupttrageflaeche bewirkt
+werden, auf deren naehere Beschreibung wir weiter unten zurueckkommen
+wollen.
+
+[Illustration: *Wright Gleitflieger im Segelfluge 1902*]
+
+Ein hervorragend geeignetes Flugfeld wurde in Kitty Hawk in Nordkarolina
+gefunden, einem kleinen Orte auf der Landzunge, die Albe-Marle-Sund vom
+Atlantischen Ozean scheidet. Zunaechst liessen die Brueder Wright den
+Gleitflieger wie einen Drachen bei einer Luftstroemungsgeschwindigkeit
+von 40-50 km in der Stunde steigen, wobei die Flaechen sich unter einem
+Winkel von etwa 3 Grad einstellten. Sobald aber der Flieger mit einer
+Person belastet wurde und bei einem Wind von 40 km aufstieg, stellten
+sie sich auf 20 Grad. Es ergab sich nun aber bald, dass an schoenen Tagen
+Winde von 50 km in der Stunde, die eine bedeutend groessere Hubkraft
+zeigten, seltener waren, und dass es deshalb unmoeglich war, Tag fuer Tag
+und Stunde fuer Stunde zu ueben. Durch die Versuche erkannte man auch
+schon, dass die seitliche Stabilitaet weit besser gehalten werden konnte,
+wenn man die Trageflaechen durch Hebel drehte, als wenn der Luftschiffer
+durch Koerperbewegungen Gleichgewichtsstoerungen entgegen wirken wollte.
+Bei den Versuchen an einer Schnur wurden die Steuerhebel von unten aus
+durch Leinen bewegt.
+
+[Illustration: *Wright-Gleitflieger*
+    in den Sandduenen zu Kill Devil Hill am Atlantischen Ozean 1902]
+
+Die Zeit, in der praktische Uebungen mit dem bemannten Flieger nicht
+angestellt werden konnten, wurde dazu benutzt, Messungen von Hub und Zug
+bei verschiedenen Belastungen und mit verschiedenen Kruemmungsgroessen der
+Flaechen zu unternehmen. Hierbei stellte es sich heraus, dass das
+Kruemmungsverhaeltnis von 1:22--Kruemmung zur Tiefe der Tragflaeche--das
+sie bei ihrer ersten Konstruktion angewandt hatten, einen nicht so guten
+Hub ergab, als das Verhaeltnis 1:12.
+
+Die Gleitflugversuche wurden 6 km suedlich von Kitty Hawk von dem
+Kill-Devil-Sandhuegel unternommen, der bei einer Neigung von 9,5 Grad
+eine Hoehe von 35 m hat. Die Brueder wagten jedoch erst dann vom Boden in
+die Luft zu springen, wenn der Wind etwa eine Stundengeschwindigkeit von
+ueber 20 km besass. Zunaechst rannte der Experimentator von einer Stelle
+etwas unterhalb des Gipfels gegen den Wind vorwaerts, schwang sich in die
+Luft und turnte dann schnell in die liegende Stellung. Da dies immer die
+Stabilitaet sehr stoerte, wurden die Gleitfluege bald mit Hilfe zweier an
+den Seiten der Flaechen stehenden Leute eingeleitet, welche die Maschine
+fuehrten und mit ihr eine Strecke vorwaerts liefen. Die Landung erfolgte
+wider Erwarten ausserordentlich leicht. Wenn auch die Geschwindigkeit
+des Fluges 35 km in der Stunde betrug, so nahm doch weder der Flieger
+noch der Fahrer irgendwelchen Schaden. Die Maschine gehorchte
+ausserordentlich leicht auch den leisesten Bewegungen der vorn
+angebrachten Steuerflaechen.
+
+Nachdem die Gleitflugversuche des Jahres 1900 beendet waren, fassten die
+Wrights die gewonnenen Resultate zusammen und stellten folgende Saetze
+auf:
+
+1. Praxis ist der Schluessel des Fluggeheimnisses.
+
+2. Der Luftschiffer soll sich in horizontaler Lage befinden.
+
+3. Eine schmale Tragflaeche, die eine umgekehrte Neigung hat als die
+Haupttrageflaechen, ist zur Steuerung erforderlich.
+
+4. Die Steuerung muss bewirkt werden koennen, ohne dass der Pilot seine
+Stellung veraendert, und endlich
+
+5. die seitliche Stabilitaet wird weit besser durch Verwinden der
+Trageflaechen gewaehrleistet, als durch Koerperbewegungen.
+
+Im Jahre 1901 vergroesserten die Wrights ihre Maschine auf 35
+Quadratmeter und gaben den Trageflaechen eine Woelbung von 1:12. Somit
+waren sie, was Groesse der Trageflaechen und ihre Woelbung anbelangt, auf
+dieselben Groessen gekommen, wie sie von Lilienthal anfaenglich
+konstruiert waren. Dieser hatte zwar eine geringere Woelbung 1:15 bzw.
+1:18 zuletzt angewendet, aber er hatte festgestellt, dass die groesste
+Hubkraft bei einer Kruemmungsflache von 1:12 vorhanden war, jedoch
+gleichzeitig auch erfahren, dass das Gleichgewicht hierbei schwerer zu
+halten war. Am 27. Juli begannen im Beisein Chanutes die neuen Versuche,
+die bald zu einer Verringerung der Kruemmung fuehrten. Nach kurzer Zeit
+schon gelang es ihnen wieder die alte Praxis zu erwerben und 100 Meter
+weit zu gleiten; nach mehreren Tagen bereits konnten sie schon in einem
+kraeftigeren Winde von 25 bis zu 45 km Geschwindigkeit durch die Luft
+segeln. Die Erfolge bewirkten, dass die Wrights, die urspruenglich das
+Fliegen nur als Sport betrachteten, nunmehr wissenschaftlich die
+einschlaegigen Fragen zu loesen versuchten. Sie bauten sich mehrere
+Modellmaschinen fuer Winddruckmessungen und machten eine grosse Reihe von
+Versuchen mit den verschiedensten Oberflaechen, die unter einem Winkel
+von 0-45 deg. in Intervallen von 2-1/2 Grad eingestellt waren.
+
+So theoretisch wohl vorbereitet nahmen sie im August 1902 auf dem alten
+Felde bei Kitty Hawk ihre Versuche wieder auf. Im Jahre 1900 hatte die
+Breite ihres Fliegers 5,64 Meter betragen, die Tiefe 1,52 Meter, die
+gesamte Oberflaeche mit Steuer 15,6 Quadratmeter und das Gewicht 21,8
+Kilogramm. 1901 wurden die Groessenverhaeltnisse auf folgende Zahlen
+gebracht: Breite 6,7 Meter, Tiefe 2,13 Meter, Oberflaeche 21,0
+Quadratmeter, Gewicht 45,5 Kilogramm; 1902 auf 9,75 Meter, 1,52 Meter,
+28,4 Quadratmeter und 53,0 Kilogramm.
+
+Der Abstand der in Etagen angeordneten Haupttrageflaechen betrug etwa
+1,40 Meter. Das vertikale Horizontalsteuer wurde verdoppelt und mit
+seiner 1,3 Quadratmeter grossen Flaeche wie ein zweiteiliger Schwanz an
+der hinteren Seite angebracht. Das Gestell, bestand aus Fichtenholz, das
+mit Stahldraehten in Brueckenkonstruktion zusammengehalten wurde. Das
+Verspannen der Draehte war auf geniale Weise durchgefuehrt in der Weise,
+dass man beliebig spaeter die Draehte anziehen oder loesen konnte. Als
+Material war Klaviersaitendraht benutzt worden. Die Bespannung der
+Flaechen war mit Ballonstoff erfolgt, der eine geringe oder fast gar
+keine Durchlaessigkeit fuer die Luft besitzt. Die erste Konstruktion aus
+durchlaessigem Stoff hatte sich als ungeeignet erwiesen.
+
+[Illustration: *Wrights Gleitflieger 10. Oktober 1902*
+    Der Start erfolgt mit Hilfe zweier Personen, die mit dem Flieger
+    gegen den Wind einen Sandhuegel hinab laufen. Der Lenker befindet
+    sich hierbei in wagerechter Lage.]
+
+Wieder wurden die Versuche zunaechst an einer Fesselleine ohne Bemannung
+begonnen, und erst, als die Stabilitaet der neuen Maschinen unzweifelhaft
+feststand, begannen die Brueder mit den Gleitversuohen. Beide erlangten
+alsbald eine ausserordentliche grosse Uebung und lernten vor allen
+Dingen den Einfluss des mit wechselnder Richtung und Kraft blasenden
+Windes kennen. Natuerlich blieben den beiden auch Unfaelle nicht erspart,
+und gelegentlich erlitt auch ihre Maschine einige Havarien. Doch im
+allgemeinen sind diese Zwischenfaelle nur gering zu nennen gegen die
+grosse Anzahl der Fluege. Insbesondere ist es bemerkenswert, dass die
+Landungen normalerweise immer sehr sanft vor sich gingen. Der
+Flugmaschine hat man bekanntlich gerade vorgeworfen, dass die Landungen
+meist mit sehr heftigem Stosse von statten gehen muessten, weil die Hilfe
+des Gasauftriebes fehle. Der Vergleich, den man hierbei mit der Landung
+eines Freiballons gezogen hat, hat sich als genau so unzutreffend
+erwiesen, wie bei den Landungen mit schweren Motorballons, deren
+Niedergehen auf die Erde man sich ohne heftigen Stoss gar nicht
+vorstellen konnte. Vorzueglich bewaehrte sich gerade bei den Landungen das
+vordere Hoehensteuer, das, im letzten Moment etwas gehoben, die Landung
+besonders sanft gestaltete.
+
+[Illustration: *Wilbur Wright*
+    in wagerechter Lage in seinem Gleitflieger von unten gesehen (1902)]
+
+Die Gleitversuche gelangen schliesslich in diesem Jahre auch bei
+Windgeschwindigkeiten bis zu 16,7 Metern in der Sekunde. Die Flugdauer
+betrug im allgemeinen bis zu 15 Sekunden, doch wurde sie schliesslich
+schon bis zu 26 Sekunden gesteigert. Im ganzen wurden im Jahre 1902 etwa
+1000 Fluege unternommen, deren laengster bei einer Flugdauer von 26
+Sekunden eine Strecke von 622,5 Metern betrug.
+
+[Illustration: *Die Maschine mit der Startvorrichtung, von oben gesehen*
+    Rechts der Turm mit dem auf der Erde liegenden Fallgewicht, vom Turm
+    aus fuehrt die Leine zur Startschiene]
+
+Nunmehr fassten die Brueder den Plan, einen Motor in ihre Maschine
+einzubauen; sie nahmen deswegen zunaechst eingehende Messungen vor ueber
+die Hubkraft ihres Apparates und stellten fest, welche Motorkraft zum
+Heben ihrer Maschinen bei den verschiedenen Windgeschwindigkeiten
+erforderlich war. Das Gewicht der Maschine von 1902 betrug 53,0
+Kilogramm, dazu kamen die Gewichte der beiden Piloten: Wilbur Wright
+61,4 Kilogramm und Orville Wright 65,2 Kilogramm, so dass also im ganzen
+entweder 114,4 Kilogramm oder 118,2 Kilogramm zu heben waren. Es stellte
+sich heraus, dass bei 25 km Windgeschwindigkeit die Hubkraft etwa 1-1/2
+PS betrug, bei 40 km Geschwindigkeit 2 PS. Die Landung ging meist in
+einem Winkel vor sich, der zwischen 6 Grad 10 Min. und 7 Grad 20 Min.
+schwankte. Durch diesen geringen Winkel wurde die Landung ebenfalls sehr
+erleichtert. Anfangs des Jahres 1903 wurden diese Versuche noch weiter
+fortgesetzt, und gelegentlich, bei starkem Winde vermochte Wilbur
+Wright 72 Sekunden in der Luft zu bleiben, wobei er durch den Wind
+zeitweise ueber derselben Stelle am Boden in der Luft gehalten oder
+zurueckgetrieben wurde. Die zurueckgelegte Strecke betrug bei diesem
+Rekordflug nicht mehr als 30 Meter. Der geplante Motorflieger war fuer
+ein Gewicht von 300 kg berechnet und sollte 8 PS besitzen. Die Schrauben
+waren sehr einfach konstruiert und den in der Schiffahrt angewandten
+nachgeahmt. Bei den Motorproben veraenderten sie jedoch die Form ihrer
+Schrauben und gelangten zu der Form, die noch heute ihre Maschine
+besitzt. Der Nutzeffekt betrug urspruenglich 66 Proz., demnach ein
+Drittel mehr als bei den Schrauben, welche die Flugtechniker Maxim und
+Langley angewandt hatten; heute soll er ueber 70 Proz. betragen. Ende
+1903 begannen sodann die Flugversuche mit dem Motorflieger.
+
+[Illustration: *Vorbereitungen zum Start*
+    Mehrere Personen ziehen an Seilen das Fallgewicht in die Hoehe. Das
+    aus eisernen Ringen bestehende Gewicht befindet sich in dem Turm
+    gerade in Mannshoehe. Deutlich ist die Verbindung des Seiles, das vom
+    Gewicht die Erde entlang zum Flieger fuehrt, zu sehen]
+
+
+
+
+Der Motorflieger der Wrights.
+
+
+Bei der Arbeit hatte die Flugmaschine verschiedene Veraenderungen
+erfahren. Der Motor erhielt 16 PS und wog, Vergaser und Schwungrad
+eingeschlossen, 62,7 Kilogramm. Es wurden zwei Propeller unmittelbar
+hinter den Haupttrageflaechen angebracht, die sich in verschieden
+gerichtetem Sinne mit 1200 Touren in der Minute drehten. Der Motor,
+Viertakt-Benzinmotor mit 4 Zylindern, war in der Fabrik der Wrights
+gebaut. In einer Stunde wurden 4,5 Kilogramm Benzin verbraucht.
+
+Die Trageflaechen hatten eine Breite von 12,25 Metern, eine Tiefe von
+6,12 Metern und eine Oberflaeche von 48 Quadratmetern. Am 17. Dezember
+1903 wurden an einem kalten und windigen Tage zu Kill Devil bei Kitty
+Hawk in Gegenwart von nur 5 Personen die ersten Flugversuche mit dem
+Motorflieger unternommen. _Dieser Tag ist demnach als Geburtstag der
+ersten freifliegenden mit eigener Kraft vorwaerts getriebenen
+Flugmaschine anzusehen_. Allerdings hatte bereits im Jahre 1898 der
+schon erwaehnte Flugtechniker Herring am Michigansee einen 9 Sekunden
+langen Flug mit einem Flieger ausgefuehrt, aber die Wiederholung gelang
+nicht; es war eben nur ein Sprung unter guenstigen Verhaeltnissen gewesen.
+
+[Illustration: *Der Flieger beim Start am Ende seiner Ablaufschiene*
+    Von einem Militaerballon bei Rom aufgenommen. In der Mitte des Bildes
+    steht ein Offizier, rechts sitzen einige Soldaten]
+
+Der Anflug erfolgte von einem 60 m hohen Huegel, die
+Windgeschwindigkeit, die mit einem Anemometer gemessen wurde, betrug
+9,72 m in der Sekunde zur selben Zeit, als der Windmesser der
+meteorologischen Station zu Kitty Hawk etwa 12 m in der Sekunde
+registrierte. Die Anfahrt wurde genau gegen den Wind gerichtet. Der auf
+Schlittenkufen montierte Apparat glitt mittels eines nur 20 cm hohen
+Rades auf einer Holzschiene zunaechst etwa 10,25 m vorwaerts und erhob
+sich bei Einstellung des Steuers in schraeger Richtung bis zu einer Hoehe
+von etwa 3 Metern, in welcher er in gerader Linie weiterflog. Der erste
+Flug dauerte 12 Sekunden. Dies ist zwar eine bescheidene Leistung, war
+jedoch von allerhoechster Bedeutung, da nunmehr die Konstrukteure sicher
+waren, dass ihr Flieger mit Motor genau so stabil in der Luft war, wie
+frueher ihr Gleitflieger. Ein zweiter und dritter Versuch dauerte schon
+etwas laenger, und endlich bei dem vierten Versuch wurde eine Strecke von
+260 Metern in 59 Sekunden zurueckgelegt. Die letzte Landung ging nur
+deshalb so frueh vor sich, weil der Fuehrer das Steuer eine Kleinigkeit zu
+stark gedreht hatte. Die Maschine folgte sofort diesem leisen Druck und
+kam zum Boden herab, ehe der Pilot das Steuer wieder umzustellen
+vermochte. Die Geschwindigkeit ueber dem Erdboden betrug 14,47 Meter in
+der Sekunde, in der Luft bis zu 15,65 Meter.
+
+[Illustration: *Der Drachenflieger 6 m ueber dem Felde*
+    von vorn seitwaerts gesehen. Aufnahme aus einem Militaerballon bei
+    Rom. Im Hintergrunde sieht man aus der Vogelperspektive Fussgaenger,
+    Reiter und Fahrzeuge an der sich hell abhebenden Strasse]
+
+Als jedoch nach der Landung Wrights mit ihren Gaesten die Resultate
+dieses bedeutsamen Tages besprachen, achteten sie in begreiflicher
+Erregung nicht genuegend auf ihre Maschine. Ein ploetzlicher Windstoss hob
+den Apparat empor, und obgleich einer der Zuschauer, ein Mann von
+herkulischer Gestalt, hinzusprang und ihn noch an den Trageflaechen zu
+halten versuchte, wurde er umgerissen, der Flieger vom Winde
+emporgehoben und mit solcher Gewalt auf die Erde geworfen, dass er
+schwere Beschaedigungen erlitt. [Footnote: The Wright Brother's Aeroplane
+of Orville und Wilbur Wright,--The Century Magazine, September 1908.]
+
+[Illustration: *Die erste Flugschule der Welt*
+    Wilbur Wright erklaert seinen Schuelern Tissandier, Kapitaen Lucas
+    Gerardville und Graf Lambert die Flugmaschine. Orville Wright steht
+    neben seinem Bruder. Rechts ist deutlich die gekreuzte Kette
+    sichtbar, welche die Bewegung vom Motor auf die linke Schraube
+    uebertraegt.]
+
+Hierdurch erfuhren die Versuche eine Unterbrechung, und da gleichzeitig
+der Winter zu weit vorgeschritten war, begaben sich die Brueder mit den
+Resten ihrer Maschine in ihre Heimat zurueck. Hier machten sie sich
+sofort an die Wiederherstellung bzw. an den Neubau ihres Fliegers. Als
+wesentliche Aenderung ist hierbei der Einbau eines Motors von 25 PS zu
+bemerken. Nunmehr wurden die Versuche auf der Huffmann-Praerie bei
+Simms-Station, 17 Kilometer oestlich von Dayton in Ohio, fortgesetzt.
+Bankdirektor Huffmann, der Besitzer dieses Landes, stellte den Bruedern
+ein geeignetes Terrain zur Verfuegung. Die Versuche begannen im August
+1904. Die Fortschritte waren anfangs nur gering, weil das schlechte
+Wetter und heftige Regenguesse die Experimente sehr stoerten. Ausserdem
+machte ihnen die Erhaltung des Gleichgewichtes noch viele
+Schwierigkeiten; sie sahen ein, dass sie von der Loesung dieser wichtigen
+Frage noch weit entfernt waren. Wir sehen sie deshalb fleissig weiter
+ueben bis zu Ende des Jahres. Nur im Juli werden die Fluege zeitweise
+ausgesetzt. Am 15. September bereits konnten sie 800 Meter mit einer
+Kurve zuruecklegen, und am 26. September wird ein vollkommener Kreisflug
+zustande gebracht, bei dem nach den Messungen eines Richardschen
+Anemometers 1630 Meter in der Luft und 1400 Meter ueber dem Boden
+zurueckgelegt wurden. Die Angaben des Windmessers hatten bei ruhiger Luft
+stets mit der gemessenen Distanz uebereingestimmt. Die laengsten Fluege
+fanden am 9. November und am 1. Dezember statt. An diesem Tage wurden
+4-1/2 Kilometer mit einer Geschwindigkeit von 51 Kilometer in der Stunde
+zurueckgelegt. Am 9. November war der mit einem Passagier bemannte
+Flieger noch mit fuenfzig Pfund, am 1. Dezember sogar mit 70 Pfund
+Eisenstangen belastet worden. Die Geschwindigkeit betrug 60 Kilometer in
+der Luft und 75 Kilometer ueber dem Boden. Am 9. November erreichte die
+Flugdauer 5 Minuten 4 Sekunden, am 1. Dezember 4 Minuten 52 Sekunden. Im
+ganzen wurden im Jahre 1904 105 Landungen ausgefuehrt. Im Fruehjahr 1905,
+bei Beginn der besseren Jahreszeit, wurden die Versuche fortgesetzt,
+aber erst am 6. September gelang es, durch Zuruecklegung von 4,5
+Kilometer den Rekord des Vorjahres zu schlagen. Am 26. September legten
+sie eine Strecke von 17,961 Kilometern--10 englische Meilen--in 18
+Minuten 9 Sekunden zurueck. Das Benzinreservoir reichte damals fuer 20
+Minuten, jedoch gingen immer einige Minuten bei dem Ingangsetzen des
+Motors verloren. Am 29. September wurden sogar 19,57 Kilometer in 19
+Minuten und 55 Sekunden durchmessen.
+
+[Illustration: *Wilbur Wright macht eine Fahrt mit Frau Hart O'Berg*
+    deren Kleider unten durch eine Schnur zusammengehalten werden.]
+
+[Illustration: *Hoelzerne Startschiene*
+    im Hintergrunde der Turm mit dem Fallgewicht]
+
+Bei allen diesen Versuchen fuehrten die Wrights schon Wendungen aus, bei
+denen sie haeufig ueber den Koepfen der Zuschauer mehrfach hin und her
+flogen und fast immer zu ihrem Landungsort zurueckkehrten. Schnell
+steigerte sich nun die Flugdauer, nachdem die Erfinder ein groesseres
+Benzinreservoir eingefuegt hatten. Am 3. Oktober betrug die zurueckgelegte
+Strecke bereits 24,5 Kilometer, die in 25 Minuten und 5 Sekunden
+durchflogen wurden, am 4. Oktober 33,45 Kilometer in 33 Minuten und 17
+Sekunden, und am 5. Oktober deckten die Piloten eine Strecke von 38,956
+Kilometern in 38 Minuten und 3 Sekunden. Dies war der Rekord, den sie in
+der Naehe von Dayton erreichten.
+
+Natuerlicherweise erlitten sie auch mehrfach Pannen. Gelegentlich
+erhitzte sich ein Lager oder der Motor wurde warm, das Oel ging
+vorzeitig aus und was der Kinderkrankheiten noch mehr sind. In der Folge
+wohnten viele Einwohner von Dayton ihren Fluegen bei, aber man sprach
+sich in den Zeitungen sehr wenig anerkennend darueber aus. Es wurde ueber
+die kurze Dauer der Fluege gespottet, was darin seinen Grund hatte, dass
+man von den langen Fluegen der europaeischen Lenkballons gelesen hatte und
+einen Unterschied zwischen dem Flug eines aerostatischen und eines
+aerodynamischen Luftschiffes nicht zu machen vermochte. Die Leute
+hielten beides fuer dasselbe und wuerdigten deshalb die hervorragenden
+Leistungen ihrer Landsleute absolut nicht. In den absprechenden
+Zeitungsnachrichten liegt auch der Grund, dass man in Europa den Angaben
+der Wrights keinen Glauben schenkte. Man versteifte sich darauf, wenn
+wirklich die beiden Brueder solche langen Fluege ausgefuehrt haetten, so
+wuerden die Amerikaner in weit hoeherem Masse Reklame fuer sie gemacht
+haben. Man wuerde ihnen im Handumdrehen genuegend Geld zur praktischen
+Verwertung ihrer Maschine gegeben haben.
+
+
+
+
+Das Ringen der Wrights um Anerkennung.
+
+
+Sobald die Nachricht von den Erfolgen des Jahres 1905 nach Europa
+gelangt war, nahm sich der ruehmlichst bekannte franzoesische
+Flugtechniker Artilleriehauptmann Ferber des Gegenstandes an und schrieb
+zunaechst an den ihm persoenlich bekannten Chanute in Chicago, der ihm die
+Angaben der Wrights bestaetigte. Im Oktober 1905 richteten alsdann die
+beiden Wrights einen Brief an Ferber, der folgenden Wortlaut hatte:
+
+    Dayton, 9. Oktober 1905.
+
+    Geehrter Herr!
+
+    Als wir Ihren letzten Brief erhielten, fassten wir gerade die
+    Ergebnisse unserer Versuche zusammen und glaubten, auf Ihre Frage
+    ueber den praktischen Wert unseres Fliegers bald antworten zu koennen.
+    Wir haben laenger mit der Antwort warten muessen, als wir dachten. Wir
+    wollten erst laengere Fluege, als die in der letzten Saison abwarten,
+    die nur fuenf Minuten dauerten; heute koennen wir kuehn behaupten, dass
+    unser Flieger fuer kuenftige praktische Verwendung geeignet ist.
+
+    Unsere Versuche im vergangenen Monat haben uns gezeigt, dass wir
+    jetzt Maschinen bauen koennen, die wirklich fuer verschiedene Zwecke,
+    militaerische usw., brauchbar sind. Am 3. Oktober haben wir einen
+    Flug von 24,535 Kilometer in 25 Minuten 5 Sekunden gemacht. Dieser
+    Flug wurde dadurch beendet, dass sich ein Lager aus Mangel an Oel
+    heisslief. Am 4. Oktober haben wir eine Entfernung von 33,456
+    Kilometern in 33 Minuten 17 Sekunden erreicht. Wieder lief die
+    Transmission warm, aber wir konnten zum Abflugsplatz zurueckkehren,
+    ohne landen zu muessen. Am 5. Oktober dauerte unser Flug 38 Minuten 3
+    Sekunden und bedeckte eine Distanz von 39 Kilometern. Die Landung
+    wurde durch Benzinmangel erzwungen. Ein Oeler hatte der Ursache
+    abgeholfen, welche die frueheren Fluege verkuerzt hatte. Die Zuschauer
+    dieser Fluege begeisterten sich so, dass sie ihre Zunge nicht mehr
+    hueten konnten. Da unsere Versuche bekannt zu werden anfingen,
+    entschlossen wir uns, sie einzustellen, bis wir einen einsameren
+    Platz gefunden haetten.
+
+    Wir haben die letzten Jahre vollstaendig damit verbracht, unsern
+    Flieger zu vollenden, und wir haben wenig darueber nachgedacht, was
+    wir damit machen wuerden, wenn er fertig waere. Aber unsere jetzige
+    Absicht ist, ihn zuerst den Regierungen zu Kriegszwecken anzubieten,
+    und wenn Sie glauben, dass Ihre Regierung dafuer interessiert werden
+    koennte, so wuerden wir gern deshalb mit ihr in Verbindung treten.
+
+    Wir sind bereit, Maschinen nach Vertrag zu liefern, abnehmbar erst
+    nach einem Versuch ueber 40 Kilometer, wobei die Maschine einen
+    Lenker und einen Benzinvorrat fuer mehr als 100 Kilometer tragen
+    soll. Wir koennten auch einen Kontrakt machen, in dem die Strecke des
+    Versuchsfluges groesser als 40 Kilometer ist, aber dann waere der
+    Preis der Maschine hoeher.
+
+    Wir koennten diese Maschinen auch fuer mehr als eine Person Belastung
+    bauen.
+
+    Ergebenst
+      (gez.) W. und O. Wright.
+
+
+Um sich von der Richtigkeit dieser Angaben zu ueberzeugen, richtete
+Hauptmann Ferber an den ihm persoenlich bekannten Ingenieur Chanute ein
+Schreiben, in dem er ihn bat, ihm ueber die Leistungen der Wrights
+Auskunft zu geben. Er erhielt darauf folgenden Bescheid:
+
+
+    Chicago, 9. November 1905.
+
+    Lieber Hauptmann Ferber!
+
+    Soeben habe ich Ihren Brief vom 26. Oktober erhalten. Meiner Meinung
+    nach koennen Sie in die Angaben, die Ihnen die Brueder Wright ueber
+    ihre Versuche gemacht haben, vollstes Vertrauen setzen. Ich selbst
+    hatte nur Gelegenheit, einem kleinen Fluge ueber einen halben
+    Kilometer beizuwohnen, dagegen haben mir die Brueder woechentlich
+    Nachricht ueber ihre Versuche zukommen lassen, und Freunde, die
+    selbst Zeugen der Experimente waren, haben mir diese Angaben
+    bestaetigt, als ich, um einem geplanten Fluge von 60 Kilometer in der
+    Stunde beizuwohnen, vorige Woche in Dayton war. Leider konnte
+    dieser Flug infolge zu grossen Sturmes nicht stattfinden. Die
+    Wrights haben sich Frankreich, das die Fortschritte auf dem Gebiete
+    der Lenkballons seit dem Jahre 1885 geheimgehalten hat, zum Beispiel
+    genommen. Auf ihre Bitte haben die Zeitungen in Dayton ueber die
+    Versuche Schweigen bewahrt. Es ist wohl eine Indiskretion begangen
+    worden. Es wurde ein
+
+    Artikel veroeffentlicht, der aber bereits zurueckgezogen ist. Die
+    Wrights wollten Ihnen uebrigens am 4. November selbst schreiben.
+
+
+    Mit vorzueglicher Hochachtung
+      C. Chanute.
+
+Am 4. November war inzwischen auch von den Wrights selbst nachfolgendes
+Schreiben an Hauptmann Ferber eingetroffen:
+
+    Dayton, 4. November 1905.
+
+    Geehrter Herr!
+
+    Wir haben Ihren Brief vom 20. Oktober erhalten und machen Ihnen
+    unser Kompliment. Niemand in der Welt kann mehr als wir Ihre
+    Leistung anerkennen. Es ist aber ein grosser Sprung vom Aeroplan
+    ohne Motor, mit seiner leichten Kontrolle, zur Entdeckung
+    ausreichender und wirksamer Methoden, um Herr des so ungelehrigen
+    Aeroplans mit Motor zu werden. Nach den Experimenten so faehiger
+    Leute wie Langley, Maxim und Ader, die Millionen ausgegeben und
+    Jahre ohne Resultat daran gewandt haben, haetten wir es nicht fuer
+    moeglich gehalten, vor fuenf oder zehn Jahren eingeholt zu werden.
+    Frankreich ist eben guenstig gestellt. Aber wir glauben nicht, dass
+    das den Wert unserer Erfindung vermindern koennte. Denn, wenn es
+    bekannt wird, dass man in Frankreich Experimente mit Motorfliegern
+    gemacht hat, werden die anderen Nationen gezwungen sein, Zuflucht zu
+    unserm Wissen und unserer Praxis zu nehmen. Russland und Oesterreich
+    von Unruhen heimgesucht, ein Weltbrand kann jeden Augenblick
+    ausbrechen. Keine Regierung wird mit einer Flugmaschine im
+    Hintertreffen stehen wollen. Um ein Jahr frueher als die andern
+    fertig zu sein, wird man den Betrag, den wir fuer unsere Erfindung
+    fordern, gering finden.
+
+    Obwohl Sie in Frankreich voran sein moegen, werden Sie wuenschen,
+    unsere Erfindung zu kaufen, zum Teil, um die Kosten eigener Versuche
+    zu vermeiden, zum Teil, um sich ueber den Stand unserer Kunst bei den
+    Nationen zu unterrichten, die dabei sind, uns die Geheimnisse
+    unserer Maschine abzukaufen.
+
+    Aus diesen Gruenden wuerden wir darein willigen, unsern Preis fuer die
+    franzoesische Regierung auf eine Million Francs herabzusetzen,
+    zahlbar, nachdem der Wert unserer Erfindung in Gegenwart offizieller
+    Persoenlichkeiten durch einen Flug von 50 Kilometer in weniger als
+    einer Stunde festgestellt ist. Der Preis schliesst eine vollstaendige
+    Maschine ein, Instruktion ueber die Grundlagen unserer Kunst, Formeln
+    fuer den Bau unserer Maschine, Schnelligkeit, Oberflaeche usw.,
+    Instruktion von Personal fuer den Gebrauch der Maschine. Diese
+    Instruktion wuerde natuerlich in der gewuenschten Form gegeben werden.
+
+    Ihre ergebenen
+      (gez.) W. und O. Wright.
+
+Hauptmann Ferber antwortete den beiden Bruedern, dass es unmoeglich waere,
+auch nur die geringste Unterstuetzung von der franzoesischen Regierung zu
+erhalten, wenn nicht zuvor eine aus franzoesischen und amerikanischen
+Gelehrten bestehende Kommission die Maschine geprueft haette. Die Wrights
+wollten aber das Geheimnis ihrer Erfindung sicher gewahrt wissen, und
+hatten anderseits eine heilige Scheu vor dem Gutachten der am gruenen
+Tisch arbeitenden Gelehrten, die ja schon haeufiger ein grosser Hemmschuh
+fuer die Entwickelung der Luftschiffahrt gewesen waren; sie erklaerten
+deshalb, von ihren Bedingungen nicht abgehen zu koennen. Eine ganze Reihe
+von Veroeffentlichungen finden in der Folge noch statt, und selbst der
+Aeroklub von Amerika, der eine Reihe Zeugnisse angesehener Mitbuerger von
+Wright veroeffentlicht, vermochte niemand von der Wahrheit der Angaben
+ueber die geheimnisvollen Flieger zu ueberzeugen, und ueberall belegte man
+in Europa die Wrights mit dem wenig schoenen Ausdruck "die luegenden
+Brueder". Verfasser, der die flugtechnischen Arbeiten seit langen Jahren
+aufs genaueste verfolgt hatte, beschloss der Bedeutung der Sache wegen
+keine Aufwendungen zu scheuen und selbst an Ort und Stelle in Dayton in
+Ohio Nachforschungen anzustellen. Er reiste deshalb im Oktober 1907 dahin
+und besuchte dort am 4. Oktober den alten Bischof Wright. Ausserdem
+wurden eine Anzahl der angesehensten Buerger der Stadt Dayton, die etwa
+85000 Einwohner zaehlt, eingehend befragt. Ein dem "Berliner
+Lokalanzeiger" zur Verfuegung gestellter Bericht hierueber sei im folgenden
+unter Weglassung der hier schon angegebenen Konstruktionseinzelheiten
+wiedergegeben.
+
+[Illustration: *Messen der Windgeschwindigkeit*
+    Wilbur Wright misst mit einem kleinen Anemometer--Windmesser, der
+    durch die sich im Winde drehenden Fluegel angibt, wieviel Meter in
+    der Sekunde die Luft vorwaertsstroemt--die Geschwindigkeit des Windes]
+
+[Illustration: *Flieger-Werkstaette*
+    im Hangar bei Pau. Eine gewoelbte Trageflaeche ist rechts in ihrer
+    ganzen Ausdehnung zu sehen.]
+
+Lokalanzeiger Nr. 588 vom 18. November 1907.
+Die Flugmaschine der Gebrueder Wright.
+Dayton (Ohio), Ende Oktober.
+
+    "'Von der Parteien Gunst und Hass verwirrt, schwankt sein
+    Charakterbild in der Geschichte', so kann man auch von dem
+    Drachenflieger der Gebrueder Wright sagen! Dass die beiden eine
+    Flugmaschine gebaut haben, weiss jeder Fachmann; auch glaubt man es
+    meist, dass sie mit dieser frei in der Luft geflogen sind; dass sie
+    aber laengere Strecken mit grosser Geschwindigkeit zurueckgelegt haben
+    und dabei wieder an die Abfahrtsstelle zurueckgekehrt sind, das wird
+    heute noch von den meisten Luftschiffern bestritten! Um die Sache zu
+    klaeren, habe ich hier an Ort und Stelle bei zehn Augenzeugen
+    eingehende Nachforschungen angestellt, auf Grund deren ich zu der
+    Ueberzeugung gelangt bin, dass alle Angaben ueber diese Flugmaschine
+    auf voller Wahrheit beruhen."
+
+Es folgen nun einige Angaben ueber die ersten Versuche, alsdann faehrt
+der Artikel wie folgt fort:
+
+    "Grosses Aufsehen erregten nun die am 12. Maerz 1906 von den
+    Erfindern veroeffentlichten Daten ueber die mit dem Motorluftschiff
+    erzielten Erfolge. Danach sollte schliesslich als beste Leistung am
+    5. Oktober 1905 ein Flug von 38,956 Kilometern in 38 Minuten 3
+    Sekunden vollendet worden sein. Wenn diese Angaben den Tatsachen
+    entsprachen, so war damit das Zeitalter des ballonlosen lenkbaren
+    Luftschiffes angebrochen! Die Fachwelt verhielt sich zunaechst
+    abwartend und dann ablehnend. Hierzu war auch aller Grund vorhanden.
+    Erst hiess es, die amerikanische Regierung habe die Flugmaschine fuer
+    eine Million Dollars angekauft; dann ploetzlich wurde dies
+    dementiert und man hoerte, Wrights versuchten in Frankreich ihre
+    Erfindung los zu werden. Die Verhandlungen zerschlugen sich aber,
+    weil die Konstrukteure die Forderung stellten, man solle ihnen ihr
+    Luftschiff unbesehen fuer eine Million Dollars abnehmen; allerdings
+    verpflichteten sie sich, nach Inkrafttreten des Vertrages den
+    Flieger in einem 50 Kilometer langen Fluge vorzufuehren. Auf solche
+    Abmachungen wollte aber niemand eingehen. Demnaechst hoerte man nichts
+    mehr von den Wrights, bis der Aeroklub von Amerika erklaerte, auf
+    Grund seiner Untersuchungen sei er zu der Ueberzeugung gekommen,
+    dass die Angaben der Brueder auf Wahrheit beruhten. Aus Interesse zur
+    Sache beschloss ich, an Ort und Stelle selbst Nachforschungen
+    anzustellen und die Angelegenheit zu klaeren. Zunaechst nahm ich
+    Fuehlung mit den beiden Konkurrenten der Wrights, Herring in New York
+    und Chanute in Chicago. Jener erklaerte mir, dass er nach Ruecksprache
+    mit Augenzeugen die gemachten Angaben nicht mehr bezweifeln koenne;
+    die Sache sei so einfach, dass er hoffe, mit Hilfe eines von ihm
+    erprobten leichten Motors, der nur 1 Pfund (etwa 3/4 deutsche Pfund)
+    pro Pferdekraft woege, die Leistungen bei weitem zu uebertreffen.
+    Chanute dagegen hatte selbst einen Flug von 3/4 Meile (1,2
+    Kilometer) gesehen und erkannte rueckhaltlos an, dass Wrights das
+    Flugproblem in tadelloser Weise geloest haetten. Die Maschine sei
+    aeusserst einfach, und der Flug habe sich in ueberraschend sicherer
+    Weise vollzogen. Er, Chanute, sei zu der Einsicht gekommen, dass die
+    Brueder auf dem richtigen Wege seien, und er habe deshalb schweren
+    Herzens seine langjaehrigen Versuche eingestellt, weil er mit ihnen
+    nicht mehr konkurrieren koenne. [Footnote: Siehe auch Seite 24 unten
+    und Seite 25.][Note: Dies ist der letzte Paragraph im Kapitel:
+    Nachfolger Lilienthals in England und Amerika] Auf meinen Wunsch
+    machte er mir einige Zeugen der Fluege namhaft.
+
+[Illustration: *Wilbur Wright*
+    zeigt dem Koenig von Spanien, wie er bei Beginn des Starts mit der
+    rechten Hand den Sperrhebel loest, der die durch das Fallgewicht im
+    Zug befindliche Flugmaschine frei gibt.]
+
+    "Demnaechst begab ich mich mit einem berufenen Aeronauten, dem seit
+    15 Jahren in New York lebenden deutschen Ingenieur Karl Dienstbach,
+    nach Dayton in Ohio und besuchte hier den Vater den Brueder, den
+    alten anglo-amerikanischen Bischof Milton Wright. Der etwa 70jaehrige
+    Greis bestaetigte mir mit einfachen Worten, dass er dem laengsten
+    Fluge beigewohnt haette. Er sei zufaellig dazu gekommen; von staendiger
+    Sorge um das Schicksal seiner Soehne gequaelt, die sich so
+    wagehalsigen Fluguebungen hingegeben haetten, sei er haeufig auf das
+    Versuchsfeld gegangen und so Zeuge verschiedener Aufstiege geworden.
+    Ueber naehere Einzelheiten wollte er sich nicht aeussern. Haette ich
+    nach den Unterredungen mit den beiden Konkurrenten der Wrights noch
+    irgend welche Zweifel gehabt, sie waeren nach dem Besuche des Vaters
+    zerstreut worden. Ich meine, es kann nur wenige misstrauische Leute
+    geben, die diesem alten, ehrwuerdigen Priester nicht Glauben
+    schenken. Doch das persoenliche Gefuehl sollte bei dieser wichtigen
+    Sache kein bestimmendes Wort mitsprechen; es galt daher, auch
+    gaenzlich unparteiische Leute aufzusuchen.
+
+    "Wir 'verhoerten' des weiteren Mister C.S. Billmann, Sekretaer eines
+    Bankinstituts. In lebhafter Weise rief er aus: 'Well, sie fliegt!'
+    Dann schilderte er, wie ueberwaeltigend es ausgesehen habe, als die
+    Flugmaschine vom Boden emporgestiegen und in leicht wellenfoermiger
+    Bahn etwa in Baumhoehe ueber die Felder dahingeflogen sei; wie leicht
+    sie dem Steuer gehorcht haette und zur Landung gekommen sei; 'wie
+    eine Ente' habe sie sich auf den Boden niedergelassen. Auf naehere
+    Einzelheiten ueber die Konstruktion liess er sich jedoch auch nicht
+    ein. Er schloss mit den Worten, den Bruedern sei auch bester
+    pekuniaerer Erfolg zu wuenschen, sie seien feingebildete Leute, die in
+    harter Arbeit gross geworden waeren.
+
+    "Weit mitteilsamer war ein junger Apotheker, namens Reubens
+    Schindler, der als ungebetener Gast seinerzeit einem laengeren Fluge
+    beigewohnt hatte. Er sei an einem Tage, an dem er einen Probeflug
+    vermutet habe, dem Vater Wright von weitem gefolgt und so Zeuge
+    einer tadellosen Fahrt geworden. Zufaellig kam in die Apotheke auch
+    ein Arbeiter, der ebenfalls als Zaungast bei einem Flugversuch
+    zugegen gewesen war und uns unter breiter Darstellung auch der
+    nebensaechlichsten Umstaende die Angaben des Herrn Schindler
+    bestaetigte.
+
+    "Von hier aus lenkten wir unsere Schritte zu einem alten
+    Spenglermeister, Henry Webbert, der die Flugmaschine haeufig in der
+    Werkstatt seines Sohnes gesehen hatte. Dieser biedere
+    Handwerksmeister behandelte uns mit grosser Zurueckhaltung, machte
+    uns aber doch hoechst interessante Angaben ueber den Flug selbst und
+    ueber die Landung. Das Luftschiff sei so sanft auf den Boden
+    heruntergekommen, 'wie ein Truthahn, der vom Baume herabfliegt'. In
+    bezug auf die Geschwindigkeit uebertrieb der alte Herr allerdings
+    etwas mit der Behauptung, 50 Meilen (80 Kilometer) seien in einer
+    Stunde zurueckgelegt.
+
+    "Sehr viele Einzelheiten ueber die Konstruktion des Flugapparates
+    erfuhren wir sodann von einem deutschen Eisenwarenhaendler, namens
+    Frank Hamburger, der sehr scharf beobachtet hatte und seine
+    Schilderungen durch einige Skizzen anschaulicher zu machen suchte.
+    Auch der Apotheker William Foots zeigte fuer Technik groesseres
+    Verstaendnis und gab uns einzelne wertvolle Aufschluesse, waehrend der
+    Ingenieur Laurenz Wright zwar die Tatsache der Fluege bestaetigte, im
+    uebrigen aber jegliche Auskunft ueber Aussehen der Maschine
+    verweigerte.
+
+[Illustration: *Wilbur Wright erklaert dem neben ihm sitzenden Koenig von
+    Spanien seine Flugmaschine*.]
+
+    "Zum Schluss gelang es uns, noch zwei hoechst wichtige Leute zu
+    sprechen: C.V. Ellis, hoeheren Justizbeamten, und Torrence Huffmann,
+    Praesident der groessten Bank der Stadt. Die Unterredung mit diesen
+    angesehenen Leuten war uns ganz besonders deshalb wertvoll, weil wir
+    von ihnen Aufschluss erhielten ueber die Gruende dafuer, dass in
+    Amerika nicht mehr Wesens von den bedeutenden Erfolgen der Wrights
+    gemacht worden ist. Nach den ersten wohlgelungenen Fluegen haetten die
+    Brueder eine grosse Anzahl Buerger zur Besichtigung eingeladen; beim
+    Herausbringen aus dem Schuppen sei aber das Luftschiff beschaedigt
+    worden, und deshalb waeren die Versuche aufgegeben worden. Das
+    enttaeuschte Publikum habe von da an der Sache ein grosses Misstrauen
+    entgegengebracht; die Wrights dagegen haetten seitdem niemand mehr
+    eingeladen und den Zeitpunkt weiterer praktischer Versuche
+    geheimgehalten. Der Bankpraesident meinte ausserdem, er sehe den
+    praktischen Wert der Maschine nicht ein; vor allem erscheine es ihm
+    als ein grosser Fehler, dass sie nur von einem langen Schienengleise
+    auffliegen koenne."
+
+Es folgen sodann wieder einige Konstruktionseinzelheiten, und dann
+schliesst der Bericht:
+
+    "Die Versuche haben auf einer rechteckigen, von Baeumen und einem
+    Schuppen umgebenen Wiese stattgefunden, die einen Umfang von etwa
+    einer Meile (1,6 Kilometer) hat. Beim laengsten Flug ist dieses Feld
+    etwa 30 Mal umflogen worden. Die Fluege sind sowohl bei ruhigem
+    Wetter als auch bei starkem Winde ausgefuehrt worden.
+
+[Illustration: *Das hinten befindliche Horizontalsteuer*
+    ist bei der Landung beschaedigt. Man sieht oben rechts eine
+    gebrochene Holzstrebe herausragen.]
+
+    "Ich glaube, die Tatsache des Vorhandenseins der ersten praktisch
+    erprobten Flugmaschine kann wohl niemand mehr ernstlich bestreiten;
+    es ist unmoeglich, dass sich so viele angesehene Leute der
+    verschiedensten Berufsklassen und des verschiedensten Alters
+    verabredet haben sollten, einem Erfinder zuliebe das Blaue vorn
+    Himmel herunterzuluegen. Bei einem so langen 'Verhoer', das nach
+    vorher genau festgesetztem Programm angestellt worden ist, haetten
+    sie sich in einzelne Widersprueche verwickeln muessen. Es sei im
+    uebrigen bemerkt, dass ich aus Zeitmangel nur 10 Leute aufgesucht
+    habe; fast jeder einzelne hatte mir noch weitere Zeugen namhaft
+    gemacht. Warum nun aber weigern sich die Gebrueder Wright, ihren
+    Flieger eventuellen Kaeufern vor Abschluss des Vertrages in freiem
+    Fluge vorzufuehren? Wenn sie wirklich so grosse Erfolge erzielt
+    haben, haetten sie doch das Tageslicht nicht zu scheuen gehabt!
+
+    "Auch hierfuer glaube ich eine plausible Antwort gefunden zu haben.
+    Der Flieger ist eben so einfach, dass sie fuerchten, der Kaeufer
+    wendet nach Besichtigung keine so hohe Summe, wie eine Million
+    Dollars, an. Ausserdem glaube ich, dass eine sehr grosse Uebung dazu
+    gehoert, die Flugmaschine zu fuehren.
+
+    "Es wird nicht jeder Luftschiffer imstande sein, sofort damit
+    loszufahren, sondern es gehoert grosse Geschicklichkeit dazu, die
+    sich die Brueder Wright durch ihre zahlreichen Gleitfluege vorher
+    erworben hatten.
+
+    "Ich bin nun der Ansicht, dass wir jetzt, nachdem es erwiesen ist,
+    dass man auch mit Luftschiffen, deren Gewicht nicht durch Gasballon
+    getragen wird, fliegen kann, uns ernstlich der Konstruktion von
+    Flugapparaten zuwenden muessen. Dagegen bin ich der festen
+    Ueberzeugung, dass es nicht der hohen Summe von vier Millionen Mark
+    bedarf, wenn wir deutsche Ingenieure und Flugtechniker--ich nenne z.
+    B. Regierungsrat Hofmann in Berlin--mit dieser Aufgabe betrauen. Wir
+    werden dann sicher nicht den amerikanischen Erfindern nachstehen.
+
+    "Hauptmann a.D. Hildebrandt."
+
+[Illustration: *Wright erteilt seinem Schueler Tissandier Unterricht*
+    Der Flieger steht mit seinen Schlittenkufen etwas ueber dem Erdboden.
+    Die linke Schraube mit Welle und gekreuzter Kettenuebertragung ist
+    deutlich sichtbar.]
+
+Diese Veroeffentlichung fand auch auszugsweise Platz in verschiedenen
+deutschen, amerikanischen, englischen und franzoesischen Zeitungen. Aber
+nur wenige Leute waren auch durch diese Darstellung ueberzeugt, im
+Gegenteil, mancher hervorragende deutsche Fachmann warf Verfasser noch
+bis zum Juni 1908 vor, er habe sich arg duepieren lassen. Nunmehr kam
+aber am 10. Februar 1908 aus New York die Nachricht, dass die
+amerikanische Regierung 3 Aeroplane bestellt habe, einen bei den
+Gebruedern Wright fuer 25000 Dollar, den zweiten bei dem hier schon
+genannten Herring fuer 20000 Dollar und den dritten bei einem
+Flugtechniker Skott in Chicago fuer 1000 Dollar. Die Bedingungen, unter
+denen die Regierung die Abnahme der Flieger vollziehen wollte, waren
+folgende: "Die Abnahmeversuche finden statt unter Aufsicht des
+Signalkorps in Fort Myers in Virginia. Die verlangten Leistungen sind
+folgende: 1. eine Schnelligkeitspruefung ueber eine Strecke von 16
+Kilometer 900 Meter auf einer Fahrt hin und zurueck; 2. ein Flug von
+einstuendiger Dauer ueber eine Strecke von 64,30 Kilometer--40
+Meilen--ohne Zwischenlandung. Der Aeroplan muss mit zwei Personen
+bemannt sein. Jede Maschine kann drei Abnahmefahrten unternehmen." Wenn
+ein Apparat weniger als 40 Meilen in der Stunde zuruecklegt, so wird der
+Kaufpreis vermindert. Bei einer geringeren Geschwindigkeit als 36 Meilen
+in der Stunde wird die Maschine nicht abgenommen; wird dagegen eine
+groessere Geschwindigkeit erreicht, so wird der Kaufpreis erhoeht. Bei
+einer Geschwindigkeit von 60 Meilen in der Stunde wird er sogar fast
+verdoppelt. Sobald irgend ein Punkt des Programms nicht genau
+eingehalten werden sollte, wird 10 Proz. der gestellten Kaution
+zurueckbehalten. Die Wrights hatten 2500 Dollar Kaution zu stellen. Im
+Mai 1908 begaben sich nun die beiden Brueder in ihre alte Einoede zu Kill
+Devil bei Kitty Hawk, wo sie, weit entfernt von den wenig Anerkennung
+zeigenden Mitbuergern ihrer Heimatstadt, ungestoert arbeiten konnten.
+
+[Illustration: *Koenig Eduard von England begibt sich auf dem Felde Pont
+    Long bei Pau zum Startplatz des Fliegers*
+
+    Rechts neben dem Koenig Lord Cunraven, hinter diesem Ingenieur
+    Rozendaal.]
+
+[Illustration: *Minister Barthou im Aeroplan*
+
+    Rechts beginnt ein Gehilfe die Schraube anzuwerfen. Wright gibt
+    Zuendung. Der lange Zylinder enthaelt Benzin. Zwischen Wright und
+    Barthou ist der Wasserbehaelter sichtbar.]
+
+Ihre Versuche hatten den Zweck, die waehrend der fast dreijaehrigen Pause
+verlorene Uebung wieder zu erreichen. Es wurden eine Anzahl von Fluegen
+in der Zeit vom 14. bis 16. Mai ausgefuehrt, die zunaechst in gerader
+Linie gegen den Wind gingen und alsdann mit dem Ausfahren von Kreisen
+endeten. Der laengste Flug dauerte 7 Minuten 29 Sekunden, und fuehrte bei
+einer Windgeschwindigkeit von 8 Metern in der Sekunde ueber eine Strecke
+von 8,03 Kilometern. Rekordfluege waren nicht beabsichtigt; die Fluege
+wurden meistenteils nur von einem ausgefuehrt.
+
+Schon am 10. April hatte sich in Frankreich infolge der Bemuehungen des
+erst kuerzlich von der franzoesischen Regierung fuer seine Verdienste um
+die Flugtechnik mit dem Kreuze der Ehrenlegion ausgezeichneten Herrn
+Hart O'Berg unter Leitung von Lazare Weiller eine Gesellschaft gebildet,
+die fuer die Summe von 500000 Francs die franzoesischen Patente der
+Wrights ankaufen wollte. Am 1. Juni traf Wilbur Wright in Paris ein, um
+dort mit Hilfe seines Bevollmaechtigten Hart O'Berg die Bedingungen zu
+erfuellen.
+
+[Illustration: *Die mit 2 Personen bemannte Flugmaschine*
+    schwebt auf dem Felde bei Pau ueber ihrem Hangar. In der Mitte sieht
+    man vor dem Zaune eine der kleinen, einraedigen Plattformen, auf
+    denen der Flieger vor dem Start mit den Seiten ruht]
+
+Orville Wright blieb einstweilen in Amerika, wo er in Fort Myers am 3.
+September mit den Abnahmefahrten begann. Als erster Passagier wurde in
+dem Aeroplan der Leutnant Frank P. Lahm mitgenommen, der seinerzeit im
+ersten Gordon-Bennett-Wettfliegen von Paris aus Sieger geblieben war.
+Als zweiter Passagier wurde Major Squir vom Signalkorps mitgenommen, und
+als dritter nahm am 17. September der Leutnant Selfridge an der Seite
+Orvilles Platz. An jenem Tage war der Durchmesser der Schrauben um 3
+Zentimeter vergroessert. In 30 Meter Hoehe riss ploetzlich einer der
+Steuerdraehte; dadurch geriet der korrespondierende Draht, nunmehr
+schlaff geworden, in die Schraube, der Flieger geriet ins Schwanken und
+senkte sich aus 30 Meter etwas herab, ueberschlug sich sodann und stuerzte
+mit einem heftigen Stoss auf den Boden. Orville Wright hatte einen
+komplizierten Schenkelbruch, eine Stirnwunde und verschiedene
+Kontusionen erlitten. Leutnant Selfridge stoehnte noch etwas und hauchte
+bald sein Leben aus. Die Versuche in Amerika wurden nunmehr ausgesetzt,
+da Orville Wright laengere Zeit zu seiner Wiederherstellung bedurfte. Er
+hatte bereits sehr schoene Resultate erzielt und einen Weltrekord
+geschaffen. Am 12. September 1908 hatte er einen Flug von einer Stunde
+15 Minuten und 20 Sekunden in einer Hoehe von etwa 60 Metern
+zurueckgelegt.
+
+[Illustration: *Der Flieger im Fluge, von vorn gesehen*
+    Aufnahme aus einem Militaerballon bei Rom.]
+
+Wilbur Wright hatte sich inzwischen mit Hart O'Berg nach Le Mans
+begeben, wo er auf dem Rennplatze von Hunaudiere am 8. August seine
+Versuche begann. Anfangs gelangen die Versuche nicht so gut, namentlich
+deshalb nicht, weil Wright in der Betaetigung der Steuerhebel unsicher
+geworden war. Die Maschine war fuer zwei Personen eingerichtet. Seine
+ersten Versuche unternahm er allein; er musste sich also wieder an die
+Steuerung allein gewoehnen. Da der Rennplatz zu klein war, siedelte er
+bald nach dem Schiessplatz Auvours ueber, wo er sich einen kleinen
+Schuppen bauen liess, in dem er seinen Aeroplan unterbrachte und auch
+sich selbst einquartierte. Auf dem Rennplatz war der laengste Flug am 13.
+August mit 8 Minuten 13 Sekunden ausgefuehrt worden. Die Versuche wurden
+am 21. August auf dem Schiessplatze Auvours fortgesetzt. Den Dauerrekord
+mit einem Passagier stellte er am 3. Oktober mit einem Fluge von 55
+Minuten 37,2 Sekunden mit Franz Reichel vom "Figaro" auf. Am 18.
+November schuf er mit 110 Metern Hoehe seinen Weltrekord, und am 21.
+September schlug dann Wilbur Wright auch den Rekord seines Bruders,
+indem er 1 Stunde 31 Minuten und 25 Sekunden in der Luft blieb und 66,6
+Kilometer zuruecklegte. Am 16. September hatte er zum ersten Male einen
+Passagier, den franzoesischen Luftschiffer Ernest Zens, mitgenommen.
+
+Am 7. Oktober bestieg als erste Dame den Fuehrersitz Frau Hart O'Berg. In
+der Folge sind dann eine grosse Anzahl von Fluegen mit den
+verschiedensten Passagieren an Bord durchgefuehrt worden, und am 31.
+Dezember stellte Wilbur Wright mit einem Fluge von 2 Stunden 20 Minuten
+und 23 Sekunden den Dauerweltrekord auf. 124,7 Kilometer betrug die
+hierbei zurueckgelegte Strecke. Er gewann damit den grossen Preis, der
+von Michelin gestiftet war und 20000 Francs betrug.
+
+[Illustration: *Orville, Katherine, Wilbur Wright*]
+
+Die franzoesischen Patente wurden nunmehr von der Weiller-Gesellschaft
+unter der Bedingung uebernommen, dass Wilbur Wright drei Schueler, die ihm
+von der Gesellschaft bezeichnet wuerden, im Lenken seines Aeroplans
+ausbilde. Er verlegte sein Versuchsfeld am 3. Januar nach Pau in
+Suedfrankreich, wo ihm die Stadt bei Pontlong ein grosses Aerodrom erbaut
+hatte. Seine ersten Schueler waren Paul Tissandier, Graf Lambert und der
+Hauptmann der franzoesischen Genietruppen Lucas Gerardville. Bereits am
+6. Januar fuehrte er hier seine ersten Fluege aus und errang sich am 8.
+durch einen Flug von 112 Kilometern den Preis von Triaca. Am 15. Februar
+fuhr Wilburs Schwester Katherine zum erstenmal im Aeroplan mit dem
+Bruder. Am 17. Februar liess sich Koenig Eduard in Pau den Apparat
+vorfuehren und wohnte einem Aufstiege bei, der eine halbe Stunde dauerte.
+Fuenf Tage spaeter besichtigte Koenig Alfons von Spanien, der eigens von
+San Sebastian gekommen war, die Flugmaschine. Am 6. Maerz wurden die
+Brueder durch den Titel eines "Doktor-Ingenieurs", den ihnen die
+Technische Hochschule in Muenchen verliehen, ausgezeichnet. Am 8. April
+machte Wright mit seinen Schuelern den letzten Aufstieg in Pau, erklaerte
+ihre Ausbildung fuer beendet und begab sich nach Rom, um seinen Aeroplan
+dort der italienischen Regierung vorzufuehren und einen Schueler
+auszubilden. Unmittelbar nach seiner Abreise von Pau wurde der dort
+benutzte, ziemlich stark mitgenommene Apparat im Auftrage der
+franzoesischen Regierung nach Paris geschafft, um dort im Konservatorium
+der Kuenste und des Handwerks Aufstellung zu finden. Auch in Rom gelang
+es Wilbur, ganz Italien durch seine hervorragenden Leistungen von seinem
+grossen Koennen zu ueberzeugen. Am 24. April fuehrte er seinen Apparat dem
+Koenige von Italien vor, und bereits am 28. April konnte sein Schueler,
+der Genieleutnant Calderara, trotz starken Regens selbstaendig einen Flug
+von 35 Minuten Dauer vollfuehren. Durch Aussetzen des Motors stuerzte der
+Apparat damals aus einer Hoehe von drei Metern zur Erde herab, der
+Lenker blieb unverletzt, waehrend das Steuer brach und die
+Schraubenachse verbogen wurde. In kurzer Zeit konnten die Schaeden an der
+Maschine aber beseitigt werden, und am 6. Mai sehen wir Calderara einen
+neuerlichen Flug unternehmen, der aber infolge eines Ohnmachtsanfalles
+des Aviatikers ein tragisches Ende nehmen sollte. In einer Hoehe von 40
+Metern kippte der Aeroplan um, die Maschine stuerzte zu Boden und begrub
+den Lenker unter ihren Truemmern. Die beiden Steuer waren gebrochen, die
+Tragflaechen und die Spanndraehte verbogen und zerrissen. Calderara hatte
+mehrere Brueche und eine Gehirnerschuetterung erlitten und wurde nach Rom
+ins Spital gebracht. Bereits nach Monatsfrist war er geheilt. Auch die
+Maschine war wiederhergestellt worden, so dass der Offizier am 19. Juli
+abermals einen kurzen Flug unternahm. Spaeter wurde von seinem
+behandelnden Arzte festgestellt, dass er zu Ohnmachtsanfaellen neige,
+weshalb er das Lenken von Aeroplanen endgueltig aufgeben musste.
+
+[Illustration: *Katherine und Orville Wright*
+    machen in Pau unter der Fuehrung des Franzosen Ernest Zens (links im
+    Korbe) ihre erste Freiballonfahrt]
+
+
+
+
+Die Beschreibung der Wrightschen Flugmaschine.
+
+
+Der Wrightsche Flieger ist ein Doppeldecker, der seinen Ursprung in den
+Konstruktionen von Chanute hat. Zwei parallele, auf 1/20 ihrer Tiefe
+gekruemmte, 12,5 Meter klafternde Flaechen haben 1,8 Meter Abstand
+voneinander. Die Tiefe der Trageflaechen betraegt 2 Meter. Das aus Holz
+bestehende Gerippe der Flaechen ist mit Baumwollstoff bespannt; ihre
+Oberflaeche betraegt 50 Quadratmeter. Die konkave Seite ist nach unten
+gerichtet. Die Kruemmung nimmt nach vorne hin zu, wo die vorderen Kanten
+einige Zentimeter dick sind. Die Verspannung erfolgt in
+Gitterkonstruktion durch Holz und Klaviersaitendraht. Das Material ist
+amerikanisches Tannenholz, dass sich sowohl im Luftschiffbau, als auch
+frueher schon im Bootsbau infolge grosser Festigkeit und geringen
+Gewichts bewaehrt hat. Drei Meter vor den Hauptflaechen befindet sich das
+Hoehensteuer, das aus zwei spindelfoermigen Flaechen besteht von 5,25
+Zentimeter Breite und 0,80 Meter Tiefe. Zwischen den Hoehensteuern
+befinden sich noch zwei halbmondfoermige vertikal angeordnete Flaechen.
+Das Steuer fuer die Horizontale befindet sich 2,7 Meter entfernt hinter
+den Trageflaechen. Es besteht aus zwei langen vertikalen Flaechen, die 1/2
+Meter auseinanderstehen. Das Steuer kann auch in vertikaler Richtung
+bewegt werden, um Beschaedigungen durch Aufstossen bei der Landung zu
+vermeiden. Der Sitz fuer den Fuehrer und einen Begleiter befindet sich auf
+der vorderen unteren Trageflaeche, wo sich hinter ihm der Motor und
+rechts von ihm der Kuehler befindet. Der Motor ist ein Viertaktmotor
+mit 4 Zylindern, er entwickelt 25 PS und wiegt in betriebsfaehigem
+Zustande 90 Kilogramm, so dass also 3,6 Kilogramm auf eine Pferdestaerke
+kommt. Er ist nach den ureigensten Ideen der Wrights gebaut, und macht
+etwa 1400 Touren. Der Motor treibt zwei aus Holz gefertigte, mit Tuch
+ueberklebte Schrauben von 2,80 Meter Durchmesser. Der Antrieb erfolgt
+durch Ketten, die in Roehren geschuetzt laufen. Die Schrauben drehen sich
+mit 450 Touren.
+
+[Illustration: *Flug um den Michelin-Preis*
+    bei Sonnenuntergang am 31. Dezember 1908 auf dem Schiessplatz
+    Auvours bei Le Mans.]
+
+[Illustration: Blick zwischen die Tragflaechen mit ihren Holzstreben.
+    Wilbur auf dem Fuehrersitz, links steht der Koenig von Spanien.]
+
+Die Tourenzahl des Motors kann weder durch Gasdrosselung, noch durch
+Verstellen des Zuendpunktes veraendert werden. Die Verminderung der
+Fluggeschwindigkeit wird lediglich durch Aufrichten des Fliegers mittels
+des Hoehensteuers bewirkt. Die Maschine ist auf Schlittenkufen montiert.
+Die Steuerung erfolgt durch Betaetigung zweier rechts und links vom
+Fuehrersitz befindlichen Hebel; die Vorwaerts- oder Rueckwaertsbewegung des
+linken Hebels hat Fallen oder Steigen des Fliegers zur Folge. Mit dem
+rechten Hebel wird das Horizontalsteuer und gleichzeitig auch die
+Verwindung der Tragflaechen bewirkt. Gerade das letzte bedeutet eine
+Haupteigenschaft des Wrightschen Fliegers.
+
+[Illustration: *Hart O'Berg*
+    der Bevollmaechtigte von Wilbur und Orville Wright in seinem
+    Arbeitszimmer]
+
+Durch die Verwindung wird die Stabilitaet des Fliegers in unsteten
+Luftstroemen gehalten. Wenn beispielsweise ein Windstoss von links den
+Apparat nach rechts kippen will, so vermehrt man auf der rechten Seite
+den Luftwiderstand durch Vergroesserung der Woelbung, also durch Verwinden
+der Flaeche nach unten. Gleichzeitig wird der Luftwiderstand links, wo
+der seitliche ploetzliche Luftstrom auftrifft, vermindert durch
+Verminderung der Woelbung, das heisst durch Verwinden der hinteren Flaeche
+nach oben. In gleicher Weise, wie eben geschildert, muss verfahren
+werden, wenn der Apparat eine Wendung nach rechts fahren soll. Alsdann
+beschreibt die rechte Kante des Fliegers, die sich auf der inneren Seite
+der Kurve befindet, einen kleineren Weg, als die linke Kante, die sich
+auf der aeusseren Seite der Kurve befindet. Demnach legt die rechte Kante
+einen kleineren Weg zurueck, als die linke, und man muss die
+Geschwindigkeit rechts etwas einschraenken. Durch Verwinden der rechten
+Flaeche nach unten erhoeht man den Luftwiderstand, vermindert also die
+Schnelligkeit; durch Verwinden der linken Flaeche nach oben vermindert
+man den Luftwiderstand und erhoeht demnach die Geschwindigkeit. Nach den
+Mitteilungen Wrights kommt es dabei darauf an, anfangs zwar bei einer
+Wendung das Steuer fuer die betreffende Richtung einzustellen, aber
+moeglichst bald wieder umzulegen, um ein Kippen zu vermeiden. Beim
+Balancehalten ist es erforderlich, genau das Gegenteil von dem zu tun,
+was ein Radfahrer tut. Dieser legt sich nach innen in die Kurve und
+bringt den Schwerpunkt nach innen. Bei der Flugmaschine muss man den
+Schwerpunkt nach aussen halten, weil sonst der Apparat ins Kippen kommt.
+
+Das Ausfuehren von Wendungen und das hierbei zur Erhaltung der seitlichen
+Stabilitaet erforderliche Verwinden geschieht in der Weise, dass
+beispielsweise der rechte Hebel nach vorwaerts gezogen wird, wodurch die
+Steuerdrehung nach rechts erfolgt. Gleichzeitig drueckt man aber diesen
+Hebel auch nach links, wodurch die Verwindung in der Weise eintritt,
+dass die Kanten der rechten Trageflaechen nach unten und die der linken
+nach oben gerichtet werden.
+
+Kuerzlich haben die Wrights ein neues Patent eingereicht, in dem sie zwei
+kleine vertikale Flaechen beschreiben, die noch durch einen dritten
+ergaenzenden Hebel betaetigt werden. Diese vertikal stehenden kleinen
+Flaechen sollen das Gauchissement, wie man die Verwindung im
+Franzoesischen nennt, verstaerken und das Gegengewicht in der Balance
+halten. Der Start der Wrightschen Flugmaschine erfolgt durch eine
+besondere Vorrichtung, Pylon genannt. Wie schon erwaehnt, ruht die
+Maschine in der Mitte mit den dort befindlichen Querverbindungen auf
+einer Holzschiene. An den beiden Seiten wird sie durch je eine mit einem
+kleinen Rad versehene Plattform im Gleichgewicht erhalten. Die Schiene
+wird meist genau gegen den Wind gerichtet. Einige Meter hinter dem
+Schienenanfang, genau in der Mitte hinter dem Flugapparat, wird ein 8
+Meter hoher pyramidenfoermiger Turm aufgestellt, in dessen Mitte ein 700
+Kilogramm schweres Gewicht sich befindet, das durch ein Seil, wie es die
+Figur auf Seite 62[Note: Siehe unten] zeigt, mit dem Aeroplan in
+Verbindung steht. Vor Beginn des Anfluges wird das Gewicht in dem Turm
+hochgezogen und alsdann der Flugapparat durch eine Sperrklinke an der
+Schiene befestigt. Sobald nun die Schrauben angeworfen sind und der
+Motor seine volle Geschwindigkeit entwickelt hat, loest der Fuehrer die
+Sperrklinke und alsbald zieht das fallende Gewicht den Aeroplan mit
+allwachsender Geschwindigkeit nach vorwaerts. Das Hoehensteuer hat hierbei
+eine Neigung nach unten, so dass durch den Winddruck der Apparat fest
+gegen die Schiene gedrueckt wird. Gegen Ende der Schiene faellt das Ende
+des Seils von selbst von dem Haken des Fliegers ab, der Fuehrer stellt
+eine Kleinigkeit das Hoehensteuer ein und die Flugmaschine beginnt zu
+schweben. Es kommt nun darauf an, in der Luft die Balance durch
+fortwaehrende Betaetigung des linken Steuerhebels zu halten, wobei die
+Bewegungen jedoch aeusserst gering sein muessen, weil der Flieger auf die
+leiseste Anstellung der Flaechen reagiert.
+
+[Illustration: *Schematische Zeichnung der Betaetigung der
+    Verwindungsvorrichtung*
+
+    Beim Seitwaertsschieben des Hebels A gehen die Schnuere in der
+    Pfeilrichtung von B nach A, von C und D nach B. Hierdurch werden die
+    Holzstreben CE und DP in der Pfeilrichtung nach unten gedrueckt und
+    damit die Kanten der oberen und unteren Trageflaechen ebenfalls nach
+    unten bewegt. Die Holzstreben nehmen nunmehr die Stellung HG und KI
+    ein. Die Verwindung der rechten Flaechen ist erreicht.
+
+    Von E und F fuehren Schnuere nach L. Diese werden folgegemaess
+    ebenfalls in der Pfeilrichtung nach unten bewegt und uebertragen die
+    Bewegung ueber L und M nach N und O. Die Holzstreben NP und OQ werden
+    nach oben gezogen und nehmen die Stellung RS und TU ein. Damit hat
+    der Fuehrer die Verwindung der linken Trageflaechen bewirkt.]
+
+[Illustration: *Startpylon fuer die Flugmaschine*
+
+    Das Gewicht G haengt an einem Tau, das ueber die Rolle A zu der fast
+    am Ende der Holzschiene angebrachten Rolle B laeuft. Von hier geht
+    das Tau zur Maschine, wo es bei C an einem Haken befestigt ist.
+    Zwischen B und C befindet sich noch ein Flaschenzug, welcher der
+    besseren Uebersichtlichkeit halber auf der Zeichnung fortgelassen
+    ist.]
+
+
+
+
+Rueckkehr der Wrights nach Amerika und Besuch Berlins.
+
+
+Am 5. Mai haben sich Wilbur und Orville Wright mit ihrer Schwester
+Katharina zunaechst nach England begeben, wo ihnen der dortige
+Luftschifferklub eine goldene Medaille in feierlicher Sitzung uebergab
+und die beiden Brueder zu Ehrenmitgliedern der Gesellschaft ernannte.
+Alsdann reisten sie mit einem Schiff des Norddeutschen Lloyds nach New
+York und wurden hier mit allen Ehren von den Mitgliedern des
+amerikanischen Luftschifferklubs und einer zahlreichen Menschenmenge mit
+grossem Jubel empfangen. Sie begaben sich von da in ihre Heimatstadt.
+Als sie zur Mittagsstunde in Dayton ankamen, empfingen sie unter
+Glockengelaeut und Kanonendonner mehr als tausend Menschen. Man brachte
+die beiden Brueder in einem Wagen nach Hause, der von vier Schimmeln
+gezogen wurde; in diesem Wagen hatte auch ihr Vater mit zwei
+Lieblingsenkelkindern Platz genommen. Ein ganzer Zug von Wagen
+begleitete sie sodann in feierlichem Zuge nach Hause. Am Abend bewegten
+sich in der kleinen Strasse, wo sich das Haus des alten Bischofs
+befindet, weit ueber 10000 Menschen, alte Freunde, Nachbarn und Mitbuerger
+der Stadt, um sie zu begruessen. Die Stadtverwaltung hatte alle
+oeffentlichen Gebaeude dekoriert und beflaggt, und die drei groesseren
+Plaetze von Dayton herrlich illuminiert. Auch die Einwohner waren in
+Beflaggung und Illumination nicht sparsam gewesen, so dass Dayton ein
+praechtiges Bild gab, wie man es noch nie zuvor gesehen hatte.
+
+[Illustration: *Schematische Ansicht der Trageflaechen nach der
+    Verbindung*]
+
+Am 17. und 18. Juni hatte die Stadt eine grosse Feierlichkeit
+veranstaltet, bei der drei goldene Medaillen den Bruedern ueberreicht
+wurden: eine von der Nation, eine vom Staate Ohio und eine von der Stadt
+Dayton. Doch die Mission der beiden Brueder war noch nicht erfuellt;
+alsbald begaben sie sich nach Washington, wo Orville Wright die
+Abnahmefahrten fuer die amerikanische Regierung begann. Nach anfaenglich
+kleinen Havarien, die bei neuen Apparaten fast immer vorkommen, jedoch
+in zwei, drei Fahrten bald beseitigt sind, zeigte der Flieger wieder,
+was er leisten konnte, und schon am 20. Juli blieb Wright 80 Minuten in
+der Luft und legte dabei in der Stunde 45 Meilen zurueck. Damit waren die
+Bedingungen, welche die amerikanische Regierung gestellt hatte, erfuellt
+und nunmehr konnte sich Orville nach Europa begeben, um Berlin sein
+Koennen zu zeigen und Piloten auszubilden fuer die deutsche Gesellschaft
+"Flugmaschine Wright", die aus der Motorluftschiff-Studiengesellschaft
+und der Luftfahrzeug-Gesellschaft hervorgegangen ist, um Flieger nach
+der Bauart der Brueder Wright und anderer Erfinder herzustellen. Damit
+duerften wir auch in Deutschland bald so weit sein, dass der Flugsport
+allgemeine Verbreitung findet.
+
+      *      *      *      *      *
+
+
+
+
+Anhang: Korrespondenz von A. Hildebrandt.
+
+
+A. Hildebrandt
+Hauptmann a.D.
+Berlin W. 30
+Martin Luther-Strasse 10.
+
+Berlin W. 30, den 21. April 1909
+
+Mr.
+Bishop Wright, Esqu.
+Dayton (Ohio).
+
+Dear Sir,
+
+Relating to the acquaintance which to make of you I had the Honour at
+the end of October in 1907 during my visit at Dayton I beg to adress to
+you with a demand to day. I am going to write a book about your
+celebrated sons. I should be very thankful to you for willing send me
+some material. I should like to have any dates of the youth of your
+sons, of the first experiences and also of you and the lated Madame
+Wright; perhaps do you write me also of your feeling, having had during
+the bold experiences of your sons. If You could let me have portraits of
+you and the lated Madame Wright, of your children and your house at
+Dayton, I should very obliged to you. Please, will you have then the
+kindness, to get reproduce such pictures an my account and to send me
+the wished materiel as soon as possible, as I have to make haste, for
+being the book ready still before the visit of your sonns in
+Germany.
+
+Hoping, that you will accomplish my wishes and thanking you beforehand,
+I remain, Dear Sir,
+
+Yours very most obedient
+
+[Signature: Capt. A. Hildebrandt.]
+
+
+A. Hildebrandt
+Hauptmann a. D.
+Berlin W. 30
+Martin Luther-Strasse 10.
+
+Berlin W. 30. den 22. Mai 1909.
+
+Bishop Milton Wright, Esquire,
+Dayton (Ohio)
+
+Dear Sir,
+
+With best thanks I confirm you the receipt of your kind letter of the
+11th inst. Your family-history has interested me very much. I shall
+make use of them soon. But about something I am not clear. You write:
+"This brings us in line with general United States Grant and
+Grover-Cleveland." I do not know, if you mean two persons, the same
+general Grant and general Grover from Cleveland? Also I thank you for
+your photograph. It is of moment to me, also to have still photographs
+of the late Madame Wright and her father, Mr. John Koerner, whom Germany
+the native has been of. I should like to get still other photographs of
+your children Wilbur and Orville, presenting them in young years and
+also of Miss Katherine and if you have still a photograph presenting
+your whole family joined. At last you would oblige me much for sending
+me pictures also of your present house, the flight-square near Dayton
+and the whole sight of Dayton. As being immodest of me, to pronounce so
+many wishes to you, I propose and beg you, to give order to anybody, to
+procure me all the wished photographs and pictures on my account. With
+great interest I am awaiting your further informations, promised me in
+your letter, about the youth of your sons and the matter, how these are
+gotten to the intention to make experiences with a flying mashine.
+[Hand-written note: I cannot found(?) Schleits in Saxony?]
+
+Thanking you once more for the material, which to send me, you have had
+the kindness, I remain, Dear Sir,
+
+Yours most obedient
+
+[Signature: Hildebrandt]
+
+[Hand-written note: PS. The pictures are not ready, I have to have them
+copied. M.W.]
+
+      *      *      *      *      *
+
+Dayton, Ohio, June 5, 1909.
+
+Capt. A. Hildebrant,
+Berlin, Germany.
+
+Dear Sir:
+
+You did not quite understand my letter. It was General Ulysses S. Grant
+that I wrote of, and President Grover Cleveland, of whom I spoke. They
+were two presidents of our country, decended like myself from John
+Porter of Windsor (16_37) from whom I am also descended. Hence they are
+distant cousins of ours, and of each other.
+
+My wife's father was a regular German in his looks. He was born six
+miles west of Scleitz in Saxony, the southwest part, as you will see on
+any large map of Saxony. The family, of whom we never had any group
+picture, is as follows:
+
+Milton Wright, born November 17, 1828, in Rush County, Indiana.
+
+Susan Catharine (Koerner) Wright, born near Hillsboro, Virginia, April
+30, 1831.
+
+Reuchlin Wright, born in Grant County, Indiana, March 17, 1861.
+
+Lorin Wright, born in Fayette County, Indiana, November 18, 1862.
+  (These two older brothers are still living, are married, and have lovely
+  children--Reuchlin three, Lorin four, Reuchlin's oldest married).
+
+Wilbur Wright, born, in Henry county, Indiana, April 16, 1867.
+
+Otis Wright and Ida Wright (twins) born April 24, 1870, in Dayton, Ohio.
+  (Without sickness or pain, they died at 13 and 18 days of age).
+
+Orville Wright, born August 19, in Dayton, Ohio, 1871.
+
+Katharine Wright, born in Dayton, Ohio, August 19, 1874.
+
+They were all good children. And they are all of unimpeachable morals
+yet. Reuchlin is a deacon on the Congregational Church, in Tonganoxie,
+Kan. They are about equal in intellect, the others having had better
+education than the inventors. Katharine graduated in the Classical
+Course in Oberlin College, and teaches in Dayton High School. I am a
+traveling minister in the United Brethren in Christ, served several
+years as pastor, ten as presiding elder, eight as editor of our Church
+paper, and twenty-four as bishop. As bishop and editor I was elected by
+General Conference every four years, those offices being filled every
+four years by a ballot election. In filling my duties, I have visited
+all the states west of the River, and territories; and all states east
+of the Mississipi, except the six New England states and five others. In
+all I have traveled by rail, over two hundred thousand miles. My change
+of residence every two years must account for my three older children
+being born in three different counties in Indiana. Mrs. Wright, the
+sweetest spirit earth ever knew, died twenty years ago, in Dayton, July
+4, 1889. From that on I raised the children, left to my care. All the
+children sprang to help their mother, but Wilbur cared for her,
+prolonged her life, and I gave him five hundred dollars for his
+incomparable care for her. [Hand-written note: He had no promise of
+reward.]
+
+Their first interest in the art of flying, they date back to about the
+year 1879, when I brought home to them a Heliocoptere, a toy which could
+fly. Later on they began to watch Lilienthal, and followed him to his
+death, in the art of gliding. Their first active work began in the year
+1900, when as a vacation, they built a gliding machine on the coast of
+North Carolina, and each year in the fall of the year, spent a few weeks
+there till in 1903, they attached a gasoline motor to it and flew,
+December 17th, four short flights. They flew against the wind and made
+at the longest only about a half mile, counting the velocity of the
+wind. In actual measurment considerably less than a half mile. The
+place of flight was on the sandy plain near Kill Devil Mills, in Dare
+County, four miles from Kitty Hawk in Cerrituck County. The following
+two summers and falls, they experimented at Simson's(?) Station (a
+mere stopping place, on the Dayton and Springfield traction railroad, a
+perfectly level meadow ground) where they made a few miles flight, but
+in 1905, September, they flew as much as twenty-four miles, at one
+flight. They flew no more for part of two years, but began negotiations
+for the sale of their invention. In 1908, they engaged to a Company in
+France, to sell their rights, and sold to the United states government a
+single machine at twenty-five thousand dollars, they in each case, to
+perform certain exploits with the machine. Time crowding on them to meet
+engagements, they separated in June 1908, Wilbur going to France, and
+Orville remaining to complete at Ft. Myer (near Washington) the United
+States contract. Of Wilbur's scalding his arm in regulating his machine,
+and his successful trial, before his arm was well, all have read. But
+Orville having his machine ready at Ft. Myer, went far ahead of Wilbur,
+but an easily avoided defect in his machine, having under strain caused
+friction between the propeller of his machine and a wire, and--far worst
+of all broke the management of the _tail_ of his machine, a most
+important part--he was on a machine in the air over one hundred feet
+high, with his control of the machine rendered useless, and after
+sinking to about seventy-five feet, his machine descended vertically, to
+the death of Lieutenant Selfridge, two hours later, and a tremendous
+jolt to himself and the breaking of a thigh bone (left leg, one third
+way down toward the knee) which confined him in the hospital for
+several weeks, and from which he will entirely recover. But Wilbur
+learning of Orvilles disaster, and reproached as far behind him, rose to
+the situation, and in a few days, was ahead of anything Orville had
+done, to the great joy of his brother. The rest you know. Wilbur in
+France and Rome earned his conracts, and came home with Orville and
+their Sister Katharine, and they were hailed at the depot of his city,
+with the ringing of bells, the firing of cannon, and by over a thousand
+people, and the same at home, at the noon hour, and at night more than
+ten thousand people came out as old friends and neighbors to see them,
+the most splendid illumination of the street, and decoration of the
+buildings for three squares, being the order of the occasion. The city
+brought them on their arrival, home in a train of coaches, thier
+carriage being drawn with four white horses, in which rode with them
+their father and two favorite grandchildren, Leontine and Horace Wright.
+
+The boys were natural workmen in wood or metal. Their father's family,
+their mother's family (and the mother herself) were inventive and
+ingenius. The father at eighteen years invented a type-writer, having
+never heard. It is useless to develop inheritance in their invention.
+
+The city (Dayton) has decreed them two days (Jne 17 and 18), on which,
+besides innumerable ceremonies, they will be given three gold medals;
+One voted by the nation, one by the State, and another by the City.
+
+Yours truly,
+
+[Signature: Milton Wright]
+
+
+A. Hildebrandt
+Hauptmann a.D.
+Berlin W. 30
+Martin-Luther-Strasse 10.
+
+Berlin W. 30, den 28. Huni 1909.
+
+Bishop
+Milton Wright, Esquire,
+Dayton (Ohio).
+
+Dear Sir,
+
+For the two letters, you had the kindness to send me in last time, be
+thanked very much. With great interess I am awaiting the pictures, which
+you advised me of. I shall try now, to discover the native place of Mr.
+John G. Koerner, the father of the late Madame Wright.
+
+Now still once more many thanks for the pains, you have had!
+
+I am with great estime
+ever Yours very truly
+
+[Signature: A. Hildebrandt.]
+
+
+Berliner Lokal-Anzeiger
+Redaktion.
+Berlin SW 68,
+Zimmerstrasse 37-41.
+
+9. Juli 1909
+
+Dear Sir,
+
+I wired to you: "Bishop Wright, Dayton. Book must be stamped. Please
+send photographs."
+
+The biography of your sons shall be published of possible as book
+already in 14 days. Therefore I should lik to recives instantly the
+photographs requested from you. If it were not possible to you to send
+me all photographs by retourn of mail, please send later the rest, for.
+I should use the other pictures for german papers.
+
+I thank you for your endeavaurs and hope, shortly to see in Berlin your
+souns and Mis Katherine.
+
+With best regards
+yours
+
+[Signature: gez. Captain Hildebrandt]
+
+
+A. Hildebrandt
+Hauptmann a.D.
+Berlin W. 30
+Martin-Luther-Strasse 10.
+
+Berlin W. 30, den 18. Juli 1909.
+
+Bishop Milton Wright, Esquire,
+Dayton (Ohio).
+
+Dear Sir!
+
+With many thanks I confirm you the receipt of the two pictures and your
+letter of the 3rd inst., by which you have made me great pleasure. I
+shall make use of the pictures as soon as possible.
+
+Thanking you once more for your kindness and being always at your
+service, I remain, Dear Sir
+
+ever Yours truly
+
+[Signature: A. Hildebrandt.]
+he receipt of the two pictures and your
+letter of the 3rd inst., by which you have made me great pleasure. I
+shall make use of the pictures as soon as possible.
+
+Thanking you once more for your kindness and being always at your
+service, I remain, Dear Sir
+
+ever Yours truly
+
+[Signature: A. Hildebrandt.]
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK DIE BRUEDER WRIGHT***
+
+
+******* This file should be named 10914.txt or 10914.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.net/1/0/9/1/10914
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.net/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.net/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.net/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

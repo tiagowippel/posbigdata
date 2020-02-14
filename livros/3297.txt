@@ -1,0 +1,2020 @@
+The Project Gutenberg Etext of Schnock, by Friedrich Hebbel
+
+This Etext is in German.
+-bit version.
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+Presently, contributions are only being solicited from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states. These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655
+
+Title:  Schnock
+
+Author:  Friedrich Hebbel
+
+Release Date:  June, 2002  [Etext #3297]
+[Yes, we are about one year ahead of schedule]
+[The actual date this file first posted = 04/23/01]
+
+Edition:  11
+
+The Project Gutenberg Etext of Schnock, by Friedrich Hebbel
+**This file should be named 3297-8.txt or 3297-8.zip*****
+
+This etext was prepared by Mike Pullen,
+globaltraveler5565@yahoo.com and proofread by Dr. Mary Cicora,
+mcicora@yahoo.com.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net/pg
+http://promo.net/pg
+
+Those of you who want to download our Etexts before announcment
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://metalab.unc.edu/pub/docs/books/gutenberg/etext01
+or
+ftp://metalab.unc.edu/pub/docs/books/gutenberg/etext01
+
+Or /etext00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding.
+
+Something is needed to create a future for Project Gutenberg for
+the next 100 years.
+
+We need your donations more than ever!
+
+Presently, contributions are only being solicited from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states.
+
+All donations should be made to the Project Gutenberg Literary
+Archive Foundation and will be tax deductible to the extent
+permitted by law.
+
+Mail to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Avenue
+Oxford, MS 38655  [USA]
+
+We are working with the Project Gutenberg Literary Archive
+Foundation to build more stable support and ensure the
+future of Project Gutenberg.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+***
+
+You can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+Example command-line FTP session:
+
+ftp metalab.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext01, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g.,
+GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+**The Legal Small Print**
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm
+etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association
+(the "Project").  Among other things, this means that no one
+owns a United States copyright on or for this work, so the
+Project (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth below, apply if you wish to copy and
+distribute this etext under the Project's "PROJECT GUTENBERG"
+trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions of money, time,
+public domain etexts, and royalty free copyright licenses.
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.07.00*END*
+
+
+
+
+
+This Etext is in German.
+
+
+This etext was prepared by Mike Pullen,
+globaltraveler5565@yahoo.com and proofread by Dr. Mary Cicora,
+mcicora@yahoo.com.
+
+
+
+
+
+Schnock
+Ein niederl�ndisches Gem�lde
+
+Friedrich Hebbel
+
+
+
+Erstes Kapitel
+
+
+Zur Einleitung
+
+
+In dem kleinen Marktflecken Y., wo sich jeder Reisende gern so lange
+aufh�lt, als er mu�, n�mlich so lange als die Post ausbleibt, traf
+ich in den Hundstagen des Jahres 1836 zum letztenmal ein.  Der Ort
+ist einer von denen, wo man nur auf dem Leichenacker erf�hrt, da�
+Menschen darin leben, weil eine Reihe ehrw�rdiger Grabsteine, die man
+nicht L�gen zu strafen wagt, versichern, da� Menschen darin sterben.
+Diesmal kannte ich ihn nicht wieder, und ich w�rde geglaubt haben,
+der Postillon sei fehlgefahren, wenn sich nicht der mir unverge�liche
+Postmeister, eine lange, d�rre, windschiefe Figur, die sich scheu und
+verlegen in jede Ecke dr�ckt, als ob sie schon durch ihre blo�e
+Existenz zu beleidigen f�rchte, aus der T�r geschoben, und so meine
+Zweifel verscheucht h�tte.  Alle Stra�en n�mlich, durch die ich kam,
+waren gedr�ngt voll von Leuten; kein Fenster, aus dem nicht mehr
+K�pfe h�tten herausschauen wollen, als Platz fanden; auf dem
+Kirchturm selbst konnt' ich deutlich Hauben und flatternde Schals
+unterscheiden, und jedes Gesicht, von der alten, halberblindeten
+Bettelfrau an, die sich m�hsam mit der rechten Hand auf ihren Stab
+st�tzte und mit der linken die Brille aufsetzte, bis zu dem kleinen
+wei� gekleideten M�dchen mit seinen blonden Locken herunter, trug den
+Ausdruck der gespanntesten Erwartung.  "Was gibt's denn," fragte ich
+den Postmeister, "ist's Jahrmarkt heut?"--"Den 16. hujus gewesen.
+"--"Feiert der Amtmann oder der Stadtpfarrer das
+Dienstjubil�um?"--"Herr Pastor primarius Nothnagel hat's schon
+gefeiert und ist an den Folgen des Schmauses gestorben, und unser
+Herr Amtmann darf in den n�chsten vierzig Jahren an die Ehre noch
+nicht denken, dazu ist er, mit Erlaubnis zu sagen, noch viel zu jung.
+"--"Gibt's denn Aufstand?  Rebellieren die B�rger?  Emp�rt sich, was
+Hosen tr�gt?"--"Bewahre uns Gott vor Rebellion!  Dazu haben wir auch
+gar keine Zeit, man mu� sich tummeln, ums liebe Brot zu verdienen und
+die hohen Steuern zu erschwingen.  Nein, die Sache, es kurz zu
+vermelden, ist die.  Ein h�chst gef�hrlicher Verbrecher, ein
+B�sewicht, der einen greulichen Diebstahl begangen hat und einer
+Mordtat f�hig gehalten wird, wurde gestern zur Haft gebracht und
+heute, als ihm der Gefangenenw�rter das Fr�hst�ck in den alten
+verfallenen Turm bringen wollte, vermi�t.  Da hat denn der Amtmann
+die gesamte B�rgerschaft aufgeboten, um ihn wieder einzufangen, und
+wie man vernimmt, so ist's, wunderbar genug! gegl�ckt.  Nun ist man
+nat�rlich begierig--" Der Postmeister unterbrach sich; denn er
+bemerkte, da� ich schon l�ngst nicht mehr auf ihn h�rte, weil ich
+sonst �ber die Explikation das Schauspiel vers�umt h�tte.  Ein Zug,
+abenteuerlicher, als ich ihn je gesehen, kam die Stra�e herauf.
+Zuerst, in grellroten R�cken mit messingnen Kn�pfen, an der Seite
+m�chtige S�bel, die das Gehen erschwerten und den Mut gewi� nicht
+vermehrten, zwei ehrenfeste M�nner, voll edlen Selbstgef�hls, in
+denen sich ehemalige Unteroffiziere der Reichsarmee, die vielleicht
+manche Schlacht mit hatten verlieren helfen, und jetzige
+Gerichts--und Polizeidiener nicht verkennen lie�en.  Dann, von zwei
+lahmen Pferden gezogen, ein Leiterwagen, auf dem der Held des Tages,
+der Triumphator, sa�, dreifach gebunden, als ob er ein Herkules w�re
+und noch etwas mehr.  Hinterher die ganze waffenf�hige Mannschaft des
+Fleckens, mit Mistgabeln, �xten und Beilen, Stricken, genug mit allen
+m�glichen Dingen, die der Leser nicht erwartet, armiert und nicht
+ohne Stolz zu Frauen und T�chtern aufblickend und sie mit leichtem
+Kopfnicken, da die Zeit nichts weiteres erlaubte, begr��end.  Der
+Wagen hielt; zwei alte Weiber, wovon eine der andern ihren breiten
+R�cken, der ihr das Sehen unm�glich mache, vorwarf, fingen an, sich
+zu pr�geln, der Amtmann trat vor mit einem Gesicht, welches halb
+Fragezeichen war, halb aber auch, der W�rde des Amts gem��,
+Gedankenstrich.  Die Gerichtsdiener machten Front und statteten beide
+zugleich, also so unverst�ndlich wie m�glich, Rapport ab, der Amtmann
+warf auf den Triumphator einen vernichtenden Blick, den dieser mit
+seinem ungezogensten G�hnen erwiderte, dann rief er finster aus: "Wo
+bleibt denn aber Schnock, der Schreiner, da� man ihn beloben, ihm
+seine Zufriedenheit bezeigen kann?"--"Heda, Meister Schnock,
+aufgepa�t!" schrien die Gerichtsdiener, das verdrie�liche Gesicht des
+Amtmanns und den m�rrischen Ton seiner Stimme m�glichst getreu
+kopierend.  Jetzt merkt' ich auf; wer noch nie einen Gl�cklichen
+gesehen hat, der betrachte sich einen deutschen B�rger, dem bei
+irgendeinem Anla� von Gerichts wegen die Versicherung erteilt wird,
+da� er ein ganzer Kerl sei.  Nicht so schnell, als ich erwartet hatte,
+aber doch schnell genug, um die Stirnfalten des Amtmanns nicht durch
+sein Z�gern zu verdoppeln, trat aus dem Haufen ein Mann heraus,
+breitschultrig, von gewaltigem Knochenbau, aber mit einem Gesicht,
+worauf das erste Kindergreinen �ber empfangene Rutenstreiche
+versteinert zu sein schien; ein B�r mit einer Kaninchenphysiognomie.
+Der Amtmann erteilte ihm ein sparsames Lob wegen seiner bewiesenen
+Herzhaftigkeit, Schnock senkte wehm�tig den Kopf und schickte einen
+�ngstlichen Blick zu dem Gefangenen hin�ber, der auf seinem Wagen in
+sanften Schlummer gefallen war oder sich doch stellte, als ob er es
+w�re.  Der Amtmann zog sich in das Heiligtum der Amtsstube zur�ck,
+die Gerichtsdiener rissen den Gefangenen von seinem Sitz herunter und
+schwuren, er soll ihnen nicht zum zweitenmal entkommen, und wenn er
+auch die Kunst bes��e, sich in eine Fledermaus zu verwandeln.  Die
+Menge zerstreute sich, nur Schnock blieb, als h�tt' er einen
+Basilisken gesehen, regungslos auf dem Platze stehn.  Der Mann
+interessierte mich, ich trat zu ihm heran.  "Mein Freund," begann ich,
+"Ihr seid sehr in Gedanken vertieft!"--"Weil ich ein geschlagener
+Mann bin", gab er zur Antwort.  Ich stutzte und fragte weiter:
+"Wieso?  Wie kommt's, da� Ihr dies eben heut, wo Ihr Euch in so hohem
+Grade die Zufriedenheit Eurer Obrigkeit erworben zu haben scheint, so
+lebhaft f�hlt?"--"Eben darum," versetzte er heftig, "wer b�rgt mir,
+da� der sich im Gef�ngnis erdrosselt, oder sich mit Glasscherben die
+Pulsader aufrei�t?  Gibt's der Herr," er meinte mich, "mir etwa
+schwarz auf wei�, da� diesen heillosen S�nder in der Einsamkeit die
+Verzweiflung packt?  Und darf ich hoffen, da� er au�er dem Diebstahl,
+wegen dessen ihn der strengste Richter nicht zum Tode verurteilen, ja
+nicht einmal auf zeitlebens einstecken kann, noch eine Mordtat oder
+ein anderes Halsverbrechen begangen hat?"--"Von wem sprecht Ihr denn
+eigentlich?" unterbrach ich ihn.  "Nun, von wem anders, als von dem
+B�sewicht, den ich das Ungl�ck gehabt habe zu arretieren.  H�tt' ich
+doch lieber zuvor ein Bein gebrochen!  Aber niemand entgeht seinem
+schlimmen Stern, am wenigsten ich."--"Ich begreife Euch bei Gott
+nicht!" versetzte ich.  "F�r jeden ordentlichen B�rger pflegt es ein
+Fest zu sein, wenn ein dem �ffentlichen Wohl gef�hrlicher Mensch zur
+Haft gebracht wird."--"O freilich, wenn er nur nicht selbst die Falle
+war, in der der Fuchs sich erwischen lie�!"--"Ich d�chte, das w�re
+gleichg�ltig!"--"Wahrlich nicht f�r einen Mann, der ein Haus hat, das
+man ihm zur Nachtzeit �berm Kopf anz�nden kann, und der sich gestehen
+mu�, da� sich in sein Fleisch so gut ein Loch bohren l��t, wie in
+andres.  Meint Ihr, ein Kerl, der--Ihr k�nnt's nicht �bersehen
+haben--auf'm Wagen einschl�ft, w�hrend ihn tausend Kehlen mit den
+greulichsten Verw�nschungen �berh�ufen, werde sich f�r die endlose
+Langeweile, der er im Kerker, und f�r die Qu�lereien, denen er in den
+Verh�ren entgegengeht, nicht gegen mich Ungl�ckseligen, dem er das
+alles verdankt, auf seine Weise erkenntlich bezeigen?  Was wird diese
+Kr�te zwischen den finstern Mauern des Gef�ngnisses aushecken, als
+giftige Rachepl�ne?  Und wann hat man noch geh�rt, da� einem
+B�sewicht mi�gl�ckt ist, was er sich vornahm?  H�chstens kommt man
+ihm hintendrein auf die Spur; das weckt aber keinen wieder auf, der
+einmal mit einer acht Zoll tiefen Wunde auf'm Kirchhof oder sonstwo
+verscharrt liegt.  Dem Schlachtopfer ist's gleichg�ltig, ob man den
+Schl�chter zu ihm in die Erde steckt."--"Mir scheint, ein Mann, wie
+Ihr, kann sich seiner Haut schon wehren; Euch geht, deucht mir, zu
+einem Riesen nicht viel ab, geschweige zu einem t�chtigen Schl�ger.
+"--"Oh," versetzte Schnock mit einem Seufzer, "wie oft soll ich diese
+vermaledeiten breiten Schultern, diese l�genhafte, gro�prahlerische
+Leibesgestalt, womit irgendein schadenfroher Teufel mich begabt hat,
+noch verfluchen!  Jeder, der mich nicht kennt, glaubt, da� ich Berge
+versetzen kann.  Warum bin ich ungl�cklich?  Weil ich nicht einen
+Kopf k�rzer bin.  Wozu trieb mich meine Neigung in der Jugend, was
+war der Wunsch meiner W�nsche?  Schneider wollt' ich werden, darum
+bat ich meinen Vater; die f�hren ein friedsames, geruhiges Leben,
+sprichw�rtlich ist's, da� sie keine Courage haben, man erwartet von
+ihnen nicht das Unglaubliche.  Drang ich mit all meinen Bitten bei
+dem Vater durch?  Junge, sagte er, nicht scherzhaft, sondern in
+grimmigem Ton, bist du verr�ckt?  Du k�nntest bei deinen Knochen und
+Kr�ften einen Ackergaul ersetzen, und wolltest gleich einem Affen,
+mit gekreuzten Beinen und l�schpapiernem Gesicht hinter dem Fenster
+auf'm Schneidertisch hocken und Zwirn in die Nadel f�deln?  Das ist
+was f�r Kr�ppel, f�r Lahme und Verwachsene, damit komme mir nicht; du
+wirst mir, so Gott will! ein braver Schreiner!  Nat�rlich, er war ja
+selbst ein Schreiner, und das edle Handwerk w�r' zugrunde gegangen,
+h�tt' ich ein andres ergriffen.  Gott vergeb's ihm, meinetwegen; ich
+vergeb's ihm nicht, h�chstens auf'm Totenbett, wo man alles vergibt!"
+Schnock ballte die Hand.  "Aber, lieber Meister," fragt' ich weiter,
+"warum lie�t Ihr den Dieb nicht entschl�pfen, wenn es Euch so
+bedenklich schien, ihn festzuhalten?  Das stand ja doch bei
+Euch?"--"Keineswegs," erwiderte Schnock; "man ist selten oder nie
+Herr seines Willens.  Ich war den �brigen vorgelaufen, nicht etwa, um
+mir ein Ansehen zu geben, sondern um ihnen m�glichst bald aus den
+Augen zu kommen und bei der Hetze gegen brutale Aufforderungen zum
+Hilfeleisten gesichert zu sein.  Pl�tzlich, da ich eben den Sprung um
+ein Geb�sch mache, f�hrt mir das Teufelswildbret, ich meine meinen
+Arrestanten, entgegen.  Ich schaudre zusammen; denn das laute Hurra,
+das aus hundert Kehlen hinter mir erschallt, sagt mir's gleich, da�
+mein niedertr�chtiges Jagdgl�ck nicht unbemerkt geblieben ist.
+Dennoch h�tt' ich, ohne R�cksicht auf sp�tere Foppereien und
+Anz�glichkeiten, dem Kerl gern den Vorsprung gelassen und zu hinken
+angefangen; aber der war wie unsinnig, statt zu entspringen, blieb er
+stehen, rollte die Augen, ballte die Faust gegen mich und fuhr
+endlich damit, als wollt' er ein Messer oder gar eine Pistole
+hervorziehen, in die Tasche.  Da ergriff mich Angst und Grausen;
+nicht aus Tollk�hnheit, wie die herbeieilenden Esel, die mir schon
+aus der Ferne ein Bravo �ber das andere zuschrien, glauben mochten,
+sondern aus Furcht macht' ich mich �ber ihn her, rang mit ihm und
+warf ihn zu Boden.  Da� seine Taschen leer waren, wie sich's bei der
+Visitation fand, konnt' ich nicht wissen, und gegen Schu� und Stich
+mu�t' ich mich sichern."  Ein Bursch kam in diesem Augenblicke eilig
+auf uns zu.  "Ich komme schon!" rief Schnock ihm entgegen und machte
+mir zugleich eine Abschiedsverbeugung.  "Ihr irrt Euch, Meister,"
+sagte der Bursch mit unterdr�cktem Lachen, "ich suche diesmal nicht
+Euch, ich geh' auf die Apotheke, um Hoffmannstropfen zu holen, Eure
+Frau hat Kopfweh und liegt zu Bett."--"So sagst du nicht," versetzte
+Schnock, "da� du mich gesehen hast.--Wenn die Kopfweh hat," fuhr er,
+sich wieder zu mir wendend, fort, "ist's goldne Zeit f�r mich; dann
+f�hl' auch ich einmal, da� ich noch auf der Welt bin.  Ihr mu�
+wirklich zuvor das Schlimmste begegnet sein, ehe mir was Gutes
+begegnen kann; als sie j�ngst wegen Zahnschmerz und Backengeschwulst
+vierzehn Tage lang das Maul nicht �ffnen konnte, hatt' ich den Himmel
+auf Erden."  Ich lud Schnock ein, mich ins Posthaus zu begleiten und
+dort eine Flasche Wein mit mir auszustechen.  "Ich wei� mich", sagte
+ich, als er bedenklich zu z�gern schien, "vor Langeweile nicht zu
+lassen, und wo find' ich Gesellschaft?"  Er willigte ein, und nicht
+lange dauerte es, so sa�en wir uns auf meinem Zimmer mit gef�llten
+Gl�sern gegen�ber.  Es gibt untr�gliche Kennzeichen, wodurch sich der
+ge�bte Trinker von dem angehenden unterscheidet; wenn dieser, w�hrend
+er das s��e, fl�ssige Feuer hinuntergie�t, die Augen woll�stig
+zukneift, und in innigem Behagen noch mit dem letzten Tropfen die
+Zunge erquickt, so spritzt jener blo� ein wenig den Mund, trinkt mit
+offnen Augen und ignoriert den Tropfen, da er die Erfahrung gemacht
+hat, da� dieser Nachz�gler den Durst, statt ihn zu l�schen, nur aufs
+neue weckt.  Schnock, das sah ich gleich, war kein angehender Trinker;
+er trank das erste Glas nur, um recht bald zum zweiten zu kommen,
+und an eine Entsiegelung seines inneren Menschen, auf die ich mich
+freute und derentwegen ich ihn eingeladen hatte, war von Entsiegelung
+der dritten Flasche nicht zu denken.  Ich gab mich gegen ihn f�r
+einen geschiedenen Ehemann aus und sagte, ich h�tte blo� darum mein
+Vaterland verlassen, weil mein rachs�chtiges Weib mir ihre s�mtlichen
+Liebhaber, einen nach dem andern, mit Herausforderungen auf den Hals
+schicke, was mir �ber kurz oder lang das Leben kosten k�nne.  Diese
+Er�ffnung machte ihn treuherzig, aber eine Unvorsichtigkeit, die ich
+gleich hernach beging, h�tte das g�nstige Vorurteil, das er f�r mich
+zu fassen begann, fast im Keim wieder zerst�rt.  Ich zog n�mlich,
+weil sie mir unbequem waren, meine Taschenpistolen hervor und legte
+sie neben mich auf den Tisch.  Pl�tzlich--er war schon in recht
+lebhaften Mitteilungen �ber sein M�rtyrertum begriffen
+gewesen--stockte der Flu� seiner Rede, er entf�rbte sich und sah mich
+an.  Ich bemerkte die Ver�nderung, die mit ihm vorgegangen war,
+fr�her, als ich sie begriff, und bem�hte mich, ihrer Ursache auf die
+Spur zu kommen, aber schneller als all mein Nachsinnen verhalf mir
+eine zuf�llige Bewegung meiner Hand zur Aufkl�rung �ber den
+zweifelhaften Punkt.  In der Zerstreuung ergriff ich eine der
+Pistolen, die ungeladen waren, und spannte spielend den Hahn; da
+sprang Schnock von seinem Stuhle auf und versicherte mir mit einem
+Gesicht, welches gegen den Mund die b�ndigste Protestation einlegte,
+er halte sich in meiner Gesellschaft f�r sicher.  "Ihr seid's
+vollkommen, lieber Meister," versetzte ich; "die Dinger da dr�ckten
+mich, ich f�hre sie zu meiner Verteidigung auf Reisen bei mir, aber
+um mich nicht selbst zu sch�digen, lade ich sie nicht, au�er wenn ich
+bei Nebel und Nacht durch dicke Waldungen komme."  Zum Zeugnis der
+Wahrheit meiner Relation dr�ckte ich die Pistole, welche ich eben in
+der Hand hielt, ab.  "Ich", entgegnete Schnock, indem er sich wieder
+mit alter Behaglichkeit niederlie�, "w�rde doch Pistolen und
+dergleichen niemals mit mir f�hren; denn davon bin ich �berzeugt,
+wenn die Gefahr wirklich an den Mann herantritt, so vergi�t man's
+entweder, da� man sie hat, oder man schie�t beim Abfeuern fehl und
+reizt so den Menschen, der es vielleicht nur auf einfache R�uberei
+abgesehen hatte, zu Mord und Blutvergie�en."--"Ihr habt nicht unrecht,"
+erwiderte ich, mein Lachen verbei�end, was mir, wenn's mir nur
+einmal gelingt, immer gelingt, "und da w�r's gar m�glich, da� man,
+nachdem man durch die erste Pistole den Mordgedanken erweckte, durch
+die zweite niedergestreckt w�rde; ich setze den Fall, da� der R�uber
+keine Waffe bei sich f�hrt und sich ihrer bem�chtigt."--"Freilich,
+freilich!" versetzte Schnock und trank, sichtlich erfreut, zwei
+Gl�ser hintereinander.  Die dritte Flasche war halb geleert, da stand
+er pl�tzlich auf, trat mit pfiffigwichtiger Miene vor mich hin und
+fragte mich: "Sagt mir doch, bin ich eigentlich feig?"--"Es scheint
+wohl nur so!" antwortete ich, einigerma�en verdutzt.  "Gewi�!"
+versetzte er und nahm wieder Platz, "da� ich's nicht bin, davon,
+glaub' ich, hab' ich Euch heute den Beweis gegeben.  Ich traue Euch
+nichts B�ses zu, bei Gott nicht! sonst w�r' ich keine f�nf Minuten
+geblieben; aber, dies k�nnt' Ihr nicht leugnen, Ihr seid mir
+wildfremd.  Ihr ladet mich ein, Euch auf Euer Zimmer zu begleiten und
+Wein mit Euch zu trinken, jeder andere h�tte, und mit Recht, aus
+Eurer Splendidit�t Argwohn gesch�pft und die sonderbare Einladung mit
+Abscheu abgelehnt; ich unterdr�cke meinen Verdacht und gehe mit Euch.
+Ich denke, ich bin nicht feig!"--"Ei, Meister Schnock," erwiderte
+ich, "wie kommt Euch denn der Einfall, da� Ihr feig w�ret?"--"Weil,"
+versetzte er hastig und schenkte sich ein, "weil sie mich alle f�r
+feig halten, ja, weil ich, Stunden, wie diese, ausgenommen, selbst
+das ganze Jahr hindurch, Gott wei�, woran es liegt! glaube, da� ich's
+bin."  Jetzt verschwand bei ihm die letzte Spur von Zur�ckhaltung, um
+so mehr, als er erfuhr, da� ich nicht im Orte bleibe, sondern gleich
+den n�chsten Tag wieder abreise, er machte mich zum vollst�ndigsten
+Vertrauten seiner Lebens-, das hei�t M�rtyrergeschichte, und ich
+erhielt Gelegenheit, in die Mikrologien seines Daseins
+hineinzuschauen, das mir so putzig vorkam, als ob es gar nicht seiner
+selbst wegen, sondern zur Belustigung eines gr��eren gef�hrt w�rde.
+Ich darf nun freilich nicht vergessen, da� meine Leser nicht, wie ich,
+gezwungen sind, in dem Marktflecken Y. einen ganzen Tag auf die Post
+zu warten und mu� darum den gr��ten Teil von Schnocks Mitteilungen
+f�r mich behalten; denn bei mir hatten sie nur mit einem alten
+Kalender, den ich durchbl�ttern, mit den Fensterscheiben, die ich
+h�tte z�hlen k�nnen, zu rivalisieren, was hoffentlich bei keinem
+meiner Leser der Fall ist.  Ich glaube jedoch, da� einiges daraus sie
+auch in einer weniger verzweifelten Situation erg�tzen kann, und
+bitte sie, wenn ich mich hierin t�usche, den Grund nicht in dem Mann
+und seinen Erlebnissen zu suchen, sondern in meiner Unf�higkeit, ihn
+treu, bis in das Haargewebe seiner Bestimmungsgr�nde hinein, zu
+zeichnen.  Um dieser Unf�higkeit m�glichst zu Hilfe zu kommen, lasse
+ich ihn selbst reden.
+
+
+
+
+
+
+
+
+Zweites Kapitel
+
+
+Schnock erz�hlt:
+
+Fragt man mich, warum ich ein Weib genommen habe, das ich jetzt
+selbst f�rchten mu�, so kann ich auf diese Frage vern�nftiger
+antworten als Tausende von Ehem�nnern, die mein Schicksal teilen.
+Sie pflegen schmachvollerweise f�r sich anzuf�hren, da� ihre Drachen
+ihnen in Engelsgestalt entgegengetreten seien, als ob dies nicht eben
+die Natur des Weibes w�re, und als ob es, Adam ausgenommen, der das
+freilich nicht wissen konnte, da kein anderer ihm seine Erfahrungen
+vermacht hatte, irgend jemandem zur Entschuldigung gereichen k�nnte!
+Solche Toren darf ich verachten; denn ich habe mich niemals �ber
+meinen Hausteufel und das Geschlecht, dem es angeh�rt, get�uscht, und
+wenn ich dennoch sein Gespons geworden bin, so ist das wenigstens
+nicht meiner Verblendung beizumessen.  Nie w�r's mir eingefallen,
+mich aus eigener Bewegung nach einem Weibe umzusehen, und wer das zu
+ruhmredig findet, der lasse sich sagen, was ich schon in meinem
+zehnten Jahre erlebte, dann wird er's begreifen.  Ich stand dabei,
+als meine Mutter meinem Vater die Oberlippe abbi�, weil er nach einem
+heftigen Zank zu fr�h auf den Vers�hnungsku� drang, ich sah sein Blut
+stromweis in den Bart rinnen und den Hemdkragen f�rben.  Wer an
+meiner Stelle h�tte nicht schaudern, wie ich, das Gel�bde getan,
+niemals wieder einen Menschen an dem Ort, wo er Z�hne hat, zu k�ssen,
+und wer k�nnte dies Gel�bde halten und zugleich doch beweiben wollen?
+Aber meine j�hzornige Mutter bestand, als ich in die Jahre kam, mit
+Ungest�m darauf, da� ich mich verheiraten solle, sie fragte mich, ob
+ich ein sonstiges Mittel w��te, ihr Enkel zu verschaffen, oder ob sie
+andern alten Frauen in ihren Anspr�chen auf die gro�m�tterlichen
+W�rden und Freuden nachst�nde, und darauf lie� sich nicht viel
+erwidern.  Ich mu�te mich also in den Gedanken ergeben, da� ich
+ihretwegen mit irgendeiner Person weiblichen Geschlechts fr�her oder
+sp�ter eine eheliche Verbindung w�rde eingehen m�ssen, wenn sie nicht
+wieder Erwarten und Verhoffen fr�h wegst�rbe, und da das letztere
+nicht geschah, so irrte ich mich hierin auch keineswegs.  Zwar zog
+ich die Entscheidung noch lange hinaus und feierte noch manchen
+Geburtstag als Junggesell, worin f�r mich zu der Zeit, von der ich
+spreche, der Hauptreiz dieses Festes lag.  Aber als unsre alte
+Familienkatze verreckte und bald darauf unser Mops an einem Klo�, den
+er zu hei� hineinfra�, erstickte, da wurde meiner Mutter die Stille,
+die nun in unserm Hause eintrat, so unertr�glich, da� mir alle meine
+Ausfl�chte nichts mehr halfen, und da� sie die entstandene L�cke um
+jeden Preis mit einer Schwiegertochter ausgef�llt sehen wollte.  Auch
+beg�nstigte der Zufall sie; denn Jungfer Magdalena Kotzschneuzel, die
+Stickerin, mietete sich eben damals in unsrer Nachbarschaft ein und
+wu�te sie durch einige wohlangebrachte Aufmerksamkeiten, die sie ihr
+erwies, namentlich dadurch, da� sie bei einer gewissen Gelegenheit
+ihren Rat einzog und ihn auch treu befolgte, so sehr f�r sich
+einzunehmen, da� ich bald beim Fr�hst�ck, beim Mittags- und
+Abendessen nur noch von ihren Vorz�gen reden h�rte.  "Wei�t du, da�
+Lene keinen Faden am Leibe tr�gt, den sie nicht selbst gesponnen
+hat?" wurde ich des Morgens regelm��ig befragt, und die dritte Tasse
+Kaffee wurde mir gewi� nicht eingeschenkt, wenn ich diesen
+schlagenden Beweis der Altm�tterlichkeit nicht mit vollen Backen
+pries.  Des Mittags ward mir gew�hnlich mitgeteilt, da� sie einmal
+einige hundert Gulden aus der Lotterie gewonnen habe, und als ich
+darauf das erstemal spitzig bemerkte: sie spiele also! ward ich mit
+einem hastigen: "Nein! sie hat das Los auf der Stra�e gefunden!"
+zurechtgewiesen.  Des Abends mu�te ich mir die Auseinandersetzung
+gefallen lassen, da� sie sich im Gegensatz zu andern �lter mache als
+sie sei, weil sie's f�r eine gr��ere Ehre halte, mit zu den ehrbaren
+Matronen gerechnet zu werden, als zu den leichtsinnigen, jungen
+M�dchen, deren Klasse sie bei ihren f�nfundzwanzig Jahren doch noch
+angeh�re, und da� ein Mann, der das wisse und nicht um sie w�rbe, ein
+Narr sein m�sse.  Da dies alles bei mir nicht anschlug, nahm sie sie
+pl�tzlich, ohne mir vorher auch nur ein Wort zu sagen, auf einige
+Tage zu sich ins Haus, eines Kleides wegen, das ge�ndert werden mu�te,
+wie sie vorgab, das sie aber niemals wieder trug.  Ich wu�te recht
+gut, was dahinter steckte und suchte mich dem Frauenzimmer von meiner
+unangenehmsten Seite darzustellen, rasierte mich nicht, trug immer
+meinen schlechtesten Rock, legte mein Schurzfell niemals ab, war
+stets m�rrisch, als ob ich mit gerunzelter Stirn auf die Welt
+gekommen w�re und erwies ihr nicht die kleinste Gef�lligkeit, nicht
+einmal die, ihr den N�hring wieder aufzuheben, wenn sie ihn fallen
+lie�.  Dabei lie� ich es nicht bewenden, ich machte meinen Gesellen,
+der von Person nicht unansehnlich und im Handwerk geschickt war, auf
+das M�dchen aufmerksam, ich strich sie gegen ihn heraus, wie sie
+gegen mich herausgestrichen wurde, ich redete ihm sogar ein, da� sie
+jedesmal err�te, wenn sie ihn erblicke.  Aber beides schlug mir zum
+Unheil aus; denn Lene stie� sich nicht im geringsten an meinem
+Benehmen, sie entschuldigte mich gegen meine Mutter, wenn diese mir
+meine Nachl�ssigkeit verwies, aufs eifrigste und meinte, wer mit
+ganzer Seele beim Gewerbe sei, wer dar�ber nachs�nne, wie er hier
+einen neuen Kunden gewinnen, dort einen abtr�nnig gewordenen wieder
+heranbringen wolle, der k�nne freilich nicht nebenbei geschniegelt
+und gestriegelt gehen wie ein Ladendiener und sich auf H�flichkeiten
+verlegen wie ein Barbiergehilfe; mein Gesell dagegen fing Feuer und
+r�chte sich nat�rlich sp�ter, als ich ihm notgedrungen in die Quere
+kam, auf empfindliche Weise f�r meine anscheinende Falschheit.  Als
+Lene unser Haus wieder verlie�, war meine Mutter wom�glich noch mehr
+f�r sie eingenommen wie fr�her; sie besuchte sie t�glich und auch
+zwischen ihr und mir entspann sich, so sehr ich auf meiner Hut war,
+bald eine Art von Verh�ltnis.  Ich konnte nicht aus der T�r treten,
+ohne sie an ihrem Fenster hinter den Blumen bei der Arbeit sitzen zu
+sehen, da wurden denn gegenseitige Gr��e ausgetauscht, und was l��t
+sich nicht an Gr��en ankn�pfen; haben sich doch gewi� noch niemals
+Leute gestritten und totgeschlagen, die nicht im Anfang Guten Tag!
+zueinander gesagt h�tten!  Eines Abends ging ich aus; es war schon
+gegen zehn Uhr, ich hatte einen Sarg gemacht, was f�r einen Tischler
+eine so dringende Arbeit ist, wie ein Br�utigamsrock f�r einen
+Schneider, und wollte vorm Niederlegen noch ein wenig im Freien
+verschnaufen.  Ich schlenderte, die Pfeife im Munde, an Lenes Fenster
+vor�ber und glaubte mich unbemerkt, da �ffnete sie und fragte mich,
+warum ich denn so eile.  Ich blieb stehen und erwiderte, da� ich das
+selbst nicht wisse.  Dann, versetzte sie, m�ge ich auf einen
+Augenblick zu ihr hereinkommen, ich habe sie noch nicht ein einziges
+Mal besucht, und sie k�nne doch am Ende verlangen, da� das geschehe.
+Ich konnte hiegegen nichts einwenden und ging auf die T�r zu, fand
+sie aber verschlossen.  "Ei," rief sie aus, als sie das bemerkte,
+"ist meine alte Hausfrau schon zu Bette?  Nun, steigt ins Fenster,
+was macht's unter uns?"  Der Antrag machte mich stutzig, aber nicht
+lange, ich dachte: deine Mutter sitzt dr�ben im Zimmer und sieht's,
+sie h�lt dich, kurzsichtig, wie sie ist, f�r irgendeinen Hans
+Liederlich und die da f�r--Schnell, wie der hitzigste Liebhaber,
+stieg oder sprang ich vielmehr hinein.  Wie hatte ich mich verrechnet!
+Lene suchte noch den Schwefelfaden, womit sie ihr Licht anz�nden
+wollte, als mir schon w�tend nachgeschimpft wurde.  Ich erkannte die
+Stimme meines Gesellen, der hinter mir hergeschlichen sein mochte.
+Gewi� war in den letzten hundert Jahren kein Schimpfwort erfunden
+worden, das mir nicht an den Kopf flog, und diejenigen, die des
+Geschlechts wegen nicht auf mich pa�ten, sprudelte er gegen Lene aus.
+Ich schwieg still, Lene dagegen z�ndete ihr Licht an und fragte ihn
+darauf ruhig, ob er ihr Vater oder ihr Bruder sei.  Als er dies
+verneinte, erwiderte sie, dann h�tte er auch nichts drein zu reden,
+wenn er ihren Br�utigam bei ihr f�nde; denn das sei ich.  Dabei
+umarmte sie mich und sagte: "Nicht wahr, Christoph?  Es w�re dir ja
+nie eingefallen, zu einem unbescholtenen M�dchen bei Nacht ins
+Fenster zu steigen, wenn du nicht die ernsthaftesten Absichten
+hegtest? mir w�re es wenigstens nie in den Sinn gekommen, dich dazu
+einzuladen, wenn ich diese nach den Er�ffnungen deiner Mutter nicht
+h�tte voraussetzen d�rfen!"  Ich schwieg noch immer und schwieg so
+lange, bis ich f�hlte, da� mein Schweigen schon alles entschieden
+hatte, und da� es l�cherlich sei, nicht darin zu verharren.  Mein
+Gesell zog sich hohnlachend zur�ck.  Lene entlie� mich aus der
+Umarmung, die mir wie eine Falle vorkam, ich n�herte mich wieder dem
+Fenster.  Sie aber bemerkte das kaum, als sie mich bei den
+Rocksch��en ergriff und mich fragte, wann wir Hochzeit machen wollten;
+ob es mir recht sei, wenn es zu Michaelis geschehe, wie die Mutter
+vorschlage, oder ob ich auf einem andern Tag best�nde.  "Vor
+Allerheiligen la� ich mich auf nichts ein!" versetzte ich fest und
+bestimmt und sprang, ohne die Gegenrede abzuwarten, mit einem Satz
+hinaus.  Drau�en empfing mich mein Gesell mit geballten F�usten und
+fiel �ber mich her.  Ich hielt es f�r meine Schuldigkeit, mich von
+ihm durchpr�geln zu lassen, und lie� ihn gew�hren, versuchte jedoch
+zugleich, ihn �ber das Ereignis aufzukl�ren, was freilich nur dazu
+f�hrte, da� er mich, wenn er seinen Armen ein wenig Ruhe g�nnte,
+einen doppelten und dreifachen Windbeutel nannte und dann wieder mit
+erneuter Wut auf mich losschlug.  Endlich packte er mich gar bei der
+Kehle und gab sich alle M�he, mich niederzuwerfen; es hatte den
+ganzen Tag geregnet, die Erde war kotig, und wer seinen besten Rock
+trug, wie ich, mu�te jede Ber�hrung mit ihr, ausgenommen diejenige,
+der man nicht ausweichen kann, scheuen.  Ich konnte daher nicht
+l�nger umhin, dem unsinnigen Menschen, dem ich an Leibesst�rke
+�berlegen war, einen Schlag zu versetzen, und gab ihm einen ins
+Gesicht, hatte es aber kaum getan, als ich's auch schon bereute: denn
+ich hatte ihn gerade auf die Nase getroffen, und er st�rzte lautlos,
+wie ein Ochs von der Axt des Metzgers, zu Boden.  Ich glaubte, ein
+unfreiwilliger M�rder geworden zu sein und verfluchte mein Schicksal;
+denn ich erinnerte mich von meiner Wanderschaft her eines Falls, wo
+ein Schmied im Streite einen Schneider durch einen einzigen Schlag
+get�tet hatte, und ich wu�te, was meine Faust vermochte, wenn ich
+ordentlich damit ausholte.  Ich schwur dem Himmel, noch denselben
+Abend, falls es verlangt w�rde, mit Lene Hochzeit zu machen, wenn er
+den Menschen wieder auferwecke; ich schwur dem Menschen, das M�dchen
+mit keinem Auge mehr anzusehen, wenn er von selbst wieder aufstehe,
+und ich wurde mir des Widerspruchs zwischen beiden Schw�ren gar nicht
+bewu�t.  Ich fing an, mich nach Dingen zu sehnen, wonach sich wohl
+noch niemand gesehnt hat: nach einem L�mmel aus dem Munde meines
+Feindes, nach einem Hungerleider, ja nach einer Ohrfeige und einem
+Fu�tritt.  Zuletzt trat ich, um zu erproben, ob noch Leben in ihm sei,
+ihm derb auf die ausgestreckt daliegende Hand.  Da richtete er sich
+schnell etwas empor und bi� mich, um mir den Beweis gr�ndlich zu
+geben, ins Bein.  Es tat sehr weh, und ich stie� einen lauten Schrei
+aus, doch innerlich freute ich mich �ber diesen Bi�.  Nun nieste er,
+sprang auf und drang wieder auf mich ein.  Um ihn nicht doch noch
+totzuschlagen, macht' ich mich auf die F��e und langte, verst�rter
+wie jemals, bei meiner Mutter an.  Sie kam mir auf der Flur mit
+brennender Lampe entgegen und empfing mich mit �rgerlich-freundlichem
+Gesicht.  "Wo bist du gewesen?" rief sie mir zu, konnte aber ein
+dumm-kluges L�cheln nicht unterdr�cken, voraus und sah, da� ich die
+Frage nicht zu beantworten brauchte.  Ich zeigte auf mein blutendes
+Bein und sagte: "Gott vergebe dir, was du an mir getan hast!"  Dann
+ging ich, ohne ihr weiter Rede zu stehen, in meine Schlafkammer,
+riegelte mich ein und �ffnete ihr nicht einmal die T�r, als sie mir
+altes Leinen zum Verband der Wunde brachte, sondern zerri� zu diesem
+Zweck in meiner Erbitterung ein ganz neues Hemd.  �brigens schlief
+ich in der auf diesen Abend folgenden Nacht besser, als man
+vielleicht erwartet, was ich dem Umstand beimesse, da� es bis
+Allerheiligen noch ein volles Vierteljahr hin war.  Wer es, wie ich,
+so lange Zeit vorher wei�, wann er in den Ehestand eintreten mu�, der
+wird, wenn er nicht ganz und gar auf den Kopf gefallen ist, nicht
+blindlings hineinrennen, wie der Fuchs in die Falle, er wird mit
+Umsicht und Bed�chtigkeit zu Werke gehen und jede Vorsichtsma�regel
+ergreifen, die dem Menschen in solcher Lage zu Gebote steht.  Mein
+erstes gleich nach dem schauerlichen Verlobungsabend war, meiner
+Braut die �berzeugung beizubringen, da� es mir an k�rperlichen
+Kr�ften nicht mangle.  Ich trug, wenn ich sie bei meiner Mutter oder
+sonst in der N�he wu�te, dicke Balken, rammte ohne Beihilfe des
+Gesellen mit gro�er M�he Pf�hle ein, ja, eines Nachmittags schleppte
+ich die ganz schwere Hobelbank von Eichenholz auf dem R�cken fort,
+was eine Pferdearbeit war.  Ebenso stellt' ich mich bei schicklichen
+Gelegenheiten, als ob ich sehr hitzigen auffahrenden Temperaments
+w�re; als mich einmal eine M�cke ins Gesicht stach, fluchte ich
+barbarisch und versetzte mir, anscheinend der M�cke wegen, einen so
+grimmigen Schlag auf die Nase, da� Blut flo�; auf eine Maus, die
+eines Morgens in der K�che, wo Lene meiner Mutter beim G�nserupfen
+half, zum Vorschein kam, fuhr ich mit einem L�rm los, da� beide
+Frauenzimmer laut aufschrien, und gleich darauf dreht' ich einem
+schreienden jungen K�tzchen, das ich getreten hatte, den Hals um,
+wobei es mich stark kratzte.  Mehrere Male stie� ich einen alten
+Bettler, nachdem ich ihm zuvor heimlich einen Schilling zusteckte,
+damit er es sich gefallen lasse, zur T�r hinaus; meinen Lehrjungen
+schalt ich einst, noch vor dem Fr�hst�ck, einen Ochsenkopf und drohte
+ihm, ich wollte ihn hinterm Schornstein aufhenken, wor�ber der kleine
+Knirps so erschrak, da� er mir selbst leid tat.  "Bist du so voll
+Galle?" fragte mich Lene, mir die Hand dr�ckend, als ob's ihr sehr
+gefiele.  "Wie man's nehmen will!" versetzte ich kurz und lie� ihre
+Hand los.  "Du bist ja ein ganz anderer auf der Wanderschaft geworden,"
+sagte meine Mutter, "fr�her warst du fromm und sinnig, wie ein Lamm!
+"--"Jedem Menschen wachsen die Z�hne!" erwiderte ich und pfiff einen
+Galoppwalzer.  Ich kam zuletzt ordentlich in die Gewohnheit hinein,
+der Ton meiner Stimme nahm etwas Rauhes an und meine Geb�rden wurden
+verwegen.  Ich glaube auch noch immer steif und fest, da� ein Mensch
+an Herzhaftigkeit und Geistesgegenwart gew�hnt werden kann, wie z.  B.
+an Reiten, Springen und Schwimmen, nur mu� man ihn von fr�h auf dazu
+anhalten; angeboren ist's keinem, jeder hat sein Leben lieb.  In
+meiner Jugend geschah das nicht; ich durfte nicht an den Bach gehen,
+denn meine Mutter f�rchtete, ich m�chte ertrinken; wenn ich mit
+andern Knaben spielte und etwas schnell lief, so rief sie mir zu:
+"Stoffelchen," sie nannte mich bis in mein sechzehntes Jahr, wo ich's
+mir ernstlich verbat, immer Stoffelchen, "nimm dich in acht, da� du
+nicht f�llst und dir den Kopf zerschl�gst;" als ich einmal auf unsern
+kleinen Kirschbaum zu klettern versuchte, ri� sie mich bei den Haaren
+wieder herunter.  Ja, h�tt' ich nur noch in meinem zweiundzwanzigsten
+Jahr, wie so viele meiner Kameraden, Soldat werden m�ssen!  Dieser
+best�ndige Umgang mit geladenen Gewehren, diese Handhabe scharfer
+Bajonette, diese Furcht vor dem Unteroffizier, diese Angst vor
+Foppereien, die nicht ausbleiben, wenn man nichts M�nnliches an sich
+hat: dies alles h�tt' aus mir einen Kerl gemacht, der so gut wie
+jeder andere sich in Wirtsh�usern den Knebelbart gestrichen, grimmige
+Blicke wie Kugeln verschossen und ohne Anla� mit geballten F�usten
+auf den Tisch geschlagen h�tte.  Nun, es hat nicht so sein sollen,
+und hat Gott mir bis hierher geholfen, so wird er mir auch bis an
+mein seliges Ende helfen.
+
+Auf Lene machte dies freilich Eindruck, aber er war anderer Art, als
+ich beabsichtigt hatte.  Statt vor mir, wir vor einer gef�llten
+Pulvertonne, zur�ckzuschaudern, schien sie immer mehr Geschmack an
+mir zu finden: ich glaube, ich h�tte der Teufel selbst sein k�nnen,
+ihr w�r's recht gewesen, sie mochte sich's zutrauen, selbst den
+Teufel zu b�ndigen.  So war mir's denn ziemlich gleichg�ltig, als der
+Plan, den ich eines Sonntagsmittags--Sonntags mu�t' ich sie spazieren
+f�hren--auf einen gro�en, uns begegnenden Pudel baute, zu Wasser ging.
+Sie hatte mir nach ihrer Unart eben ins Ohr gesagt: "Ich hab' dich
+doch recht lieb, Christoph!"--"Der Pudel da," dacht' ich, "soll dich
+von der verdammten Liebe etwas kurieren und dir einigen Respekt vor
+deinem k�nftigen Man einfl��en; ich will dir's zeigen, da� ich's
+nicht blo� mit M�usen und K�tzchen aufnehme, sondern, seines giftigen
+Gebisses ungeachtet, auch mit einem Hund."  Also schritt ich, ohne
+ihm, wie sonst, auszuweichen, frisch auf den Pudel zu.  Es war eine
+dr�ckende Hitze; der Pudel, halsstarrig bis zur Faulheit, verfolgte,
+zwar noch nicht knurrend, aber doch schon frech und unversch�mt zu
+mir aufblickend, in gerader Linie seinen Weg. Lene wollte ausbiegen.
+"Ei was!" rief ich, sie festhaltend, "du wirst doch den
+niedertr�chtigen K�ter nicht f�rchten?"  Ich holte wie vom Teufel
+besessen mit dem Spazierst�ckchen aus zum Schlag.  Der Pudel zieht
+sich nicht zur�ck, herausfordernd die Z�hne fletschend sieht er mich
+an.  Gereizt schlage ich wirklich zu.  Sollte man's glauben?  Die
+aufs�tzige Bestie schnappt mir nach den Waden, statt sich auf die
+Flucht zu begeben.  Da �berw�ltigt mich meine Natur, ich rei�e mich
+von meiner Braut los und springe �ber den Graben.  Scham ergreift
+mich, als ich mir des unwillk�rlichen Ausrei�ens bewu�t werde, ich
+wage kaum, mich umzusehen.  "Die Gefahr ist vor�ber!" ruft laut
+lachend Lene mir zu; zu meinem gro�en �rger bemerke ich, da� sie den
+Hund richtig mit Steinw�rfen vertrieben hat und ihm, mir zum
+offenbaren Hohn, noch einige nachsenden will.  "Liebes Kind," sag'
+ich, "nimm dich in acht, bedenkst du denn nicht, da� wir in den
+Hundstagen sind?  Er ist ja toll!"--"Was?" ruft sie, pl�tzlich
+erschreckend, aus und l��t ihre Steine zu Boden fallen.  "Allerdings,"
+versetze ich und kehre wieder an ihre Seite und; "bemerktest du
+nicht, wie ihm der Schaum vorm Maul stand, wie er den Schwanz
+zwischen die Beine klemmte, wie h��lich rot seine Augen waren, welch
+unnat�rlich Gel�st er zum Menschenfleisch trug?"  In diesem
+Augenblick ging der abscheuliche Pudel, hei�, wie er vom Rennen sein
+mochte, zu Wasser, mich in seiner tierischen Dummheit L�gen strafend.
+Doch Lene ward es nicht gewahr; sie scho� einen w�tenden Blick auf
+mich, den ersten, wenn mir recht ist, und rief mit vor Zorn und
+Schreck fast erstickter Stimme: "Und das sagtest du mir nicht
+gleich?"  Wunderbar ist meine Gabe, die L�ge spitz zu kriegen, wenn's
+darauf ankommt, mich herauszul�gen.  "Kind," antwort' ich und pfl�cke
+f�r sie, um mich ihren, gleich zwei geladenen Pistolen, auf mich
+gerichteten Augen zu entziehen, am Rand des Grabens ein
+Vergi�meinnicht, "konnt' ich's denn wissen, da� du's nicht gelesen
+hast, was im Kalender �ber tolle Hunde steht?"--"Nun," erwidert wie
+mit der ihr eigenen, unweiblichen Gefa�theit und steckt die Blume,
+die ich ihr galant �berreiche, an die Brust,"den Hals hat's ja nicht
+gekostet.  Hoffentlich hast du bei dem k�hnen Sprung die Knochen
+nicht verrenkt?"  Dies war Spott, ich merkt' es gleich und antwortete
+nichts.
+
+"Im Wein ist Wahrheit!" sagt das Sprichwort.  Es gilt aber nur von
+der einen H�lfte des menschlichen Geschlechts, von der m�nnlichen;
+die Weiber beichten niemals, auch nicht dem Wein.  Das hab' ich noch
+an demselben Sonntag erfahren.  Mit List bracht' ich Lene in den
+Hinckeldeyschen Garten.  "Wir k�nnen dort Kaffee oder Tee trinken",
+sagt' ich, ich wu�te aber wohl, da� au�er Wein, Rum und �hnlichen
+Mauerbrechern nichts zu haben war.  Als der herbeigerufene Kellner
+dies erkl�rte, stellt' ich mich verwundert und sah Lene mit einem
+verdrie�lichen Gesicht an.  "Nun," sagte sie, "so lass' Wein bringen,
+aber f�r mich Wasser dabei."--"Herrlich geht's", dacht' ich und rieb
+mir vergn�gt die H�nde; dann bestellt' ich Vierundachtziger, der, wie
+ich wu�te, stark und schnell zu Kopfe stieg, auch eine reichliche
+Portion Zucker; denn durch den verf�hrt man die Weiber am leichtesten
+zum Trinken.  "Deine Gesundheit!" rief ich, ihr das volle Glas, in
+das ich viel Wein und wenig Wasser gegossen hatte, hinreichend.  Sie
+wollte es nur halb austrinken, ich lie� das aber nicht gelten, und
+weil die letzte H�lfte wegen des Bodensatzes von Zucker s��er war,
+als die erste, so lie� sie nicht gar zu lange in sich dringen.
+H�flich, ich hatt' es erwartet, sagte sie dann: "Jetzt aber auch
+deine!"  Rasch schenkte ich die Gl�ser wieder voll.  "Unm�glich,"
+rief sie, "kann ich's ganz leeren, mir wird schon so wunderlich!
+"--"Dann", versetzte ich, "hast du mich auch nicht lieb."  Einen
+Augenblick sah sie vor sich nieder in den Scho�; dann trank sie
+langsam, mir die Hand �ber den Tisch gebend,--ich sa� nicht an ihrer
+Seite, sondern ihr gegen�ber--und mich fest ansehend, das Glas aus.
+Es ward ihr schwer, das sah ich.  "Nun wird sie bald �bersprudeln,"
+dacht' ich, "saubere Dinge werd' ich erfahren, aber gut ist's, wenn
+man's wei�, woher der Wind weht, man kann sich danach richten."  Ich
+trat ihr, wie aus Versehen, auf den Fu� und hoffte, sie sollte's
+�belnehmen; sie hielt's, angetrunken, wie sie war, f�r ein
+Liebeszeichen. "'s tut nichts," dacht' ich, "die Bosheit wird wohl
+zum Vorschein kommen, wenn die Besinnung noch mehr schwindet; schon
+tritt ihr ein verd�chtiges Rot auf die Wangen, ihre Augen schwimmen.
+"--"Aber meine Mutter!" sagt' ich und schenkte noch einmal die Gl�ser
+voll.  "Ja, deine Mutter," erwiderte sie lebhaft, "aber ich nippe nur
+ein wenig!"--"Besser etwas, als gar nichts!" dacht' ich und lie� es
+dabei bewenden.  Jetzt sah sie fast gar nicht mehr auf, sondern
+l�chelte in einem fort still vor sich hin.  Aufmerksam pa�t' ich auf
+jede ihrer Bewegungen.  Recht zur gl�cklichsten Stunde stellte sich,
+schn�ffelnd im Garten herumkreuzend, ein Pudel ein.  "Der wird die
+M�hle in Gang bringen", dacht' ich und pfiff dem Hund.  Nicht ganz
+hatte ich mich verrechnet.  "Nimm dich doch in acht, mein Schatz,"
+rief sie, sowie sie bemerkte, da� ich den Hund lockte, "er kann toll
+sein, oder es werden."  Dabei lachte sie, da� ihr Tr�nen in die Augen
+traten.  Aber es erfolgte weiter nichts.  Aus Unvorsichtigkeit stie�
+ich die Wasserflasche um, das Wasser, an allen Seiten vom Tisch
+herabstr�mend, n��te, bevor sie ausweichen konnte, ihr Kleid ein.
+"Ach, Herr Jesus!" rief sie und flog von ihrem Sitz auf.  "Nun
+kommt's!" dacht' ich und spitzte die Ohren; doch der Herr Jesus war
+der blo�e Vorl�ufer eines gutm�tigen "Es tut nichts, es ist ja kein
+Wein!"  �rgerlich mich in die Lippen bei�end, begann ich, auf mich
+selbst zu schimpfen und mich herabzusetzen.  "Ungeschickt", fing ich
+an, "bin ich, wie ein Schulkind.  Als ich--dies war nicht
+erlogen--das letztemal zum Abendmahl ging, plumpte ich, solltest du's
+glauben, vor dem Altar, da ich eben aus dem Kelch nippen sollte,
+nieder, wie ein zu schwer beladener M�lleresel."--"Pfui!" unterbrach
+sie mich und r�mpfte die Nase.  "Ja," fuhr ich mit Lebhaftigkeit fort,
+"als ich das Kind meines Vetters zur Taufe hielt, lie� ich den armen
+Wurm aus den Kissen gleiten und auf den Taufstein fallen, wo er sich
+an einer Ecke j�mmerlich den Kopf zerstie�."--"Wie? was sagst du?"
+fragte sie, als ich ihr, ver�chtliche Blicke, Kopf sch�ttelnd u. dgl.
+mehr erwartend, keck und mit L�sternheit in die Augen sah.  Mit
+�bertreibungen wiederholte ich die ohnehin nur halbwahre
+Taufgeschichte.  "Ach," seufzte sie, "ich hab' so viel Kopfweh, h�tt'
+ich doch den Wein nicht getrunken!"  Ich ward immer hitziger, wie ein
+J�ger, wenn er oft abdr�ckt und niemals trifft, und warf mich nun
+ganz in die L�ge.  "In Bremen", erz�hlt' ich, "stie� ich einem
+B�ckergesellen, mit dem ich zusammenschlief, nachts beim Umwenden im
+Schlaf mit dem Ellbogen das Auge aus."--"Das ist ja f�rchterlich!"
+fuhr sie auf.  "Du k�nnt'st ja wohl, wenn du schl�fst und tr�umst,
+das Haus in Brand stecken!"--"Gewi�!" fuhr ich heuchlerisch-ruhig
+fort, "nachtwandelnd hab' ich mich in Frankfurt a.  M. ohne
+irgendeinen vern�nftigen Grund einmal erhenkt.  Der Strick war m�rbe
+und zerri�; sonst s��' ich hier wohl nicht und tr�nke auf deine
+Gesundheit."--"Du treibst Possen!" sagte sie, laut auflachend, und
+hielt mir die Hand vor den Mund.  "Es ist die reine Wahrheit,"
+versetzt' ich mit einem Ernst, dem sie Glauben schenken mu�te, ich
+bin nun einmal solche in Ungl�cksmensch; was mir passiert, passiert
+so leicht keinem zweiten."  Ich seufzte kl�glich, dann fragt' ich
+schlau: "Nicht wahr, Lene, wenn du gewu�t h�ttest, wie's eigentlich
+um mich st�nde, du w�rdest dich f�r einen solchen Mann bedankt
+haben?"--"So etwas ist freilich schlimm," gab sie zur Antwort, "doch
+das wollen wir schon kriegen!"--"Wieso? wie meinst du?" fragt' ich
+schnell und lauernd.  "Ach was!" sagte sie, stand auf und gab mir,
+worum es mir am wenigsten zu tun war, einen Ku�.  Und zu Loch war die
+Schlange und lie� sich nicht wieder heraustreiben.  Nichts erfuhr ich
+von ihren T�cken und R�nken, nichts von den Plagen und Qu�lereien,
+die sie mir in so reichlichem Ma�e zugedacht; ja, gefallen mu�t' ich
+mir's lassen, da� sie mir, als ob sie so n�chtern gewesen w�re, wie
+sonst, gleich nach dem Ku� ins Ohr fl�sterte: "Ich hab' dich
+dessenungeachtet doch lieb!"  Ich hatte ihr Herz, wie einen
+Wetterkalender, aufzuschlagen gehofft und wurde abgespeist mit dem
+sch�nen Einband.
+
+An dem Abend jenes n�mlichen Tags hab' ich zum ersten--und letztenmal
+in meinem Leben einen Geist gesehen.  Ich sage das nicht, weil ich
+mir was drauf einbilde, sondern nur, weil es doch immer eine
+Merkw�rdigkeit ist.  Es war gegen elf Uhr, da ging ich �ber den
+Magdalenenkirchhof, um f�r meine Mutter, die von einem leichten
+Fieber befallen war, Kamillen zu holen.  Man mu� n�mlich �ber diesen
+Kirchhof gehen, wenn man zur Apotheke will.  Ich dachte--ich kann's
+beschw�ren--nicht an Geister und Gespenster, sondern nur daran, wie
+angenehm es sein w�rde, wenn ich erst wieder zu Hause w�re; ich lief,
+als ob meine Mutter zu Tod daniederl�ge, und sah nicht links noch
+rechts.  Dennoch erblickt' ich pl�tzlich etwas Wei�es, was lang und
+sonderbar in die H�he ragte; ich wurde zu Eis, und doch--so ist der
+Mensch--blieb ich stehen; h�tte der Geist mir gewinkt, ich w�re--das
+glaub' ich--gehorsam, wie ein Hund, zu ihm herangekommen.  Aber, er
+bek�mmerte sich nicht um mich, sondern schwebte, ohne nach Art der
+Geister ein Zeichen oder einen gr��lichen Ton von sich zu geben,
+langsam, langsam �ber die Gr�ber fort.  Wird man's begreifen?  Erst,
+wie er verschwunden war, kam mir die eigentliche Angst, da erst fiel
+mir's ein, wieviel Unheil er mir bei b�sartigerer
+Gem�tsbeschaffenheit h�tte zuf�gen k�nnen.  Kalter Schwei� brach mir
+aus, nun ich ihn nirgends mehr sah, glaubte ich ihn allenthalben zu
+sehen, wenn der Westwind mir in den Nacken blies, hielt ich's f�r
+einen Hauch von ihm und erwartete �rgere Mi�handlungen.  Als ich das
+greuliche Ereignis am andern Morgen erz�hlte, fand sich gleich, wie
+das denn nie ausbleibt, ein Mann, der den Schl�ssel dazu hatte.  Der
+Prahlhans, der versoffene Barbier, der zuletzt im Hospital verreckt
+ist, wollte n�mlich auf dem Magdalenenkirchhof--er nannte ihn seinen
+Garten, weil er daran wohnte--der Abendk�hle wegen im Schlafrock und
+in der Nachtm�tze spazieren gegangen sein.  Es war dem Kerl blo� um
+die Ehre, er wollte sich r�hmen k�nnen, f�r einen Geist angesehen
+worden zu sein; man wird's mir aber wohl glauben, da� ich auch im
+D�mmerlicht einen Barbier von einem Geist zu unterscheiden wei�; denn
+das ist keine Kunst!  �brigens war selbst diese Geistererscheinung
+noch nicht das letzte Abenteuer jenes merkw�rdigen Tages.  Wie ich
+von der Apotheke zur�ckkehrte, vermied ich nat�rlich den mir doppelt
+unheimlich gewordenen Kirchhof und machte einen Umweg, der mich an
+einem tiefen Teich vorbeif�hrte.  Wie ich mich dem Teich n�herte, kam
+auf einmal ein Mensch dahergerannt, der, soweit ich beim schwachen
+Mondlicht dar�ber klar werden konnte, mit nichts als seinem Hemde
+bekleidet war und sich h�chst sonderbar geb�rdete.  Bald starrte er
+ins Wasser hinein, dann sah er zum Himmel empor, endlich brach er in
+ein wildes Gel�chter aus und sprang, wie unsinnig, in den Teich.
+"Was soll das?" rief ich ihm in einer wahren Todesangst zu oder
+vielmehr nach, "nehmt Euch in acht, niemand ist in der N�he, der Euch
+wieder herauszieht!"  Keine Antwort.  Ich schritt bis an den Rand des
+Teichs vor, das Wasser bewegte sich in gro�en Kreisen, der Wind
+fl�sterte im Schilf, von dem Menschen war nichts mehr zu sehen.  "Ist
+das Spa� oder Ernst?" rief ich, die Z�hne klapperten mir, ich
+vermochte kaum noch zu stehen.  "Heda!  Ihr dort unten, steigt herauf!"
+Stille, wie vorher!  "Gott im Himmel! es ist richtig ein
+Selbstm�rder!" brach ich jetzt aus, als ob ich den Menschen bisher
+f�r einen Taucher gehalten h�tte, "wer ein Christ ist, springt ihm
+nach und holt ihn mit Gewalt wieder herauf!"  Wenig fehlte und ich
+h�tt' es getan! man hat in solchen Augenblicken ein Gef�hl, als ob
+man's nicht lassen d�rfte.  Ich nahm auch wirklich einen Anlauf, da
+aber fiel mir ein, da� er ja jedenfalls schon tot sei, und da� nur
+ein Narr sein Leben eines Kadavers wegen aussetze.  Gedanken anderer
+Art dr�ngten sich mir auf.  "Wer ist's?" fragt' ich mich.  Antwort:
+"Vielleicht dein Gesell!"  Das kam mir bald �u�erst wahrscheinlich
+vor, und was kn�pfte sich nicht alles daran!  "Wird man nicht glauben,"
+dacht' ich, "du hast ihn hineingest�rzt?  Wird man nicht wenigstens
+behaupten, da� du, der du ihm fast zur Seite standest, aus
+absichtlicher Bosheit nichts f�r seine Rettung getan hast?  Und hat
+das eine nicht Grund, wie das andere?"  Ich sah mich nach allen
+Seiten um, ob noch au�er mir jemand Zeuge dieses Selbstmordes gewesen
+sei, und beschlo�, als ich mich des Gegenteils versichert hatte, den
+Vorfall zu verschweigen, um allen Verf�nglichkeiten zu entgehen.  Nun
+entfernte ich mich rasch, ward aber gleich, sowie ich am ersten
+Wirtshaus vor�berkam, von der schwersten meiner Bef�rchtungen befreit;
+denn mein Gesell sa� drinnen bei einer Kanne Bier und schwur eben
+mit lauter Stimme, da� er sich an meinem Hochzeitstage schon vor
+Sonnenaufgang betrinken und mir jeden Schabernack spielen wolle, der
+ihm w�hrend des Rausches in den Sinn k�me.  Den n�chsten Morgen
+kl�rte sich das Ereignis auf.  Der kranke M�ller war seinem W�rter,
+dem man schuld gab, da� er fahrl�ssig gewesen und eingeschlafen sei,
+entkommen und hatte seinem Leben in einem Anfall von Verzweiflung ein
+Ende gemacht.  Man sagte, er habe vom Krankenbett aus Dinge von
+seiner Frau gesehen, die er nicht wieder h�tte vergessen k�nnen.  Ich
+zweifle nicht daran.
+
+Am auffallendsten war mir's, da� Lene jene Heuchelei und Verstellung
+noch monatelang im Ehestand fortsetzte; geradeso, als h�tte sie sich
+einen Reiter zum Vorbild genommen, der sein Ro�, das er hinterher
+durch Sporn und Peitsche genugsam plagt, beim Besteigen klatscht und
+streichelt.  Nichts konnte im Haushalt geschehen, Schnock mu�te erst
+befragt werden.  "Meinst du nicht, Christopher," hie� es, "da� der
+Spiegel an jener Wand besser hinge?  Ist's dir recht, wenn der rote
+Koffer seinen Platz ver�ndert?  Kann der Lehrbursch wohl einmal flink
+zum Kr�mer springen und mir etwas Seide holen, oder siehst du's nicht
+gern?  Liebst du die Pfannkuchen braun gebraten, oder nicht?"
+Anfangs lacht' ich, wenn sie mit dem spitzb�bisch-unschuldigsten
+Gesicht von der Welt Fragen der Art an mich richtete, und sagte: "Geh
+mir!"  Zuletzt aber ging ich auf den Spa� ein, erkl�rte gravit�tisch,
+wie K�nige im Puppenspiel, meinen Willen und erg�tzte mich nicht
+wenig, wenn die Suppe mittags wirklich so auf den Tisch kam, wie ich
+sie morgens beim Fr�hst�ck, wo ich, w�rdevoll den Gro�vaterstuhl
+ausf�llend, meine l�cherlichen Instruktionen erteilte, bestellt hatte.
+Genau wei� ich mich noch des Tags zu erinnern, an dem die
+Herrlichkeit ein Ende nahm und mein Drache seine eigentliche Natur
+zum ersten Male hervorkehrte.  Es war Mittwoch und Markttag, und ich
+hatte einem Gesellen die Arbeit aufgek�ndigt, als Streit mit ihm
+bekommen, d. h. gelinden, wo man sich blo� gegenseitig die
+Versicherung gibt, da� man einer ohne den andern leben k�nne.  Ich
+glaube, alles ist in Ordnung, und freue mich, als mit einem Male der
+Gesell, da ich eben mein Lieblingsst�ck: "Wer nur den lieben Gott
+l��t walten usw." zu pfeifen anfange, vor mich hinspringt, mit
+geballter Faust auf die Hobelbank schl�gt, da� etliches Ger�t
+herunterfliegt, und mit Ungest�m verlangt, ich sollte sagen, was ich
+an ihm auszusetzen habe, er sei nicht von gestern und kenne die Welt.
+"Der glaubt am Ende," besorg' ich, "du hast ihn im Verdacht der
+Dieberei;" um ihn zu beg�tigen, sag' ich: "Die Fensterrahmen dort,
+die Ihr gemacht habt, k�nnen mir unm�glich gefallen, sie sind krumm
+und schief."--"Ich habe in Hamburg in einer der ersten Werkst�tten
+gearbeitet!" f�llt er mir trotzig ins Wort.  "Drei Tage!" versetz'
+ich gedankenlos, aber dem Inhalt seines Wanderbuchs gem��.  "Was?
+Foppen wollt Ihr mich?" f�hrt er auf, "da soll Euch denn doch--" er
+unterbricht sich selbst, doch nur um den Rock abzuwerfen, dann dringt
+er auf mich ein.  Ich kenne das Ende einer Pr�gelei zu gut, um den
+Anfang abzuwarten, und ziehe mich zur�ck, erst bis auf den Flur, dann,
+da er mich fluchend und schimpfend verfolgt, bis in die K�che, wo
+meine Frau gerade R�ben schabt.  Die wirft auf mich einen Blick, da�
+ich denke, sie wird sich mit dem unsinnigen Menschen vereinigen, um
+meine Niederlage vollst�ndig zu machen; aber, weit gefehlt, sie
+ergreift die Feuerzange und wirft sie dem Gesellen, der sich dessen
+wohl so wenig versah, wie ich, an den Kopf; er will nicht weichen, da
+fliegt ihm die Fleischgabel ans Schienbein, da� er laut aufschreit:
+"Ein Weib wie der Teufel!" und sich wendet, so da� er der
+Aschenschaufel, die gleich hinterdrein f�hrt, gl�cklich entgeht.
+Jetzt kehrt sich die Lene, zuf�llig war ich hinter ihr zu stehen
+gekommen, zu mir um und sieht mich an.  "Das war recht," stottre ich,
+"der Lump, der Hundsfott"--"Oh," unterbricht sie mich, "bist du auch
+ein Mann!" und rot wie ein gesottener Krebs, setzt sie sich wieder zu
+den R�ben nieder, ich schleiche mich fort.  Wenige Minuten darauf
+rief sie: "Hans!"  So hie� mein Lehrjunge.  "Er ist drau�en im
+Garten", antwortete ich ihr.  "So ruf ihn," herrschte sie mir zu,
+"aber schnell, er soll f�r mich aus!"--"Jetzt f�ngt's an!" sagt' ich,
+als ich ging, ihren Befehl auszurichten.  Ich irrte mich keineswegs;
+seit jenem Tage hab' ich aus ihrem Munde selten ein freundlich Wort
+geh�rt, daf�r traktiert sie mich fast st�ndlich mit Bonbons, wie
+diese sind: "Ich will's so!" oder "Du sollst nicht!" oder "Untersteh'
+dich's noch einmal!" u. dergl. mehr.  Nun, das ist nicht so unbequem,
+als es scheint; was ich seitdem tue, ist, als ob sie's getan hat, sie
+hat von meinem Tun und Lassen mehr Plage, als ich selbst, ich bin
+fett geworden, sie ist mager und d�rr geblieben.  Ein Spa�vogel sagte,
+sie k�nnte f�r mich zur Beichte gehen; gewisserma�en hat er recht.
+
+Einmal--ich h�pfe in der Dornenhecke meines Lebens von Busch zu
+Busch--hatt' ich, wie man denn im Trunk so leicht Narrheiten begeht,
+versprochen, ich wolle meine Frau an einem ausdr�cklich dazu
+festgesetzten Abend t�chtig ausschm�len, so da� man's drau�en unter
+den Fenstern h�ren solle.  "Wirst du's dir gefallen lassen?" fragt'
+ich sie beim Zuhausekommen, im Vertrauen auf die gute Wirkung eines
+offenen Gest�ndnisses und ihren Geiz, "sonst kostet's mir drei
+Flaschen Wein; denn ich habe gewettet."--"Oh, gerne, gerne!"
+erwiderte sie; sie war n�mlich--ich wu�t' es--weichm�tig, weil ihr
+nachmittags ein Brief die Nachricht gebracht hatte, da� ihr Bruder
+gestorben sei.  Der Abend kam heran, mich befiel ein Zittern, ich
+verfluchte mich selbst und mein Saufen.  Den ganzen Tag hatte in
+ihrem Gesicht etwas Versteckt-Heimt�ckisches gelegen; jetzt--sie sa�
+hinter dem Ofen im Gro�vaterstuhl, aus dem ich nat�rlich l�ngst
+vertrieben war--entlud sich's in einem sp�ttischen Gel�chter und in
+der h�hnischen Frage: "Wird's bald?"  Deutliches Husten und Fl�stern
+verk�ndete mir, da� man drau�en schon mit Ungeduld harre; dennoch
+sagt' ich: "Kind, es hat ja keine Eil'!"--"Wie lange soll ich denn
+warten?" fuhr sie auf.  "Pst, pst, Engel!" wisperte ich, "man mu�
+sich ja doch erst besinnen."--"H�tt' ich nur 'nen Hund", dacht' ich,
+"oder 'ne Katz' zur Hand, auf die w�rd' ich losfahren, und die da
+unter der Wand glaubten, es gelte ihr."  Lautes R�uspern und
+In-die-H�nde-Klatschen der Saufbr�der bringt mich zur Verzweiflung.
+Nichts f�llt mir bei, �ber mein Z�gern erbost, sieht Lene mich giftig
+an.  "Schlag' der Teufel drein!" fluch ich und hoffe, dabei in den
+Gang zu kommen.  "Was fehlt dir, lieber Mann?" fragt sie spottend.
+"Kind," versetz' ich dr�ngend, "schm�len und schimpfieren soll ich
+und wei� nicht, wor�ber."  Ich wu�t' es wohl, aber wer b�rgte mir f�r
+ihre Gelassenheit, darum sucht' ich alles in einen Scherz zu
+verwandeln; denn gegen Scherz war sie nicht v�llig abgeh�rtet.  "Gib
+mir einige Gr�nde an die Hand und dann schlag die Augen nieder, sonst
+gelingt's mir nimmer."--"Gut," erwiderte sie, "so sprich mir nach,
+was ich dir vorsage, aber grimmig, im Ton eines B�ren:
+Ungetreue--"--"Der Teufel sprech's dir nach," unterbrech' ich sie,
+"sch�ndlich w�rd' ich ja wohl l�gen!"--"Oder," f�hrt sie fort,
+"z�nkische, boshafte--"--"M��ige dich, Kind!" fall' ich ihr ins Wort.
+"Willst du bald?" f�hrt sie auf, und wiederholt: "Z�nkische,
+boshafte Wetterhexe, alter, vermaledeiter Brummkater!"  Angst
+ergreift mich; denn das sind Redensarten, deren ich mich zuweilen im
+Traum gegen sie bediente.  In diesem Augenblick klopfen die da
+drau�en ans Fenster.  In der Verwirrung rei�' ich, mich stellend, als
+ob ich meine besten Freunde f�r Stra�enbuben halte, das Fenster auf,
+und schimpfe w�tend hinaus: "Hundezeug! verfluchtes Gesindel! was
+gibt's hier zu horchen?"--"Bravo, bravo, Schnock!" geben sie zur
+Antwort, Lene schl�gt ein Gel�chter auf, ich bin wie tot.
+
+�rger noch--das nicht--aber ebenso arg ging's mir, als ich--unter
+dreien hatte gerade mich das Los getroffen--den Pfarrer wegen einer
+anz�glichen Predigt, die so sichtlich auf uns gem�nzt war, da� man in
+der Kirche mit Fingern auf uns zeigte, zur Rede stellen mu�te.
+Gleich nach der Fr�hst�ckszeit--fr�hst�cken konnt' ich nicht--macht'
+ich mich auf den Weg, die Konsorten, die mir in solchen Dingen wenig
+trauten, lauerten mir nach.  "Hinein mu�t du," sagt' ich, mir
+gewisserma�en selbst den Weg vertretend, ich empfand n�mlich ein
+Gel�st, an der Pfarre vorbeizuschleichen, "sonst kommen die Hinteren
+dir auf den Hals."--"Er ist wohl zu irgendeinem Kranken geholt oder
+zu einer Taufe!" denk' ich und �ffne die T�r.  Statt der
+Magd--w�hrend des Anmeldens verstreicht doch immer, wenn man zu
+solchen Herren geht, einige Zeit, die man zur Vorbereitung verwenden
+kann--tritt mir der Pfarrer selbst, eben mit brennender Pfeife aus
+der K�che kommend, auf dem Flur entgegen.  Er sieht mich an, ich ihn.
+"Sch�nes H�ndlein", sag' ich endlich, mich zu dem Scho�hund seiner
+Frau, der munter dahergesprungen kam, niederbeugend und ihn
+streichelnd.  "Wollt Ihr nicht eintreten, Meister Schnock?" sagt der
+Pfarrer und �ffnet die T�r seines Studierzimmers.  Ich trete ein.
+"Wollt Ihr Euch nicht niedersetzen?"  Ich setze mich.  "Und Euer
+Begehren ist?" fragt er endlich, verwundert und ungeduldig.
+"Ich--ich komme!" versetz' ich noch ziemlich deutlich und h�rbar,
+aber da bef�llt mich pl�tzlich das niedertr�chtigste Stammeln und
+Stottern, und ich mag mich abarbeiten, wie ich will, ich bring' es
+nicht weiter als bis zum: "Ich komme--ich wollte--ich
+sollte--"--"Lieber Mann," f�hrt der Pfarrer zuletzt, meinen Zustand
+mi�deutend, auf, "Ihr habt wohl schon getrunken, kommt wieder, wenn
+Ihr n�chtern seid."  Erw�nschteres h�tte mir in meiner Lage nicht
+kommen k�nnen, als diese Grobheit des Pfarrers, ich nehme schnell
+meinen Hut und eile fort, froh, da� die H�llenvisite abgetan ist, und
+mich �ber ihren Ausfall gegen die anderen nur dunkel, und so, da� sie
+mich mi�verstehen m�ssen, auslassend.
+
+Dennoch hab' ich trotz der Friedfertigkeit meiner Natur zweimal in
+meinem Leben Ohrfeigen ausgeteilt, die eine im Finstern, die zweite
+im Licht, und beide an meinen leiblichen Vetter, den Stellmacher
+Vinckel.  Auf Vinckel war ich n�mlich im h�chsten Grade erbost, und
+dazu hatte ich guten Grund.  Wer einmal eine l�cherliche Geschichte
+von mir erz�hlt, dem reich' ich vielleicht noch, sowie er mir wieder
+begegnet, die Hand zum Gru�, wenn ich sie ihm auch nicht mehr dr�cke.
+Niernh�utl, der Wesselbur'ner P�chter, wird mir's bezeugen.  War
+er's nicht, der's ausschwatzte, da� ich einst vor seinem kalekutschen
+Hahn ausgerissen bin, der es aber verschwieg, da� ich's nur der roten
+Weste wegen tat, die ich gerade anhatte?  Doch es geschah beim Bier,
+es geschah eine halbe Stunde nach Mitternacht, und er kam nie wieder
+auf die Dummheit zur�ck.  Wer es zweimal tut, dem nick' ich zwar noch
+zu, wenn er mir in den Weg kommt, aber ich huste dabei, um ihm nicht
+in klaren deutlichen Worten einen guten Tag w�nschen zu m�ssen; wer
+sagt denn auch zur Brennessel: Wachse und gedeihe!  Wer aber gar
+nicht aufh�rt, wer, sowie er zu einer Kindtaufe oder einer Hochzeit
+geladen ist, entweder stumm und dumm dasitzt, wie die Wand, an die er
+sich mit seinem R�cken lehnt, oder seinen albernen Witz auf meine
+Kosten Bockspr�nge machen l��t, der wird mir am Ende so verha�t, da�
+sich in mir das Oberste zu unterst kehrt und ich mir Luft machen mu�,
+zumal, da es in der Natur des Menschen liegt, sich so lange zuzurufen:
+Du traust dir nicht genug, bis er �berm�tig wird und sich zuviel
+zuzutrauen anf�ngt.  Das war aber mit Vinckel der Fall, und es kam
+noch hinzu, da� wir als Verwandte uns �berall trafen, da� wir uns gar
+nicht vermeiden konnten.  Er wurde nicht m�de, auf den Besuch zu
+sticheln, den wir beide auf der Wanderschaft in der Tierbude zu
+Bremen abgelegt und bei dem wir uns allerdings sehr verschieden
+benommen hatten; er wie ein unwissender Flegel, der zwischen den
+lebendigen Ungeheuern drinnen und den gemalten auf der Wachsleinwand
+am Eingang nicht zu unterscheiden wu�te, ich wie ein vern�nftiger
+Mensch, der sich auf diesen Unterschied verstand.  Ich mu� den Besuch
+erz�hlen, damit man sieht, da� ich bei Gelegenheit desselben nichts
+tat, als was jeder andre, der nicht eben ein Vinckel war, auch getan
+h�tte, und da� ich h�chstens wegen meines F�rwitzes, denn ich h�tte
+ja auch fortbleiben k�nnen, einen Vorwurf verdiene.
+
+Es war ein heitrer Sonntagnachmittag, und ich ging mit Vinckel �ber
+den Marktplatz, wo die Bude stand.  Der niedertr�chtige Tierf�hrer
+trat eben heraus und verk�ndigte mit lauter Stimme, die Bestien
+sollten gef�ttert werden, wer es sehen wolle, m�ge eintreten.  Nun
+hatt' ich ungl�cklicherweise am Tage zuvor mit meinem Begleiter �ber
+jene Tiere gesprochen und ihm, um ihm von meiner Herzhaftigkeit eine
+gute Meinung beizubringen, gesagt, ich ged�chte sie n�chstens in
+Augenschein zu nehmen.  "H�rst du," rief er mir zu, "die Tiere werden
+gef�ttert, la� uns hineingehen, es kostet ja nur einen Groschen.
+"--"Ei, was," versetzte ich, "morgen ist auch ein Tag, und ob ich sie
+fressen sehe oder nicht, das ist mir ganz einerlei.  Ohnehin hat man
+sie hier alle ausgestopft auf dem Museum!"  Leider hatte der
+Tierf�hrer, wie denn ein solches Gesindel immer m�usescharf h�rt,
+unser Gespr�ch belauscht; er trat auf uns zu und sagte: "Meine Herren,
+morgen mit dem fr�hsten reis' ich ab, wollen Sie also dies wirklich
+sehensw�rdige Kabinett mit Ihrer Gegenwart beehren, so schieben Sie
+es nicht auf."  Komm, komm, dr�ngte mein Begleiter und zeigte auf das
+Aush�ngeschild, es sind, wie du siehst, zwei Tiger darin, ein
+L�we--"--"Die Riesenschlange, das seltene Exemplar eines wei�en B�ren,
+die Hy�ne und die k�stlichen Affenarten nicht zu vergessen!"
+unterbrach ihn der Tierf�hrer.  Der dumme Schlingel glaubte, mich
+durch Aufz�hlung all der Scheusale, die in der H�llenbude ihr Unwesen
+trieben, zum Eintritt reizen zu k�nnen, w�hrend ich an den beiden
+Tigern und dem L�wen, deren mein Gef�hrte erw�hnte, schon mehr als
+genug hatte.  "Die Tiger sind wohl noch jung?" fragte ich.  "Den
+Teufel auch," antwortete der Esel, "v�llig ausgewachsen, und feurig,
+wie in Afrika."  Mich schauderte.  "Jedenfalls ist diese Boaschlange
+klein wie ein Regenwurm und wird hinter dreifachem Eisengitter
+verwahrt?"--"Umgekehrt, lang wie ein Schiffsankertau", versetzte
+jener.  "Sie ist in Europa noch niemals gr��er gesehen worden, und
+die Kunst besteht gerade darin, da� ich sie mit den H�nden aus ihrem
+Kasten herausnehme und frei hinlege.  Treten Sie nur ein, es wird Sie
+nicht gereuen."  Mir war, als st�nd' ich vor meinem Grabe.  Ganz
+kleinlaut fragt' ich: "Wie steht's denn mit der Hy�ne?  Auch so gro�,
+wie ein Pferd?"  Dummstolz l�chelnd erwiderte der Kerl: "Sehen Sie
+jenen alten, grauen, lahmen Hund, der die Stra�e heraufwatschelt?
+Gr��er ist die Hy�ne nie und sieht so unbeholfen aus wie der."--"Was
+fragst du lange," sagte mein Begleiter, "wir k�nnen das alles ja
+sehen."  Ich lie� mich nicht st�ren.  "Es sind doch wohl oft schon
+Ungl�cksf�lle in Ihrer Bude passiert?" fuhr ich fort, "der L�we hat
+sich losgerissen, die Schlange hat Menschen erdr�ckt?  Es kann nicht
+anders sein.  Ich habe im Wochenblatt davon gelesen!"--"Sie sind sehr
+furchtsam!" versetzte der Tierf�hrer frech.  "Gar nicht furchtsam,
+durchaus nicht furchtsam," fuhr ich hitzig auf, "aber bekannt genug
+ist's, da�--L�wen und Schlangen nach Menschenfleisch l�stern sind,"
+hatt' ich sagen wollen, doch der Tierf�hrer unterbrach mich.  "Kommen
+Sie herein, meine Herren," sagte er, "ich darf mit der F�tterung
+nicht l�nger z�gern, die Tiere sind hungrig."--"Hungrig!" rief ich
+entsetzt; dann fl�sterte ich meinem Begleiter ins Ohr: "H�rtest du
+das?  Die Beester sind hungrig!"--"Um so interessanter wird's sein,"
+gab der unverst�ndige Mensch zur Antwort, "komm nur!"  Er zog mich
+mit sich fort, und wenn ich keinen Skandal machen wollte, mu�t' ich
+folgen.  Ein widriges Ger�usch der unangenehmsten Stimmen drang uns
+entgegen, ein Gebr�ll, Gequ�ke, Geschnatter, Gepiepse zum Umfallen.
+Anf�nglich macht' ich die Augen zu, blo� um mich an die Ungeheuer zu
+gew�hnen.  Doch bald bedachte ich, da� ich mich gerade dadurch den
+gr��ten Gefahren aussetzen und in die N�he der schauderhaften
+Schlange, die ich am meisten f�rchtete, geraten k�nne, und �ffnete
+sie wieder.  Mein erster Blick fiel auf die greuliche Kropfgans, die
+in wenigen Sekunden einen halben Kessel voll Fisch verschluckte und
+dann in ihren K�fig zur�ckkehrte.  Hu!  Solchen Tiere sollten billig
+erst vierundzwanzig Stunden vor dem J�ngsten Tag geschaffen worden
+sein!  Wer w�rde sich dann aus dem Untergang der Welt noch was
+gemacht haben!  Jetzt wurde ich den L�wen gewahr, der entsetzlich
+br�llte; schnell wandte ich den Blick, allein nun sah ich die beiden
+blutd�rstigen Tiger, die in ewiger Unruhe in ihren K�figen auf und
+nieder rannten und mit den Schweifen an die St�be schlugen, da� sie
+erbebten.  Die bunten Farbenringe, die diesen Scheusalen um den Leib
+laufen, kamen mir, besonders wenn ich blinzelte, wie aufgerollte
+Schlangen vor, die auch wohl herunterspringen k�nnen; dabei macht'
+ich die wenig beruhigende Entdeckung, da� s�mtliche K�fige aus Holz
+gezimmert waren.  Auf einmal entstand hinter mir ein grausiger
+Spektakel; als ich mich umsah, erblickte ich die hohl�ugige,
+grinsende Hy�ne, die sich vergebens anstrengte, ein St�ck Fleisch,
+welches der W�rter ihr vorhielt, zu erhaschen.  Ich beschwor den
+Menschen, das Tier um Gottes willen nicht zu necken; in frevelhaftem
+Mutwillen versetzte er aber: "Nur unbesorgt, ich und Bunku verstehen
+uns!"  Zugleich hielt er seinen Mund an das Gitter und rief: "Bunku,
+einen Ku�!"  Schnell wandt' ich das Gesicht ab und erwartete, im
+Augenblick Jammert�ne und Geschrei, des zerfleischten Menschen
+n�mlich, zu vernehmen.  Ich vernahm nichts; statt dessen h�rte ich
+ein sonderbares Geplapper und Gepl�rr gerade �ber meinem Kopf, und
+als ich emporschaute, sah ich eine Menge h��licher Affen mit
+ungestalteten Gliedma�en und weiten M�ulern, die die Z�hne fletschten
+und mich mit Unrat bewarfen.  Diese vergn�gten mich einigerma�en, da
+sie klein waren und possierliche Grimassen schnitten; sie wurden mit
+�pfeln gef�ttert, und ich mu�te lachen, so wenig ich auch sonst zum
+Lachen aufgelegt war, als ich bemerkte, da� einige sich in ihrer
+Gefr��igkeit das Maul so voll stopften, als ob es eine Vorratskammer
+w�re.  Wie ward mir aber zumut, als ich mich zuf�llig umkehrte und
+auf einer Kiste, an die ich mich mit dem R�cken gelehnt hatte, die
+entsetzliche Boaschlange, keine zehn Zoll von mir entfernt, erblickte.
+Da lag sie, lang hingestreckt, die greuliche, blutsaugende
+Bewohnerin der Waldungen eines fremden Weltteils--ein Sprung, und sie
+umwand mich, sie zermalmte meine Knochen, sie m�stete sich von meinem
+Mark.  Sie zog sich zusammen, ich tat einen lauten Schrei und sprang
+zur T�r.  Langhalsige V�gel, Strau�e nannte sie der Tierf�hrer,
+reckten mir hier, als h�tten sie's auf meine Augen abgesehen, aus
+einem K�fig, �ber den ihre K�pfe hoch hinausragten, die spitzigen
+Schn�bel entgegen.  Ich gab nicht viel um die Nachbarschaft dieser
+Riesenv�gel und n�herte mich der Schlange wieder um einen Schritt;
+kaum aber stand ich still, als mich ein Geklapper �ngstigte, welches
+sich �ber mir vernehmen lie�.  Himmel, gerade �ber meinem Haupte hing
+ein K�fig mit einer Klapperschlange.  Ich kann es gar nicht
+beschreiben, wie furchtbar mir dies zwei Fu� lange Tier mit seiner
+ekelhaft-bunten Haut und mit den abscheulichen T�nen, die es von sich
+gab, vorkam.  Starr blickt' ich zu ihr auf; pl�tzlich klopfte mein
+Begleiter mich auf die Schulter und sagte: "Was ist denn an dem
+kleinen bunten Ding zu sehen?  Gib nun acht, die gro�e Schlange wird
+nun sogleich ein Kaninchen verzehren, der W�rter bringt es schon."
+Obwohl mich ohne Unterla� kalte Schauder �berliefen, konnt' ich mich
+doch bei diesen Worten eines leichten L�chelns nicht erwehren; der
+Mensch glaubte, ich betrachtete die Klapperschlange, w�hrend ich doch
+blo� ihren K�fig untersuchte, um mich zu vergewissern, da� sie
+nirgends durchschl�pfen k�nne.  Als ich mich hiermit noch
+besch�ftigte, gab die Klapperschlange, wie es mir--ich kann mich
+irren--wenigstens vorkam, ein feines Gezisch von sich; eine wei�e
+Masse fiel mir auf den Rock, und da ich glauben mu�te, diese wei�e
+Masse r�hre von ihr her, schrie ich laut auf: "Hilfe!  Gift!  Gift!"
+Erschreckt sprangen mehrere der Anwesenden auf mich zu; ich, keines
+Wortes m�chtig, zeigte auf den wei�en Fleck auf meinem Rock, alle
+standen mit offenem Munde.  Der Tierf�hrer kam gleichfalls herbei;
+kaum aber hatte dieser meinen Rock angesehen, als er laut auflachte
+und sagte: "Das Gift kommt von dem unartigen Papagei, der dort oben
+h�ngt!"  Jetzt wurde das Gel�chter allgemein; ich besichtigte die
+wei�e Masse n�her und lachte dann selbst von ganzem Herzen mit.  "Du
+bist ja ein wahres Kind," rief mein Begleiter mir zu, "da will ich
+dir was anderes zeigen."  Der Waghals trat zur Boaschlange heran, die
+eben mit entsetzlicher Wollust, welche ihr sichtlich durch den langen
+h��lichen K�rper zuckte, dem armen Kaninchen das Blut aussog, und
+ber�hrte sie mit der Hand.  Doch sie fuhr zusammen, als w�rde sie mit
+Nadeln gestochen, und Vinckel, der Held, flog so schnell zur T�r wie
+ich; ich nahm �brigens diese Gelegenheit wahr, ihn, bevor er wieder
+zur Besinnung kommen konnte, mit herauszuziehen.  Als ich mich wieder
+in der freien Luft sah, verdro� mich's doch, da� ich den B�ren gar
+nicht gesehen hatte; ich h�tt's um denselben Preis gehabt.
+
+Das war der Besuch.  Es war keine Kunst, ihn im Zimmer hinter dem
+Ofen, wenn man von br�llenden L�wen und z�hnefletschenden Tigern so
+weit, wie von Afrika und Amerika, entfernt war, zu verdrehen und
+dabei zum Beweis der eigenen Herzhaftigkeit dem unter dem Tisch auf
+den Knochenabfall harrenden armen Haushund einen Tritt zu versetzen.
+Es war noch weniger ein Wunder, da� mich das verdro�.  Als Vinckel es
+eines Abends wieder getan hatte und ich im Finstern mit ihm und
+einigen anderen zu Hause ging, gab ich ihm endlich einmal, wie ein
+g�render Bierkrug, den Pfropfen absto�end, einen Derben hinter die
+Ohren.  So wenig hielt er mich trotz der mir zugef�gten Beleidigung
+der Rache f�hig, da� er ausrief: "Schnock, man schlug mich, wer
+war's?"  Als ich kurz antwortete: "Kann ich's wissen, wenn du's
+selbst nicht wei�t!?" versetzte er: "Nun gut, so tritt du nur
+beiseite, denn du hast's gewi� nicht getan!"  Ich folgte, heimlich
+lachend, seiner Weisung, dann rief er: "Wenn einer was erh�lt, der's
+nicht verdient hat, so bitt' ich im Voraus um Verzeihung!"  Nun
+drosch er auf die �brigen, die verdutzt stehengeblieben waren, wie
+ein Unsinniger los und bekam nat�rlich, was er austeilte, mit Zinsen
+zur�ck, so da� ich, der ich gelassen, wie die Unschuld selbst, dabei
+stand, die vollkommenste Satisfaktion erhielt.  Aber die Sache blieb
+bei alledem wie sie war; denn wenn ihm den n�chsten Tag auch ein Zahn
+fehlte: er ahnte nicht, da� er ihn noch haben w�rde, wenn er seine
+Zunge im Zaum gehalten h�tte, und ich mu�te mich entschlie�en, das im
+Dunkeln begonnene Werk bei Licht zu Ende zu bringen, da seine Sp��e,
+was ich freilich voraus h�tte wissen sollen, auch jetzt noch nicht
+aufh�rten.  Ich schleppte ihn daher eines Sonntagabends ins Wirtshaus,
+machte ihn betrunken--ich selbst war's schon vorher--stellte eine
+Menge Gl�ser vor ihn hin, von denen ich glaubte, da� sie ihn am
+schnellen Hervorkommen hinter dem Tisch hindern w�rden, schlo� ihn
+zum �berflu� auch noch mit St�hlen ein und sagte dann zum P�chter
+Niernh�utl: "Es wird hier noch etwas geben!"  Er sah mich an und
+antwortete: "Mit wem denn?"--"Mit dem da!" sagt' ich und warf einen
+vernichtenden Blick auf Vinckel.  "Wer hat denn was mit dem Knirps?"
+fragte der P�chter, der die Menschen, wie ein Werbeoffizier, nach
+ihrer Leibesl�nge abzusch�tzen pflegte, und lachte.  "Ratet einmal!"
+versetzt' ich.  Er riet hin und her, es verdro� mich, da� er immer so
+greulich vorbeischo�, und ich kehrte ihm unwillig den R�cken.  Er gab
+mir einen Klaps an einer unanst�ndigen Stelle; ich zeigte ihm meine
+geballte Faust und rief: "Meint Ihr, da� in der allein keine
+Kopfn�sse wachsen?  Wieviel verwettet Ihr auf eine, die in einer
+Viertelstunde reif sein mu�?"  Durch Wetten hab' ich mich n�mlich oft
+in die Courage hineingehetzt, aber Niernh�utl lie� sich auf nichts
+ein, sondern sagte blo�: "Wir werden sehen!"--"Gewi�!" versetzt' ich
+und trat an den Schenktisch.  Ich forderte mir ein Glas Punsch, ich
+lie� noch ein zweites einschenken, und trat damit zu meinem
+Widersacher, der den Kopf erm�det auf den Tisch lehnte, heran.  Er
+lag v�llig schlaggerecht und ich ging mit mir zu Rate, was ich tun,
+ob ich die Gelegenheit benutzen, oder noch einige Minuten
+verstreichen lassen solle.  "Des Grimms", dacht' ich, "kannst du heut
+abend nicht genug entwickeln, la� dir Zeit und denk an alles, was er
+dir getan hat!"  Da sah ich, da� Niernh�utl ver�chtlich die Achseln
+zuckte und seinen Hut suchte.  Der mu�te Zeuge sein, ich st�rzte das
+zweite Glas Punsch herunter, die Knie schlotterten mir, aber mit
+lauter, donner�hnlicher Stimme rief ich, w�hrend ich zugleich mit
+geballter Faust auf den Tisch schlug: "Heda!"  Vinckel hatte einen
+Totenschlaf, er merkte nichts von Ruf und Schlag, und zu meinem
+Verdru� kam ein einf�ltiger Aufw�rter herbei und fragte, was ich
+befehle.  Der Flegel hatte meine Herausforderung zum Kampfe f�r ein
+Zeichen, das ihm gelte, angesehen.  Dies alles brachte meine Wut aufs
+h�chste; ich nahm alle meine Kraft zusammen, schlug noch einmal,
+indem ich zugleich die beiden leeren Punschgl�ser beiseite schob, auf
+den Tisch und rief: "Heda!"  Jetzt erwachte Vinckel, g�hnte
+unanst�ndig und fragte mich: "Ist's Zeit zu Hause?"  Ich suchte ihm
+durch Blicke verst�ndlich zu machen, wie er mit mir daran sei, als
+dies aber nichts half, und er Miene machte, wieder einzunicken,
+schrie ich ihm laut entgegen: "Wie steht's mit der Klapperschlange?"
+Ich meinte jene in der Bierbude.  Niernh�utl versicherte mir
+hinterher, ich sei hiebei zur Leiche erbla�t, ich glaub's ihm
+herzlich gern, mir war, als l�g ich im Fieber!  Vinckel glotzte mich
+merkw�rdig verdutzt an; ich aber, noch k�hner werdend, wiederholte
+meine Frage: "Wie steht's mit der Klapperschlange?"--"Sie ist l�ngst
+verreckt und ausgestopft, sei ohne Sorgen!" war die Antwort, die mich,
+da ich nun einmal so weit gegangen war, nicht beg�tigen konnte.
+Sowie nun Vinckel die auf mich gerichteten Augen nur wieder abgewandt
+hatte, versetzte ich ihm, mich �ber den Tisch lehnend, die ihm
+zugedachte Ohrfeige; dann zog ich mich eilends zur�ck, griff nach
+meinem vor dem Fenster stehenden Hut und lief, so schnell es
+ging--da� ich angetrunken war, sagt' ich schon--der T�r zu.  Er aber
+schrie �berlaut: "Was? was ist das?" und ohne sich an das Zerbrechen
+der Gl�ser im geringsten zu kehren, warf er den Tisch um und st�rzte
+mir nach.  Ich gestehe, das lag au�er meiner Erwartung und Berechnung,
+ich stand starr und machte keine Anstalten, dem Verfolger zu
+entfliehen.  Er fa�te mich bei den Haaren und warf mich zu Boden;
+einige Fu�tritte, die ich erhielt, schienen mir ein blo�es Vorspiel
+des Hauptangriffs.  Ich blieb ruhig liegen, und wenn ich an etwas
+dachte, so war's meine Frau, der das Ungl�ck ja nicht verborgen
+bleiben konnte.  Endlich wollten der Wirt und der P�chter Niernh�utl
+mich aufrichten, ich str�ubte mich aber aus Leibeskr�ften dagegen,
+und gar nicht, wie sie glaubten mochten, aus Eigensinn, sondern nur,
+um Vinckel, dessen Toben und Fluchen nachzulassen schien, vielleicht,
+weil er mich f�r tot hielt, nicht durch Aufstehen zu reizen.  Doch
+ihre vereinten Kr�fte �berstiegen die meinigen, und ich befand mich
+fr�her wieder auf den Beinen, als ich bef�rchtet hatte.  Mein erster
+Blick fiel in einen mir gerade gegen�ber h�ngenden Spiegel.  Ich sah,
+da� ich stark blutete, ich war n�mlich beim Niederschlagen auf eine
+scharfe Kante des Tischfu�es gefallen und hatte mich verletzt;
+schnell wischte ich mir das Blut �bers ganze Gesicht und erhielt
+dadurch ein herzbrechendes Ansehen.  In diesem Augenblick wurde
+Vinckel mich gewahr, und ich ihn; er kam auf mich zu, mich �bermannte
+die Furcht und ich eilte in schnellen Spr�ngen aus der T�r.  Hier
+aber glitschte ich aus und fiel abermals zu Boden; das Weinen war mir
+nahe, doch Vinckel rief mir zu: "Ei, warum l�ufst du so vor mir, ich
+komme ja blo�, um mich wieder mit dir zu vertragen; denn wenn ich's
+n�her bedenke, so hast du so gro�es Unrecht nicht gehabt, und mich
+freut's, da� du's endlich f�hlst!"  Dabei gab er mir die Hand, und
+richtete mich auf, ich konnte kein Wort hervorbringen, er aber zog
+mich an den Schenktisch, und wir tranken Vertrag miteinander, was ich
+gerne tat, ob ich gleich dem Frieden wenig traute.  "Es tut mir leid,"
+sagte er, "da� du dir das sch�ndliche Loch in den Kopf gefallen
+hast!"--"Das heilt schon wieder!" versetzte ich h�flich und nahm
+meinen Hut, um mich in der Stille davonzuschleichen.  Schon war ich
+gl�cklich bis an die Haust�r gekommen, als er mir nachrief: "Willst
+du zu Haus?  Wart, ich begleite dich!"  Die Begleitung eines wilden
+Tieres, eines Freundes aus der Bremer Bude, w�r' mir ebenso lieb
+gewesen; aber, was war da zu machen?  In wenigen Sekunden stand er
+bei mir und nahm meinen Arm.  Ich konnte mir nicht viel Gutes
+versprechen, zu meinem Gl�ck schien der Mond recht hell, auch blies
+der Nachtw�chter schon in den Stra�en.  Ich fa�te Mut, besonders, als
+es mir gelang, Vinckeln meinen Arm wieder auf sanfte Weise zu
+entwinden.  Ich war meinem Hause bereits nah, da fragt' er mich: "Wie
+kam dir die Rachsucht aber so pl�tzlich?"  Konnt' ich was darauf
+antworten?  Ich schwieg still und erwartete das Weitere.  Er aber--so
+unausstehlich der Mensch ist, so liegt doch mehr Gutm�tigkeit, als
+man denken sollte, in seiner Natur--er sagte: "Nu, nu, wir wollen
+nicht weiter davon sprechen", gab mir die Hand und schied von mir vor
+meiner Haust�r.  Nun galt's.  Ich z�gerte die T�r aufzumachen, und
+lie� langsam mein Wasser.  Der Stellmacher kam die Stra�e wieder
+herunter; er hatte vielleicht im Wirtshaus etwas vergessen, mir
+konnt' es aber nicht w�nschenswert erscheinen, nochmals mit ihm
+zusammenzutreffen, und ich trat schnell in mein Haus.  "Ist's geraten,"
+dacht' ich, "sogleich auszuglitschen, etwa �ber eine Kartoffel, die
+dort liegt, und dich zu stellen, als ob du in deinem eigenen Hause
+den Kopf zerschlagen hast, oder--" Doch, meine Frau, die das Klingeln
+der Haust�r nie �berh�rt, trat schon aus der Stube, und ich mu�te auf
+etwas Haltbareres sinnen.  "Mein Gott, wie siehst du aus?" rief sie
+mir �berlaut entgegen und f�gte noch manches hinzu, was ich vergessen
+haben will.  "Wer dich beschimpft, der hat's mit mir zu tun,"
+versetzt' ich trotzig, "hast du eine Tasse Tee f�r mich?  Ich bin
+stark angegriffen!"  Damit wollt' ich in die Stube treten, meine Frau
+gab's aber nicht zu.  "Es ist jemand darin," erwiderte sie, "und
+du--" Sie trieb mich in die K�che, wo ich mich waschen und abtrocknen
+und ihr erz�hlen mu�te, was sich zugetragen habe.  Ich log
+entsetzlich; denn es galt eine ruhige Nacht.  "Eine Sau", sagt' ich,
+"hat er dich genannt!"--"Wer? wer denn?" unterbrach sie mich heftig.
+"Hast du's nicht geh�rt?" versetzte ich, "wer anders, als der da am
+Markt, der Stellmacher."--"Der Schelm, der schiel�ugige Hund, der
+Nichtsnutz!" schrie sie so laut, da� es mich erschreckte; konnt' ich
+doch gewi� sein, da� die Nachbarn das alles auf mich beziehen w�rden,
+obgleich ich keineswegs schiele.  Dann ballte sie die Hand und rief:
+"Wart! sein Weib ist drinnen, und er wird sie abholen; kommt er, so
+soll ihn--" In diesem Augenblick ging die Haust�r, und an den raschen
+Fu�tritten erkannte ich Vinckel auf der Stelle.  "Da ist er schon!"
+kreischte sie und wollte ihm entgegenst�rzen.  Ich vertrat ihr den
+Weg und sagte: "Lene, soll's Stra�enl�rm geben?  Bedenke, da� es sp�t
+ist, und da� sich morgen auch etwas abmachen l��t!"--"La� mich los,
+la� mich los, oder--" Sie erg�nzte ihre Rede durch einen Sto� auf die
+Brust, den sie mir beibrachte.  Ich aber, ich hatt' ihre Hand gefa�t,
+hielt sie, kaum wissend, was ich tat, fest.  "Ich hab' dich ja schon
+ger�cht," stotterte ich, "er hat Abbitte getan, und ich hab' ihm
+vergeben."--"Was?  Was hat du getan?  Ihm vergeben?"  Sie verga� sich
+so weit, mir einen Schlag ins Gesicht zu versetzen; ich verfluchte
+meine L�ge, und doch konnt' ich mich nicht �berwinden, sie zu
+widerrufen.  "Ich bitte dich, Weib, tu mir zum erstenmal einen
+Gefallen--" Meine Bitten halfen nichts, sie ri� sich los und st�rzte
+in die Stube hinein.  Ich stieg zu Boden und stellte mich hinter den
+Schornstein.  Droben konnt' ich denn alles deutlich h�ren.  Erst ein
+m�rderisches Schimpfen; dann kam's zur Balgerei, und Vinckel--wer an
+meiner Stelle h�tt' einige Schadenfreude unterdr�ckt?--schrie mehr
+als einmal: "Kratzt mir nur kein Auge aus, ich hab' nur zwei!"
+Endlich flogen fast zugleich Stuben--und Haust�re auf, und Vinckel,
+samt seiner Frau, die sich unkluger--obgleich nat�rlicherweise mit in
+den Handel gemischt hatte, hinaus.  Ich hatte alle Ursache, mit
+meiner Lene zufrieden zu sein; denn in der Wut hatte sie Vinckels
+Frage, was er ihr getan, zu meiner uns�glichsten Freude mit einem
+sp�ttischen "er wiss' es wohl selbst" beantwortet.  "Der glaubt
+sicher," dacht' ich, als ich wieder vom Boden herunterstieg, "es ist
+aus purer ehelicher Liebe, wegen deiner Kopfwunde, geschehen; das
+schadet nicht!"  �brigens hat Vinckel die Tierbuden-Geschichte seit
+jenem Abend wirklich niemals wieder aufger�hrt, und es ist schwer zu
+sagen, ob er das aus Respekt vor meiner Lene oder vor mir selbst
+unterl��t.  Freilich kam dabei f�r mich nicht viel heraus; denn die
+Schulkinder wu�ten sie schon auswendig, aber, das mu� ich doch zu
+seiner Ehre anf�hren, wenn man ihn jetzt zum Zeugen aufruft, so
+antwortet er mit einem Schlag!
+
+Sollte sich's ein Christenmensch vorstellen, da� ich einmal nahe
+daran war, aus Zaghaftigkeit, die mich abhielt, zur rechten Zeit mit
+einer ablehnenden Erkl�rung einzuspringen, ein M�rder und schn�der
+Giftmischer zu werden?  Ich sitze eines Abends im "Goldenen Schaf"
+hinter dem Tisch und denk' an nichts Arges, an gar nichts n�mlich; da
+tritt ein Fremder, wunderlich, sonst gut gekleidet, herein, fordert
+sich Wein und setzt sich zu mir.  Er begr��t mich und sieht mich mit
+einem Blick an, als ob er mich gut kenne.  "Das ist", denk' ich,
+"wieder ein Bekannter und Herzensfreund, dessen Gesichtsz�ge und
+Namen nichtsw�rdigerweise deinem Ged�chtnisse entfallen sind; l�chle
+wenigstens und stell' dich erfreut �bers gl�ckliche Zusammentreffen."
+Ich tu's, und wirklich ist bald zwischen uns ein Gespr�ch im Gange,
+wie zwischen alten Bekannten, obwohl wir's, wie ich denn doch merke,
+nicht sind.  Wir sprechen �ber allerlei Ungl�cksf�lle, wie sie sich
+zutragen; ich erz�hl' ihm von einigen, die sich im letzten Jahr
+erhenkten und sonst entleibten; dann kommen wir aufs Einschlagen des
+Blitzes bei Gewittern und darauf, da� solch ein Feuer gar nicht zu
+l�schen ist.  "Ja," seufz' ich, "die Welt ist ein Jammertal, man mu�
+sich wundern, da� man bei all dem Elend doch �ber die Vierzig
+hinauskommt."--"Leute wie Ihr," entgegnet er, "k�nnen's wohl
+aushalten; denn, wie das Sch�fchen auch sei, ist's nur ins Trockne
+gebracht, so gibt's Milch und Wolle, aber unsereiner--" Nichts ist
+mir verdrie�licher, als wenn man mich f�r einen Gl�ckspilz h�lt, f�r
+ein Sonntagskind, dem jeder Wind in die Segel weht; unmutig
+unterbrech' ich den Fremden durch die Frage, wer und was er denn sei.
+"Ich bin Kammerj�ger," versetzt er mit unbeschreiblicher
+Aufrichtigkeit, "und also in jetzigen Zeiten, wo das Ungeziefer so
+schl�frig und langsam heckt, als ob sich's erst trauen lassen m��te,
+wie verliebte Menschen, von Haus aus ein geschlagener Mann."  Auf
+Kammerj�ger hab' ich von jeher wenig gehalten, zumal auf solche, die,
+wenn sie einem anst�ndigen B�rger begegnen, statt die Augen dem�tig
+niederzuschlagen, ihn frech anstieren und wohl gar gr��en, ja, einen
+Diskurs ankn�pfen, ich hab' sie eigentlich mehr verachtet, als
+Bettelv�gte; solch eine Antwort, die ein Prinz, der sich zu erkennen
+gibt, nicht zuversichtlicher h�tte vorbringen k�nnen, mu�te mich also
+billig befremden.  "Wagen sich Leute der Art ins "Goldenen Schaf?"
+denk' ich und werfe auf den Fremden, der ruhig, als ob noch alles
+zwischen uns beim alten w�re, seine Pfeife ausklopft, einen Blick,
+wie etwa unser Amtmann auf mich, wenn er an mir vorbeireitet.  Doch
+sag' ich zu mir selbst: "La� den Menschen heut abend den
+Standesunterschied nicht empfinden; morgen, wenn er die Rattenjagd
+anstellt, wei� er sich ohnehin zu bescheiden."--"Nun, was sagt Ihr zu
+meinem Metier?" fragt er dann.  "Beneidenswert ist's wohl nicht,"
+erwidere ich, "aber vermutlich hat's Euch am Heiraten verhindert, und
+das ist doch auch f�r etwas anzuschlagen."--"Dr�ckt Euch der Schuh da,"
+versetzt er h�hnisch, "nun, das ist das Schicksal in Mausgestalt.
+"--"Narr!" h�tt' ich ihm gern grob geantwortet, "versuch's erst
+einmal, wie ich, dreiundzwanzig Jahre, dann rei�' elende Witze!"
+Doch unterlass' ich's; denn man mu� sich gegen Fremde nie zu weit
+herauswagen.  "Wenigstens denk' ich," f�hrt er fort, "ein Ungl�ck,
+das den Menschen zum Kapaun herausf�ttert, kann so gro� nicht sein."
+Dabei streicht er mir mit unangenehmer Zudringlichkeit �ber den Bauch.
+Gereizt versetz' ich: "Eben darin kann das Ungl�ck liegen; meint
+Ihr, da� ein Mann, der durch Schl�ge fett wird, sich �ber seine
+niedertr�chtige Natur freut?  Zum Teufel! ist's denn unversch�mt,
+wenn man f�r ewiges Plagen, f�r �rger und Verdru� ohn' Ende, ein
+sieches, Mitleid erregendes Gesicht und einen bauf�lligen K�rper
+verlangt, der einen nicht durch h�mische Dicke L�gen straft, sobald
+man einmal das Herz aussch�tten will?  Ich frage noch einmal, ist's
+unversch�mt?"--"Ist Euch das Weib zuwider," gibt er zur Antwort, "so
+schafft's ab.  Pa!"  Dabei jagt er den Dampf durch die Pfeife, da� er
+bald mit seinen gelben Katzenaugen dasitzt, wie ein Hexenmeister,
+wenn er den B�sen beschw�rt.  Ich entgegnete: "Wenn Euer Hund
+da"--ich zeigte auf seinen gro�en, schwarzen, mit langen Zottelhaaren,
+der sich mir mit einer Frechheit, als ob er auch Kammerj�ger w�re,
+gerade vor die F��e gelegt hatte--"bissig ist, so k�nnt ihr ihn
+fortjagen, aufh�ngen, ers�ufen; so ist's aber in Christenlanden nicht
+mit Ehefrauen."--"H�rt, lieber Mann," sagt er mit geheimnisvollem
+Gesicht und greift nach meiner Hand, die ich ungl�cklicherweise aus
+der Tasche gezogen, "Euch ist zu helfen, n�mlich, wenn Ihr Mut habt."
+Der Teufel hat Mut genug, einzugestehen, da� er keinen hat.  Ich
+bejah' es nicht direkt, aber ich werfe mich in die Brust, trommle auf
+den Tisch und zwinge mir einige verwegene Blicke ab.  "An gewissen
+grauen Pulvern, die ich bei mir f�hre," fl�stert er mir nun mit
+schrecklicher Stimme ins Ohr, "verrecken nicht blo� Ratten."  Er
+nickt mir zu und dr�ckt mir, als ob sich jetzt alles andere von
+selbst verst�nde, die Hand; weniger aus Verwirrung, als aus Angst vor
+dem furchtbaren Menschen, nick' ich auch und erwidere den Druck.
+"Wir sind also einig," sagte er dann, "nun aber auch keine Silbe mehr,
+Meister Schnock!" leider hatt' ich ihm meinen Namen vorher schon
+verraten; "solche Gesch�fte", entsetzlich klang mir das Wort, und der
+greuliche Mensch lachte dabei, als h�tte er nicht einen
+Vergiftungsplan, sondern einen Spa� gemacht, "lassen sich nicht in
+Wirtsh�usern weitl�ufig besprechen, morgen in der Fr�he komm' ich zu
+Euch.  Gute Nacht!"  Er steht auf und taumelt.  "Gott im Himmel!"
+denk' ich, "besoffen ist der Kerl auch--" allerdings war's kein
+Wunder; denn solange er neben mir sa�, hatte er ununterbrochen
+getrunken--"noch ein Glas--" eben bemerk' ich, da� er sich's
+einschenken l��t--"so l�uft's �ber, dann hat er, im Rausch geht's
+nicht anders, gerade so viel Freunde um sich, als Menschen, und das
+erste, was er ausschwatzt, ist der Vergiftungsplan."  Richtig ger�t
+er gleich mit dem Wirt in ein Gespr�ch; mich schaudert.  Er l��t was
+fallen von Krepieren; eiskalt �berl�uft's mich.  Der Wirt schiebt
+sich die Nachtm�tze weiter ins Gesicht und spricht von Gefahr; "nun
+ist's heraus!" denk' ich und sp�re schon was von Kopfabschlagen im
+Nacken.  Pl�tzlich klingen Himmelst�ne durch von Ratten und von
+Speisekammer; da wird's mir klar, da� bis jetzt nicht von meiner Lene,
+sondern vom Ungeziefer des "Goldenen Schafs" die Rede gewesen ist;
+unwillk�rlich falt' ich die H�nde, aber gleich darauf fordre ich
+gebieterisch ein Glas Wein, um die verf�nglichen Konferenzen zwischen
+dem Wirt und dem Fremden durch einen Gewaltstreich abzubrechen.  Der
+Wirt bringt mir hurtig den Wein: tierisch voll taumelt der Fremde,
+ungeschickt mit dem Arm gegen den T�rpfosten rennend, fort, ohne sich,
+als ob er mich schon v�llig vergessen h�tte, nach mir umzusehen.  Er
+hatte mich vergessen; denn am andern Morgen kam er nicht, und schon
+am Mittag ward er zu meiner Satisfaktion wegen seiner miserablen
+Hantierung und wegen Mangels an Pa� und aller sonstigen Legitimation,
+die unsere Polizei mit Recht von Kammerj�gern fordert, aus dem Ort
+gebracht.  �brigens h�tt' ich, wenn er auch nicht ausgeblieben w�re,
+meiner stillschweigenden Zusage ungeachtet, nimmermehr zur Mordtat
+die Hand geboten, und ihm das zu verstehen gegeben; wer wird denn
+auch seine Frau umbringen, blo�, weil er es einem Rattenf�nger
+versprochen hat!
+
+Ich habe es nicht gesagt, weil es sich von selbst versteht, da� die
+Sparsamkeit meines Weibes mit den Jahren zunahm, so da� sie zuletzt
+in jenen Geiz, der sich sein eigenes Fett nicht g�nnt, ausartete.
+Der Wendepunkt trat ein, als sie, die immer gern geputzt ging, mir
+zum erstenmal das Anschaffen eines neuen Oberrocks, den ich ihr sonst
+regelm��ig zu Weihnachten verehren mu�te, verbot.  "Du kannst mir
+eine andere Weihnachtsfreude machen," sagte sie heimt�ckisch,
+"dadurch n�mlich, da� du mir die kleine Pfeife schenkst, deren du
+dich in der Werkstatt bedienst."  Will sie zu rauchen anfangen?
+dachte ich zuerst, und freute mich schon, in ihr einen Konsorten zu
+gewinnen; konnte sie doch mein Rauchvergn�gen nicht mehr unn�tze
+Verschwendung schelten, wenn sie selbst es teilte.  Doch kam mir dies
+bald unwahrscheinlich vor, da mir ihre durch Keifen und Schm�len
+ruinierten Lungen einfielen, sie auch niemals, ausgenommen bei
+Zahnweh, mit Pfeife und Tabak in Verbindung getreten war.  "Was kann
+sie denn mit der alten, halb zerbrochnen Pfeife wollen?" fragte ich
+mich, "w�r's noch die mit dem Meerschaumkopf und dem Silberbeschlag,
+die du Sonntags tr�gst, aber dies elende Ding--" Ich sch�me mich, zu
+gestehen, welch t�richter Einfall jetzt pl�tzlich meine Gedanken
+unterbrach.  "Ei, ei," dachte ich, "sie ist doch wahrhaftig nicht so
+ganz �bel, deine Frau; wer h�tte ihr solche Aufmerksamkeit zugetraut!"
+Ich glaubte allen Ernstes--wie war's m�glich? frag' ich mich
+selbst, indem ich's erz�hle, und schabe mir R�bchen--da� sie mir auch
+einmal eine Freude machen und mich am Weihnachtsabend mit einer
+Pfeife anbinden wolle.  Der heilige Abend kam heran, die beiden
+feierlichen Wachskerzen, die wir dem Erl�ser zu Ehren zu verbrennen
+pflegten, wurden angesteckt, der Rosinenpudding, nebst dem mit
+Lorbeerbl�ttern aufgeputzten Schweinekopf, ward auf den Tisch
+gestellt; im Hintergrund drohte schon die gro�e, unh�fliche, dick mit
+Eisen und Messing beschlagene Postille, die mir einmal, als ich noch
+ein Kind war, fast den Kopf zerschmettert h�tte, indem das Unget�m
+ungeschlacht vom Schrank herunterplumpte, und aus der Lene mir jetzt
+an hohen Festtagen gerne vorlas, teils um mich am Ausgehen zu
+verhindern, mehr aber noch, um Gelegenheit zu haben, mir unter dem
+Deckmantel eines l�ngst vermoderten geistlichen Herrn allerlei
+Beleidigungen und Geh�ssigkeiten, die keineswegs im Buche standen, zu
+sagen.  Bevor wir uns zum Essen niedersetzten, nahm ich meine Pfeife,
+legte sie, einen Bogen wei�es Papier unterbreitend, auf einen Teller
+und �berreichte sie mit einigen scherzhaften Redensarten meiner Frau.
+"Gut!" sagte sie, zerbrach die Pfeife und ward die St�cke gelassen
+aus dem Fenster.  Statt aber mit dem erwarteten Gegengeschenk
+herauszur�cken, machte sie mich darauf aufmerksam, da� ich von jetzt
+an w�chentlich zwanzig Kreuzer an Tabak ersparen werde.  "Und was
+sollen denn die zwanzig Kreuzer?" fragte ich giftig.  "Was sie
+sollen?" versetzte sie, "dadurch, da� sie da sind, erf�llen sie ihren
+Zweck, und um so besser tun sie das, je l�nger sie bleiben!"--"Ich
+sollte also nicht mehr rauchen?" fuhr ich auf.  "Nein," erwiderte sie,
+"das hei�t, du sollst dir nicht mutwillig die Schwindsucht zuziehen,
+und f�r den Fall, da� du sie schon h�ttest, wird uns �ber kurz oder
+lang deine Ersparnis trefflich zustatten kommen, dich davon heilen zu
+lassen.  Glaubst du etwa, da� der Doktor dir die mit Dampf
+zerblasenen Lungen umsonst flickt?"  Ich sagte nichts weiter, aber
+mein Entschlu� war gefa�t; und h�tte ebenso leicht aufs Atemholen,
+als aufs Rauchen Verzicht leisten k�nnen; denn f�r den Raucher ist
+die leidige frische Luft ungenie�bar, er mu� sich das flaue,
+n�chterne Element erst mit Dampf w�rzen, wenn es ihn nicht anekeln
+soll.  Ich trug daher am Morgen stillschweigend meine Sonntagspfeife,
+die prunkend unter dem Spiegel hing, in die Werkstatt hinunter und
+erkl�rte meinem erstaunten Weibe, da� ich diese solange mit der
+h�chsten Unbarmherzigkeit strapazieren werde, bis sie mir eine
+weniger kostbare Stellvertreterin anschaffe.  Mitleid mit dem
+Silberbeschlag und den Bernsteintroddeln des Prachtst�cks bewogen sie
+zur Nachgiebigkeit, doch gewann sie durch ihre List so viel, da� ich
+versprach, mich an den Wochentagen mit einer billigeren Sorte Tabak
+begn�gen zu wollen.  So war sie denn in allen Dingen.  Wollte ich zum
+Beispiel einen Lehrjungen einstehen lassen, so ward er vorher bei uns
+zu Tisch gebeten, nicht, wie es schien, aus Generosit�t, sondern nur,
+um seinen Appetit auf die Probe zu stellen.  Fand der junge Mensch
+ungl�cklicherweise sein Leibgericht vor, oder hatte er etwa einen
+Marsch gemacht und konnte f�r zwei Personen essen, so durfte ich ihn
+gewi� nicht annehmen; "wer setzt sich denn," sagte Lene, "selbst den
+Krebs in sein Fleisch?"  Bei solchen Gelegenheiten trug sie ihr
+Bestes auf und legte eifrig vor; ich dagegen, der das schlaue Man�ver
+kannte, spielte das Mitglied eines M��igkeitsvereins, machte auf das
+Sch�dliche dieser oder jener Speise aufmerksam und warnte vor
+�berladung, so da� die Uneingeweihten sie f�r die Gastfreiheit selbst,
+mich f�r den Neidhard halten mu�ten.  Das L�cherlichste aber war
+wohl, da� sie sogar ihre Freundschaft und Liebe streng nach dem Grade
+der E�lust und des Verdauungsverm�gens ihrer Freunde und Verwandten
+abma�.  Klagte jemand �ber seinen schwachen Magen, wies er alles
+zur�ck, ausgenommen ein Glas Wasser und den Fidibus, so wu�te sie
+nicht zutulich genug zu tun; "ach," hie� es dann, "welch ein
+honoriger Mensch, wie wird er doch liebensw�rdiger mit jedem Tage!"
+War das Gegenteil der Fall, glaubte einer ein Gericht nicht besser
+loben zu k�nnen, als indem er zweimal davon nahm, so war er ein
+Subjekt ohne Lebensart, ein Kerl, der aus Schlund und Magen
+zusammengesetzt sei, wie andere aus Leib und Seele.  Mit ihrer
+einzigen Jugendfreundin, einer G�rtnersfrau, die uns alle Sonntage
+besuchte, stand sie im Begriff, auf immer zu brechen, blo�, weil
+diese an der Auszehrung litt, und sch�chtern, so wie ihre Krankheit
+zunahm, von drei Tassen Kaffee und einem Zwieback, womit sie sich
+anfangs begn�gte, bis zu sechs Tassen Kaffee und drei Zwieb�cken
+aufstieg; um einen Grund zu bekommen, stellte sie sich eifers�chtig
+auf die ledernd�rre Todesbraut, eifers�chtig n�mlich--ich mu� dies
+wohl hinzuf�gen--wegen meiner.  Die Person starb noch zur rechten
+Zeit, kurz vor Ausbruch des Ungewitters, das sie bedrohte, sonst
+w�rde sie's erlebt haben, da� man ihre Todesseufzer f�r verliebte und
+ihre Schwindsucht f�r ein Sehnsuchtsfieber ausgegeben h�tte.
+Nat�rlich hatte von diesem Geiz niemand mehr zu leiden als ich, und
+was mich am meisten verdro�, war, da� er mit unserer Wohlhabenheit
+zunahm, da� das Essen, je mehr ich verdiente, um so schlechter wurde.
+"Wir haben nicht Kind noch Rind," sagte ich einst, durch eine
+Wassersuppe aufgebracht, zu ihr, "was wir hinterlassen, kommt an
+wildfremde Menschen, ich begreife dein Knickern, dein Schinden und
+Schaben nicht."--"Was?" versetzte sie lebhaft, "ist's denn keine Ehre
+f�r uns, wenn die Herren vom Gericht nach unserem Tode mit
+Verwunderung und Respekt in ihr Inventarienbuch schreiben: Der
+Silberschrank war so wohl versehen, da� auch kein L�ffelstiel mehr
+hineinging, an Leinenzeug fand sich mehr vor, als die seligen
+Eheleute Christopher und Magdalena Schnock in drei�ig Jahren h�tten
+auftragen k�nnen, der Schornstein wollte bersten, so voll hing er von
+W�rsten und Schinken?  Ist das nicht eine Nachrede, die uns noch im
+Himmel freuen, ja, in der H�lle tr�sten mu�?  Oder m�chtest du, da�
+es von dir hie�e: Man kann den Hungerleider noch im Grabe pf�nden,
+wenn man will; denn der Sarg ist nicht bezahlt, er hat sich aus der
+Welt gestohlen, wie ein Dieb aus dem Gef�ngnis, niemand kommt zu dem
+Seinigen, als etwa der Kirchhofwurm, wenn er sein
+Bankrottiererfleisch nicht verschm�ht!"  Sie beklagte es, da� wir
+nicht katholisch waren, blo� der vielen Fasttage wegen; "in dem
+Glauben", sagte sie, "k�nnen Leute doch was vor sich bringen, die
+Religion selbst bringt das Sparen mit sich, und naseweise Gesellen
+d�rfen sich nicht mokieren, wenn der Tisch nicht immer unter Fleisch
+brechen will."  Ja, sie ging zuletzt soweit, da� sie ihre
+�konomischen R�cksichten auf meinen eigenen K�rper ausdehnte und mir
+die unn�tze Anstrengung desselben, wie sie sich ausdr�ckte, verbot,
+mir zum Beispiel die Erf�llung der ehelichen Pflichten nur selten
+verstattete; vermutlich, weil sie die Kosten einer Umarmung nach
+Heller und Pfennig abzusch�tzen verstand und weil sie nun kalkulierte,
+da� ich meine Kr�fte n�tzlicher und fruchtbringender im Handwerk
+anlegen k�nne, als in der Liebe.  Es war daher gewi� kein Wunder,
+wenn ich sie auf alle Art zu betr�gen und zu hintergehen suchte, doch
+gl�ckte mir dies meistens nur bis zu dem Punkt, wo ich die Absicht
+nicht mehr leugnen konnte, wo mir die Frucht meiner List aber dennoch
+schm�hlich entging.  Ich betrachte jedes Ungl�ck, wovon ich h�re, als
+einen n�heren oder entfernteren Verwandten, als einen Vetter von mir,
+der �ber kurz oder lang bei mir einsprechen wird; ich habe Stunden,
+wo ich ordentlich dar�ber erstaune, da� ich noch keine greuliche
+Missetat begangen habe, die mich dem Halsgericht �berantwortet; hat
+man doch Exempel, da� einer morgens unschuldig wie ein Kind aufsteht,
+und abends blutbespritzt wie ein bayrischer Hiesel zu Bette geht.
+Was hilft alle Vorsicht!  Vorsicht ist der Ball, womit das Schicksal
+spielt.  Der Teufel ist allenthalben, nur da nicht, wo man ihn sucht.
+Wer sollte glauben, da� ich das �rgste, was mir bis jetzt begegnet
+ist, in meiner eigenen Speisekammer erleben mu�te?  Doch war es der
+Fall!
+
+Aus Leckerei entschlo� ich mich eines Abends, mich selbst, meinen
+eigenen Haushalt, zu bestehlen.  Wir hatten n�mlich unser Schwein
+eingeschlachtet, und es waren treffliche W�rste gemacht worden.  Von
+diesen W�rsten erhielt ich so viel als n�tig war, um in mir den
+unb�ndigsten Wunsch noch mehr zu erregen; dann mu�te ich selbst sie
+in die Speisekammer tragen und sie dort so hoch aufh�ngen, als ob sie
+niemals wieder heruntergenommen werden sollten.  Das Fenster der
+Speisekammer ging auf die Stra�e hinaus, unvermerkt klinkte ich es
+auf, ohne noch selbst zu wissen, weshalb.  Die Nacht brach herein,
+und eine Pfanne voll magerer Kartoffeln, die mir vorgesetzt wurde,
+als ich zum Essen in die Stube kam, machte mich vollends desperat.
+"Der Teufel soll sie holen!" brauste ich auf, ich meinte die
+Kartoffeln.  "Wen denn?" fragte Lene, ihren langen G�nsehals hinter
+dem Ofen hervorstreckend.  "Die Zahnschmerzen!" versetzte ich, legte
+meine Gabel nieder und dr�ckte ein Tuch an die Backen.  Bald darauf
+stahl ich mich aus der T�r und umschlich leise und behutsam mein Haus.
+Es war finster genug, dicke Regenwolken verschluckten das sparsame
+Licht des Mondes, der verdrie�lich hin und wieder aufd�mmerte.  Kaum
+h�rte ich das Spinnrad meines Weibes schwirren, da stie� ich das
+Fenster der Speisekammer von au�en auf und schwang mich mit einer
+Geschicklichkeit, als ob ich seit drei�ig Jahren praktizierender Dieb
+gewesen w�re--Angst vor Ertappung gab sie mir--hinein.  "Guten Abend!"
+ruft mir auf einmal mit hohler Stimme einer nach.  "Still, still,
+um's Himmels will, still!" wisperte ich.  "Sei unbesorgt, Kamerad,"
+wird mir geantwortet, "aber hilf mir, da� ich auch hineingelange, das
+Fenster ist verdammt hoch."  Was sollte ich tun?  Sollte ich L�rm
+machen und mich von Kindern und Erwachsenen als einen Menschen, der
+bei sich selbst auf Diebereien ausgeht, verspotten lassen?  Oder
+sollt' ich den Unbekannten, wie er's verlangte, zu mir hereinziehen,
+um ihn dann im Finstern durch g�tliche Vorstellungen zu bewegen,
+wieder hinauszusteigen?  Ich wei� noch nicht, was ich h�tte tun
+sollen; meine Hand war eilfertiger als mein Kopf, sie ergriff, ohne
+auf h�here Order zu warten, instinktm��ig die Faust, die sich ihr
+entgegenstreckte, und zog den Kerl, dem dieselbe angeh�rte, herein.
+"Merkw�rdiges Zusammentreffen!" sagte dieser und tappte herum.
+"Allerdings!" erwiderte ich mit einem Seufzer.  "Ich hatte dem dicken
+Schnock auch einen Besuch zugedacht," f�hrt er fort, "und wollte nur
+erst das Ausl�schen des Lichts abwarten, da sah ich dich das Fenster
+�ffnen.  Wie konntest du dies nur bewerkstelligen, ohne vorher eine
+Scheibe zu knicken?"--"Das ist ein Geheimnis!" versetzte ich
+z�hneklappernd.  "Was du mir mitteilen mu�t," f�llt er rasch ein,
+"ich will dir daf�r eine neue Art Handschellen zu zerbrechen lehren.
+Wo hast du studiert?"--"Studiert?" frage ich.  "Ja, auf welcher
+Ohnversit�t, in welchem Zuchthaus, meine ich?"--"Ich sa� noch nicht
+in Zuchth�usern!" antworte ich.  "Ungl�ckseliger!" versetzt er, "so
+bist du noch nicht ein einziges Mal absolviert, schleppst dich noch
+mit allen deinen S�nden herum?  Mich hat die Justiz schon dreimal
+rein gewaschen und neu frisiert.  Was hast du denn alles auf'm
+Herzen?  Ist etwas von Erheblichkeit, ein Mord, oder so was,
+darunter?  Oder hast du deine Tugend f�r nichts und wieder nichts
+hingegeben?"--"Mensch, du sprichst, als ob du der Teufel selbst w�rst!"
+sto�' ich vor Entsetzen hervor.  "Wer sagt dir, da� ich's nicht
+bin?" sagt er mit einem Ernst, der mich im ersten Augenblick
+schaudern macht, "wahrlich, ich sage dir, ich bin der Teufel und ich
+will dir etwas vertrauen.  Vor drei Monaten--" Mir wird bei diesen
+l�sterlichen Redensarten gr��lich zumut, in der Ferne h�re ich den
+Nachtw�chter, auch kl�rt der Himmel sich auf, so da� der erste
+Vor�bergehende das Offenstehen des Fensters bemerken mu�; rasch, ehe
+der unheimliche Mensch sich dessen versieht, springe ich hinaus, beim
+Sprung kommt mir aber die Zunge zwischen die Z�hne und ich zerbei�e
+sie derma�en, da� Blut l�uft und ich mich vor Schmerz nicht zu lassen
+wei�.  Ich rei�e die T�r auf und st�rze mit dem lauten Geschrei:
+"Diebe, Diebe in der Speisekammer!" in mein Haus.  Meine Frau, nebst
+meinem Gesellen--es war der gr��te, den ich jemals hatte, ein Mensch,
+der sich, wie er sagte, vor niemand f�rchtete als vor sich selbst,
+vor seiner eigenen Wut n�mlich--eilen schlaftrunken mit einem Licht
+auf die Speisekammer zu, ich--der Spitzbube, der sich f�r den Teufel
+ausgab, konnte in mir unm�glich den Konsorten erkennen, weil wir ja
+nur in der dicksten Finsternis Vertraute geworden waren--folgte ihnen
+mit einem Besenstiel.  Wir finden nichts drinnen, keinen Dieb, aber
+auch keine W�rste; Lene taumelt mir ohnm�chtig in die Arme--nur
+Ohnmachten trieben sie noch zuweilen hinein--mein Gesell nimmt, dir
+f�rchterlichsten Fl�che aussto�end, die allgemeine Verwirrung wahr
+und bringt ein St�ck Speck auf die Seite, was mir freilich nicht
+entging, was ich dem Riesen jedoch hingehen lie�.  Was geschieht am
+andern Morgen?  Ein Knurren, Bellen und Bei�en wie von zwanzig Hunden
+treibt mich vor der Zeit aus dem Bett; ich �ffne das Fenster und sehe,
+da� s�mtliche W�rste, zu einer Art von Kranz ineinander verschr�nkt,
+vor unserer T�r aufgeh�ngt sind, und da� die durch den leckeren
+Geruch herbeigelockten K�ter, springend und einer den andern giftig
+beim Schwanz zur�ckzerrend, sich umsonst bem�hen, eine oder einige
+davon zu erlangen.  Ein solcher Ausgang war nun zwar erfreulich, aber
+noch mehr unbegreiflich.  Ein paar Tage sp�ter erfuhr ich indes, da�
+ein �belt�ter aus unserem Ort wegen Wahnsinns aus dem Zuchthaus in
+die Irrenanstalt abgef�hrt, seinen W�chtern unterwegs entsprungen und
+erst nach l�ngerer Zeit wieder eingefangen worden sei.  Ohne Zweifel
+hatte ich die Bekanntschaft dieses Verr�ckten in meiner Speisekammer
+gemacht.
+
+
+
+
+Drittel Kapitel
+
+Zum Schlu�
+
+Der Morgen war angebrochen, der Wagen stand vor der T�r, reisefertig
+trat ich in das Gastzimmer, um von Schnock, der schon des Fr�htrunks
+wegen gekommen war, Abschied zu nehmen.  Schnock sa� am Tisch und
+hatte mehrere leere und noch mehr volle Flaschen, sowie ein derbes
+Gabelfr�hst�ck vor sich stehen; ihm gegen�ber sa� mein Wirt, der
+lange, d�rre Postmeister, sich auffallend beeifernd, seinen Gast
+durch Anekdoten und muntere Geschichten zu erg�tzen.  Da war kein
+J�gerst�ckchen, kein Witzwort vom kleinen Korporal oder vom alten
+Fritz, das nicht vorgebracht wurde, ja, der Postmeister begn�gte sich
+nicht, blo� sein Ged�chtnis zu martern, er war unbarmherzig genug
+gegen sich selbst, seine eigene Phantasie Peitsche und Sporen kosten
+zu lassen, um ihr dies oder jenes Geistreiche abzujagen.  Aber
+Schnock, der sonst so leicht und so gern lachte, verzog diesmal keine
+Miene und gab keinen Laut von sich; er sch�ttelte nur zuweilen, wenn
+der Postmeister recht ansetzte, ver�chtlich den Kopf, oder stie�
+einen Seufzer aus, und wenn er den Mund auftat, so geschah es einzig
+und allein, um ein St�ck Fleisch oder etwas �hnliches hineinzustecken.
+"Trinkt doch, trinkt!" sagte der Postmeister hitzig, "und dann
+kn�pft die Ohren auf, jetzt will ich Euch eine Schnurre erz�hlen, die
+noch von meinem Gro�vater herr�hrt.  Nicht dar�ber lachen, hei�t den
+seligen Mann noch im Grab beleidigen; ich m�chte der Schlingel nicht
+sein, der das t�te; denn mein Gro�vater verdient Achtung, er war
+Schulmeister, und wenn einer von uns rechnen und schreiben kann, so
+hat er's von ihm gelernt."  Die Schnurre war wirklich lustig, dennoch
+hielt Schnock an sich, obgleich sein Gesicht bersten wollte.  "Sch�mt
+Ihr Euch nicht?" sagte der Postmeister; "f�r den Herrn Dr.", er
+deutete auf mich, "war das Ding gut genug, um dar�ber zu lachen, und
+Ihr sitzt wie ein Klotz?  Der Teufel soll mich holen, wo ich mit Euch
+wieder eine Wette eingehe!"--"Worin besteht denn die Wette?" fragte
+ich neugierig.  "Werdet Ihr so unh�flich sein, die Frage des Herrn Dr.
+unbeantwortet zu lassen?" sagte der Postmeister lebhaft zu Schnock;
+dieser aber sah mich an, legte den Finger auf den Mund und verharrte
+in Stillschweigen.  "Nun," versetzte ich gleichg�ltig, "in
+Geheimnisse will ich nicht eindringen, lebt wohl, Meister Schnock!"
+Schnock stand auf und ergriff meine ihm dargebotene Hand, sie
+herzhaft dr�ckend; dann nahm er das St�ck Kreide, dessen sich die
+Billardspieler zu bedienen pflegten, und schrieb damit auf den Tisch,
+da� er mir eine gl�ckliche Reise w�nsche.  "Ist der Mann stumm
+geworden?" fragte ich, aus der T�r tretend, den mich begleitenden
+Postmeister.  "Nichts weniger als das, purer Egoismus!" erwiderte der
+Postmeister.  "Wieso?" fragte ich stutzend.  "Er will umsonst bei mir
+essen und trinken," gab der Postmeister zur Antwort, "darum spielt er
+den Stummen.  Ich mu� ihm heute n�mlich, so haben wir gestern zur
+Nacht im Rausch gewettet, das beste aus K�che und Keller so lange
+unentgeltlich aufsetzen, bis er sich zum Lachen oder Sprechen
+hinrei�en l��t.  Lacht er oder spricht er ein Wort, so mu� er--hierin
+liegt mein Vorteil--alles doppelt bezahlen; h�lt er an sich, nun
+freilich, dann wei� ich, wer sich noch heut Abend Haare aus dem Kopf
+rei�t und mit dem Sch�del gegen die Wand rennt.  Aber, er mag sich
+h�ten!  Ich erlaube mir gegen ihn, was mir einf�llt, und an Kniffen
+und R�nken fehlt's keinem aus meiner Familie.  Ich will ihn schimpfen,
+bis er vor �rger braun und blau wird, wie ein Kapaun; ich will
+dritte Personen herbeirufen und Schandgeschichten von ihm erz�hlen,
+denen er Widerspruch entgegensetzen mu�, wenn er nicht will, da� alle
+Welt sie glauben soll; ich will Pistolen hinter seinem R�cken
+abfeuern; ich will seiner Frau, die wohl von der Wette nichts wei�,
+anzeigen, da� er bei mir schlemmt, damit ihm diese �ber den Hals
+komme, ich will mich stellen, als ob ich mich umbringen wollte; ich
+will--"
+
+Mein Wagen fuhr ab.
+
+
+
+
+
+Ende dieses Project Gutenberg Etextes "Schnock" von Hebbel.
+End of The Project Gutenberg Etext of Schnock, by Friedrich Hebbel
+
